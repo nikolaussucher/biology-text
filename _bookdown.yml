@@ -1,0 +1,6 @@
+new_session: yes 
+rmd_files: [ "index.rmd",
+             "acknowledgements.Rmd"
+                         ]
+output_dir: docs
+before_chapter_script: "_common.R"
