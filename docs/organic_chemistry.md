@@ -1,0 +1,83 @@
+# Organic Chemistry For Biology
+
+Organic chemistry is a branch of chemistry that studies the structure, properties and reactions of organic compounds, which contain carbon in covalent bonding.[1] Study of structure determines their chemical composition and formula. Study of properties includes physical and chemical properties, and evaluation of chemical reactivity to understand their behavior. The study of organic reactions includes the chemical synthesis of natural products, drugs, and polymers, and study of individual organic molecules in the laboratory and via theoretical (in silico) study.
+
+Organic compounds form the basis of all earthly life and constitute the majority of known chemicals. The bonding patterns of carbon, with its valence of four—formal single, double, and triple bonds, plus structures with delocalized electrons—make the array of organic compounds structurally diverse, and their range of applications enormous. They form the basis of, or are constituents of, many commercial products including pharmaceuticals; petrochemicals and agrichemicals, and products made from them including lubricants, solvents; plastics; fuels and explosives. The study of organic chemistry overlaps organometallic chemistry and biochemistry, but also with medicinal chemistry, polymer chemistry, and materials science.[1]
+
+The range of chemicals studied in organic chemistry includes hydrocarbons (compounds containing only carbon and hydrogen) as well as compounds based on carbon, but also containing other elements,[1][2][3] especially oxygen, nitrogen, sulfur, phosphorus (included in many biochemicals) and the halogens. Organometallic chemistry is the study of compounds containing carbon–metal bonds.
+
+Before the nineteenth century, chemists generally believed that compounds obtained from living organisms were endowed with a vital force that distinguished them from inorganic compounds. According to the concept of vitalism (vital force theory), organic matter was endowed with a "vital force".[4] During the first half of the nineteenth century, some of the first systematic studies of organic compounds were reported. Around 1816 Michel Chevreul started a study of soaps made from various fats and alkalis. He separated the acids that, in combination with the alkali, produced the soap. Since these were all individual compounds, he demonstrated that it was possible to make a chemical change in various fats (which traditionally come from organic sources), producing new compounds, without "vital force". In 1828 Friedrich Wöhler produced the organic chemical urea (carbamide), a constituent of urine, from inorganic starting materials (the salts potassium cyanate and ammonium sulfate), in what is now called the Wöhler synthesis. Although Wöhler himself was cautious about claiming he had disproved vitalism, this was the first time a substance thought to be organic was synthesized in the laboratory without biological (organic) starting materials. The event is now generally accepted as indeed disproving the doctrine of vitalism.[5]
+
+In 1856 William Henry Perkin, while trying to manufacture quinine accidentally produced the organic dye now known as Perkin's mauve. His discovery, made widely known through its financial success, greatly increased interest in organic chemistry.[6]
+
+A crucial breakthrough for organic chemistry was the concept of chemical structure, developed independently in 1858 by both Friedrich August Kekulé and Archibald Scott Couper.[7] Both researchers suggested that tetravalent carbon atoms could link to each other to form a carbon lattice, and that the detailed patterns of atomic bonding could be discerned by skillful interpretations of appropriate chemical reactions.[8]
+
+The era of the pharmaceutical industry began in the last decade of the 19th century when the manufacturing of acetylsalicylic acid—more commonly referred to as aspirin—in Germany was started by Bayer.[9] By 1910 Paul Ehrlich and his laboratory group began developing arsenic-based arsphenamine, (Salvarsan), as the first effective medicinal treatment of syphilis, and thereby initiated the medical practice of chemotherapy. Ehrlich popularized the concepts of "magic bullet" drugs and of systematically improving drug therapies.[10][11] His laboratory made decisive contributions to developing antiserum for diphtheria and standardizing therapeutic serums.[12]
+
+Early examples of organic reactions and applications were often found because of a combination of luck and preparation for unexpected observations. The latter half of the 19th century however witnessed systematic studies of organic compounds. The development of synthetic indigo is illustrative. The production of indigo from plant sources dropped from 19,000 tons in 1897 to 1,000 tons by 1914 thanks to the synthetic methods developed by Adolf von Baeyer. In 2002, 17,000 tons of synthetic indigo were produced from petrochemicals.[14]
+
+In the early part of the 20th century, polymers and enzymes were shown to be large organic molecules, and petroleum was shown to be of biological origin.
+
+The multiple-step synthesis of complex organic compounds is called total synthesis. Total synthesis of complex natural compounds increased in complexity to glucose and terpineol. For example, cholesterol-related compounds have opened ways to synthesize complex human hormones and their modified derivatives. Since the start of the 20th century, complexity of total syntheses has been increased to include molecules of high complexity such as lysergic acid and vitamin B12.[15]
+
+The discovery of petroleum and the development of the petrochemical industry spurred the development of organic chemistry. Converting individual petroleum compounds into types of compounds by various chemical processes led to organic reactions enabling a broad range of industrial and commercial products including, among (many) others: plastics, synthetic rubber, organic adhesives, and various property-modifying petroleum additives and catalysts.
+
+The majority of chemical compounds occurring in biological organisms are carbon compounds, so the association between organic chemistry and biochemistry is so close that biochemistry might be regarded as in essence a branch of organic chemistry. Although the history of biochemistry might be taken to span some four centuries, fundamental understanding of the field only began to develop in the late 19th century and the actual term biochemistry was coined around the start of 20th century. Research in the field increased throughout the twentieth century, without any indication of slackening in the rate of increase, as may be verified by inspection of abstraction and indexing services such as BIOSIS Previews and Biological Abstracts, which began in the 1920s as a single annual volume, but has grown so drastically that by the end of the 20th century it was only available to the everyday user as an online electronic database.[16]
+
+## Biolmolecules
+
+A biomolecule or biological molecule is a loosely used term for molecules present in organisms that are essential to one or more typically biological processes, such as cell division, morphogenesis, or development.[1] Biomolecules include large macromolecules (or polyanions) such as proteins, carbohydrates, lipids, and nucleic acids, as well as small molecules such as primary metabolites, secondary metabolites and natural products. A more general name for this class of material is biological materials. Biomolecules are usually[citation needed] endogenous, produced within the organism[2] but organisms usually need exogenous biomolecules, for example certain nutrients, to survive.
+
+Biology and its subfields of biochemistry and molecular biology study biomolecules and their reactions. Most biomolecules are organic compounds, and just four elements—oxygen, carbon, hydrogen, and nitrogen—make up 96% of the human body's mass. But many other elements, such as the various biometals, are present in small amounts.
+
+The uniformity of both specific types of molecules (the biomolecules) and of certain metabolic pathways are invariant features among the wide diversity of life forms; thus these biomolecules and metabolic pathways are referred to as "biochemical universals"[3] or "theory of material unity of the living beings", a unifying concept in biology, along with cell theory and evolution theory.[4]
+
+A macromolecule is a very large molecule, such as protein, commonly composed of the polymerization of smaller subunits called monomers. They are typically composed of thousands of atoms or more. A substance that is composed of macromolecules is called a polymer. The most common macromolecules in biochemistry are biopolymers (nucleic acids, proteins, and carbohydrates) and large non-polymeric molecules (such as lipids and macrocycles),[1] synthetic fibers as well as experimental materials such as carbon nanotubes.[2][3]
+
+Macromolecules are large molecules composed of thousands of covalently connected atoms. Carbohydrates, lipids, proteins, and nucleic acids are all macromolecules. Macromolecules are formed by many monomers linking together, forming a polymer. Carbohydrates are composed of carbon, oxygen, and hydrogen. The monomer of carbohydrates are monosaccharides. There are three forms of carbohydrates: energy, storage, and structural molecules. A disaccharide is formed when a dehydration reaction joins two monosaccharides. Another type of macromolecules are lipids. Lipids are hydrocarbons that do not form polymers. Fats are constructed from glycerol and fatty acids. Phospholipids are commonly found in the phospholipid bilayer of membranes. They have hydrophilic heads and hydrophopic tails. A protein is another type of macromolecules. Amino acids are the monomers of proteins. Proteins have many different functions. There are proteins that are used for structural support, storage, transport, cellular communication, movement, defense against foreign substances, and more. Nucleic acids transmit and help express hereditary information. They are made up of monomers called nucleotides. Two types of nucleic acids are DNA and RNA.
+
+All living organisms are dependent on three essential biopolymers for their biological functions: DNA, RNA and proteins.[10] Each of these molecules is required for life since each plays a distinct, indispensable role in the cell.[11] The simple summary is that DNA makes RNA, and then RNA makes proteins.
+
+DNA, RNA, and proteins all consist of a repeating structure of related building blocks (nucleotides in the case of DNA and RNA, amino acids in the case of proteins). In general, they are all unbranched polymers, and so can be represented in the form of a string. Indeed, they can be viewed as a string of beads, with each bead representing a single nucleotide or amino acid monomer linked together through covalent chemical bonds into a very long chain.
+
+In most cases, the monomers within the chain have a strong propensity to interact with other amino acids or nucleotides. In DNA and RNA, this can take the form of Watson-Crick base pairs (G-C and A-T or A-U), although many more complicated interactions can and do occur.
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Macromolecule (Polymer) </th>
+   <th style="text-align:left;"> Building Block (Monomer) </th>
+   <th style="text-align:left;"> Joining Bond </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;width: 10em; "> Proteins </td>
+   <td style="text-align:left;width: 10em; "> Amino acids </td>
+   <td style="text-align:left;width: 10em; "> Peptide </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 10em; "> DNA </td>
+   <td style="text-align:left;width: 10em; "> Nucleotides (a phoshate, ribose, and a base- adenine, guanine, thymine, or cytosine) </td>
+   <td style="text-align:left;width: 10em; "> Phoshodiester </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 10em; "> RNA </td>
+   <td style="text-align:left;width: 10em; "> Nucleotides (a phoshate, ribose, and a base- adenine, guanine, Uracil, or cytosine) </td>
+   <td style="text-align:left;width: 10em; "> Phoshodiester </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 10em; "> Polysaccharides (carbohydrates) </td>
+   <td style="text-align:left;width: 10em; "> Monosaccharides </td>
+   <td style="text-align:left;width: 10em; "> Glycosidic </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 10em; "> Lipids </td>
+   <td style="text-align:left;width: 10em; "> unlike the other macromolecules, lipids are not defined by chemical Structure. Lipids are any organic nonpolar molecule. </td>
+   <td style="text-align:left;width: 10em; "> Some lipids are held together by ester bonds; some are huge aggregates of small molecules held together by hydrophobic interactions. </td>
+  </tr>
+</tbody>
+</table>
+
+
+
