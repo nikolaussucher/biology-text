@@ -1,4 +1,4 @@
-# Text for Genetics
+# Text for Biology
 
 This is an open source, open educational resource (OER) text that I am  developing for the Biollogy I (SCI103) and Biology II (SCI104) courses at [Roxbury Community College](http://www.rcc.mass.edu) in Boston, Massachusetts. 
 
