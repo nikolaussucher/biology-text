@@ -1,0 +1,563 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Text For Biology at Roxbury Community College},
+  pdfauthor={Assembled by Nikolaus Sucher},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{lscape}
+\usepackage{geometry}
+\usepackage[default]{cantarell} 
+\usepackage{fontspec}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{colortbl}
+\usepackage{siunitx}
+\usepackage{framed}
+\usepackage{xcolor}
+ \definecolor{shadecolor}{RGB}{248,248,248}
+\usepackage{grffile}
+\usepackage{graphicx}
+\usepackage{morefloats}
+\usepackage[bf,singlelinecheck=on]{caption}
+\usepackage{parskip}
+ \setlength{\parindent}{15pt}
+ % should be last package call in the preamble (?)
+ \usepackage{hyperref}
+  \urlstyle{same}
+
+\renewcommand{\textfraction}{0.05}
+\renewcommand{\topfraction}{0.8}
+\renewcommand{\bottomfraction}{0.8}
+\renewcommand{\floatpagefraction}{0.75}
+
+\renewenvironment{quote}{\begin{VF}}{\end{VF}}
+\let\oldhref\href
+\renewcommand{\href}[2]{#2\footnote{\url{#1}}}
+
+\ifxetex
+  \usepackage{letltxmacro}
+  \setlength{\XeTeXLinkMargin}{1pt}
+  \LetLtxMacro\SavedIncludeGraphics\includegraphics
+  \def\includegraphics#1#{% #1 catches optional stuff (star/opt. arg.)
+    \IncludeGraphicsAux{#1}%
+  }%
+  \newcommand*{\IncludeGraphicsAux}[2]{%
+    \XeTeXLinkBox{%
+      \SavedIncludeGraphics#1{#2}%
+    }%
+  }%
+\fi
+
+\makeatletter
+\newenvironment{kframe}{%
+\medskip{}
+\setlength{\fboxsep}{.8em}
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\newenvironment{Shaded}{\begin{kframe}}{\end{kframe}}
+
+\newenvironment{rmdblock}[1]
+  {
+  \begin{itemize}
+  \renewcommand{\labelitemi}{
+    \raisebox{-.7\height}[0pt][0pt]{
+      {\setkeys{Gin}{width=3em,keepaspectratio}\includegraphics{images/#1}}
+    }
+  }
+  \setlength{\fboxsep}{1em}
+  \begin{kframe}
+  \item
+  }
+  {
+  \end{kframe}
+  \end{itemize}
+  }
+
+\newenvironment{rmdnote}
+  {\begin{rmdblock}{note}}
+  {\end{rmdblock}}
+
+\newenvironment{rmdcaution}
+  {\begin{rmdblock}{caution}}
+  {\end{rmdblock}}
+
+\newenvironment{rmdimportant}
+  {\begin{rmdblock}{important}}
+  {\end{rmdblock}}
+
+\newenvironment{rmdtip}
+  {\begin{rmdblock}{tip}}
+  {\end{rmdblock}}
+
+\newenvironment{rmdwarning}
+  {\begin{rmdblock}{warning}}
+  {\end{rmdblock}}
+
+%\usepackage{makeidx}
+% \makeindex
+
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
+\usepackage{xcolor}
+
+\title{Text For Biology at Roxbury Community College}
+\author{Assembled by Nikolaus Sucher}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\listoftables
+\listoffigures
+\hypertarget{welcome}{%
+\chapter*{Welcome}\label{welcome}}
+\addcontentsline{toc}{chapter}{Welcome}
+
+This Is A Text For The Introductory Biology Courses (SCI103 And SCI104) at RCC.
+
+\begin{center}\includegraphics[width=0.7\linewidth]{biology_text_cover} \end{center}
+
+This work is licensed under the \href{https://creativecommons.org/licenses/by-sa/3.0/deed.en}{Creative Commons Attribution-Share Alike 3.0 Unported} United States License.
+
+\hypertarget{acknowledgements}{%
+\chapter*{Acknowledgements}\label{acknowledgements}}
+\addcontentsline{toc}{chapter}{Acknowledgements}
+
+The creation of this text was greatly facilitated and owes a major debt to \href{https://www.wikipedia.org}{Wikipedia} and its large number of voluntary contributors. I very liberally copied from many Wikipedia pages and then remixed, edited, adapted and added text. With your continued support and help this book can only get better over time. I urge you to email me with your criticisms and suggestions at \href{mailto:nsucher@rcc.mass.edu}{\nolinkurl{nsucher@rcc.mass.edu}}. This book is made available as an open educational resource under \href{https://creativecommons.org/licenses/by-sa/3.0/deed.en}{Creative Commons Attribution-Share Alike 3.0 Unported} United States License for others to do as I did and improve and adapt to specific requirements. I am grateful for the support provided by the \href{http://libguides.rcc.mass.edu/OER/proposal}{Roxbury Community College's OER initiative} ``RCC Go Open'' and wish to thank the members of the OER Task Force and library director William Hoag for their unwavering commitment to OER.
+
+\hypertarget{biology}{%
+\chapter{Biology}\label{biology}}
+
+Biology is the natural science that studies living organisms, including their physical structure, chemical processes, molecular interactions, physiological mechanisms, development and evolution. Despite the complexity of the science, certain unifying concepts consolidate it into a single, coherent field. Biology recognizes the cell as the basic unit of life, genes as the basic unit of heredity, and evolution as the engine that propels the creation and extinction of species. Living organisms are open systems that survive by transforming energy and decreasing their local entropy to maintain a stable and vital condition defined as homeostasis.
+
+Sub-disciplines of biology are defined by the research methods employed and the kind of system studied: theoretical biology uses mathematical methods to formulate quantitative models while experimental biology performs empirical experiments to test the validity of proposed theories and understand the mechanisms underlying life and how it appeared and evolved from non-living matter about 4 billion years ago through a gradual increase in the complexity of the system.
+
+Biology derives from the Ancient Greek words of βίος; romanized bíos meaning ``life'' and -λογία; romanized logía (-logy) meaning ``branch of study'' or ``to speak''. Those combined make the Greek word βιολογία; romanized biología meaning biology. Despite this, the term βιολογία as a whole didn't exist in Ancient Greek. The first to borrow it was the English and French (biologie). Since the advent of the scientific era, reanalyzable as a compound using the combining forms bio + logy.{[}clarification needed{]}
+
+The Latin-language form of the term first appeared in 1736 when Swedish scientist Carl Linnaeus (Carl von Linné) used biologi in his Bibliotheca Botanica. It was used again in 1766 in a work entitled Philosophiae naturalis sive physicae: tomus III, continens geologian, biologian, phytologian generalis, by Michael Christoph Hanov, a disciple of Christian Wolff. The first German use, Biologie, was in a 1771 translation of Linnaeus' work. In 1797, Theodor Georg August Roose used the term in the preface of a book, Grundzüge der Lehre van der Lebenskraft. Karl Friedrich Burdach used the term in 1800 in a more restricted sense of the study of human beings from a morphological, physiological and psychological perspective (Propädeutik zum Studien der gesammten Heilkunst). The term came into its modern usage with the six-volume treatise Biologie, oder Philosophie der lebenden Natur (1802--22) by Gottfried Reinhold Treviranus, who announced:
+
+The objects of our research will be the different forms and manifestations of life, the conditions and laws under which these phenomena occur, and the causes through which they have been effected. The science that concerns itself with these objects we will indicate by the name biology {[}Biologie{]} or the doctrine of life {[}Lebenslehre{]}.
+
+Although modern biology is a relatively recent development, sciences related to and included within it have been studied since ancient times. Natural philosophy was studied as early as the ancient civilizations of Mesopotamia, Egypt, the Indian subcontinent, and China. However, the origins of modern biology and its approach to the study of nature are most often traced back to ancient Greece. While the formal study of medicine dates back to Pharaonic Egypt, it was Aristotle (384--322 BC) who contributed most extensively to the development of biology. Especially important are his History of Animals and other works where he showed naturalist leanings, and later more empirical works that focused on biological causation and the diversity of life. Aristotle's successor at the Lyceum, Theophrastus, wrote a series of books on botany that survived as the most important contribution of antiquity to the plant sciences, even into the Middle Ages.
+
+Scholars of the medieval Islamic world who wrote on biology included al-Jahiz (781--869), Al-Dīnawarī (828--896), who wrote on botany, and Rhazes (865--925) who wrote on anatomy and physiology. Medicine was especially well studied by Islamic scholars working in Greek philosopher traditions, while natural history drew heavily on Aristotelian thought, especially in upholding a fixed hierarchy of life.
+
+Biology began to quickly develop and grow with Anton van Leeuwenhoek's dramatic improvement of the microscope. It was then that scholars discovered spermatozoa, bacteria, infusoria and the diversity of microscopic life. Investigations by Jan Swammerdam led to new interest in entomology and helped to develop the basic techniques of microscopic dissection and staining.
+
+Advances in microscopy also had a profound impact on biological thinking. In the early 19th century, a number of biologists pointed to the central importance of the cell. Then, in 1838, Schleiden and Schwann began promoting the now universal ideas that (1) the basic unit of organisms is the cell and (2) that individual cells have all the characteristics of life, although they opposed the idea that (3) all cells come from the division of other cells. Thanks to the work of Robert Remak and Rudolf Virchow, however, by the 1860s most biologists accepted all three tenets of what came to be known as cell theory.
+
+Meanwhile, taxonomy and classification became the focus of natural historians. Carl Linnaeus published a basic taxonomy for the natural world in 1735 (variations of which have been in use ever since), and in the 1750s introduced scientific names for all his species. Georges-Louis Leclerc, Comte de Buffon, treated species as artificial categories and living forms as malleable---even suggesting the possibility of common descent. Although he was opposed to evolution, Buffon is a key figure in the history of evolutionary thought; his work influenced the evolutionary theories of both Lamarck and Darwin.
+
+Serious evolutionary thinking originated with the works of Jean-Baptiste Lamarck, who was the first to present a coherent theory of evolution. He posited that evolution was the result of environmental stress on properties of animals, meaning that the more frequently and rigorously an organ was used, the more complex and efficient it would become, thus adapting the animal to its environment. Lamarck believed that these acquired traits could then be passed on to the animal's offspring, who would further develop and perfect them. However, it was the British naturalist Charles Darwin, combining the biogeographical approach of Humboldt, the uniformitarian geology of Lyell, Malthus's writings on population growth, and his own morphological expertise and extensive natural observations, who forged a more successful evolutionary theory based on natural selection; similar reasoning and evidence led Alfred Russel Wallace to independently reach the same conclusions. Although it was the subject of controversy (which continues to this day), Darwin's theory quickly spread through the scientific community and soon became a central axiom of the rapidly developing science of biology.
+
+The discovery of the physical representation of heredity came along with evolutionary principles and population genetics. In the 1940s and early 1950s, experiments pointed to DNA as the component of chromosomes that held the trait-carrying units that had become known as genes. A focus on new kinds of model organisms such as viruses and bacteria, along with the discovery of the double-helical structure of DNA in 1953, marked the transition to the era of molecular genetics. From the 1950s to the present times, biology has been vastly extended in the molecular domain. The genetic code was cracked by Har Gobind Khorana, Robert W. Holley and Marshall Warren Nirenberg after DNA was understood to contain codons. Finally, the Human Genome Project was launched in 1990 with the goal of mapping the general human genome. This project was essentially completed in 2003, with further analysis still being published. The Human Genome Project was the first step in a globalized effort to incorporate accumulated knowledge of biology into a functional, molecular definition of the human body and the bodies of other organisms.
+
+\hypertarget{foundations-of-modern-biology}{%
+\section{Foundations of modern biology}\label{foundations-of-modern-biology}}
+
+\hypertarget{cell-theory}{%
+\subsection{Cell theory}\label{cell-theory}}
+
+Cell theory states that the cell is the fundamental unit of life, that all living things are composed of one or more cells, and that all cells arise from pre-existing cells through cell division. In multicellular organisms, every cell in the organism's body derives ultimately from a single cell in a fertilized egg. The cell is also considered to be the basic unit in many pathological processes. In addition, the phenomenon of energy flow occurs in cells in processes that are part of the function known as metabolism. Finally, cells contain hereditary information (DNA), which is passed from cell to cell during cell division. Research into the origin of life, abiogenesis, amounts to an attempt to discover the origin of the first cells.
+
+\hypertarget{evolution}{%
+\subsection{Evolution}\label{evolution}}
+
+A central organizing concept in biology is that life changes and develops through evolution, and that all life-forms known have a common origin. The theory of evolution postulates that all organisms on the Earth, both living and extinct, have descended from a common ancestor or an ancestral gene pool. This universal common ancestor of all organisms is believed to have appeared about 3.5 billion years ago. Biologists regard the ubiquity of the genetic code as definitive evidence in favor of the theory of universal common descent for all bacteria, archaea, and eukaryotes (see: origin of life).
+
+The term ``evolution'' was introduced into the scientific lexicon by Jean-Baptiste de Lamarck in 1809, and fifty years later Charles Darwin posited a scientific model of natural selection as evolution's driving force. (Alfred Russel Wallace is recognized as the co-discoverer of this concept as he helped research and experiment with the concept of evolution.) Evolution is now used to explain the great variations of life found on Earth.
+
+Darwin theorized that species flourish or die when subjected to the processes of natural selection or selective breeding. Genetic drift was embraced as an additional mechanism of evolutionary development in the modern synthesis of the theory.
+
+The evolutionary history of the species---which describes the characteristics of the various species from which it descended---together with its genealogical relationship to every other species is known as its phylogeny. Widely varied approaches to biology generate information about phylogeny. These include the comparisons of DNA sequences, a product of molecular biology (more particularly genomics), and comparisons of fossils or other records of ancient organisms, a product of paleontology. Biologists organize and analyze evolutionary relationships through various methods, including phylogenetics, phenetics, and cladistics. (For a summary of major events in the evolution of life as currently understood by biologists, see evolutionary timeline.)
+
+Evolution is relevant to the understanding of the natural history of life forms and to the understanding of the organization of current life forms. But, those organizations can only be understood in light of how they came to be by way of the process of evolution. Consequently, evolution is central to all fields of biology.
+
+\hypertarget{genetics}{%
+\subsection{Genetics}\label{genetics}}
+
+Genes are the primary units of inheritance in all organisms. A gene is a unit of heredity and corresponds to a region of DNA that influences the form or function of an organism in specific ways. All organisms, from bacteria to animals, share the same basic machinery that copies and translates DNA into proteins. Cells transcribe a DNA gene into an RNA version of the gene, and a ribosome then translates the RNA into a sequence of amino acids known as a protein. The translation code from RNA codon to amino acid is the same for most organisms. For example, a sequence of DNA that codes for insulin in humans also codes for insulin when inserted into other organisms, such as plants.
+
+DNA is found as linear chromosomes in eukaryotes, and circular chromosomes in prokaryotes. A chromosome is an organized structure consisting of DNA and histones. The set of chromosomes in a cell and any other hereditary information found in the mitochondria, chloroplasts, or other locations is collectively known as a cell's genome. In eukaryotes, genomic DNA is localized in the cell nucleus, or with small amounts in mitochondria and chloroplasts. In prokaryotes, the DNA is held within an irregularly shaped body in the cytoplasm called the nucleoid. The genetic information in a genome is held within genes, and the complete assemblage of this information in an organism is called its genotype.
+
+\hypertarget{homeostasis}{%
+\subsection{Homeostasis}\label{homeostasis}}
+
+Homeostasis is the ability of an open system to regulate its internal environment to maintain stable conditions by means of multiple dynamic equilibrium adjustments that are controlled by interrelated regulation mechanisms. All living organisms, whether unicellular or multicellular, exhibit homeostasis.
+
+To maintain dynamic equilibrium and effectively carry out certain functions, a system must detect and respond to perturbations. After the detection of a perturbation, a biological system normally responds through negative feedback that stabilize conditions by reducing or increasing the activity of an organ or system. One example is the release of glucagon when sugar levels are too low.
+
+\hypertarget{energy}{%
+\subsection{Energy}\label{energy}}
+
+The survival of a living organism depends on the continuous input of energy. Chemical reactions that are responsible for its structure and function are tuned to extract energy from substances that act as its food and transform them to help form new cells and sustain them. In this process, molecules of chemical substances that constitute food play two roles; first, they contain energy that can be transformed and reused in that organism's biological, chemical reactions; second, food can be transformed into new molecular structures (biomolecules) that are of use to that organism.
+
+The organisms responsible for the introduction of energy into an ecosystem are known as producers or autotrophs. Nearly all such organisms originally draw their energy from the sun. Plants and other phototrophs use solar energy via a process known as photosynthesis to convert raw materials into organic molecules, such as ATP, whose bonds can be broken to release energy. A few ecosystems, however, depend entirely on energy extracted by chemotrophs from methane, sulfides, or other non-luminal energy sources.
+
+Some of the energy thus captured produces biomass and energy that is available for growth and development of other life forms. The majority of the rest of this biomass and energy are lost as waste molecules and heat. The most important processes for converting the energy trapped in chemical substances into energy useful to sustain life are metabolism and cellular respiration.
+
+\hypertarget{areas-and-levels-of-study-and-research-in-biology}{%
+\section{Areas And Levels of Study And Research in Biology}\label{areas-and-levels-of-study-and-research-in-biology}}
+
+\hypertarget{structural}{%
+\subsection{Structural}\label{structural}}
+
+Molecular biology is the study of biology at the molecular level. This field overlaps with other areas of biology, particularly those of genetics and biochemistry. Molecular biology is a study of the interactions of the various systems within a cell, including the interrelationships of DNA, RNA, and protein synthesis and how those interactions are regulated.
+
+The next larger scale, cell biology, studies the structural and physiological properties of cells, including their internal behavior, interactions with other cells, and with their environment. This is done on both the microscopic and molecular levels, for unicellular organisms such as bacteria, as well as the specialized cells of multicellular organisms such as humans. Understanding the structure and function of cells is fundamental to all of the biological sciences. The similarities and differences between cell types are particularly relevant to molecular biology.
+
+Anatomy is a treatment of the macroscopic forms of such structures organs and organ systems.
+
+Genetics is the science of genes, heredity, and the variation of organisms. Genes encode the information needed by cells for the synthesis of proteins, which in turn play a central role in influencing the final phenotype of the organism. Genetics provides research tools used in the investigation of the function of a particular gene, or the analysis of genetic interactions. Within organisms, genetic information is physically represented as chromosomes, within which it is represented by a particular sequence of amino acids in particular DNA molecules.
+
+Developmental biology studies the process by which organisms grow and develop. Developmental biology, originated from embryology, studies the genetic control of cell growth, cellular differentiation, and ``cellular morphogenesis,'' which is the process that progressively gives rise to tissues, organs, and anatomy. Model organisms for developmental biology include the round worm Caenorhabditis elegans, the fruit fly Drosophila melanogaster, the zebrafish Danio rerio, the mouse Mus musculus, and the weed Arabidopsis thaliana. (A model organism is a species that is extensively studied to understand particular biological phenomena, with the expectation that discoveries made in that organism provide insight into the workings of other organisms.)
+
+\hypertarget{physiological}{%
+\subsection{Physiological}\label{physiological}}
+
+Physiology is the study of the mechanical, physical, and biochemical processes of living organisms function as a whole. The theme of ``structure to function'' is central to biology. Physiological studies have traditionally been divided into plant physiology and animal physiology, but some principles of physiology are universal, no matter what particular organism is being studied. For example, what is learned about the physiology of yeast cells can also apply to human cells. The field of animal physiology extends the tools and methods of human physiology to non-human species. Plant physiology borrows techniques from both research fields.
+
+Physiology is the study the interaction of how, for example, the nervous, immune, endocrine, respiratory, and circulatory systems, function and interact. The study of these systems is shared with such medically oriented disciplines as neurology and immunology.
+
+\hypertarget{evolutionary}{%
+\subsection{Evolutionary}\label{evolutionary}}
+
+Evolutionary research is concerned with the origin and descent of species, and their change over time. It employs scientists from many taxonomically oriented disciplines, for example, those with special training in particular organisms such as mammalogy, ornithology, botany, or herpetology, but are of use in answering more general questions about evolution.
+
+Evolutionary biology is partly based on paleontology, which uses the fossil record to answer questions about the mode and tempo of evolution, and partly on the developments in areas such as population genetics. In the 1980s, developmental biology re-entered evolutionary biology after its initial exclusion from the modern synthesis through the study of evolutionary developmental biology. Phylogenetics, systematics, and taxonomy are related fields often considered part of evolutionary biology.
+
+\hypertarget{systematic}{%
+\subsection{Systematic}\label{systematic}}
+
+Multiple speciation events create a tree structured system of relationships between species. The role of systematics is to study these relationships and thus the differences and similarities between species and groups of species. However, systematics was an active field of research long before evolutionary thinking was common.
+
+Traditionally, living things have been divided into five kingdoms: Monera; Protista; Fungi; Plantae; Animalia. However, many scientists now consider this five-kingdom system outdated. Modern alternative classification systems generally begin with the three-domain system: Archaea (originally Archaebacteria); Bacteria (originally Eubacteria) and Eukaryota (including protists, fungi, plants, and animals). These domains reflect whether the cells have nuclei or not, as well as differences in the chemical composition of key biomolecules such as ribosomes.
+
+Further, each kingdom is broken down recursively until each species is separately classified. The order is: Domain; Kingdom; Phylum; Class; Order; Family; Genus; Species.
+
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Biological_classification_L_Pengo} 
+
+}
+
+\caption{\href{https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo.svg}{The hierarchy of biological classification's eight major taxonomic ranks from the most specific (top) to the most general (bottom). Intermediate minor rankings are not shown. This diagram uses a 3 Domains / 6 Kingdoms format}}\label{fig:hierarchycartoon}
+\end{figure}
+
+Outside of these categories, there are obligate intracellular parasites that are ``on the edge of life'' in terms of metabolic activity, meaning that many scientists do not actually classify such structures as alive, due to their lack of at least one or more of the fundamental functions or characteristics that define life. They are classified as viruses, viroids, prions, or satellites.
+
+The scientific name of an organism is generated from its genus and species. For example, humans are listed as Homo sapiens. Homo is the genus, and sapiens the species. When writing the scientific name of an organism, it is proper to capitalize the first letter in the genus and put all of the species in lowercase. Additionally, the entire term may be italicized or underlined.
+
+The dominant classification system is called the Linnaean taxonomy. It includes ranks and binomial nomenclature. How organisms are named is governed by international agreements such as the International Code of Nomenclature for algae, fungi, and plants (ICN), the International Code of Zoological Nomenclature (ICZN), and the International Code of Nomenclature of Bacteria (ICNB). The classification of viruses, viroids, prions, and all other sub-viral agents that demonstrate biological characteristics is conducted by the International Committee on Taxonomy of Viruses (ICTV) and is known as the International Code of Viral Classification and Nomenclature (ICVCN). However, several other viral classification systems do exist.
+
+A merging draft, BioCode, was published in 1997 in an attempt to standardize nomenclature in these three areas, but has yet to be formally adopted. The BioCode draft has received little attention since 1997; its originally planned implementation date of January 1, 2000, has passed unnoticed. A revised BioCode that, instead of replacing the existing codes, would provide a unified context for them, was proposed in 2011. However, the International Botanical Congress of 2011 declined to consider the BioCode proposal. The ICVCN remains outside the BioCode, which does not include viral classification.
+
+\hypertarget{ecological-and-environmental}{%
+\subsection{Ecological And Environmental}\label{ecological-and-environmental}}
+
+Ecology is the study of the distribution and abundance of living organisms, the interaction between them and their environment. An organism shares an environment that includes other organisms and biotic factors as well as local abiotic factors (non-living) such as climate and ecology. One reason that biological systems can be difficult to study is that so many different interactions with other organisms and the environment are possible, even on small scales. A microscopic bacterium responding to a local sugar gradient is responding to its environment as much as a lion searching for food in the African savanna. For any species, behaviors can be co-operative, competitive, parasitic, or symbiotic. Matters become more complex when two or more species interact in an ecosystem.
+
+Ecological systems are studied at several different levels, from the scale of the ecology of individual organisms, to those of populations, to the ecosystems and finally the biosphere. The term population biology is often used interchangeably with population ecology, although population biology is more frequently used in the case of diseases, viruses, and microbes, while the term population ecology is more commonly applied to the study of plants and animals. Ecology draws on many subdisciplines.
+
+Ethology is the study of animal behavior (particularly that of social animals such as primates and canids), and is sometimes considered a branch of zoology. Ethologists have been particularly concerned with the evolution of behavior and the understanding of behavior in terms of the theory of natural selection. In one sense, the first modern ethologist was Charles Darwin, whose book, The Expression of the Emotions in Man and Animals, influenced many ethologists to come.
+
+Biogeography studies the spatial distribution of organisms on the Earth, focusing on such topics as plate tectonics, climate change, dispersal and migration, and cladistics.
+
+\hypertarget{chemistry-for-biology}{%
+\chapter{Chemistry For Biology}\label{chemistry-for-biology}}
+
+Chemistry is the scientific discipline involved with elements and compounds composed of atoms, molecules and ions: their composition, structure, properties, behavior and the changes they undergo during a reaction with other substances.
+
+In the scope of its subject, chemistry occupies an intermediate position between physics and biology. It is sometimes called the central science because it provides a foundation for understanding both basic and applied scientific disciplines at a fundamental level. For example, chemistry explains aspects of plant chemistry (botany), the formation of igneous rocks (geology), how atmospheric ozone is formed and how environmental pollutants are degraded (ecology), the properties of the soil on the moon (astrophysics), how medications work (pharmacology), and how to collect DNA evidence at a crime scene (forensics).
+
+Chemistry addresses topics such as how atoms and molecules interact via chemical bonds to form new chemical compounds. There are four types of chemical bonds: covalent bonds, in which compounds share one or more electron(s); ionic bonds, in which a compound donates one or more electrons to another compound to produce ions (cations and anions); hydrogen bonds; and Van der Waals force bonds.
+
+The current model of atomic structure is the quantum mechanical model. Traditional chemistry starts with the study of elementary particles, atoms, molecules, substances, metals, crystals and other aggregates of matter. Matter can be studied in solid, liquid, gas and plasma states, in isolation or in combination. The interactions, reactions and transformations that are studied in chemistry are usually the result of interactions between atoms, leading to rearrangements of the chemical bonds which hold atoms together. Such behaviors are studied in a chemistry laboratory.
+
+The chemistry laboratory stereotypically uses various forms of laboratory glassware. However glassware is not central to chemistry, and a great deal of experimental (as well as applied/industrial) chemistry is done without it.
+
+Solutions of substances in reagent bottles, including ammonium hydroxide and nitric acid, illuminated in different colors
+A chemical reaction is a transformation of some substances into one or more different substances. The basis of such a chemical transformation is the rearrangement of electrons in the chemical bonds between atoms. It can be symbolically depicted through a chemical equation, which usually involves atoms as subjects. The number of atoms on the left and the right in the equation for a chemical transformation is equal. (When the number of atoms on either side is unequal, the transformation is referred to as a nuclear reaction or radioactive decay.) The type of chemical reactions a substance may undergo and the energy changes that may accompany it are constrained by certain basic rules, known as chemical laws.
+
+Energy and entropy considerations are invariably important in almost all chemical studies. Chemical substances are classified in terms of their structure, phase, as well as their chemical compositions. They can be analyzed using the tools of chemical analysis, e.g.~spectroscopy and chromatography. Scientists engaged in chemical research are known as chemists. Most chemists specialize in one or more sub-disciplines. Several concepts are essential for the study of chemistry; some of them are:
+
+\hypertarget{matter}{%
+\section{Matter}\label{matter}}
+
+In chemistry, matter is defined as anything that has rest mass and volume (it takes up space) and is made up of particles. The particles that make up matter have rest mass as well -- not all particles have rest mass, such as the photon. Matter can be a pure chemical substance or a mixture of substances.
+
+\hypertarget{atom}{%
+\subsection{Atom}\label{atom}}
+
+The atom is the basic unit of chemistry. It consists of a dense core called the atomic nucleus surrounded by a space occupied by an electron cloud. The nucleus is made up of positively charged protons and uncharged neutrons (together called nucleons), while the electron cloud consists of negatively charged electrons which orbit the nucleus. In a neutral atom, the negatively charged electrons balance out the positive charge of the protons. The nucleus is dense; the mass of a nucleon is approximately 1,836 times that of an electron, yet the radius of an atom is about 10,000 times that of its nucleus.
+
+The atom is also the smallest entity that can be envisaged to retain the chemical properties of the element, such as electronegativity, ionization potential, preferred oxidation state(s), coordination number, and preferred types of bonds to form (e.g., metallic, ionic, covalent).
+
+\hypertarget{element}{%
+\subsection{Element}\label{element}}
+
+A chemical element is a pure substance which is composed of a single type of atom, characterized by its particular number of protons in the nuclei of its atoms, known as the atomic number and represented by the symbol Z. The mass number is the sum of the number of protons and neutrons in a nucleus. Although all the nuclei of all atoms belonging to one element will have the same atomic number, they may not necessarily have the same mass number; atoms of an element which have different mass numbers are known as isotopes. For example, all atoms with 6 protons in their nuclei are atoms of the chemical element carbon, but atoms of carbon may have mass numbers of 12 or 13.
+
+The standard presentation of the chemical elements is in the periodic table, which orders elements by atomic number. The periodic table is arranged in groups, or columns, and periods, or rows. The periodic table is useful in identifying periodic trends.
+
+\hypertarget{compound}{%
+\subsection{Compound}\label{compound}}
+
+A compound is a pure chemical substance composed of more than one element. The properties of a compound bear little similarity to those of its elements. The standard nomenclature of compounds is set by the International Union of Pure and Applied Chemistry (IUPAC). Organic compounds are named according to the organic nomenclature system. The names for inorganic compounds are created according to the inorganic nomenclature system. When a compound has more than one component, then they are divided into two classes, the electropositive and the electronegative components. In addition the Chemical Abstracts Service has devised a method to index chemical substances. In this scheme each chemical substance is identifiable by a number known as its CAS registry number.
+
+\hypertarget{molecule}{%
+\subsection{Molecule}\label{molecule}}
+
+A molecule is the smallest indivisible portion of a pure chemical substance that has its unique set of chemical properties, that is, its potential to undergo a certain set of chemical reactions with other substances. However, this definition only works well for substances that are composed of molecules, which is not true of many substances (see below). Molecules are typically a set of atoms bound together by covalent bonds, such that the structure is electrically neutral and all valence electrons are paired with other electrons either in bonds or in lone pairs.
+
+Thus, molecules exist as electrically neutral units, unlike ions. When this rule is broken, giving the ``molecule'' a charge, the result is sometimes named a molecular ion or a polyatomic ion. However, the discrete and separate nature of the molecular concept usually requires that molecular ions be present only in well-separated form, such as a directed beam in a vacuum in a mass spectrometer. Charged polyatomic collections residing in solids (for example, common sulfate or nitrate ions) are generally not considered ``molecules'' in chemistry. Some molecules contain one or more unpaired electrons, creating radicals. Most radicals are comparatively reactive, but some, such as nitric oxide (NO) can be stable.
+
+The ``inert'' or noble gas elements (helium, neon, argon, krypton, xenon and radon) are composed of lone atoms as their smallest discrete unit, but the other isolated chemical elements consist of either molecules or networks of atoms bonded to each other in some way. Identifiable molecules compose familiar substances such as water, air, and many organic compounds like alcohol, sugar, gasoline, and the various pharmaceuticals.
+
+However, not all substances or chemical compounds consist of discrete molecules, and indeed most of the solid substances that make up the solid crust, mantle, and core of the Earth are chemical compounds without molecules. These other types of substances, such as ionic compounds and network solids, are organized in such a way as to lack the existence of identifiable molecules per se. Instead, these substances are discussed in terms of formula units or unit cells as the smallest repeating structure within the substance. Examples of such substances are mineral salts (such as table salt), solids like carbon and diamond, metals, and familiar silica and silicate minerals such as quartz and granite.
+
+One of the main characteristics of a molecule is its geometry often called its structure. While the structure of diatomic, triatomic or tetra-atomic molecules may be trivial, (linear, angular pyramidal etc.) the structure of polyatomic molecules, that are constituted of more than six atoms (of several elements) can be crucial for its chemical nature.
+
+\hypertarget{chemical-bonds}{%
+\subsection{Chemical Bonds}\label{chemical-bonds}}
+
+Atoms sticking together in molecules or crystals are said to be bonded with one another. A chemical bond may be visualized as the multipole balance between the positive charges in the nuclei and the negative charges oscillating about them. More than simple attraction and repulsion, the energies and distributions characterize the availability of an electron to bond to another atom.
+
+A chemical bond can be a covalent bond, an ionic bond, a hydrogen bond or just because of Van der Waals force. Each of these kinds of bonds is ascribed to some potential. These potentials create the interactions which hold atoms together in molecules or crystals. In many simple compounds, valence bond theory, the Valence Shell Electron Pair Repulsion model (VSEPR), and the concept of oxidation number can be used to explain molecular structure and composition.
+
+An ionic bond is formed when a metal loses one or more of its electrons, becoming a positively charged cation, and the electrons are then gained by the non-metal atom, becoming a negatively charged anion. The two oppositely charged ions attract one another, and the ionic bond is the electrostatic force of attraction between them. For example, sodium (Na), a metal, loses one electron to become an Na+ cation while chlorine (Cl), a non-metal, gains this electron to become Cl−. The ions are held together due to electrostatic attraction, and that compound sodium chloride (NaCl), or common table salt, is formed.
+
+In a covalent bond, one or more pairs of valence electrons are shared by two atoms: the resulting electrically neutral group of bonded atoms is termed a molecule. Atoms will share valence electrons in such a way as to create a noble gas electron configuration (eight electrons in their outermost shell) for each atom. Atoms that tend to combine in such a way that they each have eight electrons in their valence shell are said to follow the octet rule. However, some elements like hydrogen and lithium need only two electrons in their outermost shell to attain this stable configuration; these atoms are said to follow the duet rule, and in this way they are reaching the electron configuration of the noble gas helium, which has two electrons in its outer shell.
+
+Similarly, theories from classical physics can be used to predict many ionic structures. With more complicated compounds, such as metal complexes, valence bond theory is less applicable and alternative approaches, such as the molecular orbital theory, are generally used. See diagram on electronic orbitals.
+
+\hypertarget{energy}{%
+\section{Energy}\label{energy}}
+
+In the context of chemistry, energy is an attribute of a substance as a consequence of its atomic, molecular or aggregate structure. Since a chemical transformation is accompanied by a change in one or more of these kinds of structures, it is invariably accompanied by an increase or decrease of energy of the substances involved. Some energy is transferred between the surroundings and the reactants of the reaction in the form of heat or light; thus the products of a reaction may have more or less energy than the reactants.
+
+A reaction is said to be exergonic if the final state is lower on the energy scale than the initial state; in the case of endergonic reactions the situation is the reverse. A reaction is said to be exothermic if the reaction releases heat to the surroundings; in the case of endothermic reactions, the reaction absorbs heat from the surroundings.
+
+Chemical reactions are invariably not possible unless the reactants surmount an energy barrier known as the activation energy. The speed of a chemical reaction (at given temperature T) is related to the activation energy E, by the Boltzmann's population factor
+e
+−
+E
+/
+k
+T
+e\^{}\{-E/kT\} -- that is the probability of a molecule to have energy greater than or equal to E at the given temperature T. This exponential dependence of a reaction rate on temperature is known as the Arrhenius equation. The activation energy necessary for a chemical reaction to occur can be in the form of heat, light, electricity or mechanical force in the form of ultrasound.
+
+A related concept free energy, which also incorporates entropy considerations, is a very useful means for predicting the feasibility of a reaction and determining the state of equilibrium of a chemical reaction, in chemical thermodynamics. A reaction is feasible only if the total change in the Gibbs free energy is negative,
+Δ
+G
+≤
+0
+\Delta G \le 0 ,; if it is equal to zero the chemical reaction is said to be at equilibrium.
+
+There exist only limited possible states of energy for electrons, atoms and molecules. These are determined by the rules of quantum mechanics, which require quantization of energy of a bound system. The atoms/molecules in a higher energy state are said to be excited. The molecules/atoms of substance in an excited energy state are often much more reactive; that is, more amenable to chemical reactions.
+
+The phase of a substance is invariably determined by its energy and the energy of its surroundings. When the intermolecular forces of a substance are such that the energy of the surroundings is not sufficient to overcome them, it occurs in a more ordered phase like liquid or solid as is the case with water (H2O); a liquid at room temperature because its molecules are bound by hydrogen bonds. Whereas hydrogen sulfide (H2S) is a gas at room temperature and standard pressure, as its molecules are bound by weaker dipole-dipole interactions.
+
+The transfer of energy from one chemical substance to another depends on the size of energy quanta emitted from one substance. However, heat energy is often transferred more easily from almost any substance to another because the phonons responsible for vibrational and rotational energy levels in a substance have much less energy than photons invoked for the electronic energy transfer. Thus, because vibrational and rotational energy levels are more closely spaced than electronic energy levels, heat is more easily transferred between substances relative to light or other forms of electronic energy. For example, ultraviolet electromagnetic radiation is not transferred with as much efficacy from one substance to another as thermal or electrical energy.
+
+The existence of characteristic energy levels for different chemical substances is useful for their identification by the analysis of spectral lines. Different kinds of spectra are often used in chemical spectroscopy, e.g.~IR, microwave, NMR, ESR, etc. Spectroscopy is also used to identify the composition of remote objects -- like stars and distant galaxies -- by analyzing their radiation spectra.
+
+\hypertarget{chemical-reactions}{%
+\section{Chemical Reactions}\label{chemical-reactions}}
+
+When a chemical substance is transformed as a result of its interaction with another substance or with energy, a chemical reaction is said to have occurred. A chemical reaction is therefore a concept related to the ``reaction'' of a substance when it comes in close contact with another, whether as a mixture or a solution; exposure to some form of energy, or both. It results in some energy exchange between the constituents of the reaction as well as with the system environment, which may be designed vessels---often laboratory glassware.
+
+Chemical reactions can result in the formation or dissociation of molecules, that is, molecules breaking apart to form two or more molecules or rearrangement of atoms within or across molecules. Chemical reactions usually involve the making or breaking of chemical bonds. Oxidation, reduction, dissociation, acid-base neutralization and molecular rearrangement are some of the commonly used kinds of chemical reactions.
+
+A chemical reaction can be symbolically depicted through a chemical equation. While in a non-nuclear chemical reaction the number and kind of atoms on both sides of the equation are equal, for a nuclear reaction this holds true only for the nuclear particles viz.~protons and neutrons.
+
+The sequence of steps in which the reorganization of chemical bonds may be taking place in the course of a chemical reaction is called its mechanism. A chemical reaction can be envisioned to take place in a number of steps, each of which may have a different speed. Many reaction intermediates with variable stability can thus be envisaged during the course of a reaction. Reaction mechanisms are proposed to explain the kinetics and the relative product mix of a reaction. Many physical chemists specialize in exploring and proposing the mechanisms of various chemical reactions. Several empirical rules, like the Woodward--Hoffmann rules often come in handy while proposing a mechanism for a chemical reaction.
+
+According to the IUPAC gold book, a chemical reaction is ``a process that results in the interconversion of chemical species.'' Accordingly, a chemical reaction may be an elementary reaction or a stepwise reaction. An additional caveat is made, in that this definition includes cases where the interconversion of conformers is experimentally observable. Such detectable chemical reactions normally involve sets of molecular entities as indicated by this definition, but it is often conceptually convenient to use the term also for changes involving single molecular entities (i.e.~`microscopic chemical events').
+
+\hypertarget{ions-and-salts}{%
+\section{Ions And Salts}\label{ions-and-salts}}
+
+An ion is a charged species, an atom or a molecule, that has lost or gained one or more electrons. When an atom loses an electron and thus has more protons than electrons, the atom is a positively charged ion or cation. When an atom gains an electron and thus has more electrons than protons, the atom is a negatively charged ion or anion. Cations and anions can form a crystalline lattice of neutral salts, such as the Na+ and Cl− ions forming sodium chloride, or NaCl. Examples of polyatomic ions that do not split up during acid-base reactions are hydroxide (OH−) and phosphate (PO43−).
+
+Plasma is composed of gaseous matter that has been completely ionized, usually through high temperature.
+
+\hypertarget{acidity-and-basicity}{%
+\section{Acidity and basicity}\label{acidity-and-basicity}}
+
+A substance can often be classified as an acid or a base. There are several different theories which explain acid-base behavior. The simplest is Arrhenius theory, which states that acid is a substance that produces hydronium ions when it is dissolved in water, and a base is one that produces hydroxide ions when dissolved in water. According to Brønsted--Lowry acid-base theory, acids are substances that donate a positive hydrogen ion to another substance in a chemical reaction; by extension, a base is the substance which receives that hydrogen ion.
+
+A third common theory is Lewis acid-base theory, which is based on the formation of new chemical bonds. Lewis theory explains that an acid is a substance which is capable of accepting a pair of electrons from another substance during the process of bond formation, while a base is a substance which can provide a pair of electrons to form a new bond. According to this theory, the crucial things being exchanged are charges. There are several other ways in which a substance may be classified as an acid or a base, as is evident in the history of this concept.
+
+Acid strength is commonly measured by two methods. One measurement, based on the Arrhenius definition of acidity, is pH, which is a measurement of the hydronium ion concentration in a solution, as expressed on a negative logarithmic scale. Thus, solutions that have a low pH have a high hydronium ion concentration and can be said to be more acidic. The other measurement, based on the Brønsted--Lowry definition, is the acid dissociation constant (Ka), which measures the relative ability of a substance to act as an acid under the Brønsted--Lowry definition of an acid. That is, substances with a higher Ka are more likely to donate hydrogen ions in chemical reactions than those with lower Ka values.
+
+\hypertarget{redox}{%
+\section{Redox}\label{redox}}
+
+Redox (reduction-oxidation) reactions include all chemical reactions in which atoms have their oxidation state changed by either gaining electrons (reduction) or losing electrons (oxidation). Substances that have the ability to oxidize other substances are said to be oxidative and are known as oxidizing agents, oxidants or oxidizers. An oxidant removes electrons from another substance. Similarly, substances that have the ability to reduce other substances are said to be reductive and are known as reducing agents, reductants, or reducers.
+
+A reductant transfers electrons to another substance and is thus oxidized itself. And because it ``donates'' electrons it is also called an electron donor. Oxidation and reduction properly refer to a change in oxidation number---the actual transfer of electrons may never occur. Thus, oxidation is better defined as an increase in oxidation number, and reduction as a decrease in oxidation number.
+
+\hypertarget{organic-chemistry-for-biology}{%
+\chapter{Organic Chemistry For Biology}\label{organic-chemistry-for-biology}}
+
+Organic chemistry is a branch of chemistry that studies the structure, properties and reactions of organic compounds, which contain carbon in covalent bonding.{[}1{]} Study of structure determines their chemical composition and formula. Study of properties includes physical and chemical properties, and evaluation of chemical reactivity to understand their behavior. The study of organic reactions includes the chemical synthesis of natural products, drugs, and polymers, and study of individual organic molecules in the laboratory and via theoretical (in silico) study.
+
+Organic compounds form the basis of all earthly life and constitute the majority of known chemicals. The bonding patterns of carbon, with its valence of four---formal single, double, and triple bonds, plus structures with delocalized electrons---make the array of organic compounds structurally diverse, and their range of applications enormous. They form the basis of, or are constituents of, many commercial products including pharmaceuticals; petrochemicals and agrichemicals, and products made from them including lubricants, solvents; plastics; fuels and explosives. The study of organic chemistry overlaps organometallic chemistry and biochemistry, but also with medicinal chemistry, polymer chemistry, and materials science.{[}1{]}
+
+The range of chemicals studied in organic chemistry includes hydrocarbons (compounds containing only carbon and hydrogen) as well as compounds based on carbon, but also containing other elements,{[}1{]}{[}2{]}{[}3{]} especially oxygen, nitrogen, sulfur, phosphorus (included in many biochemicals) and the halogens. Organometallic chemistry is the study of compounds containing carbon--metal bonds.
+
+Before the nineteenth century, chemists generally believed that compounds obtained from living organisms were endowed with a vital force that distinguished them from inorganic compounds. According to the concept of vitalism (vital force theory), organic matter was endowed with a ``vital force''.{[}4{]} During the first half of the nineteenth century, some of the first systematic studies of organic compounds were reported. Around 1816 Michel Chevreul started a study of soaps made from various fats and alkalis. He separated the acids that, in combination with the alkali, produced the soap. Since these were all individual compounds, he demonstrated that it was possible to make a chemical change in various fats (which traditionally come from organic sources), producing new compounds, without ``vital force''. In 1828 Friedrich Wöhler produced the organic chemical urea (carbamide), a constituent of urine, from inorganic starting materials (the salts potassium cyanate and ammonium sulfate), in what is now called the Wöhler synthesis. Although Wöhler himself was cautious about claiming he had disproved vitalism, this was the first time a substance thought to be organic was synthesized in the laboratory without biological (organic) starting materials. The event is now generally accepted as indeed disproving the doctrine of vitalism.{[}5{]}
+
+In 1856 William Henry Perkin, while trying to manufacture quinine accidentally produced the organic dye now known as Perkin's mauve. His discovery, made widely known through its financial success, greatly increased interest in organic chemistry.{[}6{]}
+
+A crucial breakthrough for organic chemistry was the concept of chemical structure, developed independently in 1858 by both Friedrich August Kekulé and Archibald Scott Couper.{[}7{]} Both researchers suggested that tetravalent carbon atoms could link to each other to form a carbon lattice, and that the detailed patterns of atomic bonding could be discerned by skillful interpretations of appropriate chemical reactions.{[}8{]}
+
+The era of the pharmaceutical industry began in the last decade of the 19th century when the manufacturing of acetylsalicylic acid---more commonly referred to as aspirin---in Germany was started by Bayer.{[}9{]} By 1910 Paul Ehrlich and his laboratory group began developing arsenic-based arsphenamine, (Salvarsan), as the first effective medicinal treatment of syphilis, and thereby initiated the medical practice of chemotherapy. Ehrlich popularized the concepts of ``magic bullet'' drugs and of systematically improving drug therapies.{[}10{]}{[}11{]} His laboratory made decisive contributions to developing antiserum for diphtheria and standardizing therapeutic serums.{[}12{]}
+
+Early examples of organic reactions and applications were often found because of a combination of luck and preparation for unexpected observations. The latter half of the 19th century however witnessed systematic studies of organic compounds. The development of synthetic indigo is illustrative. The production of indigo from plant sources dropped from 19,000 tons in 1897 to 1,000 tons by 1914 thanks to the synthetic methods developed by Adolf von Baeyer. In 2002, 17,000 tons of synthetic indigo were produced from petrochemicals.{[}14{]}
+
+In the early part of the 20th century, polymers and enzymes were shown to be large organic molecules, and petroleum was shown to be of biological origin.
+
+The multiple-step synthesis of complex organic compounds is called total synthesis. Total synthesis of complex natural compounds increased in complexity to glucose and terpineol. For example, cholesterol-related compounds have opened ways to synthesize complex human hormones and their modified derivatives. Since the start of the 20th century, complexity of total syntheses has been increased to include molecules of high complexity such as lysergic acid and vitamin B12.{[}15{]}
+
+The discovery of petroleum and the development of the petrochemical industry spurred the development of organic chemistry. Converting individual petroleum compounds into types of compounds by various chemical processes led to organic reactions enabling a broad range of industrial and commercial products including, among (many) others: plastics, synthetic rubber, organic adhesives, and various property-modifying petroleum additives and catalysts.
+
+The majority of chemical compounds occurring in biological organisms are carbon compounds, so the association between organic chemistry and biochemistry is so close that biochemistry might be regarded as in essence a branch of organic chemistry. Although the history of biochemistry might be taken to span some four centuries, fundamental understanding of the field only began to develop in the late 19th century and the actual term biochemistry was coined around the start of 20th century. Research in the field increased throughout the twentieth century, without any indication of slackening in the rate of increase, as may be verified by inspection of abstraction and indexing services such as BIOSIS Previews and Biological Abstracts, which began in the 1920s as a single annual volume, but has grown so drastically that by the end of the 20th century it was only available to the everyday user as an online electronic database.{[}16{]}
+
+\hypertarget{biolmolecules}{%
+\section{Biolmolecules}\label{biolmolecules}}
+
+A biomolecule or biological molecule is a loosely used term for molecules present in organisms that are essential to one or more typically biological processes, such as cell division, morphogenesis, or development.{[}1{]} Biomolecules include large macromolecules (or polyanions) such as proteins, carbohydrates, lipids, and nucleic acids, as well as small molecules such as primary metabolites, secondary metabolites and natural products. A more general name for this class of material is biological materials. Biomolecules are usually{[}citation needed{]} endogenous, produced within the organism{[}2{]} but organisms usually need exogenous biomolecules, for example certain nutrients, to survive.
+
+Biology and its subfields of biochemistry and molecular biology study biomolecules and their reactions. Most biomolecules are organic compounds, and just four elements---oxygen, carbon, hydrogen, and nitrogen---make up 96\% of the human body's mass. But many other elements, such as the various biometals, are present in small amounts.
+
+The uniformity of both specific types of molecules (the biomolecules) and of certain metabolic pathways are invariant features among the wide diversity of life forms; thus these biomolecules and metabolic pathways are referred to as ``biochemical universals''{[}3{]} or ``theory of material unity of the living beings'', a unifying concept in biology, along with cell theory and evolution theory.{[}4{]}
+
+A macromolecule is a very large molecule, such as protein, commonly composed of the polymerization of smaller subunits called monomers. They are typically composed of thousands of atoms or more. A substance that is composed of macromolecules is called a polymer. The most common macromolecules in biochemistry are biopolymers (nucleic acids, proteins, and carbohydrates) and large non-polymeric molecules (such as lipids and macrocycles),{[}1{]} synthetic fibers as well as experimental materials such as carbon nanotubes.{[}2{]}{[}3{]}
+
+Macromolecules are large molecules composed of thousands of covalently connected atoms. Carbohydrates, lipids, proteins, and nucleic acids are all macromolecules. Macromolecules are formed by many monomers linking together, forming a polymer. Carbohydrates are composed of carbon, oxygen, and hydrogen. The monomer of carbohydrates are monosaccharides. There are three forms of carbohydrates: energy, storage, and structural molecules. A disaccharide is formed when a dehydration reaction joins two monosaccharides. Another type of macromolecules are lipids. Lipids are hydrocarbons that do not form polymers. Fats are constructed from glycerol and fatty acids. Phospholipids are commonly found in the phospholipid bilayer of membranes. They have hydrophilic heads and hydrophopic tails. A protein is another type of macromolecules. Amino acids are the monomers of proteins. Proteins have many different functions. There are proteins that are used for structural support, storage, transport, cellular communication, movement, defense against foreign substances, and more. Nucleic acids transmit and help express hereditary information. They are made up of monomers called nucleotides. Two types of nucleic acids are DNA and RNA.
+
+All living organisms are dependent on three essential biopolymers for their biological functions: DNA, RNA and proteins.{[}10{]} Each of these molecules is required for life since each plays a distinct, indispensable role in the cell.{[}11{]} The simple summary is that DNA makes RNA, and then RNA makes proteins.
+
+DNA, RNA, and proteins all consist of a repeating structure of related building blocks (nucleotides in the case of DNA and RNA, amino acids in the case of proteins). In general, they are all unbranched polymers, and so can be represented in the form of a string. Indeed, they can be viewed as a string of beads, with each bead representing a single nucleotide or amino acid monomer linked together through covalent chemical bonds into a very long chain.
+
+In most cases, the monomers within the chain have a strong propensity to interact with other amino acids or nucleotides. In DNA and RNA, this can take the form of Watson-Crick base pairs (G-C and A-T or A-U), although many more complicated interactions can and do occur.
+
+\begin{table}[!h]
+\centering
+\begin{tabular}{>{\raggedright\arraybackslash}p{10em}>{\raggedright\arraybackslash}p{10em}>{\raggedright\arraybackslash}p{10em}}
+\toprule
+Macromolecule (Polymer) & Building Block (Monomer) & Joining Bond\\
+\midrule
+\rowcolor{gray!6}  Proteins & Amino acids & Peptide\\
+DNA & Nucleotides (a phoshate, ribose, and a base- adenine, guanine, thymine, or cytosine) & Phoshodiester\\
+\rowcolor{gray!6}  RNA & Nucleotides (a phoshate, ribose, and a base- adenine, guanine, Uracil, or cytosine) & Phoshodiester\\
+Polysaccharides (carbohydrates) & Monosaccharides & Glycosidic\\
+\rowcolor{gray!6}  Lipids & unlike the other macromolecules, lipids are not defined by chemical Structure. Lipids are any organic nonpolar molecule. & Some lipids are held together by ester bonds; some are huge aggregates of small molecules held together by hydrophobic interactions.\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\end{document}
