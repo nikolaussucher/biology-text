@@ -1,0 +1,133 @@
+#0, chain A: DNA (5'-D(*cp*gp*cp*gp*ap*ap*tp*tp*cp*gp*cp*G)- 3')
+#0, chain B: DNA (5'-D(*cp*gp*cp*gp*ap*ap*tp*tp*cp*gp*cp*G)- 3')
+/Applications/Chimera.app/Contents/Resources/bin/mscalc 1.400000 2.000000 1
+MSMSLIB 1.3 started on Nikolauss-MacBook-Pro.local
+Copyright M.F. Sanner (March 2000)
+Compilation flags  
+
+Surface 1bna, category main, probe radius 1.4, vertex density 2
+  1 connected surface components
+  Total solvent excluded surface area = 3476.62
+  Total solvent accessible surface area = 4574.98
+Depth-cueing disables transparent background
+running "/Applications/Chimera.app/Contents/Resources/bin/povray" "/Volumes/Macintosh HD/Users/nikolaussucher/Library/Mobile Documents/com~apple~CloudDocs/R/genetics-textbook-master/figures/dna/dna_surface_transparent.ini" "+I/Volumes/Macintosh HD/Users/nikolaussucher/Library/Mobile Documents/com~apple~CloudDocs/R/genetics-textbook-master/figures/dna/dna_surface_transparent.pov" "+O/Volumes/Macintosh HD/Users/nikolaussucher/Library/Mobile Documents/com~apple~CloudDocs/R/genetics-textbook-master/figures/dna/dna_surface_transparent.png" "+V"
+povray: cannot open the user configuration file /Users/nikolaussucher/.povray/3.6/povray.conf: No such file or directory
+Persistence of Vision(tm) Ray Tracer Version 3.6.1 (g++ -pipe -isysroot
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
+SDKs/MacOSX10.10.sdk/ -Wno-invalid-offsetof -m64 -I/var/tmp/chimeraBuild_NSOPENG
+L64/build/build/include 4.2.1 @ x86_64-apple-darwin)
+This is an unofficial version compiled by:
+ UCSF Chimera <chimera@cgl.ucsf.edu>
+ The POV-Ray Team(tm) is not responsible for supporting this version.
+POV-Ray is based on DKBTrace 2.12 by David K. Buck & Aaron A. Collins
+Copyright 1991-2003 Persistence of Vision Team
+Copyright 2003-2004 Persistence of Vision Raytracer Pty. Ltd.
+
+Primary POV-Ray 3.5/3.6 Developers: (Alphabetically)
+  Chris Cason         Thorsten Froehlich  Nathan Kopp         Ron Parker        
+
+Contributing Authors: (Alphabetically)
+  Steve Anger         Eric Barish         Dieter Bayer        Steve A. Bennett  
+  David K. Buck       Nicolas Calimet     Aaron A. Collins    Chris Dailey      
+  Steve Demlow        Andreas Dilger      Alexander Enzmann   Dan Farmer        
+  Mark Gordon         Christoph Hormann   Mike Hough          Chris Huff        
+  Kari Kivisalo       Lutz Kretzschmar    Jochen Lippert      Pascal Massimino  
+  Jim McElhiney       Douglas Muir        Juha Nieminen       Bill Pulver       
+  Eduard Schwan       Wlodzimierz Skiba   Robert Skinner      Yvo Smellenbergh  
+  Zsolt Szalavari     Scott Taylor        Massimo Valentini   Timothy Wegner    
+  Drew Wells          Chris Young       
+
+Other contributors are listed in the documentation.
+
+Support libraries used by POV-Ray:
+  ZLib 1.2.5, Copyright 1995-1998 Jean-loup Gailly and Mark Adler
+  LibPNG 1.2.49, Copyright 1998-2002 Glenn Randers-Pehrson
+  LibJPEG 6b, Copyright 1998 Thomas G. Lane
+  LibTIFF 3.8.2, Copyright 1988-1997 Sam Leffler, 1991-1997 SGI
+Redirecting Options
+  All Streams to console..........On 
+  Debug Stream to console.........On 
+  Fatal Stream to console.........On 
+  Render Stream to console........On 
+  Statistics Stream to console....On 
+  Warning Stream to console.......On 
+Parsing Options
+  Input file: /Volumes/Macintosh HD/Users/nikolaussucher/Library/Mobile
+ Documents/com~apple~CloudDocs/R/genetics-textbook-master/figures/dna/dna_surfac
+e_transparent.pov (compatible to version 3.61)
+  Remove bounds........On 
+  Split unions.........On 
+  Library paths:
+    /Applications/Chimera.app/Contents/Resources/share/povray-3.6
+    /Applications/Chimera.app/Contents/Resources/share/povray-3.6/ini
+    /Applications/Chimera.app/Contents/Resources/share/povray-3.6/include
+    /Applications/Chimera.app/Contents/Resources/share/fonts
+Output Options
+  Image resolution 1620 by 1620 (rows 1 to 1620, columns 1 to 1620).
+  Output file: /Users/nikolaussucher/Library/Mobile Documents/com~apple~CloudDoc
+s/R/genetics-textbook-master/figures/dna/dna_surface_transparent.png, 32 bpp
+ with alpha PNG
+  Graphic display......Off
+  Mosaic preview.......Off
+  CPU usage histogram..Off
+  Continued trace......Off
+Tracing Options
+  Quality:  9
+  Bounding boxes.......On   Bounding threshold: 1
+  Light Buffer.........On 
+  Vista Buffer.........On   Draw Vista Buffer....Off
+  Antialiasing.........On  (Method 1, Threshold 1.000, Depth 3, Jitter 1.00)
+  Clock value:    0.000  (Animation off)
+
+  0:00:00 Parsing
+File: /Volumes/Macintosh HD/Users/nikolaussucher/Library/Mobile
+ Documents/com~apple~CloudDocs/R/genetics-textbook-master/figures/dna/dna_surfac
+e_transparent.pov  Line: 33
+Parse Warning: Alpha channel output is enabled, so background color will only be
+ visible in reflections.
+File: /Volumes/Macintosh HD/Users/nikolaussucher/Library/Mobile
+ Documents/com~apple~CloudDocs/R/genetics-textbook-master/figures/dna/dna_surfac
+e_transparent.pov  Line: 60
+Parse Warning: Should have at least 2 objects in csg.
+File: /Volumes/Macintosh HD/Users/nikolaussucher/Library/Mobile
+ Documents/com~apple~CloudDocs/R/genetics-textbook-master/figures/dna/dna_surfac
+e_transparent.pov  Line: 60
+Parse Warning: Degenerate CSG bounding box (not used!).
+
+  0:00:00 Creating bounding slabs
+  0:00:00 Creating light buffers 477K tokens
+Scene Statistics
+  Finite objects:         1507
+  Infinite objects:          0
+  Light sources:             2
+  Total:                  1509
+
+  0:01:00 Rendering line 1473 of 1620, 7212 supersamples
+  0:01:00 Done Tracing
+Render Statistics
+Image Resolution 1620 x 1620
+----------------------------------------------------------------------------
+Pixels:          2626020   Samples:         2685020   Smpls/Pxl: 1.02
+Rays:           18029113   Saved:                 0   Max Level: 10/10
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded  Percentage
+----------------------------------------------------------------------------
+Cone/Cylinder                  6747940          627615      9.30
+Mesh                          26368036        11918522     45.20
+Bounding Box                2987710873       865136391     28.96
+Vista Buffer                  11143183         5618598     50.42
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:          14223290   Succeeded:               6692775
+Transmitted Rays:          15344093
+----------------------------------------------------------------------------
+Smallest Alloc:                  10 bytes
+Largest  Alloc:             1591048 bytes
+Peak memory used:          10567032 bytes
+Total Scene Processing Times
+  Parse Time:    0 hours  0 minutes  0 seconds (0 seconds)
+  Photon Time:   0 hours  0 minutes  0 seconds (0 seconds)
+  Render Time:   0 hours  1 minutes  0 seconds (60 seconds)
+  Total Time:    0 hours  1 minutes  0 seconds (60 seconds)
+
