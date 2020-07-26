@@ -4,9 +4,31 @@ The cell cycle, or cell-division cycle, is the series of events that take place 
 
 In cells with nuclei (eukaryotes), (i.e., animal, plant, fungal, and protist cells), the cell cycle is divided into two main stages: interphase and the mitotic (M) phase (including mitosis and cytokinesis). During interphase, the cell grows, accumulating nutrients needed for mitosis, and replicates its DNA and some of its organelles. During the mitotic phase, the replicated chromosomes, organelles, and cytoplasm separate into two new daughter cells. To ensure the proper replication of cellular components and division, there are control mechanisms known as cell cycle checkpoints after each of the key steps of the cycle that determine if the cell can progress to the next phase.
 
-In cells without nuclei (prokaryotes), (i.e., bacteria and archaea), the cell cycle is divided into the B, C, and D periods. The B period extends from the end of cell division to the beginning of DNA replication. DNA replication occurs during the C period. The D period refers to the stage between the end of DNA replication and the splitting of the bacterial cell into two daughter cells.
+## Binary fission in prokayotes
 
+In cells without nuclei (prokaryotes), (i.e., bacteria and archaea), the cell cycle is divided into the B, C, and D periods. The B period extends from the end of cell division to the beginning of DNA replication. DNA replication occurs during the C period. The D period refers to the stage between the end of DNA replication and the splitting of the bacterial cell into two daughter cells. Cell division in porkaryotes (the domains of Archaea and Bacteria) is called binary fission. This form of asexual reproduction and cell division is also used by some organelles within eukaryotic organisms (e.g., mitochondria). Binary fission results in the reproduction of a living prokaryotic cell (or organelle) by dividing the cell into two parts, each with the potential to grow to the size of the original.
+
+The single DNA molecule first replicates, then attaches each copy to a different part of the cell membrane. When the cell begins to pull apart, the replicated and original chromosomes are separated. The consequence of this asexual method of reproduction is that all the cells are genetically identical, meaning that they have the same genetic material (barring random mutations). Unlike the processes of mitosis and meiosis used by eukaryotic cells, binary fission takes place without the formation of a spindle apparatus on the cell. Like in mitosis (and unlike in meiosis), the parental identity is preserved.
+
+### Process of binary fission
+
+The process of binary fission in bacteria involves the following steps. First, the cell's DNA is replicated. The replicated DNA copies then move to opposite poles of the cell in an energy-dependent process. The cell lengthens. Then, the equatorial plane of the cell constricts and separates the plasma membrane such that each new cell has exactly the same genetic material.
+
+More specifically, the following steps occur:
+
+1. The DNA is tightly coiled.
+1. The DNA is unwound and duplicated.
+1. The DNA is pulled to the separate poles of the bacterium as it increases the size to prepare for splitting.
+1. The growth of a new cell wall begins to separate the bacterium
+1. The new cell wall fully develops, resulting in the complete split of the bacterium.
+1. The new daughter cells have tightly coiled DNA rods, ribosomes, and plasmids; these are now brand-new organisms.
+
+Binary fission is generally rapid though its speed varies between species. Under optimal conditions, *E. coli*, cells divide about every 20 minutes at 37 °C. Because the new cells will, in turn, undergo binary fission, the time binary fission requires is also the time the bacterial culture requires to double in the number of cells it contains. This time period is, therefore, be referred to as the doubling time. Some strains of *Mycobacterium tuberculosis* have doubling times of nearly 100 hours. Bacterial growth is limited by nutrient availability and density, so binary fission occurs at much lower rates in bacterial cultures once they enter the stationary phase of growth.
+
+Some organelles in eukaryotic cells reproduce using binary fission. Mitochondrial fission occurs frequently within the cell, even when the cell is not actively undergoing mitosis, and is necessary to regulate the cell's metabolism. All chloroplasts and some mitochrondria (not in animals), both organelles derived from endosymbiosis of bacteria, also use FtsZ in a bacteria-like fashion.
 The cell-division cycle is a vital process by which a single-celled fertilized egg develops into a mature organism, as well as the process by which hair, skin, blood cells, and some internal organs are renewed. After cell division, each of the daughter cells begin the interphase of a new cycle. Although the various stages of interphase are not usually morphologically distinguishable, each phase of the cell cycle has a distinct set of specialized biochemical processes that prepare the cell for initiation of the cell division.
+
+## The eukaryotic cell cycle # 
 
 The eukaryotic cell cycle consists of four distinct phases: G1 phase, S phase (synthesis), G2 phase (collectively known as interphase) and M phase (mitosis and cytokinesis). M phase is itself composed of two tightly coupled processes: mitosis, in which the cell's nucleus divides, and cytokinesis, in which the cell's cytoplasm divides forming two daughter cells. Activation of each phase is dependent on the proper progression and completion of the previous one. Cells that have temporarily or reversibly stopped dividing are said to have entered a state of quiescence called G0 phase.
 
@@ -53,7 +75,6 @@ The eukaryotic cell cycle consists of four distinct phases: G1 phase, S phase (s
 </tbody>
 </table></div>
 
-
 After cell division, each of the daughter cells begin the interphase of a new cycle. Although the various stages of interphase are not usually morphologically distinguishable, each phase of the cell cycle has a distinct set of specialized biochemical processes that prepare the cell for initiation of cell division.
 
 G0 phase (quiescence)
@@ -84,7 +105,7 @@ G2 phase (growth)
 G2 phase occurs after DNA replication and is a period of protein synthesis and rapid cell growth to prepare the cell for mitosis. During this phase microtubules begin to reorganize to form a spindle (preprophase). Before proceeding to mitotic phase, cells must be checked at the G2checkpoint for any DNA damage within the chromosomes. The G2 checkpoint is mainly regulated by the tumor protein p53. If the DNA is damaged, p53 will either repair the DNA or trigger the apoptosis of the cell. If p53 is dysfunctional or mutated, cells with damaged DNA may continue through the cell cycle, leading to the development of cancer.
 
 Mitotic phase (chromosome separation)
-Main article: Mitosis
+
 The relatively brief M phase consists of nuclear division (karyokinesis). It is a relatively short period of the cell cycle. M phase is complex and highly regulated. The sequence of events is divided into phases, corresponding to the completion of one set of activities and the start of the next. These phases are sequentially known as:
 
 * prometaphase
@@ -101,22 +122,137 @@ Mitosis is the process by which a eukaryotic cell separates the chromosomes in i
 <p class="caption">(\#fig:mito)(ref:mitosis)</p>
 </div>
 
-
-
 Mitosis occurs exclusively in eukaryotic cells, but occurs in different ways in different species. For example, animal cells undergo an "open" mitosis, where the nuclear envelope breaks down before the chromosomes separate, while fungi such as Aspergillus nidulans and Saccharomyces cerevisiae (yeast) undergo a "closed" mitosis, where chromosomes divide within an intact cell nucleus.
 
-Cytokinesis phase (separation of all cell components)
-Main article: Cytokinesis
+## Mitosis
+
+In cell biology, [mitosis](https://en.wikipedia.org/wiki/Mitosis) is a part of the cell cycle when replicated chromosomes are separated into two new nuclei. Cell division gives rise to genetically identical cells in which the number of chromosomes is maintained. In general, mitosis (division of the nucleus) is preceded by the S stage of interphase (during which the DNA is replicated) and is often accompanied or followed by cytokinesis, which divides the cytoplasm, organelles and cell membrane into two new cells containing roughly equal shares of these cellular components (Figure \@ref(fig:cellcycle)). Mitosis and cytokinesis together define the mitotic (M) phase of an animal cell cycle—the division of the mother cell into two daughter cells genetically identical to each other.
+
+(ref:cycle) [Mitosis in an animal cell (phases ordered counter-clockwise).](https://commons.wikimedia.org/wiki/File:Animal_cell_cycle-en.svg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/reproduction/Animal_cell_cycle-en.svg" alt="(ref:cycle)" width="70%" />
+<p class="caption">(\#fig:cellcyclefigure)(ref:cycle)</p>
+</div>
+
+The process of mitosis is divided into stages corresponding to the completion of one set of activities and the start of the next. These stages are prophase, prometaphase, metaphase, anaphase, and telophase. During mitosis, the chromosomes, which have already duplicated, condense and attach to spindle fibers that pull one copy of each chromosome to opposite sides of the cell. The result is two genetically identical daughter nuclei. The rest of the cell may then continue to divide by cytokinesis to produce two daughter cells. Producing three or more daughter cells instead of the normal two is a mitotic error called tripolar mitosis or multipolar mitosis (direct cell triplication / multiplication). Other errors during mitosis can induce apoptosis (programmed cell death) or cause mutations. Certain types of cancer can arise from such mutations.
+
+
+(ref:onion) Onion (Allium cepa) root cells in different phases of the cell cycle (drawn by [E. B. Wilson](https://en.wikipedia.org/wiki/Edmund_Beecher_Wilson), 1900). [General view of cells in the growing root-tip of the onion, from a longitudinal section, enlarged 800 diameters. a. non-dividing cells, with chromatin-network and deeply stained nucleoli; b. nuclei preparing for division (spireme-stage); c. dividing cells showing mitotic figures; e. pair of daughter-cells shortly after division.](https://commons.wikimedia.org/wiki/File:Wilson1900Fig2.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/reproduction/Wilson1900Fig2.jpg" alt="(ref:onion)" width="70%" />
+<p class="caption">(\#fig:onionroot)(ref:onion)</p>
+</div>
+
+Mitosis varies between organisms. For example, animal cells undergo an "open" mitosis, where the nuclear envelope breaks down before the chromosomes separate, whereas fungi undergo a "closed" mitosis, where chromosomes divide within an intact cell nucleus. Most animal cells undergo a shape change, known as mitotic cell rounding, to adopt a near spherical morphology at the start of mitosis. Most human cells are produced by mitotic cell division. Important exceptions include the gametes – sperm and egg cells – which are produced by meiosis.
+
+Numerous descriptions of cell division were made during 18th and 19th centuries, with various degrees of accuracy. In 1835, the German botanist [Hugo von Mohl](https://en.wikipedia.org/wiki/Hugo_von_Mohl), described cell division in the green alga *Cladophora glomerata*, stating that multiplication of cells occurs through cell division. In 1838, Matthias Jakob Schleiden affirmed that the formation of new cells in their interior was a general law for cell multiplication in plants, a view later rejected in favour of Mohl model, due to contributions of Robert Remak and others.
+
+The term "mitosis", coined by [Walther Flemming](https://en.wikipedia.org/wiki/Walther_Flemming) in 1882, is derived from the Greek word μίτος (mitos, "warp thread"). There are some alternative names for the process, e.g., "karyokinesis" (nuclear division), a term introduced by Schleicher in 1878, or "equational division", proposed by [August Weismann](https://en.wikipedia.org/wiki/August_Weismann) in 1887. However, the term "mitosis" is also used in a broad sense by some authors to refer to karyokinesis and cytokinesis together. Presently, "equational division" is more commonly used to refer to meiosis II, the part of meiosis most like mitosis.
+
+The primary result of mitosis and cytokinesis is the transfer of a parent cell's genome into two daughter cells. The genome is composed of a number of chromosomes—complexes of tightly coiled DNA that contain genetic information vital for proper cell function. Because each resultant daughter cell should be genetically identical to the parent cell, the parent cell must make a copy of each chromosome before mitosis. This occurs during the S phase of interphase. Chromosome duplication results in two identical sister chromatids bound together by cohesin proteins at the centromere.
+
+When mitosis begins, the chromosomes condense and become visible. In some eukaryotes, for example animals, the nuclear envelope, which segregates the DNA from the cytoplasm, disintegrates into small vesicles. The nucleolus also disappears. Microtubules project from opposite ends of the cell, attach to the centromeres, and align the chromosomes centrally within the cell. The microtubules then contract to pull the sister chromatids of each chromosome apart. Sister chromatids at this point are called daughter chromosomes. As the cell elongates, corresponding daughter chromosomes are pulled toward opposite ends of the cell and condense maximally in late anaphase. A new nuclear envelope forms around the separated daughter chromosomes, which decondense to form interphase nuclei.
+
+During mitotic progression, typically after the anaphase onset, the cell may undergo cytokinesis. In animal cells, a cell membrane pinches inward between the two developing nuclei to produce two new cells. In plant cells, a cell plate forms between the two nuclei. Cytokinesis does not always occur; coenocytic (a type of multinucleate condition) cells undergo mitosis without cytokinesis.
+
+### Interphase
+
+The mitotic phase is a relatively short period of the cell cycle. It alternates with the much longer interphase, where the cell prepares itself for the process of cell division. Interphase is divided into three phases: G1 (first gap), S (synthesis), and G2 (second gap). During all three parts of interphase, the cell grows by producing proteins and cytoplasmic organelles. However, chromosomes are replicated only during the S phase. Thus, a cell grows (G1), continues to grow as it duplicates its chromosomes (S), grows more and prepares for mitosis (G2), and finally divides (M) before restarting the cycle. All these phases in the cell cycle are highly regulated by cyclins, cyclin-dependent kinases, and other cell cycle proteins. The phases follow one another in strict order and there are "checkpoints" that give the cell cues to proceed from one phase to another. Cells may also temporarily or permanently leave the cell cycle and enter G0 phase to stop dividing. This can occur when cells become overcrowded (density-dependent inhibition) or when they differentiate to carry out specific functions for the organism, as is the case for human heart muscle cells and neurons. Some G0 cells have the ability to re-enter the cell cycle.
+
+### Preprophase (plant cells)
+
+In plant cells only, prophase is preceded by a pre-prophase stage. In highly vacuolated plant cells, the nucleus has to migrate into the center of the cell before mitosis can begin. This is achieved through the formation of a phragmosome, a transverse sheet of cytoplasm that bisects the cell along the future plane of cell division. In addition to phragmosome formation, preprophase is characterized by the formation of a ring of microtubules and actin filaments (called preprophase band) underneath the plasma membrane around the equatorial plane of the future mitotic spindle. This band marks the position where the cell will eventually divide. The cells of higher plants (such as the flowering plants) lack centrioles; instead, microtubules form a spindle on the surface of the nucleus and are then organized into a spindle by the chromosomes themselves, after the nuclear envelope breaks down. The preprophase band disappears during nuclear envelope breakdown and spindle formation in prometaphase.:58–67
+
+### Prophase
+
+During prophase, which occurs after G2 interphase, the cell prepares to divide by tightly condensing its chromosomes and initiating mitotic spindle formation. During interphase, the genetic material in the nucleus consists of loosely packed chromatin. At the onset of prophase, chromatin fibers condense into discrete chromosomes that are typically visible at high magnification through a light microscope. In this stage, chromosomes are long, thin and thread-like. Each chromosome has two chromatids. The two chromatids are joined at the centromere.
+
+Gene transcription ceases during prophase and does not resume until late anaphase to early G1 phase. The nucleolus also disappears during early prophase.
+
+Close to the nucleus of animal cells are structures called centrosomes, consisting of a pair of centrioles surrounded by a loose collection of proteins. The centrosome is the coordinating center for the cell's microtubules. A cell inherits a single centrosome at cell division, which is duplicated by the cell before a new round of mitosis begins, giving a pair of centrosomes. The two centrosomes polymerize tubulin to help form a microtubule spindle apparatus. Motor proteins then push the centrosomes along these microtubules to opposite sides of the cell. Although centrosomes help organize microtubule assembly, they are not essential for the formation of the spidle apparatus, since they are absent from plants, and are not absolutely required for animal cell mitosis.
+
+
+(ref:pro) [Early prophase: Polar microtubules, shown as green strands, have established a matrix around the currently intact nucleus, with the condensing chromosomes in blue. The red nodules are the centromeres.](https://commons.wikimedia.org/wiki/File:ProphaseIF.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/reproduction/ProphaseIF.jpg" alt="(ref:pro)" width="70%" />
+<p class="caption">(\#fig:prophase)(ref:pro)</p>
+</div>
+
+### Prometaphase
+
+At the beginning of prometaphase in animal cells, phosphorylation of nuclear lamins causes the nuclear envelope to disintegrate into small membrane vesicles. As this happens, microtubules invade the nuclear space. This is called open mitosis, and it occurs in some multicellular organisms. Fungi and some protists, such as algae or trichomonads, undergo a variation called closed mitosis where the spindle forms inside the nucleus, or the microtubules penetrate the intact nuclear envelope.
+
+In late prometaphase, kinetochore microtubules begin to search for and attach to chromosomal kinetochores. A kinetochore is a proteinaceous microtubule-binding structure that forms on the chromosomal centromere during late prophase. A number of polar microtubules find and interact with corresponding polar microtubules from the opposite centrosome to form the mitotic spindle. Although the kinetochore structure and function are not fully understood, it is known that it contains some form of molecular motor. When a microtubule connects with the kinetochore, the motor activates, using energy from ATP to "crawl" up the tube toward the originating centrosome. This motor activity, coupled with polymerisation and depolymerisation of microtubules, provides the pulling force necessary to later separate the chromosome's two chromatids.
+
+(ref:prometa) [Early prometaphase: The nuclear membrane has just disassembled, allowing the microtubules to quickly interact with the kinetochores, which assemble on the centromeres of the condensing chromosomes.](https://commons.wikimedia.org/wiki/File:Prometaphase.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/reproduction/Prometaphase.jpg" alt="(ref:prometa)" width="70%" />
+<p class="caption">(\#fig:prometaphase)(ref:prometa)</p>
+</div>
+
+### Metaphase
+
+After the microtubules have located and attached to the kinetochores in prometaphase, the two centrosomes begin pulling the chromosomes towards opposite ends of the cell. The resulting tension causes the chromosomes to align along the metaphase plate or equatorial plane, an imaginary line that is centrally located between the two centrosomes (at approximately the midline of the cell). To ensure equitable distribution of chromosomes at the end of mitosis, the metaphase checkpoint guarantees that kinetochores are properly attached to the mitotic spindle and that the chromosomes are aligned along the metaphase plate. If the cell successfully passes through the metaphase checkpoint, it proceeds to anaphase.
+
+(ref:meta) [Metaphase: The centrosomes have moved to the poles of the cell and have established the mitotic spindle. The chromosomes have congressed at the metaphase plate.](https://commons.wikimedia.org/wiki/File:MetaphaseIF.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/reproduction/MetaphaseIF.jpg" alt="(ref:meta)" width="70%" />
+<p class="caption">(\#fig:metaphase)(ref:meta)</p>
+</div>
+
+### Anaphase
+
+During anaphase A, the cohesins that bind sister chromatids together are cleaved, forming two identical daughter chromosomes. Shortening of the kinetochore microtubules pulls the newly formed daughter chromosomes to opposite ends of the cell. During anaphase B, polar microtubules push against each other, causing the cell to elongate. In late anaphase, chromosomes also reach their overall maximal condensation level, to help chromosome segregation and the re-formation of the nucleus. In most animal cells, anaphase A precedes anaphase B, but some vertebrate egg cells demonstrate the opposite order of events.
+
+(ref:ana) [Anaphase: Kinetochore microtubules pull the two sets of chromosomes apart, and lengthening polar microtubules push the halves of the dividing cell further apart, while chromosomes are condensed maximally.](https://commons.wikimedia.org/wiki/File:Anaphase_IF.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/reproduction/Anaphase_IF.jpg" alt="(ref:ana)" width="70%" />
+<p class="caption">(\#fig:anaphase)(ref:ana)</p>
+</div>
+
+### Telophase
+
+Telophase (from the Greek word τελος meaning "end") is a reversal of prophase and prometaphase events. At telophase, the polar microtubules continue to lengthen, elongating the cell even more. If the nuclear envelope has broken down, a new nuclear envelope forms using the membrane vesicles of the parent cell's old nuclear envelope. The new envelope forms around each set of separated daughter chromosomes (though the membrane does not enclose the centrosomes) and the nucleolus reappears. Both sets of chromosomes, now surrounded by new nuclear membrane, begin to "relax" or decondense. Mitosis is complete. Each daughter nucleus has an identical set of chromosomes.Cell division may or may not occur at this time depending on the organism.
+
+(ref:telo) [Telophase: Reversal of prophase and prometaphase events and thus completing the cell cycle.](https://commons.wikimedia.org/wiki/File:TelophaseIF.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/reproduction/TelophaseIF.jpg" alt="(ref:telo)" width="70%" />
+<p class="caption">(\#fig:telophase)(ref:telo)</p>
+</div>
+
+### Cytokinesis 
+
+Cytokinesis is not a phase of mitosis but rather a separate process, necessary for completing cell division. In animal cells, a cleavage furrow (pinch) containing a contractile ring develops where the metaphase plate used to be, pinching off the separated nuclei. In both animal and plant cells, cell division is also driven by vesicles derived from the Golgi apparatus, which move along microtubules to the middle of the cell. In plants, this structure coalesces into a cell plate at the center of the phragmoplast and develops into a cell wall, separating the two nuclei. Each daughter cell has a complete copy of the genome of its parent cell. The end of cytokinesis marks the end of the M-phase.
+
+There are many cells where mitosis and cytokinesis occur separately, forming single cells with multiple nuclei. The most notable occurrence of this is among the fungi, slime molds, and coenocytic algae, but the phenomenon is found in various other organisms. Even in animals, cytokinesis and mitosis may occur independently, for instance during certain stages of fruit fly embryonic development.
+
+
+Mitosis occurs in the following circumstances:
+
+* Development and growth: The number of cells within an organism increases by mitosis. This is the basis of the development of a multicellular body from a single cell, i.e., zygote and also the basis of the growth of a multicellular body.
+* Cell replacement: In some parts of the body, e.g. skin and digestive tract, cells are constantly sloughed off and replaced by new ones. New cells are formed by mitosis and so are exact copies of the cells being replaced. 
+* Regeneration: Some organisms can regenerate body parts. The production of new cells in such instances is achieved by mitosis. For example, starfish regenerate lost arms through mitosis.
+* Asexual reproduction: Some organisms produce genetically similar offspring through asexual reproduction. For example, the hydra reproduces asexually by budding. The cells at the surface of hydra undergo mitosis and form a mass called a bud. Mitosis continues in the cells of the bud and this grows into a new individual. The same division happens during asexual reproduction or vegetative propagation in plants.
+
+### Cytokinesis phase (separation of all cell components)
+
 Mitosis is immediately followed by cytokinesis, which divides the nuclei, cytoplasm, organelles and cell membrane into two cells containing roughly equal shares of these cellular components. Mitosis and cytokinesis together define the division of the mother cell into two daughter cells, genetically identical to each other and to their parent cell. This accounts for approximately 10% of the cell cycle.
 
 Because cytokinesis usually occurs in conjunction with mitosis, "mitosis" is often used interchangeably with "M phase". However, there are many cells where mitosis and cytokinesis occur separately, forming single cells with multiple nuclei in a process called endoreplication. This occurs most notably among the fungi and slime molds, but is found in various groups. Even in animals, cytokinesis and mitosis may occur independently, for instance during certain stages of fruit fly embryonic development. Errors in mitosis can result in cell death through apoptosis or cause mutations that may lead to cancer.
 
-Regulation of eukaryotic cell cycle
+## Regulation of eukaryotic cell cycle
 
 Levels of the three major cyclin types oscillate during the cell cycle (top), providing the basis for oscillations in the cyclin–Cdk complexes that drive cell-cycle events (bottom). In general, Cdk levels are constant and in large excess over cyclin levels; thus, cyclin–Cdk complexes form in parallel with cyclin levels. The enzymatic activities of cyclin–Cdk complexes also tend to rise and fall in parallel with cyclin levels, although in some cases Cdk inhibitor proteins or phosphorylation introduce a delay between the formation and activation of cyclin–Cdk complexes. Formation of active G1/S–Cdk complexes commits the cell to a new division cycle at the Start checkpoint in late G1. G1/S–Cdks then activate the S–Cdk complexes that initiate DNA replication at the beginning of S phase. M–Cdk activation occurs after the completion of S phase, resulting in progression through the G2/M checkpoint and assembly of the mitotic spindle. APC activation then triggers sister-chromatid separation at the metaphase-to-anaphase transition. APC activity also causes the destruction of S and M cyclins and thus the inactivation of Cdks, which promotes the completion of mitosis and cytokinesis. APC activity is maintained in G1 until G1/S–Cdk activity rises again and commits the cell to the next cycle. This scheme serves only as a general guide and does not apply to all cell types.
 Regulation of the cell cycle involves processes crucial to the survival of a cell, including the detection and repair of genetic damage as well as the prevention of uncontrolled cell division. The molecular events that control the cell cycle are ordered and directional; that is, each process occurs in a sequential fashion and it is impossible to "reverse" the cycle.
 
-Role of cyclins and CDKs
+### Role of cyclins and CDKs
 
 Two key classes of regulatory molecules, cyclins and cyclin-dependent kinases (CDKs), determine a cell's progress through the cell cycle. Leland H. Hartwell, R. Timothy Hunt, and Paul M. Nurse won the 2001 Nobel Prize in Physiology or Medicine for their discovery of these central molecules. Many of the genes encoding cyclins and CDKs are conserved among all eukaryotes, but in general more complex organisms have more elaborate cell cycle control systems that incorporate more individual components. Many of the relevant genes were first identified by studying yeast, especially Saccharomyces cerevisiae; genetic nomenclature in yeast dubs many of these genes cdc (for "cell division cycle") followed by an identifying number, e.g. cdc25 or cdc20.
 
@@ -140,7 +276,7 @@ In general, the binding of pRb to E2F inhibits the E2F target gene expression of
 
 The hyperphosphorylated Rb dissociates from the E2F/DP1/Rb complex (which was bound to the E2F responsive genes, effectively "blocking" them from transcription), activating E2F. Activation of E2F results in transcription of various genes like cyclin E, cyclin A, DNA polymerase, thymidine kinase, etc. Cyclin E thus produced binds to CDK2, forming the cyclin E-CDK2 complex, which pushes the cell from G1 to S phase (G1/S, which initiates the G2/M transition). Cyclin B-cdk1 complex activation causes breakdown of nuclear envelope and initiation of prophase, and subsequently, its deactivation causes the cell to exit mitosis. A quantitative study of E2F transcriptional dynamics at the single-cell level by using engineered fluorescent reporter cells provided a quantitative framework for understanding the control logic of cell cycle entry, challenging the canonical textbook model. Genes that regulate the amplitude of E2F accumulation, such as Myc, determine the commitment in cell cycle and S phase entry. G1 cyclin-CDK activities are not the driver of cell cycle entry. Instead, they primarily tune the timing of E2F increase, thereby modulating the pace of cell cycle progression.
 
-Checkpoints
+### Cell Cycle Checkpoints
 
 Cell cycle checkpoints are used by the cell to monitor and regulate the progress of the cell cycle. Checkpoints prevent cell cycle progression at specific points, allowing verification of necessary phase processes and repair of DNA damage. The cell cannot proceed to the next phase until checkpoint requirements have been met. Checkpoints typically consist of a network of regulatory proteins that monitor and dictate the progression of the cell through the different stages of the cell cycle.
 
@@ -158,8 +294,7 @@ Checkpoint regulation plays an important role in an organism's development. In s
 
 p53 plays an important role in triggering the control mechanisms at both G1/S and G2/M checkpoints. In addition to p53, checkpoint regulators are being heavily researched for their roles in cancer growth and proliferation.
 
-
-Role in tumor formation
+### Role in tumor formation
 
 A disregulation of the cell cycle components may lead to tumor formation. As mentioned above, when some genes like the cell cycle inhibitors, RB, p53 etc. mutate, they may cause the cell to multiply uncontrollably, forming a tumor. Although the duration of cell cycle in tumor cells is equal to or longer than that of normal cell cycle, the proportion of cells that are in active cell division (versus quiescent cells in G0 phase) in tumors is much higher than that in normal tissue.[citation needed] Thus there is a net increase in cell number as the number of cells that die by apoptosis or senescence remains the same.
 
@@ -174,4 +309,3 @@ For cells with a longer cell cycle time and a significantly long G1 phase, there
 The pattern of resistance and sensitivity correlates with the level of sulfhydryl compounds in the cell. Sulfhydryls are natural substances that protect cells from radiation damage and tend to be at their highest levels in S and at their lowest near mitosis.
 
 Homologous recombination (HR) is an accurate process for repairing DNA double-strand breaks. HR is nearly absent in G1 phase, is most active in S phase, and declines in G2/M. Non-homologous end joining, a less accurate and more mutagenic process for repairing double strand breaks, is active throughout the cell cycle.
-
