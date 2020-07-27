@@ -14,7 +14,7 @@ lot: yes
 
 # Welcome {-}
 
-This Is A Text For The Introductory Biology Courses (SCI103 And SCI104) at RCC.
+This Is A Text For The Introductory Biology Courses Biology I (SCI103) And Biology II (SCI104) at Roxbury Community College (RCC).
 
 
 <img src="biology_text_cover.jpg" width="70%" style="display: block; margin: auto;" />
