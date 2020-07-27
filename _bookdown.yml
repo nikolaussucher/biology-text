@@ -20,17 +20,16 @@ rmd_files: [ "index.rmd",
              "fungi.rmd",
              "plants.rmd",
              "animals.rmd",
-             # "animal_organization.rmd",
-             # "circulatory_system.rmd",
-             # "immune_system.rmd",
-             # "respiratory_system.rmd",
-             # "digestive_system.rmd",
+             "circulatory_system.rmd",
+             "immune_system.rmd",
+             "respiratory_system.rmd",
+             "digestive_system.rmd",
              # "excretory_system.rmd",
              # "nervous_system.rmd",
              # "sense_organs.rmd",
-             # "locomotion.rmd",
-             # "endocrine_system.rmd",
-             # "reproduction.rmd"
+             "locomotion.rmd",
+             "endocrine_system.rmd",
+             "reproductive_system.rmd"
              # "development.Rmd"
            ]
 output_dir: docs
