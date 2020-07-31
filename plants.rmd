@@ -23,11 +23,104 @@ plantae <-  as_tibble(read.csv("data/plants.csv"))
 knitr::kable(plantae, col.names = c("Name", "Scope", "Distribution"), digits = 2, align = 'lll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position")) %>% scroll_box(width = "100%", height = "100") 
 ```
 
-Evolution
-
 The evolution of plants has resulted in increasing levels of complexity, from the earliest algal mats, through bryophytes, lycopods, ferns to the complex gymnosperms and angiosperms of today. Plants in all of these groups continue to thrive, especially in the environments in which they evolved.
 
 An algal scum formed on the land 1,200 million years ago, but it was not until the Ordovician Period, around 450 million years ago, that land plants appeared. However, new evidence from the study of carbon isotope ratios in Precambrian rocks has suggested that complex photosynthetic plants developed on the earth over 1000 m.y.a. For more than a century it has been assumed that the ancestors of land plants evolved in aquatic environments and then adapted to a life on land, an idea usually credited to botanist Frederick Orpen Bower in his 1908 book The Origin of a Land Flora. A recent alternative view, supported by genetic evidence, is that they evolved from terrestrial single-celled algae, and that even the common ancestor of red and green algae, and the unicellular freshwater algae glaucophytes, originated in a terrestrial environment in freshwater biofilms or microbial mats. Primitive land plants began to diversify in the late Silurian Period, around 420 million years ago, and the results of their diversification are displayed in remarkable detail in an early Devonian fossil assemblage from the Rhynie chert. This chert preserved early plants in cellular detail, petrified in volcanic springs. By the middle of the Devonian Period most of the features recognised in plants today are present, including roots, leaves and secondary wood, and by late Devonian times seeds had evolved. Late Devonian plants had thereby reached a degree of sophistication that allowed them to form forests of tall trees. Evolutionary innovation continued in the Carboniferous and later geological periods and is ongoing today. Most plant groups were relatively unscathed by the Permo-Triassic extinction event, although the structures of communities changed. This may have set the scene for the evolution of flowering plants in the Triassic (~200 million years ago), which exploded in the Cretaceous and Tertiary. The latest major group of plants to evolve were the grasses, which became important in the mid Tertiary, from around 40 million years ago. The grasses, as well as many other groups, evolved new mechanisms of metabolism to survive the low CO~2~ and warm, dry conditions of the tropics over the last 10 million years.
+
+## Plant Tissues
+
+In plant anatomy, tissues are categorized broadly into three tissue systems: the epidermis, the ground tissue, and the vascular tissue.
+
+* Epidermis - Cells forming the outer surface of the leaves and of the young plant body.
+* Vascular tissue - The primary components of vascular tissue are the xylem and phloem. These transport fluids and nutrients internally.
+* Ground tissue - Ground tissue is less differentiated than other tissues. Ground tissue manufactures nutrients by photosynthesis and stores reserve nutrients.
+
+Plant tissues can also be divided differently into two types:
+
+1. Meristematic tissues
+1. Permanent tissues.
+
+### Meristematic tissues
+
+Meristematic tissue consists of actively dividing cells, and leads to increase in length and thickness of the plant. The primary growth of a plant occurs only in certain, specific regions, such as in the tips of stems or roots. It is in these regions that meristematic tissues are present. Cells in these tissues are roughly spherical or polyhedral, to rectangular in shape, and have thin cell walls. New cells produced by meristem are initially those of meristem itself, but as the new cells grow and mature, their characteristics slowly change and they become differentiated as components of the region of occurrence of meristematic tissues, being classified as:
+
+* Apical meristem - It is present at the growing tips of stems and roots and increases the length of the stem and root. They form growing parts at the apices of roots and stems and are responsible for the increase in length, also called primary growth. This meristem is responsible for the linear growth of an organ.
+* Lateral meristem - This meristem consists of cells which mainly divide in one plane and cause the organ to increase in diameter and growth. Lateral meristem usually occurs beneath the bark of the tree in the form of Cork Cambium and in vascular bundles of dicots in the form of vascular cambium. The activity of this cambium results in the formation of secondary growth.
+* Intercalary meristem - This meristem is located in between permanent tissues. It is usually present at the base of the node, internode and on leaf base. They are responsible for growth in length of the plant and increasing the size of the internode. They result in branch formation and growth.
+
+The cells of meristematic tissues are similar in structure and have thin and elastic primary cell wall made up of cellulose. They are compactly arranged without inter-cellular spaces between them. Each cell contains a dense cytoplasm and a prominent nucleus. The dense protoplasm of meristematic cells contains very few vacuoles. Normally the meristematic cells are oval, polygonal or rectangular in shape.
+
+Meristematic tissue cells have a large nucleus with small or no vacuoles as they have no need to store anything, opposed to their function of multiplying and increasing the girth and length of the plant, and no intercellular spaces.
+
+### Permanent tissues
+
+Permanent tissues may be defined as a group of living or dead cells formed by meristematic tissue and have lost their ability to divide and have permanently placed at fixed positions in the plant body. Meristematic tissues that take up a specific role lose the ability to divide. This process of taking up a permanent shape, size and a function is called cellular differentiation. Cells of meristematic tissue differentiate to form different types of permanent tissues. There are 3 types of permanent tissues:
+
+1. simple permanent tissues
+1. complex permanent tissues
+1. special or secretory tissues (glandular).
+
+Simple Permanent tissues
+
+A group of cells which are similar in origin; similar in structure and similar in function are called simple permanent tissue. They are of three types:
+
+1. Parenchyma
+1. Collenchyma
+1. Sclerenchyma
+
+### Parenchyma
+
+Parenchyma (para - 'beside'; infusion - 'tissue') is the bulk of a substance. In plants, it consists of relatively unspecialized living cells with thin cell walls that are usually loosely packed so that intercellular spaces are found between cells of this tissue. These are generally isodiametric, in shape. They contain small number of vacuoles or sometimes they even may not contain any vacuole. Even if they do so the vacuole is of much smaller size than of normal animal cells. This tissue provides support to plants and also stores food. Chlorenchyma is a special type of parenchyma that contains chlorophyll and performs photosynthesis. In aquatic plants, aerenchyma tissues, or large air cavities, give support to float on water by making them buoyant. Parenchyma cells called idioblasts have metabolic waste. Spindle shape fiber also contained into this cell to support them and known as prosenchyma, succulent parenchyma also noted. In xerophytes, parenchyma tissues store water.
+
+### Collenchyma
+
+Cross section of collenchyma cells
+Collenchyma is Greek word where "Colla" means gum and "enchyma" means infusion. It is a living tissue of primary body like Parenchyma. Cells are thin-walled but possess thickening of cellulose, water and pectin substances (pectocellulose) at the corners where a number of cells join together. This tissue gives tensile strength to the plant and the cells are compactly arranged and have very little inter-cellular spaces. It occurs chiefly in hypodermis of stems and leaves. It is absent in monocots and in roots. Sometimes it contains chlorophyll which can help them photosynthesize.
+
+Collenchymatous tissue acts as a supporting tissue in stems of young plants. It provides mechanical support, elasticity, and tensile strength to the plant body. It helps in manufacturing sugar and storing it as starch. It is present in the margin of leaves and resists tearing effect of the wind.
+
+### Sclerenchyma
+
+Sclerenchyma is Greek word where "Sclero-" means hard and "enchyma" means infusion. This tissue consists of thick-walled, dead cells and protoplasm is negligible. These cells have hard and extremely thick secondary walls due to uniform distribution and high secretion of lignin and have a function of providing mechanical support. They do not have inter-molecular space between them. Lignin deposition is so thick that the cell walls become strong, rigid and impermeable to water which is also known as a stone cell or sclereids. These tissues are mainly of two types: sclerenchyma fiber and sclereids. Sclerenchyma fiber cells have a narrow lumen and are long, narrow and unicellular. Fibers are elongated cells that are strong and flexible, often used in ropes. Sclereids have extremely thick cell walls and are brittle, and are found in nutshells and legumes.
+
+### Epidermis
+
+The entire surface of the plant consists of a single layer of cells called epidermis or surface tissue. The entire surface of the plant has this outer layer of the epidermis. Hence it is also called surface tissue. Most of the epidermal cells are relatively flat. The outer and lateral walls of the cell are often thicker than the inner walls. The cells form a continuous sheet without intercellular spaces. It protects all parts of the plant. The outer epidermis is coated with a waxy thick layer called cuticle which prevents loss of water. The epidermis also consists of stomata(singular:stoma) which helps in transpiration.
+
+## Complex permanent tissue
+
+The complex tissue consists of more than one type of cells which work together as a unit. Complex tissues help in the transportation of organic material, water, and minerals up and down the plants. That is why it is also known as conducting and vascular tissue. The common types of complex permanent tissue are:
+
+* Xylem or wood
+* Phloem or bast.
+
+Xylem and phloem together form vascular bundles.
+
+Xylem
+
+Xylem consists of:
+
+* Xylem tracheids
+* Xylem vessel
+* Xylem fibres or Xylem sclerenchyma
+* Xylem parenchyma
+
+Xylem serves as a chief conducting tissue of vascular plants.
+
+It is responsible for the conduction of water and mineral ions/salt. Xylem tissue is organised in a tube-like fashion along the main axes of stems and roots. It consists of a combination of parenchyma cells, fibers, vessels, tracheids, and ray cells. Longer tubes made up of individual cells are vessels tracheids, while vessel members are open at each end. Internally, there may be bars of wall material extending across the open space. These cells are joined end to end to form long tubes. Vessel members and tracheids are dead at maturity. Tracheids have thick secondary cell walls and are tapered at the ends. They do not have end openings such as the vessels. The tracheids end overlap with each other, with pairs of pits present. The pit pairs allow water to pass from cell to cell.
+
+Though most conduction in xylem tissue is vertical, lateral conduction along the diameter of a stem is facilitated via rays. Rays are horizontal rows of long-living parenchyma cells that arise out of the vascular cambium. In trees and other woody plants, rays radiate out from the center of stems and roots and appear like spokes on a wheel in cross section. Rays, unlike vessel members and tracheids, are alive at functional maturity.
+
+## Phloem
+
+Phloem consists of:
+
+* Sieve tube
+* Companion cell
+* Phloem fibre
+* Phloem parenchyma.
+
+Phloem is an equally important plant tissue as it also is part of the 'plumbing system' of a plant. Primarily, phloem carries dissolved food substances throughout the plant. This conduction system is composed of sieve-tube member and companion cells, that are without secondary walls. The parent cells of the vascular cambium produce both xylem and phloem. This usually also includes fibers, parenchyma and ray cells. Sieve tubes are formed from sieve-tube members laid end to end. The end walls, unlike vessel members in xylem, do not have openings. The end walls, however, are full of small pores where cytoplasm extends from cell to cell. These porous connections are called sieve plates. In spite of the fact that their cytoplasm is actively involved in the conduction of food materials, sieve-tube members do not have nuclei at maturity. It is the companion cells that are nestled between sieve-tube members that function in some manner bringing about the conduction of food. Sieve-tube members that are alive contain a polymer called callose, a carbohydrate polymer, forming the callus pad/callus, the colourless substance that covers the sieve plate. Callose stays in solution as long as the cell contents are under pressure. Phloem transports food and materials in plants upwards and downwards as required.
 
 ## Embryophytes
 
