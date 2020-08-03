@@ -18,7 +18,7 @@ This Is A Text For The Introductory Biology Courses Biology I (SCI103) And Biolo
 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("biology_text_cover.jpg")
+knitr::include_graphics("biology_text_butter_cover.jpg")
 ```
 
 

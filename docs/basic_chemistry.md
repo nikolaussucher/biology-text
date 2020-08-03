@@ -1,4 +1,4 @@
-# Chemistry For Biology
+# Basic General Chemistry For Biology
 
 Chemistry is the scientific discipline involved with elements and compounds composed of atoms, molecules and ions: their composition, structure, properties, behavior and the changes they undergo during a reaction with other substances.
 
@@ -85,7 +85,7 @@ G
 
 There exist only limited possible states of energy for electrons, atoms and molecules. These are determined by the rules of quantum mechanics, which require quantization of energy of a bound system. The atoms/molecules in a higher energy state are said to be excited. The molecules/atoms of substance in an excited energy state are often much more reactive; that is, more amenable to chemical reactions.
 
-The phase of a substance is invariably determined by its energy and the energy of its surroundings. When the intermolecular forces of a substance are such that the energy of the surroundings is not sufficient to overcome them, it occurs in a more ordered phase like liquid or solid as is the case with water (H2O); a liquid at room temperature because its molecules are bound by hydrogen bonds. Whereas hydrogen sulfide (H2S) is a gas at room temperature and standard pressure, as its molecules are bound by weaker dipole-dipole interactions.
+The phase of a substance is invariably determined by its energy and the energy of its surroundings. When the intermolecular forces of a substance are such that the energy of the surroundings is not sufficient to overcome them, it occurs in a more ordered phase like liquid or solid as is the case with water (H~2~O); a liquid at room temperature because its molecules are bound by hydrogen bonds. Whereas hydrogen sulfide (H2S) is a gas at room temperature and standard pressure, as its molecules are bound by weaker dipole-dipole interactions.
 
 The transfer of energy from one chemical substance to another depends on the size of energy quanta emitted from one substance. However, heat energy is often transferred more easily from almost any substance to another because the phonons responsible for vibrational and rotational energy levels in a substance have much less energy than photons invoked for the electronic energy transfer. Thus, because vibrational and rotational energy levels are more closely spaced than electronic energy levels, heat is more easily transferred between substances relative to light or other forms of electronic energy. For example, ultraviolet electromagnetic radiation is not transferred with as much efficacy from one substance to another as thermal or electrical energy.
 
@@ -103,13 +103,62 @@ The sequence of steps in which the reorganization of chemical bonds may be takin
 
 According to the IUPAC gold book, a chemical reaction is "a process that results in the interconversion of chemical species." Accordingly, a chemical reaction may be an elementary reaction or a stepwise reaction. An additional caveat is made, in that this definition includes cases where the interconversion of conformers is experimentally observable. Such detectable chemical reactions normally involve sets of molecular entities as indicated by this definition, but it is often conceptually convenient to use the term also for changes involving single molecular entities (i.e. 'microscopic chemical events').
 
+## Water
+
+Water is an inorganic, transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's hydrosphere and the fluids of all known living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients. Its chemical formula is H~2~O, meaning that each of its molecules contains one oxygen and two hydrogen atoms, connected by covalent bonds.
+
+From a biological standpoint, water has many distinct properties that are critical for the proliferation of life. It carries out this role by allowing organic compounds to react in ways that ultimately allow replication. All known forms of life depend on water. Water is vital both as a solvent in which many of the body's solutes dissolve and as an essential part of many metabolic processes within the body. Metabolism is the sum total of anabolism and catabolism. In anabolism, water is removed from molecules (through energy requiring enzymatic chemical reactions) in order to grow larger molecules (e.g., starches, triglycerides and proteins for storage of fuels and information). In catabolism, water is used to break bonds in order to generate smaller molecules (e.g., glucose, fatty acids and amino acids to be used for fuels for energy use or other purposes). Without water, these particular metabolic processes could not exist.
+
+Water is fundamental to photosynthesis and respiration. Photosynthetic cells use the sun's energy to split off water's hydrogen from oxygen. Hydrogen is combined with CO~2~ (absorbed from air or water) to form glucose and release oxygen.[citation needed] All living cells use such fuels and oxidize the hydrogen and carbon to capture the sun's energy and reform water and CO~2~ in the process (cellular respiration).
+
+Water is also central to acid-base neutrality and enzyme function. An acid, a hydrogen ion (H+, that is, a proton) donor, can be neutralized by a base, a proton acceptor such as a hydroxide ion (OH−) to form water. Water is considered to be neutral, with a pH (the negative log of the hydrogen ion concentration) of 7. Acids have pH values less than 7 while bases have values greater than 7.
+
+Earth surface waters are filled with life. The earliest life forms appeared in water; nearly all fish live exclusively in water, and there are many types of marine mammals, such as dolphins and whales. Some kinds of animals, such as amphibians, spend portions of their lives in water and portions on land. Plants such as kelp and algae grow in the water and are the basis for some underwater ecosystems. Plankton is generally the foundation of the ocean food chain.
+
+Aquatic vertebrates must obtain oxygen to survive, and they do so in various ways. Fish have gills instead of lungs, although some species of fish, such as the lungfish, have both. Marine mammals, such as dolphins, whales, otters, and seals need to surface periodically to breathe air. Some amphibians are able to absorb oxygen through their skin. Invertebrates exhibit a wide range of modifications to survive in poorly oxygenated waters including breathing tubes (see insect and mollusc siphons) and gills (Carcinus). However as invertebrate life evolved in an aquatic habitat most have little or no specialization for respiration in water.
+
+"Water" is the name of the liquid state of H~2~O at standard ambient temperature and pressure. It forms precipitation in the form of rain and aerosols in the form of fog. Clouds are formed from suspended droplets of water and ice, its solid state. When finely divided, crystalline ice may precipitate in the form of snow. The gaseous state of water is steam or water vapor. Water moves continually through the water cycle of evaporation, transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea.
+
+Water covers 71% of the Earth's surface, mostly in seas and oceans. Small portions of water occur as groundwater (1.7%), in the glaciers and the ice caps of Antarctica and Greenland (1.7%), and in the air as vapor, clouds (formed of ice and liquid water suspended in air), and precipitation (0.001%).
+
+Water plays an important role in the world economy. Approximately 70% of the freshwater used by humans goes to agriculture. Fishing in salt and fresh water bodies is a major source of food for many parts of the world. Much of the long-distance trade of commodities (such as oil, natural gas, and manufactured products) is transported by boats through seas, rivers, lakes, and canals. Large quantities of water, ice, and steam are used for cooling and heating, in industry and homes. Water is an excellent solvent for a wide variety of substances both mineral and organic; as such it is widely used in industrial processes, and in cooking and washing.
+
+Water (H~2~O) is a polar inorganic compound that is at room temperature a tasteless and odorless liquid, nearly colorless with a hint of blue. This simplest hydrogen chalcogenide is by far the most studied chemical compound and is described as the "universal solvent" for its ability to dissolve many substances. This allows it to be the "solvent of life": indeed, water as found in nature almost always includes various dissolved substances, and special steps are required to obtain chemically pure water. Water is the only common substance to exist as a solid, liquid, and gas in normal terrestrial conditions.
+
+Water is one of the two official names for the chemical compound H~2~O; it is also the liquid phase of H~2~O. The other two common states of matter of water are the solid phase, ice, and the gaseous phase, water vapor or steam. The addition or removal of heat can cause phase transitions: freezing (water to ice), melting (ice to water), vaporization (water to vapor), condensation (vapor to water), sublimation (ice to vapor) and deposition (vapor to ice).
+
+Water differs from most liquids in that it becomes less dense as it freezes. In 1 atm pressure, it reaches its maximum density of 1,000 kg/m3 (62.43 lb/cu ft) at 3.98 °C (39.16 °F). The density of ice is 917 kg/m3 (57.25 lb/cu ft), an expansion of 9%. This expansion can exert enormous pressure, bursting pipes and cracking rocks (see Frost weathering).
+
+In a lake or ocean, water at 4 °C sinks to the bottom and ice forms on the surface, floating on the liquid water. This ice insulates the water below, preventing it from freezing solid. Without this protection, most aquatic organisms would perish during the winter.
+
+At a pressure of one atmosphere (atm), ice melts or water freezes at 0 °C (32 °F) and water boils or vapor condenses at 100 °C (212 °F). However, even below the boiling point, water can change to vapor at its surface by evaporation (vaporization throughout the liquid is known as boiling). Sublimation and deposition also occur on surfaces. For example, frost is deposited on cold surfaces while snowflakes form by deposition on an aerosol particle or ice nucleus. In the process of freeze-drying, a food is frozen and then stored at low pressure so the ice on its surface sublimates.
+
+In a water molecule, the hydrogen atoms form a 104.5° angle with the oxygen atom. The hydrogen atoms are close to two corners of a tetrahedron centered on the oxygen. At the other two corners are lone pairs of valence electrons that do not participate in the bonding. In a perfect tetrahedron, the atoms would form a 109.5° angle, but the repulsion between the lone pairs is greater than the repulsion between the hydrogen atoms.
+
+Other substances have a tetrahedral molecular structure, for example, methane (CH~4~) and hydrogen sulfide (H~2~S). However, oxygen is more electronegative (holds on to its electrons more tightly) than most other elements, so the oxygen atom retains a negative charge while the hydrogen atoms are positively charged. Along with the bent structure, this gives the molecule an electrical dipole moment and it is classified as a polar molecule.
+
+Water is a good polar solvent, that dissolves many salts and hydrophilic organic molecules such as sugars and simple alcohols such as ethanol. Water also dissolves many gases, such as oxygen and carbon dioxide—the latter giving the fizz of carbonated beverages, sparkling wines and beers. In addition, many substances in living organisms, such as proteins, DNA and polysaccharides, are dissolved in water. The interactions between water and the subunits of these biomacromolecules shape protein folding, DNA base pairing, and other phenomena crucial to life (hydrophobic effect).
+
+Many organic substances (such as fats and oils and alkanes) are hydrophobic, that is, insoluble in water. Many inorganic substances are insoluble too, including most metal oxides, sulfides, and silicates.
+
+Because of its polarity, a molecule of water in the liquid or solid state can form up to four hydrogen bonds with neighboring molecules. Hydrogen bonds are about ten times as strong as the Van der Waals force that attracts molecules to each other in most liquids. This is the reason why the melting and boiling points of water are much higher than those of other analogous compounds like hydrogen sulfide. They also explain its exceptionally high specific heat capacity (about 4.2 J/g/K), heat of fusion (about 333 J/g), heat of vaporization (2257 J/g), and thermal conductivity (between 0.561 and 0.679 W/m/K). These properties make water more effective at moderating Earth's climate, by storing heat and transporting it between the oceans and the atmosphere. The hydrogen bonds of water are around 23 kJ/mol (compared to a covalent O-H bond at 492 kJ/mol). Of this, it is estimated that 90% is attributable to electrostatics, while the remaining 10% is partially covalent.
+
+These bonds are the cause of water's high surface tension and capillary forces. The capillary action refers to the tendency of water to move up a narrow tube against the force of gravity. This property is relied upon by all vascular plants, such as trees.
+
+Water is a weak solution of hydronium hydroxide - there is an equilibrium 2H~2~O ⇔ H~3~O^+^ + OH^−^ , in combination with solvation of the resulting hydronium ions.
+
+Pure water has a low electrical conductivity, which increases with the dissolution of a small amount of ionic material such as common salt.
+
+Liquid water can be split into the elements hydrogen and oxygen by passing an electric current through it—a process called electrolysis. The decomposition requires more energy input than the heat released by the inverse process (285.8 kJ/mol, or 15.9 MJ/kg).
+
+
 ## Ions And Salts
 
 An ion is a charged species, an atom or a molecule, that has lost or gained one or more electrons. When an atom loses an electron and thus has more protons than electrons, the atom is a positively charged ion or cation. When an atom gains an electron and thus has more electrons than protons, the atom is a negatively charged ion or anion. Cations and anions can form a crystalline lattice of neutral salts, such as the Na+ and Cl− ions forming sodium chloride, or NaCl. Examples of polyatomic ions that do not split up during acid-base reactions are hydroxide (OH−) and phosphate (PO43−).
 
 Plasma is composed of gaseous matter that has been completely ionized, usually through high temperature.
 
-## Acidity and basicity
+## Acids And Bases
 
 A substance can often be classified as an acid or a base. There are several different theories which explain acid-base behavior. The simplest is Arrhenius theory, which states that acid is a substance that produces hydronium ions when it is dissolved in water, and a base is one that produces hydroxide ions when dissolved in water. According to Brønsted–Lowry acid-base theory, acids are substances that donate a positive hydrogen ion to another substance in a chemical reaction; by extension, a base is the substance which receives that hydrogen ion.
 
@@ -119,6 +168,40 @@ Acid strength is commonly measured by two methods. One measurement, based on the
 
 ## Redox
 
-Redox (reduction-oxidation) reactions include all chemical reactions in which atoms have their oxidation state changed by either gaining electrons (reduction) or losing electrons (oxidation). Substances that have the ability to oxidize other substances are said to be oxidative and are known as oxidizing agents, oxidants or oxidizers. An oxidant removes electrons from another substance. Similarly, substances that have the ability to reduce other substances are said to be reductive and are known as reducing agents, reductants, or reducers.
+Redox (reduction-oxidation) reactions include all chemical reactions in which atoms have their oxidation state changed by either gaining electrons (reduction) or losing electrons (oxidation). Substances that have the ability to oxidize other substances are said to be oxidative and are known as oxidizing agents, oxidants or oxidizers. An oxidant removes electrons from another substance. Similarly, substances that have the ability to reduce other substances are said to be reductive and are known as reducing agents, reductants, or reducers. The chemical species from which the electron is removed is said to have been oxidized, while the chemical species to which the electron is added is said to have been reduced. In other words:
+
+* Oxidation is the loss of electrons or an increase in the oxidation state of an atom, an ion, or of certain atoms in a molecule.
+* Reduction is the gain of electrons or a decrease in the oxidation state of an atom, an ion, or of certain atoms in a molecule.
+
+
+"Redox" is a portmanteau of the words "reduction" and "oxidation". The word oxidation originally implied reaction with oxygen to form an oxide, since dioxygen (O2)(g)) was historically the first recognized oxidizing agent. Later, the term was expanded to encompass oxygen-like substances that accomplished parallel chemical reactions. Ultimately, the meaning was generalized to include all processes involving loss of electrons.
+
+The word reduction originally referred to the loss in weight upon heating a metallic ore such as a metal oxide to extract the metal. In other words, ore was "reduced" to metal. Antoine Lavoisier showed that this loss of weight was due to the loss of oxygen as a gas. Later, scientists realized that the metal atom gains electrons in this process. The meaning of reduction then became generalized to include all processes involving a gain of electrons.
+
+The electrochemist John Bockris has used the words electronation and deelectronation to describe reduction and oxidation processes, respectively, when they occur at electrodes. These words are analogous to protonation and deprotonation, but they have not been widely adopted by chemists worldwide.
+
+The term "hydrogenation" could often be used instead of reduction, since hydrogen is the reducing agent in a large number of reactions, especially in organic chemistry and biochemistry. But, unlike oxidation, which has been generalized beyond its root element, hydrogenation has maintained its specific connection to reactions that add hydrogen to another substance (e.g., the hydrogenation of unsaturated fats into saturated fats, R−CH=CH−R + H~2~ → R−CH~2~−CH~2~    −R). The word "redox" was first used in 1928.
+
+
+Many reactions in organic chemistry are redox reactions due to changes in oxidation states but without distinct electron transfer. For example, during the combustion of wood with molecular oxygen, the oxidation state of carbon atoms in the wood increases and that of oxygen atoms decreases as carbon dioxide and water are formed. The oxygen atoms undergo reduction, formally gaining electrons, while the carbon atoms undergo oxidation, losing electrons. Thus oxygen is the oxidizing agent and carbon is the reducing agent in this reaction.
+
+Although oxidation reactions are commonly associated with the formation of oxides from oxygen molecules, oxygen is not necessarily included in such reactions, as other chemical species can serve the same function.
+
+Redox reactions can occur relatively slowly, as in the formation of rust, or much more rapidly, as in the case of burning fuel. There are simple redox processes, such as the oxidation of carbon to yield carbon dioxide (COCOCOCO~2~2CO~2~2COCO~2~2CO~2~2COCOCO~2~2CO~2~2COCO~2~2CO~2~)) or the reduction of carbon by hydrogen to yield methane (CH4), and more complex processes such as the oxidation of glucose (C6H12O6) in the human body. Analysis of bond energies and ionization energies in water allow calculation of the redox potentials.
 
 A reductant transfers electrons to another substance and is thus oxidized itself. And because it "donates" electrons it is also called an electron donor. Oxidation and reduction properly refer to a change in oxidation number—the actual transfer of electrons may never occur. Thus, oxidation is better defined as an increase in oxidation number, and reduction as a decrease in oxidation number.
+
+Many important biological processes involve redox reactions.
+
+Cellular respiration, for instance, is the oxidation of glucose (C~6~H~12~O~6~) to CO~2~ and the reduction of oxygen to water. The summary equation for cell respiration is:
+
+C~6~H~12~O~6~ + 6 O~2~) → 6 CO~2~ + 6 H~2~0
+The process of cell respiration also depends heavily on the reduction of NAD+ to NADH and the reverse reaction (the oxidation of NADH to NAD+). Photosynthesis and cellular respiration are complementary, but photosynthesis is not the reverse of the redox reaction in cell respiration:
+
+6 CO~2~  + 6 H~2~O + light energy → C~6~H~12~O~6~ + 6 O~2~)
+
+Biological energy is frequently stored and released by means of redox reactions. Photosynthesis involves the reduction of carbon dioxide into sugars and the oxidation of water into molecular oxygen. The reverse reaction, respiration, oxidizes sugars to produce carbon dioxide and water. As intermediate steps, the reduced carbon compounds are used to reduce nicotinamide adenine dinucleotide (NAD+) to NADH, which then contributes to the creation of a proton gradient, which drives the synthesis of adenosine triphosphate (ATP) and is maintained by the reduction of oxygen. In animal cells, mitochondria perform similar functions. See the Membrane potential article.
+
+Free radical reactions are redox reactions that occur as a part of homeostasis and killing microorganisms, where an electron detaches from a molecule and then reattaches almost instantaneously. Free radicals are a part of redox molecules and can become harmful to the human body if they do not reattach to the redox molecule or an antioxidant. Unsatisfied free radicals can spur the mutation of cells they encounter and are, thus, causes of cancer.
+
+The term redox state is often used to describe the balance of GSH/GSSG, NAD+/NADH and NADP+/NADPH in a biological system such as a cell or organ. The redox state is reflected in the balance of several sets of metabolites (e.g., lactate and pyruvate, beta-hydroxybutyrate, and acetoacetate), whose interconversion is dependent on these ratios. An abnormal redox state can develop in a variety of deleterious situations, such as hypoxia, shock, and sepsis. Redox mechanism also control some cellular processes. Redox proteins and their genes must be co-located for redox regulation according to the CoRR hypothesis for the function of DNA in mitochondria and chloroplasts.

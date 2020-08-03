@@ -17,7 +17,7 @@ lot: yes
 This Is A Text For The Introductory Biology Courses Biology I (SCI103) And Biology II (SCI104) at Roxbury Community College (RCC).
 
 
-<img src="biology_text_cover.jpg" width="70%" style="display: block; margin: auto;" />
+<img src="biology_text_butter_cover.jpg" width="70%" style="display: block; margin: auto;" />
 
 
 This work is licensed under the [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) United States License.
