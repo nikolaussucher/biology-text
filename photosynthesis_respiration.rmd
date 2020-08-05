@@ -1,5 +1,17 @@
 # Photosynthesis And Cellular Respiration
 
+Plants acquire energy from sunlight through photosynthesis. Animals get their energy by breaking down chemical bonds in nutrients during cellular respiration. In eukaryiotic cells, photosynthesis happens in chloroplasts, cellular respiration in mitochondria. In both photosynthesis and cellular respiration, involves and electron transfer chain and chemiosmosis. 
+
+## The Electron Transfer Chain And Chemiosmosis
+
+The electron transport chain (ETC) is a series of complexes that transfer electrons from electron donors to electron acceptors via redox (both reduction and oxidation occurring simultaneously) reactions, and couples this electron transfer with the transfer of protons (H^+^ ions) across a membrane. The electron transport chain is built up of peptides, enzymes, and other molecules.
+
+In photosynthetic eukaryotes, the electron transport chain is found on the thylakoid membrane. Here, light energy drives the reduction of components of the electron transport chain and therefore causes subsequent synthesis of ATP. The electron transport chain, and site of oxidative phosphorylation is found on the inner mitochondrial membrane. The energy stored from the process of respiration in reduced compounds (such as NADH and FADH) is used by the electron transport chain to pump protons into the inter membrane space, generating the electrochemical gradient over the inner mitochrondrial membrane. 
+
+Hydrogen ions, or protons, will diffuse from an area of high proton concentration to an area of lower proton concentration, and an electrochemical concentration gradient of protons across a membrane can be harnessed to make ATP. This process is related to osmosis, the diffusion of water across a membrane, which is why it is called "chemiosmosis".
+
+The formation of adenosine triphosphate (ATP) by the movement of hydrogen ions (H^+^) across a membrane during cellular respiration or photosynthesis is an example of chemiosmosis. ATP synthase is the enzyme that makes ATP by chemiosmosis. It allows protons to pass through the membrane and uses the free energy difference to phosphorylate adenosine diphosphate (ADP), making ATP. The generation of ATP by chemiosmosis occurs in mitochondria and chloroplasts, as well as in most bacteria and archaea, an electron transport chain pumps H^+^ ions in the thylakoid spaces through thylakoid membranes to stroma (fluid). The energy from the electron movement through electron transport chains cross through ATP synthase which allows the proton to pass through them and use this free energy difference to photophosphorylate ADP making ATP.
+
 ## Photosynthesis 
 
 Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy that can later be released to fuel the organisms' activities. This chemical energy is stored in carbohydrate molecules, such as sugars, which are synthesized from carbon dioxide and water – hence the name photosynthesis, from the Greek phōs (φῶς), "light", and sunthesis (σύνθεσις), "putting together". In most cases, oxygen is also released as a waste product. Most plants, most algae, and cyanobacteria perform photosynthesis; such organisms are called photoautotrophs. Photosynthesis is largely responsible for producing and maintaining the oxygen content of the Earth's atmosphere, and supplies most of the energy necessary for life on Earth.
@@ -156,4 +168,5 @@ Cellular respiration is the process by which biological fuels are oxidised in th
 Anaerobic respiration is used by some microorganisms in which neither oxygen (aerobic respiration) nor pyruvate derivatives (fermentation) is the high-energy final electron acceptor. Rather, an inorganic acceptor such as sulfate or nitrate is used. Such organisms are typically found in unusual places such as underwater caves or near hydrothermal vents at the bottom of the ocean.
 
 In July 2019, a scientific study of Kidd Mine in Canada discovered sulfur-breathing organisms which live 7900 feet below the surface, and which breathe sulfur in order to survive. These organisms are also remarkable due to consuming minerals such as pyrite as their food source. 
+
 
