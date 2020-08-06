@@ -52,7 +52,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 membrane <-  as_tibble(read.csv("data/membrane_proteins.csv"))
 
-knitr::kable(membrane, col.names = c("Type", "Description", "Examples"), digits = 2, align = 'lll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position")) %>% scroll_box(width = "100%", height = "100") 
+knitr::kable(membrane, col.names = c("Type", "Description", "Examples"), digits = 2, align = 'lll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
 

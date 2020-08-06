@@ -93,7 +93,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 bacmet <-  as_tibble(read.csv("data/bacterial_metabolism.csv"))
 
-knitr::kable(bacmet, col.names = c("Nutritional Type", "Source of Energy", "Source of Carbon", "Examples"), digits = 2, align = 'llll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position")) %>% scroll_box(width = "100%", height = "100") 
+knitr::kable(bacmet, col.names = c("Nutritional Type", "Source of Energy", "Source of Carbon", "Examples"), digits = 2, align = 'llll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
 In many ways, bacterial metabolism provides traits that are useful for ecological stability and for human society. One example is that some bacteria have the ability to fix nitrogen gas using the enzyme nitrogenase. This environmentally important trait can be found in bacteria of most metabolic types listed above. This leads to the ecologically important processes of denitrification, sulfate reduction, and acetogenesis, respectively. Bacterial metabolic processes are also important in biological responses to pollution; for example, sulfate-reducing bacteria are largely responsible for the production of the highly toxic forms of mercury (methyl- and dimethylmercury) in the environment. Non-respiratory anaerobes use fermentation to generate energy and reducing power, secreting metabolic by-products (such as ethanol in brewing) as waste. Facultative anaerobes can switch between fermentation and different terminal electron acceptors depending on the environmental conditions in which they find themselves.
@@ -217,7 +217,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 domaincomp <-  as_tibble(read.csv("data/bacteria_archaea_comp.csv"))
 
-knitr::kable(domaincomp, col.names = c("Property", "Bacteria", "Archaea", "Eukarya"), digits = 2, align = 'llll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position")) %>% scroll_box(width = "100%", height = "100") 
+knitr::kable(domaincomp, col.names = c("Property", "Bacteria", "Archaea", "Eukarya"), digits = 2, align = 'llll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position")) 
 ```
 
 Archaea were split off as a third domain because of the large differences in their ribosomal RNA structure. The particular molecule 16S rRNA is key to the production of proteins in all organisms. Because this function is so central to life, organisms with mutations in their 16S rRNA are unlikely to survive, leading to great (but not absolute) stability in the structure of this nucleotide over generations. 16S rRNA is large enough to show organism-specific variations, but still small enough to be compared quickly. In 1977, Carl Woese, a microbiologist studying the genetic sequences of organisms, developed a new comparison method that involved splitting the RNA into fragments that could be sorted and compared with other fragments from other organisms. The more similar the patterns between species, the more closely they are related.
@@ -285,7 +285,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 archmet <-  as_tibble(read.csv("data/archaea_metabolism.csv"))
 
-knitr::kable(archmet, col.names = c("Nutritional Type", "Source of Energy", "Source of Carbon", "Examples"), digits = 2, align = 'llll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position")) %>% scroll_box(width = "100%", height = "100") 
+knitr::kable(archmet, col.names = c("Nutritional Type", "Source of Energy", "Source of Carbon", "Examples"), digits = 2, align = 'llll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position")) 
 ```
 
 Some Euryarchaeota are methanogens (archaea that produce methane as a result of metabolism) living in anaerobic environments, such as swamps. This form of metabolism evolved early, and it is even possible that the first free-living organism was a methanogen. A common reaction involves the use of carbon dioxide as an electron acceptor to oxidize hydrogen. Methanogenesis involves a range of coenzymes that are unique to these archaea, such as coenzyme M and methanofuran. Other organic compounds such as alcohols, acetic acid or formic acid are used as alternative electron acceptors by methanogens. These reactions are common in gut-dwelling archaea. Acetic acid is also broken down into methane and carbon dioxide directly, by acetotrophic archaea. These acetotrophs are archaea in the order Methanosarcinales, and are a major part of the communities of microorganisms that produce biogas.

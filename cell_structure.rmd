@@ -75,7 +75,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 cellcomp <-  as_tibble(read.csv("data/cell_comparison.csv"))
 
-knitr::kable(cellcomp, col.names = c("", "Prokaryotes", "Eukaryotes"), digits = 2, align = 'lll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position")) %>% scroll_box(width = "100%", height = "100") 
+knitr::kable(cellcomp, col.names = c("", "Prokaryotes", "Eukaryotes"), digits = 2, align = 'lll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
 ## Subcellular Components

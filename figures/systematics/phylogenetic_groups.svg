@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="443.28000pt"
+   height="377.89000pt"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   sodipodi:docbase="/home/sean"
+   sodipodi:docname="Phylogenetic-Groups2.svg"
+   inkscape:export-filename="C:\Documents and Settings\James\デスクトップ\Polyphyletic-mammals-birds.png"
+   inkscape:export-xdpi="300.00000"
+   inkscape:export-ydpi="300.00000">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="197.14286"
+     inkscape:cy="279.12412"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1014"
+     inkscape:window-height="689"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect1918"
+       width="567"
+       height="489"
+       x="-2"
+       y="-1.6374817" />
+    <path
+       style="fill:#ff0202;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.63749999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 165.76954,176.63525 C 182.09386,146.53676 249.61645,120.53797 285.63932,108.97356 C 322.11393,97.264130 446.39097,94.374119 481.69923,118.44792 C 516.66789,142.29018 502.06630,177.05086 494.71694,194.89103 C 487.23129,213.06203 476.49455,223.13841 458.53435,215.86739 C 440.57416,208.59638 455.40394,190.74347 469.94463,180.16910 C 484.80953,169.35896 489.26766,155.40861 476.23575,135.13919 C 463.34767,115.09348 336.40016,105.20476 272.20052,138.12440 C 207.79723,171.14847 223.71728,176.26345 205.34955,197.76015 C 186.94032,219.30543 149.23587,207.11973 165.76954,176.63525 z "
+       id="path2131"
+       sodipodi:nodetypes="czzzzzzzzz" />
+    <path
+       style="fill:#fffc00;fill-opacity:0.45021644;fill-rule:evenodd;stroke:#000000;stroke-width:0.63749999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 274.07097,291.79495 C 358.50940,411.94129 538.41785,323.91625 526.66437,213.86367 C 514.39253,87.066105 332.41699,125.93698 279.47508,142.19239 C 228.41329,161.98400 202.76230,207.73118 274.07097,291.79495 z "
+       id="path2089"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#00efff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.63749999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 274.09256,281.52371 C 355.35712,396.52958 530.90990,318.97394 519.59822,213.62997 C 461.41666,260.78862 403.45527,238.61879 448.73565,152.46168 C 374.66254,119.55077 152.61130,119.78271 274.09256,281.52371 z "
+       id="path2840"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="textlayer">
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+       d="M 213.44583,458.55905 L 466.04834,207.56989"
+       id="path1316"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+       d="M 249.58285,422.74203 L 34.357374,206.59321"
+       id="path1318"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+       d="M 285.36320,386.30167 L 105.65475,205.61653"
+       id="path1320" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+       d="M 322.01690,350.36131 L 177.92880,206.59321"
+       id="path1322"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+       d="M 358.61393,314.02761 L 249.22618,205.61653"
+       id="path1324" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+       d="M 394.30762,278.63726 L 322.47691,206.59321"
+       id="path1326"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+       d="M 430.42798,242.50023 L 393.77428,206.59321"
+       id="path1328"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.000002px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Century Gothic"
+       x="238.08238"
+       y="457.08368"
+       id="text1330"
+       sodipodi:linespacing="125.00000%"
+       transform="scale(1.039228,0.962253)"><tspan
+         sodipodi:role="line"
+         id="tspan1332"
+         x="238.08238"
+         y="457.08368">Vertebrata</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Century Gothic"
+       x="284.43988"
+       y="404.2085"
+       id="text2060"
+       sodipodi:linespacing="125.00000%"><tspan
+         sodipodi:role="line"
+         id="tspan2062"
+         x="284.43988"
+         y="404.2085">Tetrapoda</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Century Gothic"
+       x="320.81357"
+       y="368.15482"
+       id="text2064"
+       sodipodi:linespacing="125.00000%"><tspan
+         sodipodi:role="line"
+         id="tspan2066"
+         x="320.81357"
+         y="368.15482">Amniota</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Century Gothic"
+       x="358.6806"
+       y="332.20776"
+       id="text2068"
+       sodipodi:linespacing="125.00000%"><tspan
+         sodipodi:role="line"
+         id="tspan2070"
+         x="358.6806"
+         y="332.20776">Reptilia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Century Gothic"
+       x="394.73431"
+       y="295.94077"
+       id="text2072"
+       sodipodi:linespacing="125.00000%"><tspan
+         sodipodi:role="line"
+         id="tspan2074"
+         x="394.73431"
+         y="295.94077">Diapsida</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Century Gothic"
+       x="427.8013"
+       y="260.74042"
+       id="text2076"
+       sodipodi:linespacing="125.00000%"><tspan
+         sodipodi:role="line"
+         id="tspan2078"
+         x="427.8013"
+         y="260.74042">Archosauria</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Century Gothic"
+       x="-121.6037"
+       y="168.11905"
+       id="text2080"
+       sodipodi:linespacing="125.00000%"
+       transform="matrix(0.707107,-0.707107,0.707107,0.707107,0.000000,0.000000)"><tspan
+         sodipodi:role="line"
+         id="tspan2082"
+         x="-121.6037"
+         y="168.11905">Pisces</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Century Gothic"
+       x="-71.141747"
+       y="219.74327"
+       id="text2084"
+       sodipodi:linespacing="125.00000%"
+       transform="matrix(0.707107,-0.707107,0.707107,0.707107,0.000000,0.000000)"><tspan
+         sodipodi:role="line"
+         id="tspan2086"
+         x="-71.141747"
+         y="219.74327">Amphibia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Century Gothic"
+       x="-19.182199"
+       y="271.53781"
+       id="text2088"
+       sodipodi:linespacing="125.00000%"
+       transform="matrix(0.707107,-0.707107,0.707107,0.707107,0.000000,0.000000)"><tspan
+         sodipodi:role="line"
+         id="tspan2090"
+         x="-19.182199"
+         y="271.53781">Mammalia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Century Gothic"
+       x="31.114746"
+       y="321.5098"
+       id="text2092"
+       sodipodi:linespacing="125.00000%"
+       transform="matrix(0.707107,-0.707107,0.707107,0.707107,0.000000,0.000000)"><tspan
+         sodipodi:role="line"
+         id="tspan2094"
+         x="31.114746"
+         y="321.5098">Testudines</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Century Gothic"
+       x="82.031258"
+       y="373.31723"
+       id="text2096"
+       sodipodi:linespacing="125.00000%"
+       transform="matrix(0.707107,-0.707107,0.707107,0.707107,0.000000,0.000000)"><tspan
+         sodipodi:role="line"
+         id="tspan2098"
+         x="82.031258"
+         y="373.31723">Lepidosauria</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000024px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Century Gothic"
+       x="132.31778"
+       y="424.63043"
+       id="text2100"
+       sodipodi:linespacing="125.00000%"
+       transform="matrix(0.707107,-0.707107,0.707107,0.707107,0.000000,0.000000)"><tspan
+         sodipodi:role="line"
+         id="tspan2102"
+         x="132.31778"
+         y="424.63043">Crocodylia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Century Gothic"
+       x="183.18932"
+       y="474.45547"
+       id="text2104"
+       sodipodi:linespacing="125.00000%"
+       transform="matrix(0.707107,-0.707107,0.707107,0.707107,0.000000,0.000000)"><tspan
+         sodipodi:role="line"
+         id="tspan2106"
+         x="183.18932"
+         y="474.45547">Aves</tspan></text>
+    <g
+       id="g1363"
+       transform="translate(-15.50695,17.94174)">
+      <text
+         sodipodi:linespacing="140.00000%"
+         id="text1338"
+         y="38.18351"
+         x="150.87099"
+         style="font-size:12.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:140.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan1344"
+           y="38.18351"
+           x="150.87099"
+           sodipodi:role="line">Polyphyly</tspan></text>
+      <rect
+         y="28.709879"
+         x="128.15401"
+         height="10.969484"
+         width="20.443130"
+         id="rect1350"
+         style="opacity:1.0000000;color:#000000;fill:#ff0202;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.63749999;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
+    </g>
+    <g
+       id="g1368"
+       transform="translate(-15.49944,-14.71745)">
+      <rect
+         y="45.066631"
+         x="128.16150"
+         height="10.928068"
+         width="20.428118"
+         id="rect1352"
+         style="opacity:1.0000000;color:#000000;fill:#00efff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.66751426;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
+      <text
+         sodipodi:linespacing="140.00000%"
+         id="text1347"
+         y="54.62431"
+         x="150.87099"
+         style="font-size:12.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:140.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan1353"
+           y="54.62431"
+           x="150.87099"
+           sodipodi:role="line">Paraphyly</tspan></text>
+    </g>
+    <g
+       id="g1373"
+       transform="translate(-15.49306,-47.37656)">
+      <rect
+         y="61.368916"
+         x="128.16351"
+         height="10.939322"
+         width="20.424116"
+         id="rect1354"
+         style="opacity:1.0000000;color:#000000;fill:#fffc00;fill-opacity:0.45021644;fill-rule:evenodd;stroke:#000000;stroke-width:0.68428385;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
+      <text
+         sodipodi:linespacing="140.00000%"
+         id="text1355"
+         y="71.065071"
+         x="150.87099"
+         style="font-size:12.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:140.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan1361"
+           y="71.065071"
+           x="150.87099"
+           sodipodi:role="line">Monophyly</tspan></text>
+    </g>
+  </g>
+</svg>

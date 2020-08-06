@@ -40,7 +40,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 protmet <-  as_tibble(read.csv("data/protist_metabolism.csv"))
 
-knitr::kable(protmet, col.names = c("Nutritional Type", "Source of Energy", "Source of Carbon", "Examples"), digits = 2, align = 'llll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position")) %>% scroll_box(width = "100%", height = "100") 
+knitr::kable(protmet, col.names = c("Nutritional Type", "Source of Energy", "Source of Carbon", "Examples"), digits = 2, align = 'llll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
 ## Reproduction

@@ -75,7 +75,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 macro <-  as_tibble(read.csv("data/macromolecules.csv"))
 
-knitr::kable(macro, col.names = c("Type of molecule", "Name of monomer forms", "Name of polymer forms", "Examples of polymer forms"), digits = 2, align = 'llll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position")) %>% scroll_box(width = "100%", height = "100") 
+knitr::kable(macro, col.names = c("Type of molecule", "Name of monomer forms", "Name of polymer forms", "Examples of polymer forms"), digits = 2, align = 'llll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position")) 
 ```
 The history of the scientific study of metabolism spans several centuries and has moved from examining whole animals in early studies, to examining individual metabolic reactions in modern biochemistry. The first controlled experiments in human metabolism were published by Santorio Santorio in 1614 in his book Ars de statica medicina. He described how he weighed himself before and after eating, sleep, working, sex, fasting, drinking, and excreting. He found that most of the food he took in was lost through what he called "insensible perspiration".
 

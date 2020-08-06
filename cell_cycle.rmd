@@ -40,7 +40,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 cellcyc <-  as_tibble(read.csv("data/cell_cycle.csv"))
 
-knitr::kable(cellcyc, col.names = c("State", "Phase", "Abbreviation", "Description"), digits = 2, align = 'llll', booktabs = TRUE) %>% collapse_rows(columns = 1, valign = "middle") %>% scroll_box(width = "100%", height = "100") 
+knitr::kable(cellcyc, col.names = c("State", "Phase", "Abbreviation", "Description"), digits = 2, align = 'llll', booktabs = TRUE) %>% collapse_rows(columns = 1, valign = "middle")
 ```
 
 After cell division, each of the daughter cells begin the interphase of a new cycle. Although the various stages of interphase are not usually morphologically distinguishable, each phase of the cell cycle has a distinct set of specialized biochemical processes that prepare the cell for initiation of cell division.
