@@ -1,4 +1,33 @@
-# The Excretory System
+# Osmoregulation And Excretory Systems 
+
+Osmoregulation is the active regulation of the osmotic pressure of an organism's body fluids, detected by osmoreceptors, to maintain the homeostasis of the organism's water content; that is, it maintains the fluid balance and the concentration of electrolytes (salts in solution which in this case is represented by body fluid) to keep the body fluids from becoming too diluted or concentrated. Osmotic pressure is a measure of the tendency of water to move into one solution from another by osmosis.[1] The higher the osmotic pressure of a solution, the more water tends to move into it. Pressure must be exerted on the hypertonic side of a selectively permeable membrane to prevent diffusion of water by osmosis from the side containing pure water.
+
+Organisms in aquatic and terrestrial environments must maintain the right concentration of solutes and amount of water in their body fluids; this involves excretion (getting rid of metabolic nitrogen wastes and other substances such as hormones that would be toxic if allowed to accumulate in the blood) through organs such as the skin and the kidneys.
+The excretory system is a passive biological system that removes excess, unnecessary materials from the body fluids of an organism, so as to help maintain internal chemical homeostasis and prevent damage to the body. The dual function of excretory systems is the elimination of the waste products of metabolism and to drain the body of used up and broken down components in a liquid and gaseous state. In humans and other amniotes (mammals, birds and reptiles) most of these substances leave the body as urine and to some degree exhalation, mammals also expel them through sweating.
+
+Excretion is a process by which metabolic waste is eliminated from an organism. In vertebrates this is primarily carried out by the lungs, kidneys and skin.[1] Excretion is an essential process in all forms of life. For example, in mammals urine is expelled through the urethra, which is part of the excretory system. In unicellular organisms, waste products are discharged directly through the surface of the cell.
+
+During life activities such as cellular respiration, several chemical reactions take place in the body. These are known as metabolism. These chemical reactions produce waste products such as carbon dioxide, water, salts, urea and uric acid. Accumulation of these wastes beyond a level inside the body is harmful to the body. The excretory organs remove these wastes. This process of removal of metabolic waste from the body is known as excretion.
+
+Green plants produce carbon dioxide and water as respiratory products. In green plants, the carbon dioxide released during respiration gets utilized during photosynthesis. Oxygen is a by product generated during photosynthesis, and exits through stomata, root cell walls, and other routes. Plants can get rid of excess water by transpiration and guttation. It has been shown that the leaf acts as an 'excretophore' and, in addition to being a primary organ of photosynthesis, is also used as a method of excreting toxic wastes via diffusion. Other waste materials that are exuded by some plants — resin, saps, latex, etc. are forced from the interior of the plant by hydrostatic pressures inside the plant and by absorptive forces of plant cells. These latter processes do not need added energy, they act passively. However, during the pre-abscission phase, the metabolic levels of a leaf are high.[2][3] Plants also excrete some waste substances into the soil around them.[4]
+
+In animals, the main excretory products are carbon dioxide, ammonia (in many aquatic invertebrates), urea (in amphibians and mammals), uric acid (in insects, birds and other reptiles), guanine (in spiders) and creatine. The liver and kidneys clear many substances from the blood (for example, in renal excretion), and the cleared substances are then excreted from the body in the urine and feces.
+
+## Nitrogenous Waste
+
+The nitrogen compounds through which excess nitrogen is eliminated from organisms are called nitrogenous wastes or nitrogen wastes. They are ammonia, urea, uric acid, and creatinine. All of these substances are produced from protein metabolism. In many animals, the urine is the main route of excretion for such wastes; in some, the feces is.
+
+Aquatic animals usually excrete ammonia directly into the external environment, as this compound has high solubility and there is ample water available for dilution. In terrestrial animals ammonia-like compounds are converted into other nitrogenous materials as there is less water in the environment and ammonia itself is toxic.
+
+Birds excrete their nitrogenous wastes as uric acid in the form of a paste. Although this process is metabolically more expensive, it allows more efficient water retention and it can be stored more easily in the egg. Many avian species, especially seabirds, can also excrete salt via specialized nasal salt glands, the saline solution leaving through nostrils in the beak.
+
+In insects, a system involving Malpighian tubules is utilized to excrete metabolic waste. Metabolic waste diffuses or is actively transported into the tubule, which transports the wastes to the intestines. The metabolic waste is then released from the body along with fecal matter.
+
+Only the organs specifically used for the excretion are considered a part of the excretory system. In the narrow sense, the term refer to the urinary system. However, as excretion involves several functions that are only superficially related, it is not usually used in more formal classifications of anatomy or function.
+
+As most healthy functioning organs produce metabolic and other wastes, the entire organism depends on the function of the system. Breaking down of one of more of the systems is a serious health condition, for example kidney failure.
+
+## Excretory Systems
 
 The excretory system is a passive biological system that removes excess, unnecessary materials from the body fluids of an organism, so as to help maintain internal chemical homeostasis and prevent damage to the body. The dual function of excretory systems is the elimination of the waste products of metabolism and to drain the body of used up and broken down components in a liquid and gaseous state. In humans and other amniotes (mammals, birds and reptiles) most of these substances leave the body as urine and to some degree exhalation, mammals also expel them through sweating.
 
@@ -6,7 +35,7 @@ Only the organs specifically used for the excretion are considered a part of the
 
 As most healthy functioning organs produce metabolic and other wastes, the entire organism depends on the function of the system. Breaking down of one of more of the systems is a serious health condition, for example kidney failure.
 
-## The Urinary System
+## The Human Urinary System
 
 The urinary system, also known as the renal system or urinary tract, consists of the kidneys, ureters, bladder, and the urethra. The purpose of the urinary system is to eliminate waste from the body, regulate blood volume and blood pressure, control levels of electrolytes and metabolites, and regulate blood pH. The urinary tract is the body's drainage system for the eventual removal of urine. The kidneys have an extensive blood supply via the renal arteries which leave the kidneys via the renal vein. Each kidney consists of functional units called nephrons. Following filtration of blood and further processing, wastes (in the form of urine) exit the kidney via the ureters, tubes made of smooth muscle fibres that propel urine towards the urinary bladder, where it is stored and subsequently expelled from the body by urination (voiding). The female and male urinary system are very similar, differing only in the length of the urethra.
 
@@ -48,7 +77,6 @@ In the first part of the nephron, Bowman's capsule filters blood from the circul
 
 The urinary system is regulated by the endocrine system by hormones such as antidiuretic hormone, aldosterone, and parathyroid hormone.
 
-Regulation of concentration and volume
 The urinary system is under influence of the circulatory system, nervous system, and endocrine system.
 
 Aldosterone plays a central role in regulating blood pressure through its effects on the kidney. It acts on the distal tubules and collecting ducts of the nephron and increases reabsorption of sodium from the glomerular filtrate. Reabsorption of sodium results in retention of water, which increases blood pressure and blood volume. Antidiuretic hormone (ADH), is a neurohypophysial hormone found in most mammals. Its two primary functions are to retain water in the body and vasoconstriction. Vasopressin regulates the body's retention of water by increasing water reabsorption in the collecting ducts of the kidney nephron. Vasopressin increases water permeability of the kidney's collecting duct and distal convoluted tubule by inducing translocation of aquaporin-CD water channels in the kidney nephron collecting duct plasma membrane.

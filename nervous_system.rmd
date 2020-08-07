@@ -1,6 +1,4 @@
-# The Nervous System 
-
-## Introduction
+# Nervous Systems
 
 The nervous system is a highly complex part of an animal that coordinates its actions and sensory information by transmitting signals to and from different parts of its body. The nervous system detects environmental changes that impact the body, then works in tandem with the endocrine system to respond to such events.
 
