@@ -6,6 +6,8 @@ In most fish, and a number of other aquatic animals (both vertebrates and invert
 
 Other animals, such as insects, have respiratory systems with very simple anatomical features, and in amphibians even the skin plays a vital role in gas exchange. Plants also have respiratory systems but the directionality of gas exchange can be opposite to that in animals. The respiratory system in plants includes anatomical features such as stomata, that are found in various parts of the plant.
 
+## The Mammalian Respiratory System
+
 In humans and other mammals, the anatomy of a typical respiratory system is the respiratory tract. The tract is divided into an upper and a lower respiratory tract. The upper tract includes the nose, nasal cavities, sinuses, pharynx and the part of the larynx above the vocal folds. The lower tract (Fig. 2.) includes the lower part of the larynx, the trachea, bronchi, bronchioles and the alveoli.
 
 The branching airways of the lower tract are often described as the respiratory tree or tracheobronchial tree. The intervals between successive branch points along the various branches of "tree" are often referred to as branching "generations", of which there are, in the adult human about 23. The earlier generations (approximately generations 0–16), consisting of the trachea and the bronchi, as well as the larger bronchioles which simply act as air conduits, bringing air to the respiratory bronchioles, alveolar ducts and alveoli (approximately generations 17–23), where gas exchange takes place. Bronchioles are defined as the small airways lacking any cartilagenous support.

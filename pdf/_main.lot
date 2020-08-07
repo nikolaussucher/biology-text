@@ -7,18 +7,16 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {8.1}{\ignorespaces \href {https://www.ncbi.nlm.nih.gov/grc/human/data}{Human Genome Assembly GRCh38.p12 (nucleotides) and GRCh38.p13 (coding genes)}. Length of DNA sequence and number of coding genes of each human chromosome. Total lengths are calculated by summing the length of the sequenced bases and estimated gaps.\relax }}{102}{table.8.1}%
-\contentsline {table}{\numberline {8.2}{\ignorespaces Chromosome numbers in some plants.\relax }}{103}{table.8.2}%
-\contentsline {table}{\numberline {8.3}{\ignorespaces Chromosome numbers (2n) in some animals.\relax }}{103}{table.8.3}%
+\contentsline {table}{\numberline {8.1}{\ignorespaces Human Genome Assembly GRCh38.p12 (nucleotides) and GRCh38.p13 (coding genes)\rmarkdownfootnote {\url {https://www.ncbi.nlm.nih.gov/grc/human/data}}. Length of DNA sequence and number of coding genes of each human chromosome. Total lengths are calculated by summing the length of the sequenced bases and estimated gaps.\relax }}{104}{table.8.1}%
+\contentsline {table}{\numberline {8.2}{\ignorespaces Chromosome numbers in some plants.\relax }}{105}{table.8.2}%
+\contentsline {table}{\numberline {8.3}{\ignorespaces Chromosome numbers (2n) in some animals.\relax }}{105}{table.8.3}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {9.1}{\ignorespaces Terminology and examples of heteroploidy in humans.\relax }}{123}{table.9.1}%
+\contentsline {table}{\numberline {9.1}{\ignorespaces Terminology and examples of heteroploidy in humans.\relax }}{125}{table.9.1}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {10.1}{\ignorespaces Mendel's Laws of Inheritance.\relax }}{130}{table.10.1}%
+\contentsline {table}{\numberline {10.1}{\ignorespaces Mendel's Laws of Inheritance.\relax }}{132}{table.10.1}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {11.1}{\ignorespaces A list of major DNA replication enzymes that participate in the replisome\relax }}{157}{table.11.1}%
-\contentsline {table}{\numberline {11.2}{\ignorespaces The genetic code: RNA codons.\relax }}{178}{table.11.2}%
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {table}{\numberline {11.1}{\ignorespaces A list of major DNA replication enzymes that participate in the replisome\relax }}{159}{table.11.1}%
+\contentsline {table}{\numberline {11.2}{\ignorespaces The genetic code: RNA codons.\relax }}{180}{table.11.2}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -31,7 +29,9 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {25.1}{\ignorespaces Types of macroglia and their location and function.\relax }}{354}{table.25.1}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {25.1}{\ignorespaces Types of macroglia and their location and function.\relax }}{368}{table.25.1}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
