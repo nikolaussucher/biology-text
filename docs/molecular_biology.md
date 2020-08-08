@@ -1,4 +1,4 @@
-# Molecular Biology And Genetics
+# Molecular Biology of The Gene
 
 Molecular biology is the branch of biology that concerns the molecular basis of biological activity in and between cells, including molecular synthesis, modification, mechanisms and interactions. Molecular biology arose as an attempt to answer the questions regarding the mechanisms of genetic inheritance and the structure of a gene. In 1953, James Watson and Francis Crick published the double helical structure of DNA courtesy of the X-ray crystallography work done by Rosalind Franklin and Maurice Wilkins. Watson and Crick described the structure of DNA and the interactions within the molecule. This publication jump-started research into molecular biology and increased interest in the subject. 
 

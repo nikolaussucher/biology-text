@@ -23,10 +23,6 @@ Birds excrete their nitrogenous wastes as uric acid in the form of a paste. Alth
 
 In insects, a system involving Malpighian tubules is utilized to excrete metabolic waste. Metabolic waste diffuses or is actively transported into the tubule, which transports the wastes to the intestines. The metabolic waste is then released from the body along with fecal matter.
 
-Only the organs specifically used for the excretion are considered a part of the excretory system. In the narrow sense, the term refer to the urinary system. However, as excretion involves several functions that are only superficially related, it is not usually used in more formal classifications of anatomy or function.
-
-As most healthy functioning organs produce metabolic and other wastes, the entire organism depends on the function of the system. Breaking down of one of more of the systems is a serious health condition, for example kidney failure.
-
 ## Excretory Systems
 
 The excretory system is a passive biological system that removes excess, unnecessary materials from the body fluids of an organism, so as to help maintain internal chemical homeostasis and prevent damage to the body. The dual function of excretory systems is the elimination of the waste products of metabolism and to drain the body of used up and broken down components in a liquid and gaseous state. In humans and other amniotes (mammals, birds and reptiles) most of these substances leave the body as urine and to some degree exhalation, mammals also expel them through sweating.

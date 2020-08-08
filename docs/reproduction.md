@@ -1,4 +1,4 @@
-# Sexual Reproductin And Meiosis
+# Sexual Reproduction And Meiosis
 
 ## Reproduction
 
