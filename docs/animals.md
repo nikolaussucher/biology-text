@@ -99,7 +99,6 @@ Developmental processes are very evident during the process of metamorphosis. Th
 
 All the developmental processes listed above occur during metamorphosis. Examples that have been especially well studied include tail loss and other changes in the tadpole of the frog Xenopus, and the biology of the imaginal discs, which generate the adult body parts of the fly Drosophila melanogaster.
 
-
 ## Tissues
 
 In biology, tissue is a cellular organizational level between cells and a complete organ. A tissue is an ensemble of similar cells and their extracellular matrix from the same origin that together carry out a specific function. Organs are then formed by the functional grouping together of multiple tissues.

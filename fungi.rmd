@@ -84,7 +84,7 @@ Specialized mechanical and physiological mechanisms, as well as spore surface st
 
 The most common means of spore dispersal is by wind - species using this form of dispersal often produce dry or hydrophobic spores which do not absorb water and are readily scattered by raindrops, for example. Most of the researched species of fungus are transported by wind.
 
-# Evolution of Fungi
+## Evolution of Fungi
 
 In contrast to plants and animals, the early fossil record of the fungi is meager. The earliest fossils possessing features typical of fungi date to the Paleoproterozoic era, some 2,400 million years ago (Ma); these multicellular benthic organisms had filamentous structures capable of anastomosis. Other studies (2009) estimate the arrival of fungal organisms at about 760–1060 Ma on the basis of comparisons of the rate of evolution in closely related groups. For much of the Paleozoic Era (542–251 Ma), the fungi appear to have been aquatic and consisted of organisms similar to the extant chytrids in having flagellum-bearing spores. The evolutionary adaptation from an aquatic to a terrestrial lifestyle necessitated a diversification of ecological strategies for obtaining nutrients, including parasitism, saprobism, and the development of mutualistic relationships such as mycorrhiza and lichenization. Recent (2009) studies suggest that the ancestral ecological state of the Ascomycota was saprobism, and that independent lichenization events have occurred multiple times.
 
