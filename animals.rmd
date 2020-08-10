@@ -28,10 +28,8 @@ Animals originally evolved in the sea. Lineages of arthropods colonised land aro
 
 The blue whale (Balaenoptera musculus) is the largest animal that has ever lived, weighing up to at least 190 tonnes and measuring up to 33.6 metres (110 ft) long. The largest extant terrestrial animal is the African bush elephant (Loxodonta africana), weighing up to 12.25 tonnes and measuring up to 10.67 metres (35.0 ft) long. The largest terrestrial animals that ever lived were titanosaur sauropod dinosaurs such as Argentinosaurus, which may have weighed as much as 73 tonnes. Several animals are microscopic; some Myxozoa (obligate parasites within the Cnidaria) never grow larger than 20 µm, and one of the smallest species (Myxobolus shekel) is no more than 8.5 µm when fully grown.
 
-
 The oldest animals are found in the Ediacaran biota, towards the end of the Precambrian, around 610 million years ago. It had long been doubtful whether these included animals, but the discovery of the animal lipid cholesterol in fossils of Dickinsonia establishes that these were indeed animals. Animals are thought to have originated under low-oxygen conditions, suggesting that they were capable of living entirely by anaerobic respiration, but as they became specialized for aerobic metabolism they became fully dependent on oxygen in their environments.
 
-Anomalocaris canadensis is one of the many animal species that emerged in the Cambrian explosion, starting some 542 million years ago, and found in the fossil beds of the Burgess shale.
 Many animal phyla first appear in the fossil record during the Cambrian explosion, starting about 542 million years ago, in beds such as the Burgess shale. Extant phyla in these rocks include molluscs, brachiopods, onychophorans, tardigrades, arthropods, echinoderms and hemichordates, along with numerous now-extinct forms such as the predatory Anomalocaris. The apparent suddenness of the event may however be an artefact of the fossil record, rather than showing that all these animals appeared simultaneously.
 
 Some palaeontologists have suggested that animals appeared much earlier than the Cambrian explosion, possibly as early as 1 billion years ago. Trace fossils such as tracks and burrows found in the Tonian period may indicate the presence of triploblastic worm-like animals, roughly as large (about 5 mm wide) and complex as earthworms. However, similar tracks are produced today by the giant single-celled protist Gromia sphaerica, so the Tonian trace fossils may not indicate early animal evolution. Around the same time, the layered mats of microorganisms called stromatolites decreased in diversity, perhaps due to grazing by newly-evolved animals.
@@ -69,6 +67,37 @@ The Ecdysozoa are protostomes, named after their shared trait of ecdysis, growth
 The Spiralia are a large group of protostomes that develop by spiral cleavage in the early embryo. The Spiralia's phylogeny has been disputed, but it contains a large clade, the superphylum Lophotrochozoa, and smaller groups of phyla such as the Rouphozoa which includes the gastrotrichs and the flatworms. All of these are grouped as the Platytrochozoa, which has a sister group, the Gnathifera, which includes the rotifers.
 
 The Lophotrochozoa includes the molluscs, annelids, brachiopods, nemerteans, bryozoa and entoprocts. The molluscs, the second-largest animal phylum by number of described species, includes snails, clams, and squids, while the annelids are the segmented worms, such as earthworms, lugworms, and leeches. These two groups have long been considered close relatives because they share trochophore larvae.
+
+## Animal Development
+
+The main processes involved in the embryonic development of animals are: tissue patterning (via regional specification and patterned cell differentiation); tissue growth; and tissue morphogenesis.
+
+* Regional specification refers to the processes that create spatial pattern in a ball or sheet of initially similar cells. This generally involves the action of cytoplasmic determinants, located within parts of the fertilized egg, and of inductive signals emitted from signaling centers in the embryo. The early stages of regional specification do not generate functional differentiated cells, but cell populations committed to develop to a specific region or part of the organism. These are defined by the expression of specific combinations of transcription factors.
+* Cell differentiation relates specifically to the formation of functional cell types such as nerve, muscle, secretory epithelia etc. Differentiated cells contain large amounts of specific proteins associated with the cell function.
+* Morphogenesis relates to the formation of three-dimensional shape. It mainly involves the orchestrated movements of cell sheets and of individual cells. Morphogenesis is important for creating the three germ layers of the early embryo (ectoderm, mesoderm and endoderm) and for building up complex structures during organ development.
+* Tissue growth involves both an overall increase in tissue size, and also the differential growth of parts (allometry) which contributes to morphogenesis. Growth mostly occurs through cell proliferation but also through changes of cell size or the deposition of extracellular materials.
+
+Cell differentiation is the process whereby different functional cell types arise in development. For example, neurons, muscle fibers and hepatocytes (liver cells) are well known types of differentiated cells. Differentiated cells usually produce large amounts of a few proteins that are required for their specific function and this gives them the characteristic appearance that enables them to be recognized under the light microscope. The genes encoding these proteins are highly active. Typically their chromatin structure is very open, allowing access for the transcription enzymes, and specific transcription factors bind to regulatory sequences in the DNA in order to activate gene expression. For example, NeuroD is a key transcription factor for neuronal differentiation, myogenin for muscle differentiation, and HNF4 for hepatocyte differentiation. Cell differentiation is usually the final stage of development, preceded by several states of commitment which are not visibly differentiated. A single tissue, formed from a single type of progenitor cell or stem cell, often consists of several differentiated cell types. Control of their formation involves a process of lateral inhibition, based on the properties of the Notch signaling pathway. For example, in the neural plate of the embryo this system operates to generate a population of neuronal precursor cells in which NeuroD is highly expressed.
+
+## Embryonic Development of Animals
+
+The sperm and egg fuse in the process of fertilization to form a fertilized egg, or zygote. This undergoes a period of divisions to form a ball or sheet of similar cells called a blastula or blastoderm. These cell divisions are usually rapid with no growth so the daughter cells are half the size of the mother cell and the whole embryo stays about the same size. They are called cleavage divisions.
+
+Mouse epiblast primordial germ cells (see Figure: “The initial stages of human embryogenesis”) undergo extensive epigenetic reprogramming. This process involves genome-wide DNA demethylation, chromatin reorganization and epigenetic imprint erasure leading to totipotency. DNA demethylation is carried out by a process that utilizes the DNA base excision repair pathway.
+
+Morphogenetic movements convert the cell mass into a three layered structure consisting of multicellular sheets called ectoderm, mesoderm and endoderm. These sheets are known as germ layers. This is the process of gastrulation. During cleavage and gastrulation the first regional specification events occur. In addition to the formation of the three germ layers themselves, these often generate extraembryonic structures, such as the mammalian placenta, needed for support and nutrition of the embryo, and also establish differences of commitment along the anteroposterior axis (head, trunk and tail).
+
+Regional specification is initiated by the presence of cytoplasmic determinants in one part of the zygote. The cells that contain the determinant become a signaling center and emit an inducing factor. Because the inducing factor is produced in one place, diffuses away, and decays, it forms a concentration gradient, high near the source cells and low further away. The remaining cells of the embryo, which do not contain the determinant, are competent to respond to different concentrations by upregulating specific developmental control genes. This results in a series of zones becoming set up, arranged at progressively greater distance from the signaling center. In each zone a different combination of developmental control genes is upregulated. These genes encode transcription factors which upregulate new combinations of gene activity in each region. Among other functions, these transcription factors control expression of genes conferring specific adhesive and motility properties on the cells in which they are active. Because of these different morphogenetic properties, the cells of each germ layer move to form sheets such that the ectoderm ends up on the outside, mesoderm in the middle, and endoderm on the inside. Morphogenetic movements not only change the shape and structure of the embryo, but by bringing cell sheets into new spatial relationships they also make possible new phases of signaling and response between them.
+
+Growth in embryos is mostly autonomous. For each territory of cells the growth rate is controlled by the combination of genes that are active. Free-living embryos do not grow in mass as they have no external food supply. But embryos fed by a placenta or extraembryonic yolk supply can grow very fast, and changes to relative growth rate between parts in these organisms help to produce the final overall anatomy.
+
+The whole process needs to be coordinated in time and how this is controlled is not understood. There may be a master clock able to communicate with all parts of the embryo that controls the course of events, or timing may depend simply on local causal sequences of events.
+
+## Metamorphosis
+
+Developmental processes are very evident during the process of metamorphosis. This occurs in various types of animal. Well-known examples are seen in frogs, which usually hatch as a tadpole and metamorphoses to an adult frog, and certain insects which hatch as a larva and then become remodeled to the adult form during a pupal stage.
+
+All the developmental processes listed above occur during metamorphosis. Examples that have been especially well studied include tail loss and other changes in the tadpole of the frog Xenopus, and the biology of the imaginal discs, which generate the adult body parts of the fly Drosophila melanogaster.
 
 ## Tissues
 
@@ -124,7 +153,7 @@ Human evolution is the evolutionary process that led to the emergence of anatomi
 
 The study of human evolution involves several scientific disciplines, including physical anthropology, primatology, archaeology, paleontology, neurobiology, ethology, linguistics, evolutionary psychology, embryology and genetics. Genetic studies show that primates diverged from other mammals about 85 million years ago, in the Late Cretaceous period, and the earliest fossils appear in the Paleocene, around 55 million years ago.
 
-Within the superfamily Hominoidea, the family Hominidae diverged from the family Hylobatidae some 15–20 million years ago; subfamily Homininae (African apes) diverged from Ponginae (orangutans[a]) about 14 million years ago; the tribe Hominini (including humans, Australopithecus, and chimpanzees) parted from the tribe Gorillini (gorillas) between 8–9 million years ago; and, in turn, the subtribes Hominina (humans and extinct biped ancestors) and Panina (chimpanzees) separated 4–7 million years ago.
+Within the superfamily Hominoidea, the family Hominidae diverged from the family Hylobatidae some 15–20 million years ago; subfamily Homininae (African apes) diverged from Ponginae (orangutans) about 14 million years ago; the tribe Hominini (including humans, Australopithecus, and chimpanzees) parted from the tribe Gorillini (gorillas) between 8–9 million years ago; and, in turn, the subtribes Hominina (humans and extinct biped ancestors) and Panina (chimpanzees) separated 4–7 million years ago.
 
 Human evolution from its first separation from the last common ancestor of humans and chimpanzees is characterized by a number of morphological, developmental, physiological, and behavioral changes. The most significant of these adaptations are bipedalism, increased brain size, lengthened ontogeny (gestation and infancy), and decreased sexual dimorphism. The relationship between these changes is the subject of ongoing debate.[page needed] Other significant morphological changes included the evolution of a power and precision grip, a change first occurring in H. erectus.
 
@@ -142,7 +171,6 @@ The human species eventually developed a much larger brain than that of other pr
 
 Furthermore, the changes in the structure of human brains may be even more significant than the increase in size.
 
-The size and shape of the skull changed over time. The leftmost, and largest, is a replica of a modern human skull.
 The temporal lobes, which contain centers for language processing, have increased disproportionately, as has the prefrontal cortex, which has been related to complex decision-making and moderating social behavior. Encephalization has been tied to increased meat and starches in the diet, and the development of cooking, and it has been proposed that intelligence increased as a response to an increased necessity for solving social problems as human society became more complex. Changes in skull morphology, such as smaller mandibles and mandible muscle attachments, allowed more room for the brain to grow.
 
 The increase in volume of the neocortex also included a rapid increase in size of the cerebellum. Its function has traditionally been associated with balance and fine motor control, but more recently with speech and cognition. The great apes, including hominids, had a more pronounced cerebellum relative to the neocortex than other primates. It has been suggested that because of its function of sensory-motor control and learning complex muscular actions, the cerebellum may have underpinned human technological adaptations, including the preconditions of speech.
@@ -157,7 +185,7 @@ The ulnar opposition—the contact between the thumb and the tip of the little f
 
 A number of other changes have also characterized the evolution of humans, among them an increased importance on vision rather than smell; a longer juvenile developmental period and higher infant dependency; a smaller gut; faster basal metabolism; loss of body hair; evolution of sweat glands; a change in the shape of the dental arcade from being u-shaped to being parabolic; development of a chin (found in Homo sapiens alone); development of styloid processes; and the development of a descended larynx.
 
-The word homo, the name of the biological genus to which humans belong, is Latin for "human".[b] It was chosen originally by Carl Linnaeus in his classification system.[c] The word "human" is from the Latin humanus, the adjectival form of homo. The Latin "homo" derives from the Indo-European root \*dhghem, or "earth". Linnaeus and other scientists of his time also considered the great apes to be the closest relatives of humans based on morphological and anatomical similarities.
+The word homo, the name of the biological genus to which humans belong, is Latin for "human". It was chosen originally by Carl Linnaeus in his classification system. The word "human" is from the Latin humanus, the adjectival form of homo. The Latin "homo" derives from the Indo-European root \*dhghem, or "earth". Linnaeus and other scientists of his time also considered the great apes to be the closest relatives of humans based on morphological and anatomical similarities.
 
 The possibility of linking humans with earlier apes by descent became clear only after 1859 with the publication of Charles Darwin's On the Origin of Species, in which he argued for the idea of the evolution of new species from earlier ones. Darwin's book did not address the question of human evolution, saying only that "Light will be thrown on the origin of man and his history."
 
@@ -165,7 +193,7 @@ The first debates about the nature of human evolution arose between Thomas Henry
 
 A major problem in the 19th century was the lack of fossil intermediaries. Neanderthal remains were discovered in a limestone quarry in 1856, three years before the publication of On the Origin of Species, and Neanderthal fossils had been discovered in Gibraltar even earlier, but it was originally claimed that these were human remains of a creature suffering some kind of illness. Despite the 1891 discovery by Eugène Dubois of what is now called Homo erectus at Trinil, Java, it was only in the 1920s when such fossils were discovered in Africa, that intermediate species began to accumulate. In 1925, Raymond Dart described Australopithecus africanus. The type specimen was the Taung Child, an australopithecine infant which was discovered in a cave. The child's remains were a remarkably well-preserved tiny skull and an endocast of the brain.
 
-Although the brain was small (410 cm3), its shape was rounded, unlike that of chimpanzees and gorillas, and more like a modern human brain. Also, the specimen showed short canine teeth, and the position of the foramen magnum (the hole in the skull where the spine enters) was evidence of bipedal locomotion. All of these traits convinced Dart that the Taung Child was a bipedal human ancestor, a transitional form between apes and humans.
+Although the brain was small (410 cm^3^), its shape was rounded, unlike that of chimpanzees and gorillas, and more like a modern human brain. Also, the specimen showed short canine teeth, and the position of the foramen magnum (the hole in the skull where the spine enters) was evidence of bipedal locomotion. All of these traits convinced Dart that the Taung Child was a bipedal human ancestor, a transitional form between apes and humans.
 
 During the 1960s and 1970s, hundreds of fossils were found in East Africa in the regions of the Olduvai Gorge and Lake Turkana. These searches were carried out by the Leakey family, with Louis Leakey and his wife Mary Leakey, and later their son Richard and daughter-in-law Meave, fossil hunters and paleoanthropologists. From the fossil beds of Olduvai and Lake Turkana they amassed specimens of the early hominins: the australopithecines and Homo species, and even Homo erectus.
 
@@ -184,6 +212,7 @@ On the basis of a separation from the orangutan between 10 and 20 million years 
 Furthermore, analysis of the two species' genes in 2006 provides evidence that after human ancestors had started to diverge from chimpanzees, interspecies mating between "proto-human" and "proto-chimpanzees" nonetheless occurred regularly enough to change certain genes in the new gene pool:
 
 A new comparison of the human and chimpanzee genomes suggests that after the two lineages separated, they may have begun interbreeding... A principal finding is that the X chromosomes of humans and chimpanzees appear to have diverged about 1.2 million years more recently than the other chromosomes.
+
 The research suggests:
 
 There were in fact two splits between the human and chimpanzee lineages, with the first being followed by interbreeding between the two populations and then a second split. The suggestion of a hybridization has startled paleoanthropologists, who nonetheless are treating the new genetic data seriously.
@@ -209,10 +238,6 @@ A broad study of African genetic diversity, headed by Sarah Tishkoff, found the 
 Recent sequencing of Neanderthal and Denisovan genomes shows that some admixture with these populations has occurred. All modern human groups outside Africa have 1–4% or (according to more recent research) about 1.5-2.6% Neanderthal alleles in their genome, and some Melanesians have an additional 4–6% of Denisovan alleles. These new results do not contradict the "out of Africa" model, except in its strictest interpretation, although they make the situation more complex. After recovery from a genetic bottleneck that some researchers speculate might be linked to the Toba supervolcano catastrophe, a fairly small group left Africa and interbred with Neanderthals, probably in the Middle East, on the Eurasian steppe or even in North Africa before their departure. Their still predominantly African descendants spread to populate the world. A fraction in turn interbred with Denisovans, probably in southeastern Asia, before populating Melanesia. HLA haplotypes of Neanderthal and Denisova origin have been identified in modern Eurasian and Oceanian populations. The Denisovan EPAS1 gene has also been found in Tibetan populations. Studies of the human genome using machine learning have identified additional genetic contributions in Eurasians from an "unknown" ancestral population potentially related to the Neanderthal-Denisovan lineage.
 
 There are still differing theories on whether there was a single exodus from Africa or several. A multiple dispersal model involves the Southern Dispersal theory, which has gained support in recent years from genetic, linguistic and archaeological evidence. In this theory, there was a coastal dispersal of modern humans from the Horn of Africa crossing the Bab el Mandib to Yemen at a lower sea level around 70,000 years ago. This group helped to populate Southeast Asia and Oceania, explaining the discovery of early human sites in these areas much earlier than those in the Levant. This group seems to have been dependent upon marine resources for their survival.
-
-Stephen Oppenheimer has proposed a second wave of humans may have later dispersed through the Persian Gulf oases, and the Zagros mountains into the Middle East. Alternatively it may have come across the Sinai Peninsula into Asia, from shortly after 50,000 yrs BP, resulting in the bulk of the human populations of Eurasia. It has been suggested that this second group possibly possessed a more sophisticated "big game hunting" tool technology and was less dependent on coastal food sources than the original group. Much of the evidence for the first group's expansion would have been destroyed by the rising sea levels at the end of each glacial maximum. The multiple dispersal model is contradicted by studies indicating that the populations of Eurasia and the populations of Southeast Asia and Oceania are all descended from the same mitochondrial DNA L3 lineages, which support a single migration out of Africa that gave rise to all non-African populations.
-
-On the basis of the early date of Badoshan Iranian Aurignacian, Oppenheimer suggests that this second dispersal may have occurred with a pluvial period about 50,000 years before the present, with modern human big-game hunting cultures spreading up the Zagros Mountains, carrying modern human genomes from Oman, throughout the Persian Gulf, northward into Armenia and Anatolia, with a variant travelling south into Israel and to Cyrenicia.
 
 Recent genetic evidence suggests that all modern non-African populations, including those of Eurasia and Oceania, are descended from a single wave that left Africa between 65,000 and 50,000 years ago.
 
@@ -250,7 +275,7 @@ For example, comparative studies in the mid-2010s found several traits related t
 
 Although the narratives of human evolution are often contentious, several discoveries since 2010 show that human evolution should not be seen as a simple linear or branched progression, but a mix of related species. In fact, genomic research has shown that hybridization between substantially diverged lineages is the rule, not the exception, in human evolution. Furthermore, it is argued that hybridization was an essential creative force in the emergence of modern humans.
 
-## Early evolution of primates
+## Early Evolution of Primates
 
 The evolutionary history of the primates can be traced back 65 million years. One of the oldest known primate-like mammal species, the Plesiadapis, came from North America; another, Archicebus, came from China. Other similar basal primates were widespread in Eurasia and Africa during the tropical conditions of the Paleocene and Eocene.
 
@@ -264,7 +289,7 @@ The presence of other generalized non-cercopithecids of Middle Miocene from site
 
 Molecular evidence indicates that the lineage of gibbons (family Hylobatidae) diverged from the line of great apes some 18–12 million years ago, and that of orangutans (subfamily Ponginae) diverged from the other great apes at about 12 million years; there are no fossils that clearly document the ancestry of gibbons, which may have originated in a so-far-unknown Southeast Asian hominoid population, but fossil proto-orangutans may be represented by Sivapithecus from India and Griphopithecus from Turkey, dated to around 10 million years ago.
 
-## Divergence of the human clade from other great apes
+## Divergence of The Human Clade From Other Great Apes
 
 Species close to the last common ancestor of gorillas, chimpanzees and humans may be represented by Nakalipithecus fossils found in Kenya and Ouranopithecus found in Greece. Molecular evidence suggests that between 8 and 4 million years ago, first the gorillas, and then the chimpanzees (genus Pan) split off from the line leading to the humans. Human DNA is approximately 98.4% identical to that of chimpanzees when comparing single nucleotide polymorphisms (see human evolutionary genetics). The fossil record, however, of gorillas and chimpanzees is limited; both poor preservation — rain forest soils tend to be acidic and dissolve bone — and sampling bias probably contribute to this problem.
 
@@ -276,7 +301,7 @@ Of course Ar. ramidus differs significantly from bonobos, bonobos having retaine
 
 The authors argue that many of the basic human adaptations evolved in the ancient forest and woodland ecosystems of late Miocene and early Pliocene Africa. Consequently, they argue that humans may not represent evolution from a chimpanzee-like ancestor as has traditionally been supposed. This suggests many modern human adaptations represent phylogenetically deep traits and that the behavior and morphology of chimpanzees may have evolved subsequent to the split with the common ancestor they share with humans.
 
-Genus Australopithecus
+## Genus Australopithecus
 
 The genus Australopithecus evolved in eastern Africa around 4 million years ago before spreading throughout the continent and eventually becoming extinct 2 million years ago. During this time period various forms of australopiths existed, including Australopithecus anamensis, Au. afarensis, Au. sediba, and Au. africanus. There is still some debate among academics whether certain African hominid species of this time, such as Au. robustus and Au. boisei, constitute members of the same genus; if so, they would be considered to be Au. robust australopiths whilst the others would be considered Au. gracile australopiths. However, if these species do indeed constitute their own genus, then they may be given their own name, Paranthropus.
 
@@ -286,7 +311,7 @@ The genus Australopithecus evolved in eastern Africa around 4 million years ago 
 
 A new proposed species Australopithecus deyiremeda is claimed to have been discovered living at the same time period of Au. afarensis. There is debate if Au. deyiremeda is a new species or is Au. afarensis. Australopithecus prometheus, otherwise known as Little Foot has recently been dated at 3.67 million years old through a new dating technique, making the genus Australopithecus as old as afarensis. Given the opposable big toe found on Little Foot, it seems that he was a good climber, and it is thought given the night predators of the region, he probably, like gorillas and chimpanzees, built a nesting platform at night, in the trees.
 
-## Evolution of genus Homo
+## Evolution of Genus Homo
 
 The earliest documented representative of the genus Homo is Homo habilis, which evolved around 2.8 million years ago, and is arguably the earliest species for which there is positive evidence of the use of stone tools. The brains of these early hominins were about the same size as that of a chimpanzee, although it has been suggested that this was the time in which the human SRGAP2 gene doubled, producing a more rapid wiring of the frontal cortex. During the next million years a process of rapid encephalization occurred, and with the arrival of Homo erectus and Homo ergaster in the fossil record, cranial capacity had doubled to 850 cm3. (Such an increase in human brain size is equivalent to each generation having 125,000 more neurons than their parents.) It is believed that Homo erectus and Homo ergaster were the first to use fire and complex tools, and were the first of the hominin line to leave Africa, spreading throughout Africa, Asia, and Europe between 1.3 to 1.8 million years ago.
 
@@ -298,20 +323,20 @@ Based on archaeological and paleontological evidence, it has been possible to in
 
 Some anthropologists and archaeologists subscribe to the Toba catastrophe theory, which posits that the supereruption of Lake Toba on Sumatran island in Indonesia some 70,000 years ago caused global consequences, killing the majority of humans and creating a population bottleneck that affected the genetic inheritance of all humans today. The genetic and archaeological evidence for this remains in question however.
 
-H. habilis and H. gautengensis
+## H. habilis and H. gautengensis
 
 Homo habilis lived from about 2.8 to 1.4 Ma. The species evolved in South and East Africa in the Late Pliocene or Early Pleistocene, 2.5–2 Ma, when it diverged from the australopithecines. Homo habilis had smaller molars and larger brains than the australopithecines, and made tools from stone and perhaps animal bones. One of the first known hominins was nicknamed 'handy man' by discoverer Louis Leakey due to its association with stone tools. Some scientists have proposed moving this species out of Homo and into Australopithecus due to the morphology of its skeleton being more adapted to living on trees rather than to moving on two legs like Homo sapiens.
 
 In May 2010, a new species, Homo gautengensis, was discovered in South Africa.
 
-H. rudolfensis and H. georgicus
+## H. rudolfensis and H. georgicus
 
 These are proposed species names for fossils from about 1.9–1.6 Ma, whose relation to Homo habilis is not yet clear.
 
 * Homo rudolfensis refers to a single, incomplete skull from Kenya. Scientists have suggested that this was another Homo habilis, but this has not been confirmed.
 * Homo georgicus, from Georgia, may be an intermediate form between Homo habilis and Homo erectus, or a subspecies of Homo erectus.
 
-H. ergaster and H. erectus
+## H. ergaster and H. erectus
 
 The first fossils of Homo erectus were discovered by Dutch physician Eugene Dubois in 1891 on the Indonesian island of Java. He originally named the material Anthropopithecus erectus (1892–1893, considered at this point as a chimpanzee-like fossil primate) and Pithecanthropus erectus (1893–1894, changing his mind as of based on its morphology, which he considered to be intermediate between that of humans and apes). Years later, in the 20th century, the German physician and paleoanthropologist Franz Weidenreich (1873–1948) compared in detail the characters of Dubois' Java Man, then named Pithecanthropus erectus, with the characters of the Peking Man, then named Sinanthropus pekinensis. Weidenreich concluded in 1940 that because of their anatomical similarity with modern humans it was necessary to gather all these specimens of Java and China in a single species of the genus Homo, the species Homo erectus. Homo erectus lived from about 1.8 Ma to about 70,000 years ago — which would indicate that they were probably wiped out by the Toba catastrophe; however, nearby Homo floresiensis survived it. The early phase of Homo erectus, from 1.8 to 1.25 Ma, is considered by some to be a separate species, Homo ergaster, or as Homo erectus ergaster, a subspecies of Homo erectus.
 
@@ -319,21 +344,23 @@ In Africa in the Early Pleistocene, 1.5–1 Ma, some populations of Homo habilis
 
 A famous example of Homo erectus is Peking Man; others were found in Asia (notably in Indonesia), Africa, and Europe. Many paleoanthropologists now use the term Homo ergaster for the non-Asian forms of this group, and reserve Homo erectus only for those fossils that are found in Asia and meet certain skeletal and dental requirements which differ slightly from H. ergaster.
 
-H. cepranensis and H. antecessor
+## H. cepranensis and H. antecessor
 
 These are proposed as species that may be intermediate between H. erectus and H. heidelbergensis.
 
 H. antecessor is known from fossils from Spain and England that are dated 1.2 Ma–500 ka.
 H. cepranensis refers to a single skull cap from Italy, estimated to be about 800,000 years old.
-H. heidelbergensis
-Main article: Homo heidelbergensis
+
+## H. heidelbergensis
+
 H. heidelbergensis ("Heidelberg Man") lived from about 800,000 to about 300,000 years ago. Also proposed as Homo sapiens heidelbergensis or Homo sapiens paleohungaricus.
 
-H. rhodesiensis, and the Gawis cranium
+## H. rhodesiensis, and the Gawis cranium
+
 H. rhodesiensis, estimated to be 300,000–125,000 years old. Most current researchers place Rhodesian Man within the group of Homo heidelbergensis, though other designations such as archaic Homo sapiens and Homo sapiens rhodesiensis have been proposed.
 In February 2006 a fossil, the Gawis cranium, was found which might possibly be a species intermediate between H. erectus and H. sapiens or one of many evolutionary dead ends. The skull from Gawis, Ethiopia, is believed to be 500,000–250,000 years old. Only summary details are known, and the finders have not yet released a peer-reviewed study. Gawis man's facial features suggest its being either an intermediate species or an example of a "Bodo man" female.
-Neanderthal and Denisovan
-Main articles: Neanderthal and Denisovan
+
+## Neanderthal and Denisovan
 
 Homo neanderthalensis, alternatively designated as Homo sapiens neanderthalensis, lived in Europe and Asia from 400,000 to about 28,000 years ago. There are a number of clear anatomical differences between anatomically modern humans (AMH) and Neanderthal populations. Many of these relate to the superior adaptation to cold environments possessed by the Neanderthal populations. Their surface to volume ratio is an extreme version of that found amongst Inuit populations, indicating that they were less inclined to lose body heat than were AMH. From brain Endocasts, Neanderthals also had significantly larger brains. This would seem to indicate that the intellectual superiority of AMH populations may be questionable. More recent research by Eiluned Pearce, Chris Stringer, R.I.M. Dunbar, however, have shown important differences in brain architecture. For example, in both the orbital chamber size and in the size of the occipital lobe, the larger size suggests that the Neanderthal had a better visual acuity than modern humans. This would give a superior vision in the inferior light conditions found in Glacial Europe. It also seems that the higher body mass of Neanderthals had a correspondingly larger brain mass required for body care and control.
 
@@ -346,15 +373,13 @@ All modern non-African humans have about 1% to 4% or, according to more recent d
 
 In 2008, archaeologists working at the site of Denisova Cave in the Altai Mountains of Siberia uncovered a small bone fragment from the fifth finger of a juvenile member of Denisovans. Artifacts, including a bracelet, excavated in the cave at the same level were carbon dated to around 40,000 BP. As DNA had survived in the fossil fragment due to the cool climate of the Denisova Cave, both mtDNA and nuclear DNA were sequenced.
 
-While the divergence point of the mtDNA was unexpectedly deep in time, the full genomic sequence suggested the Denisovans belonged to the same lineage as Neanderthals, with the two diverging shortly after their line split from the lineage that gave rise to modern humans. Modern humans are known to have overlapped with Neanderthals in Europe and the Near East for possibly more than 40,000 years, and the discovery raises the possibility that Neanderthals, Denisovans, and modern humans may have co-existed and interbred. The existence of this distant branch creates a much more complex picture of humankind during the Late Pleistocene than previously thought. Evidence has also been found that as much as 6% of the DNA of some modern Melanesians derive from Denisovans, indicating limited interbreeding in Southeast Asia.
-
 Alleles thought to have originated in Neanderthals and Denisovans have been identified at several genetic loci in the genomes of modern humans outside of Africa. HLA haplotypes from Denisovans and Neanderthal represent more than half the HLA alleles of modern Eurasians, indicating strong positive selection for these introgressed alleles. Corinne Simoneti at Vanderbilt University, in Nashville and her team have found from medical records of 28,000 people of European descent that the presence of Neanderthal DNA segments may be associated with a likelihood to suffer depression more frequently.
 
 The flow of genes from Neanderthal populations to modern humans was not all one way. Sergi Castellano of the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany, has in 2016 reported that while Denisovan and Neanderthal genomes are more related to each other than they are to us, Siberian Neanderthal genomes show similarity to the modern human gene pool, more so than to European Neanderthal populations. The evidence suggests that the Neanderthal populations interbred with modern humans possibly 100,000 years ago, probably somewhere in the Near East.
 
 Studies of a Neanderthal child at Gibraltar show from brain development and teeth eruption that Neanderthal children may have matured more rapidly than is the case for Homo sapiens.
 
-H. floresiensis
+## H. floresiensis
 
 H. floresiensis, which lived from approximately 190,000 to 50,000 years before present (BP), has been nicknamed the hobbit for its small size, possibly a result of insular dwarfism. H. floresiensis is intriguing both for its size and its age, being an example of a recent species of the genus Homo that exhibits derived traits not shared with modern humans. In other words, H. floresiensis shares a common ancestor with modern humans, but split from the modern human lineage and followed a distinct evolutionary path. The main find was a skeleton believed to be a woman of about 30 years of age. Found in 2003, it has been dated to approximately 18,000 years old. The living woman was estimated to be one meter in height, with a brain volume of just 380 cm3 (considered small for a chimpanzee and less than a third of the H. sapiens average of 1400 cm3).
 
@@ -362,19 +387,17 @@ However, there is an ongoing debate over whether H. floresiensis is indeed a sep
 
 The hypothesis of pathological dwarfism, however, fails to explain additional anatomical features that are unlike those of modern humans (diseased or not) but much like those of ancient members of our genus. Aside from cranial features, these features include the form of bones in the wrist, forearm, shoulder, knees, and feet. Additionally, this hypothesis fails to explain the find of multiple examples of individuals with these same characteristics, indicating they were common to a large population, and not limited to one individual.
 
-H. luzonensis
+## H. luzonensis
 
 A small number of specimens from the island of Luzon, dated 50,000 to 67,000 years ago, have recently been assigned by their discoverers, based on dental characteristics, to a novel human species, H. luzonensis.
 
-H. sapiens
+## H. sapiens
 
 H. sapiens (the adjective sapiens is Latin for "wise" or "intelligent") emerged in Africa around 300,000 years ago, likely derived from Homo heidelbergensis or a related lineage. In September 2019, scientists reported the computerized determination, based on 260 CT scans, of a virtual skull shape of the last common human ancestor to modern humans/H. sapiens, representative of the earliest modern humans, and suggested that modern humans arose between 260,000 and 350,000 years ago through a merging of populations in East and South Africa.
 
 Between 400,000 years ago and the second interglacial period in the Middle Pleistocene, around 250,000 years ago, the trend in intra-cranial volume expansion and the elaboration of stone tool technologies developed, providing evidence for a transition from H. erectus to H. sapiens. The direct evidence suggests there was a migration of H. erectus out of Africa, then a further speciation of H. sapiens from H. erectus in Africa. A subsequent migration (both within and out of Africa) eventually replaced the earlier dispersed H. erectus. This migration and origin theory is usually referred to as the "recent single-origin hypothesis" or "out of Africa" theory. H. sapiens interbred with archaic humans both in Africa and in Eurasia, in Eurasia notably with Neanderthals and Denisovans.
 
 The Toba catastrophe theory, which postulates a population bottleneck for H. sapiens about 70,000 years ago, was controversial from its first proposal in the 1990s and by the 2010s had very little support. Distinctive human genetic variability has arisen as the result of the founder effect, by archaic admixture and by recent evolutionary pressures.
-
-Use of tools
 
 The use of tools has been interpreted as a sign of intelligence, and it has been theorized that tool use may have stimulated certain aspects of human evolution, especially the continued expansion of the human brain. Paleontology has yet to explain the expansion of this organ over millions of years despite being extremely demanding in terms of energy consumption. The brain of a modern human consumes about 13 watts (260 kilocalories per day), a fifth of the body's resting power consumption. Increased tool use would allow hunting for energy-rich meat products, and would enable processing more energy-rich plant products. Researchers have suggested that early hominins were thus under evolutionary pressure to increase their capacity to create and use tools.
 

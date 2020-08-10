@@ -6,7 +6,7 @@ Green plants obtain most of their energy from sunlight via photosynthesis by pri
 
 There are about 320,000 species of plants, of which the great majority, some 260–290 thousand, produce seeds. Green plants provide a substantial proportion of the world's molecular oxygen, and are the basis of most of Earth's ecosystems. Plants that produce grain, fruit and vegetables also form basic human foods and have been domesticated for millennia. Plants have many cultural and other uses, as ornaments, building materials, writing material and, in great variety, they have been the source of medicines and psychoactive drugs. The scientific study of plants is known as botany, a branch of biology.
 
-All living things were traditionally placed into one of two groups, plants and animals. This classification may date from Aristotle (384 BC – 322 BC), who made the distinction between plants, which generally do not move, and animals, which often are mobile to catch their food. Much later, when Linnaeus (1707–1778) created the basis of the modern system of scientific classification, these two groups became the kingdoms Vegetabilia (later Metaphyta or Plantae) and Animalia (also called Metazoa). Since then, it has become clear that the plant kingdom as originally defined included several unrelated groups, and the fungi and several groups of algae were removed to new kingdoms. However, these organisms are still often considered plants, particularly in popular contexts.[citation needed]
+All living things were traditionally placed into one of two groups, plants and animals. This classification may date from Aristotle (384 BC – 322 BC), who made the distinction between plants, which generally do not move, and animals, which often are mobile to catch their food. Much later, when Linnaeus (1707–1778) created the basis of the modern system of scientific classification, these two groups became the kingdoms Vegetabilia (later Metaphyta or Plantae) and Animalia (also called Metazoa). Since then, it has become clear that the plant kingdom as originally defined included several unrelated groups, and the fungi and several groups of algae were removed to new kingdoms. However, these organisms are still often considered plants, particularly in popular contexts.
 
 The term "plant" generally implies the possession of the following traits: multicellularity, possession of cell walls containing cellulose, and the ability to carry out photosynthesis with primary chloroplasts.
 
@@ -26,101 +26,6 @@ knitr::kable(plantae, col.names = c("Name", "Scope", "Distribution"), digits = 2
 The evolution of plants has resulted in increasing levels of complexity, from the earliest algal mats, through bryophytes, lycopods, ferns to the complex gymnosperms and angiosperms of today. Plants in all of these groups continue to thrive, especially in the environments in which they evolved.
 
 An algal scum formed on the land 1,200 million years ago, but it was not until the Ordovician Period, around 450 million years ago, that land plants appeared. However, new evidence from the study of carbon isotope ratios in Precambrian rocks has suggested that complex photosynthetic plants developed on the earth over 1000 m.y.a. For more than a century it has been assumed that the ancestors of land plants evolved in aquatic environments and then adapted to a life on land, an idea usually credited to botanist Frederick Orpen Bower in his 1908 book The Origin of a Land Flora. A recent alternative view, supported by genetic evidence, is that they evolved from terrestrial single-celled algae, and that even the common ancestor of red and green algae, and the unicellular freshwater algae glaucophytes, originated in a terrestrial environment in freshwater biofilms or microbial mats. Primitive land plants began to diversify in the late Silurian Period, around 420 million years ago, and the results of their diversification are displayed in remarkable detail in an early Devonian fossil assemblage from the Rhynie chert. This chert preserved early plants in cellular detail, petrified in volcanic springs. By the middle of the Devonian Period most of the features recognised in plants today are present, including roots, leaves and secondary wood, and by late Devonian times seeds had evolved. Late Devonian plants had thereby reached a degree of sophistication that allowed them to form forests of tall trees. Evolutionary innovation continued in the Carboniferous and later geological periods and is ongoing today. Most plant groups were relatively unscathed by the Permo-Triassic extinction event, although the structures of communities changed. This may have set the scene for the evolution of flowering plants in the Triassic (~200 million years ago), which exploded in the Cretaceous and Tertiary. The latest major group of plants to evolve were the grasses, which became important in the mid Tertiary, from around 40 million years ago. The grasses, as well as many other groups, evolved new mechanisms of metabolism to survive the low CO~2~ and warm, dry conditions of the tropics over the last 10 million years.
-
-## Plant Tissues
-
-In plant anatomy, tissues are categorized broadly into three tissue systems: the epidermis, the ground tissue, and the vascular tissue.
-
-* Epidermis - Cells forming the outer surface of the leaves and of the young plant body.
-* Vascular tissue - The primary components of vascular tissue are the xylem and phloem. These transport fluids and nutrients internally.
-* Ground tissue - Ground tissue is less differentiated than other tissues. Ground tissue manufactures nutrients by photosynthesis and stores reserve nutrients.
-
-Plant tissues can also be divided differently into two types:
-
-1. Meristematic tissues
-1. Permanent tissues.
-
-### Meristematic tissues
-
-Meristematic tissue consists of actively dividing cells, and leads to increase in length and thickness of the plant. The primary growth of a plant occurs only in certain, specific regions, such as in the tips of stems or roots. It is in these regions that meristematic tissues are present. Cells in these tissues are roughly spherical or polyhedral, to rectangular in shape, and have thin cell walls. New cells produced by meristem are initially those of meristem itself, but as the new cells grow and mature, their characteristics slowly change and they become differentiated as components of the region of occurrence of meristematic tissues, being classified as:
-
-* Apical meristem - It is present at the growing tips of stems and roots and increases the length of the stem and root. They form growing parts at the apices of roots and stems and are responsible for the increase in length, also called primary growth. This meristem is responsible for the linear growth of an organ.
-* Lateral meristem - This meristem consists of cells which mainly divide in one plane and cause the organ to increase in diameter and growth. Lateral meristem usually occurs beneath the bark of the tree in the form of Cork Cambium and in vascular bundles of dicots in the form of vascular cambium. The activity of this cambium results in the formation of secondary growth.
-* Intercalary meristem - This meristem is located in between permanent tissues. It is usually present at the base of the node, internode and on leaf base. They are responsible for growth in length of the plant and increasing the size of the internode. They result in branch formation and growth.
-
-The cells of meristematic tissues are similar in structure and have thin and elastic primary cell wall made up of cellulose. They are compactly arranged without inter-cellular spaces between them. Each cell contains a dense cytoplasm and a prominent nucleus. The dense protoplasm of meristematic cells contains very few vacuoles. Normally the meristematic cells are oval, polygonal or rectangular in shape.
-
-Meristematic tissue cells have a large nucleus with small or no vacuoles as they have no need to store anything, opposed to their function of multiplying and increasing the girth and length of the plant, and no intercellular spaces.
-
-### Permanent tissues
-
-Permanent tissues may be defined as a group of living or dead cells formed by meristematic tissue and have lost their ability to divide and have permanently placed at fixed positions in the plant body. Meristematic tissues that take up a specific role lose the ability to divide. This process of taking up a permanent shape, size and a function is called cellular differentiation. Cells of meristematic tissue differentiate to form different types of permanent tissues. There are 3 types of permanent tissues:
-
-1. simple permanent tissues
-1. complex permanent tissues
-1. special or secretory tissues (glandular).
-
-Simple Permanent tissues
-
-A group of cells which are similar in origin; similar in structure and similar in function are called simple permanent tissue. They are of three types:
-
-1. Parenchyma
-1. Collenchyma
-1. Sclerenchyma
-
-### Parenchyma
-
-Parenchyma (para - 'beside'; infusion - 'tissue') is the bulk of a substance. In plants, it consists of relatively unspecialized living cells with thin cell walls that are usually loosely packed so that intercellular spaces are found between cells of this tissue. These are generally isodiametric, in shape. They contain small number of vacuoles or sometimes they even may not contain any vacuole. Even if they do so the vacuole is of much smaller size than of normal animal cells. This tissue provides support to plants and also stores food. Chlorenchyma is a special type of parenchyma that contains chlorophyll and performs photosynthesis. In aquatic plants, aerenchyma tissues, or large air cavities, give support to float on water by making them buoyant. Parenchyma cells called idioblasts have metabolic waste. Spindle shape fiber also contained into this cell to support them and known as prosenchyma, succulent parenchyma also noted. In xerophytes, parenchyma tissues store water.
-
-### Collenchyma
-
-Cross section of collenchyma cells
-Collenchyma is Greek word where "Colla" means gum and "enchyma" means infusion. It is a living tissue of primary body like Parenchyma. Cells are thin-walled but possess thickening of cellulose, water and pectin substances (pectocellulose) at the corners where a number of cells join together. This tissue gives tensile strength to the plant and the cells are compactly arranged and have very little inter-cellular spaces. It occurs chiefly in hypodermis of stems and leaves. It is absent in monocots and in roots. Sometimes it contains chlorophyll which can help them photosynthesize.
-
-Collenchymatous tissue acts as a supporting tissue in stems of young plants. It provides mechanical support, elasticity, and tensile strength to the plant body. It helps in manufacturing sugar and storing it as starch. It is present in the margin of leaves and resists tearing effect of the wind.
-
-### Sclerenchyma
-
-Sclerenchyma is Greek word where "Sclero-" means hard and "enchyma" means infusion. This tissue consists of thick-walled, dead cells and protoplasm is negligible. These cells have hard and extremely thick secondary walls due to uniform distribution and high secretion of lignin and have a function of providing mechanical support. They do not have inter-molecular space between them. Lignin deposition is so thick that the cell walls become strong, rigid and impermeable to water which is also known as a stone cell or sclereids. These tissues are mainly of two types: sclerenchyma fiber and sclereids. Sclerenchyma fiber cells have a narrow lumen and are long, narrow and unicellular. Fibers are elongated cells that are strong and flexible, often used in ropes. Sclereids have extremely thick cell walls and are brittle, and are found in nutshells and legumes.
-
-### Epidermis
-
-The entire surface of the plant consists of a single layer of cells called epidermis or surface tissue. The entire surface of the plant has this outer layer of the epidermis. Hence it is also called surface tissue. Most of the epidermal cells are relatively flat. The outer and lateral walls of the cell are often thicker than the inner walls. The cells form a continuous sheet without intercellular spaces. It protects all parts of the plant. The outer epidermis is coated with a waxy thick layer called cuticle which prevents loss of water. The epidermis also consists of stomata(singular:stoma) which helps in transpiration.
-
-## Complex permanent tissue
-
-The complex tissue consists of more than one type of cells which work together as a unit. Complex tissues help in the transportation of organic material, water, and minerals up and down the plants. That is why it is also known as conducting and vascular tissue. The common types of complex permanent tissue are:
-
-* Xylem or wood
-* Phloem or bast.
-
-Xylem and phloem together form vascular bundles.
-
-Xylem
-
-Xylem consists of:
-
-* Xylem tracheids
-* Xylem vessel
-* Xylem fibres or Xylem sclerenchyma
-* Xylem parenchyma
-
-Xylem serves as a chief conducting tissue of vascular plants.
-
-It is responsible for the conduction of water and mineral ions/salt. Xylem tissue is organised in a tube-like fashion along the main axes of stems and roots. It consists of a combination of parenchyma cells, fibers, vessels, tracheids, and ray cells. Longer tubes made up of individual cells are vessels tracheids, while vessel members are open at each end. Internally, there may be bars of wall material extending across the open space. These cells are joined end to end to form long tubes. Vessel members and tracheids are dead at maturity. Tracheids have thick secondary cell walls and are tapered at the ends. They do not have end openings such as the vessels. The tracheids end overlap with each other, with pairs of pits present. The pit pairs allow water to pass from cell to cell.
-
-Though most conduction in xylem tissue is vertical, lateral conduction along the diameter of a stem is facilitated via rays. Rays are horizontal rows of long-living parenchyma cells that arise out of the vascular cambium. In trees and other woody plants, rays radiate out from the center of stems and roots and appear like spokes on a wheel in cross section. Rays, unlike vessel members and tracheids, are alive at functional maturity.
-
-## Phloem
-
-Phloem consists of:
-
-* Sieve tube
-* Companion cell
-* Phloem fibre
-* Phloem parenchyma.
-
-Phloem is an equally important plant tissue as it also is part of the 'plumbing system' of a plant. Primarily, phloem carries dissolved food substances throughout the plant. This conduction system is composed of sieve-tube member and companion cells, that are without secondary walls. The parent cells of the vascular cambium produce both xylem and phloem. This usually also includes fibers, parenchyma and ray cells. Sieve tubes are formed from sieve-tube members laid end to end. The end walls, unlike vessel members in xylem, do not have openings. The end walls, however, are full of small pores where cytoplasm extends from cell to cell. These porous connections are called sieve plates. In spite of the fact that their cytoplasm is actively involved in the conduction of food materials, sieve-tube members do not have nuclei at maturity. It is the companion cells that are nestled between sieve-tube members that function in some manner bringing about the conduction of food. Sieve-tube members that are alive contain a polymer called callose, a carbohydrate polymer, forming the callus pad/callus, the colourless substance that covers the sieve plate. Callose stays in solution as long as the cell contents are under pressure. Phloem transports food and materials in plants upwards and downwards as required.
 
 ## Embryophytes
 
@@ -166,7 +71,7 @@ Bryophytes exist in a wide variety of habitats. They can be found growing in a r
 
 Bryophytes can grow where vascularized plants cannot because they do not depend on roots for an uptake of nutrients from soil. Bryophytes can survive on rocks and bare soil.
 
-### Life cycle
+### Life Cycle
 
 Like all land plants (embryophytes), bryophytes have life cycles with alternation of generations. In each cycle, a haploid gametophyte, each of whose cells contains a fixed number of unpaired chromosomes, alternates with a diploid sporophyte, whose cell contain two sets of paired chromosomes. Gametophytes produce haploid sperm and eggs which fuse to form diploid zygotes that grow into sporophytes. Sporophytes produce haploid spores by meiosis, that grow into gametophytes.
 
@@ -208,7 +113,7 @@ The xylem consists of vessels in flowering plants and tracheids in other vascula
 
 The most abundant compound in all plants, as in all cellular organisms, is water, which serves an important structural role and a vital role in plant metabolism. Transpiration is the main process of water movement within plant tissues. Water is constantly transpired from the plant through its stomata to the atmosphere and replaced by soil water taken up by the roots. The movement of water out of the leaf stomata creates a transpiration pull or tension in the water column in the xylem vessels or tracheids. The pull is the result of water surface tension within the cell walls of the mesophyll cells, from the surfaces of which evaporation takes place when the stomata are open. Hydrogen bonds exist between water molecules, causing them to line up; as the molecules at the top of the plant evaporate, each pulls the next one up to replace it, which in turn pulls on the next one in line. The draw of water upwards may be entirely passive and can be assisted by the movement of water into the roots via osmosis. Consequently, transpiration requires very little energy to be used by the plant. Transpiration assists the plant in absorbing nutrients from the soil as soluble salts.
 
-Living root cells passively absorb water in the absence of transpiration pull via osmosis creating root pressure. It is possible for there to be no evapotranspiration and therefore no pull of water towards the shoots and leaves. This is usually due to high temperatures, high humidity, darkness or drought.[citation needed]
+Living root cells passively absorb water in the absence of transpiration pull via osmosis creating root pressure. It is possible for there to be no evapotranspiration and therefore no pull of water towards the shoots and leaves. This is usually due to high temperatures, high humidity, darkness or drought.
 
 Xylem and phloem tissues are involved in the conduction processes within plants. Sugars are conducted throughout the plant in the phloem, water and other nutrients through the xylem. Conduction occurs from a source to a sink for each separate nutrient. Sugars are produced in the leaves (a source) by photosynthesis and transported to the growing shoots and roots (sinks) for use in growth, cellular respiration or storage. Minerals are absorbed in the roots (a source) and transported to the shoots to allow cell division and growth.
 
@@ -245,9 +150,8 @@ Many ferns depend on associations with mycorrhizal fungi. Many ferns grow only w
 
 The spores are rich in lipids, protein and calories, so some vertebrates eat these. The European woodmouse (Apodemus sylvaticus) has been found to eat the spores of Culcita macrocarpa and the bullfinch (Pyrrhula murina) and the New Zealand lesser short-tailed bat (Mystacina tuberculata) also eat fern spores.
 
-### Life cycle
+### Life Cycle of Ferns
 
-Gametophyte (thalloid green mass) and sporophyte (ascendent frond) of Onoclea sensibilis
 Ferns are vascular plants differing from lycophytes by having true leaves (megaphylls), which are often pinnate. They differ from seed plants (gymnosperms and angiosperms) in reproducing by means of spores and they lack flowers and seeds. Like all land plants, they have a life cycle referred to as alternation of generations, characterized by alternating diploid sporophytic and haploid gametophytic phases. The diploid sporophyte has 2n paired chromosomes, where n varies from species to species. The haploid gametophyte has n unpaired chromosomes, i.e. half the number of the sporophyte. The gametophyte of ferns is a free-living organism, whereas the gametophyte of the gymnosperms and angiosperms is dependent on the sporophyte.
 
 The life cycle of a typical fern proceeds as follows:
@@ -256,8 +160,7 @@ The life cycle of a typical fern proceeds as follows:
 1. A spore grows into a free-living haploid gametophyte by mitosis (a process of cell division which maintains the number of chromosomes). The gametophyte typically consists of a photosynthetic prothallus.
 1. The gametophyte produces gametes (often both sperm and eggs on the same prothallus) by mitosis.
 1. A mobile, flagellate sperm fertilizes an egg that remains attached to the prothallus.
-1.      The fertilized egg is now a diploid zygote and grows by mitosis into a diploid sporophyte (the typical fern plant).
-
+1. The fertilized egg is now a diploid zygote and grows by mitosis into a diploid sporophyte (the typical fern plant).
 
 ## Seed Plants (Spermatophytes)
 
@@ -321,13 +224,11 @@ The characteristic feature of angiosperms is the flower. Flowers show remarkable
 
 There are two kinds of reproductive cells produced by flowers. Microspores, which will divide to become pollen grains, are the "male" cells and are borne in the stamens (or microsporophylls). The "female" cells called megaspores, which will divide to become the egg cell (megagametogenesis), are contained in the ovule and enclosed in the carpel (or megasporophyll).
 
-The flower may consist only of these parts, as in willow, where each flower comprises only a few stamens or two carpels. Usually, other structures are present and serve to protect the sporophylls and to form an envelope attractive to pollinators. The individual members of these surrounding structures are known as sepals and petals (or tepals in flowers such as Magnolia where sepals and petals are not distinguishable from each other). The outer series (calyx of sepals) is usually green and leaf-like, and functions to protect the rest of the flower, especially the bud. The inner series (corolla of petals) is, in general, white or brightly colored, and is more delicate in structure. It functions to attract insect or bird pollinators. Attraction is effected by color, scent, and nectar, which may be secreted in some part of the flower. The characteristics that attract pollinators account for the popularity of flowers and flowering plants among humans.[citation needed]
+The flower may consist only of these parts, as in willow, where each flower comprises only a few stamens or two carpels. Usually, other structures are present and serve to protect the sporophylls and to form an envelope attractive to pollinators. The individual members of these surrounding structures are known as sepals and petals (or tepals in flowers such as Magnolia where sepals and petals are not distinguishable from each other). The outer series (calyx of sepals) is usually green and leaf-like, and functions to protect the rest of the flower, especially the bud. The inner series (corolla of petals) is, in general, white or brightly colored, and is more delicate in structure. It functions to attract insect or bird pollinators. Attraction is effected by color, scent, and nectar, which may be secreted in some part of the flower. The characteristics that attract pollinators account for the popularity of flowers and flowering plants among humans.
 
 While the majority of flowers are perfect or hermaphrodite (having both pollen and ovule producing parts in the same flower structure), flowering plants have developed numerous morphological and physiological mechanisms to reduce or prevent self-fertilization. Heteromorphic flowers have short carpels and long stamens, or vice versa, so animal pollinators cannot easily transfer pollen to the pistil (receptive part of the carpel). Homomorphic flowers may employ a biochemical (physiological) mechanism called self-incompatibility to discriminate between self and non-self pollen grains. In other species, the male and female parts are morphologically separated, developing on different flowers.
 
-Taxonomy
-
-The botanical term "Angiosperm", from the Ancient Greek ἀγγεῖον, angeíon (bottle, vessel) and σπέρμα, sperma (seed), was coined in the form Angiospermae by Paul Hermann in 1690, as the name of one of his primary divisions of the plant kingdom. This included flowering plants possessing seeds enclosed in capsules, distinguished from his Gymnospermae, or flowering plants with achenial or schizo-carpic fruits, the whole fruit or each of its pieces being here regarded as a seed and naked. The term and its antonym were maintained by Carl Linnaeus with the same sense, but with restricted application, in the names of the orders of his class Didynamia. Its use with any approach to its modern scope became possible only after 1827, when Robert Brown established the existence of truly naked ovules in the Cycadeae and Coniferae, and applied to them the name Gymnosperms.[citation needed] From that time onward, as long as these Gymnosperms were, as was usual, reckoned as dicotyledonous flowering plants, the term Angiosperm was used antithetically by botanical writers, with varying scope, as a group-name for other dicotyledonous plants.
+The botanical term "Angiosperm", from the Ancient Greek ἀγγεῖον, angeíon (bottle, vessel) and σπέρμα, sperma (seed), was coined in the form Angiospermae by Paul Hermann in 1690, as the name of one of his primary divisions of the plant kingdom. This included flowering plants possessing seeds enclosed in capsules, distinguished from his Gymnospermae, or flowering plants with achenial or schizo-carpic fruits, the whole fruit or each of its pieces being here regarded as a seed and naked. The term and its antonym were maintained by Carl Linnaeus with the same sense, but with restricted application, in the names of the orders of his class Didynamia. Its use with any approach to its modern scope became possible only after 1827, when Robert Brown established the existence of truly naked ovules in the Cycadeae and Coniferae, and applied to them the name Gymnosperms. From that time onward, as long as these Gymnosperms were, as was usual, reckoned as dicotyledonous flowering plants, the term Angiosperm was used antithetically by botanical writers, with varying scope, as a group-name for other dicotyledonous plants.
 
 In 1851, Hofmeister discovered the changes occurring in the embryo-sac of flowering plants, and determined the correct relationships of these to the Cryptogamia. This fixed the position of Gymnosperms as a class distinct from Dicotyledons, and the term Angiosperm then gradually came to be accepted as the suitable designation for the whole of the flowering plants other than Gymnosperms, including the classes of Dicotyledons and Monocotyledons. This is the sense in which the term is used today.
 
@@ -340,9 +241,9 @@ Traditionally, the flowering plants are divided into two groups,
 * Dicotyledoneae or Magnoliopsida
 * Monocotyledoneae or Liliopsida
 
-which in the Cronquist system are called Magnoliopsida (at the rank of class, formed from the family name Magnoliaceae) and Liliopsida (at the rank of class, formed from the family name Liliaceae). Other descriptive names allowed by Article 16 of the ICBN include Dicotyledones or Dicotyledoneae, and Monocotyledones or Monocotyledoneae, which have a long history of use. In English a member of either group may be called a dicotyledon (plural dicotyledons) and monocotyledon (plural monocotyledons), or abbreviated, as dicot (plural dicots) and monocot (plural monocots). These names derive from the observation that the dicots most often have two cotyledons, or embryonic leaves, within each seed. The monocots usually have only one, but the rule is not absolute either way. From a broad diagnostic point of view, the number of cotyledons is neither a particularly handy, nor a reliable character.[citation needed]
+which in the Cronquist system are called Magnoliopsida (at the rank of class, formed from the family name Magnoliaceae) and Liliopsida (at the rank of class, formed from the family name Liliaceae). Other descriptive names allowed by Article 16 of the ICBN include Dicotyledones or Dicotyledoneae, and Monocotyledones or Monocotyledoneae, which have a long history of use. In English a member of either group may be called a dicotyledon (plural dicotyledons) and monocotyledon (plural monocotyledons), or abbreviated, as dicot (plural dicots) and monocot (plural monocots). These names derive from the observation that the dicots most often have two cotyledons, or embryonic leaves, within each seed. The monocots usually have only one, but the rule is not absolute either way. From a broad diagnostic point of view, the number of cotyledons is neither a particularly handy, nor a reliable character.
 
-Recent studies, as by the APG, show that the monocots form a monophyletic group (clade) but that the dicots do not (they are paraphyletic). Nevertheless, the majority of dicot species do form a monophyletic group, called the eudicots or tricolpates. Of the remaining dicot species, most belong to a third major clade known as the magnoliids, containing about 9,000 species. The rest include a paraphyletic grouping of early branching taxa known collectively as the basal angiosperms, plus the families Ceratophyllaceae and Chloranthaceae.[citation needed]
+Recent studies, as by the APG, show that the monocots form a monophyletic group (clade) but that the dicots do not (they are paraphyletic). Nevertheless, the majority of dicot species do form a monophyletic group, called the eudicots or tricolpates. Of the remaining dicot species, most belong to a third major clade known as the magnoliids, containing about 9,000 species. The rest include a paraphyletic grouping of early branching taxa known collectively as the basal angiosperms, plus the families Ceratophyllaceae and Chloranthaceae.
 
 Fossilized spores suggest that land plants (embryophytes) have existed for at least 475 million years. Early land plants reproduced sexually with flagellated, swimming sperm, like the green algae from which they evolved. An adaptation to terrestrialization was the development of upright meiosporangia for dispersal by spores to new habitats. This feature is lacking in the descendants of their nearest algal relatives, the Charophycean green algae. A later terrestrial adaptation took place with retention of the delicate, avascular sexual stage, the gametophyte, within the tissues of the vascular sporophyte. This occurred by spore germination within sporangia rather than spore release, as in non-seed plants. A current example of how this might have happened can be seen in the precocious spore germination in Selaginella, the spike-moss. The result for the ancestors of angiosperms was enclosing them in a case, the seed.
 
@@ -350,7 +251,7 @@ The apparently sudden appearance of nearly modern flowers in the fossil record i
 
 The first seed bearing plants, like the ginkgo, and conifers (such as pines and firs), did not produce flowers. The pollen grains (male gametophytes) of Ginkgo and cycads produce a pair of flagellated, mobile sperm cells that "swim" down the developing pollen tube to the female and her eggs.
 
-Oleanane, a secondary metabolite produced by many flowering plants, has been found in Permian deposits of that age together with fossils of gigantopterids. Gigantopterids are a group of extinct seed plants that share many morphological traits with flowering plants, although they are not known to have been flowering plants themselves.[citation needed]
+Oleanane, a secondary metabolite produced by many flowering plants, has been found in Permian deposits of that age together with fossils of gigantopterids. Gigantopterids are a group of extinct seed plants that share many morphological traits with flowering plants, although they are not known to have been flowering plants themselves.
 
 Based on current evidence, some propose that the ancestors of the angiosperms diverged from an unknown group of gymnosperms in the Triassic period (245–202 million years ago). Fossil angiosperm-like pollen from the Middle Triassic (247.2–242.0 Ma) suggests an older date for their origin. A close relationship between angiosperms and gnetophytes, proposed on the basis of morphological evidence, has more recently been disputed on the basis of molecular evidence that suggest gnetophytes are instead more closely related to other gymnosperms.
 
@@ -372,7 +273,7 @@ The great angiosperm radiation, when a great diversity of angiosperms appears in
 
 Island genetics provides one proposed explanation for the sudden, fully developed appearance of flowering plants. Island genetics is believed to be a common source of speciation in general, especially when it comes to radical adaptations that seem to have required inferior transitional forms. Flowering plants may have evolved in an isolated setting like an island or island chain, where the plants bearing them were able to develop a highly specialized relationship with some specific animal (a wasp, for example). Such a relationship, with a hypothetical wasp carrying pollen from one plant to another much the way fig wasps do today, could result in the development of a high degree of specialization in both the plant(s) and their partners. Note that the wasp example is not incidental; bees, which, it is postulated, evolved specifically due to mutualistic plant relationships, are descended from wasps.
 
-Animals are also involved in the distribution of seeds. Fruit, which is formed by the enlargement of flower parts, is frequently a seed-dispersal tool that attracts animals to eat or otherwise disturb it, incidentally scattering the seeds it contains (see frugivory). Although many such mutualistic relationships remain too fragile to survive competition and to spread widely, flowering proved to be an unusually effective means of reproduction, spreading (whatever its origin) to become the dominant form of land plant life.[citation needed]
+Animals are also involved in the distribution of seeds. Fruit, which is formed by the enlargement of flower parts, is frequently a seed-dispersal tool that attracts animals to eat or otherwise disturb it, incidentally scattering the seeds it contains (see frugivory). Although many such mutualistic relationships remain too fragile to survive competition and to spread widely, flowering proved to be an unusually effective means of reproduction, spreading (whatever its origin) to become the dominant form of land plant life.
 
 Flower ontogeny uses a combination of genes normally responsible for forming new shoots. The most primitive flowers probably had a variable number of flower parts, often separate from (but in contact with) each other. The flowers tended to grow in a spiral pattern, to be bisexual (in plants, this means both male and female parts on the same flower), and to be dominated by the ovary (female part). As flowers evolved, some variations developed parts fused together, with a much more specific number and design, and with either specific sexes per flower or plant or at least "ovary-inferior". Flower evolution continues to the present day; modern flowers have been so profoundly influenced by humans that some of them cannot be pollinated in nature. Many modern domesticated flower species were formerly simple weeds, which sprouted only when the ground was disturbed. Some of them tended to grow with human crops, perhaps already having symbiotic companion plant relationships with them, and the prettiest did not get plucked because of their beauty, developing a dependence upon and special adaptation to human affection.
 
@@ -386,25 +287,120 @@ Double fertilization refers to a process in which two sperm cells fertilize cell
 
 As the development of embryo and endosperm proceeds within the embryo sac, the sac wall enlarges and combines with the nucellus (which is likewise enlarging) and the integument to form the seed coat. The ovary wall develops to form the fruit or pericarp, whose form is closely associated with type of seed dispersal system.
 
-Frequently, the influence of fertilization is felt beyond the ovary, and other parts of the flower take part in the formation of the fruit, e.g., the floral receptacle in the apple, strawberry, and others.[citation needed]
+Frequently, the influence of fertilization is felt beyond the ovary, and other parts of the flower take part in the formation of the fruit, e.g., the floral receptacle in the apple, strawberry, and others.
 
-The character of the seed coat bears a definite relation to that of the fruit. They protect the embryo and aid in dissemination; they may also directly promote germination. Among plants with indehiscent fruits, in general, the fruit provides protection for the embryo and secures dissemination. In this case, the seed coat is only slightly developed. If the fruit is dehiscent and the seed is exposed, in general, the seed-coat is well developed, and must discharge the functions otherwise executed by the fruit.[citation needed]
+The character of the seed coat bears a definite relation to that of the fruit. They protect the embryo and aid in dissemination; they may also directly promote germination. Among plants with indehiscent fruits, in general, the fruit provides protection for the embryo and secures dissemination. In this case, the seed coat is only slightly developed. If the fruit is dehiscent and the seed is exposed, in general, the seed-coat is well developed, and must discharge the functions otherwise executed by the fruit.
 
-Flowering plants generate gametes using a specialized cell division called meiosis. Meiosis takes place in the ovule (a structure within the ovary that is located within the pistil at the center of the flower) (see diagram labeled "Angiosperm lifecycle"). A diploid cell (megaspore mother cell) in the ovule undergoes meiosis (involving two successive cell divisions) to produce four cells (megaspores) with haploid nuclei. It is thought that the basal chromosome number in angiosperms is n = 7. One of these four cells (megaspore) then undergoes three successive mitotic divisions to produce an immature embryo sac (megagametophyte) with eight haploid nuclei. Next, these nuclei are segregated into separate cells by cytokinesis to producing 3 antipodal cells, 2 synergid cells and an egg cell. Two polar nuclei are left in the central cell of the embryo sac.[citation needed]
+Flowering plants generate gametes using a specialized cell division called meiosis. Meiosis takes place in the ovule (a structure within the ovary that is located within the pistil at the center of the flower) (see diagram labeled "Angiosperm lifecycle"). A diploid cell (megaspore mother cell) in the ovule undergoes meiosis (involving two successive cell divisions) to produce four cells (megaspores) with haploid nuclei. It is thought that the basal chromosome number in angiosperms is n = 7. One of these four cells (megaspore) then undergoes three successive mitotic divisions to produce an immature embryo sac (megagametophyte) with eight haploid nuclei. Next, these nuclei are segregated into separate cells by cytokinesis to producing 3 antipodal cells, 2 synergid cells and an egg cell. Two polar nuclei are left in the central cell of the embryo sac.
 
-Pollen is also produced by meiosis in the male anther (microsporangium). During meiosis, a diploid microspore mother cell undergoes two successive meiotic divisions to produce 4 haploid cells (microspores or male gametes). Each of these microspores, after further mitoses, becomes a pollen grain (microgametophyte) containing two haploid generative (sperm) cells and a tube nucleus. When a pollen grain makes contact with the female stigma, the pollen grain forms a pollen tube that grows down the style into the ovary. In the act of fertilization, a male sperm nucleus fuses with the female egg nucleus to form a diploid zygote that can then develop into an embryo within the newly forming seed. Upon germination of the seed, a new plant can grow and mature.[citation needed]
+Pollen is also produced by meiosis in the male anther (microsporangium). During meiosis, a diploid microspore mother cell undergoes two successive meiotic divisions to produce 4 haploid cells (microspores or male gametes). Each of these microspores, after further mitoses, becomes a pollen grain (microgametophyte) containing two haploid generative (sperm) cells and a tube nucleus. When a pollen grain makes contact with the female stigma, the pollen grain forms a pollen tube that grows down the style into the ovary. In the act of fertilization, a male sperm nucleus fuses with the female egg nucleus to form a diploid zygote that can then develop into an embryo within the newly forming seed. Upon germination of the seed, a new plant can grow and mature.
 
 The adaptive function of meiosis is currently a matter of debate. A key event during meiosis in a diploid cell is the pairing of homologous chromosomes and homologous recombination (the exchange of genetic information) between homologous chromosomes. This process promotes the production of increased genetic diversity among progeny and the recombinational repair of damages in the DNA to be passed on to progeny. To explain the adaptive function of meiosis in flowering plants, some authors emphasize diversity and others emphasize DNA repair.
 
-## Plant anatomy
+## Plant Anatomy
 
 Plant anatomy or phytotomy is the general term for the study of the internal structure of plants. Originally it included plant morphology, the description of the physical form and external structure of plants, but since the mid-20th century plant anatomy has been considered a separate field referring only to internal plant structure. Plant anatomy is now frequently investigated at the cellular level, and often involves the sectioning of tissues and microscopy.
 
-Structural divisions
+## Plant Tissues
+
+In plant anatomy, tissues are categorized broadly into three tissue systems: the epidermis, the ground tissue, and the vascular tissue.
+
+* Epidermis - Cells forming the outer surface of the leaves and of the young plant body.
+* Vascular tissue - The primary components of vascular tissue are the xylem and phloem. These transport fluids and nutrients internally.
+* Ground tissue - Ground tissue is less differentiated than other tissues. Ground tissue manufactures nutrients by photosynthesis and stores reserve nutrients.
+
+Plant tissues can also be divided differently into two types:
+
+1. Meristematic tissues
+1. Permanent tissues.
+
+### Meristematic Tissues
+
+Meristematic tissue consists of actively dividing cells, and leads to increase in length and thickness of the plant. The primary growth of a plant occurs only in certain, specific regions, such as in the tips of stems or roots. It is in these regions that meristematic tissues are present. Cells in these tissues are roughly spherical or polyhedral, to rectangular in shape, and have thin cell walls. New cells produced by meristem are initially those of meristem itself, but as the new cells grow and mature, their characteristics slowly change and they become differentiated as components of the region of occurrence of meristematic tissues, being classified as:
+
+* Apical meristem - It is present at the growing tips of stems and roots and increases the length of the stem and root. They form growing parts at the apices of roots and stems and are responsible for the increase in length, also called primary growth. This meristem is responsible for the linear growth of an organ.
+* Lateral meristem - This meristem consists of cells which mainly divide in one plane and cause the organ to increase in diameter and growth. Lateral meristem usually occurs beneath the bark of the tree in the form of Cork Cambium and in vascular bundles of dicots in the form of vascular cambium. The activity of this cambium results in the formation of secondary growth.
+* Intercalary meristem - This meristem is located in between permanent tissues. It is usually present at the base of the node, internode and on leaf base. They are responsible for growth in length of the plant and increasing the size of the internode. They result in branch formation and growth.
+
+The cells of meristematic tissues are similar in structure and have thin and elastic primary cell wall made up of cellulose. They are compactly arranged without inter-cellular spaces between them. Each cell contains a dense cytoplasm and a prominent nucleus. The dense protoplasm of meristematic cells contains very few vacuoles. Normally the meristematic cells are oval, polygonal or rectangular in shape.
+
+Meristematic tissue cells have a large nucleus with small or no vacuoles as they have no need to store anything, opposed to their function of multiplying and increasing the girth and length of the plant, and no intercellular spaces.
+
+### Permanent Tissues
+
+Permanent tissues may be defined as a group of living or dead cells formed by meristematic tissue and have lost their ability to divide and have permanently placed at fixed positions in the plant body. Meristematic tissues that take up a specific role lose the ability to divide. This process of taking up a permanent shape, size and a function is called cellular differentiation. Cells of meristematic tissue differentiate to form different types of permanent tissues. There are 3 types of permanent tissues:
+
+1. simple permanent tissues
+1. complex permanent tissues
+1. special or secretory tissues (glandular).
+
+Simple Permanent tissues
+
+A group of cells which are similar in origin; similar in structure and similar in function are called simple permanent tissue. They are of three types:
+
+1. Parenchyma
+1. Collenchyma
+1. Sclerenchyma
+
+### Parenchyma
+
+Parenchyma (para - 'beside'; infusion - 'tissue') is the bulk of a substance. In plants, it consists of relatively unspecialized living cells with thin cell walls that are usually loosely packed so that intercellular spaces are found between cells of this tissue. These are generally isodiametric, in shape. They contain small number of vacuoles or sometimes they even may not contain any vacuole. Even if they do so the vacuole is of much smaller size than of normal animal cells. This tissue provides support to plants and also stores food. Chlorenchyma is a special type of parenchyma that contains chlorophyll and performs photosynthesis. In aquatic plants, aerenchyma tissues, or large air cavities, give support to float on water by making them buoyant. Parenchyma cells called idioblasts have metabolic waste. Spindle shape fiber also contained into this cell to support them and known as prosenchyma, succulent parenchyma also noted. In xerophytes, parenchyma tissues store water.
+
+### Collenchyma
+
+Cross section of collenchyma cells
+Collenchyma is Greek word where "Colla" means gum and "enchyma" means infusion. It is a living tissue of primary body like Parenchyma. Cells are thin-walled but possess thickening of cellulose, water and pectin substances (pectocellulose) at the corners where a number of cells join together. This tissue gives tensile strength to the plant and the cells are compactly arranged and have very little inter-cellular spaces. It occurs chiefly in hypodermis of stems and leaves. It is absent in monocots and in roots. Sometimes it contains chlorophyll which can help them photosynthesize.
+
+Collenchymatous tissue acts as a supporting tissue in stems of young plants. It provides mechanical support, elasticity, and tensile strength to the plant body. It helps in manufacturing sugar and storing it as starch. It is present in the margin of leaves and resists tearing effect of the wind.
+
+### Sclerenchyma
+
+Sclerenchyma is Greek word where "Sclero-" means hard and "enchyma" means infusion. This tissue consists of thick-walled, dead cells and protoplasm is negligible. These cells have hard and extremely thick secondary walls due to uniform distribution and high secretion of lignin and have a function of providing mechanical support. They do not have inter-molecular space between them. Lignin deposition is so thick that the cell walls become strong, rigid and impermeable to water which is also known as a stone cell or sclereids. These tissues are mainly of two types: sclerenchyma fiber and sclereids. Sclerenchyma fiber cells have a narrow lumen and are long, narrow and unicellular. Fibers are elongated cells that are strong and flexible, often used in ropes. Sclereids have extremely thick cell walls and are brittle, and are found in nutshells and legumes.
+
+### Epidermis
+
+The entire surface of the plant consists of a single layer of cells called epidermis or surface tissue. The entire surface of the plant has this outer layer of the epidermis. Hence it is also called surface tissue. Most of the epidermal cells are relatively flat. The outer and lateral walls of the cell are often thicker than the inner walls. The cells form a continuous sheet without intercellular spaces. It protects all parts of the plant. The outer epidermis is coated with a waxy thick layer called cuticle which prevents loss of water. The epidermis also consists of stomata(singular:stoma) which helps in transpiration.
+
+## Complex Permanent Tissue
+
+The complex tissue consists of more than one type of cells which work together as a unit. Complex tissues help in the transportation of organic material, water, and minerals up and down the plants. That is why it is also known as conducting and vascular tissue. The common types of complex permanent tissue are:
+
+* Xylem or wood
+* Phloem or bast.
+
+Xylem and phloem together form vascular bundles.
+
+## Xylem
+
+Xylem consists of:
+
+* Xylem tracheids
+* Xylem vessel
+* Xylem fibres or Xylem sclerenchyma
+* Xylem parenchyma
+
+Xylem serves as a chief conducting tissue of vascular plants.
+
+It is responsible for the conduction of water and mineral ions/salt. Xylem tissue is organised in a tube-like fashion along the main axes of stems and roots. It consists of a combination of parenchyma cells, fibers, vessels, tracheids, and ray cells. Longer tubes made up of individual cells are vessels tracheids, while vessel members are open at each end. Internally, there may be bars of wall material extending across the open space. These cells are joined end to end to form long tubes. Vessel members and tracheids are dead at maturity. Tracheids have thick secondary cell walls and are tapered at the ends. They do not have end openings such as the vessels. The tracheids end overlap with each other, with pairs of pits present. The pit pairs allow water to pass from cell to cell.
+
+Though most conduction in xylem tissue is vertical, lateral conduction along the diameter of a stem is facilitated via rays. Rays are horizontal rows of long-living parenchyma cells that arise out of the vascular cambium. In trees and other woody plants, rays radiate out from the center of stems and roots and appear like spokes on a wheel in cross section. Rays, unlike vessel members and tracheids, are alive at functional maturity.
+
+## Phloem
+
+Phloem consists of:
+
+* Sieve tube
+* Companion cell
+* Phloem fibre
+* Phloem parenchyma.
+
+Phloem is an equally important plant tissue as it also is part of the 'plumbing system' of a plant. Primarily, phloem carries dissolved food substances throughout the plant. This conduction system is composed of sieve-tube member and companion cells, that are without secondary walls. The parent cells of the vascular cambium produce both xylem and phloem. This usually also includes fibers, parenchyma and ray cells. Sieve tubes are formed from sieve-tube members laid end to end. The end walls, unlike vessel members in xylem, do not have openings. The end walls, however, are full of small pores where cytoplasm extends from cell to cell. These porous connections are called sieve plates. In spite of the fact that their cytoplasm is actively involved in the conduction of food materials, sieve-tube members do not have nuclei at maturity. It is the companion cells that are nestled between sieve-tube members that function in some manner bringing about the conduction of food. Sieve-tube members that are alive contain a polymer called callose, a carbohydrate polymer, forming the callus pad/callus, the colourless substance that covers the sieve plate. Callose stays in solution as long as the cell contents are under pressure. Phloem transports food and materials in plants upwards and downwards as required.
+
+### Structural Divisions
 
 Some studies of plant anatomy use a systems approach, organized on the basis of the plant's activities, such as nutrient transport, flowering, pollination, embryogenesis or seed development. Others are more classically divided into the following structural categories:
 
-Root tip
+### Root Tip
 
 Flower anatomy, including study of the Calyx, Corolla, Androecium, and Gynoecium
 Leaf anatomy, including study of the Epidermis, stomata and Palisade cells
@@ -413,19 +409,11 @@ Fruit/Seed anatomy, including structure of the Ovule, Seed, Pericarp and Accesso
 Wood anatomy, including structure of the Bark, Cork, Xylem, Phloem, Vascular cambium, Heartwood and sapwood and branch collar
 Root anatomy, including structure of the Root, root tip, endodermis
 
-Plant cells
-
-Plant cell structure
+### Plant cells
 
 Plant cells are typically distinguished by their large water-filled central vacuole, chloroplasts, and rigid cell walls that are made up of cellulose, hemicellulose, and pectin. Cell division is also characterized by the development of a phragmoplast for the construction of a cell plate in the late stages of cytokinesis. Just as in animals, plant cells differentiate and develop into multiple cell types. Totipotent meristematic cells can differentiate into vascular, storage, protective (e.g. epidermal layer), or reproductive tissues, with more primitive plants lacking some tissue types.
 
-Plant physiology
-
-Plant physiology is a subdiscipline of botany concerned with the functioning, or physiology, of plants. Closely related fields include plant morphology (structure of plants), plant ecology (interactions with the environment), phytochemistry (biochemistry of plants), cell biology, genetics, biophysics and molecular biology.
-
-Fundamental processes such as photosynthesis, respiration, plant nutrition, plant hormone functions, tropisms, nastic movements, photoperiodism, photomorphogenesis, circadian rhythms, environmenta
-
-## Biochemistry of plants
+## Biochemistry of Plants
 
 The chemical elements of which plants are constructed—principally carbon, oxygen, hydrogen, nitrogen, phosphorus, sulfur, etc.—are the same as for all other life forms animals, fungi, bacteria and even viruses. Only the details of the molecules into which they are assembled differs.
 
@@ -475,23 +463,23 @@ Although a short day plant cannot flower during the long days of summer, it is n
 
 Plants make use of the phytochrome system to sense day length or photoperiod. This fact is utilized by florists and greenhouse gardeners to control and even induce flowering out of season, such as the Poinsettia.
 
-## Plant secondary metabolism
+## Plant Secondary Metabolism
 
 Secondary metabolism produces a large number of specialized compounds (estimated 200,000) that do not aid in the growth and development of plants but are required for the plant to survive in its environment. Secondary metabolism is connected to primary metabolism by using building blocks and biosynthetic enzymes derived from primary metabolism. Primary metabolism governs all basic physiological processes that allow a plant to grow and set seeds, by translating the genetic code into proteins, carbohydrates, and amino acids. Specialized compounds from secondary metabolism are essential for communicating with other organisms in mutualistic (e.g. attraction of beneficial organisms such as pollinators) or antagonistic interactions (e.g. deterrent against herbivores and pathogens). They further assist in coping with abiotic stress such as increased UV-radiation. The broad functional spectrum of specialized metabolism is still not fully understood. In any case, a good balance between products of primary and secondary metabolism is best for a plant’s optimal growth and development as well as for its effective coping with often changing environmental conditions. Well known specialized compounds include alkaloids, polyphenols including flavonoids, and terpenoids. Humans use quite a lot of these compounds, or the plants from which they originate, for culinary, medicinal and nutraceutical purposes.
 
-## Tropisms and nastic movements
+## Tropisms And Nastic Movements
 
 Plants may respond both to directional and non-directional stimuli. A response to a directional stimulus, such as gravity or sunlight, is called a tropism. A response to a nondirectional stimulus, such as temperature or humidity, is a nastic movement.
 
 Tropisms in plants are the result of differential cell growth, in which the cells on one side of the plant elongates more than those on the other side, causing the part to bend toward the side with less growth. Among the common tropisms seen in plants is phototropism, the bending of the plant toward a source of light. Phototropism allows the plant to maximize light exposure in plants which require additional light for photosynthesis, or to minimize it in plants subjected to intense light and heat. Geotropism allows the roots of a plant to determine the direction of gravity and grow downwards. Tropisms generally result from an interaction between the environment and production of one or more plant hormones.
 
 Nastic movements results from differential cell growth (e.g. epinasty and hiponasty), or from changes in turgor pressure within plant tissues (e.g., nyctinasty), which may occur rapidly. A familiar example is thigmonasty (response to touch) in the Venus fly trap, a carnivorous plant. The traps consist of modified leaf blades which bear sensitive trigger hairs. When the hairs are touched by an insect or other animal, the leaf folds shut. This mechanism allows the plant to trap and digest small insects for additional nutrients. Although the trap is rapidly shut by changes in internal cell pressures, the leaf must grow slowly to reset for a second opportunity to trap insects.
-## Plant reproduction
+
+## Plant Reproduction
 
 Plant reproduction is the production of new offspring in plants, which can be accomplished by sexual or asexual reproduction. Sexual reproduction produces offspring by the fusion of gametes, resulting in offspring genetically different from the parent or parents. Asexual reproduction produces new individuals without the fusion of gametes, genetically identical to the parent plants and each other, except when mutations occur.
 
-
-### Asexual reproduction
+### Asexual Reproduction
 
 In asexual reproduction male and female gametes do not fuse, as they do in sexual reproduction. Asexual reproduction may occur through Binary Fission, budding, fragmentation, spore formation, Regeneration and vegetative propagation. Plants have two main types of asexual reproduction in which new plants are produced that are genetically identical clone of the parent individual. Vegetative reproduction involves a vegetative piece of the original plant (budding, tillering, etc.) and is distinguished from apomixis, which is a replacement of sexual reproduction, and in some cases involves seeds. Apomixis appears in many plant species and also in some non-plant organisms. For apomixis and similar processes in non-plant organisms, see parthenogenesis.
 
@@ -515,7 +503,7 @@ Examples include cuttings from the stems of blackberries (Rubus occidentalis), A
 
 Since vegetatively propagated plants are clones, they are important tools in plant research. When a clone is grown in various conditions, differences in growth can be ascribed to environmental effects instead of genetic differences.
 
-### Sexual reproduction
+### Sexual Reproduction
 
 Sexual reproduction involves two fundamental processes: meiosis, which rearranges the genes and reduces the number of chromosomes, and fertilization, which restores the chromosome to a complete diploid number. In between these two processes, different types of plants and algae vary, but many of them, including all land plants, undergo alternation of generations, with two different multicellular structures (phases), a gametophyte and a sporophyte. The evolutionary origin and adaptive significance of sexual reproduction are discussed in the pages “Evolution of sexual reproduction” and “Origin and function of meiosis.”
 
@@ -529,7 +517,7 @@ In mosses and liverworts, the gametophyte is relatively large, and the sporophyt
 
 Unlike animals, plants are immobile, and cannot seek out sexual partners for reproduction. In the evolution of early plants, abiotic means, including water and wind, transported sperm for reproduction. The first plants were aquatic, as described in the page "Evolutionary history of plants", and released sperm freely into the water to be carried with the currents. Primitive land plants like liverworts and mosses had motile sperm that swam in a thin film of water or were splashed in water droplets from the male reproduction organs onto the female organs. As taller and more complex plants evolved, modifications in the alternation of generations evolved; in the Paleozoic era progymnosperms reproduced by using spores dispersed on the wind. The seed plants including seed ferns, conifers and cordaites, which were all gymnosperms, evolved 350 million years ago; they had pollen grains that contained the male gametes for protection of the sperm during the process of transfer from the male to female parts. It is believed that insects fed on the pollen, and plants thus evolved to use insects to actively carry pollen from one plant to the next. Seed producing plants, which include the angiosperms and the gymnosperms, have a heteromorphic alternation of generations with large sporophytes containing much-reduced gametophytes. Angiosperms have distinctive reproductive organs called flowers, with carpels, and the female gametophyte is greatly reduced to a female embryo sac, with as few as eight cells. The male gametophyte consists of the pollen grains. The sperm of seed plants are non-motile, except for two older groups of plants, the Cycadophyta and the Ginkgophyta, which have flagellated sperm.
 
-### Flowering plants
+### Reproduction of Flowering Plants
 
 Flowering plants are the dominant plant form on land and they reproduce by sexual and asexual means. Often their most distinguishing feature is their reproductive organs, commonly called flowers. Sexual reproduction in flowering plants involves the production of male and female gametes, the transfer of the male gametes to the female ovules in a process called pollination. After pollination occurs, fertilization happens and the ovules grow into seeds within a fruit. After the seeds are ready to for dispersal, the fruit ripens and by various means, the seeds are freed from the fruit and after varying amounts of time and under specific conditions the seeds germinate and grow into the next generation.
 
@@ -545,13 +533,10 @@ The largest family of flowering plants is the orchids (Orchidaceae), estimated b
 
 Another large group of flowering plants is the Asteraceae or sunflower family with close to 22,000 species, which also have highly modified inflorescences that are flowers collected together in heads composed of a composite of individual flowers called florets. Heads with florets of one sex, when the flowers are pistillate or functionally staminate or made up of all bisexual florets, are called homogamous and can include discoid and liguliflorous type heads. Some radiate heads may be homogamous too. Plants with heads that have florets of two or more sexual forms are called heterogamous and include radiate and disciform head forms, though some radiate heads may be heterogamous too.
 
-### Ferns
+### Reproductin of Ferns
 
 Ferns typically produce large diploids with stem, roots, and leaves; and on fertile leaves called sporangium, spores are produced. The spores are released and germinate to produce short, thin gametophytes that are typically heart-shaped, small and green in color. The gametophytes or thallus, produce both motile sperm in the antheridia and egg cells in separate archegonia. After rains or when dew deposits a film of water, the motile sperm are splashed away from the antheridia, which are normally produced on the top side of the thallus, and swim in the film of water to the antheridia where they fertilize the egg. To promote out crossing or cross-fertilization the sperm is released before the eggs are receptive of the sperm, making it more likely that the sperm will fertilize the eggs of the different thallus. A zygote is formed after fertilization, which grows into a new sporophytic plant. The condition of having separate sporophyte and gametophyte plants is called alternation of the generations. Other plants with similar reproductive means include the Psilotum, Lycopodium, Selaginella and Equisetum.
 
-### Bryophytes
+### Reproductin of Bryophytes
 
 The bryophytes, which include liverworts, hornworts and mosses, reproduce both sexually and vegetatively. The gametophyte is the most commonly known phase of the plant. All are small plants found growing in moist locations and like ferns, have motile sperm with flagella and need water to facilitate sexual reproduction. These plants start as a haploid spore that grows into the dominant form, which is a multicellular haploid body with leaf-like structures that photosynthesize. Haploid gametes are produced in antheridia and archegonia by mitosis. The sperm released from the antheridia respond to chemicals released by ripe archegonia and swim to them in a film of water and fertilize the egg cells, thus producing zygotes that are diploid. The zygote divides by mitotic division and grows into a sporophyte that is diploid. The multicellular diploid sporophyte produces structures called spore capsules. The spore capsules produce spores by meiosis, and when ripe, the capsules burst open and the spores are released. Bryophytes show considerable variation in their breeding structures and the above is a basic outline. In some species each gametophyte is one sex while other species produce both antheridia and archegonia on the same gametophyte which is thus hermaphrodite.
-
-
-

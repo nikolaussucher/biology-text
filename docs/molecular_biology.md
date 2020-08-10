@@ -316,6 +316,7 @@ After passing through the G1/S checkpoint, DNA must be replicated only once in e
 Activation of S-Cdks in early S phase promotes the destruction or inhibition of individual pre-replication complex components, preventing immediate reassembly. S and M-Cdks continue to block pre-replication complex assembly even after S phase is complete, ensuring that assembly cannot occur again until all Cdk activity is reduced in late mitosis.
 
 Replication of chloroplast and mitochondrial genomes occurs independently of the cell cycle, through the process of D-loop replication.
+
 ### Interactions of DNA with proteins
 
 All the functions of DNA depend on interactions with proteins. These protein interactions can be non-specific, or the protein can bind specifically to a single DNA sequence. Enzymes can also bind to DNA and of these, the polymerases that copy the DNA base sequence in transcription and DNA replication are particularly important.
@@ -657,13 +658,6 @@ Eukaryotes have 80S ribosomes located in their cytosol, each consisting of a sma
 The differences between the bacterial and eukaryotic ribosomes are exploited by pharmaceutical chemists to create antibiotics that can kill bacteria without harming eukaryotic cells. Due to the differences in their structures, the bacterial 70S ribosomes are vulnerable to these antibiotics while the eukaryotic 80S ribosomes are not. 
 
 The various ribosomes share a core structure, which is quite similar despite the large differences in size. Much of the RNA is highly organized into various tertiary structural motifs, for example pseudoknots that exhibit coaxial stacking. The extra RNA in the larger ribosomes is in several long continuous insertions, such that they form loops out of the core structure without disrupting or changing it. All of the catalytic activity of the ribosome is carried out by the RNA; the proteins reside on the surface and seem to stabilize the structure.
-
-(ref:trna) Tertiary structure of tRNA (based on atomic coordinates of [PDB 1ehz](https://www.rcsb.org/structure/1ehz) rendered with open source molecular visualization tool PyMol.)
-
-<div class="figure" style="text-align: center">
-<img src="./figures/translation/trna.png" alt="(ref:trna)" width="70%" />
-<p class="caption">(\#fig:trnastruc)(ref:trna)</p>
-</div>
 
 Aminoacyl tRNA synthetases (enzymes) catalyze the bonding between specific tRNAs and the amino acids that their anticodon sequences call for. The product of this reaction is an aminoacyl-tRNA. In prokaryotes, this aminoacyl-tRNA is carried to the ribosome by EF-Tu, where mRNA codons are matched through complementary base pairing to specific tRNA anticodons. 
 

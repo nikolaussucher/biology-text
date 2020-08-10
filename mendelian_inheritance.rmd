@@ -172,16 +172,6 @@ The rules of meiosis, as they apply to the dihybrid, are codified in Mendel's fi
 *   the second **3** represents those displaying the first recessive trait and second dominant trait
 *   the **1** represents the homozygous, displaying both recessive traits.
 
-## Forked-line method
-
-The forked-line method (also known as the tree method and the branching system) can also solve dihybrid and multihybrid crosses. A problem is converted to a series of monohybrid crosses, and the results are combined in a tree. However, a tree produces the same result as a Punnett square in less time and with more clarity. The example below (Figure \@ref(fig:forkedline)) assesses another double-heterozygote cross using RrYy x RrYy. As stated above, the phenotypic ratio is expected to be 9:3:3:1 if crossing unlinked genes from two double-heterozygotes. The genotypic ratio was obtained in the diagram below, this diagram will have more branches than if only analyzing for phenotypic ratio.
-
-(ref:forked) [The forked line method.](https://commons.wikimedia.org/wiki/File:Dihybrid_Cross_Tree_Method.png)
-
-```{r forkedline, fig.cap='(ref:forked)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/mendel/Dihybrid_Cross_Tree_Method.png")
-```
-
 ## Mendelian traits in humans
 
 Mendelian traits in humans concerns how, in Mendelian inheritance, a child receiving a dominant allele from either parent will have the dominant form of the phenotypic trait or characteristic. Only those that received the recessive allele from both parents, known as zygosity, will have the recessive phenotype. Those that receive a dominant allele from one parent and a recessive allele from the other parent will have the dominant form of the trait. Purely Mendelian traits are a tiny minority of all traits, since most phenotypic traits exhibit incomplete dominance, codominance, and contributions from many genes.
@@ -224,14 +214,6 @@ Examples
 * Sanfilippo syndrome
 * Tay–Sachs disease
 * Wet (dominant) or dry (recessive) earwax – dry is found mostly in Asians and Native Americans
-
-## OMIM - Online Mendelian Inheritance in Man
-
-[OMIM](https://omim.org) is a comprehensive, authoritative compendium of human genes and genetic phenotypes that is freely available and updated daily. The full-text, referenced overviews in OMIM contain information on all known mendelian disorders and over 15,000 genes. OMIM focuses on the relationship between phenotype and genotype. It is updated daily, and the entries contain copious links to other genetics resources.
-
-The database was initiated in the early 1960s by Dr. Victor A. McKusick as a catalog of mendelian traits and disorders, entitled Mendelian Inheritance in Man (MIM). Twelve book editions of MIM were published between 1966 and 1998. The online version, OMIM, was created in 1985 by a collaboration between the National Library of Medicine and the William H. Welch Medical Library at Johns Hopkins. It was made generally available on the internet starting in 1987. In 1995, OMIM was developed for the World Wide Web by NCBI, the National Center for Biotechnology Information.
-
-OMIM is authored and edited at the McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University School of Medicine, under the direction of Dr. Ada Hamosh.
 
 ## Non-Mendelian inheritance
 

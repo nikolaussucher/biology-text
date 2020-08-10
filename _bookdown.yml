@@ -26,7 +26,7 @@ rmd_files: [ "index.rmd",
              "digestive_system.rmd",
              "excretory_system.rmd",
              "nervous_system.rmd",
-             # "sense_organs.rmd",
+             "sensation.rmd",
              "locomotion.rmd",
              "endocrine_system.rmd",
              "reproductive_system.rmd"
