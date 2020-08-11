@@ -32,6 +32,12 @@ There is currently no consensus regarding the definition of [life](https://en.wi
 
 Since its primordial beginnings, life on Earth has changed its environment on a geologic time scale, but it has also adapted to survive in most ecosystems and conditions. Some microorganisms, called extremophiles, thrive in physically or geochemically extreme environments that are detrimental to most other life on Earth. The cell is considered the structural and functional unit of life. There are two kinds of cells, prokaryotic and eukaryotic, both of which consist of cytoplasm enclosed within a membrane and contain many biomolecules such as proteins and nucleic acids. Cells reproduce through a process of cell division, in which the parent cell divides into two or more daughter cells.
 
+(ref:celltypes) [Cartoons of a eukaryotic cell (left) and prokaryotic cell (right)](https://commons.wikimedia.org/wiki/File:Celltypes.svg)
+
+```{r celltypecartoon , fig.cap='(ref:)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/life/Celltypes.svg")
+```
+
 In the past, there have been many attempts to define what is meant by "life" through obsolete concepts such as odic force, hylomorphism, spontaneous generation and vitalism, that have now been disproved by biological discoveries. Aristotle is considered to be the first person to classify organisms. Later, Carl Linnaeus introduced his system of binomial nomenclature for the classification of species. Eventually new groups and categories of life were discovered, such as cells and microorganisms, forcing dramatic revisions of the structure of relationships between living organisms. Though currently only known on Earth, life need not be restricted to it, and many scientists speculate in the existence of extraterrestrial life. Artificial life is a computer simulation or human-made reconstruction of any aspect of life, which is often used to examine systems related to natural life.
 
 Death is the permanent termination of all biological functions which sustain an organism, and as such, is the end of its life. Extinction is the term describing the dying out of a group or taxon, usually a species. Fossils are the preserved remains or traces of organisms.

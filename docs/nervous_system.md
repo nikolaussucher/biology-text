@@ -4,26 +4,38 @@ The nervous system is a highly complex part of an animal that coordinates its ac
 
 (ref:nervous) The human nervous system. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/nervoussystem/NervousSystem.jpg" alt="(ref:nervous)" width="70%" />
-<p class="caption">(\#fig:nervoussystem)(ref:nervous)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/NervousSystem} 
+
+}
+
+\caption{(ref:nervous)}(\#fig:nervoussystem)
+\end{figure}
 
 The nervous system derives its name from nerves, which are cylindrical bundles of fibers (the axons of neurons), that emanate from the brain and spinal cord, and branch repeatedly to innervate every part of the body. Nerves are large enough to have been recognized by the ancient Egyptians, Greeks, and Romans, but their internal structure was not understood until it became possible to examine them using a microscope.
 
 (ref:nerve) Transverse section of a nerve. a) a single nerve fibre (axon) surrounded by a thick layer of myelin. c) an interstitial cell. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/nervoussystem/CajalNerve.jpg" alt="(ref:nerve)" width="70%" />
-<p class="caption">(\#fig:nervesection)(ref:nerve)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/CajalNerve} 
+
+}
+
+\caption{(ref:nerve)}(\#fig:nervesection)
+\end{figure}
 
 (ref:bow) [A brainbow of mouse neurons.](https://commons.wikimedia.org/wiki/File:Brainbow_(Smith_2007).jpg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/nervoussystem/nihms37882f2.jpg" alt="(ref:bow)" width="70%" />
-<p class="caption">(\#fig:brainbow)(ref:bow)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/nihms37882f2} 
+
+}
+
+\caption{(ref:bow)}(\#fig:brainbow)
+\end{figure}
 
 Neuroscience (or neurobiology) is a multidisciplinary branch of biology that combines physiology, anatomy, molecular biology, developmental biology, cytology, mathematical modeling, and psychology to understand the fundamental and emergent properties of neurons and neural circuits. The understanding of the biological basis of learning, memory, behavior, perception, and consciousness has been described as the "ultimate challenge" of the biological sciences. The human brain is often referred to as the most complicated structure in the universe. The scope of neuroscience has broadened over time to include different approaches used to study the nervous system at different scales and the techniques used by neuroscientists have expanded enormously, from molecular and cellular studies of individual neurons to imaging of sensory, motor and cognitive tasks in the brain. Malfunction of the nervous system can occur as a result of genetic defects, physical damage due to trauma or toxicity, infection or simply of ageing. The medical specialty of neurology studies disorders of the nervous system and looks for interventions that can prevent or treat them. Although mental illnesses are believed by many to be neurological disorders affecting the central nervous system, traditionally they are classified separately, and treated by psychiatrists.
 
@@ -37,10 +49,14 @@ At the cellular level, the nervous system is defined by the presence of a specia
 
 (ref:pyramid) A nerve cell from the cerebral cortex of a rabbit. Notice the extensive tree of dendrites at the top, the long axon at the bottom. Because of the pyramid-like shape of the cell body, this type of neuron is referred to as a pyramidal cell. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/nervoussystem/RabbitPyramidalCellCajalMetodos.jpg" alt="(ref:pyramid)" width="70%" />
-<p class="caption">(\#fig:pyramidalcell)(ref:pyramid)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/RabbitPyramidalCellCajalMetodos} 
+
+}
+
+\caption{(ref:pyramid)}(\#fig:pyramidalcell)
+\end{figure}
 
 Even in the nervous system of a single species such as humans, hundreds of different types of neurons exist, with a wide variety of morphologies and functions. These include sensory neurons that convert physical stimuli such as light and sound into neural signals, and motor neurons that activate muscles or glands; however in many species the great majority of neurons participate in the formation of centralized structures (the brain and ganglia) and they receive all of their input from other neurons and send their output to other neurons.
 
@@ -58,10 +74,14 @@ The vast majority of existing animals are bilaterians, meaning animals with left
 
 (ref:invertebrate) Comparison of nervous systems of invertebrates. Top left: A diffuse nerve net in *Actinia* (a genus of sea anemones in the family *Actiniidae* in the phylum *Cnidaria*); top right: The nervous system of *Anadonta anatina*, a freshwater mussel in the family *Unionidae* in the phylum *Mollusca*. c, foot; k, pedal ganglion; i, cerebro-pedal connective; g, cerebral ganglion; h, cerebral connective; a, anterior adductor muscle; r, q, anterior pallial nerves; d, liver; s, visceral nerve; l, cerebro-visceral connective; e, gill; f, edge of mantle; n, branchial nerves; m, visceral ganglion; o, posterior pallial nerves; b, posterior adductor muscle; p, lateral pallial nerves; bottom left: the nervous system of *Alitta virens*, a polychaete worm in the phylum *Annelida*. J, jaws; b, antennal nerves; c, palpal nerves; f, ganglia for the dorsal peristomial cirri; n^1^ , ganglion; n, nerves for the dissepimenta; m, parapodial nerves; i, parapodial branch; h, ventral chain of ganglia; C, cerebral ganglion; o, nerve passing through dissepiment to preceding segment; k, parapodial ganglion. Bottom right: the nervous system of an insect (*Arthropoda*). From [Morphology of invertebrate types, by Alexander Petrunkevitch. New York, Macmillan company, 1916.](https://www.biodiversitylibrary.org/ia/morphologyofinve00petr#page/7/mode/1up)  
 
-<div class="figure" style="text-align: center">
-<img src="./figures/nervoussystem/invertebrate_nervoussystems.jpg" alt="(ref:invertebrate)" width="70%" />
-<p class="caption">(\#fig:invertebratenervoussystem)(ref:invertebrate)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/invertebrate_nervoussystems} 
+
+}
+
+\caption{(ref:invertebrate)}(\#fig:invertebratenervoussystem)
+\end{figure}
 
 Even mammals, including humans, show the segmented bilaterian body plan at the level of the nervous system. The spinal cord contains a series of segmental ganglia, each giving rise to motor and sensory nerves that innervate a portion of the body surface and underlying musculature. On the limbs, the layout of the innervation pattern is complex, but on the trunk it gives rise to a series of narrow bands. The top three segments belong to the brain, giving rise to the forebrain, midbrain, and hindbrain.
 
@@ -89,10 +109,14 @@ All vertebrate brains share a common underlying form, which appears most clearly
 
 (ref:vertebrate) Dorsal views of the central nervous systems of the teleosts (from left to right) *Trigla hirundo* (a) and *Mola mola*, the urodele *Ambystoma tigrinum*, the anuran *Xenopus laevis*, the tortoise *Testudo hermanni*, the tegu lizard *Tupinambis teguixin*, the pigeon, the cat and human. In a, c, d, e, f, g and j the full length of the spinalcord, including the filum terminale (where present) is shown; in *Mola mola* and the cat most of the filum terminale is cut. Vertical black bars correspond to 1 cm in length. Modified from [Nieuwenhuys, R., ten Donkelaar, H. J., & Nicholson, C. (1998). The Meaning of It All. The Central Nervous System of Vertebrates, 2135–2195](https://doi.org/10.1007/978-3-642-18262-4_24) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/nervoussystem/cns_comparison.svg" alt="(ref:vertebrate)" width="70%" />
-<p class="caption">(\#fig:vertebratecns)(ref:vertebrate)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/cns_comparison} 
+
+}
+
+\caption{(ref:vertebrate)}(\#fig:vertebratecns)
+\end{figure}
 
 The brains of vertebrates are made of very soft tissue. Living brain tissue is pinkish on the outside and mostly white on the inside, with subtle variations in color. Vertebrate brains are surrounded by a system of connective tissue membranes called meninges that separate the skull from the brain. Blood vessels enter the central nervous system through holes in the meningeal layers. The cells in the blood vessel walls are joined tightly to one another, forming the blood–brain barrier, which blocks the passage of many toxins and pathogens (though at the same time blocking antibodies and some drugs, thereby presenting special challenges in treatment of diseases of the brain).
 
@@ -125,10 +149,14 @@ The brains of humans and other primates contain the same structures as the brain
 
 (ref:mammalian) Variability of brain size and external topography. Photographs and weights of the brains of different species. Primates: human (Homo sapiens, 1.176 kg), chimpanzee (Pan troglodytes, 273 g), baboon (Papio cynocephalus, 151 g), mandrill (Mandrillus sphinx, 123 g), macaque (Macaca tonkeana, 110 g). Carnivores: bear (Ursus arctos, 289 g), lion (Panthera leo, 165 g), cheetah (Acinonyx jubatus, 119 g), dog (Canis familiaris, 95 g), cat (Felis catus, 32 g). Artiodactyls: giraffe (Giraffa camelopardalis, 700 g), kudu (Tragelaphus strepsiceros, 166 g), mouflon (Ovis musimon, 118 g), ibex (Capra pyrenaica, 115 g); peccary (Tayassu pecari, 41 g). Marsupials: wallaby (Protemnodon rufogrisea, 28 g). Lagomorphs: rabbit (Oryctolagus cuniculus, 5.2 g). Rodents: rat (Rattus rattus, 2.6 g), mouse (Mus musculus, 0.5 g). The chimpanzee brain was kindly supplied by Dr. Dean Falk. The rest of non-human brains were from material used in Ballesteros-Yánez et al., 2005). Scale bar: 5 cm. From [DeFelipe J (2011) The evolution of the brain, the human nature of cortical circuits, and intellectual creativity. Front. Neuroanat. 5:29](https://www.frontiersin.org/article/10.3389/fnana.2011.00029)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/nervoussystem/fnana-05-00029-g007.jpg" alt="(ref:mammalian)" width="70%" />
-<p class="caption">(\#fig:mammaliancns)(ref:mammalian)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/fnana-05-00029-g007} 
+
+}
+
+\caption{(ref:mammalian)}(\#fig:mammaliancns)
+\end{figure}
 
 Most of the enlargement of the primate brain comes from a massive expansion of the cerebral cortex, especially the prefrontal cortex and the parts of the cortex involved in vision. The visual processing network of primates includes at least 30 distinguishable brain areas, with a complex web of interconnections. It has been estimated that visual processing areas occupy more than half of the total surface of the primate neocortex. The prefrontal cortex carries out functions that include planning, working memory, motivation, attention, and executive control. It takes up a much larger proportion of the brain for primates than for other species, and an especially large fraction of the human brain.
 
@@ -144,31 +172,47 @@ The human brain is divided into nearly symmetrical left and right hemispheres by
 
 (ref:lobes) Principal lobes and fissures of the cerebrum viewed laterally. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/nervoussystem/GrayAnat1918p821.jpg" alt="(ref:lobes)" width="70%" />
-<p class="caption">(\#fig:principallobes)(ref:lobes)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/GrayAnat1918p821} 
+
+}
+
+\caption{(ref:lobes)}(\#fig:principallobes)
+\end{figure}
 
 (ref:gyril) Diagram showing a lateral view of the ridges (gyri) and grooves (sulci) of the left hemisphere of the brain. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/nervoussystem/GrayAnat1918p819.jpg" alt="(ref:gyril)" width="70%" />
-<p class="caption">(\#fig:gyrilateral)(ref:gyril)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/GrayAnat1918p819} 
+
+}
+
+\caption{(ref:gyril)}(\#fig:gyrilateral)
+\end{figure}
 
 (ref:gyrim) Diagram showing a medial view of the ridges (gyri) and grooves (sulci) of the left hemisphere of the brain. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/nervoussystem/GrayAnat1918p820.jpg" alt="(ref:gyrim)" width="70%" />
-<p class="caption">(\#fig:gyrimedial)(ref:gyrim)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/GrayAnat1918p820} 
+
+}
+
+\caption{(ref:gyrim)}(\#fig:gyrimedial)
+\end{figure}
 
 (ref:gyrib) Diagram showing a view from the bottom of the ridges (gyri) and grooves (sulci) of the left hemisphere of the brain.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/nervoussystem/gyri_bot.jpg" alt="(ref:gyrib)" width="70%" />
-<p class="caption">(\#fig:gyribottom)(ref:gyrib)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/gyri_bot} 
+
+}
+
+\caption{(ref:gyrib)}(\#fig:gyribottom)
+\end{figure}
 
 Although the human brain represents only 2% of the body weight, it receives 15% of the cardiac output, 20% of total body oxygen consumption, and 25% of total body glucose utilization. The brain mostly uses glucose for energy, and deprivation of glucose, as can happen in hypoglycemia, can result in loss of consciousness. The energy consumption of the brain does not vary greatly over time, but active regions of the cortex consume somewhat more energy than inactive regions: this fact forms the basis for the functional brain imaging methods PET and fMRI. These functional imaging techniques provide a three-dimensional image of metabolic activity.
 
@@ -288,21 +332,18 @@ The cell body of a neuron is supported by a complex mesh of structural proteins 
 
 (ref:neuron) [Diagram of a myelinated vertebrate motor neuron.](https://commons.wikimedia.org/wiki/File:Complete_neuron_cell_diagram_en.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cells/Complete_neuron_cell_diagram_en.svg" alt="(ref:neuron)" width="70%" />
-<p class="caption">(\#fig:motorneuron)(ref:neuron)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Complete_neuron_cell_diagram_en} 
+
+}
+
+\caption{(ref:neuron)}(\#fig:motorneuron)
+\end{figure}
 
 There are different internal structural characteristics between axons and dendrites. Typical axons almost never contain ribosomes, except some in the initial segment. Dendrites contain granular endoplasmic reticulum or ribosomes, in diminishing amounts as the distance from the cell body increases.
 
 Neurons vary in shape and size and can be classified by their morphology and function. The anatomist [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi) grouped neurons into two types; type I with long axons used to move signals over long distances and type II with short axons, which can often be confused with dendrites. Type I cells can be further classified by the location of the soma. The basic morphology of type I neurons, represented by spinal motor neurons, consists of a cell body called the soma and a long thin axon covered by a myelin sheath.
-
-(ref:myelin) A Golgi type I neuron from the electric lobe in the brain of the electric ray (*Torpedo*). A single, thick axon emerges from the cell body unmyelinated (middle, left) but becomes surrounded by a think layer of myelin (dark grey).  Multiple, thin dendrites emerge from the remainder of the cell body. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
-
-<div class="figure" style="text-align: center">
-<img src="./figures/cells/CajalMyelinAxon.jpg" alt="(ref:myelin)" width="70%" />
-<p class="caption">(\#fig:axonmyelinated)(ref:myelin)</p>
-</div>
 
 The dendritic tree wraps around the cell body and receives signals from other neurons. The end of the axon has branching terminals (axon terminal) that release neurotransmitters into a gap called the synaptic cleft between the terminals and the dendrites of the next neuron.
 
@@ -320,24 +361,14 @@ Most neurons can be anatomically characterized as:
 (ref:neurons) Morpholoigcally distinct types of neurons after Cajal. A) Unipolar neurons; B) bipolar neurons; Golgi I neurons: C) a Purkinje cell; D) spinal motor neuron E) a pyramidal cell; F) Golgi II neuron. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cells/Cajal_neurons.jpg" alt="(ref:neurons)" width="70%" />
-<p class="caption">(\#fig:neurontypes)(ref:neurons)</p>
-</div>
+\begin{figure}
 
-Some unique neuronal types can be identified according to their location in the nervous system and distinct shape. Some examples are:
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Cajal_neurons} 
 
-* Basket cells, interneurons that form a dense plexus of terminals around the soma of target cells, found in the cortex and cerebellum
-* Betz cells, large motor neurons
-* Lugaro cells, interneurons of the cerebellum
-* Medium spiny neurons, most neurons in the corpus striatum
-* Purkinje cells, huge neurons in the cerebellum, a type of Golgi I multipolar neuron
-* Pyramidal cells, neurons with triangular soma, a type of Golgi I
-* Renshaw cells, neurons with both ends linked to alpha motor neurons
-* Unipolar brush cells, interneurons with unique dendrite ending in a brush-like tuft
-* Granule cells, a type of Golgi II neuron
-* Anterior horn cells, motoneurons located in the spinal cord
-* Spindle cells, interneurons that connect widely separated areas of the brain
+}
+
+\caption{(ref:neurons)}(\#fig:neurontypes)
+\end{figure}
 
 Neurons can also be characterized based on various aspects of their function:
 
@@ -347,12 +378,6 @@ Neurons can also be characterized based on various aspects of their function:
 Afferent and efferent also refer generally to neurons that, respectively, bring information to or send information from the brain.
 
 The axons of neurons in the human peripheral nervous system can be classified based on their physical features and signal conduction properties. Axons were known to have different thicknesses (from 0.1 to 20 µm) and these differences were thought to relate to the speed at which an action potential could travel along the axon – its conductance velocity. Erlanger and Gasser proved this hypothesis, and identified several types of nerve fiber, establishing a relationship between the diameter of an axon and its nerve conduction velocity. They published their findings in 1941 giving the first classification of axons.
-
-Neurons have intrinsic electroresponsive properties like intrinsic transmembrane voltage oscillatory patterns. So neurons can be classified according to their electrophysiological characteristics:
-
-* Tonic or regular spiking. Some neurons are typically constantly (tonically) active, typically firing at a constant frequency. Example: interneurons in neurostriatum.
-* Phasic or bursting. Neurons that fire in bursts are called phasic.
-* Fast spiking. Some neurons are notable for their high firing rates, for example some types of cortical inhibitory interneurons, cells in globus pallidus, retinal ganglion cells.
 
 Neurons communicate with each another via synapses, where either the axon terminal of one cell contacts another neuron's dendrite, soma or, less commonly, axon. Neurons such as Purkinje cells in the cerebellum can have over 1000 dendritic branches, making connections with tens of thousands of other cells; other neurons, such as the magnocellular neurons of the supraoptic nucleus, have only one or two dendrites, each of which receives thousands of synapses.
 
@@ -372,12 +397,11 @@ Neurons can also be classified based on the neurotransmitter they release at syn
 
 * Cholinergic neurons—acetylcholine. Acetylcholine is released from presynaptic neurons into the synaptic cleft. It acts as a ligand for both ligand-gated ion channels and metabotropic (GPCRs) muscarinic receptors. Nicotinic receptors are pentameric ligand-gated ion channels composed of alpha and beta subunits that bind nicotine. Ligand binding opens the channel causing influx of Na^+^ depolarization and increases the probability of presynaptic neurotransmitter release. Acetylcholine is synthesized from choline and acetyl coenzyme A.
 * GABAergic neurons—gamma aminobutyric acid. GABA is one of two neuroinhibitors in the central nervous system (CNS), along with glycine. GABA has a homologous function to ACh, gating anion channels that allow Cl^−^ ions to enter the post synaptic neuron. Cl^−^ causes hyperpolarization within the neuron, decreasing the probability of an action potential firing as the voltage becomes more negative (for an action potential to fire, a positive voltage threshold must be reached). GABA is synthesized from glutamate by the enzyme glutamate decarboxylase.
-* Glutamatergic neurons—glutamate. Glutamate is one of two primary excitatory amino acid neurotransmitters, along with aspartate. Glutamate can cause excitotoxicity when blood flow to the brain is interrupted, resulting in brain damage. When blood flow is suppressed, glutamate is released from presynaptic neurons, causing abnormal NMDA and AMPA receptor activation, leading to elevated Ca^2+^ and Na^+^ entering the post synaptic neuron and cell damage. Glutamate is synthesized from the amino acid glutamine by the enzyme glutamate synthase. There are three main types of ionotropic glutamate receptors and three groups of metabotropic (G-protein coupled) receptors:
-  * AMPA (α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid) receptors  are composed of four types of subunits encoded by different genes, designated as GRIA1 (also named GluA1 or GluR1), GRIA2 (also named GluA2 or GluR2), GRIA3 (Also named GluA3 or GluR3), and GRIA4 (also called GluA4 or GluRA-D2 ), which combine to form tetramers. Most AMPARs are heterotetrameric, consisting of symmetric 'dimer of dimers' of GluA2 and either GluA1, GluA3 or GluA4. Each AMPAR has four sites to which an agonist (such as glutamate) can bind, one for each subunit. The binding site is believed to be formed by the N-terminal tail and the extracellular loop between transmembrane domains three and four. When an agonist binds, these two loops move towards each other, opening the pore. The channel opens when two sites are occupied, and increases its current as more binding sites are occupied. Once open, the channel may undergo rapid desensitization, stopping the current. The mechanism of desensitization is believed to be due to a small change in angle of one of the parts of the binding site, closing the pore. AMPARs open and close quickly (1ms), and are thus responsible for most of the fast excitatory synaptic transmission in the central nervous system. The AMPAR's permeability to calcium and other cations, such as sodium and potassium, is governed by the GluA2 subunit. If an AMPAR lacks a GluA2 subunit, then it will be permeable to sodium, potassium, and calcium. The presence of a GluA2 subunit will almost always render the channel impermeable to calcium. This is determined by post-transcriptional modification — RNA editing — of the Q-to-R editing site of the GluA2 mRNA. Here, A→I editing alters the uncharged amino acid glutamine (Q) to the positively charged arginine (R) in the receptor's ion channel. The positively charged amino acid at the critical point makes it energetically unfavourable for calcium to enter the cell through the pore. Almost all of the GluA2 subunits in CNS are edited to the GluA2(R) form. This means that the principal ions gated by AMPARs are sodium and potassium, distinguishing AMPARs from NMDA receptors (the other main ionotropic glutamate receptors in the brain), which also permit calcium influx.
-  * Kainate receptors were first identified as a distinct glutamate receptor type through their selective activation by the agonist kainate, a drug first isolated from the red alga *Digenea simplex*. There are five types of kainate receptor subunits, GluR5 (GRIK1), GluR6 (GRIK2), GluR7 (GRIK3), KA1 (GRIK4) and KA2 (GRIK5), which are similar to AMPA and NMDA receptor subunits and can be arranged in different ways to form a tetramer, a four subunit receptor. GluR5-7 can form homomers (ex. a receptor composed entirely of GluR5) and heteromers (ex. a receptor composed of both GluR5 and GluR6), however, KA1 and KA2 can only form functional receptors by combining with one of the GluR5-7 subunits. Since 2009 the kainate receptor subunits have been renamed to correspond with their gene name. Hence GluR5-7 are now GluK1-3 and KA1 and KA2 are GluK4 and GluK5 respectively.The ion channel formed by kainate receptors is permeable to sodium and potassium ions. The single channel conductance of kainate receptor channels is similar to that of AMPA channels, at about 20 pS. However, rise and decay times for postsynaptic potentials generated by KARs are slower than for AMPA postsynaptic potentials. Their permeability to Ca2+ is usually very slight but varies with subunits and RNA editing at the tip of the p loop.
-  * NMDA receptors are activated when glycine and glutamate bind to it. The receptor is a heteromeric complex that interacts with multiple intracellular proteins by three different subunits: GluN1, GluN2 and GluN3. GluN1 has eight different isoforms due to alternative splicing of the gene GRIN1. There are four different GluN2 subunits (A-D) and two different Glun3 subunits (A and B). Six separate genes encode for GluN2 and GluN3. All the subunits share a common membrane topology that is dominated by a large extracellular N-terminus, a membrane region comprising three transmembrane segments, a re-entrant pore loop, an extracellular loop between the transmembrane segments that are structurally not well known, and an intracellular C-terminus, which are different in size depending on the subunit and provide multiple sites of interaction with many intracellular proteins.Mg2+ blocks the NMDA receptor channel in a voltage-dependent manner. The channels are also highly permeable to Ca2+. Activation of the receptor depends on glutamate binding, D-serine or glycine binding at its GluN1-linked binding site and  AMPA receptor-mediated depolarization of the postsynaptic membrane, which relieves the voltage-dependent channel block by Mg2+. Activation and opening of the receptor channel thus allows the flow of K+, Na+ and Ca2+ ions, and the influx of Ca2+ triggers intracellular signaling pathways. Allosteric receptor binding sites for zinc, proteins and the polyamines spermidine and spermine are also modulators for the NMDA receptor channels.The activity of the NMDA receptor is affected by many psychoactive drugs such as phencyclidine (PCP), alcohol (ethanol) and dextromethorphan (DXM). 
-  * Metabotropic glutamate receptors are members of the group C family of G-protein-coupled receptors (GPCRs). 
-Eight different types of mGluRs, labeled mGluR1 to mGluR8 (GRM1 to GRM8), are divided into groups I, II, and III. Receptor types are grouped based on receptor structure and physiological activity. The mGluRs are further divided into subtypes, such as mGluR7a and mGluR7b.The mGluRs perform a variety of functions in the central and peripheral nervous systems: For example, they are involved in learning, memory, anxiety, and the perception of pain. They are found in pre- and postsynaptic neurons in synapses of retina, the hippocampus, cerebellum, and the cerebral cortex, as well as other parts of the brain and in peripheral tissues.
+* Glutamatergic neurons—glutamate. Glutamate is one of two primary excitatory amino acid neurotransmitters, along with aspartate. Glutamate can cause excitotoxicity when blood flow to the brain is interrupted, resulting in brain damage. When blood flow is suppressed, glutamate is released from presynaptic neurons, causing abnormal NMDA and AMPA receptor activation, leading to elevated Ca^2+^ and Na^+^ entering the post synaptic neuron and cell damage. Glutamate is synthesized from the amino acid glutamine by the enzyme glutamate synthase. There are three main types of ionotropic glutamate receptors 
+  * AMPA (α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid) receptors
+  * Kainate receptors
+  * NMDA receptors
+and three groups of metabotropic (G-protein coupled) receptors.
 * Dopaminergic neurons—dopamine. Dopamine is a neurotransmitter that acts on D1 type (D1 and D5) Gs-coupled receptors, which stimulate the production of cAMP which stimulates protein kinase A (PKA), and D2 type (D2, D3, and D4) receptors, which activate Gi-coupled receptors that decrease cAMP and PKA. Dopamine is connected to mood and behavior and modulates both pre- and post-synaptic neurotransmission. Loss of dopamine neurons in the substantia nigra has been linked to Parkinson's disease. Dopamine is synthesized from the amino acid tyrosine. Tyrosine is converted into levadopa (or L-DOPA) by tyrosine hydroxlase, and levadopa is then converted into dopamine by the aromatic amino acid decarboxylase.
 * Serotonergic neurons—serotonin. Serotonin (5-hydroxytryptamine, 5-HT) can act as excitatory or inhibitory. Of its four 5-HT receptor classes, 3 are GPCR and 1 is a ligand-gated cation channel. Serotonin is synthesized from tryptophan by tryptophan hydroxylase, and then further by decarboxylase. A lack of 5-HT at postsynaptic neurons has been linked to depression. Drugs that block the presynaptic serotonin transporter are used for treatment, such as Prozac and Zoloft.
 
@@ -407,75 +431,16 @@ Astrocytes are crucial participants in the tripartite synapse. They have several
 
 (ref:astro) Astrocytes (A) and oligodendrocytes (B) are the major types of macroglia in the grey and white matter of the brain, respectively. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cells/Cajal_glia.jpg" alt="(ref:astro)" width="70%" />
-<p class="caption">(\#fig:astrocytes)(ref:astro)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Cajal_glia} 
+
+}
+
+\caption{(ref:astro)}(\#fig:astrocytes)
+\end{figure}
 
 Oligodendrocytes are found in the CNS and resemble an octopus: they have bulbous cell bodies with up to fifteen arm-like processes. Each "arm" reaches out to a nerve fiber and spirals around it, creating a myelin sheath. The myelin sheath insulates the nerve fiber from the extracellular fluid and speeds up signal conduction along the nerve fiber.
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-<caption>(\#tab:macroglia)Types of macroglia and their location and function.</caption>
- <thead>
-  <tr>
-   <th style="text-align:left;"> Location </th>
-   <th style="text-align:left;"> Name </th>
-   <th style="text-align:left;"> Description </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;width: 5em; vertical-align: middle !important;" rowspan="7"> CNS </td>
-   <td style="text-align:left;width: 10em; vertical-align: middle !important;" rowspan="4"> Astrocytes </td>
-   <td style="text-align:left;width: 20em; "> The most abundant type of macroglial cell in the CNS, astrocytes (also called astroglia) have numerous projections that link neurons to their blood supply while forming the blood-brain barrier. They regulate the external chemicalenvironment of neurons by removing excess potassium ions, and recycling neurotransmitters released during synaptic transmission. Astrocytes may regulate vasoconstriction and vasodilation by producing substances such as arachidonic acid, whose metabolites are vasoactive. </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 20em; "> Astrocytes signal each other using ATP. The gap junctions (also known as electrical synapses) between astrocytes allow the messenger molecule IP3 to diffuse from one astrocyte to another. IP3 activates calcium channels on cellular organelles, releasing calcium into the cytoplasm. This calcium may stimulate the production of more IP3 and cause release of ATP through channels in the membrane made of pannexins. The net effect is a calcium wave that propagates from cell to cell. Extracellular release of ATP, and consequent activation of purinergic receptors on other astrocytes, may also mediate calcium waves in some cases. </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 20em; "> In general, there are two types of astrocytes, protoplasmic and fibrous, similar in function but distinct in morphology and distribution. Protoplasmic astrocytes have short, thick, highly branched processes and are typically found in gray matter. Fibrous astrocytes have long, thin, less branched processes and are more commonly found in white matter. </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 20em; "> It has recently been shown that astrocyte activity is linked to blood flow in the brain, and that this is what is actually being measured in fMRI. They also have been involved in neuronal circuits playing an inhibitory role after sensing changes in extracellular calcium. </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 10em; "> Oligodendrocytes </td>
-   <td style="text-align:left;width: 20em; "> Oligodendrocytes are cells that coat axons in the central nervous system (CNS) with their cell membrane, forming a specialized membrane differentiation called myelin, producing the myelin sheath. The myelin sheath provides insulation to the axon that allows electrical signals to propagate more efficiently. </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 10em; "> Ependymal cells </td>
-   <td style="text-align:left;width: 20em; "> Ependymal cells, also named ependymocytes, line the spinal cord and the ventricular system of the brain. These cells are involved in the creation and secretion of cerebrospinal fluid (CSF) and beat their cilia to help circulate the CSF and make up the blood-CSF barrier. They are also thought to act as neural stem cells. </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 10em; "> Radial glia </td>
-   <td style="text-align:left;width: 20em; "> Radial glia cells arise from neuroepithelial cells after the onset of neurogenesis. Their differentiation abilities are more restricted than those of neuroepithelial cells. In the developing nervous system, radial glia function both as neuronal progenitors and as a scaffold upon which newborn neurons migrate. In the mature brain, the cerebellum and retina retain characteristic radial glial cells. In the cerebellum, these are Bergmann glia, which regulate synaptic plasticity. In the retina, the radial Müller cell is the glial cell that spans the thickness of the retina and, in addition to astroglial cells,[14] participates in a bidirectional communication with neurons. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 5em; vertical-align: middle !important;" rowspan="3"> PNS </td>
-   <td style="text-align:left;width: 10em; "> Schwann cells </td>
-   <td style="text-align:left;width: 20em; "> Similar in function to oligodendrocytes, Schwann cells provide myelination to axons in the peripheral nervous system(PNS). They also have phagocytotic activity and clear cellular debris that allows for regrowth of PNS neurons. </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 10em; "> Satellite cells </td>
-   <td style="text-align:left;width: 20em; "> Satellite glial cells are small cells that surround neurons in sensory, sympathetic, and parasympathetic ganglia.[17]These cells help regulate the external chemical environment. Like astrocytes, they are interconnected by gap junctions and respond to ATP by elevating intracellular concentration of calcium ions. They are highly sensitive to injury and inflammation, and appear to contribute to pathological states, such as chronic pain. </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 10em; "> Enteric glial cells </td>
-   <td style="text-align:left;width: 20em; "> Are found in the intrinsic ganglia of the digestive system. They are thought to have many roles in the enteric system, some related to homeostasis and muscular digestive processes. </td>
-  </tr>
-</tbody>
-</table>
 
 Microglia are specialized macrophages capable of phagocytosis that protect neurons of the central nervous system. They are derived from the earliest wave of mononuclear cells that originate in yolk sac blood islands early in development, and colonize the brain shortly after the neural precursors begin to differentiate.
 
@@ -511,29 +476,13 @@ The word ion comes from the Greek word ἰόν, ion, "going", the present partic
 
 The most important cations for the action potential are sodium (Na^+^) and potassium (K^+^). Both of these are monovalent cations that carry a single positive charge. Action potentials can also involve calcium (Ca^2+^), which is a divalent cation that carries a double positive charge. The chloride anion (Cl^−^) plays a major role in the action potentials of some algae, but plays a negligible role in the action potentials of most animals.
 
-(ref:ions) : [Radii of some elements as neutral atoms, and cations (red) and anions (blue) derived from those atoms. Radii are given in picometers.](https://commons.wikimedia.org/wiki/File:Atomic_%26_ionic_radii.svg)
-
-<div class="figure" style="text-align: center">
-<img src="./figures/potential/Atomic_and_ionic_radii.svg" alt="(ref:ions)" width="70%" />
-<p class="caption">(\#fig:ionsize)(ref:ions)</p>
-</div>
-
 Ions cross the cell membrane under two influences: diffusion and electric fields. A simple example wherein two solutions—A and B—are separated by a porous barrier illustrates that diffusion will ensure that they will eventually mix into equal solutions. This mixing occurs because of the difference in their concentrations. The region with high concentration will diffuse out toward the region with low concentration. To extend the example, let solution A have 30 sodium ions and 30 chloride ions. Also, let solution B have only 20 sodium ions and 20 chloride ions. Assuming the barrier allows both types of ions to travel through it, then a steady state will be reached whereby both solutions have 25 sodium ions and 25 chloride ions. If, however, the porous barrier is selective to which ions are let through, then diffusion alone will not determine the resulting solution. Returning to the previous example, let's now construct a barrier that is permeable only to sodium ions. Now, only sodium is allowed to diffuse cross the barrier from its higher concentration in solution A to the lower concentration in solution B. This will result in a greater accumulation of sodium ions than chloride ions in solution B and a lesser number of sodium ions than chloride ions in solution A.
 
 This means that there is a net positive charge in solution B from the higher concentration of positively charged sodium ions than negatively charged chloride ions. Likewise, there is a net negative charge in solution A from the greater concentration of negative chloride ions than positive sodium ions. Since opposite charges attract and like charges repel, the ions are now also influenced by electrical fields as well as forces of diffusion. Therefore, positive sodium ions will be less likely to travel to the now-more-positive B solution and remain in the now-more-negative A solution. The point at which the forces of the electric fields completely counteract the force due to diffusion is called the equilibrium potential. At this point, the net flow of the specific ion (in this case sodium) is zero.
 
 ## The Plasma Membrane
 
-The cell membrane, also called the plasma membrane or plasmalemma, is a semipermeable lipid bilayer common to all living cells. It contains a variety of biological molecules, primarily proteins and lipids, which are involved in a vast array of cellular processes.
-
-(ref:cellmembr) Picture of a [molecular dynamics simulation](https://doi.org/10.1371/journal.pone.0000880) of a cell membrane/protein complex consisting of bovine [rhodopsin](https://en.wikipedia.org/wiki/Rhodopsin) incorporated of a phosphatidylcholine (1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine, POPC) lipid bylayer. POPC and water molecules are depicted as sticks. The lipid layers facing the extracellular and cytoplasmic spaces are shown in white and blue, respectively. Both the extra- and intracellular interfaces are covered with layers of water. The secondary structure of rhodopsin is depicted in rainbow colored cartoon representation. Potassium and chloride ions are shown as spheres (colored in cyan and green, respectively). Image generated from [PDB file](http://www.charmm-gui.org/archive/complex/1gzm_rect_popc.pdb) obtained from the [CHARMM-GUI Archive - Protein/Membrane Complex Library](http://www.charmm-gui.org/?doc=archive&lib=complex) using the open source molecular visualization tool [PyMol](https://pymol.org/2/).
-
-<div class="figure" style="text-align: center">
-<img src="./figures/potential/cell_membrane_rhodopsin_water_Cl_K.png" alt="(ref:cellmembr)" width="70%" />
-<p class="caption">(\#fig:cellmembrane)(ref:cellmembr)</p>
-</div>
-
-Every animal cell is enclosed in a plasma membrane, which has the structure of a lipid bilayer with many types of large molecules embedded in it. Because it is made of lipid molecules, the plasma membrane intrinsically has a high electrical resistivity, in other words a low intrinsic permeability to ions. However, some of the molecules embedded in the membrane are capable either of actively transporting ions from one side of the membrane to the other or of providing channels through which they can move.
+Because it is made of lipid molecules, the plasma membrane intrinsically has a high electrical resistivity, in other words a low intrinsic permeability to ions. However, some of the molecules embedded in the membrane are capable either of actively transporting ions from one side of the membrane to the other or of providing channels through which they can move.
 
 In electrical terminology, the plasma membrane functions as a combined resistor and capacitor. Resistance arises from the fact that the membrane impedes the movement of charges across it. Capacitance arises from the fact that the lipid bilayer is so thin that an accumulation of charged particles on one side gives rise to an electrical force that pulls oppositely charged particles toward the other side. The capacitance of the membrane is relatively unaffected by the molecules that are embedded in it, so it has a more or less invariant value estimated at about 2 μF/cm^2^ (the total capacitance of a patch of membrane is proportional to its area). The conductance of a pure lipid bilayer is so low, on the other hand, that in biological situations it is always dominated by the conductance of alternative pathways provided by embedded molecules. Thus, the capacitance of the membrane is more or less fixed, but the resistance is highly variable.
 
@@ -549,10 +498,14 @@ The ion pump most relevant to the action potential is the sodium–potassium pum
 
 (ref:nak) A cartoon representation of the molecular structure of the sodium - potassium pump based on atomic coordinates of [PDB 2ZXE](https://www.rcsb.org/structure/2ZXE), rendered with open source molecular visualization tool PyMol.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/potential/Na_K_pump.png" alt="(ref:nak)" width="70%" />
-<p class="caption">(\#fig:nakpump)(ref:nak)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/potential/Na_K_pump} 
+
+}
+
+\caption{(ref:nak)}(\#fig:nakpump)
+\end{figure}
 
 If the numbers of each type of ion were equal, the sodium–potassium pump would be electrically neutral, but, because of the three-for-two exchange, it gives a net movement of one positive charge from intracellular to extracellular for each cycle, thereby contributing to a positive voltage difference. The pump has three effects: (1) it makes the sodium concentration high in the extracellular space and low in the intracellular space; (2) it makes the potassium concentration high in the intracellular space and low in the extracellular space; (3) it gives the intracellular space a negative voltage with respect to the extracellular space.
 
@@ -572,10 +525,14 @@ Channels differ with respect to the ion they let pass (for example, Na^+^, K^+^,
 
 (ref:KcsA) The structure of the potassium channel KcsA fromn *Streptomyces lividans* determined by X-ray crystallography.Top: side view; bottom: top view. KcsA shares sequence similarity with all known K^+^ channels and was the first ion channel to have its structure solved at atomic resolution. It consists of four identical subunits that together form a cone shaped structure (top) with a ion selectivity filter at its outer end. Three K^+^ ions (red spheres) are present in the channel, two of which are held 7.5 angstroms apart by the selectivity filter, a third K^+^ ion shown in the channel pore below. Data from [PDB 1BL8](https://www.rcsb.org/structure/1BL8), rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
 
-<div class="figure" style="text-align: center">
-<img src="./figures/potential/Kcsa.png" alt="(ref:KcsA)" width="70%" />
-<p class="caption">(\#fig:kchannel)(ref:KcsA)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/potential/Kcsa} 
+
+}
+
+\caption{(ref:KcsA)}(\#fig:kchannel)
+\end{figure}
 
 Because of their small size and the difficulty of crystallizing integral membrane proteins for X-ray analysis, it is only very recently that scientists have been able to directly examine what channels "look like." Most of what researchers have deduced about channel operation so far they have established through electrophysiology, biochemistry, gene sequence comparison and mutagenesisi and structural studies (X-ray crystallography and cryoelectronmicroscopy).
 
@@ -617,10 +574,14 @@ Important representative families of voltage-gated ion channels are the:
 
 (ref:ion) The structures (from left to right) of voltage-gated sodium, potassium, calcium and chloride channels. Top: side view; bottom: top view. Data from [PDB 5EK0](https://www.rcsb.org/structure/5EK0), [PDB 2A79](https://www.rcsb.org/structure/2A79), [PDB 3JBR](https://www.rcsb.org/structure/3JBR) and [PDB 1KPL](https://www.rcsb.org/structure/1KPL) rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
 
-<div class="figure" style="text-align: center">
-<img src="./figures/potential/voltage_gated_ion_channels.png" alt="(ref:ion)" width="70%" />
-<p class="caption">(\#fig:ionchannel)(ref:ion)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/potential/voltage_gated_ion_channels} 
+
+}
+
+\caption{(ref:ion)}(\#fig:ionchannel)
+\end{figure}
 
 [Ligand-gated ion channels](https://en.wikipedia.org/wiki/Ligand-gated_ion_channel), also commonly referred to as ionotropic receptors, are a group of transmembrane ion-channel proteins which open to allow ions such as Na^+^, K^+^, Ca^2+^, and Cl^−^ to pass through the membrane in response to the binding of a chemical messenger (i.e. a ligand), such as a neurotransmitter.
 
@@ -638,10 +599,14 @@ The ionotropic glutamate receptors bind the neurotransmitter glutamate. They for
 
 (ref:lic) Structures of ligand-gated ion channels. Top row: The nicotinic acetylcholine receptor (left) and the serotonin 5-HT3 receptor. Middle row: The GABA~A~ receptor (left) and glycine receptor (rigt). Bottom row: The AMPA receptor (left) and NMDA receptor (reight). Data from [PDB 2BG9](https://www.rcsb.org/structure/2BG9), [PDB 6HIO](https://www.rcsb.org/structure/6HIO), [PDB 6D6U](https://www.rcsb.org/structure/6D6U), [PDB 3JAD](https://www.rcsb.org/structure/3JAD), [PDB 5IDE](https://www.rcsb.org/structure/5IDE), and [PDB 4PE5](https://www.rcsb.org/structure/4PE5), rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
 
-<div class="figure" style="text-align: center">
-<img src="./figures/potential/ligand_gated_ion_channels.png" alt="(ref:lic)" width="70%" />
-<p class="caption">(\#fig:lgic)(ref:lic)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/potential/ligand_gated_ion_channels} 
+
+}
+
+\caption{(ref:lic)}(\#fig:lgic)
+\end{figure}
 
 Also called G protein-coupled receptor, seven-transmembrane domain receptor, 7 TM receptor, constitute a large protein family of receptors that sense molecules outside the cell and activate inside signal transduction pathways and, ultimately, cellular responses. They pass through the cell membrane 7 times. G-protein-Linked receptors are a huge family that have hundreds of members identified. Ion-channel-linked receptors (e.g. GABAB, NMDA, etc.) are only a part of them.
 
@@ -703,10 +668,14 @@ In animal cells, there are two primary types of action potentials. One type is g
 
 (ref:action) [Ion movement during an action potential.](https://commons.wikimedia.org/wiki/File:Membrane_Permeability_of_a_Neuron_During_an_Action_Potential.svg) Key: a) Sodium (Na^+^) ion. b) Potassium (K^+^) ion. c) Sodium channel. d) Potassium channel. e) Sodium-potassium pump. In the stages of an action potential, the permeability of the membrane of the neuron changes. At the resting state (1), sodium and potassium ions have limited ability to pass through the membrane, and the neuron has a net negative charge inside. Once the action potential is triggered, the depolarization (2) of the neuron activates sodium channels, allowing sodium ions to pass through the cell membrane into the cell, resulting in a net positive charge in the neuron relative to the extracellular fluid. After the action potential peak is reached, the neuron begins repolarization (3), where the sodium channels close and potassium channels open, allowing potassium ions to cross the membrane into the extracellular fluid, returning the membrane potential to a negative value. Finally, there is a refractory period (4), during which the voltage-dependent ion channels are inactivated while the Na^+^ and K^+^ ions return to their resting state distributions across the membrane (1), and the neuron is ready to repeat the process for the next action potential.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/potential/ActionPotential.svg" alt="(ref:action)" width="70%" />
-<p class="caption">(\#fig:actionpotential)(ref:action)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/potential/ActionPotential} 
+
+}
+
+\caption{(ref:action)}(\#fig:actionpotential)
+\end{figure}
 
 ## Graded Potentials
 
@@ -761,17 +730,19 @@ Synapses are essential to neuronal function: neurons are cells that are speciali
 
 (ref:electron) Electron micrograph of rat cortex showing multiple pre- and postsynaptic structures, as well as astrocytic endfeet (\*) in close contact with synapses. Note the presence of numerous synaptic vesicles in the presynaptic boutons. CAZ, cytomatrix at the active zone; PSD, postsynaptic density; SV, synaptic vesicles. Scalebar: 100 nm. From [Proteomics of the Synapse – A Quantitative Approach to Neuronal Plasticity Daniela C. Dieterich, Michael R. Kreutz Molecular & Cellular Proteomics February 1, 2016, First published on August 25, 2015, 15 (2) 368-381; DOI: 10.1074/mcp.R115.051482]( https://doi.org/10.1074/mcp.R115.051482)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/synapse/synapse_electronmicrograph.jpg" alt="(ref:electron)" width="70%" />
-<p class="caption">(\#fig:electronsynapse)(ref:electron)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/synapse/synapse_electronmicrograph} 
+
+}
+
+\caption{(ref:electron)}(\#fig:electronsynapse)
+\end{figure}
 
 There are two fundamentally different types of synapses:
 
 * In a chemical synapse, electrical activity in the presynaptic neuron is converted (via the activation of voltage-gated calcium channels) into the release of a chemical called a neurotransmitter that binds to receptors located in the plasma membrane of the postsynaptic cell. The neurotransmitter may initiate an electrical response or a secondary messenger pathway that may either excite or inhibit the postsynaptic neuron. Chemical synapses can be classified according to the neurotransmitter released: glutamatergic (often excitatory), GABAergic (often inhibitory), cholinergic (e.g. vertebrate neuromuscular junction), and adrenergic (releasing norepinephrine). Because of the complexity of receptor signal transduction, chemical synapses can have complex effects on the postsynaptic cell.
 * In an electrical synapse, the presynaptic and postsynaptic cell membranes are connected by special channels called gap junctions that are capable of passing an electric current, causing voltage changes in the presynaptic cell to induce voltage changes in the postsynaptic cell. The main advantage of an electrical synapse is the rapid transfer of signals from one cell to the next.
-
-An autapse is a chemical or electrical synapse that forms when the axon of one neuron synapses onto dendrites of the same neuron.
 
 Synapses can be classified by the type of cellular structures serving as the pre- and post-synaptic components. The vast majority of synapses in the mammalian nervous system are classical axo-dendritic synapses (axon synapsing upon a dendrite), however, a variety of other arrangements exist. These include but are not limited to axo-axonic, dendro-dendritic, axo-secretory, somato-dendritic, dendro-somatic, and somato-somatic synapses.
 
@@ -785,19 +756,27 @@ Many proteins in the PSD are involved in the regulation of synaptic function. Ke
 
 (ref:nmda) A cartoon representation of the atomic structure of the GluN1a/GluN2B N-Methyl-D-aspartate (NMDA) receptor subtype of the family of ionotropic glutamate receptors. The agonist glutamate (green spheres) is bound to the GluN2B subunit, the co-agonist glycine is bound to the GluN1A subunit. Data from [PDB 4PE5](https://www.rcsb.org/structure/4PE5), rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
 
-<div class="figure" style="text-align: center">
-<img src="./figures/synapse/NMDA_receptor.png" alt="(ref:nmda)" width="70%" />
-<p class="caption">(\#fig:nmdar)(ref:nmda)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/synapse/NMDA_receptor} 
+
+}
+
+\caption{(ref:nmda)}(\#fig:nmdar)
+\end{figure}
 
 The PSD has been proposed to concentrate and organize neurotransmitter receptors in the synaptic cleft. The PSD also serves as a signaling apparatus. For instance kinases and phosphatases in the PSD are activated and released from the PSD to change the activity of proteins located in the spine or are transported to the nucleus to affect protein synthesis. Some of the features of the PSD are similar to the neuromuscular junction and other cellular junctions, as the PSD has been modeled as a specialized cellular junction that allows for rapid, asymmetrical signaling.
 
 (ref:synapse) The tetrapartite synapse of principal neurons in the forebrain, consisting of the pre- and postsynaptic compartment, astrocytic endfeet, and the extracellular matrix has a tightly regulated protein composition. A microsceretory system is present in synapses and dendrites that allows for translation of mRNA, local synthesis of, processing and insertion of transmembrane proteins. Hence the turnover of the synaptic protein machinery is controlled by local and somatic de novo protein synthesis, protein degradation by the ubiquitin proteasome system, lysosomes and autophagosomes. In addition, the association of proteins with pre- and postsynaptic compartments is highly dynamic. Molecular machineries and organelles for proteostasis are shared between synapses in dendritic segments. Proteins are transported in and out of the synapse as well as by diffusion of transmembrane proteins. These processes govern the activity-dependent assembly of the pre- and postsynaptic scaffold and the synaptic surface expression of receptors, calcium channels and cell adhesion molecules. Abbreviations: CAM, cell adhesion molecules; CAZ, cytomatrix at the active zone; ECM, extracellular matrix; ER, endoplasmatic reticulum; ERGIC, endoplasmatic reticulum Golgi intermediate compartment; MT, microtubules; PSD, postsynaptic density; RE, recycling endosomes; Lys, lysomes; SV, synaptic vesicle. From [Proteomics of the Synapse – A Quantitative Approach to Neuronal Plasticity Daniela C. Dieterich, Michael R. Kreutz Molecular & Cellular Proteomics February 1, 2016, First published on August 25, 2015, 15 (2) 368-381; DOI: 10.1074/mcp.R115.051482]( https://doi.org/10.1074/mcp.R115.051482)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/synapse/synapse_diagram.jpg" alt="(ref:synapse)" width="70%" />
-<p class="caption">(\#fig:synapsediagram)(ref:synapse)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/synapse/synapse_diagram} 
+
+}
+
+\caption{(ref:synapse)}(\#fig:synapsediagram)
+\end{figure}
 
 The adult human brain is estimated to contain from 10^14^ to 5 × 10^14^ (100–500 trillion) synapses. Every cubic millimeter of cerebral cortex contains roughly a billion (10^9^) of them. The number of synapses in the human cerebral cortex has separately been estimated at 0.15 quadrillion (150 trillion)
 
@@ -847,29 +826,7 @@ For example, choline is taken up and recycled by the pre-synaptic neuron to synt
 
 Until the early 20th century, scientists assumed that the majority of synaptic communication in the brain was electrical. But in 1921 German pharmacologist [Otto Loewi](https://en.wikipedia.org/wiki/Otto_Loewi) (1873–1961) demonstrated that neurons can communicate by releasing chemicals. Some neurons do, however, communicate via electrical synapses through the use of gap junctions, which allow specific ions to pass directly from one cell to another.
 
-There are four classical criteria for identifying neurotransmitters:
-
-1. The chemical must be synthesized in the neuron or otherwise be present in it.
-1. When the neuron is active, the chemical must be released and produce a response in some target.
-1. The same response must be obtained when the chemical is experimentally placed on the target.
-1. A mechanism must exist for removing the chemical from its site of activation after its work is done.
-
 The anatomical localization of neurotransmitters is typically determined using immunocytochemical techniques, which identify the location of either the transmitter substances themselves, or of the enzymes that are involved in their synthesis. Immunocytochemical techniques have also revealed that many transmitters, particularly the neuropeptides, are co-localized, that is, one neuron may release more than one transmitter from its synaptic terminal. Various techniques have been used to identify neurotransmitters throughout the central nervous system.
-
-There are many different ways to classify neurotransmitters. Dividing them into amino acids, peptides, and monoamines is sufficient for some classification purposes.
-
-Major neurotransmitters:
-
-* Amino acids: glutamate, aspartate, D-serine, γ-aminobutyric acid (GABA), glycine
-* Gasotransmitters: nitric oxide (NO), carbon monoxide (CO), hydrogen sulfide (H~2~S)
-* Monoamines: dopamine (DA), norepinephrine (noradrenaline; NE, NA), epinephrine (adrenaline), histamine, serotonin (SER, 5-HT)
-* Trace amines: phenethylamine, N-methylphenethylamine, tyramine, 3-iodothyronamine, octopamine, tryptamine, etc.
-* Peptides: oxytocin, somatostatin, substance P, cocaine and amphetamine regulated transcript, opioid peptides
-* Purines: adenosine triphosphate (ATP), adenosine
-* Catecholamines: dopamine, norepinephrine (noradrenaline), epinephrine (adrenaline)
-* Others: acetylcholine (ACh), anandamide, etc.
-
-In addition, over 50 neuroactive peptides have been found, and new ones are discovered regularly. Many of these are "co-released" along with a small-molecule transmitter. Nevertheless, in some cases a peptide is the primary transmitter at a synapse. β-endorphin is a relatively well-known example of a peptide neurotransmitter because it engages in highly specific interactions with opioid receptors in the central nervous system.
 
 Single ions (such as synaptically released zinc) are also considered neurotransmitters by some, as well as some gaseous molecules such as nitric oxide (NO), carbon monoxide (CO), and hydrogen sulfide (H~2~S).
 
@@ -878,314 +835,6 @@ The most prevalent transmitter is glutamate, which is excitatory at well over 90
 ### Modulatory Neurotransmitter Systems 
 
 Neurons expressing certain types of neurotransmitters sometimes form distinct systems, where activation of the system acts in a modulatory fashion on a large number of neurons in large volumes of the brain. Such modulatory neurotransmitter systems include the noradrenaline (norepinephrine) system, the dopamine system, the serotonin system, and the cholinergic system, among others. Neuromodulatory neurotransmitters typically bind to metabotropic, G-protein coupled receptors to initiate a second messenger signaling cascade that induces a broad, long-lasting signal. This modulation can last for hundreds of milliseconds to several minutes. Some of the effects of neuromodulators include: altering the intrinsic firing activity, increasing or decreasing voltage-dependent currents, changing synaptic efficacy, increasing bursting activity and reconfiguring of synaptic connectivity.
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-<caption>(\#tab:modulators)Major modulatory neurotransmitter systems</caption>
- <thead>
-  <tr>
-   <th style="text-align:left;"> System </th>
-   <th style="text-align:left;"> Origin </th>
-   <th style="text-align:left;"> Targets </th>
-   <th style="text-align:left;"> Effects </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;width: 5em; vertical-align: middle !important;" rowspan="11"> Noradrenaline system </td>
-   <td style="text-align:left;width: 15em; vertical-align: middle !important;" rowspan="10"> Locus coeruleus </td>
-   <td style="text-align:left;width: 10em; "> Adrenergic receptors in: </td>
-   <td style="text-align:left;width: 15em; "> arousal,  reward system </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> spinal cord </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> thalamus </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> hypothalamus </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> striatum </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> neocortex </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> cingulate gyrus </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> cingulum </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> hippocampus </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> amygdala </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 15em; "> Lateral tegmental field </td>
-   <td style="text-align:left;width: 10em; "> hypothalamus </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 5em; vertical-align: middle !important;" rowspan="5"> Dopamine system </td>
-   <td style="text-align:left;width: 15em; "> Dopamine pathways: </td>
-   <td style="text-align:left;width: 10em; "> Dopamine receptors at pathway terminations. </td>
-   <td style="text-align:left;width: 15em; "> motor system, reward system, cognition, endocrine, nausea </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 15em; "> mesocortical pathway </td>
-   <td style="text-align:left;width: 10em; ">  </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 15em; "> mesolimbic pathway </td>
-   <td style="text-align:left;width: 10em; ">  </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 15em; "> nigrostriatal pathway </td>
-   <td style="text-align:left;width: 10em; ">  </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 15em; "> tuberoinfundibular pathway </td>
-   <td style="text-align:left;width: 10em; ">  </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 5em; vertical-align: middle !important;" rowspan="16"> Serotonin system </td>
-   <td style="text-align:left;width: 15em; vertical-align: middle !important;" rowspan="4"> caudal dorsal raphe nucleus </td>
-   <td style="text-align:left;width: 10em; "> Serotonin receptors in: deep cerebellar nuclei, cerebellar cortex, spinal cord </td>
-   <td style="text-align:left;width: 15em; "> increase (introversion): mood, satiety, body temperature, sleep;  decrease: nociception </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; ">  </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; ">  </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; ">  </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 15em; vertical-align: middle !important;" rowspan="12"> rostral dorsal raphe nucleus </td>
-   <td style="text-align:left;width: 10em; ">  </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; ">  </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> Serotonin receptors in: </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> thalamus </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> striatum </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> hypothalamus </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> nucleus accumbens </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> neocortex </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> cingulate gyrus </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> cingulum </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> hippocampus </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> amygdala </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 5em; vertical-align: middle !important;" rowspan="17"> Cholinergic system </td>
-   <td style="text-align:left;width: 15em; vertical-align: middle !important;" rowspan="12"> Pedunculopontine nucleus and dorsolateral tegmental nuclei(pontomesencephalotegmental complex) </td>
-   <td style="text-align:left;width: 10em; "> (mainly) M1 receptors in: </td>
-   <td style="text-align:left;width: 15em; "> muscle and motor control system, learning, short-term memory, arousal, reward </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> brainstem </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> deep cerebellar nuclei </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> pontine nuclei </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> locus ceruleus </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> raphe nucleus </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> lateral reticular nucleus </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> inferior olive </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> thalamus </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> tectum </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> basal ganglia </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> basal forebrain </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 15em; vertical-align: middle !important;" rowspan="2"> basal optic nucleus of Meynert </td>
-   <td style="text-align:left;width: 10em; "> (mainly) M1 receptors in: </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> neocortex </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 15em; vertical-align: middle !important;" rowspan="3"> medial septal nucleus </td>
-   <td style="text-align:left;width: 10em; "> (mainly) M1 receptors in: </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> hippocampus </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 10em; "> neocortex </td>
-   <td style="text-align:left;width: 15em; ">  </td>
-  </tr>
-</tbody>
-</table>
 
 ## Neurotransmitter Receptors
 
@@ -1197,10 +846,14 @@ Ligand-gated ion channels (LGICs) are one type of ionotropic receptor or channel
 
 (ref:ach) A cartoon representation of the atomic structure of the the nicotinic acetylcholine receptor from the electric ray *Torpedo marmorata* at 4Å resolution. Data from [PDB 2BG9](https://www.rcsb.org/structure/2BG9), rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
 
-<div class="figure" style="text-align: center">
-<img src="./figures/synapse/nAch_receptor.png" alt="(ref:ach)" width="70%" />
-<p class="caption">(\#fig:achr)(ref:ach)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/synapse/nAch_receptor} 
+
+}
+
+\caption{(ref:ach)}(\#fig:achr)
+\end{figure}
 
 
 The binding site of endogenous ligands on LGICs protein complexes are normally located on a different portion of the protein (an allosteric binding site) compared to where the ion conduction pore is located. The direct link between ligand binding and opening or closing of the ion channel, which is characteristic of ligand-gated ion channels, is contrasted with the indirect function of metabotropic receptors, which use second messengers. LGICs are also different from voltage-gated ion channels (which open and close depending on membrane potential), and stretch-activated ion channels (which open and close depending on mechanical deformation of the cell membrane).
@@ -1227,12 +880,3 @@ The following are some major classes of neurotransmitter receptors:
 
 Drugs can influence behavior by altering neurotransmitter activity. For instance, drugs can decrease the rate of synthesis of neurotransmitters by affecting the synthetic enzyme(s) for that neurotransmitter. When neurotransmitter synthesis is blocked, the amount of neurotransmitters available for release becomes substantially lower, resulting in a decrease in neurotransmitter activity. Some drugs block or stimulate the release of specific neurotransmitters. Alternatively, drugs can prevent neurotransmitter storage in synaptic vesicles by causing the synaptic vesicle membranes to leak. Drugs that prevent a neurotransmitter from binding to its receptor are called receptor antagonists. For example, drugs used to treat patients with schizophrenia such as haloperidol, chlorpromazine, and clozapine are antagonists at receptors in the brain for dopamine. Other drugs act by binding to a receptor and mimicking the normal neurotransmitter. Such drugs are called receptor agonists. An example of a receptor agonist is morphine, an opiate that mimics effects of the endogenous neurotransmitter β-endorphin to relieve pain. Other drugs interfere with the deactivation of a neurotransmitter after it has been released, thereby prolonging the action of a neurotransmitter. This can be accomplished by blocking re-uptake or inhibiting degradative enzymes. Lastly, drugs can also prevent an action potential from occurring, blocking neuronal activity throughout the central and peripheral nervous system. 
 
-Competitive antagonists bind to receptors at the same binding site (active site) as the endogenous ligand or agonist, but without activating the receptor. Agonists and antagonists "compete" for the same binding site on the receptor. Once bound, an antagonist will block agonist binding. Sufficient concentrations of an antagonist will displace the agonist from the binding sites, resulting in a lower frequency of receptor activation. The level of activity of the receptor will be determined by the relative affinity of each molecule for the site and their relative concentrations. High concentrations of a competitive agonist will increase the proportion of receptors that the agonist occupies, higher concentrations of the antagonist will be required to obtain the same degree of binding site occupancy. In functional assays using competitive antagonists, a parallel rightward shift of agonist dose–response curves with no alteration of the maximal response is observed.
-
-Competitive antagonists are used to prevent the activity of drugs, and to reverse the effects of drugs that have already been consumed. Naloxone (also known as Narcan) is used to reverse opioid overdose caused by drugs such as heroin or morphine.
-
-Competitive antagonists are sub-classified as reversible or irreversible competitive antagonists, depending on how they interact with their receptor protein targets. Reversible antagonists, which bind via noncovalent intermolecular forces, will eventually dissociate from the receptor, freeing the receptor to be bound again. Irreversible antagonists bind via covalent intermolecular forces. Because there is not enough free energy to break covalent bonds in the local environment, the bond is essentially "permanent", meaning the receptor-antagonist complex will never dissociate. The receptor will thereby remain permanently antagonized until it is ubiquitinated and thus destroyed.
-
-A non-competitive antagonist may act in one of two ways: by binding to an allosteric site of the receptor, or by irreversibly binding to the active site of the receptor. The former meaning has been standardised by the IUPHAR, and is equivalent to the antagonist being called an allosteric antagonist. While the mechanism of antagonism is different in both of these phenomena, they are both called "non-competitive" because the end-results of each are functionally very similar. Unlike competitive antagonists, which affect the amount of agonist necessary to achieve a maximal response but do not affect the magnitude of that maximal response, non-competitive antagonists reduce the magnitude of the maximum response that can be attained by any amount of agonist. This property earns them the name "non-competitive" because their effects cannot be negated, no matter how much agonist is present.
-
-Uncompetitive antagonists differ from non-competitive antagonists in that they require receptor activation by an agonist before they can bind to a separate allosteric binding site. This type of antagonism produces a kinetic profile in which "the same amount of antagonist blocks higher concentrations of agonist better than lower concentrations of agonist".

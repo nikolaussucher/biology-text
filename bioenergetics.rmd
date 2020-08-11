@@ -36,6 +36,12 @@ Many models have been proposed to describe the mechanisms by which novel metabol
 
 As well as the evolution of new metabolic pathways, evolution can also cause the loss of metabolic functions. For example, in some parasites metabolic processes that are not essential for survival are lost and preformed amino acids, nucleotides and carbohydrates may instead be scavenged from the host. Similar reduced metabolic capabilities are seen in endosymbiotic organisms.
 
+(ref:sun) [The Sun](https://commons.wikimedia.org/wiki/File:Sun_in_February_(black_version).jpg) is the source of energy for most of life on Earth. It derives its energy mainly from nuclear fusion in its core, converting mass to energy as protons are combined to form helium. This energy is transported to the sun's surface then released into space mainly in the form of radiant (light) energy.
+
+```{r energyfromsun, fig.cap='(ref:sun)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/bioenergetics/Sun_in_February_black_version.jpg")
+```
+
 The sun is the primary source of energy for living organisms on earth. The relationship between the energy of the incoming sunlight and its wavelength λ or frequency ν is given by
 
 $$ E={\frac  {hc}{\lambda }}=h\nu $$ 

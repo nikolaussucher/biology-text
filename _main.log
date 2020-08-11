@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.7.24)  9 AUG 2020 00:46
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.8.9)  11 AUG 2020 00:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **_main.tex
 (./_main.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-07-17> (/usr/local/texlive/texmf-dist/tex/latex/base
+L3 programming layer <2020-08-07> (/usr/local/texlive/texmf-dist/tex/latex/base
 /book.cls
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/local/texlive/texmf-dist/tex/latex/base/bk10.clo
@@ -128,9 +128,9 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ) (/usr/local/texlive/texmf-dist/tex/latex/unicode-math/unicode-math.sty (/usr/
 local/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2020-07-17 L3 programming layer (loader) 
+Package: expl3 2020-08-07 L3 programming layer (loader) 
 (/usr/local/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
-File: l3backend-xdvipdfmx.def 2020-06-29 L3 backend support: xdvipdfmx
+File: l3backend-xdvipdfmx.def 2020-08-07 L3 backend support: xdvipdfmx
 \g__graphics_track_int=\count185
 \l__pdf_internal_box=\box47
 \g__pdf_backend_object_int=\count186
@@ -1964,21 +1964,27 @@ Requested font "[Cantarell-Bold.otf]/OT:script=latn;language=dflt;+liga;+tnum;+
 lnum;mapping=tex-text;" at 14.4pt
  -> /usr/local/texlive/texmf-dist/fonts/opentype/gnome/cantarell/Cantarell-Bold
 .otf
-[15] [16] [17] [18] [19] [20] [21]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[22]
+[15]
+File: ./figures/life/Celltypes.png Graphic file (type bmp)
+<./figures/life/Celltypes.png>
 LaTeX Font Info:    Font shape `TU/Cantarell(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 389.
+(Font)              scaled to size 10.0pt on input line 271.
+Requested font "[Cantarell-Bold.otf]/OT:script=latn;language=dflt;+liga;+tnum;+
+lnum;mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/texmf-dist/fonts/opentype/gnome/cantarell/Cantarell-Bold
+.otf
+[16] [17] [18] [19] [20] [21] [22]
+LaTeX Font Info:    Font shape `TU/Cantarell(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 400.
 Requested font "[Cantarell-Bold.otf]/OT:script=latn;language=dflt;+liga;+tnum;+
 lnum;mapping=tex-text;" at 12.0pt
  -> /usr/local/texlive/texmf-dist/fonts/opentype/gnome/cantarell/Cantarell-Bold
 .otf
-[23]
-Underfull \vbox (badness 2726) has occurred while \output is active []
 
-[24]
-Underfull \hbox (badness 1365) in paragraph at lines 420--421
+Underfull \vbox (badness 3460) has occurred while \output is active []
+
+[23] [24]
+Underfull \hbox (badness 1365) in paragraph at lines 431--432
 \TU/Cantarell(0)/m/n/10 (originally Archaebacteria); Bacteria (originally Eubac
 teria) and Eukaryota (including protists,
  []
@@ -1989,14 +1995,14 @@ mp)
 ! Argument of \caption@ydblarg has an extra }.
 <inserted text> 
                 \par 
-l.432 ...am uses a 3 Domains / 6 Kingdoms format}}
+l.443 ...am uses a 3 Domains / 6 Kingdoms format}}
                                                   \label{fig:hierarchycartoon} 
 Here is how much of TeX's memory you used:
- 22531 strings out of 481704
- 424126 string characters out of 5933764
- 833373 words of memory out of 5000000
- 39263 multiletter control sequences out of 15000+600000
- 541821 words of font info for 105 fonts, out of 8000000 for 9000
+ 22544 strings out of 481691
+ 424549 string characters out of 5933564
+ 832888 words of memory out of 5000000
+ 39287 multiletter control sequences out of 15000+600000
+ 541829 words of font info for 106 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  63i,8n,125p,1397b,797s stack positions out of 5000i,500n,10000p,200000b,80000s
 

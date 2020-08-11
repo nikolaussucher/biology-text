@@ -34,42 +34,20 @@ DNA, RNA, and proteins all consist of a repeating structure of related building 
 
 In most cases, the monomers within the chain have a strong propensity to interact with other amino acids or nucleotides. In DNA and RNA, this can take the form of Watson-Crick base pairs (G-C and A-T or A-U), although many more complicated interactions can and do occur.
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Macromolecule (Polymer) </th>
-   <th style="text-align:left;"> Building Block (Monomer) </th>
-   <th style="text-align:left;"> Joining Bond </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;width: 10em; "> Proteins </td>
-   <td style="text-align:left;width: 10em; "> Amino acids </td>
-   <td style="text-align:left;width: 10em; "> Peptide </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> DNA </td>
-   <td style="text-align:left;width: 10em; "> Nucleotides (a phoshate, ribose, and a base- adenine, guanine, thymine, or cytosine) </td>
-   <td style="text-align:left;width: 10em; "> Phoshodiester </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> RNA </td>
-   <td style="text-align:left;width: 10em; "> Nucleotides (a phoshate, ribose, and a base- adenine, guanine, Uracil, or cytosine) </td>
-   <td style="text-align:left;width: 10em; "> Phoshodiester </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> Polysaccharides (carbohydrates) </td>
-   <td style="text-align:left;width: 10em; "> Monosaccharides </td>
-   <td style="text-align:left;width: 10em; "> Glycosidic </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> Lipids </td>
-   <td style="text-align:left;width: 10em; "> unlike the other macromolecules, lipids are not defined by chemical Structure. Lipids are any organic nonpolar molecule. </td>
-   <td style="text-align:left;width: 10em; "> Some lipids are held together by ester bonds; some are huge aggregates of small molecules held together by hydrophobic interactions. </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+\centering
+\begin{tabular}{>{\raggedright\arraybackslash}p{10em}>{\raggedright\arraybackslash}p{10em}>{\raggedright\arraybackslash}p{10em}}
+\toprule
+Macromolecule (Polymer) & Building Block (Monomer) & Joining Bond\\
+\midrule
+\rowcolor{gray!6}  Proteins & Amino acids & Peptide\\
+DNA & Nucleotides (a phoshate, ribose, and a base- adenine, guanine, thymine, or cytosine) & Phoshodiester\\
+\rowcolor{gray!6}  RNA & Nucleotides (a phoshate, ribose, and a base- adenine, guanine, Uracil, or cytosine) & Phoshodiester\\
+Polysaccharides (carbohydrates) & Monosaccharides & Glycosidic\\
+\rowcolor{gray!6}  Lipids & unlike the other macromolecules, lipids are not defined by chemical Structure. Lipids are any organic nonpolar molecule. & Some lipids are held together by ester bonds; some are huge aggregates of small molecules held together by hydrophobic interactions.\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ## Proteins
 

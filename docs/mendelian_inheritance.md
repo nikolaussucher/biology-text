@@ -10,10 +10,14 @@ Classical genetics is the part of genetics that is about the transmission of gen
 
 (ref:mendelportrait) [Gregor Mendel, the Moravian Augustinian monk who is credited for having founded the modern science of genetics](https://commons.wikimedia.org/wiki/File:Gregor_Mendel.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/mendel/Gregor_Mendel.png" alt="(ref:mendelportrait)" width="70%" />
-<p class="caption">(\#fig:portrait)(ref:mendelportrait)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/mendel/Gregor_Mendel} 
+
+}
+
+\caption{(ref:mendelportrait)}(\#fig:portrait)
+\end{figure}
 
 The principles of Mendelian inheritance were named for and first derived by Gregor Johann Mendel, a nineteenth-century Moravian monk who formulated his ideas after conducting simple hybridisation experiments with pea plants (*Pisum sativum*) he had planted in the garden of his monastery. Between 1856 and 1863, Mendel cultivated and tested some 5,000 pea plants. From these experiments, he induced two generalizations which later became known as Mendel's Principles of Heredity or Mendelian inheritance. He described his experiments in a two-part paper, Versuche über Pflanzen-Hybriden (Experiments on Plant Hybridization), that he presented to the Natural History Society of Brno on 8 February and 8 March 1865, and which was published in 1866.
 
@@ -48,19 +52,27 @@ Mendel selected for experiment relate the following characters of pea plants:
 
 (ref:mendel) [Characteristics of pea plants Gregor Mendel used in his inheritance experiments](https://commons.wikimedia.org/wiki/File:Gregor_Mendel_-_characteristics_of_pea_plants_-_english.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/mendel/Gregor_Mendel_-_characteristics_of_pea_plants_-_english.png" alt="(ref:mendel)" width="70%" />
-<p class="caption">(\#fig:characteristics)(ref:mendel)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/mendel/Gregor_Mendel_-_characteristics_of_pea_plants_-_english} 
+
+}
+
+\caption{(ref:mendel)}(\#fig:characteristics)
+\end{figure}
 
 When he crossed purebred white flower and purple flower pea plants (the parental or P generation) by artificial pollination, the resulting flower colour was not a blend. Rather than being a mix of the two, the offspring in the first generation (F1-generation) were all purple flowered. Therefore he called this biological trait dominant. When he allowed self-fertilization in the uniform looking F1-generation, he obtained both colours in the F2 generation with a purple flower to white flower ratio of 3 : 1. In some of the other characters also one of the traits was dominant.
 
 (ref:domrec) [P-Generation and F1-Generation: The dominant allele for purple-red flower hides the phenotypic effect of the recessive allele for white flowers. F2-Generation: The recessive trait from the P-Generation phenotypically reappears in the individuals that are homozygous with the recessiv genetic trait.](https://commons.wikimedia.org/wiki/File:Dominant-recessive_inheritance_-_flowers_of_pea_plants.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/mendel/Dominant-recessive_inheritance_-_flowers_of_pea_plants.png" alt="(ref:domrec)" width="70%" />
-<p class="caption">(\#fig:dominant)(ref:domrec)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/mendel/Dominant-recessive_inheritance_-_flowers_of_pea_plants} 
+
+}
+
+\caption{(ref:domrec)}(\#fig:dominant)
+\end{figure}
 
 He then conceived the idea of heredity units, which he called heriditary "factors". Mendel found that there are alternative forms of factors — now called genes — that account for variations in inherited characteristics. For example, the gene for flower color in pea plants exists in two forms, one for purple and the other for white. The alternative "forms" are now called alleles. For each trait, an organism inherits two alleles, one from each parent. These alleles may be the same or different. An organism that has two identical alleles for a gene is said to be homozygous for that gene (and is called a homozygote). An organism that has two different alleles for a gene is said be heterozygous for that gene (and is called a heterozygote).
 
@@ -86,19 +98,27 @@ The F1 offspring of Mendel's pea crosses always looked like one of the two paren
 
 (ref:dominantgen) [In the F1 generation all individuals have the same genotype and same phenotype expressing the dominant trait (red). In the F2 generation, the phenotypes show a 3:1 ratio. In the genotype 25% are homozygous with the dominant trait, 50% are heterozygous genetic carriers of the recessive trait, 25% are homozygous with the recessive genetic trait and expressing the recessive character.](https://commons.wikimedia.org/wiki/File:Dominant-recessive_inheritance_P_-_F1_-_F2.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/mendel/Dominant-recessive_inheritance_P_-_F1_-_F2.png" alt="(ref:dominantgen)" width="70%" />
-<p class="caption">(\#fig:dominantinheritance)(ref:dominantgen)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/mendel/Dominant-recessive_inheritance_P_-_F1_-_F2} 
+
+}
+
+\caption{(ref:dominantgen)}(\#fig:dominantinheritance)
+\end{figure}
 
 But for some characteristics, the F1 hybrids have an appearance in between the phenotypes of the two parental varieties. A cross between two four o'clock (*Mirabilis jalapa*) plants shows an exception to Mendel's principle, called incomplete dominance. Flowers of heterozygous plants have less pigment than the homozygous, therefore there is a third phenotype. The phenotype lies somewhere between the two homozygous genotype. In cases of intermediate inheritance (incomplete dominance) in the F1-generation Mendel's principle of uniformity in genotype and phenotype applies as well. Research about intermediate inheritance was done by other scientists. The first was Carl Correns with his studies about *Mirabilis jalapa*.
 
 (ref:inter) [In *Mirabilis jalapa* and *Antirrhinum majus* are examples for intermediate inheritance. As seen in the F1-generation, heterozygous plants have "light pink" flowers—a mix of "red" and "white". The F2-generation shows a 1:2:1 ratio of red : light pink : white](https://commons.wikimedia.org/wiki/File:Intermediate_inheritance_P_-_F1_-_F2.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/mendel/Intermediate_inheritance_P_-_F1_-_F2.png" alt="(ref:inter)" width="70%" />
-<p class="caption">(\#fig:intermediateinheritance)(ref:inter)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/mendel/Intermediate_inheritance_P_-_F1_-_F2} 
+
+}
+
+\caption{(ref:inter)}(\#fig:intermediateinheritance)
+\end{figure}
 
 ## Law of Segregation of genes
 
@@ -118,10 +138,14 @@ The Law of Independent Assortment states that alleles for separate traits are pa
 
 (ref:assort) [Segregation and independent assortment are consistent with the chromosome theory of inheritance.](https://commons.wikimedia.org/wiki/File:Independent_assortment_%26_segregation.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/mendel/Independent_assortment_segregation.svg" alt="(ref:assort)" width="70%" />
-<p class="caption">(\#fig:assortment)(ref:assort)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/mendel/Independent_assortment_segregation} 
+
+}
+
+\caption{(ref:assort)}(\#fig:assortment)
+\end{figure}
 
 Independent assortment occurs in eukaryotic organisms durig meiotic metaphase I, and produces a gamete with a mixture of the organism's chromosomes. The physical basis of the independent assortment of chromosomes is the random orientation of each bivalent chromosome along the metaphase plate with respect to the other bivalent chromosomes. Along with crossing over, independent assortment increases genetic diversity by producing novel genetic combinations.
 
@@ -149,20 +173,32 @@ Zygosity refers to the grade of similarity between the alleles that determine on
  
 Figure \@ref(fig:punnett) shows a Punnett square for a monohybrid cross. A strain of corn producing pure purple kernels (RR) is crossed with a strain producing pure yellow kernels (rr). In this cross, both parents are homozygous, one carrying two copies of the dominant allele (R; purple), the other two copies of the recessive (r; yellow) allele. Each parent can only make gametes that have either the R  or r  allele. The squares containing the single letters represent the possible gametes. The squares with two letters represent the zygotes resulting from the combination of the respective gametes. It can be easily seen that all offspring will be heterozygous (Rr) and therefore purple. Purple is dominant with the resulting F1 ears all bearing purple kernels. These plants that are heterozygous for a single trait are called monohybrids. When the F1 is self-pollinated, the resulting F2 ears bear both purple and yellow kernels (Figure \@ref(fig:monohybrid)). The Punnett square for the F1 cross is depicted in Figure \@ref(fig:punnettF1)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/mendel/Punnett.svg" alt="Punnett square for homozygous cross." width="70%" />
-<p class="caption">(\#fig:punnett)Punnett square for homozygous cross.</p>
-</div>
+\begin{figure}
 
-<div class="figure" style="text-align: center">
-<img src="./figures/mendel/PunnettF1.svg" alt="Punnett square for heterozygous cross." width="70%" />
-<p class="caption">(\#fig:punnettF1)Punnett square for heterozygous cross.</p>
-</div>
+{\centering \includegraphics[width=0.7\linewidth]{./figures/mendel/Punnett} 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/mendel/Monohybrid_cross.jpg" alt="Monohybrid cross" width="70%" />
-<p class="caption">(\#fig:monohybrid)Monohybrid cross</p>
-</div>
+}
+
+\caption{Punnett square for homozygous cross.}(\#fig:punnett)
+\end{figure}
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/mendel/PunnettF1} 
+
+}
+
+\caption{Punnett square for heterozygous cross.}(\#fig:punnettF1)
+\end{figure}
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/mendel/Monohybrid_cross} 
+
+}
+
+\caption{Monohybrid cross}(\#fig:monohybrid)
+\end{figure}
 
 ## Dihybrid cross
 
@@ -170,10 +206,14 @@ More complicated crosses can be made by looking at two or more genes. The Punnet
 
 A dihybrid cross is a cross between two different lines (varieties, strains) that differ in two observed traits. In the name "Dihybrid cross", the "di" indicates that there are two traits involved (in our example designated R and Su), the "hybrid" means that each trait has two different alleles (in our example R and r, or Su and su), and "cross" means that there are two individuals who are combining or "crossing" their genetic information. In our example, a pure strain of corn producing purple-starchy kernels (RR SuSu) is crossed with a pure strain producing yellow-sweet (rr susu). The starchy seeds are smooth, the sweet seeds are wrinkled. The resulting F1 ears all bear purple-starchy (smooth) kernels. Plants that are heterozygous for two traits are called dihybrids. When the F1 is self-pollinated, the resulting F2 generation contains various combinations (Figure \@ref(fig:dihybrid)).
 
-<div class="figure" style="text-align: center">
-<img src="./figures/mendel/Dihybrid_cross.jpg" alt="Dihybrid cross" width="70%" />
-<p class="caption">(\#fig:dihybrid)Dihybrid cross</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/mendel/Dihybrid_cross} 
+
+}
+
+\caption{Dihybrid cross}(\#fig:dihybrid)
+\end{figure}
 
 The rules of meiosis, as they apply to the dihybrid, are codified in Mendel's first law and Mendel's second law, which are also called the Law of Segregation and the Law of Independent Assortment, respectively (Table \@ref(tab:mendel)). For genes on separate chromosomes, each allele pair showed independent segregation. If the first filial generation (F1 generation) produces four identical offspring, the second filial generation, which occurs by crossing the members of the first filial generation, shows a phenotypic (appearance) ratio of **9:3:3:1**, where:
 

@@ -122,38 +122,18 @@ Chromosomal aberrations are disruptions in the normal chromosomal content of a c
 
 [Aneuploidy](https://en.wikipedia.org/wiki/Aneuploidy) is the presence of an abnormal number of chromosomes in a cell, for example when an individual either is missing a chromosome from a pair (monosomy) or has more than two chromosomes of a pair (trisomy, tetrasomy, etc.). In the strict sense, a chromosome complement having a number of chromosomes other than 46 (in humans) is considered heteroploid while an exact multiple of the haploid chromosome complement is considered euploid. Thus, a cell with any number of complete chromosome sets is called a euploid cell. An extra or missing chromosome is a common cause of genetic disorders, including some human birth defects. Some cancer cells also have abnormal numbers of chromosomes. About 68% of human solid tumors are aneuploid. Aneuploidy originates during cell division when the chromosomes do not separate properly between the two cells. 
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
-<caption>(\#tab:heteroploidy)Terminology and examples of heteroploidy in humans.</caption>
- <thead>
-  <tr>
-   <th style="text-align:left;"> Number of chromosomes </th>
-   <th style="text-align:left;"> Name </th>
-   <th style="text-align:left;"> Description </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;width: 7em; "> 1 </td>
-   <td style="text-align:left;width: 10em; "> Monosomy </td>
-   <td style="text-align:left;width: 20em; "> Monosomy refers to lack of one chromosome of the normal complement. Partial monosomy can occur in unbalanced translocations or deletions, in which only a portion of the chromosome is present in a single copy (see deletion (genetics)). Monosomy of the sex chromosomes (45,X) causes Turner syndrome. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 7em; "> 2 </td>
-   <td style="text-align:left;width: 10em; "> Disomy </td>
-   <td style="text-align:left;width: 20em; "> Disomy is the presence of two copies of a chromosome. For organisms such as humans that have two copies of each chromosome (those that are diploid), it is the normal condition. For organisms that normally have three or more copies of each chromosome (those that are triploid or above), disomy is an aneuploid chromosome complement. In uniparental disomy, both copies of a chromosome come from the same parent (with no contribution from the other parent). </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 7em; "> 3 </td>
-   <td style="text-align:left;width: 10em; "> Trisomy </td>
-   <td style="text-align:left;width: 20em; "> Trisomy refers to the presence of three copies, instead of the normal two, of a particular chromosome. The presence of an extra chromosome 21, which is found in Down syndrome, is called trisomy 21. Trisomy 18 and Trisomy 13, known as Edwards syndrome and Patau syndrome, respectively, are the two other autosomal trisomies recognized in live-born humans. Trisomy of the sex chromosomes is also possible, for example (47,XXX), (47,XXY), and (47,XYY). </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 7em; "> 4/5 </td>
-   <td style="text-align:left;width: 10em; "> Tetrasomy/pentasomy </td>
-   <td style="text-align:left;width: 20em; "> Tetrasomy and pentasomy are the presence of four or five copies of a chromosome, respectively. Although rarely seen with autosomes, sex chromosome tetrasomy and pentasomy have been reported in humans, including XXXX, XXYY, XXXXX, XXXXY, and XYYYY. </td>
-  </tr>
-</tbody>
-</table>
+
+\begin{longtable}[t]{>{\raggedright\arraybackslash}p{7em}>{\raggedright\arraybackslash}p{10em}>{\raggedright\arraybackslash}p{20em}}
+\caption{(\#tab:heteroploidy)Terminology and examples of heteroploidy in humans.}\\
+\toprule
+Number of chromosomes & Name & Description\\
+\midrule
+\rowcolor{gray!6}  1 & Monosomy & Monosomy refers to lack of one chromosome of the normal complement. Partial monosomy can occur in unbalanced translocations or deletions, in which only a portion of the chromosome is present in a single copy (see deletion (genetics)). Monosomy of the sex chromosomes (45,X) causes Turner syndrome.\\
+2 & Disomy & Disomy is the presence of two copies of a chromosome. For organisms such as humans that have two copies of each chromosome (those that are diploid), it is the normal condition. For organisms that normally have three or more copies of each chromosome (those that are triploid or above), disomy is an aneuploid chromosome complement. In uniparental disomy, both copies of a chromosome come from the same parent (with no contribution from the other parent).\\
+\rowcolor{gray!6}  3 & Trisomy & Trisomy refers to the presence of three copies, instead of the normal two, of a particular chromosome. The presence of an extra chromosome 21, which is found in Down syndrome, is called trisomy 21. Trisomy 18 and Trisomy 13, known as Edwards syndrome and Patau syndrome, respectively, are the two other autosomal trisomies recognized in live-born humans. Trisomy of the sex chromosomes is also possible, for example (47,XXX), (47,XXY), and (47,XYY).\\
+4/5 & Tetrasomy/pentasomy & Tetrasomy and pentasomy are the presence of four or five copies of a chromosome, respectively. Although rarely seen with autosomes, sex chromosome tetrasomy and pentasomy have been reported in humans, including XXXX, XXYY, XXXXX, XXXXY, and XYYYY.\\
+\bottomrule
+\end{longtable}
 
 An example of trisomy in humans is [Down syndrome](https://en.wikipedia.org/wiki/Down_syndrome), which is a developmental disorder caused by an extra copy of chromosome 21; the disorder is therefore also called trisomy 21. Having an extra copy of this chromosome means that individuals have three copies of each of its genes instead of two, making it difficult for cells to properly control how much protein is made. Producing too much or too little protein can have serious consequences. Genes on chromosome 21 that specifically contribute to the various symptoms of Down syndrome are now being identified. The frequency of Trisomy 21 has been determined to be a function of advanced maternal age.
 

@@ -14,10 +14,14 @@ Although genes were known to exist on chromosomes, chromosomes are composed of b
 
 (ref:DNA) A cartoon representation of DNA based on atomic coordinates of [PDB 1BNA](https://www.rcsb.org/structure/1bna), rendered with open source molecular visualization tool PyMol.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/molecular_biology/DNA_cartoon.png" alt="(ref:DNA)" width="70%" />
-<p class="caption">(\#fig:dnacartoon)(ref:DNA)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/molecular_biology/DNA_cartoon} 
+
+}
+
+\caption{(ref:DNA)}(\#fig:dnacartoon)
+\end{figure}
 
 Although the structure of DNA showed how inheritance works, it was still not known how DNA influences the behavior of cells. In the following years, scientists tried to understand how DNA controls the process of protein production. It was discovered that the cell uses DNA as a template to create matching messenger RNA, molecules with nucleotides very similar to DNA. The nucleotide sequence of a messenger RNA is used as a template by ribosomes to create an amino acid sequence in protein; this correspondence between nucleotide sequences and amino acid sequences is known as the genetic code.
 
@@ -29,19 +33,27 @@ With the newfound molecular understanding of inheritance came an explosion of re
 
 (ref:dnastruc) The structure of the DNA double helix. A section of DNA. The bases lie horizontally between the two spiraling strands. The atoms in the structure are colour-coded by element (based on atomic coordinates of [PDB 1bna](https://www.rcsb.org/structure/1bna) rendered with open source molecular visualization tool PyMol.)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/dna/dna_licorice.png" alt="(ref:dnastruc)" width="70%" />
-<p class="caption">(\#fig:dnastructure)(ref:dnastruc)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/dna/dna_licorice} 
+
+}
+
+\caption{(ref:dnastruc)}(\#fig:dnastructure)
+\end{figure}
 
 The two DNA strands are also known as polynucleotides as they are composed of simpler monomeric units called nucleotides. Each nucleotide is composed of one of four nitrogen-containing nucleobases (cytosine [C], guanine [G], adenine [A] or thymine [T]), a sugar called deoxyribose, and a phosphate group. The nucleotides are joined to one another in a chain by covalent bonds between the sugar of one nucleotide and the phosphate of the next, resulting in an alternating sugar-phosphate backbone. The nitrogenous bases of the two separate polynucleotide strands are bound together, according to base pairing rules (A with T and C with G), with hydrogen bonds to make double-stranded DNA. The complementary nitrogenous bases are divided into two groups, pyrimidines and purines. In DNA, the pyrimidines are thymine and cytosine; the purines are adenine and guanine.
 
 (ref:bases) The structure of the four nucleotides and their base pairing in the DNA double helix. The atoms in the structure are colour-coded by element (based on atomic coordinates of [PDB 1bna](https://www.rcsb.org/structure/1bna) rendered with open source molecular visualization tool PyMol.)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/dna/bases_hydrogen.png" alt="(ref:bases)" width="70%" />
-<p class="caption">(\#fig:basestruc)(ref:bases)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/dna/bases_hydrogen} 
+
+}
+
+\caption{(ref:bases)}(\#fig:basestruc)
+\end{figure}
 
 Both strands of DNA store biological information. This information is replicated as and when the two strands separate. A large part of DNA (more than 98% for humans) is non-coding, meaning that these sections do not serve as patterns for protein sequences. The two strands of DNA run in opposite directions to each other and are thus antiparallel. Attached to each sugar is one of four types of nucleobases (informally, bases). It is the sequence of these four nucleobases along the backbone that encodes genetic information. RNA strands are created using DNA strands as a template in a process called transcription, where DNA bases are exchanged for their corresponding bases except in the case of thymine (T), which RNA substitutes for uracil (U). Under the genetic code, these RNA strands specify the sequence of amino acids within proteins in a process called translation.
 
@@ -63,10 +75,14 @@ Twin helical strands form the DNA backbone. Another double helix may be found tr
 
 (ref:gro) DNA major and minor grooves. [PDB 1bna](https://www.rcsb.org/structure/1bna) rendered with open source molecular visualization tool PyMol.)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/dna/dna_solid.png" alt="(ref:gro)" width="70%" />
-<p class="caption">(\#fig:groove)(ref:gro)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/dna/dna_solid} 
+
+}
+
+\caption{(ref:gro)}(\#fig:groove)
+\end{figure}
 
 #### Base pairing
 
@@ -74,10 +90,14 @@ In a DNA double helix, each type of nucleobase on one strand bonds with just one
 
 (ref:pair) Top, a [GC base pair](https://commons.wikimedia.org/wiki/File:Base_pair_GC.svg) with three hydrogen bonds. Bottom, an [AT base pair](https://commons.wikimedia.org/wiki/File:Base_pair_AT.svg) with two hydrogen bonds. Non-covalent hydrogen bonds between the pairs are shown as dashed lines. The two types of base pairs form different numbers of hydrogen bonds, AT forming two hydrogen bonds, and GC forming three hydrogen bonds (see figures, right). DNA with high GC-content is more stable than DNA with low GC-content.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/dna/Base_pair_GC.svg" alt="(ref:pair)" width="70%" /><img src="./figures/dna/Base_pair_AT.svg" alt="(ref:pair)" width="70%" />
-<p class="caption">(\#fig:pairing)(ref:pair)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/dna/Base_pair_GC} \includegraphics[width=0.7\linewidth]{./figures/dna/Base_pair_AT} 
+
+}
+
+\caption{(ref:pair)}(\#fig:pairing)
+\end{figure}
 
 As noted above, most DNA molecules are actually two polymer strands, bound together in a helical fashion by noncovalent bonds; this double-stranded (dsDNA) structure is maintained largely by the intrastrand base stacking interactions, which are strongest for G,C stacks. The two strands can come apart—a process known as melting—to form two single-stranded DNA (ssDNA) molecules. Melting occurs at high temperature, low salt and high pH (low pH also melts DNA, but since DNA is unstable due to acid depurination, low pH is rarely used).
 
@@ -136,10 +156,14 @@ DNA is made up of a double helix of two complementary strands. During replicatio
 
 (ref:fork) [DNA polymerases adds nucleotides to the 3′ end of a strand of DNA. If a mismatch is accidentally incorporated, the polymerase is inhibited from further extension. Proofreading removes the mismatched nucleotide and extension continues.](https://commons.wikimedia.org/wiki/File:DNA_replication_split.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/replication/DNA_replication_split.svg" alt="(ref:fork)" width="70%" />
-<p class="caption">(\#fig:repfork)(ref:fork)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/replication/DNA_replication_split} 
+
+}
+
+\caption{(ref:fork)}(\#fig:repfork)
+\end{figure}
 
 In a cell, DNA replication begins at specific locations, or origins of replication, in the genome. Unwinding of DNA at the origin and synthesis of new strands, accommodated by an enzyme known as helicase, results in replication forks growing bi-directionally from the origin. A number of proteins are associated with the replication fork to help in the initiation and continuation of DNA synthesis. Most prominently, DNA polymerase synthesizes the new strands by adding nucleotides that complement each (template) strand. DNA replication occurs during the S-stage of interphase.
 
@@ -157,10 +181,14 @@ The replisome is responsible for copying the entirety of genomic DNA in each pro
 
 (ref:dnarep) [Many enzymes are involved in forming the DNA replication fork and DNA polymerization.](https://commons.wikimedia.org/wiki/File:Eukaryotic_DNA_replication.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/replication/Eukaryotic_DNA_replication.svg" alt="(ref:dnarep)" width="70%" />
-<p class="caption">(\#fig:repforkform)(ref:dnarep)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/replication/Eukaryotic_DNA_replication} 
+
+}
+
+\caption{(ref:dnarep)}(\#fig:repforkform)
+\end{figure}
 
 In G1 phase of the cell cycle, many of the DNA replication regulatory processes are initiated. In eukaryotes, the vast majority of DNA synthesis occurs during S phase of the cell cycle, and the entire genome must be unwound and duplicated to form two daughter copies. During G2, any damaged DNA or replication errors are corrected. Finally, one copy of the genomes is segregated to each daughter cell at mitosis or M phase. These daughter copies each contain one strand from the parental duplex DNA and one nascent antiparallel strand.
 
@@ -175,10 +203,14 @@ After the replicative helicase has unwound the parental DNA duplex, exposing two
 
 (ref:pol) [DNA polymerases adds nucleotides to the 3′ end of a strand of DNA. If a mismatch is accidentally incorporated, the polymerase is inhibited from further extension. Proofreading removes the mismatched nucleotide and extension continues.](https://commons.wikimedia.org/wiki/File:DNA_polymerase.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/replication/DNA_polymerase.svg" alt="(ref:pol)" width="70%" />
-<p class="caption">(\#fig:polymerase)(ref:pol)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/replication/DNA_polymerase} 
+
+}
+
+\caption{(ref:pol)}(\#fig:polymerase)
+\end{figure}
 
 Because DNA polymerases require a primer on which to begin DNA synthess, polymerase α (Pol α) acts as a replicative primase. Pol α is associated with an RNA primase and this complex accomplishes the priming task by synthesizing a primer that contains a short 10 nucleotide stretch of RNA followed by 10 to 20 DNA bases. Importantly, this priming action occurs at replication initiation at origins to begin leading-strand synthesis and also at the 5' end of each Okazaki fragment on the lagging strand.
 
@@ -249,53 +281,24 @@ Clamp proteins form a sliding clamp around DNA, helping the DNA polymerase maint
 
 At the replication fork, many replication enzymes assemble on the DNA into a complex molecular machine called the replisome. The following is a list of major DNA replication enzymes that participate in the replisome:
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
-<caption>(\#tab:heteroploidy)A list of major DNA replication enzymes that participate in the replisome</caption>
- <thead>
-  <tr>
-   <th style="text-align:left;"> Enzymes </th>
-   <th style="text-align:left;"> Function in DNA replication </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;width: 10em; "> DNA helicase </td>
-   <td style="text-align:left;width: 30em; "> Also known as helix destabilizing enzyme. Helicase separates the two strands of DNA at the Replication Fork behind the topoisomerase. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> DNA polymerase </td>
-   <td style="text-align:left;width: 30em; "> The enzyme responsible for catalyzing the addition of nucleotide substrates to DNA in the 5′ to 3′ direction during DNA replication. Also performs proof-reading and error correction. There exist many different types of DNA Polymerase, each of which perform different functions in different types of cells. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> DNA clamp </td>
-   <td style="text-align:left;width: 30em; "> A protein which prevents elongating DNA polymerases from dissociating from the DNA parent strand. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> Single-strand DNA-binding protein </td>
-   <td style="text-align:left;width: 30em; "> Bind to ssDNA and prevent the DNA double helix from re-annealing after DNA helicase unwinds it, thus maintaining the strand separation, and facilitating the synthesis of the nascent strand. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> Topoisomerase </td>
-   <td style="text-align:left;width: 30em; "> Relaxes the DNA from its super-coiled nature. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> DNA gyrase </td>
-   <td style="text-align:left;width: 30em; "> Relieves strain of unwinding by DNA helicase; this is a specific type of topoisomerase </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> DNA ligase </td>
-   <td style="text-align:left;width: 30em; "> Re-anneals the semi-conservative strands and joins Okazaki Fragments of the lagging strand. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> Primase </td>
-   <td style="text-align:left;width: 30em; "> Provides a starting point of RNA (or DNA) for DNA polymerase to begin synthesis of the new DNA strand. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> Telomerase </td>
-   <td style="text-align:left;width: 30em; "> Lengthens telomeric DNA by adding repetitive nucleotide sequences to the ends of eukaryotic chromosomes. This allows germ cells and stem cells to avoid the Hayflick limit on cell divisi </td>
-  </tr>
-</tbody>
-</table>
+
+\begin{longtable}[t]{>{\raggedright\arraybackslash}p{10em}>{\raggedright\arraybackslash}p{30em}}
+\caption{(\#tab:heteroploidy)A list of major DNA replication enzymes that participate in the replisome}\\
+\toprule
+Enzymes & Function in DNA replication\\
+\midrule
+\rowcolor{gray!6}  DNA helicase & Also known as helix destabilizing enzyme. Helicase separates the two strands of DNA at the Replication Fork behind the topoisomerase.\\
+DNA polymerase & The enzyme responsible for catalyzing the addition of nucleotide substrates to DNA in the 5′ to 3′ direction during DNA replication. Also performs proof-reading and error correction. There exist many different types of DNA Polymerase, each of which perform different functions in different types of cells.\\
+\rowcolor{gray!6}  DNA clamp & A protein which prevents elongating DNA polymerases from dissociating from the DNA parent strand.\\
+Single-strand DNA-binding protein & Bind to ssDNA and prevent the DNA double helix from re-annealing after DNA helicase unwinds it, thus maintaining the strand separation, and facilitating the synthesis of the nascent strand.\\
+\rowcolor{gray!6}  Topoisomerase & Relaxes the DNA from its super-coiled nature.\\
+\addlinespace
+DNA gyrase & Relieves strain of unwinding by DNA helicase; this is a specific type of topoisomerase\\
+\rowcolor{gray!6}  DNA ligase & Re-anneals the semi-conservative strands and joins Okazaki Fragments of the lagging strand.\\
+Primase & Provides a starting point of RNA (or DNA) for DNA polymerase to begin synthesis of the new DNA strand.\\
+\rowcolor{gray!6}  Telomerase & Lengthens telomeric DNA by adding repetitive nucleotide sequences to the ends of eukaryotic chromosomes. This allows germ cells and stem cells to avoid the Hayflick limit on cell divisi\\
+\bottomrule
+\end{longtable}
 
 ### Termination
 
@@ -430,10 +433,14 @@ Transfer RNA (tRNA) is a small RNA chain of about 80 nucleotides that transfers 
 
 (ref:trna1) Tertiary structure of tRNA (based on atomic coordinates of [PDB 1ehz](https://www.rcsb.org/structure/1ehz) rendered with open source molecular visualization tool PyMol.)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/translation/trna.png" alt="(ref:trna1)" width="70%" />
-<p class="caption">(\#fig:trnastruc1)(ref:trna1)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/translation/trna} 
+
+}
+
+\caption{(ref:trna1)}(\#fig:trnastruc1)
+\end{figure}
 
 Ribosomal RNA (rRNA) is the catalytic component of the ribosomes. Eukaryotic ribosomes contain four different rRNA molecules: 18S, 5.8S, 28S and 5S rRNA. Three of the rRNA molecules are synthesized in the nucleolus, and one is synthesized elsewhere. In the cytoplasm, ribosomal RNA and protein combine to form a nucleoprotein called a ribosome. The ribosome binds mRNA and carries out protein synthesis. Several ribosomes may be attached to a single mRNA at any time. Nearly all the RNA found in a typical eukaryotic cell is rRNA.
 
@@ -537,10 +544,14 @@ One strand of the DNA, the template strand (or noncoding strand), is used as a t
 
 (ref:elong) [RNA polymerase (RNAP) at work. Note the coding and template strands. The resulting RNA is a synthesized from the template strand and identical in sequence to the coding strand.](https://commons.wikimedia.org/wiki/File:Simple_transcription_elongation1.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/transcription/Simple_transcription_elongation1.svg" alt="(ref:elong)" width="70%" />
-<p class="caption">(\#fig:elongation)(ref:elong)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/transcription/Simple_transcription_elongation1} 
+
+}
+
+\caption{(ref:elong)}(\#fig:elongation)
+\end{figure}
 
 mRNA transcription can involve multiple RNA polymerases on a single DNA template and multiple rounds of transcription (amplification of particular mRNA), so many mRNA molecules can be rapidly produced from a single copy of a gene. The characteristic elongation rates in prokaryotes and eukaryotes are about 10-100 nts/sec. In eukaryotes, however, nucleosomes act as major barriers to transcribing polymerases during transcription elongation. In these organisms, the pausing induced by nucleosomes can be regulated by transcription elongation factors such as TFIIS.
 
@@ -635,10 +646,14 @@ Prokaryotic ribosomes are around 20 nm (200 Å) in diameter and are composed of 
 
 (ref:ttribo) Crystal structure of the bacterial 70S ribosome of the bacterium *Thermus thermophilus*. The 30S (small) ribosomal subunit proteins are colored in green, the 50S (large) subunit proteins are colored in blue, the ribosomal RNA is colored orange. The 30S subunits contains 3 tRNA molecules (based on atomic coordinates of [PDB 1JGQ](https://www.rcsb.org/structure/1jgq) and [PDB 1GIY]((https://www.rcsb.org/structure/1jgq)) rendered with open source molecular visualization tool PyMol.)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/translation/ttribosome.png" alt="(ref:ttribo)" width="70%" />
-<p class="caption">(\#fig:ttribosome)(ref:ttribo)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/translation/ttribosome} 
+
+}
+
+\caption{(ref:ttribo)}(\#fig:ttribosome)
+\end{figure}
 
 The unit of measurement used to describe the ribosomal subunits and the rRNA fragments is the Svedberg unit, a measure of the rate of sedimentation in centrifugation rather than size. This accounts for why fragment names do not add up: for example, bacterial 70S ribosomes are made of 50S and 30S subunits.
 
@@ -650,10 +665,14 @@ Eukaryotes have 80S ribosomes located in their cytosol, each consisting of a sma
 
 (ref:ribo) Crystal structure of the human 80S ribosome (based on atomic coordinates of [PDB 4V6X](https://www.rcsb.org/structure/4v6x) rendered with open source molecular visualization tool PyMol). The 40S (small) ribosomal subunit proteins are shown in lightblue, the 60S (large) subunit proteins in palegreen, the ribosomal RNA in orange.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/translation/human_ribosome.png" alt="(ref:ribo)" width="70%" />
-<p class="caption">(\#fig:ribosome)(ref:ribo)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/translation/human_ribosome} 
+
+}
+
+\caption{(ref:ribo)}(\#fig:ribosome)
+\end{figure}
 
 The differences between the bacterial and eukaryotic ribosomes are exploited by pharmaceutical chemists to create antibiotics that can kill bacteria without harming eukaryotic cells. Due to the differences in their structures, the bacterial 70S ribosomes are vulnerable to these antibiotics while the eukaryotic 80S ribosomes are not. 
 
@@ -681,10 +700,14 @@ Translation proceeds in three phases:
 
 (ref:transl) [Diagram showing the translation of mRNA and the synthesis of proteins by a ribosome.](https://commons.wikimedia.org/wiki/File:Ribosome_mRNA_translation_en.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/translation/Ribosome_mRNA_translation_en.svg" alt="(ref:transl)" width="70%" />
-<p class="caption">(\#fig:translation)(ref:transl)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/translation/Ribosome_mRNA_translation_en} 
+
+}
+
+\caption{(ref:transl)}(\#fig:translation)
+\end{figure}
 
 In prokaryotes, translation occurs in the cytosol, where the medium and small subunits of the ribosome bind to the tRNA. In eukaryotes, translation occurs in the cytosol or across the membrane of the endoplasmic reticulum in a process called co-translational translocation. In co-translational translocation, the entire ribosome/mRNA complex binds to the outer membrane of the rough endoplasmic reticulum (ER) and the new protein is synthesized and released into the ER.
 
@@ -715,149 +738,47 @@ Termination of elongation depends on eukaryotic release factors. The process is 
 
 Whereas other aspects such as the 3D structure, called tertiary structure, of protein can only be predicted using sophisticated algorithms, the amino acid sequence, called primary structure, can be determined solely from the nucleic acid sequence with the aid of a translation table.
 
-<table class="table" style="font-size: 7px; margin-left: auto; margin-right: auto;">
-<caption style="font-size: initial !important;">(\#tab:geneticcode)The genetic code: RNA codons.</caption>
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;"> U </th>
-   <th style="text-align:center;"> C </th>
-   <th style="text-align:center;"> A </th>
-   <th style="text-align:center;"> G </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;font-weight: bold;vertical-align: middle !important;" rowspan="4"> U </td>
-   <td style="text-align:center;"> UUU Phenylalanine (Phe) </td>
-   <td style="text-align:center;"> UCU Serine (Ser) </td>
-   <td style="text-align:center;"> UAU Tyrosine (Tyr) </td>
-   <td style="text-align:center;"> UGU Cysteine (Cys) </td>
-   <td style="text-align:center;font-weight: bold;"> U </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:center;"> UUC Phe </td>
-   <td style="text-align:center;"> UCC Ser </td>
-   <td style="text-align:center;"> UAC Tyr </td>
-   <td style="text-align:center;"> UGC Cys </td>
-   <td style="text-align:center;font-weight: bold;"> C </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:center;"> UUA Leucine (Leu) </td>
-   <td style="text-align:center;"> UCA Ser </td>
-   <td style="text-align:center;"> UAA STOP </td>
-   <td style="text-align:center;"> UGA STOP </td>
-   <td style="text-align:center;font-weight: bold;"> A </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:center;"> UUG Leu </td>
-   <td style="text-align:center;"> UCG Ser </td>
-   <td style="text-align:center;"> UAG STOP </td>
-   <td style="text-align:center;"> UGG Tryptophan (Trp) </td>
-   <td style="text-align:center;font-weight: bold;"> G </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;font-weight: bold;vertical-align: middle !important;" rowspan="4"> C </td>
-   <td style="text-align:center;"> CUU Leucine (Leu) </td>
-   <td style="text-align:center;"> CCU Proline (Pro) </td>
-   <td style="text-align:center;"> CAU Histidine (His) </td>
-   <td style="text-align:center;"> CGU Arginine (Arg) </td>
-   <td style="text-align:center;font-weight: bold;"> U </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:center;"> CUC Leu </td>
-   <td style="text-align:center;"> CCC Pro </td>
-   <td style="text-align:center;"> CAC His </td>
-   <td style="text-align:center;"> CGC Arg </td>
-   <td style="text-align:center;font-weight: bold;"> C </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:center;"> CUA Leu </td>
-   <td style="text-align:center;"> CCA Pro </td>
-   <td style="text-align:center;"> CAA Glutamine (Gln) </td>
-   <td style="text-align:center;"> CGA Arg </td>
-   <td style="text-align:center;font-weight: bold;"> A </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:center;"> CUG Leu </td>
-   <td style="text-align:center;"> CCG Pro </td>
-   <td style="text-align:center;"> CAG Gln </td>
-   <td style="text-align:center;"> CGG Arg </td>
-   <td style="text-align:center;font-weight: bold;"> G </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;font-weight: bold;vertical-align: middle !important;" rowspan="4"> A </td>
-   <td style="text-align:center;"> AUU Isoleucine (Ile) </td>
-   <td style="text-align:center;"> ACU Threonine (Thr) </td>
-   <td style="text-align:center;"> AAU Asparagine (Asn) </td>
-   <td style="text-align:center;"> AGU Serine (Ser) </td>
-   <td style="text-align:center;font-weight: bold;"> U </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:center;"> AUC Ile </td>
-   <td style="text-align:center;"> ACC Thr </td>
-   <td style="text-align:center;"> AAC Asn </td>
-   <td style="text-align:center;"> AGC Ser </td>
-   <td style="text-align:center;font-weight: bold;"> C </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:center;"> AUA Ile </td>
-   <td style="text-align:center;"> ACA Thr </td>
-   <td style="text-align:center;"> AAA Lysine (Lys) </td>
-   <td style="text-align:center;"> AGA Arginine (Arg) </td>
-   <td style="text-align:center;font-weight: bold;"> A </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:center;"> AUG Methionine (Met) or START </td>
-   <td style="text-align:center;"> ACG Thr </td>
-   <td style="text-align:center;"> AAG Lys </td>
-   <td style="text-align:center;"> AGG Arg </td>
-   <td style="text-align:center;font-weight: bold;"> G </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;font-weight: bold;vertical-align: middle !important;" rowspan="4"> G </td>
-   <td style="text-align:center;"> GUU Valine Val </td>
-   <td style="text-align:center;"> GCU Alanine (Ala) </td>
-   <td style="text-align:center;"> GAU Aspartic acid (Asp) </td>
-   <td style="text-align:center;"> GGU Glycine (Gly) </td>
-   <td style="text-align:center;font-weight: bold;"> U </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:center;"> GUC (Val) </td>
-   <td style="text-align:center;"> GCC Ala </td>
-   <td style="text-align:center;"> GAC Asp </td>
-   <td style="text-align:center;"> GGC Gly </td>
-   <td style="text-align:center;font-weight: bold;"> C </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:center;"> GUA Val </td>
-   <td style="text-align:center;"> GCA Ala </td>
-   <td style="text-align:center;"> GAA Glutamic acid (Glu) </td>
-   <td style="text-align:center;"> GGA Gly </td>
-   <td style="text-align:center;font-weight: bold;"> A </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:center;"> GUG Val </td>
-   <td style="text-align:center;"> GCG Ala </td>
-   <td style="text-align:center;"> GAG Glu </td>
-   <td style="text-align:center;"> GGG Gly </td>
-   <td style="text-align:center;font-weight: bold;"> G </td>
-  </tr>
-</tbody>
-</table>
+\begingroup\fontsize{7}{9}\selectfont
+
+\begin{longtable}[t]{>{\bfseries}ccccc>{\bfseries}c}
+\caption{(\#tab:geneticcode)The genetic code: RNA codons.}\\
+\toprule
+ & U & C & A & G & \\
+\midrule
+\rowcolor{gray!6}   & UUU Phenylalanine (Phe) & UCU Serine (Ser) & UAU Tyrosine (Tyr) & UGU Cysteine (Cys) & U\\
+
+ & UUC Phe & UCC Ser & UAC Tyr & UGC Cys & C\\
+
+\rowcolor{gray!6}   & UUA Leucine (Leu) & UCA Ser & UAA STOP & UGA STOP & A\\
+
+\multirow{-4}{*}{\centering\arraybackslash U} & UUG Leu & UCG Ser & UAG STOP & UGG Tryptophan (Trp) & G\\
+\cmidrule{1-6}
+\rowcolor{gray!6}   & CUU Leucine (Leu) & CCU Proline (Pro) & CAU Histidine (His) & CGU Arginine (Arg) & U\\
+
+ & CUC Leu & CCC Pro & CAC His & CGC Arg & C\\
+
+\rowcolor{gray!6}   & CUA Leu & CCA Pro & CAA Glutamine (Gln) & CGA Arg & A\\
+
+\multirow{-4}{*}{\centering\arraybackslash C} & CUG Leu & CCG Pro & CAG Gln & CGG Arg & G\\
+\cmidrule{1-6}
+\rowcolor{gray!6}   & AUU Isoleucine (Ile) & ACU Threonine (Thr) & AAU Asparagine (Asn) & AGU Serine (Ser) & U\\
+
+ & AUC Ile & ACC Thr & AAC Asn & AGC Ser & C\\
+
+\rowcolor{gray!6}   & AUA Ile & ACA Thr & AAA Lysine (Lys) & AGA Arginine (Arg) & A\\
+
+\multirow{-4}{*}{\centering\arraybackslash A} & AUG Methionine (Met) or START & ACG Thr & AAG Lys & AGG Arg & G\\
+\cmidrule{1-6}
+\rowcolor{gray!6}   & GUU Valine Val & GCU Alanine (Ala) & GAU Aspartic acid (Asp) & GGU Glycine (Gly) & U\\
+
+ & GUC (Val) & GCC Ala & GAC Asp & GGC Gly & C\\
+
+\rowcolor{gray!6}   & GUA Val & GCA Ala & GAA Glutamic acid (Glu) & GGA Gly & A\\
+
+\multirow{-4}{*}{\centering\arraybackslash G} & GUG Val & GCG Ala & GAG Glu & GGG Gly & G\\
+\bottomrule
+\end{longtable}
+\endgroup{}
 
 There are many computer programs capable of translating a DNA/RNA sequence into a protein sequence. Normally this is performed using the Standard Genetic Code (Table \@ref(tab:geneticcode)), however, few programs can handle all the "special" cases, such as the use of the alternative initiation codons. For instance, the rare alternative start codon CTG codes for Methionine when used as a start codon, and for Leucine in all other positions.
 
@@ -980,10 +901,14 @@ CRISPR gene editing is a method by which the genomes of living organisms may be 
 
 (ref:CRISPR) [Diagram of the CRISPR prokaryotic antiviral defense mechanism.](https://commons.wikimedia.org/wiki/File:Crispr.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/molecular_biology/Crispr.png" alt="(ref:CRISPR)" width="70%" />
-<p class="caption">(\#fig:crisprdiagram)(ref:CRISPR)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/molecular_biology/Crispr} 
+
+}
+
+\caption{(ref:CRISPR)}(\#fig:crisprdiagram)
+\end{figure}
 
 While genomic editing in eukaryotic cells has been possible using various methods since the 1980s, the methods employed had proved to be inefficient and impractical to implement on a larger scale. Genomic editing leads to irreversible changes to the gene. Working like genetic scissors, the Cas9 nuclease opens both strands of the targeted sequence of DNA to introduce the modification by one of two methods. Knock-in mutations, facilitated via Homology Directed Repair (HDR), is the traditional pathway of targeted genomic editing approaches. This allows for the introduction of targeted DNA damage and repair. HDR employs the use of similar DNA sequences to drive the repair of the break via the incorporation of exogenous DNA to function as the repair template. This method relies on the periodic and isolated occurrence of DNA damage at the target site in order for a repair to commence. Knock-out mutations caused by CRISPR-Cas9 results in the repair of the double-strand break by means of NHEJ (Non-Homologous End Joining). NHEJ can often result in random deletions or insertions at the repair site disrupting or altering gene functionality. Therefore, genomic engineering by CRISPR-Cas9 allows researchers the ability to generate targeted random gene disruption.
 

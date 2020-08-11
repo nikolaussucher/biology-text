@@ -12,30 +12,102 @@ A chemical reaction is a transformation of some substances into one or more diff
 
 ## Matter
 
-In chemistry, matter is defined as anything that has rest mass and volume (it takes up space) and is made up of particles. The particles that make up matter have rest mass as well – not all particles have rest mass, such as the photon. Matter can be a pure chemical substance or a mixture of substances.
+In classical physics and general chemistry, matter is any substance that has mass and takes up space by having volume. Matter should not be confused with mass, as the two are not the same in modern physics. Matter is a general term describing any 'physical substance'. By contrast, mass is not a substance but rather a quantitative property of matter and other substances or systems. All everyday objects that can be touched are ultimately composed of atoms, which are made up of interacting subatomic particles, and in everyday as well as scientific usage, "matter" generally includes atoms and anything made up of them, and any particles (or combination of particles) that act as if they have both rest mass and volume. However it does not include massless particles such as photons, or other energy phenomena or waves such as light or sound. Matter exists in various states (also known as phases). These include classical everyday phases such as solid, liquid, and gas – for example water exists as ice, liquid water, and gaseous steam – but other states are possible, including plasma, Bose–Einstein condensates, fermionic condensates, and quark–gluon plasma.
 
-###  Atom
+Usually atoms can be imagined as a nucleus of protons and neutrons, and a surrounding "cloud" of orbiting electrons which "take up space". However this is only somewhat correct, because subatomic particles and their properties are governed by their quantum nature, which means they do not act as everyday objects appear to act – they can act like waves as well as particles and they do not have well-defined sizes or positions. In the Standard Model of particle physics, matter is not a fundamental concept because the elementary constituents of atoms are quantum entities which do not have an inherent "size" or "volume" in any everyday sense of the word. Due to the exclusion principle and other fundamental interactions, some "point particles" known as fermions (quarks, leptons), and many composites and atoms, are effectively forced to keep a distance from other particles under everyday conditions; this creates the property of matter which appears to us as matter taking up space.
 
-The atom is the basic unit of chemistry. It consists of a dense core called the atomic nucleus surrounded by a space occupied by an electron cloud. The nucleus is made up of positively charged protons and uncharged neutrons (together called nucleons), while the electron cloud consists of negatively charged electrons which orbit the nucleus. In a neutral atom, the negatively charged electrons balance out the positive charge of the protons. The nucleus is dense; the mass of a nucleon is approximately 1,836 times that of an electron, yet the radius of an atom is about 10,000 times that of its nucleus.
+For much of the history of the natural sciences people have contemplated the exact nature of matter. The idea that matter was built of discrete building blocks, the so-called particulate theory of matter, independently appeared in ancient Greece and ancient India among Buddhists, Hindus and Jains in 1st-millennium BC. Ancient philosophers who proposed the particulate theory of matter include Kanada (c. 6th–century BC or after), Leucippus (~490 BC) and Democritus (~470–380 BC).
 
-The atom is also the smallest entity that can be envisaged to retain the chemical properties of the element, such as electronegativity, ionization potential, preferred oxidation state(s), coordination number, and preferred types of bonds to form (e.g., metallic, ionic, covalent).
+## Atom
 
-### Element
+The atom is the basic unit of chemistry. It consists of a dense core called the atomic nucleus surrounded by a space occupied by an electron cloud. Only the most common variety of hydrogen has no neutrons. Protons and neutrons are called nucleons. More than 99.94% of an atom's mass is in the nucleus. The protons have a positive electric charge, the electrons have a negative electric charge, and the neutrons have no electric charge. If the number of protons and electrons are equal, then the atom is electrically neutral. If an atom has more or fewer electrons than protons, then it has an overall negative or positive charge, respectively. These atoms are called ions.
 
-A chemical element is a pure substance which is composed of a single type of atom, characterized by its particular number of protons in the nuclei of its atoms, known as the atomic number and represented by the symbol Z. The mass number is the sum of the number of protons and neutrons in a nucleus. Although all the nuclei of all atoms belonging to one element will have the same atomic number, they may not necessarily have the same mass number; atoms of an element which have different mass numbers are known as isotopes. For example, all atoms with 6 protons in their nuclei are atoms of the chemical element carbon, but atoms of carbon may have mass numbers of 12 or 13.
+Atoms are extremely small, typically around 100 picometers (1 picometer = 10^-12^m) across. They are so small that accurately predicting their behavior using classical physics—as if they were billiard balls, for example—is not possible due to quantum effects. Current atomic models use [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics) to better explain and predict this behavior. The word quantum derives from the Latin, meaning "how great" or "how much". In quantum mechanics, it refers to a discrete unit assigned to certain physical quantities such as the energy of an atom at rest. The discovery that particles are discrete packets of energy with wave-like properties led to the branch of physics dealing with atomic and subatomic systems which is today called quantum mechanics. It underlies the mathematical framework of many fields of physics and chemistry.
 
-The standard presentation of the chemical elements is in the periodic table, which orders elements by atomic number. The periodic table is arranged in groups, or columns, and periods, or rows. The periodic table is useful in identifying periodic trends.
+Quantum mechanics is essential for understanding the behavior of systems at atomic length scales and smaller. If the physical nature of an atom were solely described by classical mechanics, electrons would not orbit the nucleus, since orbiting electrons emit radiation (due to circular motion) and so would quickly lose energy and collide with the nucleus. This framework was unable to explain the stability of atoms. Instead, electrons remain in an uncertain, non-deterministic, smeared, probabilistic wave–particle orbital about the nucleus, defying the traditional assumptions of classical mechanics and electromagnetism.
+Quantum mechanics is also critically important for understanding how individual atoms are joined by covalent bonds to form molecules. The application of quantum mechanics to chemistry is known as quantum chemistry. Quantum mechanics can also provide quantitative insight into ionic and covalent bonding processes by explicitly showing which molecules are energetically favorable to which others and the magnitudes of the energies involved. Furthermore, most of the calculations performed in modern computational chemistry rely on quantum mechanics.
 
-### Compound
+(ref:atom) An [illustration of the helium atom](https://commons.wikimedia.org/wiki/File:Helium_atom_QM.svg), depicting the nucleus (pink) and the electron cloud distribution (black). The nucleus (upper right) in helium-4 is in reality spherically symmetric and closely resembles the electron cloud, although for more complicated nuclei this is not always the case. The black bar is one angstrom (10^−10^ m or100 pm).
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Helium_atom_QM} 
+
+}
+
+\caption{(ref:atom)}(\#fig:atomcartoon)
+\end{figure}
+The electrons of an atom are attracted to the protons in an atomic nucleus by the electromagnetic force. The protons and neutrons in the nucleus are attracted to each other by the nuclear force. This force is usually stronger than the electromagnetic force that repels the positively charged protons from one another. Under certain circumstances, the repelling electromagnetic force becomes stronger than the nuclear force. In this case, the nucleus splits and leaves behind different elements. This is a form of nuclear decay.
+
+The number of protons in the nucleus is the atomic number and it defines to which chemical element the atom belongs. For example, any atom that contains 29 protons is copper. The number of neutrons defines the isotope of the element. Atoms can attach to one or more other atoms by chemical bonds to form chemical compounds such as molecules or crystals. The ability of atoms to associate and dissociate is responsible for most of the physical changes observed in nature. Chemistry is the discipline that studies these changes.
+
+The basic idea that matter is made up of tiny indivisible particles is very old, appearing in many ancient cultures such as Greece and India. The word atomos, meaning "uncuttable", was coined by the ancient Greek philosophers Leucippus and his pupil Democritus (5th century BC). These ancient ideas were not based on scientific reasoning.
+
+In the early 1800s, John Dalton compiled experimental data gathered by himself and other scientists and observed that chemical elements seemed to combine by weight in ratios of small whole numbers; he called this pattern the "law of multiple proportions". For instance, there are two types of tin oxide: one is 88.1% tin and 11.9% oxygen, and the other is 78.7% tin and 21.3% oxygen. Adjusting these figures, for every 100 g of tin there is either 13.5 g or 27 g of oxygen respectively. 13.5 and 27 form a ratio of 1:2, a ratio of small whole numbers. Similarly, there are two common types of iron oxide, in which for every 112 g of iron there is either 32 g or 48 g of oxygen respectively, which gives a ratio of 2:3. As a final example, there are three oxides of nitrogen in which for every 140 g of nitrogen, there is 80 g, 160 g, and 320 g of oxygen respectively, which gives a ratio of 1:2:4. This recurring pattern in the data suggested that elements always combine in multiples of discrete units, which Dalton concluded were atoms. In the case of the tin oxides, for every one tin atom, there are either one or two oxygen atoms (SnO and SnO~2~). In the case of the iron oxides, for every two iron atoms, there are either two or three oxygen atoms (FeO and Fe~2~O~3~). In the case of the nitrogen oxides, their formulas are N~2~O, NO, and NO~2~.
+
+In the late 18th century, a number of scientists found that they could better explain the behavior of gases by describing them as collections of sub-microscopic particles and modelling their behavior using statistics and probability. Unlike Dalton's atomic theory, the kinetic theory of gases describes not how gases react chemically with each other to form compounds, but how they behave physically: diffusion, viscosity, conductivity, pressure, etc.
+
+In 1827, botanist Robert Brown used a microscope to look at dust grains floating in water and discovered that they moved about erratically, a phenomenon that became known as "Brownian motion". This was thought to be caused by water molecules knocking the grains about. In 1905, Albert Einstein proved the reality of these molecules and their motions by producing the first statistical physics analysis of Brownian motion. French physicist Jean Perrin used Einstein's work to experimentally determine the mass and dimensions of atoms, thereby verifying Dalton's atomic theory.
+
+In 1897, J.J. Thomson discovered that cathode rays are not electromagnetic waves but made of particles that are 1,800 times lighter than hydrogen (the lightest atom). Therefore, they were not atoms, but a new particle, the first subatomic particle to be discovered. He called these new particles corpuscles but they were later renamed electrons. Thomson also showed that electrons were identical to particles given off by photoelectric and radioactive materials. It was quickly recognized that electrons are the particles that carry electric currents in metal wires, and carry the negative electric charge within atoms. Thus Thomson overturned the belief that atoms are the indivisible, fundamental particles of matter. The misnomer "atom" is still used, even though atoms are not literally "uncuttable".
+
+J. J. Thomson postulated that the negatively-charged electrons were distributed throughout the atom in a uniform sea of positive charge. This was known as the plum pudding model. In 1909, Hans Geiger and Ernest Marsden, working under the direction of Ernest Rutherford, bombarded metal foil with alpha particles to observe how they scattered. They expected all the charged particles to pass straight through with little deflection, because Thomson's model said that the charges in the atom are so diffuse that their electric fields in the foil could not affect the alpha particles much. Yet Geiger and Marsden spotted alpha particles being deflected by angles greater than 90°, which was supposed to be impossible according to Thomson's model. To explain this, Rutherford proposed that the positive charge of the atom is concentrated in a tiny nucleus at the center. Only such an intense concentration of charge could produce an electric field strong enough to deflect alpha particles that much.
+
+While experimenting with the products of radioactive decay, in 1913 radiochemist Frederick Soddy discovered that there appeared to be more than one type of atom at each position on the periodic table. The term isotope was coined by Margaret Todd as a suitable name for different atoms that belong to the same element. J.J. Thomson created a technique for isotope separation through his work on ionized gases, which subsequently led to the discovery of stable isotopes.
+
+The development of the mass spectrometer allowed the mass of atoms to be measured with increased accuracy. The device uses a magnet to bend the trajectory of a beam of ions, and the amount of deflection is determined by the ratio of an atom's mass to its charge. The chemist Francis William Aston used this instrument to show that isotopes had different masses. The atomic mass of these isotopes varied by integer amounts, called the whole number rule. The explanation for these different isotopes awaited the discovery of the neutron, an uncharged particle with a mass similar to the proton, by the physicist James Chadwick in 1932. Isotopes were then explained as elements with the same number of protons, but different numbers of neutrons within the nucleus.
+
+In 1913 the physicist Niels Bohr proposed a model in which the electrons of an atom were assumed to orbit the nucleus but could only do so in a finite set of orbits, and could jump between these orbits only in discrete changes of energy corresponding to absorption or radiation of a photon. This quantization was used to explain why the electrons' orbits are stable (given that normally, charges in acceleration, including circular motion, lose kinetic energy which is emitted as electromagnetic radiation, see synchrotron radiation) and why elements absorb and emit electromagnetic radiation in discrete spectra.
+
+(ref:bohr) Niels Bohr's 1913 [quantum model of the atom](https://en.wikipedia.org/wiki/Bohr_model#/media/File:Bohr_atom_model.svg), which incorporated an explanation of Johannes Rydberg's 1888 formula, Max Planck's 1900 quantum hypothesis, i.e. that atomic energy radiators have discrete energy values (ε = hν), J. J. Thomson's 1904 plum pudding model, Albert Einstein's 1905 light quanta postulate, and Ernest Rutherford's 1907 discovery of the atomic nucleus. Note that the electron does not travel along the black line when emitting a photon. It "jumps", disappearing from the outer orbit and appearing in the inner one and cannot exist in the space between orbits 2 and 3. The Bohr model of the hydrogen atom (Z = 1) or a hydrogen-like ion (Z > 1), where the negatively charged electron confined to an atomic shell encircles a small, positively charged atomic nucleus and where an electron jumps between orbits, is accompanied by an emitted or absorbed amount of electromagnetic energy (hν). The orbits in which the electron may travel are shown as grey circles; their radius increases as n2, where n is the principal quantum number. The 3 → 2 transition depicted here produces the first line of the Balmer series, and for hydrogen (Z = 1) it results in a photon of wavelength 656 nm (red light). 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Bohr_atom_model} 
+
+}
+
+\caption{(ref:bohr)}(\#fig:bohrmodel)
+\end{figure}
+
+Later in the same year Henry Moseley provided additional experimental evidence in favor of Niels Bohr's theory. These results refined Ernest Rutherford's and Antonius Van den Broek's model, which proposed that the atom contains in its nucleus a number of positive nuclear charges that is equal to its (atomic) number in the periodic table. Until these experiments, atomic number was not known to be a physical and experimental quantity. That it is equal to the atomic nuclear charge remains the accepted atomic model today.
+
+Atomic dimensions are thousands of times smaller than the wavelengths of light (400–700 nm) so they cannot be viewed using an optical microscope, although individual atoms can be observed using a scanning tunneling microscope. To visualize the minuteness of the atom, consider that a typical human hair is about 1 million carbon atoms in width. A single drop of water contains about 2 sextillion (2×10^21^) atoms of oxygen, and twice the number of hydrogen atoms. A single carat diamond with a mass of 2×10−4 kg contains about 10 sextillion (10^22^) atoms of carbon. If an apple were magnified to the size of the Earth, then an atom would be approximately the size of the original apple.
+
+## Element
+
+In chemistry, an element is a pure substance which cannot be broken down by chemical means, consisting of atoms which have identical numbers of protons in their atomic nuclei. The number of protons in the nucleus is the defining property of an element, and is referred to as the atomic number (represented by the symbol Z). The mass number is the sum of the number of protons and neutrons in a nucleus. Although all the nuclei of all atoms belonging to one element will have the same atomic number, they may not necessarily have the same mass number; atoms of an element which have different mass numbers are known as isotopes. For example, all atoms with 6 protons in their nuclei are atoms of the chemical element carbon, but atoms of carbon may have mass numbers of 12 or 13.
+
+The standard presentation of the chemical elements is in the periodic table, which orders elements by atomic number. The periodic table is arranged in groups, or columns, and periods, or rows.
+
+In total, 118 elements have been identified. The first 94 occur naturally on Earth, and the remaining 24 are synthetic elements produced in nuclear reactions.
+
+## The Periodic Table
+
+The [periodic table](https://en.wikipedia.org/wiki/Periodic_table), also known as the periodic table of elements, is a tabular display of the chemical elements, which are arranged by atomic number, electron configuration, and recurring chemical properties. The structure of the table shows periodic trends. The seven rows of the table, called periods, generally have metals on the left and nonmetals on the right. The columns, called groups, contain elements with similar chemical behaviours. Six groups have accepted names as well as assigned numbers: for example, group 17 elements are the halogens; and group 18 are the noble gases. Also displayed are four simple rectangular areas or blocks associated with the filling of different atomic orbitals.
+
+(ref:period) [A simple depiction of the periodic table of the elements.](https://commons.wikimedia.org/wiki/File:Simple_Periodic_Table_Chart-en.svg)  
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Simple_Periodic_Table_Chart-en} 
+
+}
+
+\caption{(ref:period)}(\#fig:periodictable)
+\end{figure}
+
+The organization of the periodic table can be used to derive relationships between the various element properties, and also to predict chemical properties and behaviours of undiscovered or newly synthesized elements. Russian chemist Dmitri Mendeleev published the first recognizable periodic table in 1869, developed mainly to illustrate periodic trends of the then-known elements. He also predicted some properties of unidentified elements that were expected to fill gaps within the table. Most of his forecasts proved to be correct. Mendeleev's idea has been slowly expanded and refined with the discovery or synthesis of further new elements and the development of new theoretical models to explain chemical behaviour.
+
+## Compound
 
 A compound is a pure chemical substance composed of more than one element. The properties of a compound bear little similarity to those of its elements. The standard nomenclature of compounds is set by the International Union of Pure and Applied Chemistry (IUPAC). 
 
-### Molecule
+## Molecule
 
 A molecule is the smallest indivisible portion of a pure chemical substance that has its unique set of chemical properties, that is, its potential to undergo a certain set of chemical reactions with other substances. Molecules are typically a set of atoms bound together by covalent bonds, such that the structure is electrically neutral and all valence electrons are paired with other electrons either in bonds or in lone pairs.
 
 Thus, molecules exist as electrically neutral units, unlike ions. When this rule is broken, giving the "molecule" a charge, the result is sometimes named a molecular ion or a polyatomic ion. However, the discrete and separate nature of the molecular concept usually requires that molecular ions be present only in well-separated form, such as a directed beam in a vacuum in a mass spectrometer. Charged polyatomic collections residing in solids (for example, common sulfate or nitrate ions) are generally not considered "molecules" in chemistry. Some molecules contain one or more unpaired electrons, creating radicals. Most radicals are comparatively reactive, but some, such as nitric oxide (NO) can be stable.
-
 
 The "inert" or noble gas elements (helium, neon, argon, krypton, xenon and radon) are composed of lone atoms as their smallest discrete unit, but the other isolated chemical elements consist of either molecules or networks of atoms bonded to each other in some way. Identifiable molecules compose familiar substances such as water, air, and many organic compounds like alcohol, sugar, gasoline, and the various pharmaceuticals.
 
@@ -47,7 +119,21 @@ One of the main characteristics of a molecule is its geometry often called its s
 
 Atoms sticking together in molecules or crystals are said to be bonded with one another. A chemical bond may be visualized as the multipole balance between the positive charges in the nuclei and the negative charges oscillating about them. More than simple attraction and repulsion, the energies and distributions characterize the availability of an electron to bond to another atom.
 
-A chemical bond can be a covalent bond, an ionic bond, a hydrogen bond or just because of Van der Waals force. Each of these kinds of bonds is ascribed to some potential. These potentials create the interactions which hold atoms together in molecules or crystals. In many simple compounds, valence bond theory, the Valence Shell Electron Pair Repulsion model (VSEPR), and the concept of oxidation number can be used to explain molecular structure and composition.
+Chemical bonds between atoms were explained by Gilbert Newton Lewis in 1916, as the interactions between their constituent electrons. As the chemical properties of the elements were known to largely repeat themselves according to the periodic law, in 1919 the American chemist Irving Langmuir suggested that this could be explained if the electrons in an atom were connected or clustered in some manner. Groups of electrons were thought to occupy a set of electron shells about the nucleus.
+
+(ref:bond) [Examples of Lewis dot-style representations of chemical bonds](https://en.wikipedia.org/wiki/Chemical_bond#/media/File:Electron_dot.svg) between carbon (C), hydrogen (H), and oxygen (O). Lewis dot diagrams were an early attempt to describe chemical bonding and are still widely used today. 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Electron_dot} 
+
+}
+
+\caption{(ref:bond)}(\#fig:lewisbond)
+\end{figure}
+
+
+A chemical bond can be a covalent bond, an ionic bond, a hydrogen bond or just because of Van der Waals force. Each of these kinds of bonds is ascribed to some potential. These potentials create the interactions which hold atoms together in molecules or crystals. All bonds can be explained by quantum theory, but, in practice, simplification rules allow chemists to predict the strength, directionality, and polarity of bonds. In many simple compounds, valence bond theory, the Valence Shell Electron Pair Repulsion model (VSEPR), and the concept of oxidation number can be used to explain molecular structure and composition.
 
 An ionic bond is formed when a metal loses one or more of its electrons, becoming a positively charged cation, and the electrons are then gained by the non-metal atom, becoming a negatively charged anion. The two oppositely charged ions attract one another, and the ionic bond is the electrostatic force of attraction between them. For example, sodium (Na), a metal, loses one electron to become an Na^+^ cation while chlorine (Cl), a non-metal, gains this electron to become Cl−. The ions are held together due to electrostatic attraction, and that compound sodium chloride (NaCl), or common table salt, is formed.
 
@@ -55,13 +141,55 @@ In a covalent bond, one or more pairs of valence electrons are shared by two ato
 
 ## Energy
 
+In physics, energy (from the Ancient Greek: ἐνέργεια, romanized: energeia, lit. 'activity, operation') is the quantitative property that must be transferred to an object in order to perform work on, or to heat, the object. Energy is a conserved quantity; the law of conservation of energy states that energy can be converted in form, but not created or destroyed. The SI unit of energy is the joule, which is the energy transferred to an object by the work of moving it a distance of 1 metre against a force of 1 newton.
+
+The American physist [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) said during a 1961 lecture:
+
+>There is a fact, or if you wish, a law, governing all natural phenomena that are known to date. There is no known exception to this law – it is exact so far as we know. The law is called the conservation of energy. It states that there is a certain quantity, which we call energy, that does not change in manifold changes which nature undergoes. That is a most abstract idea, because it is a mathematical principle; it says that there is a numerical quantity which does not change when something happens. It is not a description of a mechanism, or anything concrete; it is just a strange fact that we can calculate some number and when we finish watching nature go through her tricks and calculate the number again, it is the same.
+        
+>— The Feynman Lectures on Physics
+
+Common forms of energy include the kinetic energy of a moving object, the potential energy stored by an object's position in a force field (gravitational, electric or magnetic), the elastic energy stored by stretching solid objects, the chemical energy released when a fuel burns, the radiant energy carried by light, and the thermal energy due to an object's temperature.
+
+Mass and energy are closely related. Due to mass–energy equivalence, any object that has mass when stationary (called rest mass) also has an equivalent amount of energy whose form is called rest energy, and any additional energy (of any form) acquired by the object above that rest energy will increase the object's total mass just as it increases its total energy. For example, after heating an object, its increase in energy could be measured as a small increase in mass, with a sensitive enough scale.
+
+Living organisms require energy to stay alive, such as the energy humans get from food. Human civilization requires energy to function, which it gets from energy resources such as fossil fuels, nuclear fuel, or renewable energy. The processes of Earth's climate and ecosystem are driven by the radiant energy Earth receives from the sun and the geothermal energy contained within the earth.
+
+(ref:energ) [Basic overview of energy and human life.](https://commons.wikimedia.org/wiki/File:Energy_and_life.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Energy_and_life} 
+
+}
+
+\caption{(ref:energ)}(\#fig:energylife)
+\end{figure}
+
+In 1843, Joule independently discovered the mechanical equivalent of heat (energy) in a series of experiments. The most famous of them used the "Joule apparatus": a descending weight, attached to a string, caused rotation of a paddle immersed in water, practically insulated from heat transfer. It showed that the gravitational potential energy lost by the weight in descending was equal to the internal energy gained by the water through friction with the paddle.
+
+(ref:joule) [Joule's apparatus for measuring the mechanical equivalent of heat. A descending weight attached to a string causes a paddle immersed in water to rotate.](https://commons.wikimedia.org/wiki/File:Joule%27s_Apparatus_(Harper%27s_Scan).png) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Joules_Apparatus_Harpers_Scan} 
+
+}
+
+\caption{(ref:joule)}(\#fig:jouleapparatus)
+\end{figure}
+
+In the International System of Units (SI), the unit of energy is the joule, named after James Prescott Joule. It is a derived unit. It is equal to the energy expended (or work done) in applying a force of one newton through a distance of one metre. However energy is also expressed in many other units not part of the SI, such as ergs, calories, British Thermal Units, kilowatt-hours and kilocalories, which require a conversion factor when expressed in SI units.
+
+The SI unit of energy rate (energy per unit time) is the watt, which is a joule per second. Thus, one joule is one watt-second, and 3600 joules equal one watt-hour. The CGS energy unit is the erg and the imperial and US customary unit is the foot pound. Other energy units such as the electronvolt, food calorie or thermodynamic kcal (based on the temperature change of water in a heating process), and BTU are used in specific areas of science and commerce.
+
 In the context of chemistry, energy is an attribute of a substance as a consequence of its atomic, molecular or aggregate structure. Since a chemical transformation is accompanied by a change in one or more of these kinds of structures, it is invariably accompanied by an increase or decrease of energy of the substances involved. Some energy is transferred between the surroundings and the reactants of the reaction in the form of heat or light; thus the products of a reaction may have more or less energy than the reactants.
 
 A reaction is said to be exergonic if the final state is lower on the energy scale than the initial state; in the case of endergonic reactions the situation is the reverse. A reaction is said to be exothermic if the reaction releases heat to the surroundings; in the case of endothermic reactions, the reaction absorbs heat from the surroundings.
 
-Chemical reactions are invariably not possible unless the reactants surmount an energy barrier known as the activation energy. The speed of a chemical reaction (at given temperature T) is related to the activation energy E, by the Boltzmann's population factor $ e^{-E/kT} $ – that is the probability of a molecule to have energy greater than or equal to E at the given temperature T. This exponential dependence of a reaction rate on temperature is known as the Arrhenius equation. The activation energy necessary for a chemical reaction to occur can be in the form of heat, light, electricity or mechanical force in the form of ultrasound.
+Chemical reactions are invariably not possible unless the reactants surmount an energy barrier known as the activation energy. The speed of a chemical reaction (at given temperature T) is related to the activation energy E, by the Boltzmann's population factor $$ e^{-E/kT} $$ – that is the probability of a molecule to have energy greater than or equal to E at the given temperature T. This exponential dependence of a reaction rate on temperature is known as the Arrhenius equation. The activation energy necessary for a chemical reaction to occur can be in the form of heat, light, electricity or mechanical force in the form of ultrasound.
 
-A related concept free energy, which also incorporates entropy considerations, is a very useful means for predicting the feasibility of a reaction and determining the state of equilibrium of a chemical reaction, in chemical thermodynamics. A reaction is feasible only if the total change in the Gibbs free energy is negative, $ \Delta G \leq 0 $ if it is equal to zero the chemical reaction is said to be at equilibrium.
+A related concept free energy, which also incorporates entropy considerations, is a very useful means for predicting the feasibility of a reaction and determining the state of equilibrium of a chemical reaction, in chemical thermodynamics. A reaction is feasible only if the total change in the Gibbs free energy is negative, $$ \Delta G \leq 0 $$ if it is equal to zero the chemical reaction is said to be at equilibrium.
 
 There exist only limited possible states of energy for electrons, atoms and molecules. These are determined by the rules of quantum mechanics, which require quantization of energy of a bound system. The atoms/molecules in a higher energy state are said to be excited. The molecules/atoms of substance in an excited energy state are often much more reactive; that is, more amenable to chemical reactions.
 
@@ -73,15 +201,144 @@ Chemical reactions can result in the formation or dissociation of molecules, tha
 
 A chemical reaction can be symbolically depicted through a chemical equation. While in a non-nuclear chemical reaction the number and kind of atoms on both sides of the equation are equal, for a nuclear reaction this holds true only for the nuclear particles viz. protons and neutrons.
 
+## Ions And Salts
+
+An ion is a charged species, an atom or a molecule, that has lost or gained one or more electrons. When an atom loses an electron and thus has more protons than electrons, the atom is a positively charged ion or cation. When an atom gains an electron and thus has more electrons than protons, the atom is a negatively charged ion or anion. Cations and anions can form a crystalline lattice of neutral salts, such as the Na^+^ and Cl^−^ ions forming sodium chloride, or NaCl. Examples of polyatomic ions that do not split up during acid-base reactions are hydroxide (OH^−^) and phosphate (PO~4~^3−^).
+
+Plasma is composed of gaseous matter that has been completely ionized, usually through high temperature.
+
+## Acids And Bases
+
+A substance can often be classified as an acid or a base. There are several different theories which explain acid-base behavior. The simplest is Arrhenius theory, which states that acid is a substance that produces hydronium ions when it is dissolved in water, and a base is one that produces hydroxide ions when dissolved in water. According to Brønsted–Lowry acid-base theory, acids are substances that donate a positive hydrogen ion to another substance in a chemical reaction; by extension, a base is the substance which receives that hydrogen ion.
+
+A third common theory is Lewis acid-base theory, which is based on the formation of new chemical bonds. Lewis theory explains that an acid is a substance which is capable of accepting a pair of electrons from another substance during the process of bond formation, while a base is a substance which can provide a pair of electrons to form a new bond. According to this theory, the crucial things being exchanged are charges. There are several other ways in which a substance may be classified as an acid or a base, as is evident in the history of this concept.
+
+Acid strength is commonly measured by two methods. One measurement, based on the Arrhenius definition of acidity, is pH. The other measurement, based on the Brønsted–Lowry definition, is the acid dissociation constant (K~a~), which measures the relative ability of a substance to act as an acid under the Brønsted–Lowry definition of an acid. That is, substances with a higher K~a~ are more likely to donate hydrogen ions in chemical reactions than those with lower K~a~ values.
+
+In chemistry, pH ("potential of hydrogen" or "power of hydrogen) is a scale used to specify the acidity or basicity of an aqueous solution. Lower pH values correspond to solutions which are more acidic in nature, while higher values correspond to solutions which are more basic or alkaline. At room temperature (25 °C or 77 °F), pure water is neutral (neither acidic nor basic) and has a pH of 7.
+
+The pH scale is logarithmic and inversely indicates the concentration of hydrogen ions in the solution (a lower pH indicates a higher concentration of hydrogen ions). This is because the formula used to calculate pH approximates the negative of the base 10 logarithm of the molar concentration[a] of hydrogen ions in the solution. More precisely, pH is the negative of the base 10 logarithm of the activity of the hydrogen ion:
+
+$$pH = - \log_{10} [H_3O^+]$$
+
+At 25 °C, solutions with a pH less than 7 are acidic, and solutions with a pH greater than 7 are basic. The neutral value of the pH depends on the temperature, being lower than 7 if the temperature increases. The pH value can be less than 0 for very strong acids, or greater than 14 for very strong bases.
+
+\begin{table}[!h]
+
+\caption{(\#tab:solutions)Average values of pH in common solutions}
+\centering
+\begin{tabular}[t]{lcl}
+\toprule
+Substance & pH Range & Type\\
+\midrule
+\rowcolor{gray!6}  Battery acid & < 1 & Acid\\
+Gastric acid & 1.0 – 1.5 & Acid\\
+\rowcolor{gray!6}  Vinegar & 2.5 & Acid\\
+Orange juice & 3.3 – 4.2 & Acid\\
+\rowcolor{gray!6}  Black coffee & 5 – 5.03 & Acid\\
+\addlinespace
+Milk & 6.5 – 6.8 & Acid\\
+\rowcolor{gray!6}  Pure water & 7 & Neutral\\
+Sea water & 7.5 – 8.4 & Base\\
+\rowcolor{gray!6}  Ammonia & 11.0 – 11.5 & Base\\
+Bleach & 12.5 & Base\\
+\addlinespace
+\rowcolor{gray!6}  Lye & 13.0 – 13. & Base\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The pH of different cellular compartments, body fluids, and organs is usually tightly regulated in a process called acid-base homeostasis. The most common disorder in acid-base homeostasis is acidosis, which means an acid overload in the body, generally defined by pH falling below 7.35. Alkalosis is the opposite condition, with blood pH being excessively high.
+
+The pH of blood is usually slightly basic with a value of pH 7.365. This value is often referred to as physiological pH in biology and medicine. Plaque can create a local acidic environment that can result in tooth decay by demineralization. Enzymes and other proteins have an optimum pH range and can become inactivated or denatured outside this range.
+
+\begin{table}[!h]
+
+\caption{(\#tab:pH)Values of pH in living systems}
+\centering
+\begin{tabular}[t]{lc}
+\toprule
+Compartment & ph\\
+\midrule
+\rowcolor{gray!6}  Gastric acid & 1.5-3.5\\
+Lysosomes & 4.5\\
+\rowcolor{gray!6}  Human skin & 4.7\\
+Granules of chromaffin cells & 5.5\\
+\rowcolor{gray!6}  Urine & 6\\
+\addlinespace
+Cytosol & 7.2\\
+\rowcolor{gray!6}  Blood (natural pH) & 7.34–7.45\\
+Cerebrospinal fluid (CSF) & 7.5\\
+\rowcolor{gray!6}  Mitochondrial matrix & 7.5\\
+Pancreas secretions & 8.1\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Many biologically important molecules are acids. Nucleic acids, which contain acidic phosphate groups, include DNA and RNA. Nucleic acids contain the genetic code that determines many of an organism's characteristics, and is passed from parents to offspring. DNA contains the chemical blueprint for the synthesis of proteins which are made up of amino acid subunits. Cell membranes contain fatty acid esters such as phospholipids.
+
+An α-amino acid has a central carbon (the α or alpha carbon) which is covalently bonded to a carboxyl group (thus they are carboxylic acids), an amino group, a hydrogen atom and a variable group. The variable group, also called the R group or side chain, determines the identity and many of the properties of a specific amino acid. In glycine, the simplest amino acid, the R group is a hydrogen atom, but in all other amino acids it is contains one or more carbon atoms bonded to hydrogens, and may contain other elements such as sulfur, oxygen or nitrogen. With the exception of glycine, naturally occurring amino acids are chiral and almost invariably occur in the L-configuration. Peptidoglycan, found in some bacterial cell walls contains some D-amino acids. At physiological pH, typically around 7, free amino acids exist in a charged form, where the acidic carboxyl group (-COOH) loses a proton (-COO−) and the basic amine group (-NH2) gains a proton (-NH+
+3). The entire molecule has a net neutral charge and is a zwitterion, with the exception of amino acids with basic or acidic side chains. Aspartic acid, for example, possesses one protonated amine and two deprotonated carboxyl groups, for a net charge of −1 at physiological pH.
+
+Fatty acids and fatty acid derivatives are another group of carboxylic acids that play a significant role in biology. These contain long hydrocarbon chains and a carboxylic acid group on one end. The cell membrane of nearly all organisms is primarily made up of a phospholipid bilayer, a micelle of hydrophobic fatty acid esters with polar, hydrophilic phosphate "head" groups. Membranes contain additional components, some of which can participate in acid-base reactions.
+
+In humans and many other animals, hydrochloric acid is a part of the gastric acid secreted within the stomach to help hydrolyze proteins and polysaccharides, as well as converting the inactive pro-enzyme, pepsinogen into the enzyme, pepsin. Some organisms produce acids for defense; for example, ants produce formic acid.
+
+Acid-base equilibrium plays a critical role in regulating mammalian breathing. Oxygen gas (O~2~) drives cellular respiration, the process by which animals release the chemical potential energy stored in food, producing carbon dioxide (CO~2~) as a byproduct. Oxygen and carbon dioxide are exchanged in the lungs, and the body responds to changing energy demands by adjusting the rate of ventilation. For example, during periods of exertion the body rapidly breaks down stored carbohydrates and fat, releasing CO~2~ into the blood stream. In aqueous solutions such as blood CO~2~ exists in equilibrium with carbonic acid and bicarbonate ion.
+
+CO~2~ + H~2~O ⇌ H~2~CO~3~ ⇌ H^+^ + HCO~3~^−^
+
+It is the decrease in pH that signals the brain to breathe faster and deeper, expelling the excess CO~2~ and resupplying the cells with O~2~.
+
+Cell membranes are generally impermeable to charged or large, polar molecules because of the lipophilic fatty acyl chains comprising their interior. Many biologically important molecules, including a number of pharmaceutical agents, are organic weak acids which can cross the membrane in their protonated, uncharged form but not in their charged form (i.e. as the conjugate base). For this reason the activity of many drugs can be enhanced or inhibited by the use of antacids or acidic foods. The charged form, however, is often more soluble in blood and cytosol, both aqueous environments. When the extracellular environment is more acidic than the neutral pH within the cell, certain acids will exist in their neutral form and will be membrane soluble, allowing them to cross the phospholipid bilayer. Acids that lose a proton at the intracellular pH will exist in their soluble, charged form and are thus able to diffuse through the cytosol to their target. Ibuprofen, aspirin and penicillin are examples of drugs that are weak acids.
+
+## Redox
+
+Redox (reduction-oxidation) reactions include all chemical reactions in which atoms have their oxidation state changed by either gaining electrons (reduction) or losing electrons (oxidation). Substances that have the ability to oxidize other substances are said to be oxidative and are known as oxidizing agents, oxidants or oxidizers. An oxidant removes electrons from another substance. Similarly, substances that have the ability to reduce other substances are said to be reductive and are known as reducing agents, reductants, or reducers. The chemical species from which the electron is removed is said to have been oxidized, while the chemical species to which the electron is added is said to have been reduced. In other words:
+
+* Oxidation is the loss of electrons or an increase in the oxidation state of an atom, an ion, or of certain atoms in a molecule.
+* Reduction is the gain of electrons or a decrease in the oxidation state of an atom, an ion, or of certain atoms in a molecule.
+
+
+"Redox" is a portmanteau of the words "reduction" and "oxidation". The word oxidation originally implied reaction with oxygen to form an oxide, since dioxygen (O~2~)(g)) was historically the first recognized oxidizing agent. Later, the term was expanded to encompass oxygen-like substances that accomplished parallel chemical reactions. Ultimately, the meaning was generalized to include all processes involving loss of electrons.
+
+The word reduction originally referred to the loss in weight upon heating a metallic ore such as a metal oxide to extract the metal. In other words, ore was "reduced" to metal. Antoine Lavoisier showed that this loss of weight was due to the loss of oxygen as a gas. Later, scientists realized that the metal atom gains electrons in this process. The meaning of reduction then became generalized to include all processes involving a gain of electrons.
+
+The term "hydrogenation" could often be used instead of reduction, since hydrogen is the reducing agent in a large number of reactions, especially in organic chemistry and biochemistry. But, unlike oxidation, which has been generalized beyond its root element, hydrogenation has maintained its specific connection to reactions that add hydrogen to another substance (e.g., the hydrogenation of unsaturated fats into saturated fats, R−CH=CH−R + H~2~ → R−CH~2~−CH~2~    −R). The word "redox" was first used in 1928.
+
+
+Many reactions in organic chemistry are redox reactions due to changes in oxidation states but without distinct electron transfer. For example, during the combustion of wood with molecular oxygen, the oxidation state of carbon atoms in the wood increases and that of oxygen atoms decreases as carbon dioxide and water are formed. The oxygen atoms undergo reduction, formally gaining electrons, while the carbon atoms undergo oxidation, losing electrons. Thus oxygen is the oxidizing agent and carbon is the reducing agent in this reaction.
+
+Although oxidation reactions are commonly associated with the formation of oxides from oxygen molecules, oxygen is not necessarily included in such reactions, as other chemical species can serve the same function.
+
+Redox reactions can occur relatively slowly, as in the formation of rust, or much more rapidly, as in the case of burning fuel. There are simple redox processes, such as the oxidation of carbon to yield carbon dioxide (CO~2~) or the reduction of carbon by hydrogen to yield methane (CH4), and more complex processes such as the oxidation of glucose (C~6~H~12~O~6~) in the human body. Analysis of bond energies and ionization energies in water allow calculation of the redox potentials.
+
+A reductant transfers electrons to another substance and is thus oxidized itself. And because it "donates" electrons it is also called an electron donor. Oxidation and reduction properly refer to a change in oxidation number—the actual transfer of electrons may never occur. Thus, oxidation is better defined as an increase in oxidation number, and reduction as a decrease in oxidation number.
+
+Many important biological processes involve redox reactions.
+
+Cellular respiration, for instance, is the oxidation of glucose (C~6~H~12~O~6~) to CO~2~ and the reduction of oxygen to water. The summary equation for cell respiration is:
+
+C~6~H~12~O~6~ + 6 O~2~) → 6 CO~2~ + 6 H~2~0
+The process of cell respiration also depends heavily on the reduction of NAD^+^ to NADH and the reverse reaction (the oxidation of NADH to NAD^+^). Photosynthesis and cellular respiration are complementary, but photosynthesis is not the reverse of the redox reaction in cell respiration:
+
+6 CO~2~  + 6 H~2~O + light energy → C~6~H~12~O~6~ + 6 O~2~)
+
+Biological energy is frequently stored and released by means of redox reactions. Photosynthesis involves the reduction of carbon dioxide into sugars and the oxidation of water into molecular oxygen. The reverse reaction, respiration, oxidizes sugars to produce carbon dioxide and water. As intermediate steps, the reduced carbon compounds are used to reduce nicotinamide adenine dinucleotide (NAD^+^) to NADH, which then contributes to the creation of a proton gradient, which drives the synthesis of adenosine triphosphate (ATP) and is maintained by the reduction of oxygen. In animal cells, mitochondria perform similar functions. See the Membrane potential article.
+
+Free radical reactions are redox reactions that occur as a part of homeostasis and killing microorganisms, where an electron detaches from a molecule and then reattaches almost instantaneously. Free radicals are a part of redox molecules and can become harmful to the human body if they do not reattach to the redox molecule or an antioxidant. Unsatisfied free radicals can spur the mutation of cells they encounter and are, thus, causes of cancer.
+
+The term redox state is often used to describe the balance of GSH/GSSG, NAD+/NADH and NADP+/NADPH in a biological system such as a cell or organ. The redox state is reflected in the balance of several sets of metabolites (e.g., lactate and pyruvate, beta-hydroxybutyrate, and acetoacetate), whose interconversion is dependent on these ratios. An abnormal redox state can develop in a variety of deleterious situations, such as hypoxia, shock, and sepsis. Redox mechanism also control some cellular processes. Redox proteins and their genes must be co-located for redox regulation according to the CoRR hypothesis for the function of DNA in mitochondria and chloroplasts.
+
 ## Water
 
 Water is an inorganic, transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's hydrosphere and the fluids of all known living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients. Its chemical formula is H~2~O, meaning that each of its molecules contains one oxygen and two hydrogen atoms, connected by covalent bonds.
 
 From a biological standpoint, water has many distinct properties that are critical for the proliferation of life. It carries out this role by allowing organic compounds to react in ways that ultimately allow replication. All known forms of life depend on water. Water is vital both as a solvent in which many of the body's solutes dissolve and as an essential part of many metabolic processes within the body. Metabolism is the sum total of anabolism and catabolism. In anabolism, water is removed from molecules (through energy requiring enzymatic chemical reactions) in order to grow larger molecules (e.g., starches, triglycerides and proteins for storage of fuels and information). In catabolism, water is used to break bonds in order to generate smaller molecules (e.g., glucose, fatty acids and amino acids to be used for fuels for energy use or other purposes). Without water, these particular metabolic processes could not exist.
 
-Water is fundamental to photosynthesis and respiration. Photosynthetic cells use the sun's energy to split off water's hydrogen from oxygen. Hydrogen is combined with CO~2~ (absorbed from air or water) to form glucose and release oxygen.[citation needed] All living cells use such fuels and oxidize the hydrogen and carbon to capture the sun's energy and reform water and CO~2~ in the process (cellular respiration).
+Water is fundamental to photosynthesis and respiration. Photosynthetic cells use the sun's energy to split off water's hydrogen from oxygen. Hydrogen is combined with CO~2~ (absorbed from air or water) to form glucose and release oxygen. All living cells use such fuels and oxidize the hydrogen and carbon to capture the sun's energy and reform water and CO~2~ in the process (cellular respiration).
 
-Water is also central to acid-base neutrality and enzyme function. An acid, a hydrogen ion (H+, that is, a proton) donor, can be neutralized by a base, a proton acceptor such as a hydroxide ion (OH−) to form water. Water is considered to be neutral, with a pH (the negative log of the hydrogen ion concentration) of 7. Acids have pH values less than 7 while bases have values greater than 7.
+Water is also central to acid-base neutrality and enzyme function. An acid, a hydrogen ion (H+, that is, a proton) donor, can be neutralized by a base, a proton acceptor such as a hydroxide ion (OH−) to form water. Water is considered to be neutral, with a pH  of 7. Acids have pH values less than 7 while bases have values greater than 7.
 
 Earth surface waters are filled with life. The earliest life forms appeared in water; nearly all fish live exclusively in water, and there are many types of marine mammals, such as dolphins and whales. Some kinds of animals, such as amphibians, spend portions of their lives in water and portions on land. Plants such as kelp and algae grow in the water and are the basis for some underwater ecosystems. Plankton is generally the foundation of the ocean food chain.
 
@@ -113,6 +370,17 @@ Many organic substances (such as fats and oils and alkanes) are hydrophobic, tha
 
 Because of its polarity, a molecule of water in the liquid or solid state can form up to four hydrogen bonds with neighboring molecules. Hydrogen bonds are about ten times as strong as the Van der Waals force that attracts molecules to each other in most liquids. This is the reason why the melting and boiling points of water are much higher than those of other analogous compounds like hydrogen sulfide. They also explain its exceptionally high specific heat capacity (about 4.2 J/g/K), heat of fusion (about 333 J/g), heat of vaporization (2257 J/g), and thermal conductivity (between 0.561 and 0.679 W/m/K). These properties make water more effective at moderating Earth's climate, by storing heat and transporting it between the oceans and the atmosphere. The hydrogen bonds of water are around 23 kJ/mol (compared to a covalent O-H bond at 492 kJ/mol). Of this, it is estimated that 90% is attributable to electrostatics, while the remaining 10% is partially covalent.
 
+(ref:water) [Model of hydrogen bonds (1) between molecules of water.](https://commons.wikimedia.org/wiki/File:3D_model_hydrogen_bonds_in_water.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/3D_model_hydrogen_bonds_in_water} 
+
+}
+
+\caption{(ref:water)}(\#fig:waterbonds)
+\end{figure}
+
 These bonds are the cause of water's high surface tension and capillary forces. The capillary action refers to the tendency of water to move up a narrow tube against the force of gravity. This property is relied upon by all vascular plants, such as trees.
 
 Water is a weak solution of hydronium hydroxide - there is an equilibrium 2H~2~O  ⇆
@@ -123,54 +391,4 @@ Pure water has a low electrical conductivity, which increases with the dissoluti
 Liquid water can be split into the elements hydrogen and oxygen by passing an electric current through it—a process called electrolysis. The decomposition requires more energy input than the heat released by the inverse process (285.8 kJ/mol, or 15.9 MJ/kg).
 
 
-## Ions And Salts
 
-An ion is a charged species, an atom or a molecule, that has lost or gained one or more electrons. When an atom loses an electron and thus has more protons than electrons, the atom is a positively charged ion or cation. When an atom gains an electron and thus has more electrons than protons, the atom is a negatively charged ion or anion. Cations and anions can form a crystalline lattice of neutral salts, such as the Na^+^ and Cl^−^ ions forming sodium chloride, or NaCl. Examples of polyatomic ions that do not split up during acid-base reactions are hydroxide (OH^−^) and phosphate (PO~4~^3−^).
-
-Plasma is composed of gaseous matter that has been completely ionized, usually through high temperature.
-
-## Acids And Bases
-
-A substance can often be classified as an acid or a base. There are several different theories which explain acid-base behavior. The simplest is Arrhenius theory, which states that acid is a substance that produces hydronium ions when it is dissolved in water, and a base is one that produces hydroxide ions when dissolved in water. According to Brønsted–Lowry acid-base theory, acids are substances that donate a positive hydrogen ion to another substance in a chemical reaction; by extension, a base is the substance which receives that hydrogen ion.
-
-A third common theory is Lewis acid-base theory, which is based on the formation of new chemical bonds. Lewis theory explains that an acid is a substance which is capable of accepting a pair of electrons from another substance during the process of bond formation, while a base is a substance which can provide a pair of electrons to form a new bond. According to this theory, the crucial things being exchanged are charges. There are several other ways in which a substance may be classified as an acid or a base, as is evident in the history of this concept.
-
-Acid strength is commonly measured by two methods. One measurement, based on the Arrhenius definition of acidity, is pH, which is a measurement of the hydronium ion concentration in a solution, as expressed on a negative logarithmic scale. Thus, solutions that have a low pH have a high hydronium ion concentration and can be said to be more acidic. The other measurement, based on the Brønsted–Lowry definition, is the acid dissociation constant (Ka), which measures the relative ability of a substance to act as an acid under the Brønsted–Lowry definition of an acid. That is, substances with a higher Ka are more likely to donate hydrogen ions in chemical reactions than those with lower Ka values.
-
-## Redox
-
-Redox (reduction-oxidation) reactions include all chemical reactions in which atoms have their oxidation state changed by either gaining electrons (reduction) or losing electrons (oxidation). Substances that have the ability to oxidize other substances are said to be oxidative and are known as oxidizing agents, oxidants or oxidizers. An oxidant removes electrons from another substance. Similarly, substances that have the ability to reduce other substances are said to be reductive and are known as reducing agents, reductants, or reducers. The chemical species from which the electron is removed is said to have been oxidized, while the chemical species to which the electron is added is said to have been reduced. In other words:
-
-* Oxidation is the loss of electrons or an increase in the oxidation state of an atom, an ion, or of certain atoms in a molecule.
-* Reduction is the gain of electrons or a decrease in the oxidation state of an atom, an ion, or of certain atoms in a molecule.
-
-
-"Redox" is a portmanteau of the words "reduction" and "oxidation". The word oxidation originally implied reaction with oxygen to form an oxide, since dioxygen (O2)(g)) was historically the first recognized oxidizing agent. Later, the term was expanded to encompass oxygen-like substances that accomplished parallel chemical reactions. Ultimately, the meaning was generalized to include all processes involving loss of electrons.
-
-The word reduction originally referred to the loss in weight upon heating a metallic ore such as a metal oxide to extract the metal. In other words, ore was "reduced" to metal. Antoine Lavoisier showed that this loss of weight was due to the loss of oxygen as a gas. Later, scientists realized that the metal atom gains electrons in this process. The meaning of reduction then became generalized to include all processes involving a gain of electrons.
-
-The term "hydrogenation" could often be used instead of reduction, since hydrogen is the reducing agent in a large number of reactions, especially in organic chemistry and biochemistry. But, unlike oxidation, which has been generalized beyond its root element, hydrogenation has maintained its specific connection to reactions that add hydrogen to another substance (e.g., the hydrogenation of unsaturated fats into saturated fats, R−CH=CH−R + H~2~ → R−CH~2~−CH~2~    −R). The word "redox" was first used in 1928.
-
-
-Many reactions in organic chemistry are redox reactions due to changes in oxidation states but without distinct electron transfer. For example, during the combustion of wood with molecular oxygen, the oxidation state of carbon atoms in the wood increases and that of oxygen atoms decreases as carbon dioxide and water are formed. The oxygen atoms undergo reduction, formally gaining electrons, while the carbon atoms undergo oxidation, losing electrons. Thus oxygen is the oxidizing agent and carbon is the reducing agent in this reaction.
-
-Although oxidation reactions are commonly associated with the formation of oxides from oxygen molecules, oxygen is not necessarily included in such reactions, as other chemical species can serve the same function.
-
-Redox reactions can occur relatively slowly, as in the formation of rust, or much more rapidly, as in the case of burning fuel. There are simple redox processes, such as the oxidation of carbon to yield carbon dioxide (CO~2~) or the reduction of carbon by hydrogen to yield methane (CH4), and more complex processes such as the oxidation of glucose (C~6~H~12~O~6~) in the human body. Analysis of bond energies and ionization energies in water allow calculation of the redox potentials.
-
-A reductant transfers electrons to another substance and is thus oxidized itself. And because it "donates" electrons it is also called an electron donor. Oxidation and reduction properly refer to a change in oxidation number—the actual transfer of electrons may never occur. Thus, oxidation is better defined as an increase in oxidation number, and reduction as a decrease in oxidation number.
-
-Many important biological processes involve redox reactions.
-
-Cellular respiration, for instance, is the oxidation of glucose (C~6~H~12~O~6~) to CO~2~ and the reduction of oxygen to water. The summary equation for cell respiration is:
-
-C~6~H~12~O~6~ + 6 O~2~) → 6 CO~2~ + 6 H~2~0
-The process of cell respiration also depends heavily on the reduction of NAD^+^ to NADH and the reverse reaction (the oxidation of NADH to NAD^+^). Photosynthesis and cellular respiration are complementary, but photosynthesis is not the reverse of the redox reaction in cell respiration:
-
-6 CO~2~  + 6 H~2~O + light energy → C~6~H~12~O~6~ + 6 O~2~)
-
-Biological energy is frequently stored and released by means of redox reactions. Photosynthesis involves the reduction of carbon dioxide into sugars and the oxidation of water into molecular oxygen. The reverse reaction, respiration, oxidizes sugars to produce carbon dioxide and water. As intermediate steps, the reduced carbon compounds are used to reduce nicotinamide adenine dinucleotide (NAD^+^) to NADH, which then contributes to the creation of a proton gradient, which drives the synthesis of adenosine triphosphate (ATP) and is maintained by the reduction of oxygen. In animal cells, mitochondria perform similar functions. See the Membrane potential article.
-
-Free radical reactions are redox reactions that occur as a part of homeostasis and killing microorganisms, where an electron detaches from a molecule and then reattaches almost instantaneously. Free radicals are a part of redox molecules and can become harmful to the human body if they do not reattach to the redox molecule or an antioxidant. Unsatisfied free radicals can spur the mutation of cells they encounter and are, thus, causes of cancer.
-
-The term redox state is often used to describe the balance of GSH/GSSG, NAD+/NADH and NADP+/NADPH in a biological system such as a cell or organ. The redox state is reflected in the balance of several sets of metabolites (e.g., lactate and pyruvate, beta-hydroxybutyrate, and acetoacetate), whose interconversion is dependent on these ratios. An abnormal redox state can develop in a variety of deleterious situations, such as hypoxia, shock, and sepsis. Redox mechanism also control some cellular processes. Redox proteins and their genes must be co-located for redox regulation according to the CoRR hypothesis for the function of DNA in mitochondria and chloroplasts.

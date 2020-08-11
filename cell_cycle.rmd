@@ -102,6 +102,12 @@ The word chromosome comes from the Greek χρῶμα (chroma, "colour") and σ�
 
 Chromosomes are normally visible under a light microscope only when the cell is undergoing cell division. Before this happens, every chromosome is copied once (S phase), and the copy is joined to the original by a centromere, resulting either in an X-shaped structure if the centromere is located in the middle of the chromosome or a two-arm structure if the centromere is located near one of the ends. The original chromosome and the copy are now called sister chromatids. During metaphase the X-shape structure is called a metaphase chromosome. In this highly condensed form chromosomes are easiest to distinguish and study. In animal cells, chromosomes reach their highest compaction level in anaphase during chromosome segregation.
 
+(ref:karyo) [The karyotype of a normal human male consisting of 22 pairs of autosomes and 2 sex chromosomes (one x and one y chromosome).](https://commons.wikimedia.org/wiki/File:NHGRI_human_male_karyotype.png) The karyotype is the characteristic chromosome complement of a eukaryote species. 
+
+```{r karyotype, fig.cap='(ref:karyo)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cellcycle/human_male_karyotype.png")
+```
+
 The prokaryotes – bacteria and archaea – typically have a single circular chromosome, but many variations exist. The chromosomes of most bacteria, which some authors prefer to call genophores, can range in size from only 130,000 base pairs in the endosymbiotic bacteria *Candidatus Hodgkinia cicadicola* and *Candidatus Tremblaya princeps*, to more than 14,000,000 base pairs in the soil-dwelling bacterium *Sorangium cellulosum*. Spirochaetes of the genus Borrelia are a notable exception to this arrangement, with bacteria such as *Borrelia burgdorferi*, the cause of [Lyme disease](https://en.wikipedia.org/wiki/Lyme_disease), containing a single linear chromosome.
 
 Chromosomes in eukaryotes are composed of chromatin fiber. Chromatin fiber is made of nucleosomes (histone octamers with part of a DNA strand attached to and wrapped around it). Chromatin fibers are packaged by proteins into a condensed structure called chromatin. Chromatin contains the vast majority of DNA, but a small amount inherited maternally, can be found in the mitochondria. Chromatin is present in most cells, with a few exceptions, for example, red blood cells.

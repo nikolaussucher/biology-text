@@ -11,36 +11,20 @@ The protists were understood to be "primitive forms", and thus an evolutionary g
 
 A revised classification in 2012 recognizes five supergroups of eukaryotes as shown in Table \@ref(tab:eukaryote).
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Supergroup Name </th>
-   <th style="text-align:left;"> Organisms </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> Archaeplastida (or Primoplantae) </td>
-   <td style="text-align:left;"> Land plants, green algae, red algae, and glaucophytes </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SAR supergroup </td>
-   <td style="text-align:left;"> Stramenopiles (brown algae, diatoms, etcetera), Alveolata, and Rhizaria (Foraminifera, Radiolaria, and various other amoeboid protozoa) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Excavata </td>
-   <td style="text-align:left;"> Various flagellate protozoa </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Amoebozoa </td>
-   <td style="text-align:left;"> Most lobose amoeboids and slime molds </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Opisthokonta </td>
-   <td style="text-align:left;"> Animals, fungi, choanoflagellates, etcetera </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+\centering
+\begin{tabular}{ll}
+\toprule
+Supergroup Name & Organisms\\
+\midrule
+\rowcolor{gray!6}  Archaeplastida (or Primoplantae) & Land plants, green algae, red algae, and glaucophytes\\
+SAR supergroup & Stramenopiles (brown algae, diatoms, etcetera), Alveolata, and Rhizaria (Foraminifera, Radiolaria, and various other amoeboid protozoa)\\
+\rowcolor{gray!6}  Excavata & Various flagellate protozoa\\
+Amoebozoa & Most lobose amoeboids and slime molds\\
+\rowcolor{gray!6}  Opisthokonta & Animals, fungi, choanoflagellates, etcetera\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 A protist is any eukaryotic organism (one with cells containing a nucleus) that is not an animal, plant, or fungus. While it is likely that protists share a common ancestor (the last eukaryotic common ancestor), the exclusion of other eukaryotes means that protists do not form a natural group, or clade. So some protists may be more closely related to animals, plants, or fungi than they are to other protists; however, like algae, invertebrates, or protozoans, the grouping is used for convenience.
 
@@ -66,30 +50,17 @@ Systematists today do not treat Protista as a formal taxon, but the term "protis
 
 The taxonomy of protists is still changing. Newer classifications attempt to present monophyletic groups based on morphological (especially ultrastructural), biochemical (chemotaxonomy) and DNA sequence (molecular research) information. Because the protists as a whole are paraphyletic, new systems often split up or abandon the kingdom, instead treating the protist groups as separate lines of eukaryotes.
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Nutritional Type </th>
-   <th style="text-align:left;"> Source of Energy </th>
-   <th style="text-align:left;"> Source of Carbon </th>
-   <th style="text-align:left;"> Examples </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;">  Photoautotrophs  </td>
-   <td style="text-align:left;">  Sunlight  </td>
-   <td style="text-align:left;">  Organic compounds or carbon fixation </td>
-   <td style="text-align:left;">  Most algae  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;">  Chemoheterotrophs </td>
-   <td style="text-align:left;">  Organic compounds  </td>
-   <td style="text-align:left;">  Organic compounds  </td>
-   <td style="text-align:left;">  Apicomplexa, Trypanosomes or Amoebae  </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+\centering
+\begin{tabular}{llll}
+\toprule
+Nutritional Type & Source of Energy & Source of Carbon & Examples\\
+\midrule
+\rowcolor{gray!6}   Photoautotrophs  &  Sunlight  &  Organic compounds or carbon fixation &  Most algae \\
+ Chemoheterotrophs &  Organic compounds  &  Organic compounds  &  Apicomplexa, Trypanosomes or Amoebae \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ## Reproduction of Protists
 

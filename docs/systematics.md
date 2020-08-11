@@ -31,10 +31,14 @@ Domains are a relatively new grouping. First proposed in 1977, [Carl Woese's](ht
 
 (ref:classification) [Biological classification.](https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo_vflip.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/systematics/biological_classification.svg" alt="(ref:classification)" width="70%" />
-<p class="caption">(\#fig:classification)(ref:classification)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/systematics/biological_classification} 
+
+}
+
+\caption{(ref:classification)}(\#fig:classification)
+\end{figure}
 
 Biological classification is a critical component of the taxonomic process. As a result, it informs the user as to what the relatives of the taxon are hypothesized to be. Biological classification uses taxonomic ranks, including among others (in order from most inclusive to least inclusive): Domain, Kingdom, Phylum, Class, Order, Family, Genus, and Species
 
@@ -54,10 +58,14 @@ An "authority" may be placed after a scientific name. The authority is the name 
 
 (ref:tree) [The tree of life.](https://commons.wikimedia.org/wiki/File:CollapsedtreeLabels-simplified.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/systematics/tree_of_life.svg" alt="(ref:tree)" width="70%" />
-<p class="caption">(\#fig:tree)(ref:tree)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/systematics/tree_of_life} 
+
+}
+
+\caption{(ref:tree)}(\#fig:tree)
+\end{figure}
 
 Phenetics was an attempt to determine the relationships of organisms through a measure of overall similarity, making no distinction between plesiomorphies (shared ancestral traits) and apomorphies (derived traits). From the late-20th century onwards, it was superseded by cladistics, which rejects plesiomorphies in attempting to resolve the phylogeny of Earth's various organisms through time. Today's systematists generally make extensive use of molecular biology and of computer programs to study organisms.
 
@@ -88,10 +96,14 @@ A [polyphyletic](https://en.wikipedia.org/wiki/Polyphyly) (Greek for "of many ra
 
 (ref:phylogeny) [Phylogenetic groups.](https://commons.wikimedia.org/wiki/File:Phylogenetic-Groups.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/systematics/phylogenetic_groups.svg" alt="(ref:phylogeny)" width="70%" />
-<p class="caption">(\#fig:phylogeny)(ref:phylogeny)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/systematics/phylogenetic_groups} 
+
+}
+
+\caption{(ref:phylogeny)}(\#fig:phylogeny)
+\end{figure}
 
 While some descriptions of taxonomic history attempt to date taxonomy to ancient civilizations, a truly scientific attempt to classify organisms did not occur until the 18th century. Earlier works were primarily descriptive and focused on plants that were useful in agriculture or medicine. There are a number of stages in this scientific thinking. Early taxonomy was based on arbitrary criteria, the so-called "artificial systems", including Linnaeus's system of sexual classification. Later came systems based on a more complete consideration of the characteristics of taxa, referred to as "natural systems", such as those of de Jussieu (1789), de Candolle (1813) and Bentham and Hooker (1862–1863). These were pre-evolutionary in thinking. The publication of Charles Darwin's On the Origin of Species (1859) led to new ways of thinking about classification based on evolutionary relationships. This was the concept of phyletic systems, from 1883 onwards. This approach was typified by those of Eichler (1883) and Engler (1886–1892). The advent of molecular genetics and statistical methodology allowed the creation of the modern era of "phylogenetic systems" based on cladistics, rather than morphology alone.
 

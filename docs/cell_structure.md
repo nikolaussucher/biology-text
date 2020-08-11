@@ -11,7 +11,6 @@ In biology, cell theory is the historic scientific theory, now universally accep
 Credit for developing cell theory is usually given to two scientists: Theodor Schwann and Matthias Jakob Schleiden. While Rudolf Virchow contributed to the theory, he is not as credited for his attributions toward it. In 1839, Schleiden suggested that every structural part of a plant was made up of cells or the result of cells. He also suggested that cells were made by a crystallization process either within other cells or from the outside. However, this was not an original idea of Schleiden. He claimed this theory as his own, though Barthelemy Dumortier had stated it years before him. This crystallization process is no longer accepted with modern cell theory. In 1839, Theodor Schwann states that along with plants, animals are composed of cells or the product of cells in their structures. This was a major advancement in the field of biology since little was known about animal structure up to this point compared to plants. From these conclusions about plants and animals, two of the three tenets of cell theory were postulated.
 
 1. All living organisms are composed of one or more cells
-
 2. The cell is the most basic unit of life
 
 Schleiden's theory of free cell formation through crystallization was refuted in the 1850s by Robert Remak, Rudolf Virchow, and Albert Kolliker. In 1855, Rudolf Virchow added the third tenet to cell theory. In Latin, this tenet states Omnis cellula e cellula. This translated to:
@@ -29,9 +28,43 @@ The generally accepted parts of modern cell theory include:
 1. Cells contain DNA which is found specifically in the chromosome and RNA found in the cell nucleus and cytoplasm.
 1. All cells are basically the same in chemical composition in organisms of similar species.
 
-The discovery of the cell was made possible through the invention of the microscope. In the first century BC, Romans were able to make glass, discovering that objects appeared to be larger under the glass. In Italy during the 12th century, Salvino D’Armate made a piece of glass fit over one eye, allowing for a magnification effect to that eye. The expanded use of lenses in eyeglasses in the 13th century probably led to wider spread use of simple microscopes (magnifying glasses) with limited magnification. Compound microscopes, which combine an objective lens with an eyepiece to view a real image achieving much higher magnification, first appeared in Europe around 1620. In 1665, Robert Hooke used a microscope about six inches long with two convex lenses inside and examined specimens under reflected light for the observations in his book Micrographia. Hooke also used a simpler microscope with a single lens for examining specimens with directly transmitted light, because this allowed for a clearer image.
+The discovery of the cell was made possible through the invention of the microscope. In the first century BC, Romans were able to make glass, discovering that objects appeared to be larger under the glass. In Italy during the 12th century, Salvino D’Armate made a piece of glass fit over one eye, allowing for a magnification effect to that eye. The expanded use of lenses in eyeglasses in the 13th century probably led to wider spread use of simple microscopes (magnifying glasses) with limited magnification. Compound microscopes, which combine an objective lens with an eyepiece to view a real image achieving much higher magnification, first appeared in Europe around 1620. In 1665, [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) used a microscope about six inches long with two convex lenses inside and examined specimens under reflected light for the observations in his book [Micrographia](https://en.wikipedia.org/wiki/Micrographia). Hooke also used a simpler microscope with a single lens for examining specimens with directly transmitted light, because this allowed for a clearer image.
+
+(ref:micrographia) [Title page](https://commons.wikimedia.org/wiki/File:Micrographia_title_page.gif) of "MICROGRAPHIA or some physiological descriptions of minute bodies made by magnifying glasses with observations and inquiries thereupon".
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Micrographia_title_page} 
+
+}
+
+\caption{(ref:micrographia)}(\#fig:hookemicrographia)
+\end{figure}
+
+(ref:microscope) [Hooke's microscope, from an engraving in Micrographia](https://commons.wikimedia.org/wiki/File:Hooke-microscope.png)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Hooke-microscope} 
+
+}
+
+\caption{(ref:microscope)}(\#fig:hookescope)
+\end{figure}
+
+(ref:cork) Hooke was the first to apply the word "cell"to biological objects. [Cell structure of cork by Hooke](https://commons.wikimedia.org/wiki/File:RobertHookeMicrographia1665.jpg). 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/RobertHookeMicrographia1665} 
+
+}
+
+\caption{(ref:cork)}(\#fig:hookecork)
+\end{figure}
 
 Extensive microscopic study was done by Anton van Leeuwenhoek, a draper who took the interest in microscopes after seeing one while on an apprenticeship in Amsterdam in 1648. At some point in his life before 1668, he was able to learn how to grind lenses. This eventually led to Leeuwenhoek making his own unique microscope. His was a single lens simple microscope, rather than a compound microscope. This was because he was able to use a single lens that was a small glass sphere but allowed for a magnification of 270x. This was a large progression since the magnification before was only a maximum of 50x. After Leeuwenhoek, there was not much progress in microscope technology until the 1850s, two hundred years later. Carl Zeiss, a German engineer who manufactured microscopes, began to make changes to the lenses used. But the optical quality did not improve until the 1880s when he hired Otto Schott and eventually Ernst Abbe.
+
 
 Optical microscopes can focus on objects the size of a wavelength or larger, giving restrictions still to advancement in discoveries with objects smaller than the wavelengths of visible light. The development of the electron microscope in the 1920s made it possible to view objects that are smaller than optical wavelengths, once again opening up new possibilities in science.
 
@@ -57,6 +90,17 @@ A prokaryote is a cellular organism that lacks an envelope-enclosed nucleus. The
 
 Prokaryotes lack mitochondria, or any other eukaryotic membrane-bound organelles; and it was once thought that prokayotes lacked cellular compartments, and therefore all cellular components within the cytoplasm were unenclosed, except for an outer cell membrane. But bacterial microcompartments, which are thought to be primitive organelles enclosed in protein shells, have been discovered; and there is also evidence of prokayotic membrane-bound organelles. While typically being unicellular, some prokaryotes, such as cyanobacteria, may form large colonies. Others, such as myxobacteria, have multicellular stages in their life cycles. Prokaryotes are asexual, reproducing without fusion of gametes, although horizontal gene transfer also takes place.
 
+(ref:prokcell) [Structure of a typical prokaryotic cell](https://commons.wikimedia.org/wiki/File:Prokaryote_cell.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Prokaryote_cell} 
+
+}
+
+\caption{(ref:prokcell)}(\#fig:typicalprokcell)
+\end{figure}
+
 Molecular studies have provided insight into the evolution and interrelationships of the three domains of life. The division between prokaryotes and eukaryotes reflects the existence of two very different levels of cellular organization; only eukaryotic cells have a enveloped nucleus that contains its chromosomal DNA, and other characteristic membrane-bound organelles including mitochondria. Distinctive types of prokaryotes include extremophiles and methanogens; these are common in some extreme environments.
 
 Prokaryotes include bacteria and archaea, two of the three domains of life. Prokaryotic cells were the first form of life on Earth, characterized by having vital biological processes including cell signaling. They are simpler and smaller than eukaryotic cells, and lack a nucleus, and other membrane-bound organelles. The DNA of a prokaryotic cell consists of a single circular chromosome that is in direct contact with the cytoplasm. The nuclear region in the cytoplas is called the nucleoid. Most prokaryotes are the smallest of all organisms ranging from 0.5 to 2.0 µm in diameter.
@@ -73,6 +117,28 @@ A prokaryotic cell has three regions:
 
 Eukaryotic cells typically contain membrane-bound organelles such as mitochondria and Golgi apparatus, and chloroplasts can be found in plants and algae; these organelles are unique to eukaryotes, although primitive organelles can be found in prokaryotes. As well as being unicellular, eukaryotes may also be multicellular and include many cell types forming different kinds of tissue; in comparison, prokaryotes are typically unicellular. Animals, plants, and fungi are the most familiar eukaryotes; other eukaryotes are sometimes called protists.
 
+(ref:animalcell) [Cartoon of the structure of a typical animal cell](https://commons.wikimedia.org/wiki/File:Animal_cell_structure_en.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Animal_cell_structure_en} 
+
+}
+
+\caption{(ref:animalcell)}(\#fig:typicalanimalcell)
+\end{figure}
+
+(ref:plantcell) [Cartoon of the structure of a typical plant cell](https://commons.wikimedia.org/wiki/File:Plant_cell_structure_en.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Plant_cell_structure-en} 
+
+}
+
+\caption{(ref:plantcell)}(\#fig:typicalplantcell)
+\end{figure}
+
 Eukaryotes can reproduce both asexually through mitosis and sexually through meiosis and gamete fusion. In mitosis, one cell divides to produce two genetically identical cells. In meiosis, DNA replication is followed by two rounds of cell division to produce four haploid daughter cells. These act as sex cells (gametes). Each gamete has just one set of chromosomes, each a unique mix of the corresponding pair of parental chromosomes resulting from genetic recombination during meiosis.
 
 Plants, animals, fungi, and protists are all eukaryotic. These cells are about fifteen times wider than a typical prokaryote and can be as much as a thousand times greater in volume. The main distinguishing feature of eukaryotes as compared to prokaryotes is compartmentalization: the presence of membrane-bound organelles (compartments) in which specific activities take place. Most important among these is a cell nucleus, an organelle that houses the cell's DNA. This nucleus gives the eukaryote its name, which means "true kernel (nucleus)". Other differences include:
@@ -81,87 +147,31 @@ Plants, animals, fungi, and protists are all eukaryotic. These cells are about f
 * Many eukaryotic cells are ciliated with primary cilia. Primary cilia play important roles in chemosensation, mechanosensation, and thermosensation. Each cilium may thus be "viewed as a sensory cellular antennae that coordinates a large number of cellular signaling pathways, sometimes coupling the signaling to ciliary motility or alternatively to cell division and differentiation."
 * Motile eukaryotes can move using motile cilia or flagella. Motile cells are absent in conifers and flowering plants. Eukaryotic flagella are more complex than those of prokaryotes.
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:left;"> Prokaryotes </th>
-   <th style="text-align:left;"> Eukaryotes </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> Typical organisms </td>
-   <td style="text-align:left;"> bacteria, archaea </td>
-   <td style="text-align:left;"> protists; fungi; plants; animals </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Typical size </td>
-   <td style="text-align:left;"> ~1–5 µm </td>
-   <td style="text-align:left;"> ~10–100 µm </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Type of nucleus </td>
-   <td style="text-align:left;"> nucleoid region; no true nucleus </td>
-   <td style="text-align:left;"> true nucleus with double membrane </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> DNA </td>
-   <td style="text-align:left;"> circular (usually) </td>
-   <td style="text-align:left;"> linear molecules (chromosomes) with histone proteins </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> RNA/protein synthesis </td>
-   <td style="text-align:left;"> coupled in the cytoplasm </td>
-   <td style="text-align:left;"> RNA synthesis in the nucleus; protein synthesis in the cytoplasm </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Ribosomes </td>
-   <td style="text-align:left;"> 50S and 30S </td>
-   <td style="text-align:left;"> 60S and 40S </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Cytoplasmic structure </td>
-   <td style="text-align:left;"> very few structures </td>
-   <td style="text-align:left;"> highly structured by endomembranes and a cytoskeleton </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Cell movement </td>
-   <td style="text-align:left;"> flagella made of flagellin </td>
-   <td style="text-align:left;"> flagella and cilia containing microtubules; lamellipodia and filopodia containing actin </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Mitochondria </td>
-   <td style="text-align:left;"> none </td>
-   <td style="text-align:left;"> one to several thousand </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Chloroplasts </td>
-   <td style="text-align:left;"> none </td>
-   <td style="text-align:left;"> in algae and plants </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Organization </td>
-   <td style="text-align:left;"> usually single cells </td>
-   <td style="text-align:left;"> single cells, colonies, higher multicellular organisms with specialized cells </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Cell division </td>
-   <td style="text-align:left;"> binary fission (simple division) </td>
-   <td style="text-align:left;"> mitosis (fission or budding);  meiosis </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Chromosomes </td>
-   <td style="text-align:left;"> single chromosome </td>
-   <td style="text-align:left;"> more than one chromosome </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Membranes </td>
-   <td style="text-align:left;"> cell membrane </td>
-   <td style="text-align:left;"> Cell membrane and membrane-bound organelles </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+\centering
+\begin{tabular}{lll}
+\toprule
+ & Prokaryotes & Eukaryotes\\
+\midrule
+\rowcolor{gray!6}  Typical organisms & bacteria, archaea & protists; fungi; plants; animals\\
+Typical size & \textasciitilde{}1–5 µm & \textasciitilde{}10–100 µm\\
+\rowcolor{gray!6}  Type of nucleus & nucleoid region; no true nucleus & true nucleus with double membrane\\
+DNA & circular (usually) & linear molecules (chromosomes) with histone proteins\\
+\rowcolor{gray!6}  RNA/protein synthesis & coupled in the cytoplasm & RNA synthesis in the nucleus; protein synthesis in the cytoplasm\\
+\addlinespace
+Ribosomes & 50S and 30S & 60S and 40S\\
+\rowcolor{gray!6}  Cytoplasmic structure & very few structures & highly structured by endomembranes and a cytoskeleton\\
+Cell movement & flagella made of flagellin & flagella and cilia containing microtubules; lamellipodia and filopodia containing actin\\
+\rowcolor{gray!6}  Mitochondria & none & one to several thousand\\
+Chloroplasts & none & in algae and plants\\
+\addlinespace
+\rowcolor{gray!6}  Organization & usually single cells & single cells, colonies, higher multicellular organisms with specialized cells\\
+Cell division & binary fission (simple division) & mitosis (fission or budding);  meiosis\\
+\rowcolor{gray!6}  Chromosomes & single chromosome & more than one chromosome\\
+Membranes & cell membrane & Cell membrane and membrane-bound organelles\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ## Subcellular Components
 
@@ -169,12 +179,82 @@ All cells, whether prokaryotic or eukaryotic, have a membrane that envelops the 
 
 ### The Cell Membrane
 
-Detailed diagram of lipid bilayer cell membrane
+
 The cell membrane, or plasma membrane, is a biological membrane that surrounds the cytoplasm of a cell. In animals, the plasma membrane is the outer boundary of the cell, while in plants and prokaryotes it is usually covered by a cell wall. This membrane serves to separate and protect a cell from its surrounding environment and is made mostly from a double layer of phospholipids, which are amphiphilic (partly hydrophobic and partly hydrophilic). Hence, the layer is called a phospholipid bilayer, or sometimes a fluid mosaic membrane. Embedded within this membrane is a macromolecular structure called the porosome the universal secretory portal in cells and a variety of protein molecules that act as channels andpumps that move different molecules into and out of the cell. The membrane is semi-permeable, and selectively permeable, in that it can either let a substance (molecule or ion) pass through freely, pass through to a limited extent or not pass through at all. Cell surface membranes also contain receptor proteins that allow cells to detect external signaling molecules such as hormones.
+
+(ref:membrane) [Detailed diagram of lipid bilayer cell membrane](https://commons.wikimedia.org/wiki/File:Cell_membrane_detailed_diagram_en.svg)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Cell_membrane_detailed_diagram_en} 
+
+}
+
+\caption{(ref:membrane)}(\#fig:cellmembrane)
+\end{figure}
 
 ### The Cytoskeleton
 
-The cytoskeleton acts to organize and maintain the cell's shape; anchors organelles in place; helps during endocytosis, the uptake of external materials by a cell, and cytokinesis, the separation of daughter cells after cell division; and moves parts of the cell in processes of growth and mobility. The eukaryotic cytoskeleton is composed of microfilaments, intermediate filaments and microtubules. There are a great number of proteins associated with them, each controlling a cell's structure by directing, bundling, and aligning filaments. The prokaryotic cytoskeleton is less well-studied but is involved in the maintenance of cell shape, polarity and cytokinesis. The subunit protein of microfilaments is a small, monomeric protein called actin. The subunit of microtubules is a dimeric molecule called tubulin. Intermediate filaments are heteropolymers whose subunits vary among the cell types in different tissues. 
+The cytoskeleton is a complex, dynamic network of interlinking protein filaments present in the cytoplasm of all cells, including bacteria and archaea. It extends from the cell nucleus to the cell membrane and is composed of similar proteins in the various organisms. In eukaryotes, it is composed of three main components, microfilaments, intermediate filaments and microtubules, and these are all capable of rapid growth or disassembly dependent on the cell's requirements.
+
+A multitude of functions can be performed by the cytoskeleton. Its primary function is to give the cell its shape and mechanical resistance to deformation, and through association with extracellular connective tissue and other cells it stabilizes entire tissues. The cytoskeleton can also contract, thereby deforming the cell and the cell's environment and allowing cells to migrate. Moreover, it is involved in many cell signaling pathways and in the uptake of extracellular material (endocytosis), the segregation of chromosomes during cellular division, the cytokinesis stage of cell division, as scaffolding to organize the contents of the cell in space and in intracellular transport (for example, the movement of vesicles and organelles within the cell) and can be a template for the construction of a cell wall. Furthermore, it can form specialized structures, such as flagella, cilia, lamellipodia and podosomes. The structure, function and dynamic behavior of the cytoskeleton can be very different, depending on organism and cell type. Even within one cell, the cytoskeleton can change through association with other proteins and the previous history of the network.
+
+A large-scale example of an action performed by the cytoskeleton is muscle contraction. This is carried out by groups of highly specialized cells working together. A main component in the cytoskeleton that helps show the true function of this muscle contraction is the microfilament. Microfilaments are composed of the most abundant cellular protein known as actin. During contraction of a muscle, within each muscle cell, myosin molecular motors collectively exert forces on parallel actin filaments. Muscle contraction starts from nerve impulses which then causes increased amounts of calcium to be released from the sarcoplasmic reticulum. Increases in calcium in the cytosol allows muscle contraction to begin with the help of two proteins, tropomyosin and troponin. Tropomyosin inhibits the interaction between actin and myosin, while troponin senses the increase in calcium and releases the inhibition. This action contracts the muscle cell, and through the synchronous process in many muscle cells, the entire muscle.
+
+Eukaryotic cells contain three main kinds of cytoskeletal filaments: microfilaments, microtubules, and intermediate filaments. Each type is formed by the polymerization of a distinct type of protein subunit and has its own characteristic shape and intracellular distribution. Microfilaments are polymers of the protein actin and are 7 nm in diameter. Microtubules are composed of tubulin and are 25 nm in diameter. Intermediate filaments are composed of various proteins, depending on the type of cell in which they are found; they are normally 8-12 nm in diameter. The cytoskeleton provides the cell with structure and shape, and by excluding macromolecules from some of the cytosol, it adds to the level of macromolecular crowding in this compartment. Cytoskeletal elements interact extensively and intimately with cellular membranes.
+
+(ref:cytoskel) [The eukaryotic cytoskeleton.](https://commons.wikimedia.org/wiki/File:FluorescentCells.jpg) Actin filaments are shown in red, and microtubules composed of beta tubulin are in green.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/FluorescentCells} 
+
+}
+
+\caption{(ref:cytoskel)}(\#fig:cytoskeleton)
+\end{figure}
+
+Microfilaments, also known as actin filaments, are composed of linear polymers of G-actin proteins, and generate force when the growing (plus) end of the filament pushes against a barrier, such as the cell membrane. They also act as tracks for the movement of myosin molecules that affix to the microfilament and "walk" along them. In general, the major component or protein of microfilaments are actin. The G-actin monomer combines to form a polymer which continues to form the microfilament (actin filament). These subunits then assemble into two chains that intertwine into what are called F-actin chains. Myosin motoring along F-actin filaments generates contractile forces in so-called actomyosin fibers, both in muscle as well as most non-muscle cell types. 
+
+(ref:microfil) [Cartoon of the structure of a microfilament, which creates the structure in the cytoskeleton of an eukaryotic cell.](https://commons.wikimedia.org/wiki/File:Microfilament_Structure.svg)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Microfilament_Structure} 
+
+}
+
+\caption{(ref:microfil)}(\#fig:microfilament)
+\end{figure}
+
+Intermediate filaments are a part of the cytoskeleton of many eukaryotic cells. These filaments, averaging 10 nanometers in diameter, are more stable (strongly bound) than microfilaments, and heterogeneous constituents of the cytoskeleton. Like actin filaments, they function in the maintenance of cell-shape by bearing tension (microtubules, by contrast, resist compression but can also bear tension during mitosis and during the positioning of the centrosome). Intermediate filaments organize the internal tridimensional structure of the cell, anchoring organelles and serving as structural components of the nuclear lamina. They also participate in some cell-cell and cell-matrix junctions. Nuclear lamina exist in all animals and all tissues. Some animals like the fruit fly do not have any cytoplasmic intermediate filaments. In those animals that express cytoplasmic intermediate filaments, these are tissue specific. Keratin intermediate filaments in epithelial cells provide protection for different mechanical stresses the skin may endure. They also provide protection for organs against metabolic, oxidative, and chemical stresses. Strengthening of epithelial cells with these intermediate filaments may prevent onset of apoptosis, or cell death, by reducing the probability of stress.
+
+(ref:intermedfil) [Cartoon of the the structure of an intermediate filament.](https://commons.wikimedia.org/wiki/File:Intermediate_filaments.svg)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Intermediate_filaments} 
+
+}
+
+\caption{(ref:intermedfil)}(\#fig:intermedfilament)
+\end{figure}
+
+Microtubules are hollow cylinders about 23 nm in diameter (lumen diameter of approximately 15 nm), most commonly comprising 13 protofilaments that, in turn, are polymers of alpha and beta tubulin. They have a very dynamic behavior, binding GTP for polymerization. They are commonly organized by the centrosome.
+
+(ref:microtubule) [Cartoon of the the structure of a microtubule.](https://commons.wikimedia.org/wiki/File:Microtubule_Structure.svg)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Microtubule_Structure} 
+
+}
+
+\caption{(ref:microtubule)}(\#fig:microtubulestruc)
+\end{figure}
+
+In nine triplet sets (star-shaped), they form the centrioles, and in nine doublets oriented about two additional microtubules (wheel-shaped), they form cilia and flagella. The latter formation is commonly referred to as a "9+2" arrangement, wherein each doublet is connected to another by the protein dynein. As both flagella and cilia are structural components of the cell, and are maintained by microtubules, they can be considered part of the cytoskeleton. There are two types of cilia: motile and non-motile cilia. Cilia are short and more numerous than flagella. The motile cilia have a rhythmic waving or beating motion compared to the non-motile cilia which receive sensory information for the cell; processing signals from the other cells or the fluids surrounding it. Additionally, the microtubules control the beating (movement) of the cilia and flagella. Also, the dynein arms attached to the microtubules function as the molecular motors. The motion of the cilia and flagella is created by the microtubules sliding past one another, which requires ATP.
+Cytoplasmic streaming, also known as cyclosis, is the active movement of a cell’s contents along the components of the cytoskeleton. While mainly seen in plants, all cell types use this process for transportation of waste, nutrients, and organelles to other parts of the cell.  Plant and algae cells are generally larger than many other cells; so cytoplasmic streaming is important in these types of cells. This is because the cell’s extra volume requires cytoplasmic streaming in order to move organelles throughout the entire cell. Organelles move along microfilaments in the cytoskeleton driven by myosin motors binding and pushing along actin filament bundles.
 
 ### The Genetic Material
 
@@ -204,9 +284,66 @@ There are several types of organelles in a cell. Some (such as the nucleus and g
 
 In cell biology, the nucleus (pl. nuclei; from Latin nucleus or nuculeus, meaning kernel or seed) is a membrane-bound organelle found in eukaryotic cells. Eukaryotes usually have a single nucleus, but a few cell types, such as mammalian red blood cells, have no nuclei, and a few others including osteoclasts have many. Inside its fully enclosed nuclear membrane, it contains the majority of the cell's genetic material. This material is organized as DNA molecules, along with a variety of proteins, to form chromosomes.
 
+(ref:helanuc) [HeLa cells stained for nuclear DNA with the blue fluorescent Hoechst dye.](https://commons.wikimedia.org/wiki/File:HeLa_cells_stained_with_Hoechst_33258.jpg) The central and rightmost cell are in interphase, thus their entire nuclei are labeled. On the left, a cell is going through mitosis and its DNA has condensed. HeLa is an immortal cell line used in scientific research. It is the oldest and most commonly used human cell line. The line is derived from cervical cancer cells taken on February 8, 1951, from [Henrietta Lacks](https://en.wikipedia.org/wiki/Henrietta_Lacks), a 31-year-old African-American mother of five, who died of cancer on October 4, 1951. The cell line was found to be remarkably durable and prolific, which allows it to be used extensively in scientific study. The cells from Lacks' cancerous cervical tumor were taken without her knowledge or consent, which was common practice at the time. Cell biologist George Otto Gey found that they could be kept alive, and developed a cell line. Previously, cells cultured from other human cells would only survive for a few days. Cells from Lacks' tumor behaved differently. As was custom for Gey's lab assistant, she labeled the culture 'HeLa', the first two letters of the patient's first and last name; this became the name of the cell line. HeLa was the subject of a 2010 book by Rebecca Skloot, [The Immortal Life of Henrietta Lacks](https://en.wikipedia.org/wiki/The_Immortal_Life_of_Henrietta_Lacks), investigating the historical context of the cell line and how the Lacks family was involved its use.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/HeLa_cells_stained_with_Hoechst_33258} 
+
+}
+
+\caption{(ref:helanuc)}(\#fig:helacellsstained)
+\end{figure}
+
+The nucleus was the first organelle to be discovered. What is most likely the oldest preserved drawing dates back to the early microscopist Antonie van Leeuwenhoek (1632–1723). He observed a "lumen", the nucleus, in the red blood cells of salmon (Figure \@ref(fig:leeuvenhookcells)). Unlike mammalian red blood cells, those of other vertebrates still contain nuclei.
+
+(ref:leeuven) [Oldest known depiction of cells and their nuclei by Antonie van Leeuwenhoek, 1719](https://commons.wikimedia.org/wiki/File:Leeuwenhoek1719RedBloodCells.jpg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Leeuwenhoek1719RedBloodCells} 
+
+}
+
+\caption{(ref:leeuven)}(\#fig:leeuvenhookcells)
+\end{figure}
+
 The cell nucleus contains all of the cell's genome, except for a small fraction of mitochondrial DNA, organized as multiple long linear DNA molecules in a complex with a large variety of proteins, such as histones, to form chromosomes. The genes within these chromosomes are structured in such a way to promote cell function. The nucleus maintains the integrity of genes and controls the activities of the cell by regulating gene expression—the nucleus is, therefore, the control center of the cell. The main structures making up the nucleus are the nuclear envelope, a double membrane that encloses the entire organelle and isolates its contents from the cellular cytoplasm, and the nuclear matrix (which includes the nuclear lamina), a network within the nucleus that adds mechanical support, much like the cytoskeleton, which supports the cell as a whole.
 
+(ref:electronnuc) [An electron micrograph of a cell nucleus, showing the darkly stained nucleolus](https://commons.wikimedia.org/wiki/File:Micrograph_of_a_cell_nucleus.png) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Micrograph_of_a_cell_nucleus} 
+
+}
+
+\caption{(ref:electronnuc)}(\#fig:electronmicronucleus)
+\end{figure}
+
+(ref:cellnuc) [The eukaryotic cell nucleus.](https://commons.wikimedia.org/wiki/File:Diagram_human_cell_nucleus.svg) Visible in this diagram are the ribosome-studded double membranes of the nuclear envelope, the DNA (complexed as chromatin), and the nucleolus. Within the cell nucleus is a viscous liquid called nucleoplasm, similar to the cytoplasm found outside the nucleus.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Diagram_human_cell_nucleus} 
+
+}
+
+\caption{(ref:cellnuc)}(\#fig:cellnucleus)
+\end{figure}
+
 Because the nuclear envelope is impermeable to large molecules, nuclear pores are required to regulate nuclear transport of molecules across the envelope. The pores cross both nuclear membranes, providing a channel through which larger molecules must be actively transported by carrier proteins while allowing free movement of small molecules and ions. Movement of large molecules such as proteins and RNA through the pores is required for both gene expression and the maintenance of chromosomes. Although the interior of the nucleus does not contain any membrane-bound subcompartments, its contents are not uniform, and a number of nuclear bodies exist, made up of unique proteins, RNA molecules, and particular parts of the chromosomes. The best-known of these is the nucleolus, which is mainly involved in the assembly of ribosomes. After being produced in the nucleolus, ribosomes are exported to the cytoplasm where they translate mRNA.
+
+(ref:nucpore) [A cross section of a nuclear pore on the surface of the nuclear envelope (1).](https://en.wikipedia.org/wiki/Cell_nucleus#/media/File:NuclearPore_crop.svg) Other diagram labels show (2) the outer ring, (3) spokes, (4) basket, and (5) filaments.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/NuclearPore_crop} 
+
+}
+
+\caption{(ref:nucpore)}(\#fig:nuclearpore)
+\end{figure}
 
 The nuclear envelope, otherwise known as nuclear membrane, consists of two cellular membranes, an inner and an outer membrane, arranged parallel to one another and separated by 10 to 50 nanometres (nm). The nuclear envelope completely encloses the nucleus and separates the cell's genetic material from the surrounding cytoplasm, serving as a barrier to prevent macromolecules from diffusing freely between the nucleoplasm and the cytoplasm. The outer nuclear membrane is continuous with the membrane of the rough endoplasmic reticulum (RER), and is similarly studded with ribosomes. The space between the membranes is called the perinuclear space and is continuous with the RER lumen.
 
@@ -228,11 +365,33 @@ When observed under the electron microscope, the nucleolus can be seen to consis
 
 The [mitochondrion](https://en.wikipedia.org/wiki/Mitochondrion) (plural mitochondria) is a semi autonomous double-membrane-bound organelle found in most eukaryotic organisms. Some cells in some multicellular organisms may, however, lack mitochondria (for example, mature mammalian red blood cells). 
 
+(ref:electromito) [Two mitochondria from mammalian lung tissue displaying their matrix and membranes as shown by electron microscopy.](https://commons.wikimedia.org/wiki/File:Mitochondria,_mammalian_lung_-_TEM.jpg)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Mitochondria_mammalian_lung_TEM} 
+
+}
+
+\caption{(ref:electromito)}(\#fig:electromitochondrion)
+\end{figure}
+
 The word mitochondrion comes from the Greek μίτος, mitos, "thread", and χονδρίον, chondrion, "granule" or "grain-like". Mitochondria generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy. A mitochondrion is thus termed the powerhouse of the cell.
 
 In addition to supplying cellular energy, mitochondria are involved in other tasks, such as signaling, cellular differentiation, and cell death, as well as maintaining control of the cell cycle and cell growth.  
 
 The organelle is composed of compartments that carry out specialized functions. These compartments or regions include the outer membrane, the intermembrane space, the inner membrane, and the cristae and matrix.
+
+(ref:mitocart) [Cartoon of the structure of a mitochondrion.](https://commons.wikimedia.org/wiki/File:Mitochondrion_mini.svg) Components of a typical mitochondrion 1 Outer membrane 1.1 Porin 2 Intermembrane space 2.1 Intracristal space 2.2 Peripheral space 3 Lamella 3.1 Inner membrane 3.11 Inner boundary membrane 3.12 Cristal membrane 3.2 Matrix 3.3 Cristæ 4 Mitochondrial DNA 5 Matrix granule 6 Ribosome 7 ATP synthase
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Mitochondrion_mini} 
+
+}
+
+\caption{(ref:mitocart)}(\#fig:mitocartoon)
+\end{figure}
 
 Although most of a cell's DNA is contained in the cell nucleus, the mitochondrion has its own independent genome ("mitogenome") that shows substantial similarity to bacterial genomes. Mitochondrial proteins (proteins transcribed from mitochondrial DNA) vary depending on the tissue and the species. 
 
@@ -255,11 +414,33 @@ The inner mitochondrial membrane contains proteins with three types of functions
 
 The most prominent roles of mitochondria are to produce the energy currency of the cell, ATP (i.e., phosphorylation of ADP), through respiration, and to regulate cellular metabolism. The central set of reactions involved in ATP production are collectively known as the citric acid cycle, or the Krebs cycle. However, the mitochondrion has many other functions in addition to the production of ATP.
 
+(ref:fluocell) [A fluorescent image of an endothelial cell. Nuclei are stained blue, mitochondria are stained red, and microfilaments are stained green.](https://commons.wikimedia.org/wiki/File:DAPIMitoTrackerRedAlexaFluor488BPAE.jpg)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/DAPIMitoTrackerRedAlexaFluor488BPAE} 
+
+}
+
+\caption{(ref:fluocell)}(\#fig:dapimitotracker)
+\end{figure}
+
 ## The Chloroplasts
 
 [Chloroplasts](https://en.wikipedia.org/wiki/Chloroplast) are organelles that conduct photosynthesis, where the photosynthetic pigment chlorophyll captures the energy from sunlight, converts it, and stores it in the energy-storage molecules ATP and NADPH while freeing oxygen from water in plant and algal cells. They then use the ATP and NADPH to make organic molecules from carbon dioxide in a process known as the Calvin cycle. Chloroplasts carry out a number of other functions, including fatty acid synthesis, much amino acid synthesis, and the immune response in plants. The number of chloroplasts per cell varies from one, in unicellular algae, up to 100 in plants like Arabidopsis and wheat.
 
 A chloroplast is a type of organelle known as a plastid, characterized by its two membranes and a high concentration of chlorophyll. Other plastid types, such as the leucoplast and the chromoplast, contain little chlorophyll and do not carry out photosynthesis.
+
+(ref:chlorocart) [Cartoon of the structure of a chloroplast.](https://commons.wikimedia.org/wiki/File:Chloroplast_mini.svg) Components of a typical chloroplast 1 Granum 2 Chloroplast envelope 2.1 Outer membrane 2.2 Intermembrane space 2.3 Inner membrane 3 Thylakoid   ◄ You are here 3.1 Thylakoid space (lumen) 3.2 Thylakoid membrane 4 Stromal thylakoid 5 Stroma 6 Nucleoid (DNA ring) 7 Ribosome 8 Plastoglobulus 9 Starch granule
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Chloroplast_mini} 
+
+}
+
+\caption{(ref:chlorocart)}(\#fig:chloroplastcartoon)
+\end{figure}
 
 Chloroplasts are highly dynamic—they circulate and are moved around within plant cells, and occasionally pinch in two to reproduce. Their behavior is strongly influenced by environmental factors like light color and intensity. Chloroplasts, like mitochondria, contain their own DNA, which is thought to be inherited from their ancestor—a photosynthetic cyanobacterium that was engulfed by an early eukaryotic cell. Chloroplasts cannot be made by the plant cell and must be inherited by each daughter cell during cell division.
 
@@ -321,9 +502,31 @@ In most eukaryotes, the Golgi apparatus is made up of a series of compartments a
 
 The Golgi apparatus is a major collection and dispatch station of protein products received from the endoplasmic reticulum (ER). Proteins synthesized in the ER are packaged into vesicles, which then fuse with the Golgi apparatus. These cargo proteins are modified and destined for secretion via exocytosis or for use in the cell. In this respect, the Golgi can be thought of as similar to a post office: it packages and labels items which it then sends to different parts of the cell or to the extracellular space. The Golgi apparatus is also involved in lipid transport and lysosome formation.
 
+(ref:endomembrane) [Diagram of the endomembrane system](https://commons.wikimedia.org/wiki/File:Endomembrane_system_diagram_en.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Endomembrane_system_diagram_en} 
+
+}
+
+\caption{(ref:endomembrane)}(\#fig:endomembranediagram)
+\end{figure}
+
 ## The Ribosomes
 
 * Ribosomes: The ribosome is a large complex of RNA and protein molecules. They each consist of two subunits, and act as an assembly line where RNA from the nucleus is used to synthesise proteins from amino acids. Ribosomes can be found either floating freely or bound to a membrane (the rough endoplasmatic reticulum in eukaryotes, or the cell membrane in prokaryotes).
+
+(ref:ribosome) Crystal structure of the human 80S ribosome (based on atomic coordinates of [PDB 4V6X](https://www.rcsb.org/structure/4v6x) rendered with open source molecular visualization tool PyMol). The 40S (small) ribosomal subunit proteins are shown in lightblue, the 60S (large) subunit proteins in palegreen, the ribosomal RNA in orange.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/translation/human_ribosome} 
+
+}
+
+\caption{(ref:ribo)}(\#fig:ribosomestructure)
+\end{figure}
 
 ### Structures Outside The Cell Membrane
 
@@ -380,4 +583,3 @@ Cells emerged at least 3.5 billion years ago. The current belief is that these c
 ## Origin of Eukaryotic Cells
 
 The eukaryotic cell seems to have evolved from a symbiotic community of prokaryotic cells. DNA-bearing organelles like the mitochondria and the chloroplasts are descended from ancient symbiotic oxygen-breathing proteobacteria and cyanobacteria, respectively, which were endosymbiosed by an ancestral archaean prokaryote.
-

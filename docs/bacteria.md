@@ -85,36 +85,18 @@ Bacteria either derive energy from light using photosynthesis (called phototroph
 Many bacteria get their carbon from other organic carbon, called heterotrophy. Others such as cyanobacteria and some purple bacteria are autotrophic, meaning that they obtain cellular carbon by fixing carbon dioxide. In unusual circumstances, the gas methane can be used by methanotrophic bacteria as both a source of electrons and a substrate for carbon anabolism.
 
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Nutritional Type </th>
-   <th style="text-align:left;"> Source of Energy </th>
-   <th style="text-align:left;"> Source of Carbon </th>
-   <th style="text-align:left;"> Examples </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;">  Phototrophs  </td>
-   <td style="text-align:left;"> Sunlight </td>
-   <td style="text-align:left;">  Organic compounds (photoheterotrophs) or carbon fixation (photoautotrophs) </td>
-   <td style="text-align:left;">  Cyanobacteria, Green sulfur bacteria, Chloroflexi, or Purple bacteria  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;">  Lithotrophs </td>
-   <td style="text-align:left;"> Inorganic compounds </td>
-   <td style="text-align:left;">  Organic compounds (lithoheterotrophs) or carbon fixation (lithoautotrophs) </td>
-   <td style="text-align:left;">  Thermodesulfobacteria, Hydrogenophilaceae, or Nitrospirae  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;">  Organotrophs </td>
-   <td style="text-align:left;"> Organic compounds </td>
-   <td style="text-align:left;">  Organic compounds (chemoheterotrophs) or carbon fixation (chemoautotrophs)   </td>
-   <td style="text-align:left;">  Bacillus, Clostridium or Enterobacteriaceae  </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+\centering
+\begin{tabular}{llll}
+\toprule
+Nutritional Type & Source of Energy & Source of Carbon & Examples\\
+\midrule
+\rowcolor{gray!6}   Phototrophs  & Sunlight &  Organic compounds (photoheterotrophs) or carbon fixation (photoautotrophs) &  Cyanobacteria, Green sulfur bacteria, Chloroflexi, or Purple bacteria \\
+ Lithotrophs & Inorganic compounds &  Organic compounds (lithoheterotrophs) or carbon fixation (lithoautotrophs) &  Thermodesulfobacteria, Hydrogenophilaceae, or Nitrospirae \\
+\rowcolor{gray!6}   Organotrophs & Organic compounds &  Organic compounds (chemoheterotrophs) or carbon fixation (chemoautotrophs)   &  Bacillus, Clostridium or Enterobacteriaceae \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 In many ways, bacterial metabolism provides traits that are useful for ecological stability and for human society. One example is that some bacteria have the ability to fix nitrogen gas using the enzyme nitrogenase. This environmentally important trait can be found in bacteria of most metabolic types listed above. This leads to the ecologically important processes of denitrification, sulfate reduction, and acetogenesis, respectively. Bacterial metabolic processes are also important in biological responses to pollution; for example, sulfate-reducing bacteria are largely responsible for the production of the highly toxic forms of mercury (methyl- and dimethylmercury) in the environment. Non-respiratory anaerobes use fermentation to generate energy and reducing power, secreting metabolic by-products (such as ethanol in brewing) as waste. Facultative anaerobes can switch between fermentation and different terminal electron acceptors depending on the environmental conditions in which they find themselves.
 
@@ -229,72 +211,25 @@ Woese argued that the Bacteria, Archaea, and Eukaryotes represent separate lines
 
 The following table (\@ref(tab:domaincomparison) compares some major characteristics of the three domains, to illustrate their similarities and differences.
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Property </th>
-   <th style="text-align:left;"> Bacteria </th>
-   <th style="text-align:left;"> Archaea </th>
-   <th style="text-align:left;"> Eukarya </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> Cell membrane </td>
-   <td style="text-align:left;"> Ether-linked lipids </td>
-   <td style="text-align:left;"> Ester-linked lipids </td>
-   <td style="text-align:left;"> Ester-linked lipids </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Cell wall </td>
-   <td style="text-align:left;"> Pseudopeptidoglycan, glycoprotein, or S-layer </td>
-   <td style="text-align:left;"> Peptidoglycan, S-layer, or no cell wall </td>
-   <td style="text-align:left;"> Various structures </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Gene structure </td>
-   <td style="text-align:left;"> Circular chromosomes, similar translation and transcription to Eukarya </td>
-   <td style="text-align:left;"> Circular chromosomes, unique translation and transcription </td>
-   <td style="text-align:left;"> Multiple, linear chromosomes, but translation and transcription similar to Archaea </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Internal cell structure </td>
-   <td style="text-align:left;"> No membrane-bound organelles (?[62]) or nucleus </td>
-   <td style="text-align:left;"> No membrane-bound organelles or nucleus </td>
-   <td style="text-align:left;"> Membrane-bound organelles and nucleus </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Metabolism[63] </td>
-   <td style="text-align:left;"> Various, including diazotrophy, with methanogenesis unique to Archaea </td>
-   <td style="text-align:left;"> Various, including photosynthesis, aerobic and anaerobic respiration, fermentation, diazotrophy, and autotrophy </td>
-   <td style="text-align:left;"> Photosynthesis, cellular respiration, and fermentation; no diazotrophy </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Reproduction </td>
-   <td style="text-align:left;"> Asexual reproduction, horizontal gene transfer </td>
-   <td style="text-align:left;"> Asexual reproduction, horizontal gene transfer </td>
-   <td style="text-align:left;"> Sexual and asexual reproduction </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Protein synthesis initiation </td>
-   <td style="text-align:left;"> Methionine </td>
-   <td style="text-align:left;"> Formylmethionine </td>
-   <td style="text-align:left;"> Methionine </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> RNA polymerase </td>
-   <td style="text-align:left;"> Many </td>
-   <td style="text-align:left;"> One </td>
-   <td style="text-align:left;"> Many </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Toxin </td>
-   <td style="text-align:left;"> Sensitive to diphtheria toxin </td>
-   <td style="text-align:left;"> Resistant to diphtheria toxin </td>
-   <td style="text-align:left;"> Sensitive to diphtheria toxin </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+\centering
+\begin{tabular}{llll}
+\toprule
+Property & Bacteria & Archaea & Eukarya\\
+\midrule
+\rowcolor{gray!6}  Cell membrane & Ether-linked lipids & Ester-linked lipids & Ester-linked lipids\\
+Cell wall & Pseudopeptidoglycan, glycoprotein, or S-layer & Peptidoglycan, S-layer, or no cell wall & Various structures\\
+\rowcolor{gray!6}  Gene structure & Circular chromosomes, similar translation and transcription to Eukarya & Circular chromosomes, unique translation and transcription & Multiple, linear chromosomes, but translation and transcription similar to Archaea\\
+Internal cell structure & No membrane-bound organelles (?[62]) or nucleus & No membrane-bound organelles or nucleus & Membrane-bound organelles and nucleus\\
+\rowcolor{gray!6}  Metabolism[63] & Various, including diazotrophy, with methanogenesis unique to Archaea & Various, including photosynthesis, aerobic and anaerobic respiration, fermentation, diazotrophy, and autotrophy & Photosynthesis, cellular respiration, and fermentation; no diazotrophy\\
+\addlinespace
+Reproduction & Asexual reproduction, horizontal gene transfer & Asexual reproduction, horizontal gene transfer & Sexual and asexual reproduction\\
+\rowcolor{gray!6}  Protein synthesis initiation & Methionine & Formylmethionine & Methionine\\
+RNA polymerase & Many & One & Many\\
+\rowcolor{gray!6}  Toxin & Sensitive to diphtheria toxin & Resistant to diphtheria toxin & Sensitive to diphtheria toxin\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 Archaea were split off as a third domain because of the large differences in their ribosomal RNA structure. The particular molecule 16S rRNA is key to the production of proteins in all organisms. Because this function is so central to life, organisms with mutations in their 16S rRNA are unlikely to survive, leading to great (but not absolute) stability in the structure of this nucleotide over generations. 16S rRNA is large enough to show organism-specific variations, but still small enough to be compared quickly. In 1977, Carl Woese, a microbiologist studying the genetic sequences of organisms, developed a new comparison method that involved splitting the RNA into fragments that could be sorted and compared with other fragments from other organisms. The more similar the patterns between species, the more closely they are related.
 
@@ -353,36 +288,18 @@ Archaea exhibit a great variety of chemical reactions in their metabolism and us
 
 Other groups of archaea use sunlight as a source of energy (they are phototrophs), but oxygen–generating photosynthesis does not occur in any of these organisms. Many basic metabolic pathways are shared among all forms of life; for example, archaea use a modified form of glycolysis (the Entner–Doudoroff pathway) and either a complete or partial citric acid cycle. These similarities to other organisms probably reflect both early origins in the history of life and their high level of efficiency.
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Nutritional Type </th>
-   <th style="text-align:left;"> Source of Energy </th>
-   <th style="text-align:left;"> Source of Carbon </th>
-   <th style="text-align:left;"> Examples </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;">  Phototrophs  </td>
-   <td style="text-align:left;">  Sunlight  </td>
-   <td style="text-align:left;">  Organic compounds  </td>
-   <td style="text-align:left;">  Halobacterium  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;">  Lithotrophs </td>
-   <td style="text-align:left;">  Inorganic compounds </td>
-   <td style="text-align:left;">  Organic compounds or carbon fixation </td>
-   <td style="text-align:left;">  Ferroglobus, Methanobacteria or Pyrolobus  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;">  Organotrophs </td>
-   <td style="text-align:left;">  Organic compounds  </td>
-   <td style="text-align:left;">  Organic compounds or carbon fixation  </td>
-   <td style="text-align:left;">  Pyrococcus, Sulfolobus or Methanosarcinales  </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+\centering
+\begin{tabular}{llll}
+\toprule
+Nutritional Type & Source of Energy & Source of Carbon & Examples\\
+\midrule
+\rowcolor{gray!6}   Phototrophs  &  Sunlight  &  Organic compounds  &  Halobacterium \\
+ Lithotrophs &  Inorganic compounds &  Organic compounds or carbon fixation &  Ferroglobus, Methanobacteria or Pyrolobus \\
+\rowcolor{gray!6}   Organotrophs &  Organic compounds  &  Organic compounds or carbon fixation  &  Pyrococcus, Sulfolobus or Methanosarcinales \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 Some Euryarchaeota are methanogens (archaea that produce methane as a result of metabolism) living in anaerobic environments, such as swamps. This form of metabolism evolved early, and it is even possible that the first free-living organism was a methanogen. A common reaction involves the use of carbon dioxide as an electron acceptor to oxidize hydrogen. Methanogenesis involves a range of coenzymes that are unique to these archaea, such as coenzyme M and methanofuran. Other organic compounds such as alcohols, acetic acid or formic acid are used as alternative electron acceptors by methanogens. These reactions are common in gut-dwelling archaea. Acetic acid is also broken down into methane and carbon dioxide directly, by acetotrophic archaea. These acetotrophs are archaea in the order Methanosarcinales, and are a major part of the communities of microorganisms that produce biogas.
 

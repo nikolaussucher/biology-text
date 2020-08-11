@@ -32,6 +32,17 @@ There is currently no consensus regarding the definition of [life](https://en.wi
 
 Since its primordial beginnings, life on Earth has changed its environment on a geologic time scale, but it has also adapted to survive in most ecosystems and conditions. Some microorganisms, called extremophiles, thrive in physically or geochemically extreme environments that are detrimental to most other life on Earth. The cell is considered the structural and functional unit of life. There are two kinds of cells, prokaryotic and eukaryotic, both of which consist of cytoplasm enclosed within a membrane and contain many biomolecules such as proteins and nucleic acids. Cells reproduce through a process of cell division, in which the parent cell divides into two or more daughter cells.
 
+(ref:celltypes) [Cartoons of a eukaryotic cell (left) and prokaryotic cell (right)](https://commons.wikimedia.org/wiki/File:Celltypes.svg)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Celltypes} 
+
+}
+
+\caption{(ref:)}(\#fig:celltypecartoon )
+\end{figure}
+
 In the past, there have been many attempts to define what is meant by "life" through obsolete concepts such as odic force, hylomorphism, spontaneous generation and vitalism, that have now been disproved by biological discoveries. Aristotle is considered to be the first person to classify organisms. Later, Carl Linnaeus introduced his system of binomial nomenclature for the classification of species. Eventually new groups and categories of life were discovered, such as cells and microorganisms, forcing dramatic revisions of the structure of relationships between living organisms. Though currently only known on Earth, life need not be restricted to it, and many scientists speculate in the existence of extraterrestrial life. Artificial life is a computer simulation or human-made reconstruction of any aspect of life, which is often used to examine systems related to natural life.
 
 Death is the permanent termination of all biological functions which sustain an organism, and as such, is the end of its life. Extinction is the term describing the dying out of a group or taxon, usually a species. Fossils are the preserved remains or traces of organisms.
@@ -174,10 +185,14 @@ Further, each kingdom is broken down recursively until each species is separatel
 
 (ref:hierarchy) [The hierarchy of biological classification's eight major taxonomic ranks from the most specific (top) to the most general (bottom). Intermediate minor rankings are not shown. This diagram uses a 3 Domains / 6 Kingdoms format](https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/life/Biological_classification_L_Pengo.svg" alt="(ref:hierarchy)" width="70%" />
-<p class="caption">(\#fig:hierarchycartoon)(ref:hierarchy)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Biological_classification_L_Pengo} 
+
+}
+
+\caption{(ref:hierarchy)}(\#fig:hierarchycartoon)
+\end{figure}
 
 Outside of these categories, there are obligate intracellular parasites that are "on the edge of life" in terms of metabolic activity, meaning that many scientists do not actually classify such structures as alive, due to their lack of at least one or more of the fundamental functions or characteristics that define life. They are classified as viruses, viroids, prions, or satellites.
 
