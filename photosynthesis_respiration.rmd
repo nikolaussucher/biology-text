@@ -2,9 +2,27 @@
 
 Plants acquire energy from sunlight through photosynthesis. Animals get their energy by breaking down chemical bonds in nutrients during cellular respiration. In eukaryiotic cells, photosynthesis happens in chloroplasts, cellular respiration in mitochondria. In both photosynthesis and cellular respiration, involves and electron transfer chain and chemiosmosis. 
 
-## The Electron Transfer Chain And Chemiosmosis
+(ref:photosynthesis) [Schematic of photosynthesis in plants. The carbohydrates produced are stored in or used by the plant which in turn may provide food for heterotrophic organims such as animals.](https://commons.wikimedia.org/wiki/File:Photosynthesis_en.svg) 
+
+```{r photosynthesispic, fig.cap='(ref:photosynthesis)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/photosynthesis/Photosynthesis_en.svg")
+```
+
+## The Electron Transport Chain And Chemiosmosis
 
 The electron transport chain (ETC) is a series of complexes that transfer electrons from electron donors to electron acceptors via redox (both reduction and oxidation occurring simultaneously) reactions, and couples this electron transfer with the transfer of protons (H^+^ ions) across a membrane. The electron transport chain is built up of peptides, enzymes, and other molecules.
+
+The flow of electrons through the electron transport chain is an exergonic process. The energy from the redox reactions create an electrochemical proton gradient that drives the synthesis of adenosine triphosphate (ATP). In aerobic respiration, the flow of electrons terminates with molecular oxygen being the final electron acceptor. In anaerobic respiration, other electron acceptors are used, such as sulfate.
+
+In the electron transport chain, the redox reactions are driven by the Gibbs free energy state of the components. Gibbs free energy is related to a quantity called the redox potential. The complexes in the electron transport chain harvest the energy of the redox reactions that occur when transferring electrons from a low redox potential to a higher redox potential, creating an electrochemical gradient. It is the electrochemical gradient created that drives the synthesis of ATP via coupling with oxidative phosphorylation with ATP synthase.
+
+The electron transport chain, and site of oxidative phosphorylation is found on the inner mitochondrial membrane. The energy stored from the process of respiration in reduced compounds (such as NADH and FADH) is used by the electron transport chain to pump protons into the inter membrane space, generating the electrochemical gradient over the inner mitochrondrial membrane.
+
+(ref:electrontrans) [The electron transport chain](https://commons.wikimedia.org/wiki/File:Mitochondrial_electron_transport_chain—Etc4.svg) in the mitochondrion is the site of oxidative phosphorylation in eukaryotes. The NADH and succinate generated in the citric acid cycle are oxidized, providing energy to power ATP synthase.
+
+```{r electrontransfer, fig.cap='(ref:electrontrans)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/photosynthesis/Mitochondrial_electron_transport_chain—Etc4.svg")
+```
 
 In photosynthetic eukaryotes, the electron transport chain is found on the thylakoid membrane. Here, light energy drives the reduction of components of the electron transport chain and therefore causes subsequent synthesis of ATP. The electron transport chain, and site of oxidative phosphorylation is found on the inner mitochondrial membrane. The energy stored from the process of respiration in reduced compounds (such as NADH and FADH) is used by the electron transport chain to pump protons into the inter membrane space, generating the electrochemical gradient over the inner mitochrondrial membrane. 
 
@@ -16,7 +34,19 @@ The formation of adenosine triphosphate (ATP) by the movement of hydrogen ions (
 
 Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy that can later be released to fuel the organisms' activities. This chemical energy is stored in carbohydrate molecules, such as sugars, which are synthesized from carbon dioxide and water – hence the name photosynthesis, from the Greek phōs (φῶς), "light", and sunthesis (σύνθεσις), "putting together". In most cases, oxygen is also released as a waste product. Most plants, most algae, and cyanobacteria perform photosynthesis; such organisms are called photoautotrophs. Photosynthesis is largely responsible for producing and maintaining the oxygen content of the Earth's atmosphere, and supplies most of the energy necessary for life on Earth.
 
+(ref:simplephoto) [Photosynthesis changes sunlight into chemical energy, splits water to liberate O2, and fixes CO2 into sugar.](https://commons.wikimedia.org/wiki/File:Simple_photosynthesis_overview.svg) 
+
+```{r simplephotooverview , fig.cap='(ref:simplephoto)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/photosynthesis/Simple_photosynthesis_overview.svg")
+```
+
 Although photosynthesis is performed differently by different species, the process always begins when energy from light is absorbed by proteins called reaction centres that contain green chlorophyll pigments. In plants, these proteins are held inside organelles called chloroplasts, which are most abundant in leaf cells, while in bacteria they are embedded in the plasma membrane. In these light-dependent reactions, some energy is used to strip electrons from suitable substances, such as water, producing oxygen gas. The hydrogen freed by the splitting of water is used in the creation of two further compounds that serve as short-term stores of energy, enabling its transfer to drive other reactions: these compounds are reduced nicotinamide adenine dinucleotide phosphate (NADPH) and adenosine triphosphate (ATP), the "energy currency" of cells.
+
+(ref:chlorophyl) [Absorbance spectra of free chlorophyll](https://commons.wikimedia.org/wiki/File:Chlorophyll_ab_spectra-en.svg) a (blue) and b (red) in a solvent. The action spectra of chlorophyll molecules are slightly modified in vivo depending on specific pigment–protein interactions.
+
+```{r chlorophylspectra, fig.cap='(ref:chlorophyl)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/photosynthesis/Chlorophyll_ab_spectra-en.svg")
+```
 
 In plants, algae and cyanobacteria, long-term energy storage in the form of sugars is produced by a subsequent sequence of light-independent reactions called the Calvin cycle; some bacteria use different mechanisms, such as the reverse Krebs cycle, to achieve the same end. In the Calvin cycle, atmospheric carbon dioxide is incorporated into already existing organic carbon compounds, such as ribulose bisphosphate (RuBP). Using the ATP and NADPH produced by the light-dependent reactions, the resulting compounds are then reduced and removed to form further carbohydrates, such as glucose.
 
@@ -38,6 +68,12 @@ In photosynthetic bacteria, the proteins that gather light for photosynthesis ar
 
 In plants and algae, photosynthesis takes place in organelles called chloroplasts. A typical plant cell contains about 10 to 100 chloroplasts. The chloroplast is enclosed by a membrane. This membrane is composed of a phospholipid inner membrane, a phospholipid outer membrane, and an intermembrane space. Enclosed by the membrane is an aqueous fluid called the stroma. Embedded within the stroma are stacks of thylakoids (grana), which are the site of photosynthesis. The thylakoids appear as flattened disks. The thylakoid itself is enclosed by the thylakoid membrane, and within the enclosed volume is a lumen or thylakoid space. Embedded in the thylakoid membrane are integral and peripheral membrane protein complexes of the photosynthetic system.
 
+(ref:photochloro) [Chloroplast ultrastructure](https://commons.wikimedia.org/wiki/File:Chloroplast.svg): 1. outer membrane 2. intermembrane space 3. inner membrane (1+2+3: envelope) 4. stroma (aqueous fluid) 5. thylakoid lumen (inside of thylakoid) 6. thylakoid membrane 7. granum (stack of thylakoids) 8. thylakoid (lamella) 9. starch 10. ribosome 11. plastidial DNA 12. plastoglobule (drop of lipids)
+
+```{r photochloroplast, fig.cap='(ref:photochloro)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/photosynthesis/Chloroplast.svg")
+```
+
 Plants absorb light primarily using the pigment chlorophyll. The green part of the light spectrum is not absorbed but is reflected which is the reason that most plants have a green color. Besides chlorophyll, plants also use pigments such as carotenes and xanthophylls. Algae also use chlorophyll, but various other pigments are present, such as phycocyanin, carotenes, and xanthophylls in green algae, phycoerythrin in red algae (rhodophytes) and fucoxanthin in brown algae and diatoms resulting in a wide variety of colors.
 
 These pigments are embedded in plants and algae in complexes called antenna proteins. In such proteins, the pigments are arranged to work together. Such a combination of proteins is also called a light-harvesting complex.
@@ -58,7 +94,20 @@ Not all wavelengths of light can support photosynthesis. The photosynthetic acti
 
 In plants, light-dependent reactions occur in the thylakoid membranes of the chloroplasts where they drive the synthesis of ATP and NADPH. The light-dependent reactions are of two forms: cyclic and non-cyclic.
 
+(ref:zsch) [The Z scheme](https://commons.wikimedia.org/wiki/File:Z-scheme.png) 
+
+```{r zscheme, fig.cap='(ref:zsch)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/photosynthesis/Z-scheme.png")
+```
+
 In the non-cyclic reaction, the photons are captured in the light-harvesting antenna complexes of photosystem II by chlorophyll and other accessory pigments (see diagram at right). The absorption of a photon by the antenna complex frees an electron by a process called photoinduced charge separation. The antenna system is at the core of the chlorophyll molecule of the photosystem II reaction center. That freed electron is transferred to the primary electron-acceptor molecule, pheophytin. As the electrons are shuttled through an electron transport chain (the so-called Z-scheme shown in the diagram), it initially functions to generate a chemiosmotic potential by pumping proton cations (H^+^) across the membrane and into the thylakoid space. An ATP synthase enzyme uses that chemiosmotic potential to make ATP during photophosphorylation, whereas NADPH is a product of the terminal redox reaction in the Z-scheme. The electron enters a chlorophyll molecule in Photosystem I. There it is further excited by the light absorbed by that photosystem. The electron is then passed along a chain of electron acceptors to which it transfers some of its energy. The energy delivered to the electron acceptors is used to move hydrogen ions across the thylakoid membrane into the lumen. The electron is eventually used to reduce the co-enzyme NADP with a H^+^ to NADPH (which has functions in the light-independent reaction); at that point, the path of that electron ends.
+
+(ref:lightd) [Light-dependent reactions of photosynthesis at the thylakoid membrane](https://commons.wikimedia.org/wiki/File:Thylakoid_membrane_3.svg) 
+
+```{r lightdependent, fig.cap='(ref:lightd)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/photosynthesis/Thylakoid_membrane_3.svg")
+```
+
 
 The cyclic reaction is similar to that of the non-cyclic, but differs in that it generates only ATP, and no reduced NADP (NADPH) is created. The cyclic reaction takes place only at photosystem I. Once the electron is displaced from the photosystem, the electron is passed down the electron acceptor molecules and returns to photosystem I, from where it was emitted, hence the name cyclic reaction.
 
@@ -76,13 +125,46 @@ In the light-independent (or "dark") reactions, the enzyme RuBisCO captures CO~2
 
 Carbon fixation produces the intermediate three-carbon sugar product, which is then converted into the final carbohydrate products. The simple carbon sugars produced by photosynthesis are then used in the forming of other organic compounds, such as the building material cellulose, the precursors for lipid and amino acid biosynthesis, or as a fuel in cellular respiration. The latter occurs not only in plants but also in animals when the energy from plants is passed through a food chain.
 
+(ref:calvinc) [Overview of the Calvin cycle and carbon fixation](https://commons.wikimedia.org/wiki/File:Calvin-cycle4.svg) 
+
+```{r calvincycle, fig.cap='(ref:calvinc)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/photosynthesis/Calvin-cycle4.svg")
+```
+
 The fixation or reduction of carbon dioxide is a process in which carbon dioxide combines with a five-carbon sugar, ribulose 1,5-bisphosphate, to yield two molecules of a three-carbon compound, glycerate 3-phosphate, also known as 3-phosphoglycerate. Glycerate 3-phosphate, in the presence of ATP and NADPH produced during the light-dependent stages, is reduced to glyceraldehyde 3-phosphate. This product is also referred to as 3-phosphoglyceraldehyde (PGAL) or, more generically, as triose phosphate. Most (5 out of 6 molecules) of the glyceraldehyde 3-phosphate produced is used to regenerate ribulose 1,5-bisphosphate so the process can continue. The triose phosphates not thus "recycled" often condense to form hexose phosphates, which ultimately yield sucrose, starch and cellulose. The sugars produced during carbon metabolism yield carbon skeletons that can be used for other metabolic reactions like the production of amino acids and lipids.
+
+## Carbon Dioxide Levels And Photorespiration
+
+As carbon dioxide concentrations rise, the rate at which sugars are made by the light-independent reactions increases until limited by other factors. RuBisCO, the enzyme that captures carbon dioxide in the light-independent reactions, has a binding affinity for both carbon dioxide and oxygen. When the concentration of carbon dioxide is high, RuBisCO will fix carbon dioxide. However, if the carbon dioxide concentration is low, RuBisCO will bind oxygen instead of carbon dioxide. This process, called photorespiration, uses energy, but does not produce sugars.
+
+RuBisCO oxygenase activity is disadvantageous to plants for several reasons:
+
+1. One product of oxygenase activity is phosphoglycolate (2 carbon) instead of 3-phosphoglycerate (3 carbon). Phosphoglycolate cannot be metabolized by the Calvin-Benson cycle and represents carbon lost from the cycle. A high oxygenase activity, therefore, drains the sugars that are required to recycle ribulose 5-bisphosphate and for the continuation of the Calvin-Benson cycle.
+1. Phosphoglycolate is quickly metabolized to glycolate that is toxic to a plant at a high concentration; it inhibits photosynthesis.
+1. Salvaging glycolate is an energetically expensive process that uses the glycolate pathway, and only 75% of the carbon is returned to the Calvin-Benson cycle as 3-phosphoglycerate. The reactions also produce ammonia (NH3), which is able to diffuse out of the plant, leading to a loss of nitrogen.
+A highly simplified summary is:
+
+2 glycolate + ATP → 3-phosphoglycerate + carbon dioxide + ADP + NH~3~
+
+The salvaging pathway for the products of RuBisCO oxygenase activity is more commonly known as photorespiration, since it is characterized by light-dependent oxygen consumption and the release of carbon dioxide.
+
+(ref:photores) [Photorespiration](https://commons.wikimedia.org/wiki/File:Photorespiration.svg) 1. ribulose 1,5-bisphosphate 2. 3-Phosphoglycerate 3. 2-phosphoglycolate 4. glycolate 5. glyoxylate 6. glycine 7. serine 8. hydroxypyruvate 9. glycerate CC Calvin cycle
+
+```{r photorespiration, fig.cap='(ref:photores)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/photosynthesis/Photorespiration.svg")
+```
 
 ## Carbon Concentrating Mechanisms
 
 ## Overview of C4 Carbon Fixation
 
 In hot and dry conditions, plants close their stomata to prevent water loss. Under these conditions, CO~2~ will decrease and oxygen gas, produced by the light reactions of photosynthesis, will increase, causing an increase of photorespiration by the oxygenase activity of ribulose-1,5-bisphosphate carboxylase/oxygenase and decrease in carbon fixation. Some plants have evolved mechanisms to increase the CO~2~ concentration in the leaves under these conditions.
+
+(ref:c4c) [Overview of C4 carbon fixation](https://commons.wikimedia.org/wiki/File:HatchSlackpathway2.svg) 
+
+```{r c4carbon, fig.cap='(ref:c4c)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/photosynthesis/HatchSlackpathway2.svg")
+```
 
 Plants that use the C4 carbon fixation process chemically fix carbon dioxide in the cells of the mesophyll by adding it to the three-carbon molecule phosphoenolpyruvate (PEP), a reaction catalyzed by an enzyme called PEP carboxylase, creating the four-carbon organic acid oxaloacetic acid. Oxaloacetic acid or malate synthesized by this process is then translocated to specialized bundle sheath cells where the enzyme RuBisCO and other Calvin cycle enzymes are located, and where CO~2~ released by decarboxylation of the four-carbon acids is then fixed by RuBisCO activity to the three-carbon 3-phosphoglyceric acids. The physical separation of RuBisCO from the oxygen-generating light reactions reduces photorespiration and increases CO~2~ fixation and, thus, the photosynthetic capacity of the leaf. C4 plants can produce more sugar than C3 plants in conditions of high light and temperature. Many important crop plants are C4 plants, including maize, sorghum, sugarcane, and millet. Plants that do not use PEP-carboxylase in carbon fixation are called C3 plants because the primary carboxylation reaction, catalyzed by RuBisCO, produces the three-carbon 3-phosphoglyceric acids directly in the Calvin-Benson cycle. Over 90% of plants use C3 carbon fixation, compared to 3% that use C4 carbon fixation; however, the evolution of C4 in over 60 plant lineages makes it a striking example of convergent evolution.
 
@@ -111,6 +193,12 @@ The biochemical capacity to use water as the source for electrons in photosynthe
 
 Cellular respiration is a set of metabolic reactions and processes that take place in the cells of organisms to convert chemical energy from oxygen molecules or nutrients into adenosine triphosphate (ATP), and then release waste products. The reactions involved in respiration are catabolic reactions, which break large molecules into smaller ones, releasing energy because weak high-energy bonds, in particular in molecular oxygen, are replaced by stronger bonds in the products. Respiration is one of the key ways a cell releases chemical energy to fuel cellular activity. The overall reaction occurs in a series of biochemical steps, some of which are redox reactions. Although cellular respiration is technically a combustion reaction, it clearly does not resemble one when it occurs in a living cell because of the slow, controlled release of energy from the series of reactions.
 
+(ref:cellres) [A diagram of cellular respiration including glycolysis, Krebs cycle (AKA citric acid cycle), and the electron transport chain](https://commons.wikimedia.org/wiki/File:CellRespiration.svg) 
+
+```{r cellularrespiration, fig.cap='(ref:cellres)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/photosynthesis/CellRespiration.svg")
+```
+
 Nutrients that are commonly used by animal and plant cells in respiration include sugar, amino acids and fatty acids, and the most common oxidizing agent providing most of the chemical energy is molecular oxygen (O~2~). The chemical energy stored in ATP (the bond of its third phosphate group to the rest of the molecule can be broken allowing more stable products to form, thereby releasing energy for use by the cell) can then be used to drive processes requiring energy, including biosynthesis, locomotion or transport of molecules across cell membranes.
 
 ## Aerobic Respiration
@@ -127,6 +215,12 @@ The negative ΔG indicates that the reaction can occur spontaneously.
 
 The potential of NADH and FADH~2~ is converted to more ATP through an electron transport chain with oxygen and protons (hydrogen) as the "terminal electron acceptors". Most of the ATP produced by aerobic cellular respiration is made by oxidative phosphorylation. The energy of O~2~  released is used to create a chemiosmotic potential by pumping protons across a membrane. This potential is then used to drive ATP synthase and produce ATP from ADP and a phosphate group. Biology textbooks often state that 38 ATP molecules can be made per oxidized glucose molecule during cellular respiration (2 from glycolysis, 2 from the Krebs cycle, and about 34 from the electron transport system). However, this maximum yield is never quite reached because of losses due to leaky membranes as well as the cost of moving pyruvate and ADP into the mitochondrial matrix, and current estimates range around 29 to 30 ATP per glucose.
 
+(ref:cellresst) [Stoichiometry of aerobic respiration](https://commons.wikimedia.org/wiki/File:Cellular_respiration.gif) and most known fermentation types in eucaryotic cell. Numbers in circles indicate counts of carbon atoms in molecules, C6 is glucose C~6~H~12~O~6~, C1 carbon dioxide CO~2~. Mitochondrial outer membrane is omitted. 
+
+```{r cellresstoich, fig.cap='(ref:cellresst)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/photosynthesis/Cellular_respiration.png")
+```
+
 Aerobic metabolism is up to 15 times more efficient than anaerobic metabolism (which yields 2 molecules ATP per 1 molecule glucose) because the double bond in O~2~ is of higher energy than other double bonds or pairs of single bonds in other common molecules in the biosphere. However, some anaerobic organisms, such as methanogens are able to continue with anaerobic respiration, yielding more ATP by using other inorganic molecules (not oxygen) of high energy as final electron acceptors in the electron transport chain. They share the initial pathway of glycolysis but aerobic metabolism continues with the Krebs cycle and oxidative phosphorylation. The post-glycolytic reactions take place in the mitochondria in eukaryotic cells, and in the cytoplasm in prokaryotic cells.
 
 ## Glycolysis
@@ -135,7 +229,7 @@ Out of the cytoplasm it goes into the Krebs cycle with the acetyl CoA. It then m
 Main article: Glycolysis
 Glycolysis is a metabolic pathway that takes place in the cytosol of cells in all living organisms. Glycolysis can be literally translated as "sugar splitting", and occurs with or without the presence of oxygen. In aerobic conditions, the process converts one molecule of glucose into two molecules of pyruvate (pyruvic acid), generating energy in the form of two net molecules of ATP. Four molecules of ATP per glucose are actually produced, however, two are consumed as part of the preparatory phase. The initial phosphorylation of glucose is required to increase the reactivity (decrease its stability) in order for the molecule to be cleaved into two pyruvate molecules by the enzyme aldolase. During the pay-off phase of glycolysis, four phosphate groups are transferred to ADP by substrate-level phosphorylation to make four ATP, and two NADH are produced when the pyruvate is oxidized. The overall reaction can be expressed this way:
 
-Glucose + 2 NAD+ + 2 P~i~ + 2 ADP → 2 pyruvate + 2 H^+^ + 2 NADH + 2 ATP + 2 H^+^ + 2 H~2~O + energy
+Glucose + 2 NAD^+^ + 2 P~i~ + 2 ADP → 2 pyruvate + 2 H^+^ + 2 NADH + 2 ATP + 2 H^+^ + 2 H~2~O + energy
 
 Starting with glucose, 1 ATP is used to donate a phosphate to glucose to produce glucose 6-phosphate. Glycogen can be converted into glucose 6-phosphate as well with the help of glycogen phosphorylase. During energy metabolism, glucose 6-phosphate becomes fructose 6-phosphate. An additional ATP is used to phosphorylate fructose 6-phosphate into fructose 1,6-bisphosphate by the help of phosphofructokinase. Fructose 1,6-biphosphate then splits into two phosphorylated molecules with three carbon chains which later degrades into pyruvate.
 
@@ -157,9 +251,19 @@ In eukaryotes, oxidative phosphorylation occurs in the mitochondrial cristae. It
 
 ## Fermentation
 
-Without oxygen, pyruvate (pyruvic acid) is not metabolized by cellular respiration but undergoes a process of fermentation. The pyruvate is not transported into the mitochondrion, but remains in the cytoplasm, where it is converted to waste products that may be removed from the cell. This serves the purpose of oxidizing the electron carriers so that they can perform glycolysis again and removing the excess pyruvate. Fermentation oxidizes NADH to NAD+ so it can be re-used in glycolysis. In the absence of oxygen, fermentation prevents the buildup of NADH in the cytoplasm and provides NAD+ for glycolysis. This waste product varies depending on the organism. In skeletal muscles, the waste product is lactic acid. This type of fermentation is called lactic acid fermentation. In strenuous exercise, when energy demands exceed energy supply, the respiratory chain cannot process all of the hydrogen atoms joined by NADH. During anaerobic glycolysis, NAD+ regenerates when pairs of hydrogen combine with pyruvate to form lactate. Lactate formation is catalyzed by lactate dehydrogenase in a reversible reaction. Lactate can also be used as an indirect precursor for liver glycogen. During recovery, when oxygen becomes available, NAD+ attaches to hydrogen from lactate to form ATP. In yeast, the waste products are ethanol and carbon dioxide. This type of fermentation is known as alcoholic or ethanol fermentation. The ATP generated in this process is made by substrate-level phosphorylation, which does not require oxygen.
+Without oxygen, pyruvate (pyruvic acid) is not metabolized by cellular respiration but undergoes a process of fermentation. The pyruvate is not transported into the mitochondrion, but remains in the cytoplasm, where it is converted to waste products that may be removed from the cell. This serves the purpose of oxidizing the electron carriers so that they can perform glycolysis again and removing the excess pyruvate. Fermentation oxidizes NADH to NAD^+^ so it can be re-used in glycolysis. In the absence of oxygen, fermentation prevents the buildup of NADH in the cytoplasm and provides NAD^+^ for glycolysis. This waste product varies depending on the organism. In skeletal muscles, the waste product is lactic acid. This type of fermentation is called lactic acid fermentation. In strenuous exercise, when energy demands exceed energy supply, the respiratory chain cannot process all of the hydrogen atoms joined by NADH. During anaerobic glycolysis, NAD^+^ regenerates when pairs of hydrogen combine with pyruvate to form lactate. Lactate formation is catalyzed by lactate dehydrogenase in a reversible reaction. Lactate can also be used as an indirect precursor for liver glycogen. During recovery, when oxygen becomes available, NAD^+^ attaches to hydrogen from lactate to form ATP. In yeast, the waste products are ethanol and carbon dioxide. This type of fermentation is known as alcoholic or ethanol fermentation. The ATP generated in this process is made by substrate-level phosphorylation, which does not require oxygen.
 
 Fermentation is less efficient at using the energy from glucose: only 2 ATP are produced per glucose, compared to the 38 ATP per glucose nominally produced by aerobic respiration. This is because most of the energy of aerobic respiration derives from O~2~ with its relatively weak, high-energy double bond. Glycolytic ATP, however, is created more quickly. For prokaryotes to continue a rapid growth rate when they are shifted from an aerobic environment to an anaerobic environment, they must increase the rate of the glycolytic reactions. For multicellular organisms, during short bursts of strenuous activity, muscle cells use fermentation to supplement the ATP production from the slower aerobic respiration, so fermentation may be used by a cell even before the oxygen levels are depleted, as is the case in sports that do not require athletes to pace themselves, such as sprinting.
+
+Along with photosynthesis and aerobic respiration, fermentation is a way of extracting energy from molecules, but it is the only one common to all bacteria and eukaryotes. It is therefore considered the oldest metabolic pathway, suitable for an environment that did not yet have oxygen. Yeast, a form of fungus, occurs in almost any environment capable of supporting microbes, from the skins of fruits to the guts of insects and mammals and the deep ocean, and harvests sugar-rich materials to produce ethanol and carbon dioxide.
+
+The basic mechanism for fermentation remains present in all cells of higher organisms. Mammalian muscle carries out fermentation during periods of intense exercise where oxygen supply becomes limited, resulting in the creation of lactic acid. In invertebrates, fermentation also produces succinate and alanine.:141
+
+Fermentative bacteria play an essential role in the production of methane in habitats ranging from the rumens of cattle to sewage digesters and freshwater sediments. They produce hydrogen, carbon dioxide, formate and acetate and carboxylic acids; and then consortia of microbes convert the carbon dioxide and acetate to methane. Acetogenic bacteria oxidize the acids, obtaining more acetate and either hydrogen or formate. Finally, methanogens (in the domain Archea) convert acetate to methane.
+
+In ethanol fermentation, one glucose molecule is converted into two ethanol molecules and two carbon dioxide molecules. It is used to make bread dough rise: the carbon dioxide forms bubbles, expanding the dough into a foam. The ethanol is the intoxicating agent in alcoholic beverages such as wine, beer and liquor. Fermentation of feedstocks, including sugarcane, corn, and sugar beets, produces ethanol that is added to gasoline. In some species of fish, including goldfish and carp, it provides energy when oxygen is scarce (along with lactic acid fermentation).
+
+Before fermentation, a glucose molecule breaks down into two pyruvate molecules (Glycolysis). The energy from this exothermic reaction is used to bind inorganic phosphates to ADP, which converts it to ATP, and convert NAD+ to NADH. The pyruvates break down into two acetaldehyde molecules and give off two carbon dioxide molecules as waste products. The acetaldehyde is reduced into ethanol using the energy and hydrogen from NADH, and the NADH is oxidized into NAD+ so that the cycle may repeat. The reaction is catalyzed by the enzymes pyruvate decarboxylase and alcohol dehydrogenase.
 
 ## Anaerobic respiration
 

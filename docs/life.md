@@ -40,7 +40,7 @@ Since its primordial beginnings, life on Earth has changed its environment on a 
 
 }
 
-\caption{(ref:)}(\#fig:celltypecartoon )
+\caption{(ref:celltypes)}(\#fig:celltypecartoon )
 \end{figure}
 
 In the past, there have been many attempts to define what is meant by "life" through obsolete concepts such as odic force, hylomorphism, spontaneous generation and vitalism, that have now been disproved by biological discoveries. Aristotle is considered to be the first person to classify organisms. Later, Carl Linnaeus introduced his system of binomial nomenclature for the classification of species. Eventually new groups and categories of life were discovered, such as cells and microorganisms, forcing dramatic revisions of the structure of relationships between living organisms. Though currently only known on Earth, life need not be restricted to it, and many scientists speculate in the existence of extraterrestrial life. Artificial life is a computer simulation or human-made reconstruction of any aspect of life, which is often used to examine systems related to natural life.

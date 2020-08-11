@@ -10,6 +10,12 @@ In cells without nuclei (prokaryotes), (i.e., bacteria and archaea), the cell cy
 
 The single DNA molecule first replicates, then attaches each copy to a different part of the cell membrane. When the cell begins to pull apart, the replicated and original chromosomes are separated. The consequence of this asexual method of reproduction is that all the cells are genetically identical, meaning that they have the same genetic material (barring random mutations). Unlike the processes of mitosis and meiosis used by eukaryotic cells, binary fission takes place without the formation of a spindle apparatus on the cell. Like in mitosis (and unlike in meiosis), the parental identity is preserved.
 
+(ref:celldiv) [Many bacteria reproduce through binary fission, which is compared to mitosis and meiosis in this image.](https://commons.wikimedia.org/wiki/File:Three_cell_growth_types.svg) 
+
+```{r celldivision, fig.cap='(ref:celldiv)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cellcycle/Three_cell_growth_types.svg")
+```
+
 ## Binary Fission
 
 The process of binary fission in bacteria involves the following steps. First, the cell's DNA is replicated. The replicated DNA copies then move to opposite poles of the cell in an energy-dependent process. The cell lengthens. Then, the equatorial plane of the cell constricts and separates the plasma membrane such that each new cell has exactly the same genetic material.

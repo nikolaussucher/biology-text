@@ -1,0 +1,24 @@
+Chemical class,Group,Formula,Structural Formula,Prefix,Suffix,Example
+Amide,Carboxamide,"RCONR'R""",,carboxamido-orcarbamoyl-,-amide,Acetamide(Ethanamide)
+Amines,Primary amine,RNH2,,amino-,-amine,Methylamine(Methanamine)
+Amines,Secondary amine,"R'R""NH",,amino-,-amine,Dimethylamine
+Amines,Tertiary amine,R3N,,amino-,-amine,Trimethylamine
+Amines,4° ammonium ion,R4N+,,ammonio-,-ammonium,Choline
+Imine,Primary ketimine,RC(=NH)R',,imino-,-imine,
+Imine,Secondary ketimine,,,imino-,-imine,
+Imine,Primary aldimine,RC(=NH)H,,imino-,-imine,Ethanimine
+Imine,Secondary aldimine,RC(=NR')H,,imino-,-imine,
+Imide,Imide,(RCO)2NR',,imido-,-imide,"Succinimide(Pyrrolidine-2,5-dione)"
+Azide,Azide,RN3,,azido-,alkyl azide,Phenyl azide(Azidobenzene)
+Azo compound,Azo(Diimide),RN2R',,azo-,-diazene,Methyl orange(p-dimethylamino-azobenzenesulfonic acid)
+Cyanates,Cyanate,ROCN,,cyanato-,alkyl cyanate,Methyl cyanate
+Cyanates,Isocyanate,RNCO,,isocyanato-,alkyl isocyanate,Methyl isocyanate
+Nitrate,Nitrate,RONO2,,"nitrooxy-, nitroxy-",alkyl nitrate,Amyl nitrate(1-nitrooxypentane)
+Nitrile,Nitrile,RCN,,cyano-,alkanenitrilealkyl cyanide,Benzonitrile(Phenyl cyanide)
+Nitrile,Isonitrile,RNC,,isocyano-,alkaneisonitrilealkyl isocyanide,Methyl isocyanide
+Nitrite,Nitrosooxy,RONO,,nitrosooxy-,alkyl nitrite,Isoamyl nitrite(3-methyl-1-nitrosooxybutane)
+Nitro compound,Nitro,RNO2,,nitro-,,Nitromethane
+Nitroso compound,Nitroso,RNO,,nitroso- (Nitrosyl-),,Nitrosobenzene
+Oxime,Oxime,RCH=NOH,,,Oxime,Acetone oxime(2-Propanone oxime)
+Pyridine derivative,Pyridyl,RC5H4N,,4-pyridyl(pyridin-4-yl) 3-pyridyl(pyridin-3-yl) 2-pyridyl(pyridin-2-yl),-pyridine,Nicotine
+Carbamate ester,Carbamate,RO(C=O)NR2,,(-carbamoyl)oxy-,-carbamate,Chlorpropham(Isopropyl (3-chlorophenyl)carbamate)

@@ -34,7 +34,7 @@ Since its primordial beginnings, life on Earth has changed its environment on a 
 
 (ref:celltypes) [Cartoons of a eukaryotic cell (left) and prokaryotic cell (right)](https://commons.wikimedia.org/wiki/File:Celltypes.svg)
 
-```{r celltypecartoon , fig.cap='(ref:)', echo=FALSE, message=FALSE, warning=FALSE}
+```{r celltypecartoon , fig.cap='(ref:celltypes)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/life/Celltypes.svg")
 ```
 

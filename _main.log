@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.8.9)  11 AUG 2020 00:59
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.8.9)  11 AUG 2020 22:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1967,43 +1967,18 @@ lnum;mapping=tex-text;" at 14.4pt
 [15]
 File: ./figures/life/Celltypes.png Graphic file (type bmp)
 <./figures/life/Celltypes.png>
-LaTeX Font Info:    Font shape `TU/Cantarell(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 271.
-Requested font "[Cantarell-Bold.otf]/OT:script=latn;language=dflt;+liga;+tnum;+
-lnum;mapping=tex-text;" at 10.0pt
- -> /usr/local/texlive/texmf-dist/fonts/opentype/gnome/cantarell/Cantarell-Bold
-.otf
-[16] [17] [18] [19] [20] [21] [22]
-LaTeX Font Info:    Font shape `TU/Cantarell(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 400.
-Requested font "[Cantarell-Bold.otf]/OT:script=latn;language=dflt;+liga;+tnum;+
-lnum;mapping=tex-text;" at 12.0pt
- -> /usr/local/texlive/texmf-dist/fonts/opentype/gnome/cantarell/Cantarell-Bold
-.otf
-
-Underfull \vbox (badness 3460) has occurred while \output is active []
-
-[23] [24]
-Underfull \hbox (badness 1365) in paragraph at lines 431--432
-\TU/Cantarell(0)/m/n/10 (originally Archaebacteria); Bacteria (originally Eubac
-teria) and Eukaryota (including protists,
- []
-
-File: ./figures/life/Biological_classification_L_Pengo.png Graphic file (type b
-mp)
-<./figures/life/Biological_classification_L_Pengo.png>
 ! Argument of \caption@ydblarg has an extra }.
 <inserted text> 
                 \par 
-l.443 ...am uses a 3 Domains / 6 Kingdoms format}}
-                                                  \label{fig:hierarchycartoon} 
+l.271 ...ell (left) and prokaryotic cell (right)}}
+                                                  (\#fig:celltypecartoon ) 
 Here is how much of TeX's memory you used:
- 22544 strings out of 481691
- 424549 string characters out of 5933564
+ 22529 strings out of 481691
+ 423772 string characters out of 5933564
  832888 words of memory out of 5000000
- 39287 multiletter control sequences out of 15000+600000
- 541829 words of font info for 106 fonts, out of 8000000 for 9000
+ 39275 multiletter control sequences out of 15000+600000
+ 541813 words of font info for 104 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 63i,8n,125p,1397b,797s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,8n,125p,1261b,797s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on _main.pdf (24 pages).
+Output written on _main.pdf (15 pages).

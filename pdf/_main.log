@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  10 AUG 2020 21:20
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  11 AUG 2020 18:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1013,15 +1013,15 @@ LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
 
  [11] (./_main.lot
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
-(Font)              scaled to size 5.71078pt on input line 12.
+(Font)              scaled to size 5.71078pt on input line 13.
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
-(Font)              scaled to size 6.52661pt on input line 12.
+(Font)              scaled to size 6.52661pt on input line 13.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 12.
+(Font)              <8> on input line 13.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 12.
+(Font)              <6> on input line 13.
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
-(Font)              scaled to size 4.89496pt on input line 12.
+(Font)              scaled to size 4.89496pt on input line 13.
 )
 \tf@lot=\write5
 \openout5 = `_main.lot'.
@@ -1036,35 +1036,37 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
-Missing character: There is no ◄ in font Lucida Grande/AAT:mapping=tex-text;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Missing character: There is no ◄ in font Lucida Grande/AAT:mapping=tex-text;!
 
- [15]
-Underfull \vbox (badness 1043) has occurred while \output is active []
+[15] [16] [17]
+Underfull \vbox (badness 5036) has occurred while \output is active []
 
- [16]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17]
-[18]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [18]
+Underfull \vbox (badness 2073) has occurred while \output is active []
 
  [19]
-[20])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23])
 \tf@lof=\write6
 \openout6 = `_main.lof'.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[24] [25
 
- [21]
-[22] [23
-
-] [24
+] [26
 
 ]
 Chapter 1.
@@ -1131,46 +1133,90 @@ pe bmp)
 Missing character: There is no ⇆ in font Lucida Grande/AAT:mapping=tex-text;!
  [32] [33] [34]
 Chapter 3.
+File: ./figures/chemistry/Stuctural_drawings_of_butane_854px.jpg Graphic file (
+type bmp)
+<./figures/chemistry/Stuctural_drawings_of_butane_854px.jpg>
 [35
 
-] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48]
-Chapter 4.
-[49
+]
+Overfull \hbox (18.53795pt too wide) in paragraph at lines 768--787
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 2409) has occurred while \output is active []
+
+ [36]
+[37]
+File: ./figures/chemistry/Peptide-Figure-Revised.png Graphic file (type bmp)
+<./figures/chemistry/Peptide-Figure-Revised.png>
+ [38] [39] [40] [41]
+File: ./figures/chemistry/Protein_structure.png Graphic file (type bmp)
+<./figures/chemistry/Protein_structure.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+[43]
+File: ./figures/chemistry/Saccharose2.png Graphic file (type bmp)
+<./figures/chemistry/Saccharose2.png>
+ [44] [45]
+File: ./figures/chemistry/Beta-D-Lactose.png Graphic file (type bmp)
+<./figures/chemistry/Beta-D-Lactose.png>
+File: ./figures/chemistry/Common_lipids_lmaps.png Graphic file (type bmp)
+<./figures/chemistry/Common_lipids_lmaps.png>
+ [46] [47] [48]
+File: ./figures/chemistry/Fat_triglyceride_shorthand_formula.png Graphic file (
+type bmp)
+<./figures/chemistry/Fat_triglyceride_shorthand_formula.png>
+ [49] [50]
+File: ./figures/dna/dna_licorice.png Graphic file (type bmp)
+<./figures/dna/dna_licorice.png>
+
+Underfull \vbox (badness 4096) has occurred while \output is active []
+
+ [51]
+[52] [53] [54
 
 ]
+Chapter 4.
+[55]
 File: ./figures/cells/Micrographia_title_page.png Graphic file (type bmp)
 <./figures/cells/Micrographia_title_page.png>
 File: ./figures/cells/Hooke-microscope.png Graphic file (type bmp)
 <./figures/cells/Hooke-microscope.png>
 File: ./figures/cells/RobertHookeMicrographia1665.jpg Graphic file (type bmp)
 <./figures/cells/RobertHookeMicrographia1665.jpg>
- [50] [51] [52] [53]
+ [56] [57] [58] [59]
 File: ./figures/cells/Prokaryote_cell.png Graphic file (type bmp)
 <./figures/cells/Prokaryote_cell.png>
- [54] [55]
+ [60] [61]
 File: ./figures/cells/Animal_cell_structure_en.png Graphic file (type bmp)
 <./figures/cells/Animal_cell_structure_en.png>
 File: ./figures/cells/Plant_cell_structure-en.png Graphic file (type bmp)
 <./figures/cells/Plant_cell_structure-en.png>
- [56] [57]
-Overfull \hbox (120.91533pt too wide) in paragraph at lines 1191--1213
+ [62] [63]
+Overfull \hbox (120.91533pt too wide) in paragraph at lines 1313--1335
  [][] 
  []
 
 File: ./figures/cells/Cell_membrane_detailed_diagram_en.png Graphic file (type 
 bmp)
 <./figures/cells/Cell_membrane_detailed_diagram_en.png>
-[58]
+[64]
 File: ./figures/cells/FluorescentCells.jpg Graphic file (type bmp)
 <./figures/cells/FluorescentCells.jpg>
- [59] [60]
+ [65] [66]
 File: ./figures/cells/Microfilament_Structure.png Graphic file (type bmp)
 <./figures/cells/Microfilament_Structure.png>
 File: ./figures/cells/Intermediate_filaments.png Graphic file (type bmp)
 <./figures/cells/Intermediate_filaments.png>
 File: ./figures/cells/Microtubule_Structure.png Graphic file (type bmp)
 <./figures/cells/Microtubule_Structure.png>
- [61] [62] [63]
+ [67] [68] [69]
 File: ./figures/cells/HeLa_cells_stained_with_Hoechst_33258.jpg Graphic file (t
 ype bmp)
 <./figures/cells/HeLa_cells_stained_with_Hoechst_33258.jpg>
@@ -1182,13 +1228,13 @@ File: ./figures/cells/Diagram_human_cell_nucleus.png Graphic file (type bmp)
 <./figures/cells/Diagram_human_cell_nucleus.png>
 File: ./figures/cells/NuclearPore_crop.png Graphic file (type bmp)
 <./figures/cells/NuclearPore_crop.png>
- [64] [65] [66] [67]
+ [70] [71] [72] [73]
 File: ./figures/cells/Mitochondria_mammalian_lung_TEM.jpg Graphic file (type bm
 p)
 <./figures/cells/Mitochondria_mammalian_lung_TEM.jpg>
 File: ./figures/cells/Mitochondrion_mini.png Graphic file (type bmp)
 <./figures/cells/Mitochondrion_mini.png>
- [68] [69]
+ [74] [75]
 File: ./figures/cells/DAPIMitoTrackerRedAlexaFluor488BPAE.jpg Graphic file (typ
 e bmp)
 <./figures/cells/DAPIMitoTrackerRedAlexaFluor488BPAE.jpg>
@@ -1196,8 +1242,8 @@ File: ./figures/cells/Chloroplast_mini.png Graphic file (type bmp)
 <./figures/cells/Chloroplast_mini.png>
 Missing character: There is no ◄ in font Lucida Grande/AAT:mapping=tex-text;!
 Missing character: There is no ◄ in font Lucida Grande/AAT:mapping=tex-text;!
- [70] [71] [72]
-[73]
+ [76] [77] [78]
+[79]
 File: ./figures/cells/Endomembrane_system_diagram_en.png Graphic file (type bmp
 )
 <./figures/cells/Endomembrane_system_diagram_en.png>
@@ -1206,114 +1252,168 @@ File: ./figures/translation/human_ribosome.png Graphic file (type bmp)
 
 Underfull \vbox (badness 1845) has occurred while \output is active []
 
- [74]
-[75] [76] [77] [78
+ [80]
+[81] [82] [83] [84
 
 ]
 Chapter 5.
 File: ./figures/potential/cell_membrane_rhodopsin_water_Cl_K.png Graphic file (
 type bmp)
 <./figures/potential/cell_membrane_rhodopsin_water_Cl_K.png>
-[79] [80] [81] [82]
-Overfull \hbox (1392.72432pt too wide) in paragraph at lines 1726--1736
+[85] [86] [87] [88]
+Overfull \hbox (1392.72432pt too wide) in paragraph at lines 1848--1858
  [][] 
  []
 
-[83] [84]
+[89] [90]
 Underfull \vbox (badness 2460) has occurred while \output is active []
 
- [85]
-[86] [87] [88] [89]
+ [91]
+[92] [93] [94] [95]
 File: ./figures/membrane/Cell_junction_simplified_en.png Graphic file (type bmp
 )
 <./figures/membrane/Cell_junction_simplified_en.png>
- [90] [91] [92
+ [96] [97] [98
 
 ]
 Chapter 6.
-[93] [94]
+File: ./figures/bioenergetics/Adenosintriphosphat_protoniert.png Graphic file (
+type bmp)
+<./figures/bioenergetics/Adenosintriphosphat_protoniert.png>
+[99] [100]
 File: ./figures/bioenergetics/Sun_in_February_black_version.jpg Graphic file (t
 ype bmp)
 <./figures/bioenergetics/Sun_in_February_black_version.jpg>
- [95] [96] [97]
-Overfull \hbox (24.34428pt too wide) in paragraph at lines 2054--2063
+ [101] [102]
+File: ./figures/bioenergetics/Metabolism.png Graphic file (type bmp)
+<./figures/bioenergetics/Metabolism.png>
+ [103]
+Overfull \hbox (24.34428pt too wide) in paragraph at lines 2198--2207
  [][] 
  []
 
-[98] [99] [100] [101] [102] [103]
-Underfull \vbox (badness 6510) has occurred while \output is active []
-
- [104]
-[105] [106] [107] [108]
+[104]
+File: ./figures/bioenergetics/Catabolism_schematic.png Graphic file (type bmp)
+<./figures/bioenergetics/Catabolism_schematic.png>
+ [105] [106] [107] [108] [109] [110] [111] [112] [113] [114] [115]
+[116]
 Chapter 7.
-[109
+File: ./figures/photosynthesis/Photosynthesis_en.png Graphic file (type bmp)
+<./figures/photosynthesis/Photosynthesis_en.png>
+File: ./figures/photosynthesis/Mitochondrial_electron_transport_chain—Etc4.png 
+Graphic file (type bmp)
+<./figures/photosynthesis/Mitochondrial_electron_transport_chain—Etc4.png>
+[117
 
-] [110] [111] [112] [113] [114] [115] [116] [117] [118
+] [118] [119]
+File: ./figures/photosynthesis/Simple_photosynthesis_overview.png Graphic file 
+(type bmp)
+<./figures/photosynthesis/Simple_photosynthesis_overview.png>
+File: ./figures/photosynthesis/Chlorophyll_ab_spectra-en.png Graphic file (type
+ bmp)
+<./figures/photosynthesis/Chlorophyll_ab_spectra-en.png>
+ [120] [121] [122]
+File: ./figures/photosynthesis/Chloroplast.png Graphic file (type bmp)
+<./figures/photosynthesis/Chloroplast.png>
+ [123]
+File: ./figures/photosynthesis/Z-scheme.png Graphic file (type bmp)
+<./figures/photosynthesis/Z-scheme.png>
+ [124]
+File: ./figures/photosynthesis/Thylakoid_membrane_3.png Graphic file (type bmp)
+
+<./figures/photosynthesis/Thylakoid_membrane_3.png>
+
+Underfull \vbox (badness 7012) has occurred while \output is active []
+
+ [125]
+File: ./figures/photosynthesis/Calvin-cycle4.png Graphic file (type bmp)
+<./figures/photosynthesis/Calvin-cycle4.png>
+
+Underfull \vbox (badness 1748) has occurred while \output is active []
+
+ [126]
+File: ./figures/photosynthesis/Photorespiration.png Graphic file (type bmp)
+<./figures/photosynthesis/Photorespiration.png>
+File: ./figures/photosynthesis/HatchSlackpathway2.png Graphic file (type bmp)
+<./figures/photosynthesis/HatchSlackpathway2.png>
+
+[127] [128] [129]
+File: ./figures/photosynthesis/CellRespiration.png Graphic file (type bmp)
+<./figures/photosynthesis/CellRespiration.png>
+ [130]
+File: ./figures/photosynthesis/Cellular_respiration.png Graphic file (type bmp)
+
+<./figures/photosynthesis/Cellular_respiration.png>
+ [131] [132] [133] [134] [135] [136
 
 ]
 Chapter 8.
-[119]
-Overfull \hbox (625.74751pt too wide) in paragraph at lines 2585--2600
+File: ./figures/cellcycle/Three_cell_growth_types.png Graphic file (type bmp)
+<./figures/cellcycle/Three_cell_growth_types.png>
+[137] [138]
+Overfull \hbox (625.74751pt too wide) in paragraph at lines 2922--2937
 [][] 
  []
 
-[120] [121]
+[139] [140]
 File: ./figures/cellcycle/Mitosis_Stages.png Graphic file (type bmp)
 <./figures/cellcycle/Mitosis_Stages.png>
 File: ./figures/cellcycle/human_male_karyotype.png Graphic file (type bmp)
 <./figures/cellcycle/human_male_karyotype.png>
- [122]
+ [141]
 File: ./figures/chromosomes/Chromatin_Structures.png Graphic file (type bmp)
 <./figures/chromosomes/Chromatin_Structures.png>
- [123] [124] [125] [126]
+ [142] [143] [144] [145]
 
-LaTeX Warning: Reference `fig:cellcycle' on page 127 undefined on input line 28
-76.
+LaTeX Warning: Reference `fig:cellcycle' on page 146 undefined on input line 32
+13.
 
 File: ./figures/reproduction/Animal_cell_cycle-en.png Graphic file (type bmp)
 <./figures/reproduction/Animal_cell_cycle-en.png>
 File: ./figures/reproduction/Wilson1900Fig2.jpg Graphic file (type bmp)
 <./figures/reproduction/Wilson1900Fig2.jpg>
-[127] [128]
+[146] [147]
 File: ./figures/reproduction/ProphaseIF.jpg Graphic file (type bmp)
 <./figures/reproduction/ProphaseIF.jpg>
- [129] [130]
+ [148] [149]
 File: ./figures/reproduction/Prometaphase.jpg Graphic file (type bmp)
 <./figures/reproduction/Prometaphase.jpg>
- [131]
+ [150]
 File: ./figures/reproduction/MetaphaseIF.jpg Graphic file (type bmp)
 <./figures/reproduction/MetaphaseIF.jpg>
 File: ./figures/reproduction/Anaphase_IF.jpg Graphic file (type bmp)
 <./figures/reproduction/Anaphase_IF.jpg>
 File: ./figures/reproduction/TelophaseIF.jpg Graphic file (type bmp)
 <./figures/reproduction/TelophaseIF.jpg>
- [132] [133] [134] [135] [136] [137] [138]
-Chapter 9.
-[139
+ [151] [152] [153] [154] [155] [156] [157]
+[158
 
-] [140] [141] [142] [143] [144]
-Overfull \hbox (7.69218pt too wide) in paragraph at lines 3257--3257
+]
+Chapter 9.
+File: ./figures/reproduction/Meiosis_Overview_new.png Graphic file (type bmp)
+<./figures/reproduction/Meiosis_Overview_new.png>
+[159] [160] [161]
+File: ./figures/reproduction/Meiosis_Stages.png Graphic file (type bmp)
+<./figures/reproduction/Meiosis_Stages.png>
+ [162] [163] [164]
+Overfull \hbox (7.69218pt too wide) in paragraph at lines 3616--3616
 []|\TU/LucidaGrande(0)/m/n/10 Tetrasomy/pentasomy|  
  []
 
+[165] [166] [167] [168] [169] [170
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [145]
-[146] [147] [148]
+]
 Chapter 10.
 File: ./figures/mendel/Gregor_Mendel.png Graphic file (type bmp)
 <./figures/mendel/Gregor_Mendel.png>
-[149
-
-] [150]
+[171] [172]
 File: ./figures/mendel/Gregor_Mendel_-_characteristics_of_pea_plants_-_english.
 png Graphic file (type bmp)
 <./figures/mendel/Gregor_Mendel_-_characteristics_of_pea_plants_-_english.png>
 File: ./figures/mendel/Dominant-recessive_inheritance_-_flowers_of_pea_plants.p
 ng Graphic file (type bmp)
 <./figures/mendel/Dominant-recessive_inheritance_-_flowers_of_pea_plants.png>
- [151]
+ [173]
 File: ./figures/mendel/Dominant-recessive_inheritance_P_-_F1_-_F2.png Graphic f
 ile (type bmp)
 <./figures/mendel/Dominant-recessive_inheritance_P_-_F1_-_F2.png>
@@ -1324,11 +1424,11 @@ ype bmp)
 Overfull \vbox (194.92415pt too high) has occurred while \output is active []
 
 
-[152] [153] [154]
+[174] [175] [176]
 File: ./figures/mendel/Independent_assortment_segregation.png Graphic file (typ
 e bmp)
 <./figures/mendel/Independent_assortment_segregation.png>
- [155] [156]
+ [177] [178]
 File: ./figures/mendel/Punnett.png Graphic file (type bmp)
 <./figures/mendel/Punnett.png>
 File: ./figures/mendel/PunnettF1.png Graphic file (type bmp)
@@ -1338,49 +1438,49 @@ File: ./figures/mendel/Monohybrid_cross.png Graphic file (type bmp)
 
 Underfull \vbox (badness 1990) has occurred while \output is active []
 
- [157]
-[158]
+ [179]
+[180]
 File: ./figures/mendel/Dihybrid_cross.png Graphic file (type bmp)
 <./figures/mendel/Dihybrid_cross.png>
- [159]
-Underfull \hbox (badness 3701) in paragraph at lines 3672--3674
+ [181]
+Underfull \hbox (badness 3701) in paragraph at lines 4031--4033
 []\TU/LucidaGrande(0)/m/n/10 Colour blindness (monochromatism, dichromatism, an
 omalous trichromatism, tritanopia, deuteranopia,
  []
 
-[160]
+[182]
 Chapter 11.
-[161
+[183
 
 ]
 File: ./figures/molecular_biology/DNA_cartoon.png Graphic file (type bmp)
 <./figures/molecular_biology/DNA_cartoon.png>
- [162]
+ [184]
 File: ./figures/dna/dna_licorice.png Graphic file (type bmp)
 <./figures/dna/dna_licorice.png>
- [163]
+ [185]
 File: ./figures/dna/bases_hydrogen.png Graphic file (type bmp)
 <./figures/dna/bases_hydrogen.png>
 
 Underfull \vbox (badness 6725) has occurred while \output is active []
 
- [164]
+ [186]
 File: ./figures/dna/dna_solid.png Graphic file (type bmp)
 <./figures/dna/dna_solid.png>
 
-[165] [166]
+[187] [188]
 File: ./figures/dna/Base_pair_GC.jpg Graphic file (type bmp)
 <./figures/dna/Base_pair_GC.jpg>
 File: ./figures/dna/Base_pair_AT.jpg Graphic file (type bmp)
 <./figures/dna/Base_pair_AT.jpg>
- [167] [168]
+ [189] [190]
 Underfull \vbox (badness 1448) has occurred while \output is active []
 
- [169]
+ [191]
 File: ./figures/replication/DNA_replication_split.jpg Graphic file (type bmp)
 <./figures/replication/DNA_replication_split.jpg>
 
-[170] [171]
+[192] [193]
 File: ./figures/replication/Eukaryotic_DNA_replication.jpg Graphic file (type b
 mp)
 <./figures/replication/Eukaryotic_DNA_replication.jpg>
@@ -1388,223 +1488,265 @@ File: ./figures/replication/DNA_polymerase.jpg Graphic file (type bmp)
 <./figures/replication/DNA_polymerase.jpg>
 
 
-LaTeX Warning: Float too large for page by 45.99396pt on input line 3958.
+LaTeX Warning: Float too large for page by 45.99396pt on input line 4317.
 
-[172] [173] [174] [175] [176]
+[194] [195] [196] [197] [198]
 Overfull \vbox (0.38773pt too high) has occurred while \output is active []
 
 
-[177] [178] [179] [180]
+[199] [200] [201] [202]
 Underfull \vbox (badness 4120) has occurred while \output is active []
 
- [181]
-[182] [183]
+ [203]
+[204] [205]
 File: ./figures/translation/trna.png Graphic file (type bmp)
 <./figures/translation/trna.png>
- [184] [185] [186] [187]
+ [206] [207] [208] [209]
 File: ./figures/transcription/Simple_transcription_elongation1.png Graphic file
  (type bmp)
 <./figures/transcription/Simple_transcription_elongation1.png>
- [188] [189] [190] [191] [192]
+ [210] [211] [212] [213] [214]
 File: ./figures/translation/ttribosome.png Graphic file (type bmp)
 <./figures/translation/ttribosome.png>
 File: ./figures/translation/human_ribosome.png Graphic file (type bmp)
 <./figures/translation/human_ribosome.png>
- [193]
-[194]
+ [215]
+[216]
 File: ./figures/translation/Ribosome_mRNA_translation_en.jpg Graphic file (type
  bmp)
 <./figures/translation/Ribosome_mRNA_translation_en.jpg>
 
 Underfull \vbox (badness 3612) has occurred while \output is active []
 
- [195]
-[196]
+ [217]
+[218]
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
-(Font)              scaled to size 5.6484pt on input line 4578.
+(Font)              scaled to size 5.6484pt on input line 4937.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [197]
-[198] [199] [200] [201] [202] [203]
+ [219]
+[220] [221] [222] [223] [224] [225]
 File: ./figures/molecular_biology/Crispr.png Graphic file (type bmp)
 <./figures/molecular_biology/Crispr.png>
- [204] [205] [206]
+ [226] [227] [228]
 Chapter 12.
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/it' will be
-(Font)              scaled to size 12.04958pt on input line 4800.
-[207
+(Font)              scaled to size 12.04958pt on input line 5159.
+[229
 
 ]
 File: ./figures/regulation/Lac_operon1.png Graphic file (type bmp)
 <./figures/regulation/Lac_operon1.png>
- [208] [209]
+ [230] [231]
 File: ./figures/regulation/lac_repressor_model.png Graphic file (type bmp)
 <./figures/regulation/lac_repressor_model.png>
- [210]
+ [232]
 File: ./figures/regulation/IPTG2.png Graphic file (type bmp)
 <./figures/regulation/IPTG2.png>
- [211]
+ [233]
 File: ./figures/regulation/Lac_complementation.png Graphic file (type bmp)
 <./figures/regulation/Lac_complementation.png>
- [212] [213] [214] [215] [216]
+ [234] [235] [236] [237] [238]
 Chapter 13.
-[217
+File: ./figures/bacteria/EscherichiaColi_NIAID.jpg Graphic file (type bmp)
+<./figures/bacteria/EscherichiaColi_NIAID.jpg>
+File: ./figures/bacteria/Halobacteria.jpg Graphic file (type bmp)
+<./figures/bacteria/Halobacteria.jpg>
+File: ./figures/bacteria/SARS-CoV-2_without_background.png Graphic file (type b
+mp)
+<./figures/bacteria/SARS-CoV-2_without_background.png>
+[239
 
-] [218] [219] [220]
-Overfull \hbox (326.06465pt too wide) in paragraph at lines 5120--5129
+] [240] [241] [242]
+File: ./figures/bacteria/Bacterial_morphology_diagram.png Graphic file (type bm
+p)
+<./figures/bacteria/Bacterial_morphology_diagram.png>
+ [243] [244]
+File: ./figures/bacteria/EMpylori.jpg Graphic file (type bmp)
+<./figures/bacteria/EMpylori.jpg>
+File: ./figures/bacteria/Bacillus_subtilis_Spore.jpg Graphic file (type bmp)
+<./figures/bacteria/Bacillus_subtilis_Spore.jpg>
+ [245]
+File: ./figures/bacteria/Endospore_Formation.png Graphic file (type bmp)
+<./figures/bacteria/Endospore_Formation.png>
+
+Overfull \hbox (326.06465pt too wide) in paragraph at lines 5550--5559
  [][] 
  []
 
 
-Underfull \vbox (badness 2326) has occurred while \output is active []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
- [221]
-[222] [223] [224] [225] [226] [227]
+[246] [247]
+Underfull \vbox (badness 3229) has occurred while \output is active []
 
-LaTeX Warning: Reference `tab:domaincomparison' on page 228 undefined on input 
-line 5251.
-
-
-Overfull \hbox (742.2118pt too wide) in paragraph at lines 5255--5271
+ [248]
+[249] [250] [251] [252]
+Overfull \hbox (742.2118pt too wide) in paragraph at lines 5687--5703
  [][] 
  []
 
-[228] [229] [230]
-Overfull \hbox (71.87971pt too wide) in paragraph at lines 5346--5355
+[253] [254] [255]
+File: ./figures/bacteria/Archaea_membrane.png Graphic file (type bmp)
+<./figures/bacteria/Archaea_membrane.png>
+ [256] [257]
+Overfull \hbox (71.87971pt too wide) in paragraph at lines 5789--5798
  [][] 
  []
 
-[231] [232] [233] [234] [235] [236] [237] [238] [239] [240] [241] [242]
+[258] [259] [260]
+File: ./figures/bacteria/TMV_structure_simple.png Graphic file (type bmp)
+<./figures/bacteria/TMV_structure_simple.png>
+File: ./figures/bacteria/CowpeaMosaicVirus3D.png Graphic file (type bmp)
+<./figures/bacteria/CowpeaMosaicVirus3D.png>
+ [261] [262]
+File: ./figures/bacteria/Influenza_virus_particle_8430_lores.jpg Graphic file (
+type bmp)
+<./figures/bacteria/Influenza_virus_particle_8430_lores.jpg>
+ [263] [264]
+File: ./figures/bacteria/HepC_replication.png Graphic file (type bmp)
+<./figures/bacteria/HepC_replication.png>
+ [265]
+File: ./figures/bacteria/rna_virus.png Graphic file (type bmp)
+<./figures/bacteria/rna_virus.png>
+ [266] [267] [268] [269]
+[270]
+File: ./figures/bacteria/Tevenphage.png Graphic file (type bmp)
+<./figures/bacteria/Tevenphage.png>
+File: ./figures/bacteria/Phage_injecting_its_genome_into_bacteria.png Graphic f
+ile (type bmp)
+<./figures/bacteria/Phage_injecting_its_genome_into_bacteria.png>
+ [271] [272] [273] [274
+
+]
 Chapter 14.
 
-LaTeX Warning: Reference `tab:eukaryote' on page 243 undefined on input line 56
-16.
+LaTeX Warning: Reference `tab:eukaryote' on page 275 undefined on input line 60
+91.
 
 
-Overfull \hbox (222.80441pt too wide) in paragraph at lines 5620--5631
+Overfull \hbox (222.80441pt too wide) in paragraph at lines 6095--6106
  [][] 
  []
 
-[243
-
-] [244]
-Overfull \hbox (71.24634pt too wide) in paragraph at lines 5665--5673
+[275] [276]
+Overfull \hbox (71.24634pt too wide) in paragraph at lines 6140--6148
  [][] 
  []
 
-[245] [246] [247] [248] [249] [250] [251] [252] [253] [254] [255] [256
+[277] [278] [279] [280] [281] [282] [283] [284] [285] [286] [287] [288
 
 ]
 Chapter 15.
-[257] [258] [259] [260] [261] [262] [263] [264] [265] [266]
+[289] [290] [291] [292] [293] [294] [295] [296] [297] [298]
 Chapter 16.
-[267
+[299
 
-] [268]
+] [300]
 File: ./figures/systematics/biological_classification.png Graphic file (type bm
 p)
 <./figures/systematics/biological_classification.png>
- [269]
+ [301]
 File: ./figures/systematics/tree_of_life.png Graphic file (type bmp)
 <./figures/systematics/tree_of_life.png>
- [270] [271]
+ [302] [303]
 File: ./figures/systematics/phylogenetic_groups.png Graphic file (type bmp)
 <./figures/systematics/phylogenetic_groups.png>
- [272] [273] [274]
+ [304] [305] [306]
 Chapter 17.
-[275
+[307
 
-] [276] [277] [278]
+] [308] [309] [310]
 Underfull \vbox (badness 3098) has occurred while \output is active []
 
- [279]
-[280] [281] [282] [283] [284] [285] [286
+ [311]
+[312] [313] [314] [315] [316] [317] [318
 
 ]
 Chapter 18.
 
-Overfull \hbox (2157.67723pt too wide) in paragraph at lines 6500--6510
+Overfull \hbox (2157.67723pt too wide) in paragraph at lines 6975--6985
  [][] 
  []
 
-[287] [288] [289] [290] [291] [292] [293] [294] [295]
-Overfull \hbox (2384.07146pt too wide) in paragraph at lines 6731--6744
+[319] [320] [321] [322] [323] [324] [325] [326] [327]
+Overfull \hbox (2384.07146pt too wide) in paragraph at lines 7206--7219
  [][] 
  []
 
-[296] [297] [298] [299] [300] [301] [302] [303] [304] [305] [306] [307]
-[308] [309] [310]
+[328] [329] [330] [331] [332] [333] [334] [335] [336] [337] [338] [339]
+[340] [341] [342]
 Chapter 19.
-[311
+[343
 
-] [312] [313] [314] [315] [316] [317] [318] [319] [320]
+] [344] [345] [346] [347] [348] [349] [350] [351] [352]
 Underfull \vbox (badness 3333) has occurred while \output is active []
 
- [321]
-[322] [323] [324] [325] [326]
+ [353]
+[354] [355] [356] [357] [358]
 Underfull \vbox (badness 1043) has occurred while \output is active []
 
- [327]
+ [359]
 Underfull \vbox (badness 1215) has occurred while \output is active []
 
- [328]
-[329] [330] [331] [332]
+ [360]
+[361] [362] [363] [364]
 Chapter 20.
-[333
+[365
 
-] [334] [335] [336] [337] [338]
+] [366] [367] [368] [369] [370]
 Chapter 21.
-[339
-
-] [340] [341] [342] [343] [344] [345] [346] [347] [348]
-Chapter 22.
-[349
-
-] [350] [351] [352] [353] [354] [355] [356] [357] [358]
-Chapter 23.
-[359
-
-] [360] [361] [362] [363] [364] [365]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [366]
-[367] [368] [369] [370]
-Chapter 24.
 [371
 
-] [372] [373] [374]
+] [372] [373] [374] [375] [376] [377] [378] [379] [380]
+Chapter 22.
+[381
+
+] [382] [383] [384] [385] [386] [387] [388] [389] [390]
+Chapter 23.
+[391
+
+] [392] [393] [394] [395] [396] [397]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [398]
+[399] [400] [401] [402]
+Chapter 24.
+[403
+
+] [404] [405] [406]
 Chapter 25.
 File: ./figures/nervoussystem/NervousSystem.jpg Graphic file (type bmp)
 <./figures/nervoussystem/NervousSystem.jpg>
 
-LaTeX Warning: Float too large for page by 21.99594pt on input line 8612.
+LaTeX Warning: Float too large for page by 21.99594pt on input line 9087.
 
 File: ./figures/nervoussystem/CajalNerve.jpg Graphic file (type bmp)
 <./figures/nervoussystem/CajalNerve.jpg>
 File: ./figures/nervoussystem/nihms37882f2.jpg Graphic file (type bmp)
 <./figures/nervoussystem/nihms37882f2.jpg>
-[375
+[407
 
-] [376] [377]
+] [408] [409]
 File: ./figures/nervoussystem/RabbitPyramidalCellCajalMetodos.jpg Graphic file 
 (type bmp)
 <./figures/nervoussystem/RabbitPyramidalCellCajalMetodos.jpg>
 
 
-LaTeX Warning: Float too large for page by 45.99838pt on input line 8658.
+LaTeX Warning: Float too large for page by 45.99838pt on input line 9133.
 
-[378] [379]
+[410] [411]
 File: ./figures/nervoussystem/invertebrate_nervoussystems.png Graphic file (typ
 e bmp)
 <./figures/nervoussystem/invertebrate_nervoussystems.png>
- [380] [381] [382]
+ [412] [413] [414]
 File: ./figures/nervoussystem/cns_comparison.jpg Graphic file (type bmp)
 <./figures/nervoussystem/cns_comparison.jpg>
- [383] [384]
+ [415] [416]
 File: ./figures/nervoussystem/fnana-05-00029-g007.jpg Graphic file (type bmp)
 <./figures/nervoussystem/fnana-05-00029-g007.jpg>
- [385] [386]
+ [417] [418]
 File: ./figures/nervoussystem/GrayAnat1918p821.jpg Graphic file (type bmp)
 <./figures/nervoussystem/GrayAnat1918p821.jpg>
 File: ./figures/nervoussystem/GrayAnat1918p819.jpg Graphic file (type bmp)
@@ -1613,135 +1755,135 @@ File: ./figures/nervoussystem/GrayAnat1918p820.jpg Graphic file (type bmp)
 <./figures/nervoussystem/GrayAnat1918p820.jpg>
 File: ./figures/nervoussystem/gyri_bot.jpg Graphic file (type bmp)
 <./figures/nervoussystem/gyri_bot.jpg>
- [387] [388] [389]
-[390] [391] [392]
+ [419] [420] [421]
+[422] [423] [424]
 Underfull \vbox (badness 6658) has occurred while \output is active []
 
- [393]
-[394] [395]
+ [425]
+[426] [427]
 File: ./figures/cells/Complete_neuron_cell_diagram_en.png Graphic file (type bm
 p)
 <./figures/cells/Complete_neuron_cell_diagram_en.png>
- [396]
+ [428]
 File: ./figures/cells/Cajal_neurons.jpg Graphic file (type bmp)
 <./figures/cells/Cajal_neurons.jpg>
- [397] [398] [399]
+ [429] [430] [431]
 File: ./figures/cells/Cajal_glia.jpg Graphic file (type bmp)
 <./figures/cells/Cajal_glia.jpg>
- [400] [401] [402]
+ [432] [433] [434]
 File: ./figures/potential/Na_K_pump.png Graphic file (type bmp)
 <./figures/potential/Na_K_pump.png>
- [403] [404] [405]
+ [435] [436] [437]
 File: ./figures/potential/Kcsa.png Graphic file (type bmp)
 <./figures/potential/Kcsa.png>
 
-[406] [407] [408]
+[438] [439] [440]
 File: ./figures/potential/voltage_gated_ion_channels.png Graphic file (type bmp
 )
 <./figures/potential/voltage_gated_ion_channels.png>
- [409] [410]
+ [441] [442]
 File: ./figures/potential/ligand_gated_ion_channels.png Graphic file (type bmp)
 
 <./figures/potential/ligand_gated_ion_channels.png>
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
-(Font)              scaled to size 4.07913pt on input line 9311.
- [411] [412]
+(Font)              scaled to size 4.07913pt on input line 9786.
+ [443] [444]
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/it' will be
-(Font)              scaled to size 5.6484pt on input line 9345.
- [413]
+(Font)              scaled to size 5.6484pt on input line 9820.
+ [445]
 File: ./figures/potential/ActionPotential.png Graphic file (type bmp)
 <./figures/potential/ActionPotential.png>
- [414] [415] [416] [417]
+ [446] [447] [448] [449]
 File: ./figures/synapse/synapse_electronmicrograph.jpg Graphic file (type bmp)
 <./figures/synapse/synapse_electronmicrograph.jpg>
 File: ./figures/synapse/NMDA_receptor.png Graphic file (type bmp)
 <./figures/synapse/NMDA_receptor.png>
 
-[418] [419] [420]
+[450] [451] [452]
 File: ./figures/synapse/synapse_diagram.jpg Graphic file (type bmp)
 <./figures/synapse/synapse_diagram.jpg>
- [421] [422] [423]
+ [453] [454] [455]
 File: ./figures/synapse/nAch_receptor.png Graphic file (type bmp)
 <./figures/synapse/nAch_receptor.png>
- [424] [425] [426]
+ [456] [457] [458]
 Chapter 26.
-[427
+[459
 
-] [428] [429] [430]
+] [460] [461] [462]
 File: ./figures/sensation/anatomyofhumanbo1918gray_1008.jpg Graphic file (type 
 bmp)
 <./figures/sensation/anatomyofhumanbo1918gray_1008.jpg>
 
 Underfull \vbox (badness 1281) has occurred while \output is active []
 
- [431]
-[432]
+ [463]
+[464]
 File: ./figures/sensation/retina_cajal.png Graphic file (type bmp)
 <./figures/sensation/retina_cajal.png>
- [433] [434]
+ [465] [466]
 File: ./figures/sensation/FrogRetinaCajalManual.jpg Graphic file (type bmp)
 <./figures/sensation/FrogRetinaCajalManual.jpg>
 File: ./figures/sensation/PhotorecptorsCajalManual.jpg Graphic file (type bmp)
 <./figures/sensation/PhotorecptorsCajalManual.jpg>
 
 
-LaTeX Warning: Float too large for page by 33.98257pt on input line 9890.
+LaTeX Warning: Float too large for page by 33.98257pt on input line 10365.
 
-[435] [436] [437]
+[467] [468] [469]
 File: ./figures/sensation/Visual_cycle.png Graphic file (type bmp)
 <./figures/sensation/Visual_cycle.png>
- [438]
+ [470]
 File: ./figures/sensation/Phototransduction.png Graphic file (type bmp)
 <./figures/sensation/Phototransduction.png>
- [439]
+ [471]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [440]
-[441] [442] [443] [444]
+ [472]
+[473] [474] [475] [476]
 File: ./figures/sensation/GrayEar.jpg Graphic file (type bmp)
 <./figures/sensation/GrayEar.jpg>
- [445]
+ [477]
 File: ./figures/sensation/Cochlea-crosssection.png Graphic file (type bmp)
 <./figures/sensation/Cochlea-crosssection.png>
- [446]
+ [478]
 Underfull \vbox (badness 5548) has occurred while \output is active []
 
- [447]
-[448] [449] [450] [451]
+ [479]
+[480] [481] [482] [483]
 File: ./figures/sensation/Gray940.png Graphic file (type bmp)
 <./figures/sensation/Gray940.png>
 File: ./figures/sensation/mechano_sensitive_channel.png Graphic file (type bmp)
 
 <./figures/sensation/mechano_sensitive_channel.png>
- [452] [453] [454]
+ [484] [485] [486]
 File: ./figures/sensation/TouchReceptors.png Graphic file (type bmp)
 <./figures/sensation/TouchReceptors.png>
- [455]
+ [487]
 File: ./figures/sensation/TRPV1.png Graphic file (type bmp)
 <./figures/sensation/TRPV1.png>
 
 
-LaTeX Warning: Float too large for page by 20.46864pt on input line 10437.
+LaTeX Warning: Float too large for page by 20.46864pt on input line 10912.
 
-[456] [457]
+[488] [489]
 File: ./figures/sensation/CajalMuscleSpindle.jpg Graphic file (type bmp)
 <./figures/sensation/CajalMuscleSpindle.jpg>
 
 
-LaTeX Warning: Float too large for page by 45.97235pt on input line 10466.
+LaTeX Warning: Float too large for page by 45.97235pt on input line 10941.
 
 File: ./figures/sensation/CajalGolgiTendon.jpg Graphic file (type bmp)
 <./figures/sensation/CajalGolgiTendon.jpg>
 
-LaTeX Warning: Float too large for page by 45.9998pt on input line 10484.
+LaTeX Warning: Float too large for page by 45.9998pt on input line 10959.
 
-[458] [459] [460] [461]
+[490] [491] [492] [493]
 File: ./figures/sensation/GrayP572.jpg Graphic file (type bmp)
 <./figures/sensation/GrayP572.jpg>
- [462] [463]
+ [494] [495]
 File: ./figures/sensation/CajalOlfactoryPathway.jpg Graphic file (type bmp)
 <./figures/sensation/CajalOlfactoryPathway.jpg>
- [464] [465] [466]
+ [496] [497] [498]
 File: ./figures/sensation/tongue.jpg Graphic file (type bmp)
 <./figures/sensation/tongue.jpg>
 File: ./figures/sensation/CunninghamSection2Page770.jpg Graphic file (type bmp)
@@ -1753,45 +1895,45 @@ File: ./figures/sensation/CunninghamSection2Page771.jpg Graphic file (type bmp)
 File: ./figures/sensation/CunninghamSection2Page771Cells.jpg Graphic file (type
  bmp)
 <./figures/sensation/CunninghamSection2Page771Cells.jpg>
- [467] [468] [469]
-[470]
+ [499] [500] [501]
+[502]
 Underfull \vbox (badness 1436) has occurred while \output is active []
 
- [471]
-[472] [473] [474
+ [503]
+[504] [505] [506
 
 ]
 Chapter 27.
 
 Underfull \vbox (badness 2318) has occurred while \output is active []
 
- [475]
-[476] [477] [478]
+ [507]
+[508] [509] [510]
 Underfull \vbox (badness 4120) has occurred while \output is active []
 
- [479]
-[480] [481] [482]
+ [511]
+[512] [513] [514]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [483]
-[484] [485] [486] [487] [488] [489] [490
+ [515]
+[516] [517] [518] [519] [520] [521] [522
 
 ]
 Chapter 28.
-[491] [492] [493] [494] [495] [496
+[523] [524] [525] [526] [527] [528
 
 ]
 Chapter 29.
-[497] [498] [499]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 11340.
- [500]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 11340.
+[529] [530] [531]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 11815.
+ [532]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 11815.
  (./_main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 11340.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 11340
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 11815.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 11815
 .
 Package rerunfilecheck Info: File `_main.out' has not changed.
-(rerunfilecheck)             Checksum: E477CD1EC1A34D3E4C4DE51D599A83DE;35159.
+(rerunfilecheck)             Checksum: FD43F11948B9363087FF4CE2C96D060F;34460.
 
 
 LaTeX Warning: There were undefined references.
@@ -1801,12 +1943,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 23634 strings out of 479418
- 486784 string characters out of 5884586
- 885033 words of memory out of 5000000
- 40607 multiletter control sequences out of 15000+600000
+ 24133 strings out of 479418
+ 507757 string characters out of 5884586
+ 896728 words of memory out of 5000000
+ 41064 multiletter control sequences out of 15000+600000
  568343 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,19n,121p,3367b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on _main.pdf (526 pages).
+Output written on _main.pdf (560 pages).

@@ -73,7 +73,7 @@ Since its primordial beginnings, life on Earth has changed its environment on a 
 
 }
 
-\caption{(ref:)}(\#fig:celltypecartoon )
+\caption{(ref:celltypes)}(\#fig:celltypecartoon )
 \end{figure}
 
 In the past, there have been many attempts to define what is meant by "life" through obsolete concepts such as odic force, hylomorphism, spontaneous generation and vitalism, that have now been disproved by biological discoveries. Aristotle is considered to be the first person to classify organisms. Later, Carl Linnaeus introduced his system of binomial nomenclature for the classification of species. Eventually new groups and categories of life were discovered, such as cells and microorganisms, forcing dramatic revisions of the structure of relationships between living organisms. Though currently only known on Earth, life need not be restricted to it, and many scientists speculate in the existence of extraterrestrial life. Artificial life is a computer simulation or human-made reconstruction of any aspect of life, which is often used to examine systems related to natural life.
@@ -699,11 +699,55 @@ Before the nineteenth century, chemists generally believed that compounds obtain
 
 A crucial breakthrough for organic chemistry was the concept of chemical structure, developed independently in 1858 by both Friedrich August Kekulé and Archibald Scott Couper. Both researchers suggested that tetravalent carbon atoms could link to each other to form a carbon lattice, and that the detailed patterns of atomic bonding could be discerned by skillful interpretations of appropriate chemical reactions.
 
+Organic molecules are described commonly by drawings or structural formulas, combinations of drawings and chemical symbols. The line-angle formula is simple and unambiguous. In this system, the endpoints and intersections of each line represent one carbon, and hydrogen atoms can either be notated explicitly or assumed to be present as implied by tetravalent carbon.
+
+(ref:chemform) [This diagram](https://commons.wikimedia.org/wiki/File:Stuctural_drawings_of_butane_854px.jpg)shows 5 different structural representations of the organic compound butane. The left-most structure is a bond-line drawing where the hydrogen atoms are removed. The 2nd structure has the hydrogens added depicted-the dark wedged bonds indicate the hydrogen atoms are coming toward the reader, the hashed bonds indicate the atoms are oriented away from the reader, and the solid (plain) ponds indicate the bonds are in the plane of the screen/paper. The middle structure shows the four carbon atoms. The 4th structure is a representation just showing the atoms and bonds without 3-dimensions. The right-most structure is a condensed structure representation of butane. 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Stuctural_drawings_of_butane_854px} 
+
+}
+
+\caption{(ref:chemform)}(\#fig:chemstrucrep)
+\end{figure}
+
 The era of the pharmaceutical industry began in the last decade of the 19th century when the manufacturing of acetylsalicylic acid—more commonly referred to as aspirin—in Germany was started by Bayer. By 1910 Paul Ehrlich and his laboratory group began developing arsenic-based arsphenamine, (Salvarsan), as the first effective medicinal treatment of syphilis, and thereby initiated the medical practice of chemotherapy. Ehrlich popularized the concepts of "magic bullet" drugs and of systematically improving drug therapies. His laboratory made decisive contributions to developing antiserum for diphtheria and standardizing therapeutic serums.
 
 In the early part of the 20th century, polymers and enzymes were shown to be large organic molecules, and petroleum was shown to be of biological origin.
 
 The majority of chemical compounds occurring in biological organisms are carbon compounds, so the association between organic chemistry and biochemistry is so close that biochemistry might be regarded as in essence a branch of organic chemistry. Although the history of biochemistry might be taken to span some four centuries, fundamental understanding of the field only began to develop in the late 19th century and the actual term biochemistry was coined around the start of 20th century.
+
+## Functional groups
+
+The concept of functional groups is central in organic chemistry, both as a means to classify structures and for predicting properties. A functional group is a molecular module, and the reactivity of that functional group is assumed, within limits, to be the same in a variety of molecules. Functional groups can have a decisive influence on the chemical and physical properties of organic compounds. Molecules are classified based on their functional groups. Alcohols, for example, all have the subunit C-O-H. All alcohols tend to be somewhat hydrophilic, usually form esters, and usually can be converted to the corresponding halides. Most functional groups feature heteroatoms (atoms other than C and H). Organic compounds are classified according to functional groups, alcohols, carboxylic acids, amines, etc.
+
+Combining the names of functional groups with the names of the parent alkanes generates what is termed a systematic nomenclature for naming organic compounds. In traditional nomenclature, the first carbon atom after the carbon that attaches to the functional group is called the alpha carbon; the second, beta carbon, the third, gamma carbon, etc. If there is another functional group at a carbon, it may be named with the Greek letter, e.g., the gamma-amine in gamma-aminobutyric acid is on the third carbon of the carbon chain attached to the carboxylic acid group. IUPAC conventions call for numeric labeling of the position, e.g. 4-aminobutanoic acid. In traditional names various qualifiers are used to label isomers, for example, isopropanol (IUPAC name: propan-2-ol) is an isomer of n-propanol (propan-1-ol). The term moiety has some overlap with the term "functional group". However, a moiety is an entire "half" of a molecule, which can be not only a single functional group, but also a larger unit consisting of multiple functional groups. For example, an "aryl moiety" may be any group containing an aromatic ring, regardless of how many functional groups the said aryl has.
+
+\begin{table}[!h]
+
+\caption{(\#tab:functionalgroups)Some biologically important functional groups containing oxygen or nitrogen}
+\centering
+\begin{tabular}[t]{ccccc}
+\toprule
+Chemical class & Group & Formula & Prefix & Example\\
+\midrule
+\rowcolor{gray!6}  Alcohol & Hydroxyl & ROH & hydroxy- & Methanol\\
+Ketone & Carbonyl & RCOR' & -oyl- (-COR')oroxo- (=O) & Butanone(Methyl ethyl ketone)\\
+\rowcolor{gray!6}  Aldehyde & Aldehyde & RCHO & formyl- (-COH)oroxo- (=O) & Acetaldehyde(Ethanal)\\
+Carboxylate & Carboxylate & RCOO− & carboxy- & Sodium acetate(Sodium ethanoate)\\
+\rowcolor{gray!6}  Carboxylic acid & Carboxyl & RCOOH & carboxy- & Acetic acid(Ethanoic acid)\\
+\addlinespace
+Ester & Carboalkoxy & RCOOR' & alkanoyloxy-oralkoxycarbonyl & Ethyl butyrate(Ethyl butanoate)\\
+\rowcolor{gray!6}  Amide & Carboxamide & RCONR'R" & carboxamido-orcarbamoyl- & Acetamide(Ethanamide)\\
+Amines & Primary amine & RNH2 & amino- & Methylamine(Methanamine)\\
+\rowcolor{gray!6}  Amines & Secondary amine & R'R"NH & amino- & Dimethylamine\\
+Amines & Tertiary amine & R3N & amino- & Trimethylamine\\
+\addlinespace
+\rowcolor{gray!6}  Amines & 4° ammonium ion & R4N+ & ammonio- & Choline\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ## Biomolecules
 
@@ -743,6 +787,17 @@ Polysaccharides (carbohydrates) & Monosaccharides & Glycosidic\\
 [Proteins](https://en.wikipedia.org/wiki/Protein) are large biomolecules, or macromolecules, consisting of one or more long chains of amino acid residues. Proteins perform a vast array of functions within organisms, including catalysing metabolic reactions, DNA replication, responding to stimuli, providing structure to cells, and organisms, and transporting molecules from one location to another. Proteins differ from one another primarily in their sequence of amino acids, which is dictated by the nucleotide sequence of their genes, and which usually results in protein folding into a specific 3D structure that determines its activity.
 
 A linear chain of amino acid residues is called a polypeptide. A protein contains at least one long polypeptide. Short polypeptides, containing less than 20–30 residues, are rarely considered to be proteins and are commonly called peptides, or sometimes oligopeptides. The individual amino acid residues are bonded together by peptide bonds and adjacent amino acid residues. The sequence of amino acid residues in a protein is defined by the sequence of a gene, which is encoded in the genetic code. In general, the genetic code specifies 20 standard amino acids; but in certain organisms the genetic code can include selenocysteine and—in certain archaea—pyrrolysine. Shortly after or even during synthesis, the residues in a protein are often chemically modified by post-translational modification, which alters the physical and chemical properties, folding, stability, activity, and ultimately, the function of the proteins. Some proteins have non-peptide groups attached, which can be called prosthetic groups or cofactors. Proteins can also work together to achieve a particular function, and they often associate to form stable protein complexes.
+
+(ref:pepbond) [Chemical structure of the peptide bond (bottom) and the three-dimensional structure of a peptide bond between an alanine and an adjacent amino acid (top/inset). The bond itself is made of the CHON elements.](https://commons.wikimedia.org/wiki/File:Peptide-Figure-Revised.png) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Peptide-Figure-Revised} 
+
+}
+
+\caption{(ref:pepbond)}(\#fig:peptidebond)
+\end{figure}
 
 Once formed, proteins only exist for a certain period and are then degraded and recycled by the cell's machinery through the process of protein turnover. A protein's lifespan is measured in terms of its half-life and covers a wide range. They can exist for minutes or years with an average lifespan of 1–2 days in mammalian cells. Abnormal or misfolded proteins are degraded more rapidly either due to being targeted for destruction or due to being unstable.
 
@@ -789,6 +844,17 @@ Most proteins fold into unique 3D structures. The shape into which a protein nat
 * Tertiary structure: the overall shape of a single protein molecule; the spatial relationship of the secondary structures to one another. Tertiary structure is generally stabilized by nonlocal interactions, most commonly the formation of a hydrophobic core, but also through salt bridges, hydrogen bonds, disulfide bonds, and even posttranslational modifications. The term "tertiary structure" is often used as synonymous with the term fold. The tertiary structure is what controls the basic function of the protein.
 * Quaternary structure: the structure formed by several protein molecules (polypeptide chains), usually called protein subunits in this context, which function as a single protein complex.
 * Quinary structure: the signatures of protein surface that organize the crowded cellular interior. Quinary structure is dependent on transient, yet essential, macromolecular interactions that occur inside living cells.
+
+(ref:protstruc) [The amino-acid sequence, the primary structure of a protein, determines the secondary (α-helix and β-sheet), tertiary and quaternary protein structures](https://commons.wikimedia.org/wiki/File:Protein_structure.png)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Protein_structure} 
+
+}
+
+\caption{(ref:protstuc)}(\#fig:proteinstructure )
+\end{figure}
 
 Proteins are not entirely rigid molecules. In addition to these levels of structure, proteins may shift between several related structures while they perform their functions. In the context of these functional rearrangements, these tertiary or quaternary structures are usually referred to as "conformations", and transitions between them are called conformational changes. Such changes are often induced by the binding of a substrate molecule to an enzyme's active site, or the physical region of the protein that participates in chemical catalysis. In solution proteins also undergo variation in structure through thermal vibration and the collision with other molecules.
 
@@ -838,6 +904,17 @@ A [carbohydrate](https://en.wikipedia.org/wiki/Carbohydrate) is a biomolecule co
 
 The term is most common in biochemistry, where it is a synonym of saccharide, a group that includes sugars, starch, and cellulose. The saccharides are divided into four chemical groups: monosaccharides, disaccharides, oligosaccharides, and polysaccharides. Monosaccharides and disaccharides, the smallest (lower molecular weight) carbohydrates, are commonly referred to as sugars. The word saccharide comes from the Greek word σάκχαρον (sákkharon), meaning "sugar". While the scientific nomenclature of carbohydrates is complex, the names of the monosaccharides and disaccharides very often end in the suffix -ose, as in the monosaccharides fructose (fruit sugar) and glucose (starch sugar) and the disaccharides sucrose (cane or beet sugar) and lactose (milk sugar).
 
+(ref:sucrose) [The disaccharide sucrose](https://commons.wikimedia.org/wiki/File:Beta-D-Lactose.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Saccharose2} 
+
+}
+
+\caption{(ref:sucrose)}(\#fig:sucrosestruc)
+\end{figure}
+
 Carbohydrates perform numerous roles in living organisms. Polysaccharides serve for the storage of energy (e.g. starch and glycogen) and as structural components (e.g. cellulose in plants and chitin in arthropods). The 5-carbon monosaccharide ribose is an important component of coenzymes (e.g. ATP, FAD and NAD) and the backbone of the genetic molecule known as RNA. The related deoxyribose is a component of DNA. Saccharides and their derivatives include many other important biomolecules that play key roles in the immune system, fertilization, preventing pathogenesis, blood clotting, and development.
 
 They are found in a wide variety of natural and processed foods. Starch is a polysaccharide. It is abundant in cereals (wheat, maize, rice), potatoes, and processed food based on cereal flour, such as bread, pizza or pasta. Sugars appear in human diet mainly as table sugar (sucrose, extracted from sugarcane or sugar beets), lactose (abundant in milk), glucose and fructose, both of which occur naturally in honey, many fruits, and some vegetables. Table sugar, milk, or honey are often added to drinks and many prepared foods such as jam, biscuits and cakes.
@@ -867,9 +944,31 @@ Two joined monosaccharides are called a disaccharide and these are the simplest 
         
 Lactose, a disaccharide composed of one D-galactose molecule and one D-glucose molecule, occurs naturally in mammalian milk. The systematic name for lactose is O-β-D-galactopyranosyl-(1→4)-D-glucopyranose. Other notable disaccharides include maltose (two D-glucoses linked α-1,4) and cellulobiose (two D-glucoses linked β-1,4). Disaccharides can be classified into two types: reducing and non-reducing disaccharides. If the functional group is present in bonding with another sugar unit, it is called a reducing disaccharide or biose. 
 
+(ref:lactose) [The disaccharide lactose](https://commons.wikimedia.org/wiki/File:Beta-D-Lactose.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Beta-D-Lactose} 
+
+}
+
+\caption{(ref:lactose)}(\#fig:lactosestruc)
+\end{figure}
+
 ## Lipids
 
 In biology and biochemistry, a [lipid](https://en.wikipedia.org/wiki/Lipid) is a macrobiomolecule that is soluble in nonpolar solvents. Non-polar solvents are typically hydrocarbons used to dissolve other naturally occurring hydrocarbon lipid molecules that do not (or do not easily) dissolve in water, including fatty acids, waxes, sterols, fat-soluble vitamins (such as vitamins A, D, E, and K), monoglycerides, diglycerides, triglycerides, and phospholipids.
+
+(ref:comlip) [Structures of some common lipids.](https://commons.wikimedia.org/wiki/File:Common_lipids_lmaps.png) At the top are cholesterol[1] and oleic acid.[2] The middle structure is a triglyceride composed of oleoyl, stearoyl, and palmitoyl chains attached to a glycerol backbone. At the bottom is the common phospholipid phosphatidylcholine.]
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Common_lipids_lmaps} 
+
+}
+
+\caption{(ref:comlip)}(\#fig:commonlipids)
+\end{figure}
 
 The functions of lipids include storing energy, signaling, and acting as structural components of cell membranes. Lipids have applications in the cosmetic and food industries as well as in nanotechnology.
 
@@ -905,6 +1004,17 @@ The formation of lipids into protocell membranes represents a key step in models
 
 Triglycerides, stored in adipose tissue, are a major form of energy storage both in animals and plants. They are a major source of energy because carbohydrates are fully reduced structures. In comparison to glycogen which would contribute only half of the energy per its pure mass, triglyceride carbons are all bonded to hydrogens, unlike in carbohydrates. The adipocyte, or fat cell, is designed for continuous synthesis and breakdown of triglycerides in animals, with breakdown controlled mainly by the activation of hormone-sensitive enzyme lipase. The complete oxidation of fatty acids provides high caloric content, about 38 kJ/g (9 kcal/g), compared with 17 kJ/g (4 kcal/g) for the breakdown of carbohydrates and proteins. Migratory birds that must fly long distances without eating use stored energy of triglycerides to fuel their flights.
 
+(ref:triglyceride) [Example of an unsaturated fat triglyceride](https://commons.wikimedia.org/wiki/File:Fat_triglyceride_shorthand_formula.PNG) (C~55~H~98~O~6~). Left part: glycerol; right part, from top to bottom: palmitic acid, oleic acid, alpha-linolenic acid.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Fat_triglyceride_shorthand_formula} 
+
+}
+
+\caption{(ref:triglyceride)}(\#fig:simpletriglyceride)
+\end{figure}
+
 In recent years, evidence has emerged showing that lipid signaling is a vital part of the cell signaling. Lipid signaling may occur via activation of G protein-coupled or nuclear receptors, and members of several different lipid categories have been identified as signaling molecules and cellular messengers. These include sphingosine-1-phosphate, a sphingolipid derived from ceramide that is a potent messenger molecule involved in regulating calcium mobilization, cell growth, and apoptosis; diacylglycerol (DAG) and the phosphatidylinositol phosphates (PIPs), involved in calcium-mediated activation of protein kinase C; the prostaglandins, which are one type of fatty-acid derived eicosanoid involved in inflammation and immunity; the steroid hormones such as estrogen, testosterone and cortisol, which modulate a host of functions such as reproduction, metabolism and blood pressure; and the oxysterols such as 25-hydroxy-cholesterol that are liver X receptor agonists. Phosphatidylserine lipids are known to be involved in signaling for the phagocytosis of apoptotic cells or pieces of cells. They accomplish this by being exposed to the extracellular face of the cell membrane after the inactivation of flippases which place them exclusively on the cytosolic side and the activation of scramblases, which scramble the orientation of the phospholipids. After this occurs, other cells recognize the phosphatidylserines and phagocytosize the cells or cell fragments exposing them.
 
 The "fat-soluble" vitamins (A, D, E and K) – which are isoprene-based lipids – are essential nutrients stored in the liver and fatty tissues, with a diverse range of functions. Acyl-carnitines are involved in the transport and metabolism of fatty acids in and out of mitochondria, where they undergo beta oxidation. Polyprenols and their phosphorylated derivatives also play important transport roles, in this case the transport of oligosaccharides across membranes. Polyprenol phosphate sugars and polyprenol diphosphate sugars function in extra-cytoplasmic glycosylation reactions, in extracellular polysaccharide biosynthesis (for instance, peptidoglycan polymerization in bacteria), and in eukaryotic protein N-glycosylation. Cardiolipins are a subclass of glycerophospholipids containing four acyl chains and three glycerol groups that are particularly abundant in the inner mitochondrial membrane. They are believed to activate enzymes involved with oxidative phosphorylation. Lipids also form the basis of steroid hormones.
@@ -930,6 +1040,17 @@ The sugars and phosphates in nucleic acids are connected to each other in an alt
 ## Deoxyribonucleic Acid (DNA)
 
 Deoxyribonucleic acid (DNA) is a nucleic acid containing the genetic instructions used in the development and functioning of all known living organisms. The DNA segments carrying this genetic information are called genes. Likewise, other DNA sequences have structural purposes or are involved in regulating the use of this genetic information. Along with RNA and proteins, DNA is one of the three major macromolecules that are essential for all known forms of life. DNA consists of two long polymers of simple units called nucleotides, with backbones made of sugars and phosphate groups joined by ester bonds. These two strands run in opposite directions to each other and are, therefore, anti-parallel. Attached to each sugar is one of four types of molecules called nucleobases (informally, bases). It is the sequence of these four nucleobases along the backbone that encodes information. This information is read using the genetic code, which specifies the sequence of the amino acids within proteins. The code is read by copying stretches of DNA into the related nucleic acid RNA in a process called transcription. Within cells, DNA is organized into long structures called chromosomes. During cell division these chromosomes are duplicated in the process of DNA replication, providing each cell its own complete set of chromosomes. Eukaryotic organisms (animals, plants, fungi, and protists) store most of their DNA inside the cell nucleus and some of their DNA in organelles, such as mitochondria or chloroplasts. In contrast, prokaryotes (bacteria and archaea) store their DNA only in the cytoplasm. Within the chromosomes, chromatin proteins such as histones compact and organize DNA. These compact structures guide the interactions between DNA and other proteins, helping control which parts of the DNA are transcribed.
+
+(ref:strucdna) The structure of the DNA double helix. A section of DNA. The bases lie horizontally between the two spiraling strands. The atoms in the structure are colour-coded by element (based on atomic coordinates of [PDB 1bna](https://www.rcsb.org/structure/1bna) rendered with open source molecular visualization tool PyMol.)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/dna/dna_licorice} 
+
+}
+
+\caption{(ref:strucdna)}(\#fig:structuredna)
+\end{figure}
 
 ## Ribonucleic Acid (RNA)
 
@@ -1786,6 +1907,17 @@ In a living organism, chemical bonds are broken and made as part of the exchange
 
 Adenosine triphosphate (ATP) is the main "energy currency" for organisms; the goal of metabolic and catabolic processes are to synthesize ATP from available starting materials (from the environment), and to break- down ATP (into adenosine diphosphate (ADP) and inorganic phosphate) by utilizing it in biological processes. In a cell, the ratio of ATP to ADP concentrations is known as the "energy charge" of the cell. A cell can use this energy charge to relay information about cellular needs; if there is more ATP than ADP available, the cell can use ATP to do work, but if there is more ADP than ATP available, the cell must synthesize ATP via oxidative phosphorylation.
 
+(ref:atpsform) [Structure of adenosine triphosphate (ATP), protonated](https://commons.wikimedia.org/wiki/File:Adenosintriphosphat_protoniert.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bioenergetics/Adenosintriphosphat_protoniert} 
+
+}
+
+\caption{(ref:atpsform)}(\#fig:atpstrucform)
+\end{figure}
+
 Living organisms produce ATP from energy sources, mostly sunlight or O2, mainly via oxidative phosphorylation. The terminal phosphate bonds of ATP are relatively weak compared with the stronger bonds formed when ATP is hydrolyzed (broken down by water) to adenosine diphosphate and inorganic phosphate. Here it is the thermodynamically favorable free energy of hydrolysis that results in energy release; the phosphoanhydride bond between the terminal phosphate group and the rest of the ATP molecule does not itself contain this energy. An organism's stockpile of ATP is used as a battery to store energy in cells. Utilization of chemical energy from such molecular bond rearrangement powers biological processes in every biological organism.
 
 Living organisms obtain energy from organic and inorganic materials; i.e. ATP can be synthesized from a variety of biochemical precursors. For example, lithotrophs can oxidize minerals such as nitrites or forms of sulfur, such as elemental sulfur, sulfites, and hydrogen sulfide to produce ATP. In photosynthesis, autotrophs produce ATP using light energy, whereas heterotrophs must consume organic compounds, mostly including carbohydrates, fats, and proteins. The amount of energy actually obtained by the organism is lower than the amount released in combustion of the food; there are losses in digestion, metabolism, and thermogenesis.
@@ -1848,6 +1980,17 @@ Metabolism (from Greek: μεταβολή metabolē, "change") is the set of life
 
 Metabolic reactions may be categorized as catabolic – the breaking down of compounds (for example, the breaking down of glucose to pyruvate by cellular respiration); or anabolic – the building up (synthesis) of compounds (such as proteins, carbohydrates, lipids, and nucleic acids). Usually, catabolism releases energy, and anabolism consumes energy.
 
+(ref:simplmet) [Simplified view of the cellular metabolism](https://commons.wikimedia.org/wiki/File:Metabolism.png) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bioenergetics/Metabolism} 
+
+}
+
+\caption{(ref:simplmet)}(\#fig:simpleviewmet)
+\end{figure}
+
 The chemical reactions of metabolism are organized into metabolic pathways, in which one chemical is transformed through a series of steps into another chemical, each step being facilitated by a specific enzyme. Enzymes are crucial to metabolism because they allow organisms to drive desirable reactions that require energy that will not occur by themselves, by coupling them to spontaneous reactions that release energy. Enzymes act as catalysts – they allow a reaction to proceed more rapidly – and they also allow the regulation of the rate of a metabolic reaction, for example in response to changes in the cell's environment or to signals from other cells.
 
 The metabolic system of a particular organism determines which substances it will find nutritious and which poisonous. For example, some prokaryotes use hydrogen sulfide as a nutrient, yet this gas is poisonous to animals. The basal metabolic rate of an organism is the measure of the amount of energy consumed by all of these chemical reactions.
@@ -1877,6 +2020,17 @@ It was the discovery of enzymes at the beginning of the 20th century by Eduard B
 ## Catabolism
 
 Catabolism is the set of metabolic processes that break down large molecules. These include breaking down and oxidizing food molecules. The purpose of the catabolic reactions is to provide the energy and components needed by anabolic reactions which build molecules. The exact nature of these catabolic reactions differ from organism to organism, and organisms can be classified based on their sources of energy and carbon (their primary nutritional groups), as shown in the table below. Organic molecules are used as a source of energy by organotrophs, while lithotrophs use inorganic substrates, and phototrophs capture sunlight as chemical energy. However, all these different forms of metabolism depend on redox reactions that involve the transfer of electrons from reduced donor molecules such as organic molecules, water, ammonia, hydrogen sulfide or ferrous ions to acceptor molecules such as oxygen, nitrate or sulfate. In animals, these reactions involve complex organic molecules that are broken down to simpler molecules, such as carbon dioxide and water. In photosynthetic organisms, such as plants and cyanobacteria, these electron-transfer reactions do not release energy but are used as a way of storing energy absorbed from sunlight.
+
+(ref:simplcat) [Simplified diagram of catabolism of proteins, carbohydrates and fats.](https://commons.wikimedia.org/wiki/File:Catabolism_schematic.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bioenergetics/Catabolism_schematic} 
+
+}
+
+\caption{(ref:simplcat)}(\#fig:simplecatdia )
+\end{figure}
 
 The most common set of catabolic reactions in animals can be separated into three main stages. In the first stage, large organic molecules, such as proteins, polysaccharides or lipids, are digested into their smaller components outside cells. Next, these smaller molecules are taken up by cells and converted to smaller molecules, usually acetyl coenzyme A (acetyl-CoA), which releases some energy. Finally, the acetyl group on the CoA is oxidised to water and carbon dioxide in the citric acid cycle and electron transport chain, releasing the energy that is stored by reducing the coenzyme nicotinamide adenine dinucleotide (NAD+) into NADH.
 
@@ -2112,9 +2266,37 @@ Transition metals are usually present as trace elements in organisms, with zinc 
 
 Plants acquire energy from sunlight through photosynthesis. Animals get their energy by breaking down chemical bonds in nutrients during cellular respiration. In eukaryiotic cells, photosynthesis happens in chloroplasts, cellular respiration in mitochondria. In both photosynthesis and cellular respiration, involves and electron transfer chain and chemiosmosis. 
 
-## The Electron Transfer Chain And Chemiosmosis
+(ref:photosynthesis) [Schematic of photosynthesis in plants. The carbohydrates produced are stored in or used by the plant which in turn may provide food for heterotrophic organims such as animals.](https://commons.wikimedia.org/wiki/File:Photosynthesis_en.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Photosynthesis_en} 
+
+}
+
+\caption{(ref:photosynthesis)}(\#fig:photosynthesispic)
+\end{figure}
+
+## The Electron Transport Chain And Chemiosmosis
 
 The electron transport chain (ETC) is a series of complexes that transfer electrons from electron donors to electron acceptors via redox (both reduction and oxidation occurring simultaneously) reactions, and couples this electron transfer with the transfer of protons (H^+^ ions) across a membrane. The electron transport chain is built up of peptides, enzymes, and other molecules.
+
+The flow of electrons through the electron transport chain is an exergonic process. The energy from the redox reactions create an electrochemical proton gradient that drives the synthesis of adenosine triphosphate (ATP). In aerobic respiration, the flow of electrons terminates with molecular oxygen being the final electron acceptor. In anaerobic respiration, other electron acceptors are used, such as sulfate.
+
+In the electron transport chain, the redox reactions are driven by the Gibbs free energy state of the components. Gibbs free energy is related to a quantity called the redox potential. The complexes in the electron transport chain harvest the energy of the redox reactions that occur when transferring electrons from a low redox potential to a higher redox potential, creating an electrochemical gradient. It is the electrochemical gradient created that drives the synthesis of ATP via coupling with oxidative phosphorylation with ATP synthase.
+
+The electron transport chain, and site of oxidative phosphorylation is found on the inner mitochondrial membrane. The energy stored from the process of respiration in reduced compounds (such as NADH and FADH) is used by the electron transport chain to pump protons into the inter membrane space, generating the electrochemical gradient over the inner mitochrondrial membrane.
+
+(ref:electrontrans) [The electron transport chain](https://commons.wikimedia.org/wiki/File:Mitochondrial_electron_transport_chain—Etc4.svg) in the mitochondrion is the site of oxidative phosphorylation in eukaryotes. The NADH and succinate generated in the citric acid cycle are oxidized, providing energy to power ATP synthase.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Mitochondrial_electron_transport_chain—Etc4} 
+
+}
+
+\caption{(ref:electrontrans)}(\#fig:electrontransfer)
+\end{figure}
 
 In photosynthetic eukaryotes, the electron transport chain is found on the thylakoid membrane. Here, light energy drives the reduction of components of the electron transport chain and therefore causes subsequent synthesis of ATP. The electron transport chain, and site of oxidative phosphorylation is found on the inner mitochondrial membrane. The energy stored from the process of respiration in reduced compounds (such as NADH and FADH) is used by the electron transport chain to pump protons into the inter membrane space, generating the electrochemical gradient over the inner mitochrondrial membrane. 
 
@@ -2126,7 +2308,29 @@ The formation of adenosine triphosphate (ATP) by the movement of hydrogen ions (
 
 Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy that can later be released to fuel the organisms' activities. This chemical energy is stored in carbohydrate molecules, such as sugars, which are synthesized from carbon dioxide and water – hence the name photosynthesis, from the Greek phōs (φῶς), "light", and sunthesis (σύνθεσις), "putting together". In most cases, oxygen is also released as a waste product. Most plants, most algae, and cyanobacteria perform photosynthesis; such organisms are called photoautotrophs. Photosynthesis is largely responsible for producing and maintaining the oxygen content of the Earth's atmosphere, and supplies most of the energy necessary for life on Earth.
 
+(ref:simplephoto) [Photosynthesis changes sunlight into chemical energy, splits water to liberate O2, and fixes CO2 into sugar.](https://commons.wikimedia.org/wiki/File:Simple_photosynthesis_overview.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Simple_photosynthesis_overview} 
+
+}
+
+\caption{(ref:simplephoto)}(\#fig:simplephotooverview )
+\end{figure}
+
 Although photosynthesis is performed differently by different species, the process always begins when energy from light is absorbed by proteins called reaction centres that contain green chlorophyll pigments. In plants, these proteins are held inside organelles called chloroplasts, which are most abundant in leaf cells, while in bacteria they are embedded in the plasma membrane. In these light-dependent reactions, some energy is used to strip electrons from suitable substances, such as water, producing oxygen gas. The hydrogen freed by the splitting of water is used in the creation of two further compounds that serve as short-term stores of energy, enabling its transfer to drive other reactions: these compounds are reduced nicotinamide adenine dinucleotide phosphate (NADPH) and adenosine triphosphate (ATP), the "energy currency" of cells.
+
+(ref:chlorophyl) [Absorbance spectra of free chlorophyll](https://commons.wikimedia.org/wiki/File:Chlorophyll_ab_spectra-en.svg) a (blue) and b (red) in a solvent. The action spectra of chlorophyll molecules are slightly modified in vivo depending on specific pigment–protein interactions.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Chlorophyll_ab_spectra-en} 
+
+}
+
+\caption{(ref:chlorophyl)}(\#fig:chlorophylspectra)
+\end{figure}
 
 In plants, algae and cyanobacteria, long-term energy storage in the form of sugars is produced by a subsequent sequence of light-independent reactions called the Calvin cycle; some bacteria use different mechanisms, such as the reverse Krebs cycle, to achieve the same end. In the Calvin cycle, atmospheric carbon dioxide is incorporated into already existing organic carbon compounds, such as ribulose bisphosphate (RuBP). Using the ATP and NADPH produced by the light-dependent reactions, the resulting compounds are then reduced and removed to form further carbohydrates, such as glucose.
 
@@ -2148,6 +2352,17 @@ In photosynthetic bacteria, the proteins that gather light for photosynthesis ar
 
 In plants and algae, photosynthesis takes place in organelles called chloroplasts. A typical plant cell contains about 10 to 100 chloroplasts. The chloroplast is enclosed by a membrane. This membrane is composed of a phospholipid inner membrane, a phospholipid outer membrane, and an intermembrane space. Enclosed by the membrane is an aqueous fluid called the stroma. Embedded within the stroma are stacks of thylakoids (grana), which are the site of photosynthesis. The thylakoids appear as flattened disks. The thylakoid itself is enclosed by the thylakoid membrane, and within the enclosed volume is a lumen or thylakoid space. Embedded in the thylakoid membrane are integral and peripheral membrane protein complexes of the photosynthetic system.
 
+(ref:photochloro) [Chloroplast ultrastructure](https://commons.wikimedia.org/wiki/File:Chloroplast.svg): 1. outer membrane 2. intermembrane space 3. inner membrane (1+2+3: envelope) 4. stroma (aqueous fluid) 5. thylakoid lumen (inside of thylakoid) 6. thylakoid membrane 7. granum (stack of thylakoids) 8. thylakoid (lamella) 9. starch 10. ribosome 11. plastidial DNA 12. plastoglobule (drop of lipids)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Chloroplast} 
+
+}
+
+\caption{(ref:photochloro)}(\#fig:photochloroplast)
+\end{figure}
+
 Plants absorb light primarily using the pigment chlorophyll. The green part of the light spectrum is not absorbed but is reflected which is the reason that most plants have a green color. Besides chlorophyll, plants also use pigments such as carotenes and xanthophylls. Algae also use chlorophyll, but various other pigments are present, such as phycocyanin, carotenes, and xanthophylls in green algae, phycoerythrin in red algae (rhodophytes) and fucoxanthin in brown algae and diatoms resulting in a wide variety of colors.
 
 These pigments are embedded in plants and algae in complexes called antenna proteins. In such proteins, the pigments are arranged to work together. Such a combination of proteins is also called a light-harvesting complex.
@@ -2168,7 +2383,30 @@ Not all wavelengths of light can support photosynthesis. The photosynthetic acti
 
 In plants, light-dependent reactions occur in the thylakoid membranes of the chloroplasts where they drive the synthesis of ATP and NADPH. The light-dependent reactions are of two forms: cyclic and non-cyclic.
 
+(ref:zsch) [The Z scheme](https://commons.wikimedia.org/wiki/File:Z-scheme.png) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Z-scheme} 
+
+}
+
+\caption{(ref:zsch)}(\#fig:zscheme)
+\end{figure}
+
 In the non-cyclic reaction, the photons are captured in the light-harvesting antenna complexes of photosystem II by chlorophyll and other accessory pigments (see diagram at right). The absorption of a photon by the antenna complex frees an electron by a process called photoinduced charge separation. The antenna system is at the core of the chlorophyll molecule of the photosystem II reaction center. That freed electron is transferred to the primary electron-acceptor molecule, pheophytin. As the electrons are shuttled through an electron transport chain (the so-called Z-scheme shown in the diagram), it initially functions to generate a chemiosmotic potential by pumping proton cations (H^+^) across the membrane and into the thylakoid space. An ATP synthase enzyme uses that chemiosmotic potential to make ATP during photophosphorylation, whereas NADPH is a product of the terminal redox reaction in the Z-scheme. The electron enters a chlorophyll molecule in Photosystem I. There it is further excited by the light absorbed by that photosystem. The electron is then passed along a chain of electron acceptors to which it transfers some of its energy. The energy delivered to the electron acceptors is used to move hydrogen ions across the thylakoid membrane into the lumen. The electron is eventually used to reduce the co-enzyme NADP with a H^+^ to NADPH (which has functions in the light-independent reaction); at that point, the path of that electron ends.
+
+(ref:lightd) [Light-dependent reactions of photosynthesis at the thylakoid membrane](https://commons.wikimedia.org/wiki/File:Thylakoid_membrane_3.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Thylakoid_membrane_3} 
+
+}
+
+\caption{(ref:lightd)}(\#fig:lightdependent)
+\end{figure}
+
 
 The cyclic reaction is similar to that of the non-cyclic, but differs in that it generates only ATP, and no reduced NADP (NADPH) is created. The cyclic reaction takes place only at photosystem I. Once the electron is displaced from the photosystem, the electron is passed down the electron acceptor molecules and returns to photosystem I, from where it was emitted, hence the name cyclic reaction.
 
@@ -2186,13 +2424,61 @@ In the light-independent (or "dark") reactions, the enzyme RuBisCO captures CO~2
 
 Carbon fixation produces the intermediate three-carbon sugar product, which is then converted into the final carbohydrate products. The simple carbon sugars produced by photosynthesis are then used in the forming of other organic compounds, such as the building material cellulose, the precursors for lipid and amino acid biosynthesis, or as a fuel in cellular respiration. The latter occurs not only in plants but also in animals when the energy from plants is passed through a food chain.
 
+(ref:calvinc) [Overview of the Calvin cycle and carbon fixation](https://commons.wikimedia.org/wiki/File:Calvin-cycle4.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Calvin-cycle4} 
+
+}
+
+\caption{(ref:calvinc)}(\#fig:calvincycle)
+\end{figure}
+
 The fixation or reduction of carbon dioxide is a process in which carbon dioxide combines with a five-carbon sugar, ribulose 1,5-bisphosphate, to yield two molecules of a three-carbon compound, glycerate 3-phosphate, also known as 3-phosphoglycerate. Glycerate 3-phosphate, in the presence of ATP and NADPH produced during the light-dependent stages, is reduced to glyceraldehyde 3-phosphate. This product is also referred to as 3-phosphoglyceraldehyde (PGAL) or, more generically, as triose phosphate. Most (5 out of 6 molecules) of the glyceraldehyde 3-phosphate produced is used to regenerate ribulose 1,5-bisphosphate so the process can continue. The triose phosphates not thus "recycled" often condense to form hexose phosphates, which ultimately yield sucrose, starch and cellulose. The sugars produced during carbon metabolism yield carbon skeletons that can be used for other metabolic reactions like the production of amino acids and lipids.
+
+## Carbon Dioxide Levels And Photorespiration
+
+As carbon dioxide concentrations rise, the rate at which sugars are made by the light-independent reactions increases until limited by other factors. RuBisCO, the enzyme that captures carbon dioxide in the light-independent reactions, has a binding affinity for both carbon dioxide and oxygen. When the concentration of carbon dioxide is high, RuBisCO will fix carbon dioxide. However, if the carbon dioxide concentration is low, RuBisCO will bind oxygen instead of carbon dioxide. This process, called photorespiration, uses energy, but does not produce sugars.
+
+RuBisCO oxygenase activity is disadvantageous to plants for several reasons:
+
+1. One product of oxygenase activity is phosphoglycolate (2 carbon) instead of 3-phosphoglycerate (3 carbon). Phosphoglycolate cannot be metabolized by the Calvin-Benson cycle and represents carbon lost from the cycle. A high oxygenase activity, therefore, drains the sugars that are required to recycle ribulose 5-bisphosphate and for the continuation of the Calvin-Benson cycle.
+1. Phosphoglycolate is quickly metabolized to glycolate that is toxic to a plant at a high concentration; it inhibits photosynthesis.
+1. Salvaging glycolate is an energetically expensive process that uses the glycolate pathway, and only 75% of the carbon is returned to the Calvin-Benson cycle as 3-phosphoglycerate. The reactions also produce ammonia (NH3), which is able to diffuse out of the plant, leading to a loss of nitrogen.
+A highly simplified summary is:
+
+2 glycolate + ATP → 3-phosphoglycerate + carbon dioxide + ADP + NH~3~
+
+The salvaging pathway for the products of RuBisCO oxygenase activity is more commonly known as photorespiration, since it is characterized by light-dependent oxygen consumption and the release of carbon dioxide.
+
+(ref:photores) [Photorespiration](https://commons.wikimedia.org/wiki/File:Photorespiration.svg) 1. ribulose 1,5-bisphosphate 2. 3-Phosphoglycerate 3. 2-phosphoglycolate 4. glycolate 5. glyoxylate 6. glycine 7. serine 8. hydroxypyruvate 9. glycerate CC Calvin cycle
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Photorespiration} 
+
+}
+
+\caption{(ref:photores)}(\#fig:photorespiration)
+\end{figure}
 
 ## Carbon Concentrating Mechanisms
 
 ## Overview of C4 Carbon Fixation
 
 In hot and dry conditions, plants close their stomata to prevent water loss. Under these conditions, CO~2~ will decrease and oxygen gas, produced by the light reactions of photosynthesis, will increase, causing an increase of photorespiration by the oxygenase activity of ribulose-1,5-bisphosphate carboxylase/oxygenase and decrease in carbon fixation. Some plants have evolved mechanisms to increase the CO~2~ concentration in the leaves under these conditions.
+
+(ref:c4c) [Overview of C4 carbon fixation](https://commons.wikimedia.org/wiki/File:HatchSlackpathway2.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/HatchSlackpathway2} 
+
+}
+
+\caption{(ref:c4c)}(\#fig:c4carbon)
+\end{figure}
 
 Plants that use the C4 carbon fixation process chemically fix carbon dioxide in the cells of the mesophyll by adding it to the three-carbon molecule phosphoenolpyruvate (PEP), a reaction catalyzed by an enzyme called PEP carboxylase, creating the four-carbon organic acid oxaloacetic acid. Oxaloacetic acid or malate synthesized by this process is then translocated to specialized bundle sheath cells where the enzyme RuBisCO and other Calvin cycle enzymes are located, and where CO~2~ released by decarboxylation of the four-carbon acids is then fixed by RuBisCO activity to the three-carbon 3-phosphoglyceric acids. The physical separation of RuBisCO from the oxygen-generating light reactions reduces photorespiration and increases CO~2~ fixation and, thus, the photosynthetic capacity of the leaf. C4 plants can produce more sugar than C3 plants in conditions of high light and temperature. Many important crop plants are C4 plants, including maize, sorghum, sugarcane, and millet. Plants that do not use PEP-carboxylase in carbon fixation are called C3 plants because the primary carboxylation reaction, catalyzed by RuBisCO, produces the three-carbon 3-phosphoglyceric acids directly in the Calvin-Benson cycle. Over 90% of plants use C3 carbon fixation, compared to 3% that use C4 carbon fixation; however, the evolution of C4 in over 60 plant lineages makes it a striking example of convergent evolution.
 
@@ -2221,6 +2507,17 @@ The biochemical capacity to use water as the source for electrons in photosynthe
 
 Cellular respiration is a set of metabolic reactions and processes that take place in the cells of organisms to convert chemical energy from oxygen molecules or nutrients into adenosine triphosphate (ATP), and then release waste products. The reactions involved in respiration are catabolic reactions, which break large molecules into smaller ones, releasing energy because weak high-energy bonds, in particular in molecular oxygen, are replaced by stronger bonds in the products. Respiration is one of the key ways a cell releases chemical energy to fuel cellular activity. The overall reaction occurs in a series of biochemical steps, some of which are redox reactions. Although cellular respiration is technically a combustion reaction, it clearly does not resemble one when it occurs in a living cell because of the slow, controlled release of energy from the series of reactions.
 
+(ref:cellres) [A diagram of cellular respiration including glycolysis, Krebs cycle (AKA citric acid cycle), and the electron transport chain](https://commons.wikimedia.org/wiki/File:CellRespiration.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/CellRespiration} 
+
+}
+
+\caption{(ref:cellres)}(\#fig:cellularrespiration)
+\end{figure}
+
 Nutrients that are commonly used by animal and plant cells in respiration include sugar, amino acids and fatty acids, and the most common oxidizing agent providing most of the chemical energy is molecular oxygen (O~2~). The chemical energy stored in ATP (the bond of its third phosphate group to the rest of the molecule can be broken allowing more stable products to form, thereby releasing energy for use by the cell) can then be used to drive processes requiring energy, including biosynthesis, locomotion or transport of molecules across cell membranes.
 
 ## Aerobic Respiration
@@ -2237,6 +2534,17 @@ The negative ΔG indicates that the reaction can occur spontaneously.
 
 The potential of NADH and FADH~2~ is converted to more ATP through an electron transport chain with oxygen and protons (hydrogen) as the "terminal electron acceptors". Most of the ATP produced by aerobic cellular respiration is made by oxidative phosphorylation. The energy of O~2~  released is used to create a chemiosmotic potential by pumping protons across a membrane. This potential is then used to drive ATP synthase and produce ATP from ADP and a phosphate group. Biology textbooks often state that 38 ATP molecules can be made per oxidized glucose molecule during cellular respiration (2 from glycolysis, 2 from the Krebs cycle, and about 34 from the electron transport system). However, this maximum yield is never quite reached because of losses due to leaky membranes as well as the cost of moving pyruvate and ADP into the mitochondrial matrix, and current estimates range around 29 to 30 ATP per glucose.
 
+(ref:cellresst) [Stoichiometry of aerobic respiration](https://commons.wikimedia.org/wiki/File:Cellular_respiration.gif) and most known fermentation types in eucaryotic cell. Numbers in circles indicate counts of carbon atoms in molecules, C6 is glucose C~6~H~12~O~6~, C1 carbon dioxide CO~2~. Mitochondrial outer membrane is omitted. 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Cellular_respiration} 
+
+}
+
+\caption{(ref:cellresst)}(\#fig:cellresstoich)
+\end{figure}
+
 Aerobic metabolism is up to 15 times more efficient than anaerobic metabolism (which yields 2 molecules ATP per 1 molecule glucose) because the double bond in O~2~ is of higher energy than other double bonds or pairs of single bonds in other common molecules in the biosphere. However, some anaerobic organisms, such as methanogens are able to continue with anaerobic respiration, yielding more ATP by using other inorganic molecules (not oxygen) of high energy as final electron acceptors in the electron transport chain. They share the initial pathway of glycolysis but aerobic metabolism continues with the Krebs cycle and oxidative phosphorylation. The post-glycolytic reactions take place in the mitochondria in eukaryotic cells, and in the cytoplasm in prokaryotic cells.
 
 ## Glycolysis
@@ -2245,7 +2553,7 @@ Out of the cytoplasm it goes into the Krebs cycle with the acetyl CoA. It then m
 Main article: Glycolysis
 Glycolysis is a metabolic pathway that takes place in the cytosol of cells in all living organisms. Glycolysis can be literally translated as "sugar splitting", and occurs with or without the presence of oxygen. In aerobic conditions, the process converts one molecule of glucose into two molecules of pyruvate (pyruvic acid), generating energy in the form of two net molecules of ATP. Four molecules of ATP per glucose are actually produced, however, two are consumed as part of the preparatory phase. The initial phosphorylation of glucose is required to increase the reactivity (decrease its stability) in order for the molecule to be cleaved into two pyruvate molecules by the enzyme aldolase. During the pay-off phase of glycolysis, four phosphate groups are transferred to ADP by substrate-level phosphorylation to make four ATP, and two NADH are produced when the pyruvate is oxidized. The overall reaction can be expressed this way:
 
-Glucose + 2 NAD+ + 2 P~i~ + 2 ADP → 2 pyruvate + 2 H^+^ + 2 NADH + 2 ATP + 2 H^+^ + 2 H~2~O + energy
+Glucose + 2 NAD^+^ + 2 P~i~ + 2 ADP → 2 pyruvate + 2 H^+^ + 2 NADH + 2 ATP + 2 H^+^ + 2 H~2~O + energy
 
 Starting with glucose, 1 ATP is used to donate a phosphate to glucose to produce glucose 6-phosphate. Glycogen can be converted into glucose 6-phosphate as well with the help of glycogen phosphorylase. During energy metabolism, glucose 6-phosphate becomes fructose 6-phosphate. An additional ATP is used to phosphorylate fructose 6-phosphate into fructose 1,6-bisphosphate by the help of phosphofructokinase. Fructose 1,6-biphosphate then splits into two phosphorylated molecules with three carbon chains which later degrades into pyruvate.
 
@@ -2267,9 +2575,19 @@ In eukaryotes, oxidative phosphorylation occurs in the mitochondrial cristae. It
 
 ## Fermentation
 
-Without oxygen, pyruvate (pyruvic acid) is not metabolized by cellular respiration but undergoes a process of fermentation. The pyruvate is not transported into the mitochondrion, but remains in the cytoplasm, where it is converted to waste products that may be removed from the cell. This serves the purpose of oxidizing the electron carriers so that they can perform glycolysis again and removing the excess pyruvate. Fermentation oxidizes NADH to NAD+ so it can be re-used in glycolysis. In the absence of oxygen, fermentation prevents the buildup of NADH in the cytoplasm and provides NAD+ for glycolysis. This waste product varies depending on the organism. In skeletal muscles, the waste product is lactic acid. This type of fermentation is called lactic acid fermentation. In strenuous exercise, when energy demands exceed energy supply, the respiratory chain cannot process all of the hydrogen atoms joined by NADH. During anaerobic glycolysis, NAD+ regenerates when pairs of hydrogen combine with pyruvate to form lactate. Lactate formation is catalyzed by lactate dehydrogenase in a reversible reaction. Lactate can also be used as an indirect precursor for liver glycogen. During recovery, when oxygen becomes available, NAD+ attaches to hydrogen from lactate to form ATP. In yeast, the waste products are ethanol and carbon dioxide. This type of fermentation is known as alcoholic or ethanol fermentation. The ATP generated in this process is made by substrate-level phosphorylation, which does not require oxygen.
+Without oxygen, pyruvate (pyruvic acid) is not metabolized by cellular respiration but undergoes a process of fermentation. The pyruvate is not transported into the mitochondrion, but remains in the cytoplasm, where it is converted to waste products that may be removed from the cell. This serves the purpose of oxidizing the electron carriers so that they can perform glycolysis again and removing the excess pyruvate. Fermentation oxidizes NADH to NAD^+^ so it can be re-used in glycolysis. In the absence of oxygen, fermentation prevents the buildup of NADH in the cytoplasm and provides NAD^+^ for glycolysis. This waste product varies depending on the organism. In skeletal muscles, the waste product is lactic acid. This type of fermentation is called lactic acid fermentation. In strenuous exercise, when energy demands exceed energy supply, the respiratory chain cannot process all of the hydrogen atoms joined by NADH. During anaerobic glycolysis, NAD^+^ regenerates when pairs of hydrogen combine with pyruvate to form lactate. Lactate formation is catalyzed by lactate dehydrogenase in a reversible reaction. Lactate can also be used as an indirect precursor for liver glycogen. During recovery, when oxygen becomes available, NAD^+^ attaches to hydrogen from lactate to form ATP. In yeast, the waste products are ethanol and carbon dioxide. This type of fermentation is known as alcoholic or ethanol fermentation. The ATP generated in this process is made by substrate-level phosphorylation, which does not require oxygen.
 
 Fermentation is less efficient at using the energy from glucose: only 2 ATP are produced per glucose, compared to the 38 ATP per glucose nominally produced by aerobic respiration. This is because most of the energy of aerobic respiration derives from O~2~ with its relatively weak, high-energy double bond. Glycolytic ATP, however, is created more quickly. For prokaryotes to continue a rapid growth rate when they are shifted from an aerobic environment to an anaerobic environment, they must increase the rate of the glycolytic reactions. For multicellular organisms, during short bursts of strenuous activity, muscle cells use fermentation to supplement the ATP production from the slower aerobic respiration, so fermentation may be used by a cell even before the oxygen levels are depleted, as is the case in sports that do not require athletes to pace themselves, such as sprinting.
+
+Along with photosynthesis and aerobic respiration, fermentation is a way of extracting energy from molecules, but it is the only one common to all bacteria and eukaryotes. It is therefore considered the oldest metabolic pathway, suitable for an environment that did not yet have oxygen. Yeast, a form of fungus, occurs in almost any environment capable of supporting microbes, from the skins of fruits to the guts of insects and mammals and the deep ocean, and harvests sugar-rich materials to produce ethanol and carbon dioxide.
+
+The basic mechanism for fermentation remains present in all cells of higher organisms. Mammalian muscle carries out fermentation during periods of intense exercise where oxygen supply becomes limited, resulting in the creation of lactic acid. In invertebrates, fermentation also produces succinate and alanine.:141
+
+Fermentative bacteria play an essential role in the production of methane in habitats ranging from the rumens of cattle to sewage digesters and freshwater sediments. They produce hydrogen, carbon dioxide, formate and acetate and carboxylic acids; and then consortia of microbes convert the carbon dioxide and acetate to methane. Acetogenic bacteria oxidize the acids, obtaining more acetate and either hydrogen or formate. Finally, methanogens (in the domain Archea) convert acetate to methane.
+
+In ethanol fermentation, one glucose molecule is converted into two ethanol molecules and two carbon dioxide molecules. It is used to make bread dough rise: the carbon dioxide forms bubbles, expanding the dough into a foam. The ethanol is the intoxicating agent in alcoholic beverages such as wine, beer and liquor. Fermentation of feedstocks, including sugarcane, corn, and sugar beets, produces ethanol that is added to gasoline. In some species of fish, including goldfish and carp, it provides energy when oxygen is scarce (along with lactic acid fermentation).
+
+Before fermentation, a glucose molecule breaks down into two pyruvate molecules (Glycolysis). The energy from this exothermic reaction is used to bind inorganic phosphates to ADP, which converts it to ATP, and convert NAD+ to NADH. The pyruvates break down into two acetaldehyde molecules and give off two carbon dioxide molecules as waste products. The acetaldehyde is reduced into ethanol using the energy and hydrogen from NADH, and the NADH is oxidized into NAD+ so that the cycle may repeat. The reaction is catalyzed by the enzymes pyruvate decarboxylase and alcohol dehydrogenase.
 
 ## Anaerobic respiration
 
@@ -2294,6 +2612,17 @@ In cells with nuclei (eukaryotes), (i.e., animal, plant, fungal, and protist cel
 In cells without nuclei (prokaryotes), (i.e., bacteria and archaea), the cell cycle is divided into the B, C, and D periods. The B period extends from the end of cell division to the beginning of DNA replication. DNA replication occurs during the C period. The D period refers to the stage between the end of DNA replication and the splitting of the bacterial cell into two daughter cells. Cell division in porkaryotes (the domains of Archaea and Bacteria) is called binary fission. This form of asexual reproduction and cell division is also used by some organelles within eukaryotic organisms (e.g., mitochondria). Binary fission results in the reproduction of a living prokaryotic cell (or organelle) by dividing the cell into two parts, each with the potential to grow to the size of the original.
 
 The single DNA molecule first replicates, then attaches each copy to a different part of the cell membrane. When the cell begins to pull apart, the replicated and original chromosomes are separated. The consequence of this asexual method of reproduction is that all the cells are genetically identical, meaning that they have the same genetic material (barring random mutations). Unlike the processes of mitosis and meiosis used by eukaryotic cells, binary fission takes place without the formation of a spindle apparatus on the cell. Like in mitosis (and unlike in meiosis), the parental identity is preserved.
+
+(ref:celldiv) [Many bacteria reproduce through binary fission, which is compared to mitosis and meiosis in this image.](https://commons.wikimedia.org/wiki/File:Three_cell_growth_types.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cellcycle/Three_cell_growth_types} 
+
+}
+
+\caption{(ref:celldiv)}(\#fig:celldivision)
+\end{figure}
 
 ## Binary Fission
 
@@ -2779,6 +3108,17 @@ Sexual reproduction is a biological process that creates a new organism by combi
 
 Meiosis (from Greek μείωσις, meiosis, which means lessening) is a special type of cell division that reduces the chromosome number by half, creating four haploid cells, each genetically distinct from the parent cell that gave rise to them. This process occurs in all sexually reproducing single-celled and multicellular eukaryotes, including animals, plants, and fungi. Meiotic cell divisions are an essential process during oogenesis and spermatogenesis.
 
+(ref:meio) [In meiosis](https://commons.wikimedia.org/wiki/File:Meiosis_Overview_new.svg), the chromosome or chromosomes duplicate (during interphase) and homologous chromosomes exchange genetic information (chromosomal crossover) during the first division, called meiosis I. The daughter cells divide again in meiosis II, splitting up sister chromatids to form haploid gametes. Two gametes fuse during fertilization, creating a diploid cell with a complete set of paired chromosomes. 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/reproduction/Meiosis_Overview_new} 
+
+}
+
+\caption{(ref:meio)}(\#fig:meiosisoverview)
+\end{figure}
+
 Errors in meiosis resulting in aneuploidy are the leading known cause of miscarriage and the most frequent genetic cause of developmental disabilities.
 
 In meiosis, DNA replication is followed by two rounds of cell division to produce four daughter cells, each with half the number of chromosomes as the original parent cell. The two meiotic divisions are known as Meiosis I and Meiosis II. Before meiosis begins, during S phase of the cell cycle, the DNA of each chromosome is replicated so that it consists of two identical sister chromatids, which remain held together through sister chromatid cohesion. This S-phase can be referred to as "premeiotic S-phase" or "meiotic S-phase". Immediately following DNA replication, meiotic cells enter a prolonged G2-like stage known as meiotic prophase. During this time, homologous chromosomes pair with each other and undergo genetic recombination, a programmed process in which DNA may be cut and then repaired, which allows them to exchange some of their genetic information. A subset of recombination events results in crossovers, which create physical links known as chiasmata (singular: chiasma, for the Greek letter Chi (X)) between the homologous chromosomes. In most organisms, these links can help direct each pair of homologous chromosomes to segregate away from each other during Meiosis I, resulting in two haploid cells that have half the number of chromosomes as the parent cell. During Meiosis II, the cohesion between sister chromatids is released and they segregate from one another, as during mitosis. In some cases all four of the meiotic products form gametes such as sperm, spores, or pollen. In female animals, three of the four meiotic products are typically eliminated by extrusion into polar bodies, and only one cell develops to produce an ovum. Because the number of chromosomes is halved during meiosis, gametes can fuse (i.e. fertilization) to form a diploid zygote that contains two copies of each chromosome, one from each parent. Thus, alternating cycles of meiosis and fertilization enable sexual reproduction, with successive generations maintaining the same number of chromosomes. For example, diploid human cells contain 23 pairs of chromosomes including 1 pair of sex chromosomes (46 total), half of maternal origin and half of paternal origin. Meiosis produces haploid gametes (ova or sperm) that contain one set of 23 chromosomes. When two gametes (an egg and a sperm) fuse, the resulting zygote is once again diploid, with the mother and father each contributing 23 chromosomes. This same pattern, but not the same number of chromosomes, occurs in all organisms that utilize meiosis.
@@ -2810,6 +3150,17 @@ Meiosis I and II are each divided into prophase, metaphase, anaphase, and teloph
 Meiosis generates gamete genetic diversity in two ways: (1) Law of Independent Assortment. The independent orientation of homologous chromosome pairs along the metaphase plate during metaphase I & orientation of sister chromatids in metaphase II, this is the subsequent separation of homologs and sister chromatids during anaphase I & II, it allows a random and independent distribution of chromosomes to each daughter cell (and ultimately to gametes); and (2) Crossing Over. The physical exchange of homologous chromosomal regions by homologous recombination during prophase I results in new combinations of genetic information within chromosomes.
 
 During meiosis, specific genes are more highly transcribed. In addition to strong meiotic stage-specific expression of mRNA, there are also pervasive translational controls (e.g. selective usage of preformed mRNA), regulating the ultimate meiotic stage-specific protein expression of genes during meiosis. Thus, both transcriptional and translational controls determine the broad restructuring of meiotic cells needed to carry out meiosis.
+
+(ref:meiostages) [Diagram of the meiotic phases](https://commons.wikimedia.org/wiki/File:Meiosis_Stages.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/reproduction/Meiosis_Stages} 
+
+}
+
+\caption{(ref:meiostages)}(\#fig:meiosisstages)
+\end{figure}
 
 ## Meiosis I
 
@@ -4383,11 +4734,44 @@ The translation of mRNA can also be controlled by a number of mechanisms, mostly
 
 Bacteria (singular bacterium) and Archaea (singular archaeon) constitute two domains of single-celled organisms. These microorganisms lack cell nuclei and are therefore prokaryotes. 
 
+(ref:ecoli) [Scanning electron micrograph of Escherichia coli bacteria.](https://commons.wikimedia.org/wiki/File:EscherichiaColi_NIAID.jpg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/EscherichiaColi_NIAID} 
+
+}
+
+\caption{(ref:ecoli)}(\#fig:semecoli)
+\end{figure}
+
 For much of the 20th century, prokaryotes were regarded as a single group of organisms and classified based on their biochemistry, morphology and metabolism. Microbiologists tried to classify microorganisms based on the structures of their cell walls, their shapes, and the substances they consume. In 1965, Emile Zuckerkandl and Linus Pauling instead proposed using the sequences of the genes in different prokaryotes to work out how they are related to each other. This phylogenetic approach is the main method used today.
 
 Archaea – at that time only the methanogens were known – were first classified separately from bacteria in 1977 by Carl Woese and George E. Fox based on their ribosomal RNA (rRNA) genes. They called these groups the Urkingdoms of Archaebacteria and Eubacteria, though other researchers treated them as kingdoms or subkingdoms. Woese and Fox gave the first evidence for Archaebacteria as a separate "line of descent": 1. lack of peptidoglycan in their cell walls, 2. two unusual coenzymes, 3. results of 16S ribosomal RNA gene sequencing. To emphasize this difference, Woese, Otto Kandler and Mark Wheelis later proposed reclassifying organisms into three natural domains known as the three-domain system: the Eukarya, the Bacteria and the Archaea, in what is now known as "The Woesian Revolution".
 
+(ref:archaea) [Halobacterium sp. strain NRC-1, each cell about 5 μm long](https://commons.wikimedia.org/wiki/File:Halobacteria.jpg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Halobacteria} 
+
+}
+
+\caption{(ref:archaea)}(\#fig:haloarchaea)
+\end{figure}
+
 A virus is a submicroscopic infectious agent that replicates only inside the living cells of an organism. Viruses infect all types of life forms, from animals and plants to microorganisms, including bacteria and archaea. Since Dmitri Ivanovsky's 1892 article describing a non-bacterial pathogen infecting tobacco plants, and the discovery of the tobacco mosaic virus by Martinus Beijerinck in 1898, more than 6,000 virus species have been described in detail, of the millions of types of viruses in the environment. Viruses are found in almost every ecosystem on Earth and are the most numerous type of biological entity. The study of viruses is known as virology, a subspeciality of microbiology.
+
+(ref:sarscov) [Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the strain of coronavirus that causes coronavirus disease 2019 (COVID-19), the respiratory illness responsible for the COVID-19 pandemic.](https://commons.wikimedia.org/wiki/File:SARS-CoV-2_without_background.png) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/SARS-CoV-2_without_background} 
+
+}
+
+\caption{(ref:sarscov)}(\#fig:sarscovi2)
+\end{figure}
 
 When infected, a host cell is forced to rapidly produce thousands of identical copies of the original virus. When not inside an infected cell or in the process of infecting a cell, viruses exist in the form of independent particles, or virions, consisting of: (i) the genetic material, i.e. long molecules of DNA or RNA that encode the structure of the proteins by which the virus acts; (ii) a protein coat, the capsid, which surrounds and protects the genetic material; and in some cases (iii) an outside envelope of lipids. The shapes of these virus particles range from simple helical and icosahedral forms to more complex structures. Most virus species have virions too small to be seen with an optical microscope as they are one hundredth the size of most bacteria.
 
@@ -4411,17 +4795,24 @@ Bacteria were also involved in the second great evolutionary divergence, that of
 
 Bacteria display a wide diversity of shapes and sizes, called morphologies. Bacterial cells are about one-tenth the size of eukaryotic cells and are typically 0.5–5.0 micrometres in length. However, a few species are visible to the unaided eye—for example, Thiomargarita namibiensis is up to half a millimetre long and Epulopiscium fishelsoni reaches 0.7 mm. Among the smallest bacteria are members of the genus Mycoplasma, which measure only 0.3 micrometres, as small as the largest viruses. Some bacteria may be even smaller, but these ultramicrobacteria are not well-studied.
 
+(ref:bacshape) [Bacteria display various cell morphologies and arrangements](https://commons.wikimedia.org/wiki/File:Bacterial_morphology_diagram.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Bacterial_morphology_diagram} 
+
+}
+
+\caption{(ref:bacshape)}(\#fig:bacteriashape)
+\end{figure}
+
 Most bacterial species are either spherical, called cocci (singular coccus, from Greek kókkos, grain, seed), or rod-shaped, called bacilli (sing. bacillus, from Latin baculus, stick). Some bacteria, called vibrio, are shaped like slightly curved rods or comma-shaped; others can be spiral-shaped, called spirilla, or tightly coiled, called spirochaetes. A small number of other unusual shapes have been described, such as star-shaped bacteria. This wide variety of shapes is determined by the bacterial cell wall and cytoskeleton, and is important because it can influence the ability of bacteria to acquire nutrients, attach to surfaces, swim through liquids and escape predators.
 
-
-The range of sizes shown by prokaryotes, relative to those of other organisms and biomolecules.
 Many bacterial species exist simply as single cells, others associate in characteristic patterns: Neisseria form diploids (pairs), Streptococcus form chains, and Staphylococcus group together in "bunch of grapes" clusters. Bacteria can also group to form larger multicellular structures, such as the elongated filaments of Actinobacteria, the aggregates of Myxobacteria, and the complex hyphae of Streptomyces. These multicellular structures are often only seen in certain conditions. For example, when starved of amino acids, Myxobacteria detect surrounding cells in a process known as quorum sensing, migrate towards each other, and aggregate to form fruiting bodies up to 500 micrometres long and containing approximately 100,000 bacterial cells. In these fruiting bodies, the bacteria perform separate tasks; for example, about one in ten cells migrate to the top of a fruiting body and differentiate into a specialised dormant state called a myxospore, which is more resistant to drying and other adverse environmental conditions.
 
 Bacteria often attach to surfaces and form dense aggregations called biofilms, and larger formations known as microbial mats. These biofilms and mats can range from a few micrometres in thickness to up to half a metre in depth, and may contain multiple species of bacteria, protists and archaea. Bacteria living in biofilms display a complex arrangement of cells and extracellular components, forming secondary structures, such as microcolonies, through which there are networks of channels to enable better diffusion of nutrients. In natural environments, such as soil or the surfaces of plants, the majority of bacteria are bound to surfaces in biofilms. Biofilms are also important in medicine, as these structures are often present during chronic bacterial infections or in infections of implanted medical devices, and bacteria protected within biofilms are much harder to kill than individual isolated bacteria.
 
-## Cellular structure
-
-### Intracellular structures
+### Intracellular Structure
 
 The bacterial cell is surrounded by a cell membrane, which is made primarily of phospholipids. This membrane encloses the contents of the cell and acts as a barrier to hold nutrients, proteins and other essential components of the cytoplasm within the cell. Unlike eukaryotic cells, bacteria usually lack large membrane-bound structures in their cytoplasm such as a nucleus, mitochondria, chloroplasts and the other organelles present in eukaryotic cells. However, some bacteria have protein-bound organelles in the cytoplasm which compartmentalize aspects of bacterial metabolism, such as the carboxysome. Additionally, bacteria have a multi-component cytoskeleton to control the localisation of proteins and nucleic acids within the cell, and to manage the process of cell division.
 
@@ -4431,7 +4822,7 @@ Bacteria do not have a membrane-bound nucleus, and their genetic material is typ
 
 Some bacteria produce intracellular nutrient storage granules, such as glycogen, polyphosphate, sulfur or polyhydroxyalkanoates. Bacteria such as the photosynthetic cyanobacteria, produce internal gas vacuoles, which they use to regulate their buoyancy, allowing them to move up or down into water layers with different light intensities and nutrient levels.
 
-### Extracellular structures
+### Extracellular Structures
 
 Around the outside of the cell membrane is the cell wall. Bacterial cell walls are made of peptidoglycan (also called murein), which is made from polysaccharide chains cross-linked by peptides containing D-amino acids. Bacterial cell walls are different from the cell walls of plants and fungi, which are made of cellulose and chitin, respectively. The cell wall of bacteria is also distinct from that of Archaea, which do not contain peptidoglycan. The cell wall is essential to the survival of many bacteria, and the antibiotic penicillin (produced by a fungus called Penicillium) is able to kill bacteria by inhibiting a step in the synthesis of peptidoglycan.
 
@@ -4441,8 +4832,17 @@ Gram-positive bacteria possess a thick cell wall containing many layers of pepti
 
 In many bacteria, an S-layer of rigidly arrayed protein molecules covers the outside of the cell. This layer provides chemical and physical protection for the cell surface and can act as a macromolecular diffusion barrier. S-layers have diverse but mostly poorly understood functions, but are known to act as virulence factors in Campylobacter and contain surface enzymes in Bacillus stearothermophilus.
 
-Helicobacter pylori electron micrograph, showing multiple flagella on the cell surface
-Helicobacter pylori electron micrograph, showing multiple flagella on the cell surface
+(ref:hpyl) [Helicobacter pylori electron micrograph](https://commons.wikimedia.org/wiki/File:EMpylori.jpg), showing multiple flagella on the cell surface
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/EMpylori} 
+
+}
+
+\caption{(ref:hpyl)}(\#fig:helicopylori)
+\end{figure}
+
 Flagella are rigid protein structures, about 20 nanometres in diameter and up to 20 micrometres in length, that are used for motility. Flagella are driven by the energy released by the transfer of ions down an electrochemical gradient across the cell membrane.
 
 Fimbriae (sometimes called "attachment pili") are fine filaments of protein, usually 2–10 nanometres in diameter and up to several micrometres in length. They are distributed over the surface of the cell, and resemble fine hairs when seen under the electron microscope. Fimbriae are believed to be involved in attachment to solid surfaces or to other cells, and are essential for the virulence of some bacterial pathogens. Pili (sing. pilus) are cellular appendages, slightly larger than fimbriae, that can transfer genetic material between bacterial cells in a process called conjugation where they are called conjugation pili or sex pili (see bacterial genetics, below). They can also generate movement where they are called type IV pili.
@@ -4455,9 +4855,31 @@ The assembly of these extracellular structures is dependent on bacterial secreti
 
 Certain genera of Gram-positive bacteria, such as Bacillus, Clostridium, Sporohalobacter, Anaerobacter, and Heliobacterium, can form highly resistant, dormant structures called endospores. Endospores develop within the cytoplasm of the cell; generally a single endospore develops in each cell. Each endospore contains a core of DNA and ribosomes surrounded by a cortex layer and protected by a multilayer rigid coat composed of peptidoglycan and a variety of proteins.
 
+(ref:endosp) [A stained preparation of the cell Bacillus subtilis showing endospores as green and the vegetative cell as red.](https://commons.wikimedia.org/wiki/File:Bacillus_subtilis_Spore.jpg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Bacillus_subtilis_Spore} 
+
+}
+
+\caption{(ref:endosp)}(\#fig:endospore)
+\end{figure}
+
 Endospores show no detectable metabolism and can survive extreme physical and chemical stresses, such as high levels of UV light, gamma radiation, detergents, disinfectants, heat, freezing, pressure, and desiccation. In this dormant state, these organisms may remain viable for millions of years, and endospores even allow bacteria to survive exposure to the vacuum and radiation in space, possibly bacteria could be distributed throughout the Universe by space dust, meteoroids, asteroids, comets, planetoids or via directed panspermia. Endospore-forming bacteria can also cause disease: for example, anthrax can be contracted by the inhalation of Bacillus anthracis endospores, and contamination of deep puncture wounds with Clostridium tetani endospores causes tetanus.
 
-## Metabolism
+(ref:endospf) [Formation of an endospore through the process of sporulation.](https://commons.wikimedia.org/wiki/File:Endospore_Formation.png) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Endospore_Formation} 
+
+}
+
+\caption{(ref:endospf)}(\#fig:endosporeform)
+\end{figure}
+
+### Metabolism
 
 Bacteria exhibit an extremely wide variety of metabolic types. The distribution of metabolic traits within a group of bacteria has traditionally been used to define their taxonomy, but these traits often do not correspond with modern genetic classifications. Bacterial metabolism is classified into nutritional groups on the basis of three major criteria: the source of energy, the electron donors used, and the source of carbon used for growth.
 
@@ -4481,7 +4903,7 @@ Nutritional Type & Source of Energy & Source of Carbon & Examples\\
 
 In many ways, bacterial metabolism provides traits that are useful for ecological stability and for human society. One example is that some bacteria have the ability to fix nitrogen gas using the enzyme nitrogenase. This environmentally important trait can be found in bacteria of most metabolic types listed above. This leads to the ecologically important processes of denitrification, sulfate reduction, and acetogenesis, respectively. Bacterial metabolic processes are also important in biological responses to pollution; for example, sulfate-reducing bacteria are largely responsible for the production of the highly toxic forms of mercury (methyl- and dimethylmercury) in the environment. Non-respiratory anaerobes use fermentation to generate energy and reducing power, secreting metabolic by-products (such as ethanol in brewing) as waste. Facultative anaerobes can switch between fermentation and different terminal electron acceptors depending on the environmental conditions in which they find themselves.
 
-## Growth and reproduction
+### Growth and reproduction
 
 Many bacteria reproduce through binary fission, which is compared to mitosis and meiosis in this image.
 
@@ -4493,7 +4915,7 @@ Most laboratory techniques for growing bacteria use high levels of nutrients to 
 
 Bacterial growth follows four phases. When a population of bacteria first enter a high-nutrient environment that allows growth, the cells need to adapt to their new environment. The first phase of growth is the lag phase, a period of slow growth when the cells are adapting to the high-nutrient environment and preparing for fast growth. The lag phase has high biosynthesis rates, as proteins necessary for rapid growth are produced. The second phase of growth is the logarithmic phase, also known as the exponential phase. The log phase is marked by rapid exponential growth. The rate at which cells grow during this phase is known as the growth rate (k), and the time it takes the cells to double is known as the generation time (g). During log phase, nutrients are metabolised at maximum speed until one of the nutrients is depleted and starts limiting growth. The third phase of growth is the stationary phase and is caused by depleted nutrients. The cells reduce their metabolic activity and consume non-essential cellular proteins. The stationary phase is a transition from rapid growth to a stress response state and there is increased expression of genes involved in DNA repair, antioxidant metabolism and nutrient transport. The final phase is the death phase where the bacteria run out of nutrients and die.
 
-## Genetics
+### Genetics
 
 Most bacteria have a single circular chromosome that can range in size from only 160,000 base pairs in the endosymbiotic bacteria Carsonella ruddii, to 12,200,000 base pairs (12.2 Mbp) in the soil-dwelling bacteria Sorangium cellulosum. There are many exceptions to this, for example some Streptomyces and Borrelia species contain a single linear chromosome, while some Vibrio species contain more than one chromosome. Bacteria can also contain plasmids, small extra-chromosomal molecules of DNA that may contain genes for various useful functions such as antibiotic resistance, metabolic capabilities, or various virulence factors.
 
@@ -4503,7 +4925,7 @@ Bacteria, as asexual organisms, inherit an identical copy of the parent's genome
 
 Some bacteria also transfer genetic material between cells. This can occur in three main ways. First, bacteria can take up exogenous DNA from their environment, in a process called transformation. Many bacteria can naturally take up DNA from the environment, while others must be chemically altered in order to induce them to take up DNA. The development of competence in nature is usually associated with stressful environmental conditions, and seems to be an adaptation for facilitating repair of DNA damage in recipient cells. The second way bacteria transfer genetic material is by transduction, when the integration of a bacteriophage introduces foreign DNA into the chromosome. Many types of bacteriophage exist, some simply infect and lyse their host bacteria, while others insert into the bacterial chromosome. Bacteria resist phage infection through restriction modification systems that degrade foreign DNA, and a system that uses CRISPR sequences to retain fragments of the genomes of phage that the bacteria have come into contact with in the past, which allows them to block virus replication through a form of RNA interference. The third method of gene transfer is conjugation, whereby DNA is transferred through direct cell contact. In ordinary circumstances, transduction, conjugation, and transformation involve transfer of DNA between individual bacteria of the same species, but occasionally transfer may occur between individuals of different bacterial species and this may have significant consequences, such as the transfer of antibiotic resistance. In such cases, gene acquisition from other bacteria or the environment is called horizontal gene transfer and may be common under natural conditions.
 
-## Movement
+### Movement
 
 Many bacteria are motile (able to move themselves) and do so using a variety of mechanisms. The best studied of these are flagella, long filaments that are turned by a motor at the base to generate propeller-like movement. The bacterial flagellum is made of about 20 proteins, with approximately another 30 proteins required for its regulation and assembly. The flagellum is a rotating structure driven by a reversible motor at the base that uses the electrochemical gradient across the membrane for power.
 
@@ -4515,7 +4937,7 @@ Motile bacteria are attracted or repelled by certain stimuli in behaviours calle
 
 Several Listeria and Shigella species move inside host cells by usurping the cytoskeleton, which is normally used to move organelles inside the cell. By promoting actin polymerisation at one pole of their cells, they can form a kind of tail that pushes them through the host cell's cytoplasm.
 
-## Communication
+### Communication
 
 Bacteria often function as multicellular aggregates known as biofilms, exchanging a variety of molecular signals for inter-cell communication, and engaging in coordinated multicellular behaviour.
 
@@ -4525,7 +4947,7 @@ One type of inter-cellular communication by a molecular signal is called quorum 
 
 Quorum sensing allows bacteria to coordinate gene expression, and enables them to produce, release and detect autoinducers or pheromones which accumulate with the growth in cell population.
 
-## Classification and identification
+### Classification and identification
 
 Classification seeks to describe the diversity of bacterial species by naming and grouping organisms based on similarities. Bacteria can be classified on the basis of cell structure, cellular metabolism or on differences in cell components, such as DNA, fatty acids, pigments, antigens and quinones. While these schemes allowed the identification and classification of bacterial strains, it was unclear whether these differences represented variation between distinct species or between strains of the same species. This uncertainty was due to the lack of distinctive structures in most bacteria, as well as lateral gene transfer between unrelated species. Due to lateral gene transfer, some closely related bacteria can have very different morphologies and metabolisms. To overcome this uncertainty, modern bacterial classification emphasises molecular systematics, using genetic techniques such as guanine cytosine ratio determination, genome-genome hybridisation, as well as sequencing genes that have not undergone extensive lateral gene transfer, such as the rRNA gene. Classification of bacteria is determined by publication in the International Journal of Systematic Bacteriology, and Bergey's Manual of Systematic Bacteriology. The International Committee on Systematic Bacteriology (ICSB) maintains international rules for the naming of bacteria and taxonomic categories and for the ranking of them in the International Code of Nomenclature of Bacteria.
 
@@ -4539,7 +4961,7 @@ Culture techniques are designed to promote the growth and identify particular ba
 
 As with bacterial classification, identification of bacteria is increasingly using molecular methods. Diagnostics using DNA-based tools, such as polymerase chain reaction, are increasingly popular due to their specificity and speed, compared to culture-based methods. These methods also allow the detection and identification of "viable but nonculturable" cells that are metabolically active but non-dividing. However, even using these improved methods, the total number of bacterial species is not known and cannot even be estimated with any certainty. Following present classification, there are a little less than 9,300 known species of prokaryotes, which includes bacteria and archaea; but attempts to estimate the true number of bacterial diversity have ranged from 107 to 109 total species—and even these diverse estimates may be off by many orders of magnitude.
 
-## Interactions with other organisms
+### Interactions With Other Organisms
 
 Despite their apparent simplicity, bacteria can form complex associations with other organisms. These symbiotic associations can be divided into parasitism, mutualism and commensalism. Due to their small size, commensal bacteria are ubiquitous and grow on animals and plants exactly as they will grow on any other surface. However, their growth can be increased by warmth and sweat, and large populations of these organisms in humans are the cause of body odour.
 
@@ -4549,7 +4971,7 @@ Certain bacteria form close spatial associations that are essential for their su
 
 In soil, microorganisms that reside in the rhizosphere (a zone that includes the root surface and the soil that adheres to the root after gentle shaking) carry out nitrogen fixation, converting nitrogen gas to nitrogenous compounds. This serves to provide an easily absorbable form of nitrogen for many plants, which cannot fix nitrogen themselves. Many other bacteria are found as symbionts in humans and other organisms. For example, the presence of over 1,000 bacterial species in the normal human gut flora of the intestines can contribute to gut immunity, synthesise vitamins, such as folic acid, vitamin K and biotin, convert sugars to lactic acid (see Lactobacillus), as well as fermenting complex undigestible carbohydrates. The presence of this gut flora also inhibits the growth of potentially pathogenic bacteria (usually through competitive exclusion) and these beneficial bacteria are consequently sold as probiotic dietary supplements.
 
-## Pathogens
+### Bacteria as Pathogens
 
 If bacteria form a parasitic association with other organisms, they are classed as pathogens. Pathogenic bacteria are a major cause of human death and disease and cause infections such as tetanus (Caused by Clostridium tetani), typhoid fever, diphtheria, syphilis, cholera, foodborne illness, leprosy (caused by Micobacterium leprae) and tuberculosis (Caused by Mycobacterium tuberculosis). A pathogenic cause for a known medical disease may only be discovered many years after, as was the case with Helicobacter pylori and peptic ulcer disease. Bacterial diseases are also important in agriculture, with bacteria causing leaf spot, fire blight and wilts in plants, as well as Johne's disease, mastitis, salmonella and anthrax in farm animals.
 
@@ -4557,7 +4979,7 @@ Each species of pathogen has a characteristic spectrum of interactions with its 
 
 Bacterial infections may be treated with antibiotics, which are classified as bacteriocidal if they kill bacteria, or bacteriostatic if they just prevent bacterial growth. There are many types of antibiotics and each class inhibits a process that is different in the pathogen from that found in the host. An example of how antibiotics produce selective toxicity are chloramphenicol and puromycin, which inhibit the bacterial ribosome, but not the structurally different eukaryotic ribosome. Antibiotics are used both in treating human disease and in intensive farming to promote animal growth, where they may be contributing to the rapid development of antibiotic resistance in bacterial populations. Infections can be prevented by antiseptic measures such as sterilising the skin prior to piercing it with the needle of a syringe, and by proper care of indwelling catheters. Surgical and dental instruments are also sterilised to prevent contamination by bacteria. Disinfectants such as bleach are used to kill bacteria or other pathogens on surfaces to prevent contamination and further reduce the risk of infection.
 
-## Significance in technology and industry
+### Significance in Technology And Industry
 
 Bacteria, often lactic acid bacteria, such as Lactobacillus and Lactococcus, in combination with yeasts and moulds, have been used for thousands of years in the preparation of fermented foods, such as cheese, pickles, soy sauce, sauerkraut, vinegar, wine and yogurt.
 
@@ -4581,7 +5003,7 @@ Archaea are a major part of Earth's life. They are part of the microbiota of all
 
 No clear examples of archaeal pathogens or parasites are known. Instead they are often mutualists or commensals, such as the methanogens (methane-producing strains) that inhabit the gastrointestinal tract in humans and ruminants, where their vast numbers aid digestion. Methanogens are also used in biogas production and sewage treatment, and biotechnology exploits enzymes from extremophile archaea that can endure high temperatures and organic solvents.
 
-## Origin and evolution
+### Origin and evolution
 
 The age of the Earth is about 4.54 billion years. Scientific evidence suggests that life began on Earth at least 3.5 billion years ago. The earliest evidence for life on Earth is graphite found to be biogenic in 3.7-billion-year-old metasedimentary rocks discovered in Western Greenland and microbial mat fossils found in 3.48-billion-year-old sandstone discovered in Western Australia. In 2015, possible remains of biotic matter were found in 4.1-billion-year-old rocks in Western Australia.
 
@@ -4589,12 +5011,13 @@ Although probable prokaryotic cell fossils date to almost 3.5 billion years ago,
 
 Woese argued that the Bacteria, Archaea, and Eukaryotes represent separate lines of descent that diverged early on from an ancestral colony of organisms. One possibility is that this occurred before the evolution of cells, when the lack of a typical cell membrane allowed unrestricted lateral gene transfer, and that the common ancestors of the three domains arose by fixation of specific subsets of genes. It is possible that the last common ancestor of bacteria and archaea was a thermophile, which raises the possibility that lower temperatures are "extreme environments" for archaea, and organisms that live in cooler environments appeared only later. Since archaea and bacteria are no more related to each other than they are to eukaryotes, the term prokaryote may suggest a false similarity between them. However, structural and functional similarities between lineages often occur because of shared ancestral traits or evolutionary convergence. These similarities are known as a grade, and prokaryotes are best thought of a grade of life, characterized by such features as an absence of membrane-bound organelles.
 
-
 The following table (\@ref(tab:domaincomparison) compares some major characteristics of the three domains, to illustrate their similarities and differences.
 
 \begin{table}[!h]
+
+\caption{(\#tab:domaincomparison)A comparison of major characterisitcs of the domains of Bacteria, Archaea and Eukaryia}
 \centering
-\begin{tabular}{llll}
+\begin{tabular}[t]{llll}
 \toprule
 Property & Bacteria & Archaea & Eukarya\\
 \midrule
@@ -4618,13 +5041,13 @@ Woese used his new rRNA comparison method to categorize and contrast different o
 
 One property unique to archaea is the abundant use of ether-linked lipids in their cell membranes. Ether linkages are more chemically stable than the ester linkages found in bacteria and eukarya, which may be a contributing factor to the ability of many archaea to survive in extreme environments that place heavy stress on cell membranes, such as extreme heat and salinity. Comparative analysis of archaeal genomes has also identified several molecular conserved signature indels and signature proteins uniquely present in either all archaea or different main groups within archaea. Another unique feature of archaea, found in no other organisms, is methanogenesis (the metabolic production of methane). Methanogenic archaea play a pivotal role in ecosystems with organisms that derive energy from oxidation of methane, many of which are bacteria, as they are often a major source of methane in such environments and can play a role as primary producers. Methanogens also play a critical role in the carbon cycle, breaking down organic carbon into methane, which is also a major greenhouse gas.
 
-### Relationship to bacteria
+### Relationship to Bacteria
 
 The relationships among the three domains are of central importance for understanding the origin of life. Most of the metabolic pathways, which are the object of the majority of an organism's genes, are common between Archaea and Bacteria, while most genes involved in genome expression are common between Archaea and Eukarya. Within prokaryotes, archaeal cell structure is most similar to that of gram-positive bacteria, largely because both have a single lipid bilayer and usually contain a thick sacculus (exoskeleton) of varying chemical composition. In some phylogenetic trees based upon different gene/protein sequences of prokaryotic homologs, the archaeal homologs are more closely related to those of gram-positive bacteria. Archaea and gram-positive bacteria also share conserved indels in a number of important proteins, such as Hsp70 and glutamine synthetase I; but the phylogeny of these genes was interpreted to reveal interdomain gene transfer, and might not reflect the organismal relationship(s).
 
 It has been proposed that the archaea evolved from gram-positive bacteria in response to antibiotic selection pressure. This is suggested by the observation that archaea are resistant to a wide variety of antibiotics that are produced primarily by gram-positive bacteria, and that these antibiotics act primarily on the genes that distinguish archaea from bacteria. The proposal is that the selective pressure towards resistance generated by the gram-positive antibiotics was eventually sufficient to cause extensive changes in many of the antibiotics' target genes, and that these strains represented the common ancestors of present-day Archaea. The evolution of Archaea in response to antibiotic selection, or any other competitive selective pressure, could also explain their adaptation to extreme environments (such as high temperature or acidity) as the result of a search for unoccupied niches to escape from antibiotic-producing organisms; Cavalier-Smith has made a similar suggestion. This proposal is also supported by other work investigating protein structural relationships and studies that suggest that gram-positive bacteria may constitute the earliest branching lineages within the prokaryotes.
 
-### Relation to eukaryotes
+### Relation to Eukaryotes
 
 The evolutionary relationship between archaea and eukaryotes remains unclear. Aside from the similarities in cell structure and function that are discussed below, many genetic trees group the two.
 
@@ -4636,17 +5059,17 @@ Several sister phyla of "Lokiarchaeota" have since been found ("Thorarchaeota", 
 
 Details of the relation of Asgard members and eukaryotes are still under consideration, although, in January 2020, scientists reported that Candidatus Prometheoarchaeum syntrophicum, a type of Asgard archaea, may be a possible link between simple prokaryotic and complex eukaryotic microorganisms about two billion years ago.
 
-## Morphology
+### Morphology
 
 Individual archaea range from 0.1 micrometers (μm) to over 15 μm in diameter, and occur in various shapes, commonly as spheres, rods, spirals or plates. Other morphologies in the Crenarchaeota include irregularly shaped lobed cells in Sulfolobus, needle-like filaments that are less than half a micrometer in diameter in Thermofilum, and almost perfectly rectangular rods in Thermoproteus and Pyrobaculum. Archaea in the genus Haloquadratum such as Haloquadratum walsbyi are flat, square specimens that live in hypersaline pools. These unusual shapes are probably maintained by both their cell walls and a prokaryotic cytoskeleton. Proteins related to the cytoskeleton components of other organisms exist in archaea, and filaments form within their cells, but in contrast with other organisms, these cellular structures are poorly understood. In Thermoplasma and Ferroplasma the lack of a cell wall means that the cells have irregular shapes, and can resemble amoebae.
 
 Some species form aggregates or filaments of cells up to 200 μm long. These organisms can be prominent in biofilms. Notably, aggregates of Thermococcus coalescens cells fuse together in culture, forming single giant cells. Archaea in the genus Pyrodictium produce an elaborate multicell colony involving arrays of long, thin hollow tubes called cannulae that stick out from the cells' surfaces and connect them into a dense bush-like agglomeration. The function of these cannulae is not settled, but they may allow communication or nutrient exchange with neighbors. Multi-species colonies exist, such as the "string-of-pearls" community that was discovered in 2001 in a German swamp. Round whitish colonies of a novel Euryarchaeota species are spaced along thin filaments that can range up to 15 centimetres (5.9 in) long; these filaments are made of a particular bacteria species.
 
-### Structure, composition development, and operation
+### Structure, Composition Development, And Operation
 
 Archaea and bacteria have generally similar cell structure, but cell composition and organization set the archaea apart. Like bacteria, archaea lack interior membranes and organelles. Like bacteria, the cell membranes of archaea are usually bounded by a cell wall and they swim using one or more flagella. Structurally, archaea are most similar to gram-positive bacteria. Most have a single plasma membrane and cell wall, and lack a periplasmic space; the exception to this general rule is Ignicoccus, which possess a particularly large periplasm that contains membrane-bound vesicles and is enclosed by an outer membrane.
 
-### Cell wall and flagella
+### Cell Wall And Flagella
 
 Most archaea (but not Thermoplasma and Ferroplasma) possess a cell wall. In most archaea the wall is assembled from surface-layer proteins, which form an S-layer. An S-layer is a rigid array of protein molecules that cover the outside of the cell (like chain mail). This layer provides both chemical and physical protection, and can prevent macromolecules from contacting the cell membrane. Unlike bacteria, archaea lack peptidoglycan in their cell walls. Methanobacteriales do have cell walls containing pseudopeptidoglycan, which resembles eubacterial peptidoglycan in morphology, function, and physical structure, but pseudopeptidoglycan is distinct in chemical structure; it lacks D-amino acids and N-acetylmuramic acid, substituting the latter with N-Acetyltalosaminuronic acid.
 
@@ -4662,6 +5085,17 @@ The phospholipids of archaea are unusual in four ways:
 * The stereochemistry of the archaeal glycerol moiety is the mirror image of that found in other organisms. The glycerol moiety can occur in two forms that are mirror images of one another, called enantiomers. Just as a right hand does not fit easily into a left-handed glove, enantiomers of one type generally cannot be used or made by enzymes adapted for the other. The archaeal phospholipids are built on a backbone of sn-glycerol-1-phosphate, which is an enantiomer of sn-glycerol-3-phosphate, the phospholipid backbone found in bacteria and eukaryotes. This suggests that archaea use entirely different enzymes for synthesizing phospholipids as compared to bacteria and eukaryotes. Such enzymes developed very early in life's history, indicating an early split from the other two domains.
 * Archaeal lipid tails differ from those of other organisms in that they are based upon long isoprenoid chains with multiple side-branches, sometimes with cyclopropane or cyclohexane rings. By contrast, the fatty acids in the membranes of other organisms have straight chains without side branches or rings. Although isoprenoids play an important role in the biochemistry of many organisms, only the archaea use them to make phospholipids. These branched chains may help prevent archaeal membranes from leaking at high temperatures.
 * In some archaea, the lipid bilayer is replaced by a monolayer. In effect, the archaea fuse the tails of two phospholipid molecules into a single molecule with two polar heads (a bolaamphiphile); this fusion may make their membranes more rigid and better able to resist harsh environments. For example, the lipids in Ferroplasma are of this type, which is thought to aid this organism's survival in its highly acidic habitat.
+
+(ref:membcomp) [A comparison of the membrane structures of Archaea, Bacteria and Eukarya. Top, an archaeal phospholipid: 1, isoprene chains; 2, ether linkages; 3, L-glycerol moiety; 4, phosphate group. Middle, a bacterial or eukaryotic phospholipid: 5, fatty acid chains; 6, ester linkages; 7, D-glycerol moiety; 8, phosphate group. Bottom: 9, lipid bilayer of bacteria and eukaryotes; 10, lipid monolayer of some archaea.](https://commons.wikimedia.org/wiki/File:Archaea_membrane.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Archaea_membrane} 
+
+}
+
+\caption{(ref:membcomp)}(\#fig:membranestruccomp)
+\end{figure}
 
 ### Metabolism
 
@@ -4685,27 +5119,21 @@ Nutritional Type & Source of Energy & Source of Carbon & Examples\\
 Some Euryarchaeota are methanogens (archaea that produce methane as a result of metabolism) living in anaerobic environments, such as swamps. This form of metabolism evolved early, and it is even possible that the first free-living organism was a methanogen. A common reaction involves the use of carbon dioxide as an electron acceptor to oxidize hydrogen. Methanogenesis involves a range of coenzymes that are unique to these archaea, such as coenzyme M and methanofuran. Other organic compounds such as alcohols, acetic acid or formic acid are used as alternative electron acceptors by methanogens. These reactions are common in gut-dwelling archaea. Acetic acid is also broken down into methane and carbon dioxide directly, by acetotrophic archaea. These acetotrophs are archaea in the order Methanosarcinales, and are a major part of the communities of microorganisms that produce biogas.
 
 
-Bacteriorhodopsin from Halobacterium salinarum. The retinol cofactor and residues involved in proton transfer are shown as ball-and-stick models.
-Other archaea use CO
-2 in the atmosphere as a source of carbon, in a process called carbon fixation (they are autotrophs). This process involves either a highly modified form of the Calvin cycle or another metabolic pathway called the 3-hydroxypropionate/ 4-hydroxybutyrate cycle. The Crenarchaeota also use the reverse Krebs cycle while the Euryarchaeota also use the reductive acetyl-CoA pathway. Carbon fixation is powered by inorganic energy sources. No known archaea carry out photosynthesis. Archaeal energy sources are extremely diverse, and range from the oxidation of ammonia by the Nitrosopumilales to the oxidation of hydrogen sulfide or elemental sulfur by species of Sulfolobus, using either oxygen or metal ions as electron acceptors.
+Other archaea use CO~2~ in the atmosphere as a source of carbon, in a process called carbon fixation (they are autotrophs). This process involves either a highly modified form of the Calvin cycle or another metabolic pathway called the 3-hydroxypropionate/ 4-hydroxybutyrate cycle. The Crenarchaeota also use the reverse Krebs cycle while the Euryarchaeota also use the reductive acetyl-CoA pathway. Carbon fixation is powered by inorganic energy sources. No known archaea carry out photosynthesis. Archaeal energy sources are extremely diverse, and range from the oxidation of ammonia by the Nitrosopumilales to the oxidation of hydrogen sulfide or elemental sulfur by species of Sulfolobus, using either oxygen or metal ions as electron acceptors.
 
 Phototrophic archaea use light to produce chemical energy in the form of ATP. In the Halobacteria, light-activated ion pumps like bacteriorhodopsin and halorhodopsin generate ion gradients by pumping ions out of and into the cell across the plasma membrane. The energy stored in these electrochemical gradients is then converted into ATP by ATP synthase. This process is a form of photophosphorylation. The ability of these light-driven pumps to move ions across membranes depends on light-driven changes in the structure of a retinol cofactor buried in the center of the protein.
 
-Genetics
-Further information: Plasmid and Genome
+### Genetics
+
 Archaea usually have a single circular chromosome, with as many as 5,751,492 base pairs in Methanosarcina acetivorans, the largest known archaeal genome. The tiny 490,885 base-pair genome of Nanoarchaeum equitans is one-tenth of this size and the smallest archaeal genome known; it is estimated to contain only 537 protein-encoding genes. Smaller independent pieces of DNA, called plasmids, are also found in archaea. Plasmids may be transferred between cells by physical contact, in a process that may be similar to bacterial conjugation.
 
-
-Sulfolobus infected with the DNA virus STSV1. Bar is 1 micrometer.
 Archaea are genetically distinct from bacteria and eukaryotes, with up to 15% of the proteins encoded by any one archaeal genome being unique to the domain, although most of these unique genes have no known function. Of the remainder of the unique proteins that have an identified function, most belong to the Euryarchaea and are involved in methanogenesis. The proteins that archaea, bacteria and eukaryotes share form a common core of cell function, relating mostly to transcription, translation, and nucleotide metabolism. Other characteristic archaeal features are the organization of genes of related function – such as enzymes that catalyze steps in the same metabolic pathway into novel operons, and large differences in tRNA genes and their aminoacyl tRNA synthetases.
 
 Transcription in archaea more closely resembles eukaryotic than bacterial transcription, with the archaeal RNA polymerase being very close to its equivalent in eukaryotes, while archaeal translation shows signs of both bacterial and eukaryotic equivalents. Although archaea have only one type of RNA polymerase, its structure and function in transcription seems to be close to that of the eukaryotic RNA polymerase II, with similar protein assemblies (the general transcription factors) directing the binding of the RNA polymerase to a gene's promoter, but other archaeal transcription factors are closer to those found in bacteria. Post-transcriptional modification is simpler than in eukaryotes, since most archaeal genes lack introns, although there are many introns in their transfer RNA and ribosomal RNA genes, and introns may occur in a few protein-encoding genes.
 
 
-Ecology
-Habitats
+### Ecology
 
-Archaea that grow in the hot water of the Morning Glory Hot Spring in Yellowstone National Park produce a bright colour
 Archaea exist in a broad range of habitats, and are now recognized as a major part of global ecosystems, and may represent about 20% of microbial cells in the oceans. However, the first-discovered archaeans were extremophiles. Indeed, some archaea survive high temperatures, often above 100 °C (212 °F), as found in geysers, black smokers, and oil wells. Other common habitats include very cold habitats and highly saline, acidic, or alkaline water, but archaea include mesophiles that grow in mild conditions, in swamps and marshland, sewage, the oceans, the intestinal tract of animals, and soils.
 
 Extremophile archaea are members of four main physiological groups. These are the halophiles, thermophiles, alkaliphiles, and acidophiles. These groups are not comprehensive or phylum-specific, nor are they mutually exclusive, since some archaea belong to several groups. Nonetheless, they are a useful starting point for classification.
@@ -4720,7 +5148,7 @@ Recently, several studies have shown that archaea exist not only in mesophilic a
 
 Vast numbers of archaea are also found in the sediments that cover the sea floor, with these organisms making up the majority of living cells at depths over 1 meter below the ocean bottom. It has been demonstrated that in all oceanic surface sediments (from 1000- to 10,000-m water depth), the impact of viral infection is higher on archaea than on bacteria and virus-induced lysis of archaea accounts for up to one-third of the total microbial biomass killed, resulting in the release of ~0.3 to 0.5 gigatons of carbon per year globally.
 
-Significance in technology and industry
+### Significance in Technology And Industry
 
 Extremophile archaea, particularly those resistant either to heat or to extremes of acidity and alkalinity, are a source of enzymes that function under these harsh conditions. These enzymes have found many uses. For example, thermostable DNA polymerases, such as the Pfu DNA polymerase from Pyrococcus furiosus, revolutionized molecular biology by allowing the polymerase chain reaction to be used in research as a simple and rapid technique for cloning DNA. In industry, amylases, galactosidases and pullulanases in other species of Pyrococcus that function at over 100 °C (212 °F) allow food processing at high temperatures, such as the production of low lactose milk and whey. Enzymes from these thermophilic archaea also tend to be very stable in organic solvents, allowing their use in environmentally friendly processes in green chemistry that synthesize organic compounds. This stability makes them easier to use in structural biology. Consequently, the counterparts of bacterial or eukaryotic enzymes from extremophile archaea are often used in structural studies.
 
@@ -4736,40 +5164,44 @@ The word is from the Latin neuter vīrus referring to poison and other noxious l
 
 Scientific opinions differ on whether viruses are a form of life, or organic structures that interact with living organisms. They have been described as "organisms at the edge of life", since they resemble organisms in that they possess genes, evolve by natural selection, and reproduce by creating multiple copies of themselves through self-assembly. Although they have genes, they do not have a cellular structure, which is often seen as the basic unit of life. Viruses do not have their own metabolism, and require a host cell to make new products. They therefore cannot naturally reproduce outside a host cell—although bacterial species such as rickettsia and chlamydia are considered living organisms despite the same limitation. Accepted forms of life use cell division to reproduce, whereas viruses spontaneously assemble within cells. They differ from autonomous growth of crystals as they inherit genetic mutations while being subject to natural selection. Virus self-assembly within host cells has implications for the study of the origin of life, as it lends further credence to the hypothesis that life could have started as self-assembling organic molecules.
 
-Structure
-
 Viruses display a wide diversity of shapes and sizes, called 'morphologies'. In general, viruses are much smaller than bacteria. Most viruses that have been studied have a diameter between 20 and 300 nanometres. Some filoviruses have a total length of up to 1400 nm; their diameters are only about 80 nm. Most viruses cannot be seen with an optical microscope, so scanning and transmission electron microscopes are used to visualise them. To increase the contrast between viruses and the background, electron-dense "stains" are used. These are solutions of salts of heavy metals, such as tungsten, that scatter the electrons from regions covered with the stain. When virions are coated with stain (positive staining), fine detail is obscured. Negative staining overcomes this problem by staining the background only.
 
 A complete virus particle, known as a virion, consists of nucleic acid surrounded by a protective coat of protein called a capsid. These are formed from identical protein subunits called capsomeres. Viruses can have a lipid "envelope" derived from the host cell membrane. The capsid is made from proteins encoded by the viral genome and its shape serves as the basis for morphological distinction. Virally-coded protein subunits will self-assemble to form a capsid, in general requiring the presence of the virus genome. Complex viruses code for proteins that assist in the construction of their capsid. Proteins associated with nucleic acid are known as nucleoproteins, and the association of viral capsid proteins with viral nucleic acid is called a nucleocapsid. The capsid and entire virus structure can be mechanically (physically) probed through atomic force microscopy. In general, there are four main morphological virus types:
 
-Helical
+Helical viruses are composed of a single type of capsomere stacked around a central axis to form a helical structure, which may have a central cavity, or tube. This arrangement results in rod-shaped or filamentous virions which can be short and highly rigid, or long and very flexible. The genetic material (typically single-stranded RNA, but ssDNA in some cases) is bound into the protein helix by interactions between the negatively charged nucleic acid and positive charges on the protein. Overall, the length of a helical capsid is related to the length of the nucleic acid contained within it, and the diameter is dependent on the size and arrangement of capsomeres. The well-studied tobacco mosaic virus is an example of a helical virus.
 
-These viruses are composed of a single type of capsomere stacked around a central axis to form a helical structure, which may have a central cavity, or tube. This arrangement results in rod-shaped or filamentous virions which can be short and highly rigid, or long and very flexible. The genetic material (typically single-stranded RNA, but ssDNA in some cases) is bound into the protein helix by interactions between the negatively charged nucleic acid and positive charges on the protein. Overall, the length of a helical capsid is related to the length of the nucleic acid contained within it, and the diameter is dependent on the size and arrangement of capsomeres. The well-studied tobacco mosaic virus is an example of a helical virus.
+(ref:tmv) [Structure of tobacco mosaic virus: RNA coiled in a helix of repeating protein sub-units](https://commons.wikimedia.org/wiki/File:TMV_structure_simple.png) 
 
-Icosahedral
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/TMV_structure_simple} 
+
+}
+
+\caption{(ref:tmv)}(\#fig:tmvirus)
+\end{figure}
 
 Most animal viruses are icosahedral or near-spherical with chiral icosahedral symmetry. A regular icosahedron is the optimum way of forming a closed shell from identical sub-units. The minimum number of identical capsomeres required for each triangular face is 3, which gives 60 for the icosahedron. Many viruses, such as rotavirus, have more than 60 capsomers and appear spherical but they retain this symmetry. To achieve this, the capsomeres at the apices are surrounded by five other capsomeres and are called pentons. Capsomeres on the triangular faces are surrounded by six others and are called hexons. Hexons are in essence flat and pentons, which form the 12 vertices, are curved. The same protein may act as the subunit of both the pentamers and hexamers or they may be composed of different proteins.
 
-Prolate
+(ref:icosa) [Structure of an icosahedral cowpea mosaic virus](https://commons.wikimedia.org/wiki/File:CowpeaMosaicVirus3D.png) 
 
-This is an icosahedron elongated along the fivefold axis and is a common arrangement of the heads of bacteriophages. This structure is composed of a cylinder with a cap at either end.
+\begin{figure}
 
-Envelope
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/CowpeaMosaicVirus3D} 
+
+}
+
+\caption{(ref:icosa)}(\#fig:icosavirus)
+\end{figure}
 
 Some species of virus envelop themselves in a modified form of one of the cell membranes, either the outer membrane surrounding an infected host cell or internal membranes such as nuclear membrane or endoplasmic reticulum, thus gaining an outer lipid bilayer known as a viral envelope. This membrane is studded with proteins coded for by the viral genome and host genome; the lipid membrane itself and any carbohydrates present originate entirely from the host. The influenza virus and HIV use this strategy. Most enveloped viruses are dependent on the envelope for their infectivity.
-
-Complex
 
 These viruses possess a capsid that is neither purely helical nor purely icosahedral, and that may possess extra structures such as protein tails or a complex outer wall. Some bacteriophages, such as Enterobacteria phage T4, have a complex structure consisting of an icosahedral head bound to a helical tail, which may have a hexagonal base plate with protruding protein tail fibres. This tail structure acts like a molecular syringe, attaching to the bacterial host and then injecting the viral genome into the cell.
 The poxviruses are large, complex viruses that have an unusual morphology. The viral genome is associated with proteins within a central disc structure known as a nucleoid. The nucleoid is surrounded by a membrane and two lateral bodies of unknown function. The virus has an outer envelope with a thick layer of protein studded over its surface. The whole virion is slightly pleomorphic, ranging from ovoid to brick-shaped.
 
-Giant viruses
-
 Mimivirus is one of the largest characterised viruses, with a capsid diameter of 400 nm. Protein filaments measuring 100 nm project from the surface. The capsid appears hexagonal under an electron microscope, therefore the capsid is probably icosahedral. In 2011, researchers discovered the largest then known virus in samples of water collected from the ocean floor off the coast of Las Cruces, Chile. Provisionally named Megavirus chilensis, it can be seen with a basic optical microscope. In 2013, the Pandoravirus genus was discovered in Chile and Australia, and has genomes about twice as large as Megavirus and Mimivirus. All giant viruses have dsDNA genomes and they are classified into several families: Mimiviridae, Pithoviridae, Pandoraviridae, Phycodnaviridae, and the Mollivirus genus.
 
 Some viruses that infect Archaea have complex structures unrelated to any other form of virus, with a wide variety of unusual shapes, ranging from spindle-shaped structures to viruses that resemble hooked rods, teardrops or even bottles. Other archaeal viruses resemble the tailed bacteriophages, and can have multiple tail structures.
-
-Genome
 
 An enormous variety of genomic structures can be seen among viral species; as a group, they contain more structural genomic diversity than plants, animals, archaea, or bacteria. There are millions of different types of viruses, although fewer than 7,000 types have been described in detail. As of September 2015, the NCBI Virus genome database has more than 75,000 complete genome sequences, but there are doubtlessly many more to be discovered.
 
@@ -4781,25 +5213,39 @@ A viral genome, irrespective of nucleic acid type, is almost always either singl
 
 For most viruses with RNA genomes and some with single-stranded DNA genomes, the single strands are said to be either positive-sense (called the 'plus-strand') or negative-sense (called the 'minus-strand'), depending on if they are complementary to the viral messenger RNA (mRNA). Positive-sense viral RNA is in the same sense as viral mRNA and thus at least a part of it can be immediately translated by the host cell. Negative-sense viral RNA is complementary to mRNA and thus must be converted to positive-sense RNA by an RNA-dependent RNA polymerase before translation. DNA nomenclature for viruses with single-sense genomic ssDNA is similar to RNA nomenclature, in that positive-strand viral ssDNA is identical in sequence to the viral mRNA and is thus a coding strand, while negative-strand viral ssDNA is complementary to the viral mRNA and is thus a template strand. Several types of ssDNA and ssRNA viruses have genomes that are ambisense in that transcription can occur off both strands in a double-stranded replicative intermediate. Examples include geminiviruses, which are ssDNA plant viruses and arenaviruses, which are ssRNA viruses of animals.
 
-Genome size
+(ref:influ) [This negative-stained transmission electron micrograph (TEM) depicts the ultrastructural details of an influenza virus particle, or “virion”. A member of the taxonomic family Orthomyxoviridae, the influenza virus is an enveloped, single-stranded RNA virus. Eight helical capsis are surrounded by the viral envelope. Particle diameter: 80 -120 nm](https://commons.wikimedia.org/wiki/File:Influenza_virus_particle_8430_lores.jpg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Influenza_virus_particle_8430_lores} 
+
+}
+
+\caption{(ref:influ)}(\#fig:influenza)
+\end{figure}
 
 Genome size varies greatly between species. The smallest—the ssDNA circoviruses, family Circoviridae—code for only two proteins and have a genome size of only two kilobases; the largest—the pandoraviruses—have genome sizes of around two megabases which code for about 2500 proteins. Virus genes rarely have introns and often are arranged in the genome so that they overlap.
 
 In general, RNA viruses have smaller genome sizes than DNA viruses because of a higher error-rate when replicating, and have a maximum upper size limit. Beyond this, errors when replicating render the virus useless or uncompetitive. To compensate, RNA viruses often have segmented genomes—the genome is split into smaller molecules—thus reducing the chance that an error in a single-component genome will incapacitate the entire genome. In contrast, DNA viruses generally have larger genomes because of the high fidelity of their replication enzymes. Single-strand DNA viruses are an exception to this rule, as mutation rates for these genomes can approach the extreme of the ssRNA virus case.
 
-Genetic mutation
-
-A cartoon showing how viral genes can be shuffled to form new viruses
-Antigenic shift, or reassortment, can result in novel and highly pathogenic strains of human flu
 Viruses undergo genetic change by several mechanisms. These include a process called antigenic drift where individual bases in the DNA or RNA mutate to other bases. Most of these point mutations are "silent"—they do not change the protein that the gene encodes—but others can confer evolutionary advantages such as resistance to antiviral drugs. Antigenic shift occurs when there is a major change in the genome of the virus. This can be a result of recombination or reassortment. When this happens with influenza viruses, pandemics might result. RNA viruses often exist as quasispecies or swarms of viruses of the same species but with slightly different genome nucleoside sequences. Such quasispecies are a prime target for natural selection.
 
 Segmented genomes confer evolutionary advantages; different strains of a virus with a segmented genome can shuffle and combine genes and produce progeny viruses (or offspring) that have unique characteristics. This is called reassortment or 'viral sex'.
 
 Genetic recombination is the process by which a strand of DNA is broken and then joined to the end of a different DNA molecule. This can occur when viruses infect cells simultaneously and studies of viral evolution have shown that recombination has been rampant in the species studied. Recombination is common to both RNA and DNA viruses.
 
-Replication cycle
-
 Viral populations do not grow through cell division, because they are acellular. Instead, they use the machinery and metabolism of a host cell to produce multiple copies of themselves, and they assemble in the cell. When infected, the host cell is forced to rapidly produce thousands of identical copies of the original virus.
+
+(ref:repc) [A typical virus replication cycle.](https://commons.wikimedia.org/wiki/File:HepC_replication.png) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/HepC_replication} 
+
+}
+
+\caption{(ref:repc)}(\#fig:virusrepc)
+\end{figure}
 
 Their life cycle differs greatly between species, but there are six basic stages in their life cycle:
 
@@ -4815,30 +5261,28 @@ Assembly – Following the structure-mediated self-assembly of the virus particl
 
 Release – Viruses can be released from the host cell by lysis, a process that kills the cell by bursting its membrane and cell wall if present: this is a feature of many bacterial and some animal viruses. Some viruses undergo a lysogenic cycle where the viral genome is incorporated by genetic recombination into a specific place in the host's chromosome. The viral genome is then known as a "provirus" or, in the case of bacteriophages a "prophage". Whenever the host divides, the viral genome is also replicated. The viral genome is mostly silent within the host. At some point, the provirus or prophage may give rise to active virus, which may lyse the host cells. Enveloped viruses (e.g., HIV) typically are released from the host cell by budding. During this process the virus acquires its envelope, which is a modified piece of the host's plasma or other, internal membrane.
 
-Genome replication
 The genetic material within virus particles, and the method by which the material is replicated, varies considerably between different types of viruses.
-
-DNA viruses
 
 The genome replication of most DNA viruses takes place in the cell's nucleus. If the cell has the appropriate receptor on its surface, these viruses enter the cell either by direct fusion with the cell membrane (e.g., herpesviruses) or—more usually—by receptor-mediated endocytosis. Most DNA viruses are entirely dependent on the host cell's DNA and RNA synthesising machinery, and RNA processing machinery. Viruses with larger genomes may encode much of this machinery themselves. In eukaryotes the viral genome must cross the cell's nuclear membrane to access this machinery, while in bacteria it need only enter the cell.
 
-RNA viruses
-
 Replication of RNA viruses usually takes place in the cytoplasm. RNA viruses can be placed into four different groups depending on their modes of replication. The polarity (whether or not it can be used directly by ribosomes to make proteins) of single-stranded RNA viruses largely determines the replicative mechanism; the other major criterion is whether the genetic material is single-stranded or double-stranded. All RNA viruses use their own RNA replicase enzymes to create copies of their genomes.
-
-Reverse transcribing viruses
 
 Reverse transcribing viruses have ssRNA (Retroviridae, Metaviridae, Pseudoviridae) or dsDNA (Caulimoviridae, and Hepadnaviridae) in their particles. Reverse transcribing viruses with RNA genomes (retroviruses) use a DNA intermediate to replicate, whereas those with DNA genomes (pararetroviruses) use an RNA intermediate during genome replication. Both types use a reverse transcriptase, or RNA-dependent DNA polymerase enzyme, to carry out the nucleic acid conversion. Retroviruses integrate the DNA produced by reverse transcription into the host genome as a provirus as a part of the replication process; pararetroviruses do not, although integrated genome copies of especially plant pararetroviruses can give rise to infectious virus. They are susceptible to antiviral drugs that inhibit the reverse transcriptase enzyme, e.g. zidovudine and lamivudine. An example of the first type is HIV, which is a retrovirus. Examples of the second type are the Hepadnaviridae, which includes Hepatitis B virus.
 
-Cytopathic effects on the host cell
+(ref:rnavir) [Taxonomy and replication strategies of RNA viruses.](https://commons.wikimedia.org/wiki/File:18_2014_1695_Fig1_HTML.webp) A) Simplified taxonomy of the genome architecture of the RNA viruses described in this review. See main text for used abbreviations. B) (+RNA virus) Infection with a +RNA virus—as exemplified here with a CoV-like virion—releases a single-stranded RNA genome into the cytoplasm (1). (2) Translation of the 5′-terminal open-reading frame of the genome produces the viral replicase. (3) This multi-enzyme complex includes RdRp activity (orange) and associates with intracellular membranes before −RNA synthesis commences. Newly synthesised −RNAs are subsequently used to produce new +RNAs (4), which are typically capped (yellow) and polyadenylated (polyA). (Retrovirus) HIV-1 genomes are packaged as ssRNA in virions. When the ssRNA is released (1) a cDNA copy is synthesised by the RT (2). The RNA is next degraded by the intrinsic RNase H activity in the RT (3) and the single stranded cDNA converted to dsDNA (4). The dsDNA is imported in the nucleus (5) for integration into the host’s genetic material. (−RNA virus) (1) As illustrated here with an IAV-like particle, infection with an −RNA virus releases a viral RNA genome that is associated with a viral polymerase (orange) and nucleoprotein (green). (2) In the case of non-segmented −RNA viruses, these complexes support transcription to produce viral mRNAs or cRNAs. (3) Viral mRNAs are next translated and new viral proteins complex with cRNAs to synthesise new vRNAs. (5) The vRNA-containing complexes of some segmented −RNA viruses are imported into the nucleus of the host cell, where (6) the RdRp produces mRNAs or cRNAs. (7) mRNAs are transported to the cytoplasm, while cRNAs are bound by new viral proteins to form cRNPs for −RNA synthesis. (dsRNA virus) Fully duplexed RNA genomes lack cap and polyA elements. (1) The RdRp (orange), therefore, transcribes the viral genome inside the capsid of the virion (blue and red), so viral mRNAs can be (2) released into the cytoplasm as illustrated here with a rotavirus-like virion. In the cytoplasm the mRNA is translated (3) or replicated by newly synthesised viral RdRps (4)] 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/rna_virus} 
+
+}
+
+\caption{(ref:rnavir)}(\#fig:rnavirus)
+\end{figure}
 
 The range of structural and biochemical effects that viruses have on the host cell is extensive. These are called 'cytopathic effects'. Most virus infections eventually result in the death of the host cell. The causes of death include cell lysis, alterations to the cell's surface membrane and apoptosis. Often cell death is caused by cessation of its normal activities because of suppression by virus-specific proteins, not all of which are components of the virus particle. The distinction between cytopathic and harmless is gradual. Some viruses, such as Epstein–Barr virus, can cause cells to proliferate without causing malignancy, while others, such as papillomaviruses, are established causes of cancer.
 
-Dormant and latent infections
-
 Some viruses cause no apparent changes to the infected cell. Cells in which the virus is latent and inactive show few signs of infection and often function normally. This causes persistent infections and the virus is often dormant for many months or years. This is often the case with herpes viruses.
-
-Host range
 
 Viruses are by far the most abundant biological entities on Earth and they outnumber all the others put together. They infect all types of cellular life including animals, plants, bacteria and fungi. Different types of viruses can infect only a limited range of hosts and many are species-specific. Some, such as smallpox virus for example, can infect only one species—in this case humans, and are said to have a narrow host range. Other viruses, such as rabies virus, can infect different species of mammals and are said to have a broad range. The viruses that infect plants are harmless to animals, and most viruses that infect other animals are harmless to humans. The host range of some bacteriophages is limited to a single strain of bacteria and they can be used to trace the source of outbreaks of infections by a method called phage typing. The complete set of viruses in an organism or habitat is called the virome; for example, all human viruses constitute the human virome.
 
@@ -4868,11 +5312,7 @@ Severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (M
 
 A related coronavirus emerged in Wuhan, China in November 2019 and spread rapidly around the world. Thought to have originated in bats and subsequently named severe acute respiratory syndrome coronavirus 2, infections with the virus caused a pandemic in 2020. Unprecedented restrictions in peacetime have been placed on international travel, and curfews imposed in several major cities worldwide.
 
-Cancer
-
 Viruses are an established cause of cancer in humans and other species. Viral cancers occur only in a minority of infected persons (or animals). Cancer viruses come from a range of virus families, including both RNA and DNA viruses, and so there is no single type of "oncovirus" (an obsolete term originally used for acutely transforming retroviruses). The development of cancer is determined by a variety of factors such as host immunity and mutations in the host. Viruses accepted to cause human cancers include some genotypes of human papillomavirus, hepatitis B virus, hepatitis C virus, Epstein–Barr virus, Kaposi's sarcoma-associated herpesvirus and human T-lymphotropic virus. The most recently discovered human cancer virus is a polyomavirus (Merkel cell polyomavirus) that causes most cases of a rare form of skin cancer called Merkel cell carcinoma. Hepatitis viruses can develop into a chronic viral infection that leads to liver cancer. Infection by human T-lymphotropic virus can lead to tropical spastic paraparesis and adult T-cell leukaemia. Human papillomaviruses are an established cause of cancers of cervix, skin, anus, and penis. Within the Herpesviridae, Kaposi's sarcoma-associated herpesvirus causes Kaposi's sarcoma and body-cavity lymphoma, and Epstein–Barr virus causes Burkitt's lymphoma, Hodgkin's lymphoma, B lymphoproliferative disorder, and nasopharyngeal carcinoma. Merkel cell polyomavirus closely related to SV40 and mouse polyomaviruses that have been used as animal models for cancer viruses for over 50 years.
-
-Host defence mechanisms
 
 The body's first line of defence against viruses is the innate immune system. This comprises cells and other mechanisms that defend the host from infection in a non-specific manner. This means that the cells of the innate system recognise, and respond to, pathogens in a generic way, but, unlike the adaptive immune system, it does not confer long-lasting or protective immunity to the host.
 
@@ -4882,31 +5322,23 @@ When the adaptive immune system of a vertebrate encounters a virus, it produces 
 
 Antibodies can continue to be an effective defence mechanism even after viruses have managed to gain entry to the host cell. A protein that is in cells, called TRIM21, can attach to the antibodies on the surface of the virus particle. This primes the subsequent destruction of the virus by the enzymes of the cell's proteosome system.
 
-Two spherical rotavirus particles, one is coated with antibody which looks like many small birds, regularly spaced on the surface of the virus
-Two rotaviruses: the one on the right is coated with antibodies that prevent its attachment to cells and infecting them.
 A second defence of vertebrates against viruses is called cell-mediated immunity and involves immune cells known as T cells. The body's cells constantly display short fragments of their proteins on the cell's surface, and, if a T cell recognises a suspicious viral fragment there, the host cell is destroyed by 'killer T' cells and the virus-specific T-cells proliferate. Cells such as the macrophage are specialists at this antigen presentation. The production of interferon is an important host defence mechanism. This is a hormone produced by the body when viruses are present. Its role in immunity is complex; it eventually stops the viruses from reproducing by killing the infected cell and its close neighbours.
 
 Not all virus infections produce a protective immune response in this way. HIV evades the immune system by constantly changing the amino acid sequence of the proteins on the surface of the virion. This is known as "escape mutation" as the viral epitopes escape recognition by the host immune response. These persistent viruses evade immune control by sequestration, blockade of antigen presentation, cytokine resistance, evasion of natural killer cell activities, escape from apoptosis, and antigenic shift. Other viruses, called 'neurotropic viruses', are disseminated by neural spread where the immune system may be unable to reach them.
 
-Prevention and treatment
-
 Because viruses use vital metabolic pathways within host cells to replicate, they are difficult to eliminate without using drugs that cause toxic effects to host cells in general. The most effective medical approaches to viral diseases are vaccinations to provide immunity to infection, and antiviral drugs that selectively interfere with viral replication.
 
-Vaccines
-
 Vaccination is a cheap and effective way of preventing infections by viruses. Vaccines were used to prevent viral infections long before the discovery of the actual viruses. Their use has resulted in a dramatic decline in morbidity (illness) and mortality (death) associated with viral infections such as polio, measles, mumps and rubella. Smallpox infections have been eradicated. Vaccines are available to prevent over thirteen viral infections of humans, and more are used to prevent viral infections of animals. Vaccines can consist of live-attenuated or killed viruses, or viral proteins (antigens). Live vaccines contain weakened forms of the virus, which do not cause the disease but, nonetheless, confer immunity. Such viruses are called attenuated. Live vaccines can be dangerous when given to people with a weak immunity (who are described as immunocompromised), because in these people, the weakened virus can cause the original disease. Biotechnology and genetic engineering techniques are used to produce subunit vaccines. These vaccines use only the capsid proteins of the virus. Hepatitis B vaccine is an example of this type of vaccine. Subunit vaccines are safe for immunocompromised patients because they cannot cause the disease. The yellow fever virus vaccine, a live-attenuated strain called 17D, is probably the safest and most effective vaccine ever generated.
-
-Antiviral drugs
 
 Antiviral drugs are often nucleoside analogues (fake DNA building-blocks), which viruses mistakenly incorporate into their genomes during replication. The life-cycle of the virus is then halted because the newly synthesised DNA is inactive. This is because these analogues lack the hydroxyl groups, which, along with phosphorus atoms, link together to form the strong "backbone" of the DNA molecule. This is called DNA chain termination. Examples of nucleoside analogues are aciclovir for Herpes simplex virus infections and lamivudine for HIV and hepatitis B virus infections. Aciclovir is one of the oldest and most frequently prescribed antiviral drugs. Other antiviral drugs in use target different stages of the viral life cycle. HIV is dependent on a proteolytic enzyme called the HIV-1 protease for it to become fully infectious. There is a large class of drugs called protease inhibitors that inactivate this enzyme.
 
 Hepatitis C is caused by an RNA virus. In 80% of people infected, the disease is chronic, and without treatment, they are infected for the remainder of their lives. There is now an effective treatment that uses the nucleoside analogue drug ribavirin combined with interferon. The treatment of chronic carriers of the hepatitis B virus by using a similar strategy using lamivudine has been developed.
 
-Animal viruses
+### Animal viruses
 
 Viruses are important pathogens of livestock. Diseases such as foot-and-mouth disease and bluetongue are caused by viruses. Companion animals such as cats, dogs, and horses, if not vaccinated, are susceptible to serious viral infections. Canine parvovirus is caused by a small DNA virus and infections are often fatal in pups. Like all invertebrates, the honey bee is susceptible to many viral infections. Most viruses co-exist harmlessly in their host and cause no signs or symptoms of disease.
 
-Plant viruses
+### Plant viruses
 
 There are many types of plant virus, but often they cause only a loss of yield, and it is not economically viable to try to control them. Plant viruses are often spread from plant to plant by organisms, known as vectors. These are usually insects, but some fungi, nematode worms, and single-celled organisms have been shown to be vectors. When control of plant virus infections is considered economical, for perennial fruits, for example, efforts are concentrated on killing the vectors and removing alternate hosts such as weeds. Plant viruses cannot infect humans and other animals because they can reproduce only in living plant cells.
 
@@ -4918,9 +5350,37 @@ Plant virus particles or virus-like particles (VLPs) have applications in both b
 
 ### Bacterial viruses
 
-Bacteriophages are a common and diverse group of viruses and are the most abundant biological entity in aquatic environments—there are up to ten times more of these viruses in the oceans than there are bacteria, reaching levels of 250,000,000 bacteriophages per millilitre of seawater. These viruses infect specific bacteria by binding to surface receptor molecules and then entering the cell. Within a short amount of time, in some cases just minutes, bacterial polymerase starts translating viral mRNA into protein. These proteins go on to become either new virions within the cell, helper proteins, which help assembly of new virions, or proteins involved in cell lysis. Viral enzymes aid in the breakdown of the cell membrane, and, in the case of the T4 phage, in just over twenty minutes after injection over three hundred phages could be released.
+A bacteriophage, also known informally as a phage, is a virus that infects and replicates within bacteria and archaea. The term was derived from "bacteria" and the Greek φαγεῖν (phagein), meaning "to devour". Bacteriophages are composed of proteins that encapsulate a DNA or RNA genome, and may have structures that are either simple or elaborate. Their genomes may encode as few as four genes and as many as hundreds of genes.
+
+(ref:phagestruc) [Structural overview of T2 phage](https://en.wikipedia.org/wiki/Hershey–Chase_experiment#/media/File:Tevenphage.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Tevenphage} 
+
+}
+
+\caption{(ref:phagestruc)}(\#fig:phage)
+\end{figure}
+
+These viruses infect specific bacteria by binding to surface receptor molecules and then entering the cell. Within a short amount of time, in some cases just minutes, bacterial polymerase starts translating viral mRNA into protein. These proteins go on to become either new virions within the cell, helper proteins, which help assembly of new virions, or proteins involved in cell lysis. Viral enzymes aid in the breakdown of the cell membrane, and, in the case of the T4 phage, in just over twenty minutes after injection over three hundred phages could be released.
+
+(ref:phagebac) [Diagram showing bacteriophages infecting a bacterial cell (not to scale; bacteriophages are much smaller than bacteria)](https://commons.wikimedia.org/wiki/File:Phage_injecting_its_genome_into_bacteria.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Phage_injecting_its_genome_into_bacteria} 
+
+}
+
+\caption{(ref:phagebac)}(\#fig:bacphage)
+\end{figure}
 
 The major way bacteria defend themselves from bacteriophages is by producing enzymes that destroy foreign DNA. These enzymes, called restriction endonucleases, cut up the viral DNA that bacteriophages inject into bacterial cells. Bacteria also contain a system that uses CRISPR sequences to retain fragments of the genomes of viruses that the bacteria have come into contact with in the past, which allows them to block the virus's replication through a form of RNA interference. This genetic system provides bacteria with acquired immunity to infection.
+
+Bacteriophages are among the most common and diverse entities in the biosphere. Bacteriophages are ubiquitous viruses, found wherever bacteria exist. It is estimated there are more than 1031 bacteriophages on the planet, more than every other organism on Earth, including bacteria, combined. One of the densest natural sources for phages and other viruses is seawater, where up to 9x10^8^ virions per millilitre have been found in microbial mats at the surface, and up to 70% of marine bacteria may be infected by phages.
+
+Phages have been used since the late 20th century as an alternative to antibiotics in the former Soviet Union and Central Europe, as well as in France. They are seen as a possible therapy against multi-drug-resistant strains of many bacteria (see phage therapy). On the other hand, phages of Inoviridae have been shown to complicate biofilms involved in pneumonia and cystic fibrosis and to shelter the bacteria from drugs meant to eradicate disease, thus promoting persistent infection.
 
 <!--chapter:end:bacteria.rmd-->
 
