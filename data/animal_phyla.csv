@@ -1,52 +1,13 @@
-﻿Phylum,Example,No. of,Land,Sea,Fresh,Free-,Parasitic
-,,Species,,,water,living,
-Annelids,,"17,000[60]",Yes (soil)[62],Yes[62],"1,750[61]",Yes,400[63]
-Arthropods,,"1,257,000[60]","1,000,000",">40,000","94,000[61]",Yes[62],">45,000[b][63]"
-,,,,(Malac-,,,
-,,,(insects)[68],ostraca)[69],,,
-Bryozoa,,"6,000[60]",,Yes[62],60–80[61],Yes,
-Chordates,,"65,000[60]","23,000[70]","13,000[70]","18,000[61]",Yes,40
-,,,,,"9,000[70]",,(catfish)[71][63]
-,,,,,,,
-,,"45,000[70]",,,,,
-Cnidaria,,"16,000[60]",,Yes[62],Yes (few)[62],Yes[62],">1,350"
-,,,,,,,
-,,,,,,,
-,,,,,,,(Myxozoa)[63]
-Echinoderms,,"7,500[60]",,"7,500[60]",,Yes[62],
-Molluscs,,"85,000[60]","35,000[72]","60,000[72]","5,000[61]",Yes[62],">5,600[63]"
-,,,,,"12,000[72]",,
-,,"107,000[72]",,,,,
-Nematodes,,"25,000[60]",Yes (soil)[62],"4,000[64]","2,000[61]","11,000[64]","14,000[64]"
-Platyhelminthes,,"29,500[60]",Yes[73],Yes[62],"1,300[61]",Yes[62],">40,000[63]"
-,,,,,,,"4,000–25,000[74]"
-,,,,,,,
-,,,,,,"3,000–6,500[74]",
-Rotifers,,"2,000[60]",,>400[75],"2,000[61]",Yes,
-Sponges,,"10,800[60]",,Yes[62],200-300[61],Yes,Yes[76]
-Phylum,Example,No. of,Land,Sea,Fresh,Free-,Parasitic
-,,Species,,,water,living,
-Annelids,,"17,000[60]",Yes (soil)[62],Yes[62],"1,750[61]",Yes,400[63]
-Arthropods,,"1,257,000[60]","1,000,001",">40,001","94,000[61]",Yes[62],">45,000[b][63]"
-,,,,(Malac-,,,
-,,,(insects)[68],ostraca)[69],,,
-Bryozoa,,"6,000[60]",,Yes[62],60–80[61],Yes,
-Chordates,,"65,000[60]","23,000[70]","13,000[70]","18,000[61]",Yes,41
-,,,,,"9,000[70]",,(catfish)[71][63]
-,,,,,,,
-,,"45,000[70]",,,,,
-Cnidaria,,"16,000[60]",,Yes[62],Yes (few)[62],Yes[62],">1,351"
-,,,,,,,
-,,,,,,,
-,,,,,,,(Myxozoa)[63]
-Echinoderms,,"7,500[60]",,"7,500[60]",,Yes[62],
-Molluscs,,"85,000[60]","35,000[72]","60,000[72]","5,000[61]",Yes[62],">5,600[63]"
-,,,,,"12,000[72]",,
-,,"107,000[72]",,,,,
-Nematodes,,"25,000[60]",Yes (soil)[62],"4,000[64]","2,000[61]","11,000[64]","14,000[64]"
-Platyhelminthes,,"29,500[60]",Yes[73],Yes[62],"1,300[61]",Yes[62],">40,000[63]"
-,,,,,,,"4,000–25,000[74]"
-,,,,,,,
-,,,,,,"3,000–6,500[74]",
-Rotifers,,"2,000[60]",,>400[75],"2,000[61]",Yes,
-Sponges,,"10,800[60]",,Yes[62],200-300[61],Yes,Yes[76]
+Phylum,No. of Species,Land,Sea,Freshwater,Free-living,Parasitic
+Annelids,"17,000",Yes (soil),Yes,"1,750",Yes,400
+Arthropods,"1,257,000","1,000,000(insects)",">40,000(Malac-ostraca)","94,000",Yes,">45,000[b]"
+Bryozoa,"6,000",,Yes,60–80,Yes,
+Chordates,"65,00045,000","23,000","13,000","18,0009,000",Yes,40(catfish)
+Cnidaria,"16,000",,Yes,Yes (few),Yes,">1,350(Myxozoa)"
+Echinoderms,"7,500",,"7,500",,Yes,
+Molluscs,"85,000107,000","35,000","60,000","5,00012,000",Yes,">5,600"
+Nematodes,"25,000",Yes (soil),"4,000","2,000","11,000","14,000"
+Platyhelminthes,"29,500",Yes,Yes,"1,300","Yes 3,000–6,500",">40,000 4,000–25,000"
+Rotifers,"2,000",,>400,"2,000",Yes,
+Sponges,"10,800",,Yes,200-300,Yes,Yes
+"Total number of described extant species as of 2013: 1,525,728","Total number of described extant species as of 2013: 1,525,728","Total number of described extant species as of 2013: 1,525,728","Total number of described extant species as of 2013: 1,525,728","Total number of described extant species as of 2013: 1,525,728","Total number of described extant species as of 2013: 1,525,728","Total number of described extant species as of 2013: 1,525,728"

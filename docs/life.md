@@ -34,14 +34,10 @@ Since its primordial beginnings, life on Earth has changed its environment on a 
 
 (ref:celltypes) [Cartoons of a eukaryotic cell (left) and prokaryotic cell (right)](https://commons.wikimedia.org/wiki/File:Celltypes.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Celltypes} 
-
-}
-
-\caption{(ref:celltypes)}(\#fig:celltypecartoon )
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/life/Celltypes.svg" alt="(ref:celltypes)" width="70%" />
+<p class="caption">(\#fig:celltypecartoon )(ref:celltypes)</p>
+</div>
 
 In the past, there have been many attempts to define what is meant by "life" through obsolete concepts such as odic force, hylomorphism, spontaneous generation and vitalism, that have now been disproved by biological discoveries. Aristotle is considered to be the first person to classify organisms. Later, Carl Linnaeus introduced his system of binomial nomenclature for the classification of species. Eventually new groups and categories of life were discovered, such as cells and microorganisms, forcing dramatic revisions of the structure of relationships between living organisms. Though currently only known on Earth, life need not be restricted to it, and many scientists speculate in the existence of extraterrestrial life. Artificial life is a computer simulation or human-made reconstruction of any aspect of life, which is often used to examine systems related to natural life.
 
@@ -96,6 +92,13 @@ According to the panspermia hypothesis, microscopic life—distributed by meteor
 Cells are the basic unit of structure in every living thing, and all cells arise from pre-existing cells by division. Cell theory was formulated by Henri Dutrochet, Theodor Schwann, Rudolf Virchow and others during the early nineteenth century, and subsequently became widely accepted. The activity of an organism depends on the total activity of its cells, with energy flow occurring within and between them. Cells contain hereditary information that is carried forward as a genetic code during cell division.
 
 There are two primary types of cells. [Prokaryotes](https://en.wikipedia.org/wiki/Prokaryote) lack a nucleus and other membrane-bound organelles, although they have circular DNA and ribosomes. [Bacteria](https://en.wikipedia.org/wiki/Bacteria) and [Archaea](https://en.wikipedia.org/wiki/Archaea) are two domains of prokaryotes. The other primary type of cells are the [eukaryotes](https://en.wikipedia.org/wiki/Eukaryote), which have distinct nuclei bound by a nuclear membrane and membrane-bound organelles, including mitochondria, chloroplasts, lysosomes, rough and smooth endoplasmic reticulum, and vacuoles. In addition, they possess organized chromosomes that store genetic material. All species of large complex organisms are eukaryotes, including animals, plants and fungi, though most species of eukaryote are protist microorganisms. The conventional model is that eukaryotes evolved from prokaryotes, with the main organelles of the eukaryotes forming through endosymbiosis between bacteria and the progenitor eukaryotic cell.
+
+(ref:livorg) [Tree diagram](https://commons.wikimedia.org/wiki/File:Tree_of_Living_Organisms_2.png) illustrating the evolutionary relationship of living organisms]
+
+<div class="figure" style="text-align: center">
+<img src="./figures/life/Tree_of_Living_Organisms_2.png" alt="(ref:livorg)" width="70%" />
+<p class="caption">(\#fig:livorgtree)(ref:livorg)</p>
+</div>
 
 A [virus](https://en.wikipedia.org/wiki/Virus) is a submicroscopic infectious agent that replicates only inside the living cells of an organism. Scientific opinions differ on whether viruses are a form of life, or organic structures that interact with living organisms. They have been described as "organisms at the edge of life", since they resemble organisms in that they possess genes, evolve by natural selection, and reproduce by creating multiple copies of themselves through self-assembly. Although they have genes, they do not have a cellular structure, which is seen as the basic unit of life. Viruses do not have their own metabolism, and require a host cell to make new products. They therefore cannot naturally reproduce outside a host cell—although bacterial species such as rickettsia and chlamydia are considered living organisms despite the same limitation. Accepted forms of life use cell division to reproduce, whereas viruses spontaneously assemble within cells. They differ from autonomous growth of crystals as they inherit genetic mutations while being subject to natural selection. Virus self-assembly within host cells has implications for the study of the origin of life, as it lends further credence to the hypothesis that life could have started as self-assembling organic molecules.
 
@@ -181,18 +184,21 @@ Multiple speciation events create a tree structured system of relationships betw
 
 Traditionally, living things have been divided into five kingdoms: Monera; Protista; Fungi; Plantae; Animalia. However, many scientists now consider this five-kingdom system outdated. Modern alternative classification systems generally begin with the three-domain system: Archaea (originally Archaebacteria); Bacteria (originally Eubacteria) and Eukaryota (including protists, fungi, plants, and animals). These domains reflect whether the cells have nuclei or not, as well as differences in the chemical composition of key biomolecules such as ribosomes.
 
+(ref:eukardiv) [Eukaryotes and some examples of their diversity](https://commons.wikimedia.org/wiki/File:Eukaryota_diversity_2.jpg) – clockwise from top left: Red mason bee, Boletus edulis, chimpanzee, Isotricha intestinalis, Ranunculus asiaticus, and Volvox carteri.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/life/Eukaryota_diversity_2.jpg" alt="(ref:eukardiv)" width="70%" />
+<p class="caption">(\#fig:eukaryotediversity)(ref:eukardiv)</p>
+</div>
+
 Further, each kingdom is broken down recursively until each species is separately classified. The order is: Domain; Kingdom; Phylum; Class; Order; Family; Genus; Species.
 
 (ref:hierarchy) [The hierarchy of biological classification's eight major taxonomic ranks from the most specific (top) to the most general (bottom). Intermediate minor rankings are not shown. This diagram uses a 3 Domains / 6 Kingdoms format](https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Biological_classification_L_Pengo} 
-
-}
-
-\caption{(ref:hierarchy)}(\#fig:hierarchycartoon)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/life/Biological_classification_L_Pengo.svg" alt="(ref:hierarchy)" width="70%" />
+<p class="caption">(\#fig:hierarchycartoon)(ref:hierarchy)</p>
+</div>
 
 Outside of these categories, there are obligate intracellular parasites that are "on the edge of life" in terms of metabolic activity, meaning that many scientists do not actually classify such structures as alive, due to their lack of at least one or more of the fundamental functions or characteristics that define life. They are classified as viruses, viroids, prions, or satellites.
 

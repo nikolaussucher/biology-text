@@ -92,6 +92,12 @@ Cells are the basic unit of structure in every living thing, and all cells arise
 
 There are two primary types of cells. [Prokaryotes](https://en.wikipedia.org/wiki/Prokaryote) lack a nucleus and other membrane-bound organelles, although they have circular DNA and ribosomes. [Bacteria](https://en.wikipedia.org/wiki/Bacteria) and [Archaea](https://en.wikipedia.org/wiki/Archaea) are two domains of prokaryotes. The other primary type of cells are the [eukaryotes](https://en.wikipedia.org/wiki/Eukaryote), which have distinct nuclei bound by a nuclear membrane and membrane-bound organelles, including mitochondria, chloroplasts, lysosomes, rough and smooth endoplasmic reticulum, and vacuoles. In addition, they possess organized chromosomes that store genetic material. All species of large complex organisms are eukaryotes, including animals, plants and fungi, though most species of eukaryote are protist microorganisms. The conventional model is that eukaryotes evolved from prokaryotes, with the main organelles of the eukaryotes forming through endosymbiosis between bacteria and the progenitor eukaryotic cell.
 
+(ref:livorg) [Tree diagram](https://commons.wikimedia.org/wiki/File:Tree_of_Living_Organisms_2.png) illustrating the evolutionary relationship of living organisms]
+
+```{r livorgtree, fig.cap='(ref:livorg)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/life/Tree_of_Living_Organisms_2.png")
+```
+
 A [virus](https://en.wikipedia.org/wiki/Virus) is a submicroscopic infectious agent that replicates only inside the living cells of an organism. Scientific opinions differ on whether viruses are a form of life, or organic structures that interact with living organisms. They have been described as "organisms at the edge of life", since they resemble organisms in that they possess genes, evolve by natural selection, and reproduce by creating multiple copies of themselves through self-assembly. Although they have genes, they do not have a cellular structure, which is seen as the basic unit of life. Viruses do not have their own metabolism, and require a host cell to make new products. They therefore cannot naturally reproduce outside a host cell—although bacterial species such as rickettsia and chlamydia are considered living organisms despite the same limitation. Accepted forms of life use cell division to reproduce, whereas viruses spontaneously assemble within cells. They differ from autonomous growth of crystals as they inherit genetic mutations while being subject to natural selection. Virus self-assembly within host cells has implications for the study of the origin of life, as it lends further credence to the hypothesis that life could have started as self-assembling organic molecules.
 
 The molecular mechanisms of cell biology are based on proteins which are synthesized by the ribosomes through an enzyme-catalyzed process called protein biosynthesis. A sequence of amino acids is assembled and joined together based upon gene expression of the cell's nucleic acid. In eukaryotic cells, these proteins may then be transported and processed through the Golgi apparatus in preparation for dispatch to their destination.
@@ -175,6 +181,12 @@ Evolutionary research is concerned with the origin and descent of species, and t
 Multiple speciation events create a tree structured system of relationships between species. The role of [systematics](https://en.wikipedia.org/wiki/Systematics) is to study these relationships and thus the differences and similarities between species and groups of species. However, systematics was an active field of research long before evolutionary thinking was common.
 
 Traditionally, living things have been divided into five kingdoms: Monera; Protista; Fungi; Plantae; Animalia. However, many scientists now consider this five-kingdom system outdated. Modern alternative classification systems generally begin with the three-domain system: Archaea (originally Archaebacteria); Bacteria (originally Eubacteria) and Eukaryota (including protists, fungi, plants, and animals). These domains reflect whether the cells have nuclei or not, as well as differences in the chemical composition of key biomolecules such as ribosomes.
+
+(ref:eukardiv) [Eukaryotes and some examples of their diversity](https://commons.wikimedia.org/wiki/File:Eukaryota_diversity_2.jpg) – clockwise from top left: Red mason bee, Boletus edulis, chimpanzee, Isotricha intestinalis, Ranunculus asiaticus, and Volvox carteri.
+
+```{r eukaryotediversity, fig.cap='(ref:eukardiv)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/life/Eukaryota_diversity_2.jpg")
+```
 
 Further, each kingdom is broken down recursively until each species is separately classified. The order is: Domain; Kingdom; Phylum; Class; Order; Family; Genus; Species.
 

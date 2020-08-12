@@ -92,22 +92,40 @@ Disorders of the immune system can result in autoimmune diseases, inflammatory d
 
 The immune system protects its host from infection with layered defenses of increasing specificity. In simple terms, physical barriers prevent pathogens such as bacteria and viruses from entering the organism. If a pathogen breaches these barriers, the innate immune system provides an immediate, but non-specific response. Innate immune systems are found in all plants and animals. If pathogens successfully evade the innate response, vertebrates possess a second layer of protection, the adaptive immune system, which is activated by the innate response. Here, the immune system adapts its response during an infection to improve its recognition of the pathogen. This improved response is then retained after the pathogen has been eliminated, in the form of an immunological memory, and allows the adaptive immune system to mount faster and stronger attacks each time this pathogen is encountered.
 
-\begin{table}[!h]
-\centering
-\begin{tabular}{ll}
-\toprule
-Innate immune system & Adaptive immune system\\
-\midrule
-\rowcolor{gray!6}  Response is non-specific & Pathogen and antigen specific response\\
-Composed of leukocytes & Composed of antigens, B cells, T cells\\
-\rowcolor{gray!6}  Exposure leads to immediate maximal response & Lag time between exposure and maximal response\\
-Cell-mediated and humoral components & Cell-mediated and humoral components\\
-\rowcolor{gray!6}  No immunological memory & Exposure leads to immunological memory\\
-\addlinespace
-Found in nearly all forms of life & Found only in jawed vertebrates\\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Innate immune system </th>
+   <th style="text-align:left;"> Adaptive immune system </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Response is non-specific </td>
+   <td style="text-align:left;"> Pathogen and antigen specific response </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Composed of leukocytes </td>
+   <td style="text-align:left;"> Composed of antigens, B cells, T cells </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Exposure leads to immediate maximal response </td>
+   <td style="text-align:left;"> Lag time between exposure and maximal response </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cell-mediated and humoral components </td>
+   <td style="text-align:left;"> Cell-mediated and humoral components </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> No immunological memory </td>
+   <td style="text-align:left;"> Exposure leads to immunological memory </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Found in nearly all forms of life </td>
+   <td style="text-align:left;"> Found only in jawed vertebrates </td>
+  </tr>
+</tbody>
+</table>
 
 Both innate and adaptive immunity depend on the ability of the immune system to distinguish between self and non-self molecules. In immunology, self molecules are those components of an organism's body that can be distinguished from foreign substances by the immune system. Conversely, non-self molecules are those recognized as foreign molecules. One class of non-self molecules are called antigens (short for antibody generators) and are defined as substances that bind to specific immune receptors and elicit an immune response.
 

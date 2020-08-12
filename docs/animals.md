@@ -2,7 +2,21 @@
 
 Animals (from the Latin animalis, meaning having breath, having soul or living being) are heterotrophic multicellular eukaryotic organisms with internal digestion that form the biological kingdom Animalia. Animals consume organic material, breathe oxygen, are able to move, can reproduce sexually, and grow from a hollow sphere of cells, the blastula, during embryonic development. Over 1.5 million living animal species have been described—of which around 1 million are insects—but it has been estimated there are over 7 million animal species in total. Animals range in length from 8.5 micrometres (0.00033 in) to 33.6 metres (110 ft). They have complex interactions with each other and their environments, forming intricate food webs. The kingdom Animalia includes humans but in colloquial use the term animal often refers only to non-human animals. The scientific study of animals is known as zoology.
 
+(ref:animdiv) [Diversity of animals.](https://en.wikipedia.org/wiki/File:Animal_diversity.png)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Animal_diversity.png" alt="(ref:animdiv)" width="70%" />
+<p class="caption">(\#fig:animaldiversity)(ref:animdiv)</p>
+</div>
+
 Most living animal species are in Bilateria, a clade whose members have a bilaterally symmetric body plan. The Bilateria include the protostomes—in which many groups of invertebrates are found, such as nematodes, arthropods, and molluscs—and the deuterostomes, containing both the echinoderms as well as the chordates, the latter containing the vertebrates. Life forms interpreted as early animals were present in the Ediacaran biota of the late Precambrian. Many modern animal phyla became clearly established in the fossil record as marine species during the Cambrian explosion, which began around 542 million years ago. 6,331 groups of genes common to all living animals have been identified; these may have arisen from a single common ancestor that lived 650 million years ago.
+
+(ref:edia) [Dickinsonia costata from the Ediacaran biota (c. 635–542 MYA) is one of the earliest animal species known.](https://commons.wikimedia.org/wiki/File:DickinsoniaCostata.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/DickinsoniaCostata.jpg" alt="(ref:edia)" width="70%" />
+<p class="caption">(\#fig:ediacara)(ref:edia)</p>
+</div>
 
 Historically, Aristotle divided animals into those with blood and those without. Carl Linnaeus created the first hierarchical biological classification for animals in 1758 with his Systema Naturae, which Jean-Baptiste Lamarck expanded into 14 phyla by 1809. In 1874, Ernst Haeckel divided the animal kingdom into the multicellular Metazoa (synonymous for Animalia) and the Protozoa, single-celled organisms no longer considered animals. In modern times, the biological classification of animals relies on advanced techniques, such as molecular phylogenetics, which are effective at demonstrating the evolutionary relationships between animal taxa.
 
@@ -24,7 +38,16 @@ Animals are categorised into ecological groups depending on how they obtain or c
 
 Most animals rely on the biomass and energy produced by plants through photosynthesis. Herbivores eat plant material directly, while carnivores, and other animals on higher trophic levels typically acquire it indirectly by eating other animals. Animals oxidize carbohydrates, lipids, proteins, and other biomolecules to unlock the chemical energy of molecular oxygen, which allows the animal to grow and to sustain biological processes such as locomotion. Animals living close to hydrothermal vents and cold seeps on the dark sea floor consume organic matter of archaea and bacteria produced in these locations through chemosynthesis (by oxidizing inorganic compounds, such as hydrogen sulfide).
 
-Animals originally evolved in the sea. Lineages of arthropods colonised land around the same time as land plants, probably between 510–471 million years ago during the Late Cambrian or Early Ordovician. Vertebrates such as the lobe-finned fish Tiktaalik started to move on to land in the late Devonian, about 375 million years ago. Animals occupy virtually all of earth's habitats and microhabitats, including salt water, hydrothermal vents, fresh water, hot springs, swamps, forests, pastures, deserts, air, and the interiors of animals, plants, fungi and rocks. Animals are however not particularly heat tolerant; very few of them can survive at constant temperatures above 50 °C (122 °F). Only very few species of animals (mostly nematodes) inhabit the most extreme cold deserts of continental Antarctica.
+Animals originally evolved in the sea. Lineages of arthropods colonised land around the same time as land plants, probably between 510–471 million years ago during the Late Cambrian or Early Ordovician. Vertebrates such as the lobe-finned fish Tiktaalik started to move on to land in the late Devonian, about 375 million years ago. Animals occupy virtually all of earth's habitats and microhabitats, including salt water, hydrothermal vents, fresh water, hot springs, swamps, forests, pastures, deserts, air, and the interiors of animals, plants, fungi and rocks. Animals are however not particularly heat tolerant; very few of them can survive at constant temperatures above 50 °C (122 °F). Only very few species of a
+
+(ref:anoma) [Anomalocaris canadensis](https://commons.wikimedia.org/wiki/File:Anomalocaris2019.jpg) is one of the many animal species that emerged in the Cambrian explosion, starting some 542 million years ago, and found in the fossil beds of the Burgess shale.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Anomalocaris2019.jpg" alt="(ref:anoma)" width="70%" />
+<p class="caption">(\#fig:amomalocaris)(ref:anoma)</p>
+</div>
+
+nimals (mostly nematodes) inhabit the most extreme cold deserts of continental Antarctica.
 
 The blue whale (Balaenoptera musculus) is the largest animal that has ever lived, weighing up to at least 190 tonnes and measuring up to 33.6 metres (110 ft) long. The largest extant terrestrial animal is the African bush elephant (Loxodonta africana), weighing up to 12.25 tonnes and measuring up to 10.67 metres (35.0 ft) long. The largest terrestrial animals that ever lived were titanosaur sauropod dinosaurs such as Argentinosaurus, which may have weighed as much as 73 tonnes. Several animals are microscopic; some Myxozoa (obligate parasites within the Cnidaria) never grow larger than 20 µm, and one of the smallest species (Myxobolus shekel) is no more than 8.5 µm when fully grown.
 
@@ -35,6 +58,131 @@ Many animal phyla first appear in the fossil record during the Cambrian explosio
 Some palaeontologists have suggested that animals appeared much earlier than the Cambrian explosion, possibly as early as 1 billion years ago. Trace fossils such as tracks and burrows found in the Tonian period may indicate the presence of triploblastic worm-like animals, roughly as large (about 5 mm wide) and complex as earthworms. However, similar tracks are produced today by the giant single-celled protist Gromia sphaerica, so the Tonian trace fossils may not indicate early animal evolution. Around the same time, the layered mats of microorganisms called stromatolites decreased in diversity, perhaps due to grazing by newly-evolved animals.
 
 Animals are monophyletic, meaning they are derived from a common ancestor. Animals are sister to the Choanoflagellata, with which they form the Choanozoa. The most basal animals, the Porifera, Ctenophora, Cnidaria, and Placozoa, have body plans that lack bilateral symmetry. Their relationships are still disputed; the sister group to all other animals could be the Porifera or the Ctenophora, both of which lack hox genes, important in body plan development.
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:animalphyla)Estimated numbers of described extant species for the animal groups with the largest numbers of species, along with their principal habitats (terrestrial, fresh water, and marine), and free-living or parasitic ways of life.</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Phylum </th>
+   <th style="text-align:left;"> No. of Species </th>
+   <th style="text-align:left;"> Land </th>
+   <th style="text-align:left;"> Sea </th>
+   <th style="text-align:left;"> Freshwater </th>
+   <th style="text-align:left;"> Free-living </th>
+   <th style="text-align:left;"> Parasitic </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Annelids </td>
+   <td style="text-align:left;"> 17,000 </td>
+   <td style="text-align:left;"> Yes (soil) </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 1,750 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 400 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Arthropods </td>
+   <td style="text-align:left;"> 1,257,000 </td>
+   <td style="text-align:left;"> 1,000,000(insects) </td>
+   <td style="text-align:left;"> &gt;40,000(Malac-ostraca) </td>
+   <td style="text-align:left;"> 94,000 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> &gt;45,000[b] </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Bryozoa </td>
+   <td style="text-align:left;"> 6,000 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 60–80 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Chordates </td>
+   <td style="text-align:left;"> 65,00045,000 </td>
+   <td style="text-align:left;"> 23,000 </td>
+   <td style="text-align:left;"> 13,000 </td>
+   <td style="text-align:left;"> 18,0009,000 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 40(catfish) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cnidaria </td>
+   <td style="text-align:left;"> 16,000 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes (few) </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> &gt;1,350(Myxozoa) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Echinoderms </td>
+   <td style="text-align:left;"> 7,500 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 7,500 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Molluscs </td>
+   <td style="text-align:left;"> 85,000107,000 </td>
+   <td style="text-align:left;"> 35,000 </td>
+   <td style="text-align:left;"> 60,000 </td>
+   <td style="text-align:left;"> 5,00012,000 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> &gt;5,600 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Nematodes </td>
+   <td style="text-align:left;"> 25,000 </td>
+   <td style="text-align:left;"> Yes (soil) </td>
+   <td style="text-align:left;"> 4,000 </td>
+   <td style="text-align:left;"> 2,000 </td>
+   <td style="text-align:left;"> 11,000 </td>
+   <td style="text-align:left;"> 14,000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Platyhelminthes </td>
+   <td style="text-align:left;"> 29,500 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 1,300 </td>
+   <td style="text-align:left;"> Yes 3,000–6,500 </td>
+   <td style="text-align:left;"> &gt;40,000 4,000–25,000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Rotifers </td>
+   <td style="text-align:left;"> 2,000 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> &gt;400 </td>
+   <td style="text-align:left;"> 2,000 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Sponges </td>
+   <td style="text-align:left;"> 10,800 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 200-300 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
+   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
+   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
+   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
+   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
+   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
+   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
+  </tr>
+</tbody>
+</table>
 
 These genes are found in the Placozoa and the higher animals, the Bilateria. 6,331 groups of genes common to all living animals have been identified; these may have arisen from a single common ancestor that lived 650 million years ago in the Precambrian. 25 of these are novel core gene groups, found only in animals; of those, 8 are for essential components of the Wnt and TGF-beta signalling pathways which may have enabled animals to become multicellular by providing a pattern for the body's system of axes (in three dimensions), and another 7 are for transcription factors including homeodomain proteins involved in the control of development.
 
@@ -71,6 +219,13 @@ The Lophotrochozoa includes the molluscs, annelids, brachiopods, nemerteans, bry
 ## Animal Development
 
 The main processes involved in the embryonic development of animals are: tissue patterning (via regional specification and patterned cell differentiation); tissue growth; and tissue morphogenesis.
+
+(ref:andev) [Animals are unique in having the ball of cells of the early embryo (1) develop into a hollow ball or blastula (2).](https://commons.wikimedia.org/wiki/File:Blastulation.png)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Blastulation.png" alt="(ref:andev)" width="70%" />
+<p class="caption">(\#fig:animaldev)(ref:andev)</p>
+</div>
 
 * Regional specification refers to the processes that create spatial pattern in a ball or sheet of initially similar cells. This generally involves the action of cytoplasmic determinants, located within parts of the fertilized egg, and of inductive signals emitted from signaling centers in the embryo. The early stages of regional specification do not generate functional differentiated cells, but cell populations committed to develop to a specific region or part of the organism. These are defined by the expression of specific combinations of transcription factors.
 * Cell differentiation relates specifically to the formation of functional cell types such as nerve, muscle, secretory epithelia etc. Differentiated cells contain large amounts of specific proteins associated with the cell function.

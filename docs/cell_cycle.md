@@ -12,14 +12,10 @@ The single DNA molecule first replicates, then attaches each copy to a different
 
 (ref:celldiv) [Many bacteria reproduce through binary fission, which is compared to mitosis and meiosis in this image.](https://commons.wikimedia.org/wiki/File:Three_cell_growth_types.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cellcycle/Three_cell_growth_types} 
-
-}
-
-\caption{(ref:celldiv)}(\#fig:celldivision)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cellcycle/Three_cell_growth_types.svg" alt="(ref:celldiv)" width="70%" />
+<p class="caption">(\#fig:celldivision)(ref:celldiv)</p>
+</div>
 
 ## Binary Fission
 
@@ -43,22 +39,48 @@ The cell-division cycle is a vital process by which a single-celled fertilized e
 
 The eukaryotic cell cycle consists of four distinct phases: G1 phase, S phase (synthesis), G2 phase (collectively known as interphase) and M phase (mitosis and cytokinesis). M phase is itself composed of two tightly coupled processes: mitosis, in which the cell's nucleus divides, and cytokinesis, in which the cell's cytoplasm divides forming two daughter cells. Activation of each phase is dependent on the proper progression and completion of the previous one. Cells that have temporarily or reversibly stopped dividing are said to have entered a state of quiescence called G0 phase.
 
-
-\begin{tabular}{llll}
-\toprule
-State & Phase & Abbreviation & Description\\
-\midrule
-Resting & Gap 0 & G0 & A phase where the cell has left the cycle and has stopped dividing.\\
-\cmidrule{1-4}
- & Gap 1 & G1 & Cells increase in size in Gap 1. The G1 checkpoint control mechanism ensures that everything is ready for DNA synthesis.\\
-\cmidrule{2-4}
- & Synthesis & S & DNA replication occurs during this phase.\\
-\cmidrule{2-4}
-\multirow{-3}{*}{\raggedright\arraybackslash Interphase} & Gap 2 & G2 & During the gap between DNA synthesis and mitosis, the cell will continue to grow. The G2 checkpoint control mechanism ensures that everything is ready to enter the M (mitosis) phase and divide.\\
-\cmidrule{1-4}
-Cell division & Mitosis & M & Cell growth stops at this stage and cellular energy is focused on the orderly division into two daughter cells. A checkpoint in the middle of mitosis (Metaphase Checkpoint) ensures that the cell is ready to complete cell division.\\
-\bottomrule
-\end{tabular}
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> State </th>
+   <th style="text-align:left;"> Phase </th>
+   <th style="text-align:left;"> Abbreviation </th>
+   <th style="text-align:left;"> Description </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Resting </td>
+   <td style="text-align:left;"> Gap 0 </td>
+   <td style="text-align:left;"> G0 </td>
+   <td style="text-align:left;"> A phase where the cell has left the cycle and has stopped dividing. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;vertical-align: middle !important;" rowspan="3"> Interphase </td>
+   <td style="text-align:left;"> Gap 1 </td>
+   <td style="text-align:left;"> G1 </td>
+   <td style="text-align:left;"> Cells increase in size in Gap 1. The G1 checkpoint control mechanism ensures that everything is ready for DNA synthesis. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;"> Synthesis </td>
+   <td style="text-align:left;"> S </td>
+   <td style="text-align:left;"> DNA replication occurs during this phase. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;"> Gap 2 </td>
+   <td style="text-align:left;"> G2 </td>
+   <td style="text-align:left;"> During the gap between DNA synthesis and mitosis, the cell will continue to grow. The G2 checkpoint control mechanism ensures that everything is ready to enter the M (mitosis) phase and divide. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cell division </td>
+   <td style="text-align:left;"> Mitosis </td>
+   <td style="text-align:left;"> M </td>
+   <td style="text-align:left;"> Cell growth stops at this stage and cellular energy is focused on the orderly division into two daughter cells. A checkpoint in the middle of mitosis (Metaphase Checkpoint) ensures that the cell is ready to complete cell division. </td>
+  </tr>
+</tbody>
+</table>
 
 After cell division, each of the daughter cells begin the interphase of a new cycle. Although the various stages of interphase are not usually morphologically distinguishable, each phase of the cell cycle has a distinct set of specialized biochemical processes that prepare the cell for initiation of cell division.
 
@@ -105,14 +127,10 @@ Mitosis is the process by which a eukaryotic cell separates the chromosomes in i
 
 (ref:mitosis) [A diagram of mitosis stages](https://commons.wikimedia.org/wiki/File:Mitosis_Stages.svg). Interphase (G₂): In this substage, the cell prepares for nuclear division and a protein that makes microtubles for cell division is synthesized. Prophase: The longest stage of mitosis. In this stage the chromosomes become visible and the centrioles separate and move to opposite poles of the cell. Prometaphase: The nuclear envelope disintegrates and microtubules can attach to kinetochores. Chromosomes congress toward the metaphase plate of the cell. Metaphase: In this stage the chromosomes line up across the center of the cell and become connected to the spindle fiber at their centromere. Anaphase: In this stage the sister chromatids separate into individual chromosomes and are pulled apart. Telophase & cytokinesis: Chromosomes decondense and are surrounded by a newly formed nuclear envelope. Cytokinesis typically coincides with and telophase.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cellcycle/Mitosis_Stages} 
-
-}
-
-\caption{(ref:mitosis)}(\#fig:mito)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cellcycle/Mitosis_Stages.svg" alt="(ref:mitosis)" width="70%" />
+<p class="caption">(\#fig:mito)(ref:mitosis)</p>
+</div>
 
 Mitosis occurs exclusively in eukaryotic cells, but occurs in different ways in different species. For example, animal cells undergo an "open" mitosis, where the nuclear envelope breaks down before the chromosomes separate, while fungi such as Aspergillus nidulans and Saccharomyces cerevisiae (yeast) undergo a "closed" mitosis, where chromosomes divide within an intact cell nucleus.
 
@@ -126,14 +144,10 @@ Chromosomes are normally visible under a light microscope only when the cell is 
 
 (ref:karyo) [The karyotype of a normal human male consisting of 22 pairs of autosomes and 2 sex chromosomes (one x and one y chromosome).](https://commons.wikimedia.org/wiki/File:NHGRI_human_male_karyotype.png) The karyotype is the characteristic chromosome complement of a eukaryote species. 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cellcycle/human_male_karyotype} 
-
-}
-
-\caption{(ref:karyo)}(\#fig:karyotype)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cellcycle/human_male_karyotype.png" alt="(ref:karyo)" width="70%" />
+<p class="caption">(\#fig:karyotype)(ref:karyo)</p>
+</div>
 
 The prokaryotes – bacteria and archaea – typically have a single circular chromosome, but many variations exist. The chromosomes of most bacteria, which some authors prefer to call genophores, can range in size from only 130,000 base pairs in the endosymbiotic bacteria *Candidatus Hodgkinia cicadicola* and *Candidatus Tremblaya princeps*, to more than 14,000,000 base pairs in the soil-dwelling bacterium *Sorangium cellulosum*. Spirochaetes of the genus Borrelia are a notable exception to this arrangement, with bacteria such as *Borrelia burgdorferi*, the cause of [Lyme disease](https://en.wikipedia.org/wiki/Lyme_disease), containing a single linear chromosome.
 
@@ -143,14 +157,10 @@ Chromatin allows the very long DNA molecules to fit into the cell nucleus. Durin
 
 (ref:struc) [The major structures in DNA compaction: DNA, the nucleosome, the 10 nm "beads-on-a-string" fibre, the 30 nm fibre and the metaphase chromosome.](https://commons.wikimedia.org/wiki/File:Chromatin_Structures.png)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/chromosomes/Chromatin_Structures} 
-
-}
-
-\caption{(ref:struc)}(\#fig:structure)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/chromosomes/Chromatin_Structures.png" alt="(ref:struc)" width="70%" />
+<p class="caption">(\#fig:structure)(ref:struc)</p>
+</div>
 
 Eukaryotes possess multiple large linear chromosomes contained in the cell's nucleus. Each chromosome has one centromere, with one or two arms projecting from the centromere, although, under most circumstances, these arms are not visible as such. In addition, most eukaryotes have a small circular mitochondrial genome, and some eukaryotes may have additional small circular or linear cytoplasmic chromosomes.
 
@@ -279,28 +289,20 @@ In cell biology, [mitosis](https://en.wikipedia.org/wiki/Mitosis) is a part of t
 
 (ref:cycle) [Mitosis in an animal cell (phases ordered counter-clockwise).](https://commons.wikimedia.org/wiki/File:Animal_cell_cycle-en.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/reproduction/Animal_cell_cycle-en} 
-
-}
-
-\caption{(ref:cycle)}(\#fig:cellcyclefigure)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/reproduction/Animal_cell_cycle-en.svg" alt="(ref:cycle)" width="70%" />
+<p class="caption">(\#fig:cellcyclefigure)(ref:cycle)</p>
+</div>
 
 The process of mitosis is divided into stages corresponding to the completion of one set of activities and the start of the next. These stages are prophase, prometaphase, metaphase, anaphase, and telophase. During mitosis, the chromosomes, which have already duplicated, condense and attach to spindle fibers that pull one copy of each chromosome to opposite sides of the cell. The result is two genetically identical daughter nuclei. The rest of the cell may then continue to divide by cytokinesis to produce two daughter cells. Producing three or more daughter cells instead of the normal two is a mitotic error called tripolar mitosis or multipolar mitosis (direct cell triplication / multiplication). Other errors during mitosis can induce apoptosis (programmed cell death) or cause mutations. Certain types of cancer can arise from such mutations.
 
 
 (ref:onion) Onion (Allium cepa) root cells in different phases of the cell cycle (drawn by [E. B. Wilson](https://en.wikipedia.org/wiki/Edmund_Beecher_Wilson), 1900). [General view of cells in the growing root-tip of the onion, from a longitudinal section, enlarged 800 diameters. a. non-dividing cells, with chromatin-network and deeply stained nucleoli; b. nuclei preparing for division (spireme-stage); c. dividing cells showing mitotic figures; e. pair of daughter-cells shortly after division.](https://commons.wikimedia.org/wiki/File:Wilson1900Fig2.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/reproduction/Wilson1900Fig2} 
-
-}
-
-\caption{(ref:onion)}(\#fig:onionroot)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/reproduction/Wilson1900Fig2.jpg" alt="(ref:onion)" width="70%" />
+<p class="caption">(\#fig:onionroot)(ref:onion)</p>
+</div>
 
 Mitosis varies between organisms. For example, animal cells undergo an "open" mitosis, where the nuclear envelope breaks down before the chromosomes separate, whereas fungi undergo a "closed" mitosis, where chromosomes divide within an intact cell nucleus. Most animal cells undergo a shape change, known as mitotic cell rounding, to adopt a near spherical morphology at the start of mitosis. Most human cells are produced by mitotic cell division. Important exceptions include the gametes – sperm and egg cells – which are produced by meiosis.
 
@@ -333,14 +335,10 @@ Close to the nucleus of animal cells are structures called centrosomes, consisti
 
 (ref:pro) [Early prophase: Polar microtubules, shown as green strands, have established a matrix around the currently intact nucleus, with the condensing chromosomes in blue. The red nodules are the centromeres.](https://commons.wikimedia.org/wiki/File:ProphaseIF.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/reproduction/ProphaseIF} 
-
-}
-
-\caption{(ref:pro)}(\#fig:prophase)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/reproduction/ProphaseIF.jpg" alt="(ref:pro)" width="70%" />
+<p class="caption">(\#fig:prophase)(ref:pro)</p>
+</div>
 
 ### Prometaphase
 
@@ -350,14 +348,10 @@ In late prometaphase, kinetochore microtubules begin to search for and attach to
 
 (ref:prometa) [Early prometaphase: The nuclear membrane has just disassembled, allowing the microtubules to quickly interact with the kinetochores, which assemble on the centromeres of the condensing chromosomes.](https://commons.wikimedia.org/wiki/File:Prometaphase.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/reproduction/Prometaphase} 
-
-}
-
-\caption{(ref:prometa)}(\#fig:prometaphase)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/reproduction/Prometaphase.jpg" alt="(ref:prometa)" width="70%" />
+<p class="caption">(\#fig:prometaphase)(ref:prometa)</p>
+</div>
 
 ### Metaphase
 
@@ -365,14 +359,10 @@ After the microtubules have located and attached to the kinetochores in prometap
 
 (ref:meta) [Metaphase: The centrosomes have moved to the poles of the cell and have established the mitotic spindle. The chromosomes have congressed at the metaphase plate.](https://commons.wikimedia.org/wiki/File:MetaphaseIF.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/reproduction/MetaphaseIF} 
-
-}
-
-\caption{(ref:meta)}(\#fig:metaphase)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/reproduction/MetaphaseIF.jpg" alt="(ref:meta)" width="70%" />
+<p class="caption">(\#fig:metaphase)(ref:meta)</p>
+</div>
 
 ### Anaphase
 
@@ -380,14 +370,10 @@ During anaphase A, the cohesins that bind sister chromatids together are cleaved
 
 (ref:ana) [Anaphase: Kinetochore microtubules pull the two sets of chromosomes apart, and lengthening polar microtubules push the halves of the dividing cell further apart, while chromosomes are condensed maximally.](https://commons.wikimedia.org/wiki/File:Anaphase_IF.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/reproduction/Anaphase_IF} 
-
-}
-
-\caption{(ref:ana)}(\#fig:anaphase)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/reproduction/Anaphase_IF.jpg" alt="(ref:ana)" width="70%" />
+<p class="caption">(\#fig:anaphase)(ref:ana)</p>
+</div>
 
 ### Telophase
 
@@ -395,14 +381,10 @@ Telophase (from the Greek word τελος meaning "end") is a reversal of propha
 
 (ref:telo) [Telophase: Reversal of prophase and prometaphase events and thus completing the cell cycle.](https://commons.wikimedia.org/wiki/File:TelophaseIF.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/reproduction/TelophaseIF} 
-
-}
-
-\caption{(ref:telo)}(\#fig:telophase)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/reproduction/TelophaseIF.jpg" alt="(ref:telo)" width="70%" />
+<p class="caption">(\#fig:telophase)(ref:telo)</p>
+</div>
 
 ### Cytokinesis 
 

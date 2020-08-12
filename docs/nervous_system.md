@@ -4,38 +4,26 @@ The nervous system is a highly complex part of an animal that coordinates its ac
 
 (ref:nervous) The human nervous system. 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/NervousSystem} 
-
-}
-
-\caption{(ref:nervous)}(\#fig:nervoussystem)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/nervoussystem/NervousSystem.jpg" alt="(ref:nervous)" width="70%" />
+<p class="caption">(\#fig:nervoussystem)(ref:nervous)</p>
+</div>
 
 The nervous system derives its name from nerves, which are cylindrical bundles of fibers (the axons of neurons), that emanate from the brain and spinal cord, and branch repeatedly to innervate every part of the body. Nerves are large enough to have been recognized by the ancient Egyptians, Greeks, and Romans, but their internal structure was not understood until it became possible to examine them using a microscope.
 
 (ref:nerve) Transverse section of a nerve. a) a single nerve fibre (axon) surrounded by a thick layer of myelin. c) an interstitial cell. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/CajalNerve} 
-
-}
-
-\caption{(ref:nerve)}(\#fig:nervesection)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/nervoussystem/CajalNerve.jpg" alt="(ref:nerve)" width="70%" />
+<p class="caption">(\#fig:nervesection)(ref:nerve)</p>
+</div>
 
 (ref:bow) [A brainbow of mouse neurons.](https://commons.wikimedia.org/wiki/File:Brainbow_(Smith_2007).jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/nihms37882f2} 
-
-}
-
-\caption{(ref:bow)}(\#fig:brainbow)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/nervoussystem/nihms37882f2.jpg" alt="(ref:bow)" width="70%" />
+<p class="caption">(\#fig:brainbow)(ref:bow)</p>
+</div>
 
 Neuroscience (or neurobiology) is a multidisciplinary branch of biology that combines physiology, anatomy, molecular biology, developmental biology, cytology, mathematical modeling, and psychology to understand the fundamental and emergent properties of neurons and neural circuits. The understanding of the biological basis of learning, memory, behavior, perception, and consciousness has been described as the "ultimate challenge" of the biological sciences. The human brain is often referred to as the most complicated structure in the universe. The scope of neuroscience has broadened over time to include different approaches used to study the nervous system at different scales and the techniques used by neuroscientists have expanded enormously, from molecular and cellular studies of individual neurons to imaging of sensory, motor and cognitive tasks in the brain. Malfunction of the nervous system can occur as a result of genetic defects, physical damage due to trauma or toxicity, infection or simply of ageing. The medical specialty of neurology studies disorders of the nervous system and looks for interventions that can prevent or treat them. Although mental illnesses are believed by many to be neurological disorders affecting the central nervous system, traditionally they are classified separately, and treated by psychiatrists.
 
@@ -49,14 +37,10 @@ At the cellular level, the nervous system is defined by the presence of a specia
 
 (ref:pyramid) A nerve cell from the cerebral cortex of a rabbit. Notice the extensive tree of dendrites at the top, the long axon at the bottom. Because of the pyramid-like shape of the cell body, this type of neuron is referred to as a pyramidal cell. 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/RabbitPyramidalCellCajalMetodos} 
-
-}
-
-\caption{(ref:pyramid)}(\#fig:pyramidalcell)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/nervoussystem/RabbitPyramidalCellCajalMetodos.jpg" alt="(ref:pyramid)" width="70%" />
+<p class="caption">(\#fig:pyramidalcell)(ref:pyramid)</p>
+</div>
 
 Even in the nervous system of a single species such as humans, hundreds of different types of neurons exist, with a wide variety of morphologies and functions. These include sensory neurons that convert physical stimuli such as light and sound into neural signals, and motor neurons that activate muscles or glands; however in many species the great majority of neurons participate in the formation of centralized structures (the brain and ganglia) and they receive all of their input from other neurons and send their output to other neurons.
 
@@ -74,14 +58,10 @@ The vast majority of existing animals are bilaterians, meaning animals with left
 
 (ref:invertebrate) Comparison of nervous systems of invertebrates. Top left: A diffuse nerve net in *Actinia* (a genus of sea anemones in the family *Actiniidae* in the phylum *Cnidaria*); top right: The nervous system of *Anadonta anatina*, a freshwater mussel in the family *Unionidae* in the phylum *Mollusca*. c, foot; k, pedal ganglion; i, cerebro-pedal connective; g, cerebral ganglion; h, cerebral connective; a, anterior adductor muscle; r, q, anterior pallial nerves; d, liver; s, visceral nerve; l, cerebro-visceral connective; e, gill; f, edge of mantle; n, branchial nerves; m, visceral ganglion; o, posterior pallial nerves; b, posterior adductor muscle; p, lateral pallial nerves; bottom left: the nervous system of *Alitta virens*, a polychaete worm in the phylum *Annelida*. J, jaws; b, antennal nerves; c, palpal nerves; f, ganglia for the dorsal peristomial cirri; n^1^ , ganglion; n, nerves for the dissepimenta; m, parapodial nerves; i, parapodial branch; h, ventral chain of ganglia; C, cerebral ganglion; o, nerve passing through dissepiment to preceding segment; k, parapodial ganglion. Bottom right: the nervous system of an insect (*Arthropoda*). From [Morphology of invertebrate types, by Alexander Petrunkevitch. New York, Macmillan company, 1916.](https://www.biodiversitylibrary.org/ia/morphologyofinve00petr#page/7/mode/1up)  
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/invertebrate_nervoussystems} 
-
-}
-
-\caption{(ref:invertebrate)}(\#fig:invertebratenervoussystem)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/nervoussystem/invertebrate_nervoussystems.jpg" alt="(ref:invertebrate)" width="70%" />
+<p class="caption">(\#fig:invertebratenervoussystem)(ref:invertebrate)</p>
+</div>
 
 Even mammals, including humans, show the segmented bilaterian body plan at the level of the nervous system. The spinal cord contains a series of segmental ganglia, each giving rise to motor and sensory nerves that innervate a portion of the body surface and underlying musculature. On the limbs, the layout of the innervation pattern is complex, but on the trunk it gives rise to a series of narrow bands. The top three segments belong to the brain, giving rise to the forebrain, midbrain, and hindbrain.
 
@@ -109,14 +89,10 @@ All vertebrate brains share a common underlying form, which appears most clearly
 
 (ref:vertebrate) Dorsal views of the central nervous systems of the teleosts (from left to right) *Trigla hirundo* (a) and *Mola mola*, the urodele *Ambystoma tigrinum*, the anuran *Xenopus laevis*, the tortoise *Testudo hermanni*, the tegu lizard *Tupinambis teguixin*, the pigeon, the cat and human. In a, c, d, e, f, g and j the full length of the spinalcord, including the filum terminale (where present) is shown; in *Mola mola* and the cat most of the filum terminale is cut. Vertical black bars correspond to 1 cm in length. Modified from [Nieuwenhuys, R., ten Donkelaar, H. J., & Nicholson, C. (1998). The Meaning of It All. The Central Nervous System of Vertebrates, 2135–2195](https://doi.org/10.1007/978-3-642-18262-4_24) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/cns_comparison} 
-
-}
-
-\caption{(ref:vertebrate)}(\#fig:vertebratecns)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/nervoussystem/cns_comparison.svg" alt="(ref:vertebrate)" width="70%" />
+<p class="caption">(\#fig:vertebratecns)(ref:vertebrate)</p>
+</div>
 
 The brains of vertebrates are made of very soft tissue. Living brain tissue is pinkish on the outside and mostly white on the inside, with subtle variations in color. Vertebrate brains are surrounded by a system of connective tissue membranes called meninges that separate the skull from the brain. Blood vessels enter the central nervous system through holes in the meningeal layers. The cells in the blood vessel walls are joined tightly to one another, forming the blood–brain barrier, which blocks the passage of many toxins and pathogens (though at the same time blocking antibodies and some drugs, thereby presenting special challenges in treatment of diseases of the brain).
 
@@ -149,14 +125,10 @@ The brains of humans and other primates contain the same structures as the brain
 
 (ref:mammalian) Variability of brain size and external topography. Photographs and weights of the brains of different species. Primates: human (Homo sapiens, 1.176 kg), chimpanzee (Pan troglodytes, 273 g), baboon (Papio cynocephalus, 151 g), mandrill (Mandrillus sphinx, 123 g), macaque (Macaca tonkeana, 110 g). Carnivores: bear (Ursus arctos, 289 g), lion (Panthera leo, 165 g), cheetah (Acinonyx jubatus, 119 g), dog (Canis familiaris, 95 g), cat (Felis catus, 32 g). Artiodactyls: giraffe (Giraffa camelopardalis, 700 g), kudu (Tragelaphus strepsiceros, 166 g), mouflon (Ovis musimon, 118 g), ibex (Capra pyrenaica, 115 g); peccary (Tayassu pecari, 41 g). Marsupials: wallaby (Protemnodon rufogrisea, 28 g). Lagomorphs: rabbit (Oryctolagus cuniculus, 5.2 g). Rodents: rat (Rattus rattus, 2.6 g), mouse (Mus musculus, 0.5 g). The chimpanzee brain was kindly supplied by Dr. Dean Falk. The rest of non-human brains were from material used in Ballesteros-Yánez et al., 2005). Scale bar: 5 cm. From [DeFelipe J (2011) The evolution of the brain, the human nature of cortical circuits, and intellectual creativity. Front. Neuroanat. 5:29](https://www.frontiersin.org/article/10.3389/fnana.2011.00029)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/fnana-05-00029-g007} 
-
-}
-
-\caption{(ref:mammalian)}(\#fig:mammaliancns)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/nervoussystem/fnana-05-00029-g007.jpg" alt="(ref:mammalian)" width="70%" />
+<p class="caption">(\#fig:mammaliancns)(ref:mammalian)</p>
+</div>
 
 Most of the enlargement of the primate brain comes from a massive expansion of the cerebral cortex, especially the prefrontal cortex and the parts of the cortex involved in vision. The visual processing network of primates includes at least 30 distinguishable brain areas, with a complex web of interconnections. It has been estimated that visual processing areas occupy more than half of the total surface of the primate neocortex. The prefrontal cortex carries out functions that include planning, working memory, motivation, attention, and executive control. It takes up a much larger proportion of the brain for primates than for other species, and an especially large fraction of the human brain.
 
@@ -172,47 +144,31 @@ The human brain is divided into nearly symmetrical left and right hemispheres by
 
 (ref:lobes) Principal lobes and fissures of the cerebrum viewed laterally. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/GrayAnat1918p821} 
-
-}
-
-\caption{(ref:lobes)}(\#fig:principallobes)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/nervoussystem/GrayAnat1918p821.jpg" alt="(ref:lobes)" width="70%" />
+<p class="caption">(\#fig:principallobes)(ref:lobes)</p>
+</div>
 
 (ref:gyril) Diagram showing a lateral view of the ridges (gyri) and grooves (sulci) of the left hemisphere of the brain. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/GrayAnat1918p819} 
-
-}
-
-\caption{(ref:gyril)}(\#fig:gyrilateral)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/nervoussystem/GrayAnat1918p819.jpg" alt="(ref:gyril)" width="70%" />
+<p class="caption">(\#fig:gyrilateral)(ref:gyril)</p>
+</div>
 
 (ref:gyrim) Diagram showing a medial view of the ridges (gyri) and grooves (sulci) of the left hemisphere of the brain. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/GrayAnat1918p820} 
-
-}
-
-\caption{(ref:gyrim)}(\#fig:gyrimedial)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/nervoussystem/GrayAnat1918p820.jpg" alt="(ref:gyrim)" width="70%" />
+<p class="caption">(\#fig:gyrimedial)(ref:gyrim)</p>
+</div>
 
 (ref:gyrib) Diagram showing a view from the bottom of the ridges (gyri) and grooves (sulci) of the left hemisphere of the brain.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/gyri_bot} 
-
-}
-
-\caption{(ref:gyrib)}(\#fig:gyribottom)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/nervoussystem/gyri_bot.jpg" alt="(ref:gyrib)" width="70%" />
+<p class="caption">(\#fig:gyribottom)(ref:gyrib)</p>
+</div>
 
 Although the human brain represents only 2% of the body weight, it receives 15% of the cardiac output, 20% of total body oxygen consumption, and 25% of total body glucose utilization. The brain mostly uses glucose for energy, and deprivation of glucose, as can happen in hypoglycemia, can result in loss of consciousness. The energy consumption of the brain does not vary greatly over time, but active regions of the cortex consume somewhat more energy than inactive regions: this fact forms the basis for the functional brain imaging methods PET and fMRI. These functional imaging techniques provide a three-dimensional image of metabolic activity.
 
@@ -332,14 +288,10 @@ The cell body of a neuron is supported by a complex mesh of structural proteins 
 
 (ref:neuron) [Diagram of a myelinated vertebrate motor neuron.](https://commons.wikimedia.org/wiki/File:Complete_neuron_cell_diagram_en.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Complete_neuron_cell_diagram_en} 
-
-}
-
-\caption{(ref:neuron)}(\#fig:motorneuron)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Complete_neuron_cell_diagram_en.svg" alt="(ref:neuron)" width="70%" />
+<p class="caption">(\#fig:motorneuron)(ref:neuron)</p>
+</div>
 
 There are different internal structural characteristics between axons and dendrites. Typical axons almost never contain ribosomes, except some in the initial segment. Dendrites contain granular endoplasmic reticulum or ribosomes, in diminishing amounts as the distance from the cell body increases.
 
@@ -361,14 +313,10 @@ Most neurons can be anatomically characterized as:
 (ref:neurons) Morpholoigcally distinct types of neurons after Cajal. A) Unipolar neurons; B) bipolar neurons; Golgi I neurons: C) a Purkinje cell; D) spinal motor neuron E) a pyramidal cell; F) Golgi II neuron. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Cajal_neurons} 
-
-}
-
-\caption{(ref:neurons)}(\#fig:neurontypes)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Cajal_neurons.jpg" alt="(ref:neurons)" width="70%" />
+<p class="caption">(\#fig:neurontypes)(ref:neurons)</p>
+</div>
 
 Neurons can also be characterized based on various aspects of their function:
 
@@ -431,14 +379,10 @@ Astrocytes are crucial participants in the tripartite synapse. They have several
 
 (ref:astro) Astrocytes (A) and oligodendrocytes (B) are the major types of macroglia in the grey and white matter of the brain, respectively. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Cajal_glia} 
-
-}
-
-\caption{(ref:astro)}(\#fig:astrocytes)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Cajal_glia.jpg" alt="(ref:astro)" width="70%" />
+<p class="caption">(\#fig:astrocytes)(ref:astro)</p>
+</div>
 
 Oligodendrocytes are found in the CNS and resemble an octopus: they have bulbous cell bodies with up to fifteen arm-like processes. Each "arm" reaches out to a nerve fiber and spirals around it, creating a myelin sheath. The myelin sheath insulates the nerve fiber from the extracellular fluid and speeds up signal conduction along the nerve fiber.
 
@@ -498,14 +442,10 @@ The ion pump most relevant to the action potential is the sodium–potassium pum
 
 (ref:nak) A cartoon representation of the molecular structure of the sodium - potassium pump based on atomic coordinates of [PDB 2ZXE](https://www.rcsb.org/structure/2ZXE), rendered with open source molecular visualization tool PyMol.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/potential/Na_K_pump} 
-
-}
-
-\caption{(ref:nak)}(\#fig:nakpump)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/potential/Na_K_pump.png" alt="(ref:nak)" width="70%" />
+<p class="caption">(\#fig:nakpump)(ref:nak)</p>
+</div>
 
 If the numbers of each type of ion were equal, the sodium–potassium pump would be electrically neutral, but, because of the three-for-two exchange, it gives a net movement of one positive charge from intracellular to extracellular for each cycle, thereby contributing to a positive voltage difference. The pump has three effects: (1) it makes the sodium concentration high in the extracellular space and low in the intracellular space; (2) it makes the potassium concentration high in the intracellular space and low in the extracellular space; (3) it gives the intracellular space a negative voltage with respect to the extracellular space.
 
@@ -525,14 +465,10 @@ Channels differ with respect to the ion they let pass (for example, Na^+^, K^+^,
 
 (ref:KcsA) The structure of the potassium channel KcsA fromn *Streptomyces lividans* determined by X-ray crystallography.Top: side view; bottom: top view. KcsA shares sequence similarity with all known K^+^ channels and was the first ion channel to have its structure solved at atomic resolution. It consists of four identical subunits that together form a cone shaped structure (top) with a ion selectivity filter at its outer end. Three K^+^ ions (red spheres) are present in the channel, two of which are held 7.5 angstroms apart by the selectivity filter, a third K^+^ ion shown in the channel pore below. Data from [PDB 1BL8](https://www.rcsb.org/structure/1BL8), rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/potential/Kcsa} 
-
-}
-
-\caption{(ref:KcsA)}(\#fig:kchannel)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/potential/Kcsa.png" alt="(ref:KcsA)" width="70%" />
+<p class="caption">(\#fig:kchannel)(ref:KcsA)</p>
+</div>
 
 Because of their small size and the difficulty of crystallizing integral membrane proteins for X-ray analysis, it is only very recently that scientists have been able to directly examine what channels "look like." Most of what researchers have deduced about channel operation so far they have established through electrophysiology, biochemistry, gene sequence comparison and mutagenesisi and structural studies (X-ray crystallography and cryoelectronmicroscopy).
 
@@ -574,14 +510,10 @@ Important representative families of voltage-gated ion channels are the:
 
 (ref:ion) The structures (from left to right) of voltage-gated sodium, potassium, calcium and chloride channels. Top: side view; bottom: top view. Data from [PDB 5EK0](https://www.rcsb.org/structure/5EK0), [PDB 2A79](https://www.rcsb.org/structure/2A79), [PDB 3JBR](https://www.rcsb.org/structure/3JBR) and [PDB 1KPL](https://www.rcsb.org/structure/1KPL) rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/potential/voltage_gated_ion_channels} 
-
-}
-
-\caption{(ref:ion)}(\#fig:ionchannel)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/potential/voltage_gated_ion_channels.png" alt="(ref:ion)" width="70%" />
+<p class="caption">(\#fig:ionchannel)(ref:ion)</p>
+</div>
 
 [Ligand-gated ion channels](https://en.wikipedia.org/wiki/Ligand-gated_ion_channel), also commonly referred to as ionotropic receptors, are a group of transmembrane ion-channel proteins which open to allow ions such as Na^+^, K^+^, Ca^2+^, and Cl^−^ to pass through the membrane in response to the binding of a chemical messenger (i.e. a ligand), such as a neurotransmitter.
 
@@ -599,14 +531,10 @@ The ionotropic glutamate receptors bind the neurotransmitter glutamate. They for
 
 (ref:lic) Structures of ligand-gated ion channels. Top row: The nicotinic acetylcholine receptor (left) and the serotonin 5-HT3 receptor. Middle row: The GABA~A~ receptor (left) and glycine receptor (rigt). Bottom row: The AMPA receptor (left) and NMDA receptor (reight). Data from [PDB 2BG9](https://www.rcsb.org/structure/2BG9), [PDB 6HIO](https://www.rcsb.org/structure/6HIO), [PDB 6D6U](https://www.rcsb.org/structure/6D6U), [PDB 3JAD](https://www.rcsb.org/structure/3JAD), [PDB 5IDE](https://www.rcsb.org/structure/5IDE), and [PDB 4PE5](https://www.rcsb.org/structure/4PE5), rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/potential/ligand_gated_ion_channels} 
-
-}
-
-\caption{(ref:lic)}(\#fig:lgic)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/potential/ligand_gated_ion_channels.png" alt="(ref:lic)" width="70%" />
+<p class="caption">(\#fig:lgic)(ref:lic)</p>
+</div>
 
 Also called G protein-coupled receptor, seven-transmembrane domain receptor, 7 TM receptor, constitute a large protein family of receptors that sense molecules outside the cell and activate inside signal transduction pathways and, ultimately, cellular responses. They pass through the cell membrane 7 times. G-protein-Linked receptors are a huge family that have hundreds of members identified. Ion-channel-linked receptors (e.g. GABAB, NMDA, etc.) are only a part of them.
 
@@ -668,14 +596,10 @@ In animal cells, there are two primary types of action potentials. One type is g
 
 (ref:action) [Ion movement during an action potential.](https://commons.wikimedia.org/wiki/File:Membrane_Permeability_of_a_Neuron_During_an_Action_Potential.svg) Key: a) Sodium (Na^+^) ion. b) Potassium (K^+^) ion. c) Sodium channel. d) Potassium channel. e) Sodium-potassium pump. In the stages of an action potential, the permeability of the membrane of the neuron changes. At the resting state (1), sodium and potassium ions have limited ability to pass through the membrane, and the neuron has a net negative charge inside. Once the action potential is triggered, the depolarization (2) of the neuron activates sodium channels, allowing sodium ions to pass through the cell membrane into the cell, resulting in a net positive charge in the neuron relative to the extracellular fluid. After the action potential peak is reached, the neuron begins repolarization (3), where the sodium channels close and potassium channels open, allowing potassium ions to cross the membrane into the extracellular fluid, returning the membrane potential to a negative value. Finally, there is a refractory period (4), during which the voltage-dependent ion channels are inactivated while the Na^+^ and K^+^ ions return to their resting state distributions across the membrane (1), and the neuron is ready to repeat the process for the next action potential.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/potential/ActionPotential} 
-
-}
-
-\caption{(ref:action)}(\#fig:actionpotential)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/potential/ActionPotential.svg" alt="(ref:action)" width="70%" />
+<p class="caption">(\#fig:actionpotential)(ref:action)</p>
+</div>
 
 ## Graded Potentials
 
@@ -730,14 +654,10 @@ Synapses are essential to neuronal function: neurons are cells that are speciali
 
 (ref:electron) Electron micrograph of rat cortex showing multiple pre- and postsynaptic structures, as well as astrocytic endfeet (\*) in close contact with synapses. Note the presence of numerous synaptic vesicles in the presynaptic boutons. CAZ, cytomatrix at the active zone; PSD, postsynaptic density; SV, synaptic vesicles. Scalebar: 100 nm. From [Proteomics of the Synapse – A Quantitative Approach to Neuronal Plasticity Daniela C. Dieterich, Michael R. Kreutz Molecular & Cellular Proteomics February 1, 2016, First published on August 25, 2015, 15 (2) 368-381; DOI: 10.1074/mcp.R115.051482]( https://doi.org/10.1074/mcp.R115.051482)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/synapse/synapse_electronmicrograph} 
-
-}
-
-\caption{(ref:electron)}(\#fig:electronsynapse)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/synapse/synapse_electronmicrograph.jpg" alt="(ref:electron)" width="70%" />
+<p class="caption">(\#fig:electronsynapse)(ref:electron)</p>
+</div>
 
 There are two fundamentally different types of synapses:
 
@@ -756,27 +676,19 @@ Many proteins in the PSD are involved in the regulation of synaptic function. Ke
 
 (ref:nmda) A cartoon representation of the atomic structure of the GluN1a/GluN2B N-Methyl-D-aspartate (NMDA) receptor subtype of the family of ionotropic glutamate receptors. The agonist glutamate (green spheres) is bound to the GluN2B subunit, the co-agonist glycine is bound to the GluN1A subunit. Data from [PDB 4PE5](https://www.rcsb.org/structure/4PE5), rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/synapse/NMDA_receptor} 
-
-}
-
-\caption{(ref:nmda)}(\#fig:nmdar)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/synapse/NMDA_receptor.png" alt="(ref:nmda)" width="70%" />
+<p class="caption">(\#fig:nmdar)(ref:nmda)</p>
+</div>
 
 The PSD has been proposed to concentrate and organize neurotransmitter receptors in the synaptic cleft. The PSD also serves as a signaling apparatus. For instance kinases and phosphatases in the PSD are activated and released from the PSD to change the activity of proteins located in the spine or are transported to the nucleus to affect protein synthesis. Some of the features of the PSD are similar to the neuromuscular junction and other cellular junctions, as the PSD has been modeled as a specialized cellular junction that allows for rapid, asymmetrical signaling.
 
 (ref:synapse) The tetrapartite synapse of principal neurons in the forebrain, consisting of the pre- and postsynaptic compartment, astrocytic endfeet, and the extracellular matrix has a tightly regulated protein composition. A microsceretory system is present in synapses and dendrites that allows for translation of mRNA, local synthesis of, processing and insertion of transmembrane proteins. Hence the turnover of the synaptic protein machinery is controlled by local and somatic de novo protein synthesis, protein degradation by the ubiquitin proteasome system, lysosomes and autophagosomes. In addition, the association of proteins with pre- and postsynaptic compartments is highly dynamic. Molecular machineries and organelles for proteostasis are shared between synapses in dendritic segments. Proteins are transported in and out of the synapse as well as by diffusion of transmembrane proteins. These processes govern the activity-dependent assembly of the pre- and postsynaptic scaffold and the synaptic surface expression of receptors, calcium channels and cell adhesion molecules. Abbreviations: CAM, cell adhesion molecules; CAZ, cytomatrix at the active zone; ECM, extracellular matrix; ER, endoplasmatic reticulum; ERGIC, endoplasmatic reticulum Golgi intermediate compartment; MT, microtubules; PSD, postsynaptic density; RE, recycling endosomes; Lys, lysomes; SV, synaptic vesicle. From [Proteomics of the Synapse – A Quantitative Approach to Neuronal Plasticity Daniela C. Dieterich, Michael R. Kreutz Molecular & Cellular Proteomics February 1, 2016, First published on August 25, 2015, 15 (2) 368-381; DOI: 10.1074/mcp.R115.051482]( https://doi.org/10.1074/mcp.R115.051482)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/synapse/synapse_diagram} 
-
-}
-
-\caption{(ref:synapse)}(\#fig:synapsediagram)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/synapse/synapse_diagram.jpg" alt="(ref:synapse)" width="70%" />
+<p class="caption">(\#fig:synapsediagram)(ref:synapse)</p>
+</div>
 
 The adult human brain is estimated to contain from 10^14^ to 5 × 10^14^ (100–500 trillion) synapses. Every cubic millimeter of cerebral cortex contains roughly a billion (10^9^) of them. The number of synapses in the human cerebral cortex has separately been estimated at 0.15 quadrillion (150 trillion)
 
@@ -846,14 +758,10 @@ Ligand-gated ion channels (LGICs) are one type of ionotropic receptor or channel
 
 (ref:ach) A cartoon representation of the atomic structure of the the nicotinic acetylcholine receptor from the electric ray *Torpedo marmorata* at 4Å resolution. Data from [PDB 2BG9](https://www.rcsb.org/structure/2BG9), rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/synapse/nAch_receptor} 
-
-}
-
-\caption{(ref:ach)}(\#fig:achr)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/synapse/nAch_receptor.png" alt="(ref:ach)" width="70%" />
+<p class="caption">(\#fig:achr)(ref:ach)</p>
+</div>
 
 
 The binding site of endogenous ligands on LGICs protein complexes are normally located on a different portion of the protein (an allosteric binding site) compared to where the ion conduction pore is located. The direct link between ligand binding and opening or closing of the ion channel, which is characteristic of ligand-gated ion channels, is contrasted with the indirect function of metabotropic receptors, which use second messengers. LGICs are also different from voltage-gated ion channels (which open and close depending on membrane potential), and stretch-activated ion channels (which open and close depending on mechanical deformation of the cell membrane).

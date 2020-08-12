@@ -2,6 +2,13 @@
 
 Plants are multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae. Historically, plants were treated as one of two kingdoms including all living things that were not animals, and all algae and fungi were treated as plants. However, all current definitions of Plantae exclude the fungi and some algae, as well as the prokaryotes (the archaea and bacteria). By one definition, plants form the clade Viridiplantae (Latin name for "green plants"), a group that includes the flowering plants, conifers and other gymnosperms, ferns and their allies, hornworts, liverworts, mosses and the green algae, but excludes the red and brown algae.
 
+(ref:plantdiv) [The diversity of plants.](https://commons.wikimedia.org/wiki/File:Diversity_of_plants_image_version_5.png) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/plants/Diversity_of_plants_image_version_5.png" alt="(ref:plantdiv)" width="70%" />
+<p class="caption">(\#fig:plantdiversity)(ref:plantdiv)</p>
+</div>
+
 Green plants obtain most of their energy from sunlight via photosynthesis by primary chloroplasts that are derived from endosymbiosis with cyanobacteria. Their chloroplasts contain chlorophylls a and b, which gives them their green color. Some plants are parasitic or mycotrophic and have lost the ability to produce normal amounts of chlorophyll or to photosynthesize. Plants are characterized by sexual reproduction and alternation of generations, although asexual reproduction is also common.
 
 There are about 320,000 species of plants, of which the great majority, some 260–290 thousand, produce seeds. Green plants provide a substantial proportion of the world's molecular oxygen, and are the basis of most of Earth's ecosystems. Plants that produce grain, fruit and vegetables also form basic human foods and have been domesticated for millennia. Plants have many cultural and other uses, as ornaments, building materials, writing material and, in great variety, they have been the source of medicines and psychoactive drugs. The scientific study of plants is known as botany, a branch of biology.
@@ -12,19 +19,37 @@ The term "plant" generally implies the possession of the following traits: multi
 
 When the name Plantae or plant is applied to a specific group of organisms or taxon, it usually refers to one of four concepts. From least to most inclusive, these four groupings are:
 
-\begin{table}[!h]
-\centering
-\begin{tabular}{lll}
-\toprule
-Name & Scope & Distribution\\
-\midrule
-\rowcolor{gray!6}  Land plants, also known as Embryophyta & Plantae sensu strictissimo & Plants in the strictest sense include the liverworts, hornworts, mosses, and vascular plants, as well as fossil plants similar to these surviving groups (e.g., Metaphyta Whittaker, 1969,[9] Plantae Margulis, 1971[10]).\\
-Green plants, also known as Viridiplantae, Viridiphyta, Chlorobionta or Chloroplastida & Plantae sensu stricto & Plants in a strict sense include the green algae, and land plants that emerged within them, including stoneworts. The relationships between plant groups are still being worked out, and the names given to them vary considerably. The clade Viridiplantae encompasses a group of organisms that have cellulose in their cell walls, possess chlorophylls a and b and have plastids bound by only two membranes that are capable of photosynthesis and of storing starch. This clade is the main subject of this article (e.g., Plantae Copeland, 1956[11]).\\
-\rowcolor{gray!6}  Archaeplastida, also known as Plastida or Primoplantae & Plantae sensu lato & Plants in a broad sense comprise the green plants listed above plus the red algae (Rhodophyta) and the glaucophyte algae (Glaucophyta) that store Floridean starch outside the plastids, in the cytoplasm. This clade includes all of the organisms that eons ago acquired their primary chloroplasts directly by engulfing cyanobacteria(e.g., Plantae Cavalier-Smith, 1981[12]).\\
-Old definitions of plant (obsolete) & Plantae sensu amplo & Plants in the widest sense refers to older, obsolete classifications that placed diverse algae, fungi or bacteria in Plantae (e.g., Plantae or Vegetabilia Linnaeus,[13] Plantae Haeckel 1866,[14] Metaphyta Haeckel, 1894,[15] Plantae Whittaker, 1969[9]).\\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Name </th>
+   <th style="text-align:left;"> Scope </th>
+   <th style="text-align:left;"> Distribution </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Land plants, also known as Embryophyta </td>
+   <td style="text-align:left;"> Plantae sensu strictissimo </td>
+   <td style="text-align:left;"> Plants in the strictest sense include the liverworts, hornworts, mosses, and vascular plants, as well as fossil plants similar to these surviving groups (e.g., Metaphyta Whittaker, 1969,[9] Plantae Margulis, 1971[10]). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Green plants, also known as Viridiplantae, Viridiphyta, Chlorobionta or Chloroplastida </td>
+   <td style="text-align:left;"> Plantae sensu stricto </td>
+   <td style="text-align:left;"> Plants in a strict sense include the green algae, and land plants that emerged within them, including stoneworts. The relationships between plant groups are still being worked out, and the names given to them vary considerably. The clade Viridiplantae encompasses a group of organisms that have cellulose in their cell walls, possess chlorophylls a and b and have plastids bound by only two membranes that are capable of photosynthesis and of storing starch. This clade is the main subject of this article (e.g., Plantae Copeland, 1956[11]). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Archaeplastida, also known as Plastida or Primoplantae </td>
+   <td style="text-align:left;"> Plantae sensu lato </td>
+   <td style="text-align:left;"> Plants in a broad sense comprise the green plants listed above plus the red algae (Rhodophyta) and the glaucophyte algae (Glaucophyta) that store Floridean starch outside the plastids, in the cytoplasm. This clade includes all of the organisms that eons ago acquired their primary chloroplasts directly by engulfing cyanobacteria(e.g., Plantae Cavalier-Smith, 1981[12]). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Old definitions of plant (obsolete) </td>
+   <td style="text-align:left;"> Plantae sensu amplo </td>
+   <td style="text-align:left;"> Plants in the widest sense refers to older, obsolete classifications that placed diverse algae, fungi or bacteria in Plantae (e.g., Plantae or Vegetabilia Linnaeus,[13] Plantae Haeckel 1866,[14] Metaphyta Haeckel, 1894,[15] Plantae Whittaker, 1969[9]). </td>
+  </tr>
+</tbody>
+</table>
 
 The evolution of plants has resulted in increasing levels of complexity, from the earliest algal mats, through bryophytes, lycopods, ferns to the complex gymnosperms and angiosperms of today. Plants in all of these groups continue to thrive, especially in the environments in which they evolved.
 
@@ -169,6 +194,13 @@ The life cycle of a typical fern proceeds as follows:
 
 The spermatophytes, also known as phanerogams (taxon Phanerogamae) or phaenogams (taxon Phaenogamae), comprise those plants that produce seeds, hence the alternative name seed plants. They are a subset of the embryophytes or land plants. The term phanerogams or phanerogamae is derived from the Greek φανερός, phanerós meaning "visible", in contrast to the cryptogamae from Greek κρυπτός kryptós = "hidden" together with the suffix γαμέω, gameo, "to marry". These terms distinguished those plants with hidden sexual organs (cryptogamae) from those with visible sexual organs (phanerogamae).
 
+(ref:seedcol) [Microimages of seeds of various plants.](https://commons.wikimedia.org/wiki/File:Разнообразие_семян.jpg) The first row: Poppy, Red pepper, Strawberry, Apple tree, Blackberry, Rice, Carum. Second row: Mustard, Eggplant, Physalis, grapes, raspberries, red rice, Patchouli. The third row: Figs, Lycium barbarum, Beets, Blueberries, Golden Kiwifruit, Rosehip, Basil. The fourth row: Pink pepper, Tomato, Radish, Carrot, Matthiola, Dill, Coriander Fifth row: Black pepper, White cabbage, Napa cabbage, Seabuckthorn, Parsley, Dandelion, Capsella bursa-pastoris. The sixth row: Cauliflower, Radish, Kiwifruit, Grenadilla, Passion fruit, Melissa, Tagetes erecta.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/plants/seeds_diversity.jpg" alt="(ref:seedcol)" width="70%" />
+<p class="caption">(\#fig:seedcollection)(ref:seedcol)</p>
+</div>
+
 The extant spermatophytes form five divisions, the first four of which are traditionally grouped as gymnosperms, plants that have unenclosed, "naked seeds":
 
 * Cycadophyta, the cycads, a subtropical and tropical group of plants,
@@ -206,22 +238,40 @@ The ancestors of flowering plants diverged from gymnosperms in the Triassic Peri
 
 Angiosperms differ from other seed plants in several ways, described in the table below. These distinguishing characteristics taken together have made the angiosperms the most diverse and numerous land plants and the most commercially important group to humans.
 
-\begin{table}[!h]
-\centering
-\begin{tabular}{ll}
-\toprule
-Feature & Description\\
-\midrule
-\rowcolor{gray!6}  Flowering organs & Flowers, the reproductive organs of flowering plants, are the most remarkable feature distinguishing them from the other seed plants. Flowers provided angiosperms with the means to have a more species-specific breeding system, and hence a way to evolve more readily into different species without the risk of crossing back with related species. Faster speciation enabled the Angiosperms to adapt to a wider range of ecological niches. This has allowed flowering plants to largely dominate terrestrialecosystems.[citation needed]\\
-Stamens with two pairs of pollen sacs & Stamens are much lighter than the corresponding organs of gymnosperms and have contributed to the diversification of angiosperms through time with adaptations to specialized pollination syndromes, such as particular pollinators. Stamens have also become modified through time to prevent self-fertilization, which has permitted further diversification, allowing angiosperms eventually to fill more niches.\\
-\rowcolor{gray!6}  Reduced male parts, three cells & The male gametophyte in angiosperms is significantly reduced in size compared to those of gymnosperm seed plants.[10] The smaller size of the pollen reduces the amount of time between pollination — the pollen grain reaching the female plant — and fertilization. In gymnosperms, fertilization can occur up to a year after pollination, whereas in angiosperms, fertilization begins very soon after pollination.[11] The shorter amount of time between pollination and fertilization allows angiosperms to produce seeds earlier after pollination than gymnosperms, providing angiosperms a distinct evolutionary advantage.\\
-Closed carpelenclosing the ovules (carpel or carpels and accessory parts may become the fruit) & The closed carpel of angiosperms also allows adaptations to specialized pollination syndromes and controls. This helps to prevent self-fertilization, thereby maintaining increased diversity. Once the ovary is fertilized, the carpel and some surrounding tissues develop into a fruit. This fruit often serves as an attractant to seed-dispersing animals. The resulting cooperative relationship presents another advantage to angiosperms in the process of dispersal.\\
-\rowcolor{gray!6}  Reduced female gametophyte, seven cells with eight nuclei & The reduced female gametophyte, like the reduced male gametophyte, may be an adaptation allowing for more rapid seed set, eventually leading to such flowering plant adaptations as annual herbaceous life-cycles, allowing the flowering plants to fill even more niches.\\
-\addlinespace
-Endosperm & In general, endosperm formation begins after fertilization and before the first division of the zygote. Endosperm is a highly nutritive tissue that can provide food for the developing embryo, the cotyledons, and sometimes the seedling when it first appears.\\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Feature </th>
+   <th style="text-align:left;"> Description </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Flowering organs </td>
+   <td style="text-align:left;"> Flowers, the reproductive organs of flowering plants, are the most remarkable feature distinguishing them from the other seed plants. Flowers provided angiosperms with the means to have a more species-specific breeding system, and hence a way to evolve more readily into different species without the risk of crossing back with related species. Faster speciation enabled the Angiosperms to adapt to a wider range of ecological niches. This has allowed flowering plants to largely dominate terrestrialecosystems.[citation needed] </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Stamens with two pairs of pollen sacs </td>
+   <td style="text-align:left;"> Stamens are much lighter than the corresponding organs of gymnosperms and have contributed to the diversification of angiosperms through time with adaptations to specialized pollination syndromes, such as particular pollinators. Stamens have also become modified through time to prevent self-fertilization, which has permitted further diversification, allowing angiosperms eventually to fill more niches. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Reduced male parts, three cells </td>
+   <td style="text-align:left;"> The male gametophyte in angiosperms is significantly reduced in size compared to those of gymnosperm seed plants.[10] The smaller size of the pollen reduces the amount of time between pollination — the pollen grain reaching the female plant — and fertilization. In gymnosperms, fertilization can occur up to a year after pollination, whereas in angiosperms, fertilization begins very soon after pollination.[11] The shorter amount of time between pollination and fertilization allows angiosperms to produce seeds earlier after pollination than gymnosperms, providing angiosperms a distinct evolutionary advantage. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Closed carpelenclosing the ovules (carpel or carpels and accessory parts may become the fruit) </td>
+   <td style="text-align:left;"> The closed carpel of angiosperms also allows adaptations to specialized pollination syndromes and controls. This helps to prevent self-fertilization, thereby maintaining increased diversity. Once the ovary is fertilized, the carpel and some surrounding tissues develop into a fruit. This fruit often serves as an attractant to seed-dispersing animals. The resulting cooperative relationship presents another advantage to angiosperms in the process of dispersal. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Reduced female gametophyte, seven cells with eight nuclei </td>
+   <td style="text-align:left;"> The reduced female gametophyte, like the reduced male gametophyte, may be an adaptation allowing for more rapid seed set, eventually leading to such flowering plant adaptations as annual herbaceous life-cycles, allowing the flowering plants to fill even more niches. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Endosperm </td>
+   <td style="text-align:left;"> In general, endosperm formation begins after fertilization and before the first division of the zygote. Endosperm is a highly nutritive tissue that can provide food for the developing embryo, the cotyledons, and sometimes the seedling when it first appears. </td>
+  </tr>
+</tbody>
+</table>
 
 Angiosperm stems are made up of seven layers as shown on the right. The amount and complexity of tissue-formation in flowering plants exceeds that of gymnosperms. The vascular bundles of the stem are arranged such that the xylem and phloem form concentric rings.
 
