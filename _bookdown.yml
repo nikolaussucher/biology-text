@@ -1,7 +1,7 @@
 new_session: yes 
 rmd_files: [ "index.rmd",
              "acknowledgements.rmd",
-             "life.rmd",
+             "biology.rmd",
              "basic_chemistry.rmd",
              "organic_chemistry.rmd",
              "cell_structure.rmd",

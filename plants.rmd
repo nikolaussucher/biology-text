@@ -55,6 +55,12 @@ The earliest fossils attributed to green algae date from the Precambrian (ca. 12
 
 The oldest known fossils of embryophytes date from the Ordovician, though such fossils are fragmentary. By the Silurian, fossils of whole plants are preserved, including the simple vascular plant Cooksonia in mid-Silurian and the much larger and more complex lycophyte Baragwanathia longifolia in late Silurian. From the early Devonian Rhynie chert, detailed fossils of lycophytes and rhyniophytes have been found that show details of the individual cells within the plant organs and the symbiotic association of these plants with fungi of the order Glomales. The Devonian period also saw the evolution of leaves and roots, and the first modern tree, Archaeopteris. This tree with fern-like foliage and a trunk with conifer-like wood was heterosporous producing spores of two different sizes, an early step in the evolution of seeds.
 
+(ref:cooks) [Reconstruction of Cooksonia, a vascular plant from the Silurian](https://commons.wikimedia.org/wiki/File:Cooksonia_pertoni.png)
+
+```{r cooksonia, fig.cap='(ref:cooks)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/plants/Cooksonia_pertoni.png")
+```
+
 The Coal measures are a major source of Paleozoic plant fossils, with many groups of plants in existence at this time. The spoil heaps of coal mines are the best places to collect; coal itself is the remains of fossilised plants, though structural detail of the plant fossils is rarely visible in coal. In the Fossil Grove at Victoria Park in Glasgow, Scotland, the stumps of Lepidodendron trees are found in their original growth positions.
 
 The fossilized remains of conifer and angiosperm roots, stems and branches may be locally abundant in lake and inshore sedimentary rocks from the Mesozoic and Cenozoic eras. Sequoia and its allies, magnolia, oak, and palms are often found.
@@ -211,6 +217,12 @@ Gymnosperms, like all vascular plants, have a sporophyte-dominant life cycle, wh
 
 The flowering plants, also known as Angiospermae, or Magnoliophyta, are the most diverse group of land plants, with 64 orders, 416 families, approximately 13,000 known genera and 300,000 known species. Like gymnosperms, angiosperms are seed-producing plants. They are distinguished from gymnosperms by characteristics including flowers, endosperm within the seeds, and the production of fruits that contain the seeds. Etymologically, angiosperm means a plant that produces seeds within an enclosure; in other words, a fruiting plant. The term comes from the Greek words angeion ("case" or "casing") and sperma ("seed").
 
+(ref:flowering) [Flowers of different families:](https://commons.wikimedia.org/wiki/File:Flower_poster_2.jpg) St Bernards Lilly (*Anthericum liliago*): Liliaceae Bermuda Buttercup (*Oxalis pescaprae*): Oxalidaceae Oleander *(Nerium oleander*): Apocynaceae Lantana (*Lantana camara*): Verbenaceae Scarlet Pimpernel (*Anagallis arvensis*): Primulaceae Verbascum (*Verbascum sinuatum*): Scrophulariaceae Common Mallow  (*Malva sylvestris*): Malvaceae Spanish Oyster (*Scolymus hispanicus*): Asteraceae Stork's Bill (*Erodium malacoides*): Geraniaceae Bindweed (*Convolvulus arvensis*): Convolvulaceae Blue Gem (*Hebe x franciscana*): Plantaginaceae Calla Lily (*Zantedeschia aethiopica*): Araceae
+
+```{r floweringplants, fig.cap='(ref:flowering)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/plants/Flower_poster_2.jpg")
+```
+
 The ancestors of flowering plants diverged from gymnosperms in the Triassic Period, 245 to 202 million years ago (mya), and the first flowering plants are known from ~140 mya. They diversified extensively during the Early Cretaceous, became widespread by 120 mya, and replaced conifers as the dominant trees from 100 to 60 mya.
 
 Angiosperms differ from other seed plants in several ways, described in the table below. These distinguishing characteristics taken together have made the angiosperms the most diverse and numerous land plants and the most commercially important group to humans.
@@ -232,7 +244,19 @@ In the dicotyledons, the bundles in the very young stem are arranged in an open 
 
 Among the monocotyledons, the bundles are more numerous in the young stem and are scattered through the ground tissue. They contain no cambium and once formed the stem increases in diameter only in exceptional cases.
 
+(ref:flower) [Anatomy of the flower.](https://commons.wikimedia.org/wiki/File:Mature_flower_diagram.svg)
+
+```{r flower, fig.cap='(ref:flower)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/plants/mature_flower.svg")
+```
+
 The characteristic feature of angiosperms is the flower. Flowers show remarkable variation in form and elaboration, and provide the most trustworthy external characteristics for establishing relationships among angiosperm species. The function of the flower is to ensure fertilization of the ovule and development of fruit containing seeds. The floral apparatus may arise terminally on a shoot or from the axil of a leaf (where the petiole attaches to the stem). Occasionally, as in violets, a flower arises singly in the axil of an ordinary foliage-leaf. More typically, the flower-bearing portion of the plant is sharply distinguished from the foliage-bearing or vegetative portion, and forms a more or less elaborate branch-system called an inflorescence.
+
+(ref:lili) [Reproductive parts of Easter Lily (Lilium longiflorum).](https://commons.wikimedia.org/wiki/File:Lillium_Stamens.jpg)1. Stigma, 2. Style, 3. Stamens, 4. Filament, 5. Petal
+
+```{r lilistamen, fig.cap='(ref:lili)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/plants/Lillium_Stamens.jpg")
+```
 
 There are two kinds of reproductive cells produced by flowers. Microspores, which will divide to become pollen grains, are the "male" cells and are borne in the stamens (or microsporophylls). The "female" cells called megaspores, which will divide to become the egg cell (megagametogenesis), are contained in the ovule and enclosed in the carpel (or megasporophyll).
 
@@ -260,6 +284,12 @@ Recent studies, as by the APG, show that the monocots form a monophyletic group 
 Fossilized spores suggest that land plants (embryophytes) have existed for at least 475 million years. Early land plants reproduced sexually with flagellated, swimming sperm, like the green algae from which they evolved. An adaptation to terrestrialization was the development of upright meiosporangia for dispersal by spores to new habitats. This feature is lacking in the descendants of their nearest algal relatives, the Charophycean green algae. A later terrestrial adaptation took place with retention of the delicate, avascular sexual stage, the gametophyte, within the tissues of the vascular sporophyte. This occurred by spore germination within sporangia rather than spore release, as in non-seed plants. A current example of how this might have happened can be seen in the precocious spore germination in Selaginella, the spike-moss. The result for the ancestors of angiosperms was enclosing them in a case, the seed.
 
 The apparently sudden appearance of nearly modern flowers in the fossil record initially posed such a problem for the theory of evolution that Charles Darwin called it an "abominable mystery". However, the fossil record has considerably grown since the time of Darwin, and recently discovered angiosperm fossils such as Archaefructus, along with further discoveries of fossil gymnosperms, suggest how angiosperm characteristics may have been acquired in a series of steps. Several groups of extinct gymnosperms, in particular seed ferns, have been proposed as the ancestors of flowering plants, but there is no continuous fossil evidence showing exactly how flowers evolved. Some older fossils, such as the upper Triassic Sanmiguelia, have been suggested.
+
+(ref:orchid) [A Bee orchid](https://commons.wikimedia.org/wiki/File:Ophrys_apifera_flower1.jpg) has evolved over many generations to better mimic a female bee to attract male bees as pollinators.
+
+```{r beeorchid, fig.cap='(ref:orchid)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/plants/Ophrys_apifera_flower1.jpg")
+```
 
 The first seed bearing plants, like the ginkgo, and conifers (such as pines and firs), did not produce flowers. The pollen grains (male gametophytes) of Ginkgo and cycads produce a pair of flagellated, mobile sperm cells that "swim" down the developing pollen tube to the female and her eggs.
 
@@ -306,6 +336,12 @@ The character of the seed coat bears a definite relation to that of the fruit. T
 Flowering plants generate gametes using a specialized cell division called meiosis. Meiosis takes place in the ovule (a structure within the ovary that is located within the pistil at the center of the flower) (see diagram labeled "Angiosperm lifecycle"). A diploid cell (megaspore mother cell) in the ovule undergoes meiosis (involving two successive cell divisions) to produce four cells (megaspores) with haploid nuclei. It is thought that the basal chromosome number in angiosperms is n = 7. One of these four cells (megaspore) then undergoes three successive mitotic divisions to produce an immature embryo sac (megagametophyte) with eight haploid nuclei. Next, these nuclei are segregated into separate cells by cytokinesis to producing 3 antipodal cells, 2 synergid cells and an egg cell. Two polar nuclei are left in the central cell of the embryo sac.
 
 Pollen is also produced by meiosis in the male anther (microsporangium). During meiosis, a diploid microspore mother cell undergoes two successive meiotic divisions to produce 4 haploid cells (microspores or male gametes). Each of these microspores, after further mitoses, becomes a pollen grain (microgametophyte) containing two haploid generative (sperm) cells and a tube nucleus. When a pollen grain makes contact with the female stigma, the pollen grain forms a pollen tube that grows down the style into the ovary. In the act of fertilization, a male sperm nucleus fuses with the female egg nucleus to form a diploid zygote that can then develop into an embryo within the newly forming seed. Upon germination of the seed, a new plant can grow and mature.
+
+(ref:pollen) [Scanning electron microscope image (500x magnification) of pollen grains from a variety of common plants:](https://commons.wikimedia.org/wiki/File:Misc_pollen_colorized.jpg) sunflower (*Helianthus annuus*), morning glory (*Ipomoea purpurea*), prairie hollyhock (*Sidalcea malviflora*), oriental lily (*Lilium auratum*), evening primrose (*Oenothera fruticosa*), and castor bean (*Ricinus communis*).The image is magnified some x500, so the bean shaped grain in the bottom left corner is about 50 μm long. The colors are computer-generated.
+
+```{r , fig.cap='(ref:)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/plants/Misc_pollen_colorized.jpg")
+```
 
 The adaptive function of meiosis is currently a matter of debate. A key event during meiosis in a diploid cell is the pairing of homologous chromosomes and homologous recombination (the exchange of genetic information) between homologous chromosomes. This process promotes the production of increased genetic diversity among progeny and the recombinational repair of damages in the DNA to be passed on to progeny. To explain the adaptive function of meiosis in flowering plants, some authors emphasize diversity and others emphasize DNA repair.
 

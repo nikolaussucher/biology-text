@@ -88,6 +88,40 @@ Large-scale gene transfer has also occurred between the ancestors of eukaryotic 
 
 From a neo-Darwinian perspective, evolution occurs when there are changes in the frequencies of alleles within a population of interbreeding organisms, for example, the allele for black colour in a population of moths becoming more common. Mechanisms that can lead to changes in allele frequencies include natural selection, genetic drift, gene flow and mutation bias.
 
+## Peppered moth evolution
+
+The evolution of the peppered moth is an evolutionary instance of directional colour change in the moth population as a consequence of air pollution during the Industrial Revolution. The frequency of dark-coloured moths increased at that time, an example of industrial melanism. Later, when pollution was reduced, the light-coloured form again predominated. Industrial melanism in the peppered moth was an early test of Charles Darwin's natural selection in action, and remains as a classic example in the teaching of evolution. In 1978 Sewall Wright described it as "the clearest case in which a conspicuous evolutionary process has actually been observed."
+
+(ref:whitemoth) [Biston betularia f. typica, the white-bodied peppered moth.](https://commons.wikimedia.org/wiki/File:Biston.betularia.7200.jpg) 
+
+```{r whitepeppered, fig.cap='(ref:whitemoth)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/evolution/Biston.betularia.7200.jpg")
+```
+
+(ref:blackmoth) [Biston betularia f. carbonaria, the black-bodied peppered moth.](https://commons.wikimedia.org/wiki/File:Biston.betularia.f.carbonaria.7209.jpg)
+
+```{r carbonaramoth, fig.cap='(ref:blackmoth)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/evolution/Biston.betularia.f.carbonaria.7209.jpg")
+```
+
+The dark-coloured or melanic form of the peppered moth (var. carbonaria) was not known before 1811. After field collection in 1848 from Manchester, an industrial city in England, the frequency of the variety was found to have increased drastically. By the end of the 19th century it almost completely outnumbered the original light-coloured type (var. typica), with a record of 98% in 1895. The evolutionary importance of the moth was only speculated upon during Darwin's lifetime. It was 14 years after Darwin's death, in 1896, that J.W. Tutt presented it as a case of natural selection. Due to this, the idea widely spread, and more people believed in Darwin's theory.
+
+Bernard Kettlewell was the first to investigate the evolutionary mechanism behind peppered moth adaptation, between 1953 and 1956. He found that a light-coloured body was an effective camouflage in a clean environment, such as in Dorset, while the dark colour was beneficial in a polluted environment like in Birmingham. This selective survival was due to birds which easily caught dark moths on clean trees, and white moths on trees darkened with soot. The story, supported by Kettlewell's experiment, became the canonical example of Darwinian evolution and evidence for natural selection used in standard textbooks.
+
+(ref:moths) [Typica and carbonaria morphs on the same tree.](https://commons.wikimedia.org/wiki/File:Lichte_en_zwarte_versie_berkenspanner.jpg) The light-coloured typica (below the bark's scar) is nearly invisible on this pollution-free tree, camouflaging it from predators.
+
+```{r mothstree, fig.cap='(ref:moths)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/evolution/Lichte_en_zwarte_versie_berkenspanner.jpg")
+```
+
+However, failure to replicate the experiment and criticism of Kettlewell's methods by Theodore David Sargent in the late 1960s led to general skepticism. When Judith Hooper's Of Moths and Men was published in 2002, Kettlewell's story was more sternly attacked, accused of fraud, and became widely disregarded. The criticism became a major argument for creationists. Michael Majerus was the principal defender. His seven-year experiment beginning in 2001, the most elaborate of its kind in population biology, the results of which were published posthumously in 2012, vindicated Kettlewell's work in great detail. This restored peppered moth evolution as "the most direct evidence", and "one of the clearest and most easily understood examples of Darwinian evolution in action".
+
+Before the Industrial Revolution, the black peppered moth was rare. The first black specimen (of unknown origin) was kept in the University of Oxford in 1811. The first live specimen was caught by R.S. Edleston in Manchester, England in 1848, but he reported this only 16 years later in 1864 in the journal Entomologist. Edleston notes that by 1864 it was the more common type of moth in his garden in Manchester. The light-bodied moths were able to blend in with the light-coloured lichens and tree bark, and the less common black moth was more likely to be eaten by birds. As a result of the common light-coloured lichens and English trees, therefore, the light-coloured moths were much more effective at hiding from predators, and the frequency of the dark allele was about 0.01%.
+
+During the early decades of the Industrial Revolution in England, the countryside between London and Manchester became blanketed with soot from the new coal-burning factories. Many of the light-bodied lichens died from sulphur dioxide emissions, and the trees became darkened. This led to an increase in bird predation for light-coloured moths, as they no longer blended in as well in their polluted ecosystem: indeed, their bodies now dramatically contrasted with the colour of the bark. Dark-coloured moths, on the other hand, were camouflaged very well by the blackened trees. The population of dark-coloured moth rapidly increased. By the mid-19th century, the number of dark-coloured moths had risen noticeably, and by 1895, the percentage of dark-coloured moths in Manchester was reported at 98%, a dramatic change (of almost 100%) from the original frequency. This effect of industrialization in body colour led to the coining of the term "industrial melanism".
+
+The implication that industrial melanism could be evidence supporting Charles Darwin's theory of natural selection was noticed during his lifetime. Albert Brydges Farn (1841–1921), a British entomologist, wrote to Darwin on 18 November 1878 to discuss his observation of colour variations in the Annulet moth (then Gnophos obscurata, now Charissa obscurata). He noted the existence of dark moths in peat in the New Forest, brown moths on clay and red soil in Herefordshire, and white moths on chalk cliffs in Lewes, then suggested this variation was an example of "survival of the fittest". He told Darwin that he had found dark moths on a chalk slope where the foliage had been blackened by smoke from lime kilns, and he had also heard that white moths had become less common at Lewes after lime kilns had been in operation for a few years. Darwin does not seem to have responded to this information, possibly because he thought natural selection would be a much slower process. A scientific explanation of moth colouration was only published in 1896, 14 years after Darwin's death, when J.W. Tutt explicitly linked peppered moth melanism to natural selection.
+
 ## Natural selection
 
 Evolution by means of natural selection is the process by which traits that enhance survival and reproduction become more common in successive generations of a population. It has often been called a "self-evident" mechanism because it necessarily follows from three simple facts:
@@ -155,6 +189,12 @@ An adaptive trait is an aspect of the developmental pattern of the organism whic
 Adaptation may cause either the gain of a new feature, or the loss of an ancestral feature. An example that shows both types of change is bacterial adaptation to antibiotic selection, with genetic changes causing antibiotic resistance by both modifying the target of the drug, or increasing the activity of transporters that pump the drug out of the cell. Other striking examples are the bacteria Escherichia coli evolving the ability to use citric acid as a nutrient in a long-term laboratory experiment, Flavobacterium evolving a novel enzyme that allows these bacteria to grow on the by-products of nylon manufacturing, and the soil bacterium Sphingobium evolving an entirely new metabolic pathway that degrades the synthetic pesticide pentachlorophenol. An interesting but still controversial idea is that some adaptations might increase the ability of organisms to generate genetic diversity and adapt by natural selection (increasing organisms' evolvability).
 
 Adaptation occurs through the gradual modification of existing structures. Consequently, structures with similar internal organisation may have different functions in related organisms. This is the result of a single ancestral structure being adapted to function in different ways. The bones within bat wings, for example, are very similar to those in mice feet and primate hands, due to the descent of all these structures from a common mammalian ancestor. However, since all living organisms are related to some extent, even organs that appear to have little or no structural similarity, such as arthropod, squid and vertebrate eyes, or the limbs and wings of arthropods and vertebrates, can depend on a common set of homologous genes that control their assembly and function; this is called deep homology.
+
+(ref:hombone) [Homologous bones in the limbs of tetrapods. The bones of these animals have the same basic structure, but have been adapted for specific uses.](https://commons.wikimedia.org/wiki/File:Homology_vertebrates-en.svg)
+
+```{r homologousbones, fig.cap='(ref:hombone)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/evolution/Homology_vertebrates-en.svg")
+```
 
 During evolution, some structures may lose their original function and become vestigial structures. Such structures may have little or no function in a current species, yet have a clear function in ancestral species, or other closely related species. Examples include pseudogenes, the non-functional remains of eyes in blind cave-dwelling fish, wings in flightless birds, the presence of hip bones in whales and snakes, and sexual traits in organisms that reproduce via asexual reproduction. Examples of vestigial structures in humans include wisdom teeth, the coccyx, the vermiform appendix, and other behavioural vestiges such as goose bumps and primitive reflexes.
 

@@ -128,11 +128,9 @@ cellcomp <-  as_tibble(read.csv("data/cell_comparison.csv"))
 knitr::kable(cellcomp, col.names = c("", "Prokaryotes", "Eukaryotes"), digits = 2, align = 'lll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
-## Subcellular Components
-
 All cells, whether prokaryotic or eukaryotic, have a membrane that envelops the cell, regulates what moves in and out (selectively permeable), and maintains the electric potential of the cell. Inside the membrane, the cytoplasm takes up most of the cell's volume. All cells (except red blood cells which lack a cell nucleus and most organelles to accommodate maximum space for hemoglobin) possess DNA, the hereditary material of genes, and RNA, containing the information necessary to build various proteins such as enzymes, the cell's primary machinery. There are also other kinds of biomolecules in cells. This article lists these primary cellular components, then briefly describes their function.
 
-### The Cell Membrane
+## The Cell Membrane
 
 
 The cell membrane, or plasma membrane, is a biological membrane that surrounds the cytoplasm of a cell. In animals, the plasma membrane is the outer boundary of the cell, while in plants and prokaryotes it is usually covered by a cell wall. This membrane serves to separate and protect a cell from its surrounding environment and is made mostly from a double layer of phospholipids, which are amphiphilic (partly hydrophobic and partly hydrophilic). Hence, the layer is called a phospholipid bilayer, or sometimes a fluid mosaic membrane. Embedded within this membrane is a macromolecular structure called the porosome the universal secretory portal in cells and a variety of protein molecules that act as channels andpumps that move different molecules into and out of the cell. The membrane is semi-permeable, and selectively permeable, in that it can either let a substance (molecule or ion) pass through freely, pass through to a limited extent or not pass through at all. Cell surface membranes also contain receptor proteins that allow cells to detect external signaling molecules such as hormones.
@@ -143,7 +141,7 @@ The cell membrane, or plasma membrane, is a biological membrane that surrounds t
 knitr::include_graphics("./figures/cells/Cell_membrane_detailed_diagram_en.svg")
 ```
 
-### The Cytoskeleton
+## The Cytoskeleton
 
 The cytoskeleton is a complex, dynamic network of interlinking protein filaments present in the cytoplasm of all cells, including bacteria and archaea. It extends from the cell nucleus to the cell membrane and is composed of similar proteins in the various organisms. In eukaryotes, it is composed of three main components, microfilaments, intermediate filaments and microtubules, and these are all capable of rapid growth or disassembly dependent on the cell's requirements.
 
@@ -186,7 +184,7 @@ knitr::include_graphics("./figures/cells/Microtubule_Structure.svg")
 In nine triplet sets (star-shaped), they form the centrioles, and in nine doublets oriented about two additional microtubules (wheel-shaped), they form cilia and flagella. The latter formation is commonly referred to as a "9+2" arrangement, wherein each doublet is connected to another by the protein dynein. As both flagella and cilia are structural components of the cell, and are maintained by microtubules, they can be considered part of the cytoskeleton. There are two types of cilia: motile and non-motile cilia. Cilia are short and more numerous than flagella. The motile cilia have a rhythmic waving or beating motion compared to the non-motile cilia which receive sensory information for the cell; processing signals from the other cells or the fluids surrounding it. Additionally, the microtubules control the beating (movement) of the cilia and flagella. Also, the dynein arms attached to the microtubules function as the molecular motors. The motion of the cilia and flagella is created by the microtubules sliding past one another, which requires ATP.
 Cytoplasmic streaming, also known as cyclosis, is the active movement of a cell’s contents along the components of the cytoskeleton. While mainly seen in plants, all cell types use this process for transportation of waste, nutrients, and organelles to other parts of the cell.  Plant and algae cells are generally larger than many other cells; so cytoplasmic streaming is important in these types of cells. This is because the cell’s extra volume requires cytoplasmic streaming in order to move organelles throughout the entire cell. Organelles move along microfilaments in the cytoskeleton driven by myosin motors binding and pushing along actin filament bundles.
 
-### The Genetic Material
+## The Genetic Material
 
 Two different kinds of genetic material exist: deoxyribonucleic acid (DNA) and ribonucleic acid (RNA). Cells use DNA for their long-term information storage. The biological information contained in an organism is encoded in its DNA sequence. RNA is used for information transport (e.g., mRNA) and enzymatic functions (e.g., ribosomal RNA). Transfer RNA (tRNA) molecules are used to add amino acids during protein translation.
 
@@ -196,7 +194,7 @@ A human cell has genetic material contained in the cell nucleus (the nuclear gen
 
 Foreign genetic material (most commonly DNA) can also be artificially introduced into the cell by a process called transfection. This can be transient, if the DNA is not inserted into the cell's genome, or stable, if it is. Certain viruses also insert their genetic material into the genome.
 
-### Organelles of Eukaryotic Cells
+## Organelles of Eukaryotic Cells
 
 Organelles are parts of the cell which are adapted and/or specialized for carrying out one or more vital functions, analogous to the organs of the human body (such as the heart, lung, and kidney, with each organ performing a different function). Both eukaryotic and prokaryotic cells have organelles, but prokaryotic organelles are generally simpler and are not membrane-bound.
 
@@ -403,7 +401,7 @@ knitr::include_graphics("./figures/cells/Endomembrane_system_diagram_en.svg")
 knitr::include_graphics("./figures/translation/human_ribosome.png")
 ```
 
-### Structures Outside The Cell Membrane
+## Structures Outside The Cell Membrane
 
 Many cells also have structures which exist wholly or partially outside the cell membrane. These structures are notable because they are not protected from the external environment by the semipermeable cell membrane. In order to assemble these structures, their components must be carried across the cell membrane by export processes.
 
@@ -423,7 +421,7 @@ DNA replication, or the process of duplicating a cell's genome, always happens w
 
 In meiosis, the DNA is replicated only once, while the cell divides twice. DNA replication only occurs before meiosis I. DNA replication does not occur when the cells divide the second time, in meiosis II. Replication, like all cellular activities, requires specialized proteins for carrying out the job.
 
-## DNA repair
+## DNA Repair
 
 In general, cells of all organisms contain enzyme systems that scan their DNA for damages and carry out repair processes when damages are detected. Diverse repair processes have evolved in organisms ranging from bacteria to humans. The widespread prevalence of these repair processes indicates the importance of maintaining cellular DNA in an undamaged state in order to avoid cell death or errors of replication due to damages that could lead to mutation. E. coli bacteria are a well-studied example of a cellular organism with diverse well-defined DNA repair processes. These include: (1) nucleotide excision repair, (2) DNA mismatch repair, (3) non-homologous end joining of double-strand breaks, (4) recombinational repair and (5) light-dependent repair (photoreactivation).
 

@@ -32,6 +32,12 @@ Most animals rely on the biomass and energy produced by plants through photosynt
 
 Animals originally evolved in the sea. Lineages of arthropods colonised land around the same time as land plants, probably between 510–471 million years ago during the Late Cambrian or Early Ordovician. Vertebrates such as the lobe-finned fish Tiktaalik started to move on to land in the late Devonian, about 375 million years ago. Animals occupy virtually all of earth's habitats and microhabitats, including salt water, hydrothermal vents, fresh water, hot springs, swamps, forests, pastures, deserts, air, and the interiors of animals, plants, fungi and rocks. Animals are however not particularly heat tolerant; very few of them can survive at constant temperatures above 50 °C (122 °F). Only very few species of a
 
+(ref:tikta) [Tiktaalik, ≈375 Ma](https://commons.wikimedia.org/wiki/File:Tiktaalik_BW.jpg)
+
+```{r tiktaalik, fig.cap='(ref:tikta)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Tiktaalik_BW.jpg")
+```
+
 Animals (mostly nematodes) inhabit the most extreme cold deserts of continental Antarctica.
 
 The blue whale (Balaenoptera musculus) is the largest animal that has ever lived, weighing up to at least 190 tonnes and measuring up to 33.6 metres (110 ft) long. The largest extant terrestrial animal is the African bush elephant (Loxodonta africana), weighing up to 12.25 tonnes and measuring up to 10.67 metres (35.0 ft) long. The largest terrestrial animals that ever lived were titanosaur sauropod dinosaurs such as Argentinosaurus, which may have weighed as much as 73 tonnes. Several animals are microscopic; some Myxozoa (obligate parasites within the Cnidaria) never grow larger than 20 µm, and one of the smallest species (Myxobolus shekel) is no more than 8.5 µm when fully grown.
