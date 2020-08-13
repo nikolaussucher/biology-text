@@ -392,7 +392,7 @@ Within each protoplasmic strand, the cytoplasmic contents rapidly stream. If one
 (ref:dicfruit) [Dictyostelium Fruiting Body](https://commons.wikimedia.org/wiki/File:Dictyostelium_Fruiting_Bodies.JPG) Dictyostelium is a genus of single- and multi-celled eukaryotic, phagotrophic bacterivores. Though they are Protista and in no way fungal, they traditionally are known as "slime molds". They are present in most terrestrial ecosystems as a normal and often abundant component of the soil microflora, and play an important role in the maintenance of balanced bacterial populations in soils.
 
 <div class="figure" style="text-align: center">
-<img src="./figures//" alt="(ref:dicfruit)" width="70%" />
+<img src="./figures/protista/Dictyostelium_Fruiting_Bodies.jpg" alt="(ref:dicfruit)" width="70%" />
 <p class="caption">(\#fig:dictfruiting)(ref:dicfruit)</p>
 </div>
 

@@ -11,13 +11,6 @@ Animals (from the Latin animalis, meaning having breath, having soul or living b
 
 Most living animal species are in Bilateria, a clade whose members have a bilaterally symmetric body plan. The Bilateria include the protostomes—in which many groups of invertebrates are found, such as nematodes, arthropods, and molluscs—and the deuterostomes, containing both the echinoderms as well as the chordates, the latter containing the vertebrates. Life forms interpreted as early animals were present in the Ediacaran biota of the late Precambrian. Many modern animal phyla became clearly established in the fossil record as marine species during the Cambrian explosion, which began around 542 million years ago. 6,331 groups of genes common to all living animals have been identified; these may have arisen from a single common ancestor that lived 650 million years ago.
 
-(ref:edia) [Dickinsonia costata from the Ediacaran biota (c. 635–542 MYA) is one of the earliest animal species known.](https://commons.wikimedia.org/wiki/File:DickinsoniaCostata.jpg)
-
-<div class="figure" style="text-align: center">
-<img src="./figures/animals/DickinsoniaCostata.jpg" alt="(ref:edia)" width="70%" />
-<p class="caption">(\#fig:ediacara)(ref:edia)</p>
-</div>
-
 Historically, Aristotle divided animals into those with blood and those without. Carl Linnaeus created the first hierarchical biological classification for animals in 1758 with his Systema Naturae, which Jean-Baptiste Lamarck expanded into 14 phyla by 1809. In 1874, Ernst Haeckel divided the animal kingdom into the multicellular Metazoa (synonymous for Animalia) and the Protozoa, single-celled organisms no longer considered animals. In modern times, the biological classification of animals relies on advanced techniques, such as molecular phylogenetics, which are effective at demonstrating the evolutionary relationships between animal taxa.
 
 Humans make use of many other animal species, such as for food (including meat, milk, and eggs), for materials (such as leather and wool), and also as pets, and for transports, as working animals. Dogs have been used in hunting, while many terrestrial and aquatic animals were hunted for sports. Non-human animals have appeared in art from the earliest times and are featured in mythology and religion.
@@ -40,6 +33,21 @@ Most animals rely on the biomass and energy produced by plants through photosynt
 
 Animals originally evolved in the sea. Lineages of arthropods colonised land around the same time as land plants, probably between 510–471 million years ago during the Late Cambrian or Early Ordovician. Vertebrates such as the lobe-finned fish Tiktaalik started to move on to land in the late Devonian, about 375 million years ago. Animals occupy virtually all of earth's habitats and microhabitats, including salt water, hydrothermal vents, fresh water, hot springs, swamps, forests, pastures, deserts, air, and the interiors of animals, plants, fungi and rocks. Animals are however not particularly heat tolerant; very few of them can survive at constant temperatures above 50 °C (122 °F). Only very few species of a
 
+Animals (mostly nematodes) inhabit the most extreme cold deserts of continental Antarctica.
+
+The blue whale (Balaenoptera musculus) is the largest animal that has ever lived, weighing up to at least 190 tonnes and measuring up to 33.6 metres (110 ft) long. The largest extant terrestrial animal is the African bush elephant (Loxodonta africana), weighing up to 12.25 tonnes and measuring up to 10.67 metres (35.0 ft) long. The largest terrestrial animals that ever lived were titanosaur sauropod dinosaurs such as Argentinosaurus, which may have weighed as much as 73 tonnes. Several animals are microscopic; some Myxozoa (obligate parasites within the Cnidaria) never grow larger than 20 µm, and one of the smallest species (Myxobolus shekel) is no more than 8.5 µm when fully grown.
+
+The oldest animals are found in the Ediacaran biota, towards the end of the Precambrian, around 610 million years ago. It had long been doubtful whether these included animals, but the discovery of the animal lipid cholesterol in fossils of Dickinsonia establishes that these were indeed animals. Animals are thought to have originated under low-oxygen conditions, suggesting that they were capable of living entirely by anaerobic respiration, but as they became specialized for aerobic metabolism they became fully dependent on oxygen in their environments.
+
+(ref:edia) [Dickinsonia costata from the Ediacaran biota (c. 635–542 MYA) is one of the earliest animal species known.](https://commons.wikimedia.org/wiki/File:DickinsoniaCostata.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/DickinsoniaCostata.jpg" alt="(ref:edia)" width="70%" />
+<p class="caption">(\#fig:ediacara)(ref:edia)</p>
+</div>
+
+Many animal phyla first appear in the fossil record during the Cambrian explosion, starting about 542 million years ago, in beds such as the Burgess shale. Extant phyla in these rocks include molluscs, brachiopods, onychophorans, tardigrades, arthropods, echinoderms and hemichordates, along with numerous now-extinct forms such as the predatory Anomalocaris. The apparent suddenness of the event may however be an artefact of the fossil record, rather than showing that all these animals appeared simultaneously.
+
 (ref:anoma) [Anomalocaris canadensis](https://commons.wikimedia.org/wiki/File:Anomalocaris2019.jpg) is one of the many animal species that emerged in the Cambrian explosion, starting some 542 million years ago, and found in the fossil beds of the Burgess shale.
 
 <div class="figure" style="text-align: center">
@@ -47,17 +55,16 @@ Animals originally evolved in the sea. Lineages of arthropods colonised land aro
 <p class="caption">(\#fig:amomalocaris)(ref:anoma)</p>
 </div>
 
-nimals (mostly nematodes) inhabit the most extreme cold deserts of continental Antarctica.
-
-The blue whale (Balaenoptera musculus) is the largest animal that has ever lived, weighing up to at least 190 tonnes and measuring up to 33.6 metres (110 ft) long. The largest extant terrestrial animal is the African bush elephant (Loxodonta africana), weighing up to 12.25 tonnes and measuring up to 10.67 metres (35.0 ft) long. The largest terrestrial animals that ever lived were titanosaur sauropod dinosaurs such as Argentinosaurus, which may have weighed as much as 73 tonnes. Several animals are microscopic; some Myxozoa (obligate parasites within the Cnidaria) never grow larger than 20 µm, and one of the smallest species (Myxobolus shekel) is no more than 8.5 µm when fully grown.
-
-The oldest animals are found in the Ediacaran biota, towards the end of the Precambrian, around 610 million years ago. It had long been doubtful whether these included animals, but the discovery of the animal lipid cholesterol in fossils of Dickinsonia establishes that these were indeed animals. Animals are thought to have originated under low-oxygen conditions, suggesting that they were capable of living entirely by anaerobic respiration, but as they became specialized for aerobic metabolism they became fully dependent on oxygen in their environments.
-
-Many animal phyla first appear in the fossil record during the Cambrian explosion, starting about 542 million years ago, in beds such as the Burgess shale. Extant phyla in these rocks include molluscs, brachiopods, onychophorans, tardigrades, arthropods, echinoderms and hemichordates, along with numerous now-extinct forms such as the predatory Anomalocaris. The apparent suddenness of the event may however be an artefact of the fossil record, rather than showing that all these animals appeared simultaneously.
-
 Some palaeontologists have suggested that animals appeared much earlier than the Cambrian explosion, possibly as early as 1 billion years ago. Trace fossils such as tracks and burrows found in the Tonian period may indicate the presence of triploblastic worm-like animals, roughly as large (about 5 mm wide) and complex as earthworms. However, similar tracks are produced today by the giant single-celled protist Gromia sphaerica, so the Tonian trace fossils may not indicate early animal evolution. Around the same time, the layered mats of microorganisms called stromatolites decreased in diversity, perhaps due to grazing by newly-evolved animals.
 
 Animals are monophyletic, meaning they are derived from a common ancestor. Animals are sister to the Choanoflagellata, with which they form the Choanozoa. The most basal animals, the Porifera, Ctenophora, Cnidaria, and Placozoa, have body plans that lack bilateral symmetry. Their relationships are still disputed; the sister group to all other animals could be the Porifera or the Ctenophora, both of which lack hox genes, important in body plan development.
+
+(ref:placo) The Placozoa are a basal form of free-living (non-parasitic) multicellular organism.[1] They are the simplest in structure of all animals. Three genera have been found: the classical [Trichoplax adhaerens](https://commons.wikimedia.org/wiki/File:Trichoplax_adhaerens_photograph.png), Hoilungia hongkongensis, and Polyplacotoma mediterranea.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Trichoplax_adhaerens_photograph.png" alt="(ref:placo)" width="70%" />
+<p class="caption">(\#fig:trichoplax)(ref:placo)</p>
+</div>
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>(\#tab:animalphyla)Estimated numbers of described extant species for the animal groups with the largest numbers of species, along with their principal habitats (terrestrial, fresh water, and marine), and free-living or parasitic ways of life.</caption>
@@ -190,19 +197,145 @@ These genes are found in the Placozoa and the higher animals, the Bilateria. 6,3
 
 Several animal phyla lack bilateral symmetry. Among these, the sponges (Porifera) probably diverged first, representing the oldest animal phylum. Sponges lack the complex organization found in most other animal phyla; their cells are differentiated, but in most cases not organised into distinct tissues. They typically feed by drawing in water through pores.
 
+(ref:sponges) [Sponge biodiversity and morphotypes at the lip of a wall site in 60 feet (20 m) of water. Included are the yellow tube sponge, Aplysina fistularis, the purple vase sponge, Niphates digitalis, the red encrusting sponge, Spirastrella coccinea [nl], and the gray rope sponge, Callyspongia sp.](https://commons.wikimedia.org/wiki/File:Reef3859_-_Flickr_-_NOAA_Photo_Library.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Reef3859_-_Flickr_-_NOAA_Photo_Library.jpg" alt="(ref:sponges)" width="70%" />
+<p class="caption">(\#fig:spongediversity)(ref:sponges)</p>
+</div>
+
 The Ctenophora (comb jellies) and Cnidaria (which includes jellyfish, sea anemones, and corals) are radially symmetric and have digestive chambers with a single opening, which serves as both mouth and anus. Animals in both phyla have distinct tissues, but these are not organised into organs. They are diploblastic, having only two main germ layers, ectoderm and endoderm. The tiny placozoans are similar, but they do not have a permanent digestive chamber.
+
+(ref:cteno) [Pelagic (open ocean) ctenophores (a) Beroe ovata, (b) Euplokamis sp., (c) Nepheloctena sp., (d) Bathocyroe fosteri, (e) Mnemiopsis leidyi, and (f) Ocyropsis sp.](https://commons.wikimedia.org/wiki/File:Pelagic_ctenophores.png) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Pelagic_ctenophores.png" alt="(ref:cteno)" width="70%" />
+<p class="caption">(\#fig:ctenophora)(ref:cteno)</p>
+</div>
+
+(ref:cnida) [Four examples of Cnidaria:](https://commons.wikimedia.org/wiki/File:Cnidaria.png) A jellyfish Chrysaora melanaster,  a gorgonian Annella mollis, a rocky coral Acropora cervicornis, and a sea anemone Nemanthus annamensis.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Cnidaria.png" alt="(ref:cnida)" width="70%" />
+<p class="caption">(\#fig:cnidaria)(ref:cnida)</p>
+</div>
 
 ## Bilaterian animals
 
 The remaining animals, the great majority—comprising some 29 phyla and over a million species—form a clade, the Bilateria. The body is triploblastic, with three well-developed germ layers, and their tissues form distinct organs. The digestive chamber has two openings, a mouth and an anus, and there is an internal body cavity, a coelom or pseudocoelom. Animals with this bilaterally symmetric body plan and a tendency to move in one direction have a head end (anterior) and a tail end (posterior) as well as a back (dorsal) and a belly (ventral); therefore they also have a left side and a right side.
 
+(ref:bilat) [Diversity of bilaterians.](https://commons.wikimedia.org/wiki/File:Animal_diversity_October_2007.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Animal_diversity_October_2007.jpg" alt="(ref:bilat)" width="70%" />
+<p class="caption">(\#fig:bilateriandiversity)(ref:bilat)</p>
+</div>
+
 Having a front end means that this part of the body encounters stimuli, such as food, favouring cephalisation, the development of a head with sense organs and a mouth. Many bilaterians have a combination of circular muscles that constrict the body, making it longer, and an opposing set of longitudinal muscles, that shorten the body; these enable soft-bodied animals with a hydrostatic skeleton to move by peristalsis. They also have a gut that extends through the basically cylindrical body from mouth to anus. Many bilaterian phyla have primary larvae which swim with cilia and have an apical organ containing sensory cells. However, there are exceptions to each of these characteristics; for example, adult echinoderms are radially symmetric (unlike their larvae), while some parasitic worms have extremely simplified body structures.
 
+(ref:bibod) [Idealised bilaterian body plan.](https://commons.wikimedia.org/wiki/File:Bilaterian_body_plan.svg) With an elongated body and a direction of movement the animal has head and tail ends. Sense organs and mouth form the basis of the head. Opposed circular and longitudinal muscles enable peristaltic motion.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Bilaterian_body_plan.svg" alt="(ref:bipod)" width="70%" />
+<p class="caption">(\#fig:bilaterianbodyplan)(ref:bipod)</p>
+</div>
+
 Genetic studies have considerably changed zoologists' understanding of the relationships within the Bilateria. Most appear to belong to two major lineages, the protostomes and the deuterostomes. The basalmost bilaterians are the Xenacoelomorpha.
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> Sponges </th>
+   <th style="text-align:left;"> Cnidarians </th>
+   <th style="text-align:left;"> Ctenophores </th>
+   <th style="text-align:left;"> Bilateria </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Cnidocytes </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Colloblasts </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> No </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Digestive and circulatory organs </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Number of main cell layers </td>
+   <td style="text-align:left;"> Two, with jelly-like layer between them </td>
+   <td style="text-align:left;"> Three </td>
+   <td style="text-align:left;"> Two or Three </td>
+   <td style="text-align:left;"> Three </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cells in each layer bound together </td>
+   <td style="text-align:left;"> cell-adhesion molecules, but no basement membranes except Homoscleromorpha. </td>
+   <td style="text-align:left;"> inter-cell connections; basement membranes </td>
+   <td style="text-align:left;"> inter-cell connections; basement membranes </td>
+   <td style="text-align:left;"> inter-cell connections; basement membranes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Sensory organs </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Number of cells in middle "jelly" layer </td>
+   <td style="text-align:left;"> Many </td>
+   <td style="text-align:left;"> Few </td>
+   <td style="text-align:left;"> Few </td>
+   <td style="text-align:left;"> (Not applicable) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cells in outer layers can move inwards and change functions </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> (Not applicable) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Nervous system </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes, simple </td>
+   <td style="text-align:left;"> Yes, simple </td>
+   <td style="text-align:left;"> Simple to complex </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Muscles </td>
+   <td style="text-align:left;"> None </td>
+   <td style="text-align:left;"> Mostly epitheliomuscular </td>
+   <td style="text-align:left;"> Mostly myoepithelial </td>
+   <td style="text-align:left;"> Mostly myocytes </td>
+  </tr>
+</tbody>
+</table>
 
 ## Protostomes and deuterostomes
 
 Protostomes and deuterostomes differ in several ways. Early in development, deuterostome embryos undergo radial cleavage during cell division, while many protostomes (the Spiralia) undergo spiral cleavage. Animals from both groups possess a complete digestive tract, but in protostomes the first opening of the embryonic gut develops into the mouth, and the anus forms secondarily. In deuterostomes, the anus forms first while the mouth develops secondarily. Most protostomes have schizocoelous development, where cells simply fill in the interior of the gastrula to form the mesoderm. In deuterostomes, the mesoderm forms by enterocoelic pouching, through invagination of the endoderm.
+
+(ref:prodeu) [The bilaterian gut develops in two ways. In many protostomes, the blastopore develops into the mouth, while in deuterostomes it becomes the anus.](https://commons.wikimedia.org/wiki/File:Protovsdeuterostomes.svg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Protovsdeuterostomes.svg" alt="(ref:prodeu)" width="70%" />
+<p class="caption">(\#fig:protovsdeutero)(ref:prodeu)</p>
+</div>
 
 The main deuterostome phyla are the Echinodermata and the Chordata. Echinoderms are exclusively marine and include starfish, sea urchins, and sea cucumbers. The chordates are dominated by the vertebrates (animals with backbones), which consist of fishes, amphibians, reptiles, birds, and mammals. The deuterostomes also include the Hemichordata (acorn worms).
 
@@ -251,6 +384,13 @@ The whole process needs to be coordinated in time and how this is controlled is 
 ## Metamorphosis
 
 Developmental processes are very evident during the process of metamorphosis. This occurs in various types of animal. Well-known examples are seen in frogs, which usually hatch as a tadpole and metamorphoses to an adult frog, and certain insects which hatch as a larva and then become remodeled to the adult form during a pupal stage.
+
+(ref:metamorph) [Two types of metamorphosis are shown.](https://commons.wikimedia.org/wiki/File:Holometabolous_vs._Hemimetabolous.svg) In a complete (holometabolous) metamorphosis the insect passes through four distinct phases, which produce an adult that does not resemble the larva. In an incomplete (hemimetabolous) metamorphosis an insect does not go through a full transformation, but instead transitions from a nymph to an adult by molting its exoskeleton as it grows.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Holometabolous_vs._Hemimetabolous.svg" alt="(ref:metamorph)" width="70%" />
+<p class="caption">(\#fig:metamorphosis)(ref:metamorph)</p>
+</div>
 
 All the developmental processes listed above occur during metamorphosis. Examples that have been especially well studied include tail loss and other changes in the tadpole of the frog Xenopus, and the biology of the imaginal discs, which generate the adult body parts of the fly Drosophila melanogaster.
 
@@ -380,6 +520,14 @@ In 2000, Martin Pickford and Brigitte Senut discovered, in the Tugen Hills of Ke
 
 Anthropologists in the 1980s were divided regarding some details of reproductive barriers and migratory dispersals of the genus Homo. Subsequently, genetics has been used to investigate and resolve these issues. According to the Sahara pump theory evidence suggests that the genus Homo have migrated out of Africa at least three and possibly four times (e.g. Homo erectus, Homo heidelbergensis and two or three times for Homo sapiens). Recent evidence suggests these dispersals are closely related to fluctuating periods of climate change.
 
+(ref:humevo) [A model of the evolution of the genus Homo](https://en.wikipedia.org/wiki/Human_evolution#/media/File:Homo_lineage_2017update.svg) over the last 2 million years (vertical axis). The rapid "Out of Africa" expansion of H. sapiens is indicated at the top of the diagram, with admixture indicated with Neanderthals, Denisovans, and unspecified archaic African hominins. Late survival of robust australopithecines (Paranthropus) alongside Homo until 1.2 Mya is indicated in purple.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Homo_lineage_2017update.svg" alt="(ref:humevo)" width="70%" />
+<p class="caption">(\#fig:humanevolution)(ref:humevo)</p>
+</div>
+
+
 Recent evidence suggests that humans may have left Africa half a million years earlier than previously thought. A joint Franco-Indian team has found human artifacts in the Siwalk Hills north of New Delhi dating back at least 2.6 million years. This is earlier than the previous earliest finding of genus Homo at Dmanisi, in Georgia, dating to 1.85 million years. Although controversial, tools found at a Chinese cave strengthen the case that humans used tools as far back as 2.48 million years ago. This suggests that the Asian "Chopper" tool tradition, found in Java and northern China may have left Africa before the appearance of the Acheulian hand axe.
 
 Up until the genetic evidence became available, there were two dominant models for the dispersal of modern humans. The multiregional hypothesis proposed that the genus Homo contained only a single interconnected population as it does today (not separate species), and that its evolution took place worldwide continuously over the last couple of million years. This model was proposed in 1988 by Milford H. Wolpoff. In contrast, the "out of Africa" model proposed that modern H. sapiens speciated in Africa recently (that is, approximately 200,000 years ago) and the subsequent migration through Eurasia resulted in the nearly complete replacement of other Homo species. This model has been developed by Chris B. Stringer and Peter Andrews.
@@ -391,6 +539,13 @@ Sequencing mtDNA and Y-DNA sampled from a wide range of indigenous populations r
 A broad study of African genetic diversity, headed by Sarah Tishkoff, found the San people had the greatest genetic diversity among the 113 distinct populations sampled, making them one of 14 "ancestral population clusters". The research also located a possible origin of modern human migration in southwestern Africa, near the coastal border of Namibia and Angola. The fossil evidence was insufficient for archaeologist Richard Leakey to resolve the debate about exactly where in Africa modern humans first appeared. Studies of haplogroups in Y-chromosomal DNA and mitochondrial DNA have largely supported a recent African origin. All the evidence from autosomal DNA also predominantly supports a Recent African origin. However, evidence for archaic admixture in modern humans, both in Africa and later, throughout Eurasia has recently been suggested by a number of studies.
 
 Recent sequencing of Neanderthal and Denisovan genomes shows that some admixture with these populations has occurred. All modern human groups outside Africa have 1–4% or (according to more recent research) about 1.5-2.6% Neanderthal alleles in their genome, and some Melanesians have an additional 4–6% of Denisovan alleles. These new results do not contradict the "out of Africa" model, except in its strictest interpretation, although they make the situation more complex. After recovery from a genetic bottleneck that some researchers speculate might be linked to the Toba supervolcano catastrophe, a fairly small group left Africa and interbred with Neanderthals, probably in the Middle East, on the Eurasian steppe or even in North Africa before their departure. Their still predominantly African descendants spread to populate the world. A fraction in turn interbred with Denisovans, probably in southeastern Asia, before populating Melanesia. HLA haplotypes of Neanderthal and Denisova origin have been identified in modern Eurasian and Oceanian populations. The Denisovan EPAS1 gene has also been found in Tibetan populations. Studies of the human genome using machine learning have identified additional genetic contributions in Eurasians from an "unknown" ancestral population potentially related to the Neanderthal-Denisovan lineage.
+
+(ref:neander) [Dermoplastic reconstruction of a Neanderthal](https://commons.wikimedia.org/wiki/File:Neandertaler_reconst.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Neandertaler_reconst.jpg" alt="(ref:neander)" width="70%" />
+<p class="caption">(\#fig:neanderthal)(ref:neander)</p>
+</div>
 
 There are still differing theories on whether there was a single exodus from Africa or several. A multiple dispersal model involves the Southern Dispersal theory, which has gained support in recent years from genetic, linguistic and archaeological evidence. In this theory, there was a coastal dispersal of modern humans from the Horn of Africa crossing the Bab el Mandib to Yemen at a lower sea level around 70,000 years ago. This group helped to populate Southeast Asia and Oceania, explaining the discovery of early human sites in these areas much earlier than those in the Levant. This group seems to have been dependent upon marine resources for their survival.
 
@@ -417,6 +572,13 @@ The question then of the relationship between these early fossil species and the
 The earliest member of the genus Homo is Homo habilis which evolved around 2.8 million years ago. Homo habilis is the first species for which we have positive evidence of the use of stone tools. They developed the Oldowan lithic technology, named after the Olduvai Gorge in which the first specimens were found. Some scientists consider Homo rudolfensis, a larger bodied group of fossils with similar morphology to the original H. habilis fossils, to be a separate species, while others consider them to be part of H. habilis—simply representing intraspecies variation, or perhaps even sexual dimorphism. The brains of these early hominins were about the same size as that of a chimpanzee, and their main adaptation was bipedalism as an adaptation to terrestrial living.
 
 During the next million years, a process of encephalization began and, by the arrival (about 1.9 million years ago) of Homo erectus in the fossil record, cranial capacity had doubled. Homo erectus were the first of the hominins to emigrate from Africa, and, from 1.8 to 1.3 million years ago, this species spread through Africa, Asia, and Europe. One population of H. erectus, also sometimes classified as a separate species Homo ergaster, remained in Africa and evolved into Homo sapiens. It is believed that these species, H. erectus and H. ergaster, were the first to use fire and complex tools.
+
+(ref:ergaster) [Replica of fossil skull of Homo ergaster (African Homo erectus). Fossil number Khm-Heu 3733 discovered in 1975 in Kenya.](https://commons.wikimedia.org/wiki/File:Homo_ergaster.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Homo_ergaster.jpg" alt="(ref:ergaster)" width="70%" />
+<p class="caption">(\#fig:homoergaster)(ref:ergaster)</p>
+</div>
 
 The earliest transitional fossils between H. ergaster/erectus and archaic H. sapiens are from Africa, such as Homo rhodesiensis. These descendants of African H. erectus spread through Eurasia from ca. 500,000 years ago, evolving into H. antecessor, H. heidelbergensis and H. neanderthalensis. The earliest fossils of anatomically modern humans are from the Middle Paleolithic, about 300–200,000 years ago such as the Herto and Omo remains of Ethiopia, Jebel Irhoud remains of Morocco, and Florisbad remains of South Africa; later fossils from Es Skhul cave in Israel and Southern Europe begin around 90,000 years ago (0.09 million years ago).
 
@@ -469,6 +631,13 @@ A new proposed species Australopithecus deyiremeda is claimed to have been disco
 ## Evolution of Genus Homo
 
 The earliest documented representative of the genus Homo is Homo habilis, which evolved around 2.8 million years ago, and is arguably the earliest species for which there is positive evidence of the use of stone tools. The brains of these early hominins were about the same size as that of a chimpanzee, although it has been suggested that this was the time in which the human SRGAP2 gene doubled, producing a more rapid wiring of the frontal cortex. During the next million years a process of rapid encephalization occurred, and with the arrival of Homo erectus and Homo ergaster in the fossil record, cranial capacity had doubled to 850 cm3. (Such an increase in human brain size is equivalent to each generation having 125,000 more neurons than their parents.) It is believed that Homo erectus and Homo ergaster were the first to use fire and complex tools, and were the first of the hominin line to leave Africa, spreading throughout Africa, Asia, and Europe between 1.3 to 1.8 million years ago.
+
+(ref:habilis) [Replica of fossil skull of Homo habilis. Fossil number KNM ER 1813, found at Koobi Fora, Kenya.](https://commons.wikimedia.org/wiki/File:Homo_habilis-KNM_ER_1813.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Homo_habilis-KNM_ER_1813.jpg" alt="(ref:habilis)" width="70%" />
+<p class="caption">(\#fig:homohabilis)(ref:habilis)</p>
+</div>
 
 According to the recent African origin of modern humans theory, modern humans evolved in Africa possibly from Homo heidelbergensis, Homo rhodesiensis or Homo antecessor and migrated out of the continent some 50,000 to 100,000 years ago, gradually replacing local populations of Homo erectus, Denisova hominins, Homo floresiensis, Homo luzonensis and Homo neanderthalensis. Archaic Homo sapiens, the forerunner of anatomically modern humans, evolved in the Middle Paleolithic between 400,000 and 250,000 years ago. Recent DNA evidence suggests that several haplotypes of Neanderthal origin are present among all non-African populations, and Neanderthals and other hominins, such as Denisovans, may have contributed up to 6% of their genome to present-day humans, suggestive of a limited interbreeding between these species. The transition to behavioral modernity with the development of symbolic culture, language, and specialized lithic technology happened around 50,000 years ago, according to some anthropologists, although others point to evidence that suggests that a gradual change in behavior took place over a longer time span.
 
@@ -560,6 +729,13 @@ Precisely when early humans started to use tools is difficult to determine, beca
 
 Many species make and use tools, but it is the human genus that dominates the areas of making and using more complex tools. The oldest known tools are flakes from West Turkana, Kenya, which date to 3.3 million years ago. The next oldest stone tools are from Gona, Ethiopia, and are considered the beginning of the Oldowan technology. These tools date to about 2.6 million years ago. A Homo fossil was found near some Oldowan tools, and its age was noted at 2.3 million years old, suggesting that maybe the Homo species did indeed create and use these tools. It is a possibility but does not yet represent solid evidence. The third metacarpal styloid process enables the hand bone to lock into the wrist bones, allowing for greater amounts of pressure to be applied to the wrist and hand from a grasping thumb and fingers. It allows humans the dexterity and strength to make and use complex tools. This unique anatomical feature separates humans from apes and other nonhuman primates, and is not seen in human fossils older than 1.8 million years.
 
+(ref:oldo) [Oldowan-tradition stone chopper.](https://commons.wikimedia.org/wiki/File:Oldowan_tradition_chopper.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Oldowan_tradition_chopper.jpg" alt="(ref:oldo)" width="70%" />
+<p class="caption">(\#fig:oldowan)(ref:oldo)</p>
+</div>
+
 Bernard Wood noted that Paranthropus co-existed with the early Homo species in the area of the "Oldowan Industrial Complex" over roughly the same span of time. Although there is no direct evidence which identifies Paranthropus as the tool makers, their anatomy lends to indirect evidence of their capabilities in this area. Most paleoanthropologists agree that the early Homo species were indeed responsible for most of the Oldowan tools found. They argue that when most of the Oldowan tools were found in association with human fossils, Homo was always present, but Paranthropus was not.
 
 In 1994, Randall Susman used the anatomy of opposable thumbs as the basis for his argument that both the Homo and Paranthropus species were toolmakers. He compared bones and muscles of human and chimpanzee thumbs, finding that humans have 3 muscles which are lacking in chimpanzees. Humans also have thicker metacarpals with broader heads, allowing more precise grasping than the chimpanzee hand can perform. Susman posited that modern anatomy of the human opposable thumb is an evolutionary response to the requirements associated with making and handling tools and that both species were indeed toolmakers.
@@ -575,6 +751,13 @@ Until about 50,000–40,000 years ago, the use of stone tools seems to have prog
 Around 50,000 BP, modern human culture started to evolve more rapidly. The transition to behavioral modernity has been characterized by some as a "Great Leap Forward", or as the "Upper Palaeolithic Revolution", due to the sudden appearance of distinctive signs of modern behavior and big game hunting in the archaeological record. Evidence of behavioral modernity significantly earlier also exists from Africa, with older evidence of abstract imagery, widened subsistence strategies, more sophisticated tools and weapons, and other "modern" behaviors, and many scholars have recently argued that the transition to modernity occurred sooner than previously believed. Some other scholars consider the transition to have been more gradual, noting that some features had already appeared among archaic African Homo sapiens since 300–200,000 years ago. Recent evidence suggests that the Australian Aboriginal population separated from the African population 75,000 years ago, and that they made a sea journey of up to 160 km 60,000 years ago, which may diminish the evidence of the Upper Paleolithic Revolution.
 
 Modern humans started burying their dead, using animal hides to make clothing, hunting with more sophisticated techniques (such as using trapping pits or driving animals off cliffs), and engaging in cave painting. As human culture advanced, different populations of humans introduced novelty to existing technologies: artifacts such as fish hooks, buttons, and bone needles show signs of variation among different populations of humans, something that had not been seen in human cultures prior to 50,000 BP. Typically, H. neanderthalensis populations do not vary in their technologies, although the Chatelperronian assemblages have been found to be Neanderthal innovations produced as a result of exposure to the Homo sapiens Aurignacian technologies.
+
+(ref:aurignac) [Aurignacian Culture bone tools (needdle, points and tools for punching holes), Hayonim Cave, 30000 BP (Before Present).](https://commons.wikimedia.org/wiki/File:Aurignacian_Culture_Bone_Tools,_Hayonim_Cave,_30000_BP.jpg) HaYonim Cave (Hebrew: מערת היונים, Me'arat HaYonim, lit. Cave of the Pigeons) is a cave located in a limestone bluff about 250 meters above modern sea level, in the Upper Galilee, Israel.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Aurignacian_Culture_Bone_Tools,_Hayonim_Cave,_30000_BP.jpg" alt="(ref:aurignac)" width="70%" />
+<p class="caption">(\#fig:aurignactools)(ref:aurignac)</p>
+</div>
 
 Among concrete examples of modern human behavior, anthropologists include specialization of tools, use of jewellery and images (such as cave drawings), organization of living space, rituals (for example, burials with grave gifts), specialized hunting techniques, exploration of less hospitable geographical areas, and barter trade networks. Debate continues as to whether a "revolution" led to modern humans ("the big bang of human consciousness"), or whether the evolution was more "gradual".
 
