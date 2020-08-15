@@ -5,10 +5,14 @@ In antiquity, the two lineages of animals and plants were recognized. They were 
 
 (ref:haeckeltree) ["Monophyletischer Stambaum der Organismen" from Generelle Morphologie der Organismen (1866) with the three branches Plantae, Protista, Animalia.](https://commons.wikimedia.org/wiki/File:Haeckel_arbol_bn.png) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/protista/Haeckel_arbol_bn.png" alt="(ref:haeckeltree)" width="70%" />
-<p class="caption">(\#fig:haeckel3kingdoms)(ref:haeckeltree)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/protista/Haeckel_arbol_bn} 
+
+}
+
+\caption{(ref:haeckeltree)}(\#fig:haeckel3kingdoms)
+\end{figure}
 
 The eukaryotes thus came to be composed of four kingdoms:
 
@@ -21,45 +25,33 @@ The protists were understood to be "primitive forms", and thus an evolutionary g
 
 A revised classification in 2012 recognizes five supergroups of eukaryotes as shown in Table \@ref(tab:eukaryote).
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Supergroup Name </th>
-   <th style="text-align:left;"> Organisms </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> Archaeplastida (or Primoplantae) </td>
-   <td style="text-align:left;"> Land plants, green algae, red algae, and glaucophytes </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SAR supergroup </td>
-   <td style="text-align:left;"> Stramenopiles (brown algae, diatoms, etcetera), Alveolata, and Rhizaria (Foraminifera, Radiolaria, and various other amoeboid protozoa) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Excavata </td>
-   <td style="text-align:left;"> Various flagellate protozoa </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Amoebozoa </td>
-   <td style="text-align:left;"> Most lobose amoeboids and slime molds </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Opisthokonta </td>
-   <td style="text-align:left;"> Animals, fungi, choanoflagellates, etcetera </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+\centering
+\begin{tabular}{ll}
+\toprule
+Supergroup Name & Organisms\\
+\midrule
+\rowcolor{gray!6}  Archaeplastida (or Primoplantae) & Land plants, green algae, red algae, and glaucophytes\\
+SAR supergroup & Stramenopiles (brown algae, diatoms, etcetera), Alveolata, and Rhizaria (Foraminifera, Radiolaria, and various other amoeboid protozoa)\\
+\rowcolor{gray!6}  Excavata & Various flagellate protozoa\\
+Amoebozoa & Most lobose amoeboids and slime molds\\
+\rowcolor{gray!6}  Opisthokonta & Animals, fungi, choanoflagellates, etcetera\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 A protist is any eukaryotic organism (one with cells containing a nucleus) that is not an animal, plant, or fungus. While it is likely that protists share a common ancestor (the last eukaryotic common ancestor), the exclusion of other eukaryotes means that protists do not form a natural group, or clade. So some protists may be more closely related to animals, plants, or fungi than they are to other protists; however, like algae, invertebrates, or protozoans, the grouping is used for convenience.
 
 (ref:prot) [A sampling of protists:](https://commons.wikimedia.org/wiki/File:Protist_collage_2.jpg) red algae (Chondrus crispus); brown algae (Giant Kelp); ciliate (Frontonia); golden algae (Dinobryon); Foraminifera (Radiolaria); parasitic flagellate (Giardia muris); pathogenic amoeba (Acanthamoeba); amoebozoan slime mold (Fuligo septica)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/protista/Protist_collage_2.jpg" alt="(ref:prot)" width="70%" />
-<p class="caption">(\#fig:protistacollage)(ref:prot)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/protista/Protist_collage_2} 
+
+}
+
+\caption{(ref:prot)}(\#fig:protistacollage)
+\end{figure}
 
 The classification of a separate kingdom to the animals and plants was first proposed by John Hogg in 1860 as the kingdom Protoctista; in 1866 Ernst Haeckel also proposed a third kingdom Protista as "the kingdom of primitive forms". Originally these also included prokaryotes, but with time these would be removed to a fourth kingdom Monera. In the popular five-kingdom scheme proposed by Robert Whittaker in 1969, the Protista was defined as eukaryotic "organisms which are unicellular or unicellular-colonial and which form no tissues", and the fifth kingdom Fungi was established.[c] In the five-kingdom system of Lynn Margulis, the term protist is reserved for microscopic organisms, while the more inclusive kingdom Protoctista (or protoctists) included certain large multicellular eukaryotes, such as kelp, red algae and slime molds. Others use the term protist interchangeably with Margulis's protoctist, to encompass both single-celled and multicellular eukaryotes, including those that form specialized tissues but do not fit into any of the other traditional kingdoms.
 
@@ -83,30 +75,17 @@ Systematists today do not treat Protista as a formal taxon, but the term "protis
 
 The taxonomy of protists is still changing. Newer classifications attempt to present monophyletic groups based on morphological (especially ultrastructural), biochemical (chemotaxonomy) and DNA sequence (molecular research) information. Because the protists as a whole are paraphyletic, new systems often split up or abandon the kingdom, instead treating the protist groups as separate lines of eukaryotes.
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Nutritional Type </th>
-   <th style="text-align:left;"> Source of Energy </th>
-   <th style="text-align:left;"> Source of Carbon </th>
-   <th style="text-align:left;"> Examples </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;">  Photoautotrophs  </td>
-   <td style="text-align:left;">  Sunlight  </td>
-   <td style="text-align:left;">  Organic compounds or carbon fixation </td>
-   <td style="text-align:left;">  Most algae  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;">  Chemoheterotrophs </td>
-   <td style="text-align:left;">  Organic compounds  </td>
-   <td style="text-align:left;">  Organic compounds  </td>
-   <td style="text-align:left;">  Apicomplexa, Trypanosomes or Amoebae  </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+\centering
+\begin{tabular}{llll}
+\toprule
+Nutritional Type & Source of Energy & Source of Carbon & Examples\\
+\midrule
+\rowcolor{gray!6}   Photoautotrophs  &  Sunlight  &  Organic compounds or carbon fixation &  Most algae \\
+ Chemoheterotrophs &  Organic compounds  &  Organic compounds  &  Apicomplexa, Trypanosomes or Amoebae \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ## Reproduction of Protists
 
@@ -186,10 +165,14 @@ Historically, the Protozoa were classified as "unicellular animals", as distinct
 
 (ref:apicom) [Composite image](https://commons.wikimedia.org/wiki/File:Apicomplexa_Composite_Image.png) of various Apicomplexan parasites showing Babesia microti in red blood cells (top left), toxoplasma gondii (top right), a septate eugregarine (bottom left), Lankesteria cystodytae (bottom middle), and Plasmodium falciparum in red blood cells (bottom right).
 
-<div class="figure" style="text-align: center">
-<img src="./figures/protista/Apicomplexa_Composite_Image.png" alt="(ref:apicom)" width="70%" />
-<p class="caption">(\#fig:apicomplexa)(ref:apicom)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/protista/Apicomplexa_Composite_Image} 
+
+}
+
+\caption{(ref:apicom)}(\#fig:apicomplexa)
+\end{figure}
 
 With the emergence of molecular phylogenetics and tools enabling researchers to directly compare the DNA of different organisms, it became evident that, of the main sub-groups of Protozoa, only the ciliates (Ciliophora) formed a natural group, or monophyletic clade (that is, a distinct lineage of organisms sharing common ancestry). The other classes or subphyla of Protozoa were all polyphyletic groups composed of organisms that, despite similarities of appearance or way of life, were not necessarily closely related to one another. In the system of eukaryote classification currently endorsed by the International Society of Protistologists, members of the old phylum Protozoa have been distributed among a variety of supergroups.
 
@@ -205,10 +188,14 @@ Excavata is a major supergroup of unicellular organisms eukayotes that are class
 
 Euglena is a genus of single cell flagellate eukaryotes. It is the best known and most widely studied member of the class Euglenoidea, a diverse group containing some 54 genera and at least 800 species. Species of Euglena are found in freshwater and salt water. They are often abundant in quiet inland waters where they may bloom in numbers sufficient to color the surface of ponds and ditches green (E. viridis) or red (E. sanguinea).
 
-<div class="figure" style="text-align: center">
-<img src="./figures/protista/euglena.jpg" alt="Euglena." width="70%" />
-<p class="caption">(\#fig:euglena)Euglena.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/protista/euglena} 
+
+}
+
+\caption{Euglena.}(\#fig:euglena)
+\end{figure}
 
 The species Euglena gracilis has been used extensively in the laboratory as a model organism.
 
@@ -234,10 +221,14 @@ The ciliates are a group of protozoans characterized by the presence of hair-lik
 
 (ref:cilcomp) [Composite image](https://commons.wikimedia.org/wiki/File:Ciliate_collage.jpg) of various ciliates: Lacrymaria olor, Paramecium bursaria, Coleps, Dileptus, Stentor coeruleus.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/protista/Ciliate_collage.jpg" alt="(ref:cilcomp)" width="70%" />
-<p class="caption">(\#fig:ciliata)(ref:cilcomp)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/protista/Ciliate_collage} 
+
+}
+
+\caption{(ref:cilcomp)}(\#fig:ciliata)
+\end{figure}
 
 Ciliates are an important group of protists, common almost anywhere there is water — in lakes, ponds, oceans, rivers, and soils. About 4,500 unique free-living species have been described, and the potential number of extant species is estimated at 27,000–40,000. Included in this number are many ectosymbiotic and endosymbiotic species, as well as some obligate and opportunistic parasites. Ciliate species range in size from as little as 10 µm in some colpodeans to as much as 4 mm in length in some geleiids, and include some of the most morphologically complex protozoans.
 
@@ -249,10 +240,14 @@ Food vacuoles are formed through phagocytosis and typically follow a particular 
 
 (ref:paradia) [Diagram of the ciliate Paramecium](https://commons.wikimedia.org/wiki/File:Paramecium_diagram.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/protista/Paramecium_diagram.png" alt="(ref:paradia)" width="70%" />
-<p class="caption">(\#fig:parameciumdiagram)(ref:paradia)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/protista/Paramecium_diagram} 
+
+}
+
+\caption{(ref:paradia)}(\#fig:parameciumdiagram)
+\end{figure}
 
 Most ciliates are heterotrophs, feeding on smaller organisms, such as bacteria and algae, and detritus swept into the oral groove (mouth) by modified oral cilia. This usually includes a series of membranelles to the left of the mouth and a paroral membrane to its right, both of which arise from polykinetids, groups of many cilia together with associated structures. The food is moved by the cilia through the mouth pore into the gullet, which forms food vacuoles.
 
@@ -268,10 +263,14 @@ Ciliate conjugation is a sexual phenomenon that results in genetic recombination
 
 (ref:cilcon) [Stages of conjugation in Paramecium caudatum](https://commons.wikimedia.org/wiki/File:Stages_of_ciliate_conjugation.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/protista/Stages_of_ciliate_conjugation.png" alt="(ref:cilcon)" width="70%" />
-<p class="caption">(\#fig:cilconjugation)(ref:cilcon)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/protista/Stages_of_ciliate_conjugation} 
+
+}
+
+\caption{(ref:cilcon)}(\#fig:cilconjugation)
+\end{figure}
 
 In many ciliates, such as Paramecium, conjugating partners (gamonts) are similar or indistinguishable in size and shape. This is referred to as "isogamontic" conjugation. In some groups, partners are different in size and shape. This is referred to as "anisogamontic" conjugation. In sessile peritrichs, for instance, one sexual partner (the microconjugant) is small and mobile, while the other (macroconjugant) is large and sessile
 
@@ -333,10 +332,14 @@ The archaeplastidans fall into two main evolutionary lines. The red algae are pi
 
 (ref:algcol) [A variety of microscopic unicellular and colonial freshwater algae](https://commons.wikimedia.org/wiki/File:Водоросли_пресноводного_водоема.jpg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/protista/algae_collection.jpg" alt="(ref:algcol)" width="70%" />
-<p class="caption">(\#fig:algaecollection)(ref:algcol)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/protista/algae_collection} 
+
+}
+
+\caption{(ref:algcol)}(\#fig:algaecollection)
+\end{figure}
 
 No definition of algae is generally accepted. One definition is that algae "have chlorophyll as their primary photosynthetic pigment and lack a sterile covering of cells around their reproductive cells". Although cyanobacteria are often referred to as "blue-green algae", most authorities exclude all prokaryotes from the definition of algae.
 
@@ -346,10 +349,14 @@ Algae exhibit a wide range of reproductive strategies, from simple asexual cell 
 
 (ref:laminaria) [The sexual life cycle of Laminaria, a representative of some 30 different species of brown algae that are commonly called "kelp".](https://commons.wikimedia.org/wiki/File:Laminaria_Life_Cycle.png) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/protista/Laminaria_Life_Cycle.png" alt="(ref:laminaria)" width="70%" />
-<p class="caption">(\#fig:laminarialifecycle)(ref:laminaria)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/protista/Laminaria_Life_Cycle} 
+
+}
+
+\caption{(ref:laminaria)}(\#fig:laminarialifecycle)
+\end{figure}
 
 Algae lack the various structures that characterize land plants, such as the phyllids (leaf-like structures) of bryophytes, rhizoids in nonvascular plants, and the roots, leaves, and other organs found in tracheophytes (vascular plants). Most are phototrophic, although some are mixotrophic, deriving energy both from photosynthesis and uptake of organic carbon either by osmotrophy, myzotrophy, or phagotrophy. Some unicellular species of green algae, many golden algae, euglenids, dinoflagellates, and other algae have become heterotrophs (also called colorless or apochlorotic algae), sometimes parasitic, relying entirely on external energy sources and have limited or no photosynthetic apparatus. Some other heterotrophic organisms, such as the apicomplexans, are also derived from cells whose ancestors possessed plastids, but are not traditionally considered as algae. Algae have photosynthetic machinery ultimately derived from cyanobacteria that produce oxygen as a by-product of photosynthesis, unlike other photosynthetic bacteria such as purple and green sulfur bacteria. Fossilized filamentous algae from the Vindhya basin have been dated back to 1.6 to 1.7 billion years ago.
 
@@ -381,33 +388,49 @@ Slime molds begin life as amoeba-like cells. These unicellular amoebae are commo
 
 (ref:slimemold) [Fuligo septica, a slime mold](https://commons.wikimedia.org/wiki/File:Fuligo_septica_bl1.JPG) Fuligo septica is a species of plasmodial slime mold, and a member of the Myxomycetes class. It is commonly known as the scrambled egg slime, or flowers of tan because of its peculiar yellowish, bile-colored appearance. Also known as the dog vomit slime mold, it is common with a worldwide distribution, and it is often found on bark mulch in urban areas after heavy rain or excessive watering. Their spores are produced on or in aerial sporangia and are spread by wind.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/protista/Fuligo_septica_bl1.jpg" alt="(ref:slimemold)" width="70%" />
-<p class="caption">(\#fig:fuligo)(ref:slimemold)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/protista/Fuligo_septica_bl1} 
+
+}
+
+\caption{(ref:slimemold)}(\#fig:fuligo)
+\end{figure}
 
 Within each protoplasmic strand, the cytoplasmic contents rapidly stream. If one strand is carefully watched for about 50 seconds, the cytoplasm can be seen to slow, stop, and then reverse direction. The streaming protoplasm within a plasmodial strand can reach speeds of up to 1.35 mm per second, which is the fastest rate recorded for any microorganism. Migration of the plasmodium is accomplished when more protoplasm streams to advancing areas and protoplasm is withdrawn from rear areas. When the food supply wanes, the plasmodium will migrate to the surface of its substrate and transform into rigid fruiting bodies. The fruiting bodies or sporangia are what are commonly seen. They superficially look like fungi or molds but are not related to the true fungi. These sporangia will then release spores which hatch into amoebae to begin the life cycle again.
 
 
 (ref:dicfruit) [Dictyostelium Fruiting Body](https://commons.wikimedia.org/wiki/File:Dictyostelium_Fruiting_Bodies.JPG) Dictyostelium is a genus of single- and multi-celled eukaryotic, phagotrophic bacterivores. Though they are Protista and in no way fungal, they traditionally are known as "slime molds". They are present in most terrestrial ecosystems as a normal and often abundant component of the soil microflora, and play an important role in the maintenance of balanced bacterial populations in soils.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/protista/Dictyostelium_Fruiting_Bodies.jpg" alt="(ref:dicfruit)" width="70%" />
-<p class="caption">(\#fig:dictfruiting)(ref:dicfruit)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/protista/Dictyostelium_Fruiting_Bodies} 
+
+}
+
+\caption{(ref:dicfruit)}(\#fig:dictfruiting)
+\end{figure}
 
 (ref:diccol) [Dictyostelium colony in process of aggregation](https://commons.wikimedia.org/wiki/File:Dictyostelium_Aggregation.JPG) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/protista/Dictyostelium_Aggregation.jpg" alt="(ref:diccol)" width="70%" />
-<p class="caption">(\#fig:dictformcol)(ref:diccol)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/protista/Dictyostelium_Aggregation} 
+
+}
+
+\caption{(ref:diccol)}(\#fig:dictformcol)
+\end{figure}
 
 
 (ref:dicslug) [Pseudoplasmodium or "slug" of a Dictyostelium](https://commons.wikimedia.org/wiki/File:Dictyostelium_Pseudoplasmodium.JPG) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/protista/Dictyostelium_Pseudoplasmodium.jpg" alt="(ref:dicslug)" width="70%" />
-<p class="caption">(\#fig:dictslug)(ref:dicslug)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/protista/Dictyostelium_Pseudoplasmodium} 
+
+}
+
+\caption{(ref:dicslug)}(\#fig:dictslug)
+\end{figure}
 

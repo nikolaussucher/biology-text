@@ -95,10 +95,14 @@ Light entering the eye is refracted as it passes through the cornea. It then pas
 
 (ref:ey) Horizontal section of the human eyeball. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/anatomyofhumanbo1918gray_1008.jpg" alt="(ref:ey)" width="70%" />
-<p class="caption">(\#fig:eye)(ref:ey)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/anatomyofhumanbo1918gray_1008} 
+
+}
+
+\caption{(ref:ey)}(\#fig:eye)
+\end{figure}
 
 ## The Retina
 
@@ -148,10 +152,14 @@ These layers can be grouped into 4 main processing stages: photoreception; trans
 
 (ref:retina) Vertical section of the adult human retina. Carmine and Nissl stain. *A*, Photoreceptor layer. *B*, Cell bodies of the photoreceptors. *C*, Outer plexiform layer. *D*, Internal granule layer. *E*, Internal plexiform layer. *F*, Ganglion cell layer. *G*, Ganglion cell axons. *a*, external limiting membrane. *b*, internal limiting membrane. *c*, Spherical endfeet of the rod photoreceptors. *d*, endfeet of the cones. e. *a*, cone. *f*, a rod *g*, horizontal cells. *h*, amacrine cells. Fig. 188 from [Histologie du système nerveux de l'homme & des vertébrés](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=0&z=-0.9137%2C-0.0887%2C2.8274%2C1.7747) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/retina_cajal.png" alt="(ref:retina)" width="70%" />
-<p class="caption">(\#fig:retcajal)(ref:retina)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/retina_cajal} 
+
+}
+
+\caption{(ref:retina)}(\#fig:retcajal)
+\end{figure}
 
 The optic nerve is a central tract of many axons of ganglion cells connecting primarily to the lateral geniculate body, a visual relay station in the diencephalon (the rear of the forebrain). It also projects to the superior colliculus, the suprachiasmatic nucleus, and the nucleus of the optic tract. It passes through the other layers, creating the optic disc in primates.
 
@@ -167,10 +175,14 @@ Between the ganglion cell layer and the rods and cones there are two layers of n
 
 (ref:frogret) A semischematic diagram of the frog retina. a) green rods; b (left) red rods; c) cone; i) horizontal cell; h) bipolar cell; n,m,r,s,t) amacrine cells; o,p) ganglion cells; q) displaced amacrine cell. A) Pigment epithelial cell with extended process; B) Pigment epithelial cell with retracted process. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/FrogRetinaCajalManual.jpg" alt="(ref:frogret)" width="70%" />
-<p class="caption">(\#fig:frogretina)(ref:frogret)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/FrogRetinaCajalManual} 
+
+}
+
+\caption{(ref:frogret)}(\#fig:frogretina)
+\end{figure}
 
 The central retina predominantly contains cones, while the peripheral retina predominantly contains rods. At the centre of the macula is the foveal pit where the cones are narrow and long, and, arranged in a hexagonal mosaic, the most dense, in contradistinction to the much fatter cones located more peripherally in the retina. At the foveal pit the other retinal layers are displaced, before building up along the foveal slope until the rim of the fovea, or parafovea, is reached, which is the thickest portion of the retina. The macula has a yellow pigmentation and is known as the macula lutea. The area directly surrounding the fovea has the highest density of rods converging on single bipolar cells. Since its cones have a much lesser convergence of signals, the fovea allows for the sharpest vision the eye can attain.
 
@@ -184,10 +196,14 @@ There are currently three known types of photoreceptor cells in mammalian eyes: 
 
 (ref:photo) Rods and cones from the human retina. A) a rod from the peripheral retina; B) a cone from the peripheral retina; C) cones from the fovea.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/PhotorecptorsCajalManual.jpg" alt="(ref:photo)" width="70%" />
-<p class="caption">(\#fig:photoreceptors)(ref:photo)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/PhotorecptorsCajalManual} 
+
+}
+
+\caption{(ref:photo)}(\#fig:photoreceptors)
+\end{figure}
 
 
 There are major functional differences between the rods and cones. Rods are extremely sensitive, and can be triggered by a single photon. At very low light levels, visual experience is based solely on the rod signal.
@@ -208,10 +224,14 @@ To understand the photoreceptor's behaviour to light intensities, it is necessar
 
 (ref:retinal) [The chemical reactions involved in the photoreceptor visual cycle.](https://commons.wikimedia.org/wiki/File:Visual_cycle.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/Visual_cycle.svg" alt="(ref:retinal)" width="70%" />
-<p class="caption">(\#fig:absorption)(ref:retinal)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/Visual_cycle} 
+
+}
+
+\caption{(ref:retinal)}(\#fig:absorption)
+\end{figure}
 
 There is an ongoing outward potassium current through nongated K^+^-selective channels. This outward current tends to hyperpolarize the photoreceptor at around -70 mV (the equilibrium potential for K^+^).
 
@@ -244,10 +264,14 @@ Activation of the phototransduction cascade
 
 (ref:steps) [Representation](https://commons.wikimedia.org/wiki/File:Phototransduction.png) of molecular steps in photoactivation (modified from Leskov et al., 2000). Depicted is an outer membrane disk in a rod. Step 1: Incident photon (hν) is absorbed and activates a rhodopsin by conformational change in the disk membrane to R*. Step 2: Next, R* makes repeated contacts with transducin molecules, catalyzing its activation to G* by the release of bound GDP in exchange for cytoplasmic GTP, which expels its β and γ subunits. Step 3: G* binds inhibitory γ subunits of the phosphodiesterase (PDE) activating its α and β subunits. Step 4: Activated PDE hydrolyzes cGMP. Step 5: Guanylyl cyclase (GC) synthesizes cGMP, the second messenger in the phototransduction cascade. Reduced levels of cytosolic cGMP cause cyclic nucleotide gated channels to close preventing further influx of Na^+^ and Ca^2+^.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/Phototransduction.png" alt="(ref:steps)" width="70%" />
-<p class="caption">(\#fig:molsteps)(ref:steps)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/Phototransduction} 
+
+}
+
+\caption{(ref:steps)}(\#fig:molsteps)
+\end{figure}
 
 Deactivation of the phototransduction cascade
 
@@ -382,10 +406,14 @@ The ear canal of the outer ear is separated from the air-filled tympanic cavity 
 
 (ref:ear) Front view of the right outer, middle and inner human ear. [Gray, Henry, 1825-1861. Anatomy, descriptive and surgical; ed. by T. Pickering Pick and Robert Howden. A revised American, from the fifteenth English edition. Philadelphia, Lea, 1901](https://archive.org/details/anatomydescripti00grayuoft/page/n6/mode/2up)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/GrayEar.jpg" alt="(ref:ear)" width="70%" />
-<p class="caption">(\#fig:rightear)(ref:ear)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/GrayEar} 
+
+}
+
+\caption{(ref:ear)}(\#fig:rightear)
+\end{figure}
 
 Sound waves travel through the ear canal and hit the tympanic membrane, or eardrum. This wave information travels across the air-filled middle ear cavity via a series of delicate bones: the malleus (hammer), incus (anvil) and stapes (stirrup). These ossicles act as a lever, converting the lower-pressure eardrum sound vibrations into higher-pressure sound vibrations at another, smaller membrane called the oval window or vestibular window. The manubrium (handle) of the malleus articulates with the tympanic membrane, while the footplate (base) of the stapes articulates with the oval window. Higher pressure is necessary at the oval window than at the typanic membrane because the inner ear beyond the oval window contains liquid rather than air. The stapedius reflex of the middle ear muscles helps protect the inner ear from damage by reducing the transmission of sound energy when the stapedius muscle is activated in response to sound. The middle ear still contains the sound information in wave form; it is converted to nerve impulses in the cochlea.
 The middle-ear ossicles further amplify the vibration pressure roughly 20 times. The base of the stapes couples vibrations into the cochlea via the oval window, which vibrates the perilymph liquid (present throughout the inner ear) and causes the round window to bulb out as the oval window bulges in.
@@ -406,10 +434,14 @@ The organ of corti is located in the scala media of the cochlea of the inner ear
 
 (ref:corti) [A cross section of the cochlea illustrating the organ of Corti.](https://commons.wikimedia.org/wiki/File:Cochlea-crosssection.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/Cochlea-crosssection.svg" alt="(ref:corti)" width="70%" />
-<p class="caption">(\#fig:organcorti)(ref:corti)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/Cochlea-crosssection} 
+
+}
+
+\caption{(ref:corti)}(\#fig:organcorti)
+\end{figure}
 
 Projecting from the tips of the hair cells are tiny finger like projections called stereocilia, which are arranged in a graduated fashion with the shortest stereocilia on the outer rows and the longest in the center.
 
@@ -540,10 +572,14 @@ Skin is the soft outer tissue covering of vertebrates with three main functions:
 
 (ref:skin) [Diagramatic secion of hairless skin. Note tactile (Meissner) and Pacinian corpuscles.](https://commons.wikimedia.org/wiki/File:Gray940.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/Gray940.png" alt="(ref:skin)" width="70%" />
-<p class="caption">(\#fig:skindiagram)(ref:skin)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/Gray940} 
+
+}
+
+\caption{(ref:skin)}(\#fig:skindiagram)
+\end{figure}
 
 ## Cutaneous Mechanoreceptors
 
@@ -551,10 +587,14 @@ Cutaneous mechanoreceptors respond to mechanical stimuli that result from physic
 
 (ref:mechano) A cartoon representation of the mechanosensitive Piezo1 channel in side and top view. [PDB 5Z10](https://www.rcsb.org/structure/5Z10), rendered with open source molecular visualization tool PyMol.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/mechano_sensitive_channel.png" alt="(ref:mechano)" width="70%" />
-<p class="caption">(\#fig:mechanosensitive)(ref:mechano)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/mechano_sensitive_channel} 
+
+}
+
+\caption{(ref:mechano)}(\#fig:mechanosensitive)
+\end{figure}
 
 In the somatosensory system, receptive fields are regions of the skin or of internal organs. Some types of mechanoreceptors have large receptive fields, while others have smaller ones. Large receptive fields allow the cell to detect changes over a wider area, but lead to a less precise perception. Thus, the fingers, which require the ability to detect fine detail, have many, densely packed (up to 500 per cubic cm) mechanoreceptors with small receptive fields (around 10 square mm), while the back and legs, for example, have fewer receptors with large receptive fields.
 
@@ -588,10 +628,14 @@ Though it has been reported that Merkel cells are derived from neural crest cell
 
 (ref:corp) [Tactile corpuscles (from left to right): Meissner, Krause, Pacini](https://commons.wikimedia.org/wiki/File:Gray940.png) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/TouchReceptors.jpg" alt="(ref:corp)" width="70%" />
-<p class="caption">(\#fig:tactilecorpuscle)(ref:corp)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/TouchReceptors} 
+
+}
+
+\caption{(ref:corp)}(\#fig:tactilecorpuscle)
+\end{figure}
 
 Merkel cells are found in the skin and some parts of the mucosa of all vertebrates. In mammalian skin, they are clear cells found in the stratum basale (at the bottom of sweat duct ridges) of the epidermis approximately 10 μm in diameter. They also occur in epidermal invaginations of the plantar foot surface called rete ridges. Most often, they are associated with sensory nerve endings, when they are known as Merkel nerve endings (also called a Merkel cell-neurite complex). They are associated with slowly adapting (SA1) somatosensory nerve fibers. They react to low vibrations (5–15 Hz) and deep static touch such as shapes and edges. Due to a small receptive field (extremely detailed info) they are used in areas like fingertips the most; they are not covered (shelled) and thus respond to pressures over long periods.
 
@@ -627,10 +671,14 @@ TRP channels that detect noxious stimuli (mechanical, thermal, and chemical pain
 
 (ref:TRPV1) A cartoon representation of the transient receptor potential cation channel subfamily V member 1 (TRPV1), also known as the capsaicin receptor and the vanilloid receptor 1 viewd from the side and the top. The function of TRPV1 is detection and regulation of body temperature. In addition, TRPV1 provides a sensation of scalding heat and pain (nociception). In primary afferent sensory neurons, it cooperates with TRPA1 (a chemical irritant receptor) to mediate the detection of noxious environmental stimuli. [PDB 5IS0](https://www.rcsb.org/structure/5IS0), rendered with open source molecular visualization tool PyMol.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/TRPV1.png" alt="(ref:TRPV1)" width="70%" />
-<p class="caption">(\#fig:TRPV1channel)(ref:TRPV1)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/TRPV1} 
+
+}
+
+\caption{(ref:TRPV1)}(\#fig:TRPV1channel)
+\end{figure}
 
 ## Proprioception
 
@@ -650,10 +698,14 @@ Muscle spindles are stretch receptors within the body of a muscle that primarily
 
 (ref:spindle) Muscle spindle from the pectoral muscle of a frog. Bottom part of figure: B) extrafusal muscle fibers with efferent motor nerve; top part of figure: myelinated afferent nerve fiber. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/CajalMuscleSpindle.jpg" alt="(ref:spindle)" width="70%" />
-<p class="caption">(\#fig:musclespindle)(ref:spindle)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/CajalMuscleSpindle} 
+
+}
+
+\caption{(ref:spindle)}(\#fig:musclespindle)
+\end{figure}
 
 Muscle spindles are found within the belly of muscles, between extrafusal muscle fibers.[b] The specialised fibers that constitute the muscle spindle are known as intrafusal fibers (as they are present within the spindle), to distinguish themselves from the fibres of the muscle itself which are called extrafusal fibers. Muscle spindles have a capsule of connective tissue, and run parallel to the extrafusal muscle fibers.
 
@@ -664,10 +716,14 @@ The Golgi tendon organ (GTO) (also called Golgi organ, tendon organ, neurotendin
 (ref:tendon) Golgi tendon organ from an adult cat. a) Termninal arboriasation and c) fine ultimate brances of the afferent nerve; b) myelinated afferent nerve fiber; e) muscle fibers. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
   
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/CajalGolgiTendon.jpg" alt="(ref:tendon)" width="70%" />
-<p class="caption">(\#fig:tendonorgan)(ref:tendon)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/CajalGolgiTendon} 
+
+}
+
+\caption{(ref:tendon)}(\#fig:tendonorgan)
+\end{figure}
 
 The body of the organ is made up of braided strands of collagen (intrafusal fasciculi) that are less compact than elsewhere in the tendon and are encapsulated. The capsule is connected in series with a group of muscle fibers (10-20 fibers) at one end, and merge into the tendon proper at the other. Each capsule is about 1 mm long, has a diameter of about 0.1 mm, and is perforated by one or more afferent type Ib sensory nerve fibers (Aɑ fiber), which are large (12-20 μm) myelinated axons that can conduct nerve impulses very rapidly. Inside the capsule, the afferent fibers lose their medullary sheaths, branch, intertwine with the collagen fibers, and terminate as flattened leaf-like endings between the collagen strands (see figure).
 
@@ -723,10 +779,14 @@ The peripheral olfactory system consists mainly of the nostrils, ethmoid bone, n
 
 (ref:septum) View of the right side of the nasal septum showing the olfactory bulb and the filaments of the olfactory nerve.From [Gray, Henry: Anatomy Descriptive And Surgical. 7^th^ Edition, Longmans, Green, And Co., London, 1875 ](https://wellcomelibrary.org/item/b21688692).
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/GrayP572.jpg" alt="(ref:septum)" width="70%" />
-<p class="caption">(\#fig:rightseptum)(ref:septum)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/GrayP572} 
+
+}
+
+\caption{(ref:septum)}(\#fig:rightseptum)
+\end{figure}
 
 Odor molecules can enter the peripheral pathway and reach the nasal cavity either through the nostrils when inhaling (olfaction) or through the throat when the tongue pushes air to the back of the nasal cavity while chewing or swallowing (retro-nasal olfaction). Inside the nasal cavity, mucus lining the walls of the cavity dissolves odor molecules. Mucus also covers the olfactory epithelium, which contains mucous membranes that produce and store mucus and olfactory glands that secrete metabolic enzymes found in the mucus.
 
@@ -744,10 +804,14 @@ Olfactory nerves and fibers transmit information about odors from the peripheral
 
 (ref:olf) Diagram of the structure of the olfactory bulb and olfactory cortex. A) Olfacory mucosa; B) glomeruli in the olfactory bulb; C) mitral cells; D) granule cells; E) olfactory nerve; F) pyramidal cells in the olfactory cortex. Action potentials fired by the olfactory receptor cells and subsequently by the cells in the olfactory bulb, travel to the olfactory cortex (arrows).  [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/CajalOlfactoryPathway.jpg" alt="(ref:olf)" width="70%" />
-<p class="caption">(\#fig:olfactory)(ref:olf)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/CajalOlfactoryPathway} 
+
+}
+
+\caption{(ref:olf)}(\#fig:olfactory)
+\end{figure}
 
 ## The Olfactory Bulb
 
@@ -797,10 +861,14 @@ The tongue is a muscular organ in the mouth of most vertebrates that manipulates
 
 (ref:ton) The human tongue and three kinds of papillae magnified. Bottom left to right: filiform, fungiform and circumvallate papillae. From [Gray, Henry: Anatomy Descriptive And Surgical. 7^th^ Edition, Longmans, Green, And Co., London, 1875 ](https://wellcomelibrary.org/item/b21688692)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/tongue.jpg" alt="(ref:ton)" width="70%" />
-<p class="caption">(\#fig:tongue)(ref:ton)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/tongue} 
+
+}
+
+\caption{(ref:ton)}(\#fig:tongue)
+\end{figure}
 
 Innervation of the tongue consists of motor fibers, special sensory fibers for taste, and general sensory fibers for sensation.
 
@@ -808,10 +876,14 @@ The tongue is covered with thousands of small bumps called papillae, which are v
 
 (ref:papilla) Section through a papilla vallata of the human tongue. 1) Papilla. 2) Vallum. 3) Taste buds. From [Textbook of anatomy. Section 2. The muscular system: the nervous system: the organs of sense and integument edited by D. J. Cunningham](https://wellcomelibrary.org/item/b21271070) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/CunninghamSection2Page770.jpg" alt="(ref:papilla)" width="70%" />
-<p class="caption">(\#fig:vallatepapilla)(ref:papilla)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/CunninghamSection2Page770} 
+
+}
+
+\caption{(ref:papilla)}(\#fig:vallatepapilla)
+\end{figure}
 
 ## The Five Basic Tastes
 
@@ -819,17 +891,25 @@ The sensation of taste includes five established basic tastes: sweetness, sourne
 
 (ref:buds) A. Three quarter surface view of a taste bud from the papilla foliata of a rabbit (highly magnified). B. Vertical section of taste bud from the papilla foliata of a rabbit (highly magnified). From [Textbook of anatomy. Section 2. The muscular system: the nervous system: the organs of sense and integument edited by D. J. Cunningham](https://wellcomelibrary.org/item/b21271070) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/CunninghamSection2Page771.jpg" alt="(ref:buds)" width="70%" />
-<p class="caption">(\#fig:tastebuds)(ref:buds)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/CunninghamSection2Page771} 
+
+}
+
+\caption{(ref:buds)}(\#fig:tastebuds)
+\end{figure}
 
 (ref:cells) Isolated cells from taste bud of a rabbit. a, Supporting cells. b, Gustatory cells. From [Textbook of anatomy. Section 2. The muscular system: the nervous system: the organs of sense and integument edited by D. J. Cunningham](https://wellcomelibrary.org/item/b21271070) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/sensation/CunninghamSection2Page771Cells.jpg" alt="(ref:cells)" width="70%" />
-<p class="caption">(\#fig:tastecells)(ref:cells)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/sensation/CunninghamSection2Page771Cells} 
+
+}
+
+\caption{(ref:cells)}(\#fig:tastecells)
+\end{figure}
 
 The basic tastes contribute only partially to the sensation and flavor of food in the mouth—other factors include smell, detected by the olfactory epithelium of the nose; texture, detected through a variety of mechanoreceptors; temperature, detected by thermoreceptors; and "coolness" (such as of menthol) and "hotness" (pungency), through [chemesthesis](https://en.wikipedia.org/wiki/Chemesthesis).
 

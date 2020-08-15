@@ -4,10 +4,14 @@ Plants acquire energy from sunlight through photosynthesis. Animals get their en
 
 (ref:photosynthesis) [Schematic of photosynthesis in plants. The carbohydrates produced are stored in or used by the plant which in turn may provide food for heterotrophic organims such as animals.](https://commons.wikimedia.org/wiki/File:Photosynthesis_en.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/photosynthesis/Photosynthesis_en.svg" alt="(ref:photosynthesis)" width="70%" />
-<p class="caption">(\#fig:photosynthesispic)(ref:photosynthesis)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Photosynthesis_en} 
+
+}
+
+\caption{(ref:photosynthesis)}(\#fig:photosynthesispic)
+\end{figure}
 
 ## The Electron Transport Chain And Chemiosmosis
 
@@ -21,10 +25,14 @@ The electron transport chain, and site of oxidative phosphorylation is found on 
 
 (ref:electrontrans) [The electron transport chain](https://commons.wikimedia.org/wiki/File:Mitochondrial_electron_transport_chain—Etc4.svg) in the mitochondrion is the site of oxidative phosphorylation in eukaryotes. The NADH and succinate generated in the citric acid cycle are oxidized, providing energy to power ATP synthase.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/photosynthesis/Mitochondrial_electron_transport_chain—Etc4.svg" alt="(ref:electrontrans)" width="70%" />
-<p class="caption">(\#fig:electrontransfer)(ref:electrontrans)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Mitochondrial_electron_transport_chain—Etc4} 
+
+}
+
+\caption{(ref:electrontrans)}(\#fig:electrontransfer)
+\end{figure}
 
 In photosynthetic eukaryotes, the electron transport chain is found on the thylakoid membrane. Here, light energy drives the reduction of components of the electron transport chain and therefore causes subsequent synthesis of ATP. The electron transport chain, and site of oxidative phosphorylation is found on the inner mitochondrial membrane. The energy stored from the process of respiration in reduced compounds (such as NADH and FADH) is used by the electron transport chain to pump protons into the inter membrane space, generating the electrochemical gradient over the inner mitochrondrial membrane. 
 
@@ -38,19 +46,27 @@ Photosynthesis is a process used by plants and other organisms to convert light 
 
 (ref:simplephoto) [Photosynthesis changes sunlight into chemical energy, splits water to liberate O2, and fixes CO2 into sugar.](https://commons.wikimedia.org/wiki/File:Simple_photosynthesis_overview.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/photosynthesis/Simple_photosynthesis_overview.svg" alt="(ref:simplephoto)" width="70%" />
-<p class="caption">(\#fig:simplephotooverview )(ref:simplephoto)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Simple_photosynthesis_overview} 
+
+}
+
+\caption{(ref:simplephoto)}(\#fig:simplephotooverview )
+\end{figure}
 
 Although photosynthesis is performed differently by different species, the process always begins when energy from light is absorbed by proteins called reaction centres that contain green chlorophyll pigments. In plants, these proteins are held inside organelles called chloroplasts, which are most abundant in leaf cells, while in bacteria they are embedded in the plasma membrane. In these light-dependent reactions, some energy is used to strip electrons from suitable substances, such as water, producing oxygen gas. The hydrogen freed by the splitting of water is used in the creation of two further compounds that serve as short-term stores of energy, enabling its transfer to drive other reactions: these compounds are reduced nicotinamide adenine dinucleotide phosphate (NADPH) and adenosine triphosphate (ATP), the "energy currency" of cells.
 
 (ref:chlorophyl) [Absorbance spectra of free chlorophyll](https://commons.wikimedia.org/wiki/File:Chlorophyll_ab_spectra-en.svg) a (blue) and b (red) in a solvent. The action spectra of chlorophyll molecules are slightly modified in vivo depending on specific pigment–protein interactions.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/photosynthesis/Chlorophyll_ab_spectra-en.svg" alt="(ref:chlorophyl)" width="70%" />
-<p class="caption">(\#fig:chlorophylspectra)(ref:chlorophyl)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Chlorophyll_ab_spectra-en} 
+
+}
+
+\caption{(ref:chlorophyl)}(\#fig:chlorophylspectra)
+\end{figure}
 
 In plants, algae and cyanobacteria, long-term energy storage in the form of sugars is produced by a subsequent sequence of light-independent reactions called the Calvin cycle; some bacteria use different mechanisms, such as the reverse Krebs cycle, to achieve the same end. In the Calvin cycle, atmospheric carbon dioxide is incorporated into already existing organic carbon compounds, such as ribulose bisphosphate (RuBP). Using the ATP and NADPH produced by the light-dependent reactions, the resulting compounds are then reduced and removed to form further carbohydrates, such as glucose.
 
@@ -74,10 +90,14 @@ In plants and algae, photosynthesis takes place in organelles called chloroplast
 
 (ref:photochloro) [Chloroplast ultrastructure](https://commons.wikimedia.org/wiki/File:Chloroplast.svg): 1. outer membrane 2. intermembrane space 3. inner membrane (1+2+3: envelope) 4. stroma (aqueous fluid) 5. thylakoid lumen (inside of thylakoid) 6. thylakoid membrane 7. granum (stack of thylakoids) 8. thylakoid (lamella) 9. starch 10. ribosome 11. plastidial DNA 12. plastoglobule (drop of lipids)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/photosynthesis/Chloroplast.svg" alt="(ref:photochloro)" width="70%" />
-<p class="caption">(\#fig:photochloroplast)(ref:photochloro)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Chloroplast} 
+
+}
+
+\caption{(ref:photochloro)}(\#fig:photochloroplast)
+\end{figure}
 
 Plants absorb light primarily using the pigment chlorophyll. The green part of the light spectrum is not absorbed but is reflected which is the reason that most plants have a green color. Besides chlorophyll, plants also use pigments such as carotenes and xanthophylls. Algae also use chlorophyll, but various other pigments are present, such as phycocyanin, carotenes, and xanthophylls in green algae, phycoerythrin in red algae (rhodophytes) and fucoxanthin in brown algae and diatoms resulting in a wide variety of colors.
 
@@ -101,19 +121,27 @@ In plants, light-dependent reactions occur in the thylakoid membranes of the chl
 
 (ref:zsch) [The Z scheme](https://commons.wikimedia.org/wiki/File:Z-scheme.png) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/photosynthesis/Z-scheme.png" alt="(ref:zsch)" width="70%" />
-<p class="caption">(\#fig:zscheme)(ref:zsch)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Z-scheme} 
+
+}
+
+\caption{(ref:zsch)}(\#fig:zscheme)
+\end{figure}
 
 In the non-cyclic reaction, the photons are captured in the light-harvesting antenna complexes of photosystem II by chlorophyll and other accessory pigments (see diagram at right). The absorption of a photon by the antenna complex frees an electron by a process called photoinduced charge separation. The antenna system is at the core of the chlorophyll molecule of the photosystem II reaction center. That freed electron is transferred to the primary electron-acceptor molecule, pheophytin. As the electrons are shuttled through an electron transport chain (the so-called Z-scheme shown in the diagram), it initially functions to generate a chemiosmotic potential by pumping proton cations (H^+^) across the membrane and into the thylakoid space. An ATP synthase enzyme uses that chemiosmotic potential to make ATP during photophosphorylation, whereas NADPH is a product of the terminal redox reaction in the Z-scheme. The electron enters a chlorophyll molecule in Photosystem I. There it is further excited by the light absorbed by that photosystem. The electron is then passed along a chain of electron acceptors to which it transfers some of its energy. The energy delivered to the electron acceptors is used to move hydrogen ions across the thylakoid membrane into the lumen. The electron is eventually used to reduce the co-enzyme NADP with a H^+^ to NADPH (which has functions in the light-independent reaction); at that point, the path of that electron ends.
 
 (ref:lightd) [Light-dependent reactions of photosynthesis at the thylakoid membrane](https://commons.wikimedia.org/wiki/File:Thylakoid_membrane_3.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/photosynthesis/Thylakoid_membrane_3.svg" alt="(ref:lightd)" width="70%" />
-<p class="caption">(\#fig:lightdependent)(ref:lightd)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Thylakoid_membrane_3} 
+
+}
+
+\caption{(ref:lightd)}(\#fig:lightdependent)
+\end{figure}
 
 
 The cyclic reaction is similar to that of the non-cyclic, but differs in that it generates only ATP, and no reduced NADP (NADPH) is created. The cyclic reaction takes place only at photosystem I. Once the electron is displaced from the photosystem, the electron is passed down the electron acceptor molecules and returns to photosystem I, from where it was emitted, hence the name cyclic reaction.
@@ -134,10 +162,14 @@ Carbon fixation produces the intermediate three-carbon sugar product, which is t
 
 (ref:calvinc) [Overview of the Calvin cycle and carbon fixation](https://commons.wikimedia.org/wiki/File:Calvin-cycle4.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/photosynthesis/Calvin-cycle4.svg" alt="(ref:calvinc)" width="70%" />
-<p class="caption">(\#fig:calvincycle)(ref:calvinc)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Calvin-cycle4} 
+
+}
+
+\caption{(ref:calvinc)}(\#fig:calvincycle)
+\end{figure}
 
 The fixation or reduction of carbon dioxide is a process in which carbon dioxide combines with a five-carbon sugar, ribulose 1,5-bisphosphate, to yield two molecules of a three-carbon compound, glycerate 3-phosphate, also known as 3-phosphoglycerate. Glycerate 3-phosphate, in the presence of ATP and NADPH produced during the light-dependent stages, is reduced to glyceraldehyde 3-phosphate. This product is also referred to as 3-phosphoglyceraldehyde (PGAL) or, more generically, as triose phosphate. Most (5 out of 6 molecules) of the glyceraldehyde 3-phosphate produced is used to regenerate ribulose 1,5-bisphosphate so the process can continue. The triose phosphates not thus "recycled" often condense to form hexose phosphates, which ultimately yield sucrose, starch and cellulose. The sugars produced during carbon metabolism yield carbon skeletons that can be used for other metabolic reactions like the production of amino acids and lipids.
 
@@ -158,10 +190,14 @@ The salvaging pathway for the products of RuBisCO oxygenase activity is more com
 
 (ref:photores) [Photorespiration](https://commons.wikimedia.org/wiki/File:Photorespiration.svg) 1. ribulose 1,5-bisphosphate 2. 3-Phosphoglycerate 3. 2-phosphoglycolate 4. glycolate 5. glyoxylate 6. glycine 7. serine 8. hydroxypyruvate 9. glycerate CC Calvin cycle
 
-<div class="figure" style="text-align: center">
-<img src="./figures/photosynthesis/Photorespiration.svg" alt="(ref:photores)" width="70%" />
-<p class="caption">(\#fig:photorespiration)(ref:photores)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Photorespiration} 
+
+}
+
+\caption{(ref:photores)}(\#fig:photorespiration)
+\end{figure}
 
 ## Carbon Concentrating Mechanisms
 
@@ -171,10 +207,14 @@ In hot and dry conditions, plants close their stomata to prevent water loss. Und
 
 (ref:c4c) [Overview of C4 carbon fixation](https://commons.wikimedia.org/wiki/File:HatchSlackpathway2.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/photosynthesis/HatchSlackpathway2.svg" alt="(ref:c4c)" width="70%" />
-<p class="caption">(\#fig:c4carbon)(ref:c4c)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/HatchSlackpathway2} 
+
+}
+
+\caption{(ref:c4c)}(\#fig:c4carbon)
+\end{figure}
 
 Plants that use the C4 carbon fixation process chemically fix carbon dioxide in the cells of the mesophyll by adding it to the three-carbon molecule phosphoenolpyruvate (PEP), a reaction catalyzed by an enzyme called PEP carboxylase, creating the four-carbon organic acid oxaloacetic acid. Oxaloacetic acid or malate synthesized by this process is then translocated to specialized bundle sheath cells where the enzyme RuBisCO and other Calvin cycle enzymes are located, and where CO~2~ released by decarboxylation of the four-carbon acids is then fixed by RuBisCO activity to the three-carbon 3-phosphoglyceric acids. The physical separation of RuBisCO from the oxygen-generating light reactions reduces photorespiration and increases CO~2~ fixation and, thus, the photosynthetic capacity of the leaf. C4 plants can produce more sugar than C3 plants in conditions of high light and temperature. Many important crop plants are C4 plants, including maize, sorghum, sugarcane, and millet. Plants that do not use PEP-carboxylase in carbon fixation are called C3 plants because the primary carboxylation reaction, catalyzed by RuBisCO, produces the three-carbon 3-phosphoglyceric acids directly in the Calvin-Benson cycle. Over 90% of plants use C3 carbon fixation, compared to 3% that use C4 carbon fixation; however, the evolution of C4 in over 60 plant lineages makes it a striking example of convergent evolution.
 
@@ -205,10 +245,14 @@ Cellular respiration is a set of metabolic reactions and processes that take pla
 
 (ref:cellres) [A diagram of cellular respiration including glycolysis, Krebs cycle (AKA citric acid cycle), and the electron transport chain](https://commons.wikimedia.org/wiki/File:CellRespiration.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/photosynthesis/CellRespiration.svg" alt="(ref:cellres)" width="70%" />
-<p class="caption">(\#fig:cellularrespiration)(ref:cellres)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/CellRespiration} 
+
+}
+
+\caption{(ref:cellres)}(\#fig:cellularrespiration)
+\end{figure}
 
 Nutrients that are commonly used by animal and plant cells in respiration include sugar, amino acids and fatty acids, and the most common oxidizing agent providing most of the chemical energy is molecular oxygen (O~2~). The chemical energy stored in ATP (the bond of its third phosphate group to the rest of the molecule can be broken allowing more stable products to form, thereby releasing energy for use by the cell) can then be used to drive processes requiring energy, including biosynthesis, locomotion or transport of molecules across cell membranes.
 
@@ -228,10 +272,14 @@ The potential of NADH and FADH~2~ is converted to more ATP through an electron t
 
 (ref:cellresst) [Stoichiometry of aerobic respiration](https://commons.wikimedia.org/wiki/File:Cellular_respiration.gif) and most known fermentation types in eucaryotic cell. Numbers in circles indicate counts of carbon atoms in molecules, C6 is glucose C~6~H~12~O~6~, C1 carbon dioxide CO~2~. Mitochondrial outer membrane is omitted. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/photosynthesis/Cellular_respiration.png" alt="(ref:cellresst)" width="70%" />
-<p class="caption">(\#fig:cellresstoich)(ref:cellresst)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/photosynthesis/Cellular_respiration} 
+
+}
+
+\caption{(ref:cellresst)}(\#fig:cellresstoich)
+\end{figure}
 
 Aerobic metabolism is up to 15 times more efficient than anaerobic metabolism (which yields 2 molecules ATP per 1 molecule glucose) because the double bond in O~2~ is of higher energy than other double bonds or pairs of single bonds in other common molecules in the biosphere. However, some anaerobic organisms, such as methanogens are able to continue with anaerobic respiration, yielding more ATP by using other inorganic molecules (not oxygen) of high energy as final electron acceptors in the electron transport chain. They share the initial pathway of glycolysis but aerobic metabolism continues with the Krebs cycle and oxidative phosphorylation. The post-glycolytic reactions take place in the mitochondria in eukaryotic cells, and in the cytoplasm in prokaryotic cells.
 

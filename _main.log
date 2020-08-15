@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.8.9)  12 AUG 2020 23:48
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.8.9)  14 AUG 2020 22:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1964,21 +1964,40 @@ Requested font "[Cantarell-Bold.otf]/OT:script=latn;language=dflt;+liga;+tnum;+
 lnum;mapping=tex-text;" at 14.4pt
  -> /usr/local/texlive/texmf-dist/fonts/opentype/gnome/cantarell/Cantarell-Bold
 .otf
-[15]
+[15] [16] [17]
+LaTeX Font Info:    Font shape `TU/Cantarell(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 306.
+Requested font "[Cantarell-Bold.otf]/OT:script=latn;language=dflt;+liga;+tnum;+
+lnum;mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/texmf-dist/fonts/opentype/gnome/cantarell/Cantarell-Bold
+.otf
+
+LaTeX Warning: Reference `fig:millerurey' on page 18 undefined on input line 30
+6.
+
+Missing character: There is no α in font [Cantarell-Regular.otf]/OT:script=latn
+;language=dflt;+liga;+tnum;+lnum;mapping=tex-text;!
+Missing character: There is no β in font [Cantarell-Regular.otf]/OT:script=latn
+;language=dflt;+liga;+tnum;+lnum;mapping=tex-text;!
+Missing character: There is no α in font [Cantarell-Regular.otf]/OT:script=latn
+;language=dflt;+liga;+tnum;+lnum;mapping=tex-text;!
+File: ./figures/life/Miller-Urey_experiment-en.png Graphic file (type bmp)
+<./figures/life/Miller-Urey_experiment-en.png>
+[18] [19]
 File: ./figures/life/Celltypes.png Graphic file (type bmp)
 <./figures/life/Celltypes.png>
 ! Argument of \caption@ydblarg has an extra }.
 <inserted text> 
                 \par 
-l.271 ...ell (left) and prokaryotic cell (right)}}
+l.349 ...ell (left) and prokaryotic cell (right)}}
                                                   (\#fig:celltypecartoon ) 
 Here is how much of TeX's memory you used:
- 22529 strings out of 481691
- 423772 string characters out of 5933564
- 832888 words of memory out of 5000000
- 39275 multiletter control sequences out of 15000+600000
- 541813 words of font info for 104 fonts, out of 8000000 for 9000
+ 22543 strings out of 481691
+ 424370 string characters out of 5933564
+ 833888 words of memory out of 5000000
+ 39287 multiletter control sequences out of 15000+600000
+ 541821 words of font info for 105 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 63i,8n,125p,1261b,797s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,8n,125p,1448b,797s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on _main.pdf (15 pages).
+Output written on _main.pdf (19 pages).

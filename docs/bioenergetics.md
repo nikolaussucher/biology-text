@@ -10,10 +10,14 @@ Adenosine triphosphate (ATP) is the main "energy currency" for organisms; the go
 
 (ref:atpsform) [Structure of adenosine triphosphate (ATP), protonated](https://commons.wikimedia.org/wiki/File:Adenosintriphosphat_protoniert.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/bioenergetics/Adenosintriphosphat_protoniert.svg" alt="(ref:atpsform)" width="70%" />
-<p class="caption">(\#fig:atpstrucform)(ref:atpsform)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bioenergetics/Adenosintriphosphat_protoniert} 
+
+}
+
+\caption{(ref:atpsform)}(\#fig:atpstrucform)
+\end{figure}
 
 Living organisms produce ATP from energy sources, mostly sunlight or O2, mainly via oxidative phosphorylation. The terminal phosphate bonds of ATP are relatively weak compared with the stronger bonds formed when ATP is hydrolyzed (broken down by water) to adenosine diphosphate and inorganic phosphate. Here it is the thermodynamically favorable free energy of hydrolysis that results in energy release; the phosphoanhydride bond between the terminal phosphate group and the rest of the ATP molecule does not itself contain this energy. An organism's stockpile of ATP is used as a battery to store energy in cells. Utilization of chemical energy from such molecular bond rearrangement powers biological processes in every biological organism.
 
@@ -45,10 +49,14 @@ As well as the evolution of new metabolic pathways, evolution can also cause the
 
 (ref:sun) [The Sun](https://commons.wikimedia.org/wiki/File:Sun_in_February_(black_version).jpg) is the source of energy for most of life on Earth. It derives its energy mainly from nuclear fusion in its core, converting mass to energy as protons are combined to form helium. This energy is transported to the sun's surface then released into space mainly in the form of radiant (light) energy.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/bioenergetics/Sun_in_February_black_version.jpg" alt="(ref:sun)" width="70%" />
-<p class="caption">(\#fig:energyfromsun)(ref:sun)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bioenergetics/Sun_in_February_black_version} 
+
+}
+
+\caption{(ref:sun)}(\#fig:energyfromsun)
+\end{figure}
 
 The sun is the primary source of energy for living organisms on earth. The relationship between the energy of the incoming sunlight and its wavelength λ or frequency ν is given by
 
@@ -75,10 +83,14 @@ Metabolic reactions may be categorized as catabolic – the breaking down of com
 
 (ref:simplmet) [Simplified view of the cellular metabolism](https://commons.wikimedia.org/wiki/File:Metabolism.png) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/bioenergetics/Metabolism.png" alt="(ref:simplmet)" width="70%" />
-<p class="caption">(\#fig:simpleviewmet)(ref:simplmet)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bioenergetics/Metabolism} 
+
+}
+
+\caption{(ref:simplmet)}(\#fig:simpleviewmet)
+\end{figure}
 
 The chemical reactions of metabolism are organized into metabolic pathways, in which one chemical is transformed through a series of steps into another chemical, each step being facilitated by a specific enzyme. Enzymes are crucial to metabolism because they allow organisms to drive desirable reactions that require energy that will not occur by themselves, by coupling them to spontaneous reactions that release energy. Enzymes act as catalysts – they allow a reaction to proceed more rapidly – and they also allow the regulation of the rate of a metabolic reaction, for example in response to changes in the cell's environment or to signals from other cells.
 
@@ -88,36 +100,18 @@ A striking feature of metabolism is the similarity of the basic metabolic pathwa
 
 Most of the structures that make up animals, plants and microbes are made from four basic classes of molecule: amino acids, carbohydrates , nucleic acid and lipids (often called fats). As these molecules are vital for life, metabolic reactions either focus on making these molecules during the construction of cells and tissues, or by breaking them down and using them as a source of energy, by their digestion. These biochemicals can be joined together to make polymers such as DNA and proteins, essential macromolecules of life.
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Type of molecule </th>
-   <th style="text-align:left;"> Name of monomer forms </th>
-   <th style="text-align:left;"> Name of polymer forms </th>
-   <th style="text-align:left;"> Examples of polymer forms </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> Amino acids </td>
-   <td style="text-align:left;"> Amino acids </td>
-   <td style="text-align:left;"> Proteins (made of polypeptides) </td>
-   <td style="text-align:left;"> Fibrous proteins and globular proteins </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Carbohydrates </td>
-   <td style="text-align:left;"> Monosaccharides </td>
-   <td style="text-align:left;"> Polysaccharides </td>
-   <td style="text-align:left;"> Starch, glycogen and cellulose </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Nucleic acids </td>
-   <td style="text-align:left;"> Nucleotides </td>
-   <td style="text-align:left;"> Polynucleotides </td>
-   <td style="text-align:left;"> DNA and RNA </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+\centering
+\begin{tabular}{llll}
+\toprule
+Type of molecule & Name of monomer forms & Name of polymer forms & Examples of polymer forms\\
+\midrule
+\rowcolor{gray!6}  Amino acids & Amino acids & Proteins (made of polypeptides) & Fibrous proteins and globular proteins\\
+Carbohydrates & Monosaccharides & Polysaccharides & Starch, glycogen and cellulose\\
+\rowcolor{gray!6}  Nucleic acids & Nucleotides & Polynucleotides & DNA and RNA\\
+\bottomrule
+\end{tabular}
+\end{table}
 The history of the scientific study of metabolism spans several centuries and has moved from examining whole animals in early studies, to examining individual metabolic reactions in modern biochemistry. The first controlled experiments in human metabolism were published by Santorio Santorio in 1614 in his book Ars de statica medicina. He described how he weighed himself before and after eating, sleep, working, sex, fasting, drinking, and excreting. He found that most of the food he took in was lost through what he called "insensible perspiration".
 
 In these early studies, the mechanisms of these metabolic processes had not been identified and a vital force was thought to animate living tissue. In the 19th century, when studying the fermentation of sugar to alcohol by yeast, Louis Pasteur concluded that fermentation was catalyzed by substances within the yeast cells he called "ferments". He wrote that "alcoholic fermentation is an act correlated with the life and organization of the yeast cells, not with the death or putrefaction of the cells." This discovery, along with the publication by Friedrich Wöhler in 1828 of a paper on the chemical synthesis of urea, and is notable for being the first organic compound prepared from wholly inorganic precursors. This proved that the organic compounds and chemical reactions found in cells were no different in principle than any other part of chemistry.
@@ -130,10 +124,14 @@ Catabolism is the set of metabolic processes that break down large molecules. Th
 
 (ref:simplcat) [Simplified diagram of catabolism of proteins, carbohydrates and fats.](https://commons.wikimedia.org/wiki/File:Catabolism_schematic.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/bioenergetics/Catabolism_schematic.svg" alt="(ref:simplcat)" width="70%" />
-<p class="caption">(\#fig:simplecatdia )(ref:simplcat)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/bioenergetics/Catabolism_schematic} 
+
+}
+
+\caption{(ref:simplcat)}(\#fig:simplecatdia )
+\end{figure}
 
 The most common set of catabolic reactions in animals can be separated into three main stages. In the first stage, large organic molecules, such as proteins, polysaccharides or lipids, are digested into their smaller components outside cells. Next, these smaller molecules are taken up by cells and converted to smaller molecules, usually acetyl coenzyme A (acetyl-CoA), which releases some energy. Finally, the acetyl group on the CoA is oxidised to water and carbon dioxide in the citric acid cycle and electron transport chain, releasing the energy that is stored by reducing the coenzyme nicotinamide adenine dinucleotide (NAD+) into NADH.
 

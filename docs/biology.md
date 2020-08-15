@@ -26,19 +26,6 @@ The discovery of the physical representation of heredity came along with evoluti
 
 ## Characteristics of Life
 
-There is currently no consensus regarding the definition of [life](https://en.wikipedia.org/wiki/Life). One popular definition is that organisms are open systems that maintain homeostasis, are composed of cells, have a life cycle, undergo metabolism, can grow, adapt to their environment, respond to stimuli, reproduce and evolve. Other definitions sometimes include non-cellular life forms such as viruses and viroids.
-
-[Abiogenesis](https://en.wikipedia.org/wiki/Abiogenesis), or informally the origin of life, is the natural process of life arising from non-living matter, such as simple organic compounds. The prevailing scientific hypothesis is that the transition from non-living to living entities was not a single event, but a gradual process of increasing complexity. Life on Earth first appeared as early as 4.28 billion years ago, soon after ocean formation 4.41 billion years ago, and not long after the formation of the Earth 4.54 billion years ago. The earliest known life forms are microfossils of bacteria. Researchers generally think that current life on Earth descends from an RNA world, although RNA-based life may not have been the first life to have existed. The classic 1952 Miller–Urey experiment and similar research demonstrated that most amino acids, the chemical constituents of the proteins used in all living organisms, can be synthesized from inorganic compounds under conditions intended to replicate those of the early Earth. Complex organic molecules occur in the Solar System and in interstellar space, and these molecules may have provided starting material for the development of life on Earth.
-
-Since its primordial beginnings, life on Earth has changed its environment on a geologic time scale, but it has also adapted to survive in most ecosystems and conditions. Some microorganisms, called extremophiles, thrive in physically or geochemically extreme environments that are detrimental to most other life on Earth. The cell is considered the structural and functional unit of life. There are two kinds of cells, prokaryotic and eukaryotic, both of which consist of cytoplasm enclosed within a membrane and contain many biomolecules such as proteins and nucleic acids. Cells reproduce through a process of cell division, in which the parent cell divides into two or more daughter cells.
-
-(ref:celltypes) [Cartoons of a eukaryotic cell (left) and prokaryotic cell (right)](https://commons.wikimedia.org/wiki/File:Celltypes.svg)
-
-<div class="figure" style="text-align: center">
-<img src="./figures/life/Celltypes.svg" alt="(ref:celltypes)" width="70%" />
-<p class="caption">(\#fig:celltypecartoon )(ref:celltypes)</p>
-</div>
-
 In the past, there have been many attempts to define what is meant by "life" through obsolete concepts such as odic force, hylomorphism, spontaneous generation and vitalism, that have now been disproved by biological discoveries. Aristotle is considered to be the first person to classify organisms. Later, Carl Linnaeus introduced his system of binomial nomenclature for the classification of species. Eventually new groups and categories of life were discovered, such as cells and microorganisms, forcing dramatic revisions of the structure of relationships between living organisms. Though currently only known on Earth, life need not be restricted to it, and many scientists speculate in the existence of extraterrestrial life. Artificial life is a computer simulation or human-made reconstruction of any aspect of life, which is often used to examine systems related to natural life.
 
 Death is the permanent termination of all biological functions which sustain an organism, and as such, is the end of its life. Extinction is the term describing the dying out of a group or taxon, usually a species. Fossils are the preserved remains or traces of organisms.
@@ -61,9 +48,36 @@ More than 99% of all species of life forms, amounting to over five billion speci
 
 Although the number of Earth's catalogued species of lifeforms is between 1.2 million and 2 million, the total number of species in the planet is uncertain. Estimates range from 8 million to 100 million, with a more narrow range between 10 and 14 million, but it may be as high as 1 trillion (with only one-thousandth of one percent of the species described) according to studies realized in May 2016. The total number of related DNA base pairs on Earth is estimated at 5.0 x 10^37^ and weighs 50 billion tonnes. In comparison, the total mass of the biosphere has been estimated to be as much as 4 TtC (trillion tons of carbon). In July 2016, scientists reported identifying a set of 355 genes from the Last Universal Common Ancestor (LUCA) of all organisms living on Earth.
 
+## Origin of Life
+
+The Ancient Greeks believed that living things could spontaneously come into being from nonliving matter, and that the goddess Gaia could make life arise spontaneously from stones – a process known as Generatio spontanea. [Aristotle](https://en.wikipedia.org/wiki/Aristotle) disagreed, but he still believed that creatures could arise from dissimilar organisms or from soil. Variations of this concept of spontaneous generation still existed as late as the 17th century, but towards the end of the 17th century, a series of observations and arguments began that eventually discredited such ideas. This advance in scientific understanding was met with much opposition, with personal beliefs and individual prejudices often obscuring the facts.
+
+[William Harvey](https://en.wikipedia.org/wiki/William_Harvey) (1578–1657) was an early proponent of all life beginning from an egg, omne vivum ex ovo. [Francesco Redi](https://en.wikipedia.org/wiki/Francesco_Redi), an Italian physician, proved as early as 1668 that higher forms of life did not originate spontaneously by demonstrating that maggots come from eggs of flies. But proponents of spontaneous generation claimed that this did not apply to microbes and continued to hold that these could arise spontaneously. Attempts to disprove the spontaneous generation of life from non-life continued in the early 19th century with observations and experiments by Franz Schulze and [Theodor Schwann](https://en.wikipedia.org/wiki/Theodor_Schwann). In 1745, [John Needham](https://en.wikipedia.org/wiki/John_Needham) added chicken broth to a flask and boiled it. He then let it cool and waited. Microbes grew, and he proposed it as an example of spontaneous generation. In 1768, [Lazzaro Spallanzani](https://en.wikipedia.org/wiki/Lazzaro_Spallanzani) repeated Needham's experiment but removed all the air from the flask. No growth occurred. In 1854, Heinrich G. F. Schröder (1810–1885) and Theodor von Dusch, and in 1859, Schröder alone, repeated the Helmholtz filtration experiment and showed that living particles can be removed from air by filtering it through cotton-wool.
+
+In 1864, [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) finally announced the results of his scientific experiments. In a series of experiments similar to those performed earlier by Needham and Spallanzani, Pasteur demonstrated that life does not arise in areas that have not been contaminated by existing life. Pasteur's empirical results were summarized in the phrase Omne vivum ex vivo, Latin for "all life [is] from life".
+
 All known life forms share fundamental molecular mechanisms, reflecting their common descent; based on these observations, hypotheses on the origin of life attempt to find a mechanism explaining the formation of a universal common ancestor, from simple organic molecules via pre-cellular life to protocells and metabolism. Models have been divided into "genes-first" and "metabolism-first" categories, but a recent trend is the emergence of hybrid models that combine both categories.
 
+Life on Earth is based on carbon and water. Carbon provides stable frameworks for complex chemicals and can be easily extracted from the environment, especially from carbon dioxide. There is no other chemical element whose properties are similar enough to carbon's to be called an analogue; silicon, the element directly below carbon on the periodic table, does not form very many complex stable molecules, and because most of its compounds are water-insoluble and because silicon dioxide is a hard and abrasive solid in contrast to carbon dioxide at temperatures associated with living things, it would be more difficult for organisms to extract. The elements boron and phosphorus have more complex chemistries, but suffer from other limitations relative to carbon. Water is an excellent solvent and has two other useful properties: the fact that ice floats enables aquatic organisms to survive beneath it in winter; and its molecules have electrically negative and positive ends, which enables it to form a wider range of compounds than other solvents can. Other good solvents, such as ammonia, are liquid only at such low temperatures that chemical reactions may be too slow to sustain life, and lack water's other advantages. Organisms based on alternative biochemistry may, however, be possible on other planets.
+
+[Abiogenesis](https://en.wikipedia.org/wiki/Abiogenesis), or informally the origin of life, is the natural process of life arising from non-living matter, such as simple organic compounds. The prevailing scientific hypothesis is that the transition from non-living to living entities was not a single event, but a gradual process of increasing complexity. Although the occurrence of abiogenesis is uncontroversial among scientists, its possible mechanisms are poorly understood. There are several principles and hypotheses for how abiogenesis could have occurred. Life on Earth first appeared as early as 4.28 billion years ago, soon after ocean formation 4.41 billion years ago, and not long after the formation of the Earth 4.54 billion years ago. The earliest known life forms are microfossils of bacteria.
+
 There is no current scientific consensus as to how life originated. However, many accepted scientific models build on the Miller–Urey experiment and the work of Sidney Fox, which show that conditions on the primitive Earth favored chemical reactions that synthesize amino acids and other organic compounds from inorganic precursors, and phospholipids spontaneously form lipid bilayers, the basic structure of a cell membrane.
+
+The classic 1952 Miller–Urey experiment (Figure \@ref(fig:millerurey)) demonstrated that most amino acids, the chemical constituents of the proteins used in all living organisms, can be synthesized from inorganic compounds under conditions intended to replicate those of the early Earth. The experiment used water (H~2~O), methane (CH~4~), ammonia (NH~3~), and hydrogen (H~2~). The chemicals were all sealed inside a sterile 5-liter glass flask connected to a 500 ml flask half-full of water. The water in the smaller flask was heated to induce evaporation, and the water vapour was allowed to enter the larger flask. Continuous electrical sparks were fired between the electrodes to simulate lightning in the water vapour and gaseous mixture, and then the simulated atmosphere was cooled again so that the water condensed and trickled into a U-shaped trap at the bottom of the apparatus.
+
+After a day, the solution collected at the trap had turned pink in colour, and after a week of continuous operation the solution was deep red and turbid. The boiling flask was then removed, and mercuric chloride was added to prevent microbial contamination. The reaction was stopped by adding barium hydroxide and sulfuric acid, and evaporated to remove impurities. Using paper chromatography, Miller identified five amino acids present in the solution: glycine, α-alanine and β-alanine were positively identified, while aspartic acid and α-aminobutyric acid (AABA) were less certain, due to the spots being faint.Complex organic molecules occur in the Solar System and in interstellar space, and these molecules may have provided starting material for the development of life on Earth.
+
+(ref:muex) [The Miller–Urey experiment](https://commons.wikimedia.org/wiki/File:MUexperiment.png) was a chemical experiment that simulated the conditions thought at the time (1952) to be present on the early Earth and tested the chemical origin of life under those conditions. The experiment at the time supported Alexander Oparin's and J. B. S. Haldane's hypothesis that putative conditions on the primitive Earth favoured chemical reactions that synthesized more complex organic compounds from simpler inorganic precursors. Considered to be the classic experiment investigating abiogenesis, it was conducted in 1952 by Stanley Miller, with assistance from Harold Urey, at the University of Chicago and later the University of California, San Diego and published the following year.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Miller-Urey_experiment-en} 
+
+}
+
+\caption{(ref:mux)}(\#fig:millerurey)
+\end{figure}
 
 Living organisms synthesize proteins, which are polymers of amino acids using instructions encoded by deoxyribonucleic acid (DNA). Protein synthesis entails intermediary ribonucleic acid (RNA) polymers. One possibility for how life began is that genes originated first, followed by proteins; the alternative being that proteins came first and then genes.
 
@@ -83,6 +97,19 @@ In March 2015, NASA scientists reported that, for the first time, complex DNA an
 
 According to the panspermia hypothesis, microscopic life—distributed by meteoroids, asteroids and other small Solar System bodies—may exist throughout the universe.
 
+Since its primordial beginnings, life on Earth has changed its environment on a geologic time scale, but it has also adapted to survive in most ecosystems and conditions. Some microorganisms, called extremophiles, thrive in physically or geochemically extreme environments that are detrimental to most other life on Earth. The cell is considered the structural and functional unit of life. There are two kinds of cells, prokaryotic and eukaryotic, both of which consist of cytoplasm enclosed within a membrane and contain many biomolecules such as proteins and nucleic acids. Cells reproduce through a process of cell division, in which the parent cell divides into two or more daughter cells.
+
+(ref:celltypes) [Cartoons of a eukaryotic cell (left) and prokaryotic cell (right)](https://commons.wikimedia.org/wiki/File:Celltypes.svg)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Celltypes} 
+
+}
+
+\caption{(ref:celltypes)}(\#fig:celltypecartoon )
+\end{figure}
+
 ## Foundations of Modern Biology
 
 ## Cell theory
@@ -95,10 +122,14 @@ There are two primary types of cells. [Prokaryotes](https://en.wikipedia.org/wik
 
 (ref:livorg) [Tree diagram](https://commons.wikimedia.org/wiki/File:Tree_of_Living_Organisms_2.png) illustrating the evolutionary relationship of living organisms]
 
-<div class="figure" style="text-align: center">
-<img src="./figures/life/Tree_of_Living_Organisms_2.png" alt="(ref:livorg)" width="70%" />
-<p class="caption">(\#fig:livorgtree)(ref:livorg)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Tree_of_Living_Organisms_2} 
+
+}
+
+\caption{(ref:livorg)}(\#fig:livorgtree)
+\end{figure}
 
 A [virus](https://en.wikipedia.org/wiki/Virus) is a submicroscopic infectious agent that replicates only inside the living cells of an organism. Scientific opinions differ on whether viruses are a form of life, or organic structures that interact with living organisms. They have been described as "organisms at the edge of life", since they resemble organisms in that they possess genes, evolve by natural selection, and reproduce by creating multiple copies of themselves through self-assembly. Although they have genes, they do not have a cellular structure, which is seen as the basic unit of life. Viruses do not have their own metabolism, and require a host cell to make new products. They therefore cannot naturally reproduce outside a host cell—although bacterial species such as rickettsia and chlamydia are considered living organisms despite the same limitation. Accepted forms of life use cell division to reproduce, whereas viruses spontaneously assemble within cells. They differ from autonomous growth of crystals as they inherit genetic mutations while being subject to natural selection. Virus self-assembly within host cells has implications for the study of the origin of life, as it lends further credence to the hypothesis that life could have started as self-assembling organic molecules.
 
@@ -128,10 +159,14 @@ The earliest evidence of life comes from biogenic carbon signatures and stromato
 
 (ref:stromatolite) [Modern stromatolites in Shark Bay, Western Australia](https://commons.wikimedia.org/wiki/File:Stromatolites_in_Sharkbay.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/life/Stromatolites_in_Sharkbay.jpg" alt="(ref:)" width="70%" />
-<p class="caption">(\#fig:unnamed-chunk-1)(ref:)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Stromatolites_in_Sharkbay} 
+
+}
+
+\caption{(ref:)}(\#fig:unnamed-chunk-1)
+\end{figure}
 
 Microbial mats of coexisting bacteria and archaea were the dominant form of life in the early Archean Epoch and many of the major steps in early evolution are thought to have taken place in this environment. The evolution of photosynthesis, around 3.5 Ga, eventually led to a buildup of its waste product, oxygen, in the atmosphere, leading to the great oxygenation event, beginning around 2.4 Ga. The earliest evidence of eukaryotes (complex cells with organelles) dates from 1.85 Ga, and while they may have been present earlier, their diversification accelerated when they started using oxygen in their metabolism. Later, around 1.7 Ga, multicellular organisms began to appear, with differentiated cells performing specialised functions. Sexual reproduction, which involves the fusion of male and female reproductive cells (gametes) to create a zygote in a process called fertilization is, in contrast to asexual reproduction, the primary method of reproduction for the vast majority of macroscopic organisms, including almost all eukaryotes (which includes animals and plants). However the origin and evolution of sexual reproduction remain a puzzle for biologists though it did evolve from a common ancestor that was a single celled eukaryotic species. Bilateria, animals having a left and a right side that are mirror images of each other, appeared by 555 Ma (million years ago).
 
@@ -193,19 +228,27 @@ Traditionally, living things have been divided into five kingdoms: Monera; Proti
 
 (ref:eukardiv) [Eukaryotes and some examples of their diversity](https://commons.wikimedia.org/wiki/File:Eukaryota_diversity_2.jpg) – clockwise from top left: Red mason bee, Boletus edulis, chimpanzee, Isotricha intestinalis, Ranunculus asiaticus, and Volvox carteri.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/life/Eukaryota_diversity_2.jpg" alt="(ref:eukardiv)" width="70%" />
-<p class="caption">(\#fig:eukaryotediversity)(ref:eukardiv)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Eukaryota_diversity_2} 
+
+}
+
+\caption{(ref:eukardiv)}(\#fig:eukaryotediversity)
+\end{figure}
 
 Further, each kingdom is broken down recursively until each species is separately classified. The order is: Domain; Kingdom; Phylum; Class; Order; Family; Genus; Species.
 
 (ref:hierarchy) [The hierarchy of biological classification's eight major taxonomic ranks from the most specific (top) to the most general (bottom). Intermediate minor rankings are not shown. This diagram uses a 3 Domains / 6 Kingdoms format](https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/life/Biological_classification_L_Pengo.svg" alt="(ref:hierarchy)" width="70%" />
-<p class="caption">(\#fig:hierarchycartoon)(ref:hierarchy)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Biological_classification_L_Pengo} 
+
+}
+
+\caption{(ref:hierarchy)}(\#fig:hierarchycartoon)
+\end{figure}
 
 Outside of these categories, there are obligate intracellular parasites that are "on the edge of life" in terms of metabolic activity, meaning that many scientists do not actually classify such structures as alive, due to their lack of at least one or more of the fundamental functions or characteristics that define life. They are classified as viruses, viroids, prions, or satellites.
 

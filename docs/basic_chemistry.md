@@ -29,10 +29,14 @@ Quantum mechanics is also critically important for understanding how individual 
 
 (ref:atom) An [illustration of the helium atom](https://commons.wikimedia.org/wiki/File:Helium_atom_QM.svg), depicting the nucleus (pink) and the electron cloud distribution (black). The nucleus (upper right) in helium-4 is in reality spherically symmetric and closely resembles the electron cloud, although for more complicated nuclei this is not always the case. The black bar is one angstrom (10^−10^ m or100 pm).
 
-<div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Helium_atom_QM.svg" alt="(ref:atom)" width="70%" />
-<p class="caption">(\#fig:atomcartoon)(ref:atom)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Helium_atom_QM} 
+
+}
+
+\caption{(ref:atom)}(\#fig:atomcartoon)
+\end{figure}
 The electrons of an atom are attracted to the protons in an atomic nucleus by the electromagnetic force. The protons and neutrons in the nucleus are attracted to each other by the nuclear force. This force is usually stronger than the electromagnetic force that repels the positively charged protons from one another. Under certain circumstances, the repelling electromagnetic force becomes stronger than the nuclear force. In this case, the nucleus splits and leaves behind different elements. This is a form of nuclear decay.
 
 The number of protons in the nucleus is the atomic number and it defines to which chemical element the atom belongs. For example, any atom that contains 29 protons is copper. The number of neutrons defines the isotope of the element. Atoms can attach to one or more other atoms by chemical bonds to form chemical compounds such as molecules or crystals. The ability of atoms to associate and dissociate is responsible for most of the physical changes observed in nature. Chemistry is the discipline that studies these changes.
@@ -57,10 +61,14 @@ In 1913 the physicist Niels Bohr proposed a model in which the electrons of an a
 
 (ref:bohr) Niels Bohr's 1913 [quantum model of the atom](https://en.wikipedia.org/wiki/Bohr_model#/media/File:Bohr_atom_model.svg), which incorporated an explanation of Johannes Rydberg's 1888 formula, Max Planck's 1900 quantum hypothesis, i.e. that atomic energy radiators have discrete energy values (ε = hν), J. J. Thomson's 1904 plum pudding model, Albert Einstein's 1905 light quanta postulate, and Ernest Rutherford's 1907 discovery of the atomic nucleus. Note that the electron does not travel along the black line when emitting a photon. It "jumps", disappearing from the outer orbit and appearing in the inner one and cannot exist in the space between orbits 2 and 3. The Bohr model of the hydrogen atom (Z = 1) or a hydrogen-like ion (Z > 1), where the negatively charged electron confined to an atomic shell encircles a small, positively charged atomic nucleus and where an electron jumps between orbits, is accompanied by an emitted or absorbed amount of electromagnetic energy (hν). The orbits in which the electron may travel are shown as grey circles; their radius increases as n2, where n is the principal quantum number. The 3 → 2 transition depicted here produces the first line of the Balmer series, and for hydrogen (Z = 1) it results in a photon of wavelength 656 nm (red light). 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Bohr_atom_model.svg" alt="(ref:bohr)" width="70%" />
-<p class="caption">(\#fig:bohrmodel)(ref:bohr)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Bohr_atom_model} 
+
+}
+
+\caption{(ref:bohr)}(\#fig:bohrmodel)
+\end{figure}
 
 Later in the same year Henry Moseley provided additional experimental evidence in favor of Niels Bohr's theory. These results refined Ernest Rutherford's and Antonius Van den Broek's model, which proposed that the atom contains in its nucleus a number of positive nuclear charges that is equal to its (atomic) number in the periodic table. Until these experiments, atomic number was not known to be a physical and experimental quantity. That it is equal to the atomic nuclear charge remains the accepted atomic model today.
 
@@ -80,10 +88,14 @@ The [periodic table](https://en.wikipedia.org/wiki/Periodic_table), also known a
 
 (ref:period) [A simple depiction of the periodic table of the elements.](https://commons.wikimedia.org/wiki/File:Simple_Periodic_Table_Chart-en.svg)  
 
-<div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Simple_Periodic_Table_Chart-en.svg" alt="(ref:period)" width="70%" />
-<p class="caption">(\#fig:periodictable)(ref:period)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Simple_Periodic_Table_Chart-en} 
+
+}
+
+\caption{(ref:period)}(\#fig:periodictable)
+\end{figure}
 
 The organization of the periodic table can be used to derive relationships between the various element properties, and also to predict chemical properties and behaviours of undiscovered or newly synthesized elements. Russian chemist Dmitri Mendeleev published the first recognizable periodic table in 1869, developed mainly to illustrate periodic trends of the then-known elements. He also predicted some properties of unidentified elements that were expected to fill gaps within the table. Most of his forecasts proved to be correct. Mendeleev's idea has been slowly expanded and refined with the discovery or synthesis of further new elements and the development of new theoretical models to explain chemical behaviour.
 
@@ -111,10 +123,14 @@ Chemical bonds between atoms were explained by Gilbert Newton Lewis in 1916, as 
 
 (ref:bond) [Examples of Lewis dot-style representations of chemical bonds](https://en.wikipedia.org/wiki/Chemical_bond#/media/File:Electron_dot.svg) between carbon (C), hydrogen (H), and oxygen (O). Lewis dot diagrams were an early attempt to describe chemical bonding and are still widely used today. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Electron_dot.svg" alt="(ref:bond)" width="70%" />
-<p class="caption">(\#fig:lewisbond)(ref:bond)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Electron_dot} 
+
+}
+
+\caption{(ref:bond)}(\#fig:lewisbond)
+\end{figure}
 
 
 A chemical bond can be a covalent bond, an ionic bond, a hydrogen bond or just because of Van der Waals force. Each of these kinds of bonds is ascribed to some potential. These potentials create the interactions which hold atoms together in molecules or crystals. All bonds can be explained by quantum theory, but, in practice, simplification rules allow chemists to predict the strength, directionality, and polarity of bonds. In many simple compounds, valence bond theory, the Valence Shell Electron Pair Repulsion model (VSEPR), and the concept of oxidation number can be used to explain molecular structure and composition.
@@ -141,19 +157,27 @@ Living organisms require energy to stay alive, such as the energy humans get fro
 
 (ref:energ) [Basic overview of energy and human life.](https://commons.wikimedia.org/wiki/File:Energy_and_life.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Energy_and_life.svg" alt="(ref:energ)" width="70%" />
-<p class="caption">(\#fig:energylife)(ref:energ)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Energy_and_life} 
+
+}
+
+\caption{(ref:energ)}(\#fig:energylife)
+\end{figure}
 
 In 1843, Joule independently discovered the mechanical equivalent of heat (energy) in a series of experiments. The most famous of them used the "Joule apparatus": a descending weight, attached to a string, caused rotation of a paddle immersed in water, practically insulated from heat transfer. It showed that the gravitational potential energy lost by the weight in descending was equal to the internal energy gained by the water through friction with the paddle.
 
 (ref:joule) [Joule's apparatus for measuring the mechanical equivalent of heat. A descending weight attached to a string causes a paddle immersed in water to rotate.](https://commons.wikimedia.org/wiki/File:Joule%27s_Apparatus_(Harper%27s_Scan).png) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Joules_Apparatus_Harpers_Scan.png" alt="(ref:joule)" width="70%" />
-<p class="caption">(\#fig:jouleapparatus)(ref:joule)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Joules_Apparatus_Harpers_Scan} 
+
+}
+
+\caption{(ref:joule)}(\#fig:jouleapparatus)
+\end{figure}
 
 In the International System of Units (SI), the unit of energy is the joule, named after James Prescott Joule. It is a derived unit. It is equal to the energy expended (or work done) in applying a force of one newton through a distance of one metre. However energy is also expressed in many other units not part of the SI, such as ergs, calories, British Thermal Units, kilowatt-hours and kilocalories, which require a conversion factor when expressed in SI units.
 
@@ -199,129 +223,57 @@ $$pH = - \log_{10} [H_3O^+]$$
 
 At 25 °C, solutions with a pH less than 7 are acidic, and solutions with a pH greater than 7 are basic. The neutral value of the pH depends on the temperature, being lower than 7 if the temperature increases. The pH value can be less than 0 for very strong acids, or greater than 14 for very strong bases.
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
-<caption>(\#tab:solutions)Average values of pH in common solutions</caption>
- <thead>
-  <tr>
-   <th style="text-align:left;"> Substance </th>
-   <th style="text-align:center;"> pH Range </th>
-   <th style="text-align:left;"> Type </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> Battery acid </td>
-   <td style="text-align:center;"> &lt; 1 </td>
-   <td style="text-align:left;"> Acid </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Gastric acid </td>
-   <td style="text-align:center;"> 1.0 – 1.5 </td>
-   <td style="text-align:left;"> Acid </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Vinegar </td>
-   <td style="text-align:center;"> 2.5 </td>
-   <td style="text-align:left;"> Acid </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Orange juice </td>
-   <td style="text-align:center;"> 3.3 – 4.2 </td>
-   <td style="text-align:left;"> Acid </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Black coffee </td>
-   <td style="text-align:center;"> 5 – 5.03 </td>
-   <td style="text-align:left;"> Acid </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Milk </td>
-   <td style="text-align:center;"> 6.5 – 6.8 </td>
-   <td style="text-align:left;"> Acid </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Pure water </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:left;"> Neutral </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Sea water </td>
-   <td style="text-align:center;"> 7.5 – 8.4 </td>
-   <td style="text-align:left;"> Base </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Ammonia </td>
-   <td style="text-align:center;"> 11.0 – 11.5 </td>
-   <td style="text-align:left;"> Base </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Bleach </td>
-   <td style="text-align:center;"> 12.5 </td>
-   <td style="text-align:left;"> Base </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Lye </td>
-   <td style="text-align:center;"> 13.0 – 13. </td>
-   <td style="text-align:left;"> Base </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+
+\caption{(\#tab:solutions)Average values of pH in common solutions}
+\centering
+\begin{tabular}[t]{lcl}
+\toprule
+Substance & pH Range & Type\\
+\midrule
+\rowcolor{gray!6}  Battery acid & < 1 & Acid\\
+Gastric acid & 1.0 – 1.5 & Acid\\
+\rowcolor{gray!6}  Vinegar & 2.5 & Acid\\
+Orange juice & 3.3 – 4.2 & Acid\\
+\rowcolor{gray!6}  Black coffee & 5 – 5.03 & Acid\\
+\addlinespace
+Milk & 6.5 – 6.8 & Acid\\
+\rowcolor{gray!6}  Pure water & 7 & Neutral\\
+Sea water & 7.5 – 8.4 & Base\\
+\rowcolor{gray!6}  Ammonia & 11.0 – 11.5 & Base\\
+Bleach & 12.5 & Base\\
+\addlinespace
+\rowcolor{gray!6}  Lye & 13.0 – 13. & Base\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 The pH of different cellular compartments, body fluids, and organs is usually tightly regulated in a process called acid-base homeostasis. The most common disorder in acid-base homeostasis is acidosis, which means an acid overload in the body, generally defined by pH falling below 7.35. Alkalosis is the opposite condition, with blood pH being excessively high.
 
 The pH of blood is usually slightly basic with a value of pH 7.365. This value is often referred to as physiological pH in biology and medicine. Plaque can create a local acidic environment that can result in tooth decay by demineralization. Enzymes and other proteins have an optimum pH range and can become inactivated or denatured outside this range.
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
-<caption>(\#tab:pH)Values of pH in living systems</caption>
- <thead>
-  <tr>
-   <th style="text-align:left;"> Compartment </th>
-   <th style="text-align:center;"> ph </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> Gastric acid </td>
-   <td style="text-align:center;"> 1.5-3.5 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Lysosomes </td>
-   <td style="text-align:center;"> 4.5 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Human skin </td>
-   <td style="text-align:center;"> 4.7 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Granules of chromaffin cells </td>
-   <td style="text-align:center;"> 5.5 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Urine </td>
-   <td style="text-align:center;"> 6 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Cytosol </td>
-   <td style="text-align:center;"> 7.2 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Blood (natural pH) </td>
-   <td style="text-align:center;"> 7.34–7.45 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Cerebrospinal fluid (CSF) </td>
-   <td style="text-align:center;"> 7.5 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Mitochondrial matrix </td>
-   <td style="text-align:center;"> 7.5 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Pancreas secretions </td>
-   <td style="text-align:center;"> 8.1 </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+
+\caption{(\#tab:pH)Values of pH in living systems}
+\centering
+\begin{tabular}[t]{lc}
+\toprule
+Compartment & ph\\
+\midrule
+\rowcolor{gray!6}  Gastric acid & 1.5-3.5\\
+Lysosomes & 4.5\\
+\rowcolor{gray!6}  Human skin & 4.7\\
+Granules of chromaffin cells & 5.5\\
+\rowcolor{gray!6}  Urine & 6\\
+\addlinespace
+Cytosol & 7.2\\
+\rowcolor{gray!6}  Blood (natural pH) & 7.34–7.45\\
+Cerebrospinal fluid (CSF) & 7.5\\
+\rowcolor{gray!6}  Mitochondrial matrix & 7.5\\
+Pancreas secretions & 8.1\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 Many biologically important molecules are acids. Nucleic acids, which contain acidic phosphate groups, include DNA and RNA. Nucleic acids contain the genetic code that determines many of an organism's characteristics, and is passed from parents to offspring. DNA contains the chemical blueprint for the synthesis of proteins which are made up of amino acid subunits. Cell membranes contain fatty acid esters such as phospholipids.
 
@@ -420,10 +372,14 @@ Because of its polarity, a molecule of water in the liquid or solid state can fo
 
 (ref:water) [Model of hydrogen bonds (1) between molecules of water.](https://commons.wikimedia.org/wiki/File:3D_model_hydrogen_bonds_in_water.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/chemistry/3D_model_hydrogen_bonds_in_water.svg" alt="(ref:water)" width="70%" />
-<p class="caption">(\#fig:waterbonds)(ref:water)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/3D_model_hydrogen_bonds_in_water} 
+
+}
+
+\caption{(ref:water)}(\#fig:waterbonds)
+\end{figure}
 
 These bonds are the cause of water's high surface tension and capillary forces. The capillary action refers to the tendency of water to move up a narrow tube against the force of gravity. This property is relied upon by all vascular plants, such as trees.
 

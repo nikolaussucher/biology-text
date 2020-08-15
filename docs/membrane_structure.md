@@ -4,10 +4,14 @@ The [cell membrane](https://en.wikipedia.org/wiki/Cell_membrane) (also known as 
 
 (ref:cellmembr) Picture of a [molecular dynamics simulation](https://doi.org/10.1371/journal.pone.0000880) of a cell membrane/protein complex consisting of bovine [rhodopsin](https://en.wikipedia.org/wiki/Rhodopsin) incorporated of a phosphatidylcholine (1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine, POPC) lipid bylayer. POPC and water molecules are depicted as sticks. The lipid layers facing the extracellular and cytoplasmic spaces are shown in white and blue, respectively. Both the extra- and intracellular interfaces are covered with layers of water. The secondary structure of rhodopsin is depicted in rainbow colored cartoon representation. Potassium and chloride ions are shown as spheres (colored in cyan and green, respectively). Image generated from [PDB file](http://www.charmm-gui.org/archive/complex/1gzm_rect_popc.pdb) obtained from the [CHARMM-GUI Archive - Protein/Membrane Complex Library](http://www.charmm-gui.org/?doc=archive&lib=complex) using the open source molecular visualization tool [PyMol](https://pymol.org/2/).
 
-<div class="figure" style="text-align: center">
-<img src="./figures/potential/cell_membrane_rhodopsin_water_Cl_K.png" alt="(ref:cellmembr)" width="70%" />
-<p class="caption">(\#fig:cellmembrane)(ref:cellmembr)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/potential/cell_membrane_rhodopsin_water_Cl_K} 
+
+}
+
+\caption{(ref:cellmembr)}(\#fig:cellmembrane)
+\end{figure}
 
 While [Robert Hooke’s](https://en.wikipedia.org/wiki/Robert_Hooke) discovery of cells in 1665 led to the proposal of the Cell Theory, Hooke misled the cell membrane theory that all cells contained a hard cell wall since only plant cells could be observed at the time. Microscopists focused on the cell wall for well over 150 years until advances in microscopy were made. In the early 19th century, cells were recognized as being separate entities, unconnected, and bound by individual cell walls after it was found that plant cells could be separated. This theory extended to include animal cells to suggest a universal mechanism for cell protection and development. By the second half of the 19th century, microscopy was still not advanced enough to make a distinction between cell membranes and cell wals. However, some microscopists correctly identified at this time that while invisible, it could be inferred that cell membranes existed in animal cells due to intracellular movement of components internally but not externally and that membranes were not the equivalent of a cell wall to plant cell. It was also inferred that cell membranes were not vital components to all cells. Many refuted the existence of a cell membrane still towards the end of the 19th century. In 1890, an update to the Cell Theory stated that cell membranes existed, but were merely secondary structures. It was not until later studies with osmosis and permeability that cell membranes gained more recognition. In 1895, Ernest Overton proposed that cell membranes were made of lipids.
 
@@ -46,37 +50,19 @@ The cell membrane, being exposed to the outside environment, is an important sit
 Most membrane proteins must be inserted in some way into the membrane. For this to occur, an N-terminus "signal sequence" of amino acids directs proteins to the endoplasmic reticulum, which inserts the proteins into a lipid bilayer. Once inserted, the proteins are then transported to their final destination in vesicles, where the vesicle fuses with the target membrane.
 
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Type </th>
-   <th style="text-align:left;"> Description </th>
-   <th style="text-align:left;"> Examples </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> Integral proteins </td>
-   <td style="text-align:left;"> Span the membrane and have a hydrophilic cytosolic domain, which interacts with internal molecules, a hydrophobic membrane-spanning domain that anchors it within the cell membrane, and a hydrophilic extracellular domain that interacts with external molecules. The hydrophobic domain consists of one, multiple, or a combination of α-helices and β sheet protein motifs. </td>
-   <td style="text-align:left;"> Ion channels, proton pumps, G protein-coupled receptor </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> or transmembrane proteins </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Lipid anchored proteins </td>
-   <td style="text-align:left;"> Covalently bound to single or multiple lipid molecules; hydrophobically insert into the cell membrane and anchor the protein. The protein itself is not in contact with the membrane. </td>
-   <td style="text-align:left;"> G proteins </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Peripheral proteins </td>
-   <td style="text-align:left;"> Attached to integral membrane proteins, or associated with peripheral regions of the lipid bilayer. These proteins tend to have only temporary interactions with biological membranes, and once reacted, the molecule dissociates to carry on its work in the cytoplasm. </td>
-   <td style="text-align:left;"> Some enzymes, some hormones </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+\centering
+\begin{tabular}{lll}
+\toprule
+Type & Description & Examples\\
+\midrule
+\rowcolor{gray!6}  Integral proteins & Span the membrane and have a hydrophilic cytosolic domain, which interacts with internal molecules, a hydrophobic membrane-spanning domain that anchors it within the cell membrane, and a hydrophilic extracellular domain that interacts with external molecules. The hydrophobic domain consists of one, multiple, or a combination of α-helices and β sheet protein motifs. & Ion channels, proton pumps, G protein-coupled receptor\\
+or transmembrane proteins &  & \\
+\rowcolor{gray!6}  Lipid anchored proteins & Covalently bound to single or multiple lipid molecules; hydrophobically insert into the cell membrane and anchor the protein. The protein itself is not in contact with the membrane. & G proteins\\
+Peripheral proteins & Attached to integral membrane proteins, or associated with peripheral regions of the lipid bilayer. These proteins tend to have only temporary interactions with biological membranes, and once reacted, the molecule dissociates to carry on its work in the cytoplasm. & Some enzymes, some hormones\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 
 ## Function
@@ -237,10 +223,14 @@ Physiological pH plays a part in the selectivity of solutes passing through tigh
 
 (ref:junction) [Simplified diagram of two types of cell junctions.](https://commons.wikimedia.org/wiki/File:Cell_junction_simplified_en.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/membrane/Cell_junction_simplified_en.svg" alt="(ref:junction)" width="70%" />
-<p class="caption">(\#fig:celljunction)(ref:junction)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/membrane/Cell_junction_simplified_en} 
+
+}
+
+\caption{(ref:junction)}(\#fig:celljunction)
+\end{figure}
 
 ## Cell Junction Molecules
 

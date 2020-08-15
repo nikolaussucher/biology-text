@@ -14,10 +14,14 @@ Organic molecules are described commonly by drawings or structural formulas, com
 
 (ref:chemform) [This diagram](https://commons.wikimedia.org/wiki/File:Stuctural_drawings_of_butane_854px.jpg)shows 5 different structural representations of the organic compound butane. The left-most structure is a bond-line drawing where the hydrogen atoms are removed. The 2nd structure has the hydrogens added depicted-the dark wedged bonds indicate the hydrogen atoms are coming toward the reader, the hashed bonds indicate the atoms are oriented away from the reader, and the solid (plain) ponds indicate the bonds are in the plane of the screen/paper. The middle structure shows the four carbon atoms. The 4th structure is a representation just showing the atoms and bonds without 3-dimensions. The right-most structure is a condensed structure representation of butane. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Stuctural_drawings_of_butane_854px.jpg" alt="(ref:chemform)" width="70%" />
-<p class="caption">(\#fig:chemstrucrep)(ref:chemform)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Stuctural_drawings_of_butane_854px} 
+
+}
+
+\caption{(ref:chemform)}(\#fig:chemstrucrep)
+\end{figure}
 
 The era of the pharmaceutical industry began in the last decade of the 19th century when the manufacturing of acetylsalicylic acid—more commonly referred to as aspirin—in Germany was started by Bayer. By 1910 Paul Ehrlich and his laboratory group began developing arsenic-based arsphenamine, (Salvarsan), as the first effective medicinal treatment of syphilis, and thereby initiated the medical practice of chemotherapy. Ehrlich popularized the concepts of "magic bullet" drugs and of systematically improving drug therapies. His laboratory made decisive contributions to developing antiserum for diphtheria and standardizing therapeutic serums.
 
@@ -31,97 +35,30 @@ The concept of functional groups is central in organic chemistry, both as a mean
 
 Combining the names of functional groups with the names of the parent alkanes generates what is termed a systematic nomenclature for naming organic compounds. In traditional nomenclature, the first carbon atom after the carbon that attaches to the functional group is called the alpha carbon; the second, beta carbon, the third, gamma carbon, etc. If there is another functional group at a carbon, it may be named with the Greek letter, e.g., the gamma-amine in gamma-aminobutyric acid is on the third carbon of the carbon chain attached to the carboxylic acid group. IUPAC conventions call for numeric labeling of the position, e.g. 4-aminobutanoic acid. In traditional names various qualifiers are used to label isomers, for example, isopropanol (IUPAC name: propan-2-ol) is an isomer of n-propanol (propan-1-ol). The term moiety has some overlap with the term "functional group". However, a moiety is an entire "half" of a molecule, which can be not only a single functional group, but also a larger unit consisting of multiple functional groups. For example, an "aryl moiety" may be any group containing an aromatic ring, regardless of how many functional groups the said aryl has.
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
-<caption>(\#tab:functionalgroups)Some biologically important functional groups containing oxygen or nitrogen</caption>
- <thead>
-  <tr>
-   <th style="text-align:center;"> Chemical class </th>
-   <th style="text-align:center;"> Group </th>
-   <th style="text-align:center;"> Formula </th>
-   <th style="text-align:center;"> Prefix </th>
-   <th style="text-align:center;"> Example </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Alcohol </td>
-   <td style="text-align:center;"> Hydroxyl </td>
-   <td style="text-align:center;"> ROH </td>
-   <td style="text-align:center;"> hydroxy- </td>
-   <td style="text-align:center;"> Methanol </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Ketone </td>
-   <td style="text-align:center;"> Carbonyl </td>
-   <td style="text-align:center;"> RCOR' </td>
-   <td style="text-align:center;"> -oyl- (-COR')oroxo- (=O) </td>
-   <td style="text-align:center;"> Butanone(Methyl ethyl ketone) </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Aldehyde </td>
-   <td style="text-align:center;"> Aldehyde </td>
-   <td style="text-align:center;"> RCHO </td>
-   <td style="text-align:center;"> formyl- (-COH)oroxo- (=O) </td>
-   <td style="text-align:center;"> Acetaldehyde(Ethanal) </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Carboxylate </td>
-   <td style="text-align:center;"> Carboxylate </td>
-   <td style="text-align:center;"> RCOO− </td>
-   <td style="text-align:center;"> carboxy- </td>
-   <td style="text-align:center;"> Sodium acetate(Sodium ethanoate) </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Carboxylic acid </td>
-   <td style="text-align:center;"> Carboxyl </td>
-   <td style="text-align:center;"> RCOOH </td>
-   <td style="text-align:center;"> carboxy- </td>
-   <td style="text-align:center;"> Acetic acid(Ethanoic acid) </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Ester </td>
-   <td style="text-align:center;"> Carboalkoxy </td>
-   <td style="text-align:center;"> RCOOR' </td>
-   <td style="text-align:center;"> alkanoyloxy-oralkoxycarbonyl </td>
-   <td style="text-align:center;"> Ethyl butyrate(Ethyl butanoate) </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Amide </td>
-   <td style="text-align:center;"> Carboxamide </td>
-   <td style="text-align:center;"> RCONR'R" </td>
-   <td style="text-align:center;"> carboxamido-orcarbamoyl- </td>
-   <td style="text-align:center;"> Acetamide(Ethanamide) </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Amines </td>
-   <td style="text-align:center;"> Primary amine </td>
-   <td style="text-align:center;"> RNH2 </td>
-   <td style="text-align:center;"> amino- </td>
-   <td style="text-align:center;"> Methylamine(Methanamine) </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Amines </td>
-   <td style="text-align:center;"> Secondary amine </td>
-   <td style="text-align:center;"> R'R"NH </td>
-   <td style="text-align:center;"> amino- </td>
-   <td style="text-align:center;"> Dimethylamine </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Amines </td>
-   <td style="text-align:center;"> Tertiary amine </td>
-   <td style="text-align:center;"> R3N </td>
-   <td style="text-align:center;"> amino- </td>
-   <td style="text-align:center;"> Trimethylamine </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Amines </td>
-   <td style="text-align:center;"> 4° ammonium ion </td>
-   <td style="text-align:center;"> R4N+ </td>
-   <td style="text-align:center;"> ammonio- </td>
-   <td style="text-align:center;"> Choline </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+
+\caption{(\#tab:functionalgroups)Some biologically important functional groups containing oxygen or nitrogen}
+\centering
+\begin{tabular}[t]{ccccc}
+\toprule
+Chemical class & Group & Formula & Prefix & Example\\
+\midrule
+\rowcolor{gray!6}  Alcohol & Hydroxyl & ROH & hydroxy- & Methanol\\
+Ketone & Carbonyl & RCOR' & -oyl- (-COR')oroxo- (=O) & Butanone(Methyl ethyl ketone)\\
+\rowcolor{gray!6}  Aldehyde & Aldehyde & RCHO & formyl- (-COH)oroxo- (=O) & Acetaldehyde(Ethanal)\\
+Carboxylate & Carboxylate & RCOO− & carboxy- & Sodium acetate(Sodium ethanoate)\\
+\rowcolor{gray!6}  Carboxylic acid & Carboxyl & RCOOH & carboxy- & Acetic acid(Ethanoic acid)\\
+\addlinespace
+Ester & Carboalkoxy & RCOOR' & alkanoyloxy-oralkoxycarbonyl & Ethyl butyrate(Ethyl butanoate)\\
+\rowcolor{gray!6}  Amide & Carboxamide & RCONR'R" & carboxamido-orcarbamoyl- & Acetamide(Ethanamide)\\
+Amines & Primary amine & RNH2 & amino- & Methylamine(Methanamine)\\
+\rowcolor{gray!6}  Amines & Secondary amine & R'R"NH & amino- & Dimethylamine\\
+Amines & Tertiary amine & R3N & amino- & Trimethylamine\\
+\addlinespace
+\rowcolor{gray!6}  Amines & 4° ammonium ion & R4N+ & ammonio- & Choline\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ## Biomolecules
 
@@ -141,42 +78,20 @@ DNA, RNA, and proteins all consist of a repeating structure of related building 
 
 In most cases, the monomers within the chain have a strong propensity to interact with other amino acids or nucleotides. In DNA and RNA, this can take the form of Watson-Crick base pairs (G-C and A-T or A-U), although many more complicated interactions can and do occur.
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Macromolecule (Polymer) </th>
-   <th style="text-align:left;"> Building Block (Monomer) </th>
-   <th style="text-align:left;"> Joining Bond </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;width: 10em; "> Proteins </td>
-   <td style="text-align:left;width: 10em; "> Amino acids </td>
-   <td style="text-align:left;width: 10em; "> Peptide </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> DNA </td>
-   <td style="text-align:left;width: 10em; "> Nucleotides (a phoshate, ribose, and a base- adenine, guanine, thymine, or cytosine) </td>
-   <td style="text-align:left;width: 10em; "> Phoshodiester </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> RNA </td>
-   <td style="text-align:left;width: 10em; "> Nucleotides (a phoshate, ribose, and a base- adenine, guanine, Uracil, or cytosine) </td>
-   <td style="text-align:left;width: 10em; "> Phoshodiester </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> Polysaccharides (carbohydrates) </td>
-   <td style="text-align:left;width: 10em; "> Monosaccharides </td>
-   <td style="text-align:left;width: 10em; "> Glycosidic </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 10em; "> Lipids </td>
-   <td style="text-align:left;width: 10em; "> unlike the other macromolecules, lipids are not defined by chemical Structure. Lipids are any organic nonpolar molecule. </td>
-   <td style="text-align:left;width: 10em; "> Some lipids are held together by ester bonds; some are huge aggregates of small molecules held together by hydrophobic interactions. </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+\centering
+\begin{tabular}{>{\raggedright\arraybackslash}p{10em}>{\raggedright\arraybackslash}p{10em}>{\raggedright\arraybackslash}p{10em}}
+\toprule
+Macromolecule (Polymer) & Building Block (Monomer) & Joining Bond\\
+\midrule
+\rowcolor{gray!6}  Proteins & Amino acids & Peptide\\
+DNA & Nucleotides (a phoshate, ribose, and a base- adenine, guanine, thymine, or cytosine) & Phoshodiester\\
+\rowcolor{gray!6}  RNA & Nucleotides (a phoshate, ribose, and a base- adenine, guanine, Uracil, or cytosine) & Phoshodiester\\
+Polysaccharides (carbohydrates) & Monosaccharides & Glycosidic\\
+\rowcolor{gray!6}  Lipids & unlike the other macromolecules, lipids are not defined by chemical Structure. Lipids are any organic nonpolar molecule. & Some lipids are held together by ester bonds; some are huge aggregates of small molecules held together by hydrophobic interactions.\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ## Proteins
 
@@ -186,10 +101,14 @@ A linear chain of amino acid residues is called a polypeptide. A protein contain
 
 (ref:pepbond) [Chemical structure of the peptide bond (bottom) and the three-dimensional structure of a peptide bond between an alanine and an adjacent amino acid (top/inset). The bond itself is made of the CHON elements.](https://commons.wikimedia.org/wiki/File:Peptide-Figure-Revised.png) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Peptide-Figure-Revised.png" alt="(ref:pepbond)" width="70%" />
-<p class="caption">(\#fig:peptidebond)(ref:pepbond)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Peptide-Figure-Revised} 
+
+}
+
+\caption{(ref:pepbond)}(\#fig:peptidebond)
+\end{figure}
 
 Once formed, proteins only exist for a certain period and are then degraded and recycled by the cell's machinery through the process of protein turnover. A protein's lifespan is measured in terms of its half-life and covers a wide range. They can exist for minutes or years with an average lifespan of 1–2 days in mammalian cells. Abnormal or misfolded proteins are degraded more rapidly either due to being targeted for destruction or due to being unstable.
 
@@ -239,10 +158,14 @@ Most proteins fold into unique 3D structures. The shape into which a protein nat
 
 (ref:protstruc) [The amino-acid sequence, the primary structure of a protein, determines the secondary (α-helix and β-sheet), tertiary and quaternary protein structures](https://commons.wikimedia.org/wiki/File:Protein_structure.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Protein_structure.png" alt="(ref:protstuc)" width="70%" />
-<p class="caption">(\#fig:proteinstructure )(ref:protstuc)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Protein_structure} 
+
+}
+
+\caption{(ref:protstuc)}(\#fig:proteinstructure )
+\end{figure}
 
 Proteins are not entirely rigid molecules. In addition to these levels of structure, proteins may shift between several related structures while they perform their functions. In the context of these functional rearrangements, these tertiary or quaternary structures are usually referred to as "conformations", and transitions between them are called conformational changes. Such changes are often induced by the binding of a substrate molecule to an enzyme's active site, or the physical region of the protein that participates in chemical catalysis. In solution proteins also undergo variation in structure through thermal vibration and the collision with other molecules.
 
@@ -294,10 +217,14 @@ The term is most common in biochemistry, where it is a synonym of saccharide, a 
 
 (ref:sucrose) [The disaccharide sucrose](https://commons.wikimedia.org/wiki/File:Beta-D-Lactose.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Saccharose2.svg" alt="(ref:sucrose)" width="70%" />
-<p class="caption">(\#fig:sucrosestruc)(ref:sucrose)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Saccharose2} 
+
+}
+
+\caption{(ref:sucrose)}(\#fig:sucrosestruc)
+\end{figure}
 
 Carbohydrates perform numerous roles in living organisms. Polysaccharides serve for the storage of energy (e.g. starch and glycogen) and as structural components (e.g. cellulose in plants and chitin in arthropods). The 5-carbon monosaccharide ribose is an important component of coenzymes (e.g. ATP, FAD and NAD) and the backbone of the genetic molecule known as RNA. The related deoxyribose is a component of DNA. Saccharides and their derivatives include many other important biomolecules that play key roles in the immune system, fertilization, preventing pathogenesis, blood clotting, and development.
 
@@ -330,10 +257,14 @@ Lactose, a disaccharide composed of one D-galactose molecule and one D-glucose m
 
 (ref:lactose) [The disaccharide lactose](https://commons.wikimedia.org/wiki/File:Beta-D-Lactose.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Beta-D-Lactose.svg" alt="(ref:lactose)" width="70%" />
-<p class="caption">(\#fig:lactosestruc)(ref:lactose)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Beta-D-Lactose} 
+
+}
+
+\caption{(ref:lactose)}(\#fig:lactosestruc)
+\end{figure}
 
 ## Lipids
 
@@ -341,10 +272,14 @@ In biology and biochemistry, a [lipid](https://en.wikipedia.org/wiki/Lipid) is a
 
 (ref:comlip) [Structures of some common lipids.](https://commons.wikimedia.org/wiki/File:Common_lipids_lmaps.png) At the top are cholesterol[1] and oleic acid.[2] The middle structure is a triglyceride composed of oleoyl, stearoyl, and palmitoyl chains attached to a glycerol backbone. At the bottom is the common phospholipid phosphatidylcholine.]
 
-<div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Common_lipids_lmaps.png" alt="(ref:comlip)" width="70%" />
-<p class="caption">(\#fig:commonlipids)(ref:comlip)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Common_lipids_lmaps} 
+
+}
+
+\caption{(ref:comlip)}(\#fig:commonlipids)
+\end{figure}
 
 The functions of lipids include storing energy, signaling, and acting as structural components of cell membranes. Lipids have applications in the cosmetic and food industries as well as in nanotechnology.
 
@@ -382,10 +317,14 @@ Triglycerides, stored in adipose tissue, are a major form of energy storage both
 
 (ref:triglyceride) [Example of an unsaturated fat triglyceride](https://commons.wikimedia.org/wiki/File:Fat_triglyceride_shorthand_formula.PNG) (C~55~H~98~O~6~). Left part: glycerol; right part, from top to bottom: palmitic acid, oleic acid, alpha-linolenic acid.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Fat_triglyceride_shorthand_formula.PNG" alt="(ref:triglyceride)" width="70%" />
-<p class="caption">(\#fig:simpletriglyceride)(ref:triglyceride)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/chemistry/Fat_triglyceride_shorthand_formula} 
+
+}
+
+\caption{(ref:triglyceride)}(\#fig:simpletriglyceride)
+\end{figure}
 
 In recent years, evidence has emerged showing that lipid signaling is a vital part of the cell signaling. Lipid signaling may occur via activation of G protein-coupled or nuclear receptors, and members of several different lipid categories have been identified as signaling molecules and cellular messengers. These include sphingosine-1-phosphate, a sphingolipid derived from ceramide that is a potent messenger molecule involved in regulating calcium mobilization, cell growth, and apoptosis; diacylglycerol (DAG) and the phosphatidylinositol phosphates (PIPs), involved in calcium-mediated activation of protein kinase C; the prostaglandins, which are one type of fatty-acid derived eicosanoid involved in inflammation and immunity; the steroid hormones such as estrogen, testosterone and cortisol, which modulate a host of functions such as reproduction, metabolism and blood pressure; and the oxysterols such as 25-hydroxy-cholesterol that are liver X receptor agonists. Phosphatidylserine lipids are known to be involved in signaling for the phagocytosis of apoptotic cells or pieces of cells. They accomplish this by being exposed to the extracellular face of the cell membrane after the inactivation of flippases which place them exclusively on the cytosolic side and the activation of scramblases, which scramble the orientation of the phospholipids. After this occurs, other cells recognize the phosphatidylserines and phagocytosize the cells or cell fragments exposing them.
 
@@ -415,10 +354,14 @@ Deoxyribonucleic acid (DNA) is a nucleic acid containing the genetic instruction
 
 (ref:strucdna) The structure of the DNA double helix. A section of DNA. The bases lie horizontally between the two spiraling strands. The atoms in the structure are colour-coded by element (based on atomic coordinates of [PDB 1bna](https://www.rcsb.org/structure/1bna) rendered with open source molecular visualization tool PyMol.)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/dna/dna_licorice.png" alt="(ref:strucdna)" width="70%" />
-<p class="caption">(\#fig:structuredna)(ref:strucdna)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/dna/dna_licorice} 
+
+}
+
+\caption{(ref:strucdna)}(\#fig:structuredna)
+\end{figure}
 
 ## Ribonucleic Acid (RNA)
 

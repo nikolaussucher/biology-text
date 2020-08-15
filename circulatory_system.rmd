@@ -53,7 +53,7 @@ knitr::include_graphics("./figures/circulation/2101_Blood_Flow_Through_the_Heart
 
 (ref:pulcirc) [The pulmonary circulation as it passes from the heart. Showing both the pulmonary and bronchial arteries.](https://commons.wikimedia.org/wiki/File:2119_Pulmonary_Circuit.jpg) 
 
-```{r , fig.cap='(ref:)', echo=FALSE, message=FALSE, warning=FALSE}
+```{r pulmonarycirculation, fig.cap='(ref:pulcirc)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/circulation/2119_Pulmonary_Circuit.jpg")
 ```
 
