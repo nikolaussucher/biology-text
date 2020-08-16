@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  15 AUG 2020 22:11
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  15 AUG 2020 22:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -793,6 +793,9 @@ LaTeX Warning: Label `fig:unnamed-chunk-1' multiply defined.
 
 LaTeX Warning: Label `fig:unnamed-chunk-1' multiply defined.
 
+
+LaTeX Warning: Label `fig:unnamed-chunk-1' multiply defined.
+
 )
 \openout1 = `_main.aux'.
 
@@ -1071,29 +1074,30 @@ Underfull \vbox (badness 1902) has occurred while \output is active []
 
  [21]
 [22]
-Underfull \vbox (badness 4001) has occurred while \output is active []
+Underfull \vbox (badness 4779) has occurred while \output is active []
 
  [23]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25]
-Underfull \vbox (badness 3872) has occurred while \output is active []
+[24] [25]
+Underfull \vbox (badness 1490) has occurred while \output is active []
 
  [26]
-[27])
+[27]
+Underfull \vbox (badness 5231) has occurred while \output is active []
+
+ [28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30])
 \tf@lof=\write6
 \openout6 = `_main.lof'.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[31] [32
 
- [28]
-[29] [30
-
-] [31] [32
+] [33] [34
 
 ]
 Chapter 1.
@@ -1535,4 +1539,857 @@ File: ./figures/replication/DNA_polymerase.jpg Graphic file (type bmp)
 LaTeX Warning: Float too large for page by 45.99396pt on input line 4390.
 
 [198] [199] [200] [201] [202]
-Underfull \vbox (badness 100
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [203]
+[204] [205] [206] [207] [208]
+File: ./figures/translation/trna.png Graphic file (type bmp)
+<./figures/translation/trna.png>
+ [209] [210] [211]
+Underfull \vbox (badness 1406) has occurred while \output is active []
+
+ [212]
+[213] [214]
+File: ./figures/transcription/Simple_transcription_elongation1.png Graphic file
+ (type bmp)
+<./figures/transcription/Simple_transcription_elongation1.png>
+ [215] [216]
+Underfull \vbox (badness 1205) has occurred while \output is active []
+
+ [217]
+[218]
+File: ./figures/translation/ttribosome.png Graphic file (type bmp)
+<./figures/translation/ttribosome.png>
+File: ./figures/translation/human_ribosome.png Graphic file (type bmp)
+<./figures/translation/human_ribosome.png>
+ [219] [220]
+File: ./figures/translation/Ribosome_mRNA_translation_en.jpg Graphic file (type
+ bmp)
+<./figures/translation/Ribosome_mRNA_translation_en.jpg>
+ [221] [222]
+LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
+(Font)              scaled to size 5.6484pt on input line 5010.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [223]
+[224] [225] [226] [227] [228] [229]
+File: ./figures/molecular_biology/Crispr.png Graphic file (type bmp)
+<./figures/molecular_biology/Crispr.png>
+ [230] [231] [232]
+Chapter 12.
+LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/it' will be
+(Font)              scaled to size 12.04958pt on input line 5232.
+[233
+
+]
+File: ./figures/regulation/Lac_operon1.png Graphic file (type bmp)
+<./figures/regulation/Lac_operon1.png>
+ [234] [235]
+File: ./figures/regulation/lac_repressor_model.png Graphic file (type bmp)
+<./figures/regulation/lac_repressor_model.png>
+ [236]
+File: ./figures/regulation/IPTG2.png Graphic file (type bmp)
+<./figures/regulation/IPTG2.png>
+ [237]
+File: ./figures/regulation/Lac_complementation.png Graphic file (type bmp)
+<./figures/regulation/Lac_complementation.png>
+ [238] [239] [240] [241] [242]
+Chapter 13.
+File: ./figures/bacteria/EscherichiaColi_NIAID.jpg Graphic file (type bmp)
+<./figures/bacteria/EscherichiaColi_NIAID.jpg>
+File: ./figures/bacteria/Halobacteria.jpg Graphic file (type bmp)
+<./figures/bacteria/Halobacteria.jpg>
+File: ./figures/bacteria/SARS-CoV-2_without_background.png Graphic file (type b
+mp)
+<./figures/bacteria/SARS-CoV-2_without_background.png>
+[243
+
+] [244] [245] [246]
+File: ./figures/bacteria/Bacterial_morphology_diagram.png Graphic file (type bm
+p)
+<./figures/bacteria/Bacterial_morphology_diagram.png>
+ [247] [248]
+File: ./figures/bacteria/EMpylori.jpg Graphic file (type bmp)
+<./figures/bacteria/EMpylori.jpg>
+File: ./figures/bacteria/Bacillus_subtilis_Spore.jpg Graphic file (type bmp)
+<./figures/bacteria/Bacillus_subtilis_Spore.jpg>
+ [249]
+File: ./figures/bacteria/Endospore_Formation.png Graphic file (type bmp)
+<./figures/bacteria/Endospore_Formation.png>
+
+Overfull \hbox (326.06465pt too wide) in paragraph at lines 5623--5632
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[250] [251]
+Underfull \vbox (badness 3229) has occurred while \output is active []
+
+ [252]
+[253] [254] [255] [256]
+Overfull \hbox (742.2118pt too wide) in paragraph at lines 5760--5776
+ [][] 
+ []
+
+[257] [258] [259]
+File: ./figures/bacteria/Archaea_membrane.png Graphic file (type bmp)
+<./figures/bacteria/Archaea_membrane.png>
+ [260] [261]
+Overfull \hbox (71.87971pt too wide) in paragraph at lines 5862--5871
+ [][] 
+ []
+
+[262] [263] [264]
+File: ./figures/bacteria/TMV_structure_simple.png Graphic file (type bmp)
+<./figures/bacteria/TMV_structure_simple.png>
+File: ./figures/bacteria/CowpeaMosaicVirus3D.png Graphic file (type bmp)
+<./figures/bacteria/CowpeaMosaicVirus3D.png>
+ [265] [266]
+File: ./figures/bacteria/Influenza_virus_particle_8430_lores.jpg Graphic file (
+type bmp)
+<./figures/bacteria/Influenza_virus_particle_8430_lores.jpg>
+ [267] [268]
+File: ./figures/bacteria/HepC_replication.png Graphic file (type bmp)
+<./figures/bacteria/HepC_replication.png>
+ [269]
+File: ./figures/bacteria/rna_virus.png Graphic file (type bmp)
+<./figures/bacteria/rna_virus.png>
+ [270] [271] [272] [273]
+[274]
+File: ./figures/bacteria/Tevenphage.png Graphic file (type bmp)
+<./figures/bacteria/Tevenphage.png>
+File: ./figures/bacteria/Phage_injecting_its_genome_into_bacteria.png Graphic f
+ile (type bmp)
+<./figures/bacteria/Phage_injecting_its_genome_into_bacteria.png>
+ [275] [276] [277] [278
+
+]
+Chapter 14.
+File: ./figures/protista/Haeckel_arbol_bn.png Graphic file (type bmp)
+<./figures/protista/Haeckel_arbol_bn.png>
+
+LaTeX Warning: Reference `tab:eukaryote' on page 279 undefined on input line 61
+77.
+
+
+Overfull \hbox (222.80441pt too wide) in paragraph at lines 6181--6192
+ [][] 
+ []
+
+File: ./figures/protista/Protist_collage_2.jpg Graphic file (type bmp)
+<./figures/protista/Protist_collage_2.jpg>
+[279] [280] [281] [282]
+Overfull \hbox (71.24634pt too wide) in paragraph at lines 6237--6245
+ [][] 
+ []
+
+[283] [284] [285]
+File: ./figures/protista/Apicomplexa_Composite_Image.png Graphic file (type bmp
+)
+<./figures/protista/Apicomplexa_Composite_Image.png>
+ [286]
+File: ./figures/protista/euglena.jpg Graphic file (type bmp)
+<./figures/protista/euglena.jpg>
+ [287] [288]
+File: ./figures/protista/Ciliate_collage.jpg Graphic file (type bmp)
+<./figures/protista/Ciliate_collage.jpg>
+File: ./figures/protista/Paramecium_diagram.png Graphic file (type bmp)
+<./figures/protista/Paramecium_diagram.png>
+ [289] [290]
+File: ./figures/protista/Stages_of_ciliate_conjugation.png Graphic file (type b
+mp)
+<./figures/protista/Stages_of_ciliate_conjugation.png>
+ [291] [292] [293] [294]
+File: ./figures/protista/algae_collection.jpg Graphic file (type bmp)
+<./figures/protista/algae_collection.jpg>
+File: ./figures/protista/Laminaria_Life_Cycle.png Graphic file (type bmp)
+<./figures/protista/Laminaria_Life_Cycle.png>
+
+[295] [296]
+File: ./figures/protista/Fuligo_septica_bl1.jpg Graphic file (type bmp)
+<./figures/protista/Fuligo_septica_bl1.jpg>
+File: ./figures/protista/Dictyostelium_Fruiting_Bodies.jpg Graphic file (type b
+mp)
+<./figures/protista/Dictyostelium_Fruiting_Bodies.jpg>
+
+Underfull \hbox (badness 1163) in paragraph at lines 6602--6602
+[]\TU/LucidaGrande(0)/b/n/10 Figure 14.11: |\TU/LucidaGrande(0)/m/n/10 Dictyost
+elium Fruiting Body[][][] Dictyostelium is a genus of single- and multi-celled 
+eukaryotic,
+ []
+
+File: ./figures/protista/Dictyostelium_Aggregation.jpg Graphic file (type bmp)
+<./figures/protista/Dictyostelium_Aggregation.jpg>
+File: ./figures/protista/Dictyostelium_Pseudoplasmodium.jpg Graphic file (type 
+bmp)
+<./figures/protista/Dictyostelium_Pseudoplasmodium.jpg>
+[297] [298] [299] [300
+
+]
+Chapter 15.
+[301] [302] [303] [304] [305]
+File: ./figures/evolution/Biston.betularia.7200.jpg Graphic file (type bmp)
+<./figures/evolution/Biston.betularia.7200.jpg>
+File: ./figures/evolution/Biston.betularia.f.carbonaria.7209.jpg Graphic file (
+type bmp)
+<./figures/evolution/Biston.betularia.f.carbonaria.7209.jpg>
+ [306] [307]
+File: ./figures/evolution/Lichte_en_zwarte_versie_berkenspanner.jpg Graphic fil
+e (type bmp)
+<./figures/evolution/Lichte_en_zwarte_versie_berkenspanner.jpg>
+ [308] [309] [310] [311]
+File: ./figures/evolution/Homology_vertebrates-en.png Graphic file (type bmp)
+<./figures/evolution/Homology_vertebrates-en.png>
+ [312]
+[313] [314
+
+]
+Chapter 16.
+[315]
+File: ./figures/systematics/Heliconius_mimicry.png Graphic file (type bmp)
+<./figures/systematics/Heliconius_mimicry.png>
+ [316] [317] [318] [319] [320] [321] [322]
+File: ./figures/systematics/biological_classification.png Graphic file (type bm
+p)
+<./figures/systematics/biological_classification.png>
+ [323]
+File: ./figures/systematics/tree_of_life.png Graphic file (type bmp)
+<./figures/systematics/tree_of_life.png>
+ [324] [325] [326]
+File: ./figures/systematics/Monophyly,_paraphyly,_polyphyly.png Graphic file (t
+ype bmp)
+<./figures/systematics/Monophyly,_paraphyly,_polyphyly.png>
+
+[327] [328]
+Chapter 17.
+File: ./figures/fungi/Fungi_collage.jpg Graphic file (type bmp)
+<./figures/fungi/Fungi_collage.jpg>
+[329
+
+] [330]
+File: ./figures/fungi/HYPHAE.png Graphic file (type bmp)
+<./figures/fungi/HYPHAE.png>
+ [331] [332] [333] [334] [335]
+File: ./figures/fungi/02_01_groups_of_Fungi_(M._Piepenbring).png Graphic file (
+type bmp)
+<./figures/fungi/02_01_groups_of_Fungi_(M._Piepenbring).png>
+ [336]
+File: ./figures/fungi/Penicillium_labeled_cropped.jpg Graphic file (type bmp)
+<./figures/fungi/Penicillium_labeled_cropped.jpg>
+ [337]
+File: ./figures/fungi/Mycorrhizal_network.png Graphic file (type bmp)
+<./figures/fungi/Mycorrhizal_network.png>
+File: ./figures/fungi/lichen.jpeg Graphic file (type bmp)
+<./figures/fungi/lichen.jpeg>
+File: ./figures/fungi/Lichen_cross_section_–_heteromeric_thallus.png Graphic fi
+le (type bmp)
+<./figures/fungi/Lichen_cross_section_–_heteromeric_thallus.png>
+File: ./figures/fungi/lichen_apothecium.jpeg Graphic file (type bmp)
+<./figures/fungi/lichen_apothecium.jpeg>
+ [338] [339] [340]
+[341] [342] [343] [344] [345] [346
+
+]
+Chapter 18.
+File: ./figures/plants/Diversity_of_plants_image_version_5.png Graphic file (ty
+pe bmp)
+<./figures/plants/Diversity_of_plants_image_version_5.png>
+
+Overfull \hbox (2157.67723pt too wide) in paragraph at lines 7509--7519
+ [][] 
+ []
+
+[347] [348] [349]
+File: ./figures/plants/Cooksonia_pertoni.png Graphic file (type bmp)
+<./figures/plants/Cooksonia_pertoni.png>
+ [350] [351] [352] [353] [354] [355]
+File: ./figures/plants/seeds_diversity.jpg Graphic file (type bmp)
+<./figures/plants/seeds_diversity.jpg>
+ [356] [357]
+File: ./figures/plants/Flower_poster_2.jpg Graphic file (type bmp)
+<./figures/plants/Flower_poster_2.jpg>
+ [358]
+[359]
+Overfull \hbox (2384.07146pt too wide) in paragraph at lines 7773--7786
+ [][] 
+ []
+
+File: ./figures/plants/mature_flower.png Graphic file (type bmp)
+<./figures/plants/mature_flower.png>
+File: ./figures/plants/Lillium_Stamens.jpg Graphic file (type bmp)
+<./figures/plants/Lillium_Stamens.jpg>
+[360] [361] [362]
+File: ./figures/plants/Ophrys_apifera_flower1.jpg Graphic file (type bmp)
+<./figures/plants/Ophrys_apifera_flower1.jpg>
+ [363] [364] [365] [366]
+File: ./figures/plants/Misc_pollen_colorized.jpg Graphic file (type bmp)
+<./figures/plants/Misc_pollen_colorized.jpg>
+ [367] [368] [369] [370] [371]
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+ [372]
+[373] [374] [375]
+Underfull \vbox (badness 1331) has occurred while \output is active []
+
+ [376]
+File: ./figures/plants/Spathoglottis_flwrs_reduced.jpg Graphic file (type bmp)
+<./figures/plants/Spathoglottis_flwrs_reduced.jpg>
+File: ./figures/plants/Magnolia_wieseneri_-_labelled_gynoecium.jpg Graphic file
+ (type bmp)
+<./figures/plants/Magnolia_wieseneri_-_labelled_gynoecium.jpg>
+File: ./figures/plants/Narcis_zaadhokken.jpg Graphic file (type bmp)
+<./figures/plants/Narcis_zaadhokken.jpg>
+
+[377] [378]
+File: ./figures/plants/Nectarine_Fruit_Development.jpg Graphic file (type bmp)
+<./figures/plants/Nectarine_Fruit_Development.jpg>
+
+Underfull \vbox (badness 5374) has occurred while \output is active []
+
+ [379]
+[380]
+Chapter 19.
+File: ./figures/animals/Animal_diversity.png Graphic file (type bmp)
+<./figures/animals/Animal_diversity.png>
+[381
+
+] [382]
+File: ./figures/animals/Tiktaalik_BW.jpg Graphic file (type bmp)
+<./figures/animals/Tiktaalik_BW.jpg>
+ [383]
+File: ./figures/animals/DickinsoniaCostata.jpg Graphic file (type bmp)
+<./figures/animals/DickinsoniaCostata.jpg>
+File: ./figures/animals/Anomalocaris2019.jpg Graphic file (type bmp)
+<./figures/animals/Anomalocaris2019.jpg>
+ [384]
+File: ./figures/animals/Trichoplax_adhaerens_photograph.png Graphic file (type 
+bmp)
+<./figures/animals/Trichoplax_adhaerens_photograph.png>
+
+Overfull \hbox (120.54735pt too wide) in paragraph at lines 8427--8446
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [385]
+File: ./figures/animals/Reef3859_-_Flickr_-_NOAA_Photo_Library.jpg Graphic file
+ (type bmp)
+<./figures/animals/Reef3859_-_Flickr_-_NOAA_Photo_Library.jpg>
+File: ./figures/animals/Pelagic_ctenophores.png Graphic file (type bmp)
+<./figures/animals/Pelagic_ctenophores.png>
+File: ./figures/animals/Cnidaria.png Graphic file (type bmp)
+<./figures/animals/Cnidaria.png>
+File: ./figures/animals/Animal_diversity_October_2007.jpg Graphic file (type bm
+p)
+<./figures/animals/Animal_diversity_October_2007.jpg>
+File: ./figures/animals/Bilaterian_body_plan.png Graphic file (type bmp)
+<./figures/animals/Bilaterian_body_plan.png>
+
+Overfull \hbox (699.11569pt too wide) in paragraph at lines 8523--8540
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[386] [387] [388]
+File: ./figures/animals/Protovsdeuterostomes.png Graphic file (type bmp)
+<./figures/animals/Protovsdeuterostomes.png>
+ [389] [390]
+File: ./figures/animals/Amphibians.png Graphic file (type bmp)
+<./figures/animals/Amphibians.png>
+File: ./figures/animals/Extant_reptilia.jpg Graphic file (type bmp)
+<./figures/animals/Extant_reptilia.jpg>
+ [391] [392]
+File: ./figures/animals/Bird_Diversity_2013.png Graphic file (type bmp)
+<./figures/animals/Bird_Diversity_2013.png>
+File: ./figures/animals/Mammal_Diversity_2011.png Graphic file (type bmp)
+<./figures/animals/Mammal_Diversity_2011.png>
+ [393] [394] [395]
+File: ./figures/animals/Arthropoda.jpg Graphic file (type bmp)
+<./figures/animals/Arthropoda.jpg>
+ [396] [397]
+File: ./figures/animals/Adult_Caenorhabditis_elegans.jpg Graphic file (type bmp
+)
+<./figures/animals/Adult_Caenorhabditis_elegans.jpg>
+
+[398]
+File: ./figures/animals/Snail-wiki-120-Zachi-Evenor.jpg Graphic file (type bmp)
+
+<./figures/animals/Snail-wiki-120-Zachi-Evenor.jpg>
+ [399]
+File: ./figures/animals/Earthworm.jpg Graphic file (type bmp)
+<./figures/animals/Earthworm.jpg>
+ [400] [401]
+File: ./figures/animals/Blastulation.png Graphic file (type bmp)
+<./figures/animals/Blastulation.png>
+ [402] [403]
+File: ./figures/animals/Holometabolous_vs._Hemimetabolous.png Graphic file (typ
+e bmp)
+<./figures/animals/Holometabolous_vs._Hemimetabolous.png>
+ [404] [405]
+File: ./figures/animals/Origin_of_major_organs_on_the_animal_phylogeny.jpg Grap
+hic file (type bmp)
+<./figures/animals/Origin_of_major_organs_on_the_animal_phylogeny.jpg>
+ [406] [407]
+File: ./figures/animals/Internal_organs.png Graphic file (type bmp)
+<./figures/animals/Internal_organs.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [408]
+[409] [410] [411] [412]
+File: ./figures/animals/Homo_lineage_2017update.png Graphic file (type bmp)
+<./figures/animals/Homo_lineage_2017update.png>
+ [413]
+File: ./figures/animals/Neandertaler_reconst.jpg Graphic file (type bmp)
+<./figures/animals/Neandertaler_reconst.jpg>
+ [414] [415]
+File: ./figures/animals/Homo_ergaster.jpg Graphic file (type bmp)
+<./figures/animals/Homo_ergaster.jpg>
+ [416] [417] [418] [419]
+File: ./figures/animals/Homo_habilis-KNM_ER_1813.jpg Graphic file (type bmp)
+<./figures/animals/Homo_habilis-KNM_ER_1813.jpg>
+ [420]
+[421] [422] [423] [424]
+File: ./figures/animals/Oldowan_tradition_chopper.jpg Graphic file (type bmp)
+<./figures/animals/Oldowan_tradition_chopper.jpg>
+ [425] [426]
+File: ./figures/animals/Aurignacian_Culture_Bone_Tools,_Hayonim_Cave,_30000_BP.
+jpg Graphic file (type bmp)
+<./figures/animals/Aurignacian_Culture_Bone_Tools,_Hayonim_Cave,_30000_BP.jpg>
+ [427] [428]
+Chapter 20.
+[429
+
+]
+File: ./figures/circulation/2101_Blood_Flow_Through_the_Heart.jpg Graphic file 
+(type bmp)
+<./figures/circulation/2101_Blood_Flow_Through_the_Heart.jpg>
+File: ./figures/circulation/2119_Pulmonary_Circuit.jpg Graphic file (type bmp)
+<./figures/circulation/2119_Pulmonary_Circuit.jpg>
+ [430] [431] [432]
+File: ./figures/circulation/Diagram_of_the_human_heart_(cropped).png Graphic fi
+le (type bmp)
+<./figures/circulation/Diagram_of_the_human_heart_(cropped).png>
+ [433] [434]
+File: ./figures/circulation/Coronary_arteries.png Graphic file (type bmp)
+<./figures/circulation/Coronary_arteries.png>
+ [435]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [436]
+File: ./figures/circulation/ConductionsystemoftheheartwithouttheHeart-en.png Gr
+aphic file (type bmp)
+<./figures/circulation/ConductionsystemoftheheartwithouttheHeart-en.png>
+
+[437]
+File: ./figures/circulation/2027_Phases_of_the_Cardiac_Cycle.jpg Graphic file (
+type bmp)
+<./figures/circulation/2027_Phases_of_the_Cardiac_Cycle.jpg>
+ [438] [439]
+File: ./figures/circulation/2113ab_Atherosclerosis.jpg Graphic file (type bmp)
+<./figures/circulation/2113ab_Atherosclerosis.jpg>
+
+Underfull \vbox (badness 2035) has occurred while \output is active []
+
+ [440]
+[441] [442]
+Chapter 21.
+File: ./figures/immune/Blausen_0623_LymphaticSystem_Female.png Graphic file (ty
+pe bmp)
+<./figures/immune/Blausen_0623_LymphaticSystem_Female.png>
+[443
+
+] [444]
+File: ./figures/immune/Illu_thymus.jpg Graphic file (type bmp)
+<./figures/immune/Illu_thymus.jpg>
+ [445] [446]
+File: ./figures/immune/Illu_spleen.jpg Graphic file (type bmp)
+<./figures/immune/Illu_spleen.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [447]
+File: ./figures/immune/Schematic_of_lymph_node_showing_lymph_sinuses.png Graphi
+c file (type bmp)
+<./figures/immune/Schematic_of_lymph_node_showing_lymph_sinuses.png>
+
+[448]
+File: ./figures/immune/2202_Lymphatic_Capillaries_big.png Graphic file (type bm
+p)
+<./figures/immune/2202_Lymphatic_Capillaries_big.png>
+ [449]
+File: ./figures/immune/Nutrient_absorbtion_to_blood_and_lymph.png Graphic file 
+(type bmp)
+<./figures/immune/Nutrient_absorbtion_to_blood_and_lymph.png>
+ [450] [451]
+File: ./figures/immune/SEM_blood_cells.jpg Graphic file (type bmp)
+<./figures/immune/SEM_blood_cells.jpg>
+ [452] [453]
+File: ./figures/immune/Neutrophil_with_anthrax_copy.jpg Graphic file (type bmp)
+
+<./figures/immune/Neutrophil_with_anthrax_copy.jpg>
+File: ./figures/immune/Phagocytosis2.png Graphic file (type bmp)
+<./figures/immune/Phagocytosis2.png>
+ [454] [455]
+File: ./figures/immune/PBNeutrophil.jpg Graphic file (type bmp)
+<./figures/immune/PBNeutrophil.jpg>
+File: ./figures/immune/Eosinophil_blood_smear.jpg Graphic file (type bmp)
+<./figures/immune/Eosinophil_blood_smear.jpg>
+ [456] [457]
+File: ./figures/immune/Complement_pathway.png Graphic file (type bmp)
+<./figures/immune/Complement_pathway.png>
+ [458] [459]
+[460]
+File: ./figures/immune/Primary_immune_response_1.png Graphic file (type bmp)
+<./figures/immune/Primary_immune_response_1.png>
+ [461]
+File: ./figures/immune/Antigen_presentation.png Graphic file (type bmp)
+<./figures/immune/Antigen_presentation.png>
+File: ./figures/immune/T_cell_activation.png Graphic file (type bmp)
+<./figures/immune/T_cell_activation.png>
+ [462] [463] [464] [465]
+Underfull \hbox (badness 1360) in paragraph at lines 10212--10214
+[]\TU/LucidaGrande(0)/m/n/10 Antibody-dependent cell-mediated cytotoxicity: Ant
+ibodies attached to target cell cause destruction by
+ []
+
+File: ./figures/immune/B_cell_activation.png Graphic file (type bmp)
+<./figures/immune/B_cell_activation.png>
+[466] [467]
+File: ./figures/immune/Antibody_chains.png Graphic file (type bmp)
+<./figures/immune/Antibody_chains.png>
+ [468] [469] [470]
+Chapter 22.
+File: ./figures/respiratory/Respiratory_system_complete_en.png Graphic file (ty
+pe bmp)
+<./figures/respiratory/Respiratory_system_complete_en.png>
+[471
+
+] [472]
+File: ./figures/respiratory/Alveolus diagram en.png Graphic file (type bmp)
+<./figures/respiratory/Alveolus diagram en.png>
+File: ./figures/respiratory/Lungvolumes_Updated.png Graphic file (type bmp)
+<./figures/respiratory/Lungvolumes_Updated.png>
+ [473] [474]
+File: ./figures/respiratory/Alveolar_wall.jpg Graphic file (type bmp)
+<./figures/respiratory/Alveolar_wall.jpg>
+ [475]
+File: ./figures/respiratory/Gas_exchange.jpg Graphic file (type bmp)
+<./figures/respiratory/Gas_exchange.jpg>
+ [476]
+File: ./figures/respiratory/Alveolus.jpg Graphic file (type bmp)
+<./figures/respiratory/Alveolus.jpg>
+ [477] [478]
+File: ./figures/respiratory/BirdRespiration.png Graphic file (type bmp)
+<./figures/respiratory/BirdRespiration.png>
+ [479] [480] [481]
+File: ./figures/respiratory/Axolotl_ganz.jpg Graphic file (type bmp)
+<./figures/respiratory/Axolotl_ganz.jpg>
+ [482]
+File: ./figures/respiratory/Spider_internal_anatomy-en.png Graphic file (type b
+mp)
+<./figures/respiratory/Spider_internal_anatomy-en.png>
+
+[483] [484]
+Chapter 23.
+[485
+
+] [486]
+File: ./figures/digestive/Digestive_system_diagram_edit.png Graphic file (type 
+bmp)
+<./figures/digestive/Digestive_system_diagram_edit.png>
+File: ./figures/digestive/Anatomy_Abdomen_Tiesworks.jpg Graphic file (type bmp)
+
+<./figures/digestive/Anatomy_Abdomen_Tiesworks.jpg>
+ [487] [488]
+Underfull \vbox (badness 2600) has occurred while \output is active []
+
+ [489]
+File: ./figures/digestive/Blausen_0780_SalivaryGlands.png Graphic file (type bm
+p)
+<./figures/digestive/Blausen_0780_SalivaryGlands.png>
+
+[490] [491] [492]
+File: ./figures/digestive/Illu_stomach.jpg Graphic file (type bmp)
+<./figures/digestive/Illu_stomach.jpg>
+ [493]
+File: ./figures/digestive/Hepatic_structure2.png Graphic file (type bmp)
+<./figures/digestive/Hepatic_structure2.png>
+ [494]
+File: ./figures/digestive/1820_The_Pancreas.jpg Graphic file (type bmp)
+<./figures/digestive/1820_The_Pancreas.jpg>
+ [495] [496] [497] [498]
+Underfull \vbox (badness 3884) has occurred while \output is active []
+
+ [499]
+[500]
+Chapter 24.
+File: ./figures/excretory/Bachforelle_osmoregulatoin_bw_en2.png Graphic file (t
+ype bmp)
+<./figures/excretory/Bachforelle_osmoregulatoin_bw_en2.png>
+File: ./figures/excretory/Osmoseragulation_Carangoides_bartholomaei_bw_en2.png 
+Graphic file (type bmp)
+<./figures/excretory/Osmoseragulation_Carangoides_bartholomaei_bw_en2.png>
+[501
+
+] [502]
+File: ./figures/excretory/Urinary_system.png Graphic file (type bmp)
+<./figures/excretory/Urinary_system.png>
+ [503] [504]
+File: ./figures/excretory/Blausen_0592_KidneyAnatomy_01.png Graphic file (type 
+bmp)
+<./figures/excretory/Blausen_0592_KidneyAnatomy_01.png>
+File: ./figures/excretory/KidneyStructures_PioM.png Graphic file (type bmp)
+<./figures/excretory/KidneyStructures_PioM.png>
+ [505]
+File: ./figures/excretory/Kidney_Nephron.png Graphic file (type bmp)
+<./figures/excretory/Kidney_Nephron.png>
+File: ./figures/excretory/Physiology_of_Nephron.png Graphic file (type bmp)
+<./figures/excretory/Physiology_of_Nephron.png>
+File: ./figures/excretory/2618_Nephron_Secretion_Reabsorption.jpg Graphic file 
+(type bmp)
+<./figures/excretory/2618_Nephron_Secretion_Reabsorption.jpg>
+ [506] [507] [508] [509] [510] [511] [512
+
+]
+Chapter 25.
+File: ./figures/nervoussystem/NervousSystem.jpg Graphic file (type bmp)
+<./figures/nervoussystem/NervousSystem.jpg>
+
+LaTeX Warning: Float too large for page by 21.99594pt on input line 11091.
+
+File: ./figures/nervoussystem/CajalNerve.jpg Graphic file (type bmp)
+<./figures/nervoussystem/CajalNerve.jpg>
+File: ./figures/nervoussystem/nihms37882f2.jpg Graphic file (type bmp)
+<./figures/nervoussystem/nihms37882f2.jpg>
+[513] [514] [515]
+File: ./figures/nervoussystem/RabbitPyramidalCellCajalMetodos.jpg Graphic file 
+(type bmp)
+<./figures/nervoussystem/RabbitPyramidalCellCajalMetodos.jpg>
+
+
+LaTeX Warning: Float too large for page by 45.99838pt on input line 11137.
+
+[516] [517]
+File: ./figures/nervoussystem/invertebrate_nervoussystems.png Graphic file (typ
+e bmp)
+<./figures/nervoussystem/invertebrate_nervoussystems.png>
+ [518] [519] [520]
+File: ./figures/nervoussystem/cns_comparison.jpg Graphic file (type bmp)
+<./figures/nervoussystem/cns_comparison.jpg>
+ [521] [522]
+File: ./figures/nervoussystem/fnana-05-00029-g007.jpg Graphic file (type bmp)
+<./figures/nervoussystem/fnana-05-00029-g007.jpg>
+ [523] [524]
+File: ./figures/nervoussystem/GrayAnat1918p821.jpg Graphic file (type bmp)
+<./figures/nervoussystem/GrayAnat1918p821.jpg>
+File: ./figures/nervoussystem/GrayAnat1918p819.jpg Graphic file (type bmp)
+<./figures/nervoussystem/GrayAnat1918p819.jpg>
+File: ./figures/nervoussystem/GrayAnat1918p820.jpg Graphic file (type bmp)
+<./figures/nervoussystem/GrayAnat1918p820.jpg>
+File: ./figures/nervoussystem/gyri_bot.jpg Graphic file (type bmp)
+<./figures/nervoussystem/gyri_bot.jpg>
+ [525] [526] [527]
+[528] [529] [530]
+Underfull \vbox (badness 6658) has occurred while \output is active []
+
+ [531]
+[532] [533]
+File: ./figures/cells/Complete_neuron_cell_diagram_en.png Graphic file (type bm
+p)
+<./figures/cells/Complete_neuron_cell_diagram_en.png>
+ [534]
+File: ./figures/cells/Cajal_neurons.jpg Graphic file (type bmp)
+<./figures/cells/Cajal_neurons.jpg>
+ [535] [536] [537]
+File: ./figures/cells/Cajal_glia.jpg Graphic file (type bmp)
+<./figures/cells/Cajal_glia.jpg>
+ [538] [539] [540]
+File: ./figures/potential/Na_K_pump.png Graphic file (type bmp)
+<./figures/potential/Na_K_pump.png>
+ [541] [542] [543]
+File: ./figures/potential/Kcsa.png Graphic file (type bmp)
+<./figures/potential/Kcsa.png>
+
+[544] [545] [546]
+File: ./figures/potential/voltage_gated_ion_channels.png Graphic file (type bmp
+)
+<./figures/potential/voltage_gated_ion_channels.png>
+ [547] [548]
+File: ./figures/potential/ligand_gated_ion_channels.png Graphic file (type bmp)
+
+<./figures/potential/ligand_gated_ion_channels.png>
+LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
+(Font)              scaled to size 4.07913pt on input line 11790.
+ [549] [550]
+LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/it' will be
+(Font)              scaled to size 5.6484pt on input line 11824.
+ [551]
+File: ./figures/potential/ActionPotential.png Graphic file (type bmp)
+<./figures/potential/ActionPotential.png>
+ [552] [553] [554] [555]
+File: ./figures/synapse/synapse_electronmicrograph.jpg Graphic file (type bmp)
+<./figures/synapse/synapse_electronmicrograph.jpg>
+File: ./figures/synapse/NMDA_receptor.png Graphic file (type bmp)
+<./figures/synapse/NMDA_receptor.png>
+
+[556] [557] [558]
+File: ./figures/synapse/synapse_diagram.jpg Graphic file (type bmp)
+<./figures/synapse/synapse_diagram.jpg>
+ [559] [560] [561]
+File: ./figures/synapse/nAch_receptor.png Graphic file (type bmp)
+<./figures/synapse/nAch_receptor.png>
+ [562] [563] [564]
+Chapter 26.
+[565
+
+] [566] [567] [568]
+File: ./figures/sensation/anatomyofhumanbo1918gray_1008.jpg Graphic file (type 
+bmp)
+<./figures/sensation/anatomyofhumanbo1918gray_1008.jpg>
+
+Underfull \vbox (badness 1281) has occurred while \output is active []
+
+ [569]
+[570]
+File: ./figures/sensation/retina_cajal.png Graphic file (type bmp)
+<./figures/sensation/retina_cajal.png>
+ [571] [572]
+File: ./figures/sensation/FrogRetinaCajalManual.jpg Graphic file (type bmp)
+<./figures/sensation/FrogRetinaCajalManual.jpg>
+File: ./figures/sensation/PhotorecptorsCajalManual.jpg Graphic file (type bmp)
+<./figures/sensation/PhotorecptorsCajalManual.jpg>
+
+
+LaTeX Warning: Float too large for page by 33.98257pt on input line 12369.
+
+[573] [574] [575]
+File: ./figures/sensation/Visual_cycle.png Graphic file (type bmp)
+<./figures/sensation/Visual_cycle.png>
+ [576]
+File: ./figures/sensation/Phototransduction.png Graphic file (type bmp)
+<./figures/sensation/Phototransduction.png>
+ [577]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [578]
+[579] [580] [581] [582]
+File: ./figures/sensation/GrayEar.jpg Graphic file (type bmp)
+<./figures/sensation/GrayEar.jpg>
+ [583]
+File: ./figures/sensation/Cochlea-crosssection.png Graphic file (type bmp)
+<./figures/sensation/Cochlea-crosssection.png>
+ [584]
+Underfull \vbox (badness 5548) has occurred while \output is active []
+
+ [585]
+[586] [587] [588] [589]
+File: ./figures/sensation/Gray940.png Graphic file (type bmp)
+<./figures/sensation/Gray940.png>
+File: ./figures/sensation/mechano_sensitive_channel.png Graphic file (type bmp)
+
+<./figures/sensation/mechano_sensitive_channel.png>
+ [590] [591] [592]
+File: ./figures/sensation/TouchReceptors.png Graphic file (type bmp)
+<./figures/sensation/TouchReceptors.png>
+ [593]
+File: ./figures/sensation/TRPV1.png Graphic file (type bmp)
+<./figures/sensation/TRPV1.png>
+
+
+LaTeX Warning: Float too large for page by 20.46864pt on input line 12916.
+
+[594] [595]
+File: ./figures/sensation/CajalMuscleSpindle.jpg Graphic file (type bmp)
+<./figures/sensation/CajalMuscleSpindle.jpg>
+
+
+LaTeX Warning: Float too large for page by 45.97235pt on input line 12945.
+
+File: ./figures/sensation/CajalGolgiTendon.jpg Graphic file (type bmp)
+<./figures/sensation/CajalGolgiTendon.jpg>
+
+LaTeX Warning: Float too large for page by 45.9998pt on input line 12963.
+
+[596] [597] [598] [599]
+File: ./figures/sensation/GrayP572.jpg Graphic file (type bmp)
+<./figures/sensation/GrayP572.jpg>
+ [600] [601]
+File: ./figures/sensation/CajalOlfactoryPathway.jpg Graphic file (type bmp)
+<./figures/sensation/CajalOlfactoryPathway.jpg>
+ [602] [603] [604]
+File: ./figures/sensation/tongue.jpg Graphic file (type bmp)
+<./figures/sensation/tongue.jpg>
+File: ./figures/sensation/CunninghamSection2Page770.jpg Graphic file (type bmp)
+
+<./figures/sensation/CunninghamSection2Page770.jpg>
+File: ./figures/sensation/CunninghamSection2Page771.jpg Graphic file (type bmp)
+
+<./figures/sensation/CunninghamSection2Page771.jpg>
+File: ./figures/sensation/CunninghamSection2Page771Cells.jpg Graphic file (type
+ bmp)
+<./figures/sensation/CunninghamSection2Page771Cells.jpg>
+ [605] [606] [607]
+[608]
+Underfull \vbox (badness 1436) has occurred while \output is active []
+
+ [609]
+[610] [611] [612
+
+]
+Chapter 27.
+
+Underfull \vbox (badness 2318) has occurred while \output is active []
+
+ [613]
+[614] [615] [616]
+Underfull \vbox (badness 4120) has occurred while \output is active []
+
+ [617]
+[618] [619] [620]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [621]
+[622] [623] [624] [625] [626] [627] [628
+
+]
+Chapter 28.
+[629] [630] [631] [632] [633] [634
+
+]
+Chapter 29.
+[635] [636] [637]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 13819.
+ [638]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 13819.
+ (./_main.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 13819.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 13819
+.
+Package rerunfilecheck Info: File `_main.out' has not changed.
+(rerunfilecheck)             Checksum: 22A96224663432F9744361320347C6D6;35756.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 25711 strings out of 479418
+ 572970 string characters out of 5884586
+ 932444 words of memory out of 5000000
+ 42504 multiletter control sequences out of 15000+600000
+ 568343 words of font info for 87 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 58i,19n,121p,3367b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on _main.pdf (674 pages).
