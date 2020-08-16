@@ -62,7 +62,7 @@ Some palaeontologists have suggested that animals appeared much earlier than the
 
 Animals are monophyletic, meaning they are derived from a common ancestor. Animals are sister to the Choanoflagellata, with which they form the Choanozoa. The most basal animals, the Porifera, Ctenophora, Cnidaria, and Placozoa, have body plans that lack bilateral symmetry. Their relationships are still disputed; the sister group to all other animals could be the Porifera or the Ctenophora, both of which lack hox genes, important in body plan development.
 
-(ref:placo) The Placozoa are a basal form of free-living (non-parasitic) multicellular organism.[1] They are the simplest in structure of all animals. Three genera have been found: the classical [Trichoplax adhaerens](https://commons.wikimedia.org/wiki/File:Trichoplax_adhaerens_photograph.png), Hoilungia hongkongensis, and Polyplacotoma mediterranea.
+(ref:placo) The Placozoa are a basal form of free-living (non-parasitic) multicellular organism. They are the simplest in structure of all animals. Three genera have been found: the classical [Trichoplax adhaerens](https://commons.wikimedia.org/wiki/File:Trichoplax_adhaerens_photograph.png), Hoilungia hongkongensis, and Polyplacotoma mediterranea.
 
 ```{r trichoplax, fig.cap='(ref:placo)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/animals/Trichoplax_adhaerens_photograph.png")
@@ -148,15 +148,173 @@ knitr::include_graphics("./figures/animals/Protovsdeuterostomes.svg")
 
 The main deuterostome phyla are the Echinodermata and the Chordata. Echinoderms are exclusively marine and include starfish, sea urchins, and sea cucumbers. The chordates are dominated by the vertebrates (animals with backbones), which consist of fishes, amphibians, reptiles, birds, and mammals. The deuterostomes also include the Hemichordata (acorn worms).
 
+## Fish
+
+Fish are gill-bearing aquatic craniate animals that lack limbs with digits. They form a sister group to the tunicates, together forming the olfactores. Included in this definition are the living hagfish, lampreys, and cartilaginous and bony fish as well as various extinct related groups.
+
+The earliest organisms that can be classified as fish were soft-bodied chordates that first appeared during the Cambrian period. Although they lacked a true spine, they possessed notochords which allowed them to be more agile than their invertebrate counterparts. Fish would continue to evolve through the Paleozoic era, diversifying into a wide variety of forms. Many fish of the Paleozoic developed external armor that protected them from predators. The first fish with jaws appeared in the Silurian period, after which many (such as sharks) became formidable marine predators rather than just the prey of arthropods.
+
+Most fish are ectothermic ("cold-blooded"), allowing their body temperatures to vary as ambient temperatures change, though some of the large active swimmers like white shark and tuna can hold a higher core temperature.
+
+Fish can communicate in their underwater environments through the use of acoustic communication. Acoustic communication in fish involves the transmission of acoustic signals from one individual of a species to another. The production of sounds as a means of communication among fish is most often used in the context of feeding, aggression or courtship behaviour. The sounds emitted by fish can vary depending on the species and stimulus involved. They can produce either stridulatory sounds by moving components of the skeletal system, or can produce non-stridulatory sounds by manipulating specialized organs such as the swimbladder.
+
+Fish are abundant in most bodies of water. They can be found in nearly all aquatic environments, from high mountain streams (e.g., char and gudgeon) to the abyssal and even hadal depths of the deepest oceans (e.g., cusk-eels and snailfish), although no species has yet been documented in the deepest 25% of the ocean. With 34,300 described species, fish exhibit greater species diversity than any other group of vertebrates.
+
+Fish are an important resource for humans worldwide, especially as food. Commercial and subsistence fishers hunt fish in wild fisheries (see fishing) or farm them in ponds or in cages in the ocean (see aquaculture). They are also caught by recreational fishers, kept as pets, raised by fishkeepers, and exhibited in public aquaria. Fish have had a role in culture through the ages, serving as deities, religious symbols, and as the subjects of art, books and movies.
+
+Tetrapods emerged within lobe-finned fishes, so cladistically they are fish as well. However, traditionally fish are rendered paraphyletic by excluding the tetrapods (i.e., the amphibians, reptiles, birds and mammals which all descended from within the same ancestry). Because in this manner the term "fish" is defined negatively as a paraphyletic group, it is not considered a formal taxonomic grouping in systematic biology, unless it is used in the cladistic sense, including tetrapods. The traditional term pisces (also ichthyes) is considered a typological, but not a phylogenetic classification.
+
+
+## Amphibians
+
+Amphibians are ectothermic, tetrapod vertebrates of the class Amphibia. All living amphibians belong to the group Lissamphibia. They inhabit a wide variety of habitats, with most species living within terrestrial, fossorial, arboreal or freshwater aquatic ecosystems. Thus amphibians typically start out as larvae living in water, but some species have developed behavioural adaptations to bypass this.
+
+(ref:amphibians) [Diversity of amphibians:](https://commons.wikimedia.org/wiki/File:Amphibians.png) Clockwise from top right: Seymouria, Mexican burrowing caecilian, eastern newt and leaf green tree frog.
+
+```{r amphibiandiversity, fig.cap='(ref:amphibians)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Amphibians.png")
+```
+Amphibians are ectothermic, tetrapod vertebrates of the class Amphibia. All living amphibians belong to the group Lissamphibia. They inhabit a wide variety of habitats, with most species living within terrestrial, fossorial, arboreal or freshwater aquatic ecosystems. Thus amphibians typically start out as larvae living in water, but some species have developed behavioural adaptations to bypass this.
+
+## Reptiles
+
+Reptiles are tetrapod animals in the class Reptilia, comprising today's turtles, crocodilians, snakes, amphisbaenians, lizards, tuatara, and their extinct relatives. The study of these traditional reptile orders, historically combined with that of modern amphibians, is called herpetology.
+
+(ref:reptiles) [Diversity of reptiles:](https://commons.wikimedia.org/wiki/File:Extant_reptilia.jpg) Clockwise from above left: Green sea turtle (*Chelonia mydas*), Tuatara (*Sphenodon punctatus*), Nile crocodile (*Crocodylus niloticus*), and Sinai agama (*Pseudotrapelus sinaitus*)
+
+```{r reptilediversity, fig.cap='(ref:)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Extant_reptilia.jpg")
+```
+
+Because some reptiles are more closely related to birds than they are to other reptiles (e.g., crocodiles are more closely related to birds than they are to lizards), the traditional groups of "reptiles" listed above do not together constitute a monophyletic grouping or clade (consisting of all descendants of a common ancestor). For this reason, many modern scientists prefer to consider the birds part of Reptilia as well, thereby making Reptilia a monophyletic class, including all living diapsids. The term reptiles is sometimes used as shorthand for 'non-avian Reptilia'.
+
+The earliest known proto-reptiles originated around 312 million years ago during the Carboniferous period, having evolved from advanced reptiliomorph tetrapods that became increasingly adapted to life on dry land. Some early examples include the lizard-like Hylonomus and Casineria. In addition to the living reptiles, there are many diverse groups that are now extinct, in some cases due to mass extinction events. In particular, the Cretaceous–Paleogene extinction event wiped out the pterosaurs, plesiosaurs, ornithischians, and sauropods, alongside many species of theropods, crocodyliforms, and squamates (e.g., mosasaurs).
+
+Modern non-avian reptiles inhabit all the continents except Antarctica, although some birds are found on the periphery of Antarctica. Several living subgroups are recognized: Testudines (turtles and tortoises), 350 species; Rhynchocephalia (tuatara from New Zealand), 1 species; Squamata (lizards, snakes, and worm lizards), over 10,200 species; and Crocodilia (crocodiles, gharials, caimans, and alligators), 24 species.
+
+Reptiles are tetrapod vertebrates, creatures that either have four limbs or, like snakes, are descended from four-limbed ancestors. Unlike amphibians, reptiles do not have an aquatic larval stage. Most reptiles are oviparous, although several species of squamates are viviparous, as were some extinct aquatic clades – the fetus develops within the mother, contained in a placenta rather than an eggshell. As amniotes, reptile eggs are surrounded by membranes for protection and transport, which adapt them to reproduction on dry land. Many of the viviparous species feed their fetuses through various forms of placenta analogous to those of mammals, with some providing initial care for their hatchlings. Extant reptiles range in size from a tiny gecko, Sphaerodactylus ariasae, which can grow up to 17 mm (0.7 in) to the saltwater crocodile, Crocodylus porosus, which can reach 6 m (19.7 ft) in length and weigh over 1,000 kg (2,200 lb).
+
+## Birds
+
+Birds are a group of warm-blooded vertebrates constituting the class Aves, characterized by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton. Birds live worldwide and range in size from the 5 cm (2 in) bee hummingbird to the 2.75 m (9 ft) ostrich. There are about ten thousand living species, more than half of which are passerine, or "perching" birds. Birds have wings whose development varies according to species; the only known groups without wings are the extinct moa and elephant birds. Wings, which evolved from forelimbs, gave birds the ability to fly, although further evolution has led to the loss of flight in some birds, including ratites, penguins, and diverse endemic island species. The digestive and respiratory systems of birds are also uniquely adapted for flight. Some bird species of aquatic environments, particularly seabirds and some waterbirds, have further evolved for swimming.
+
+Birds are a group of feathered theropod dinosaurs, and constitute the only living dinosaurs. Likewise, birds are considered reptiles in the modern cladistic sense of the term, and their closest living relatives are the crocodilians. Birds are descendants of the primitive avialans (whose members include Archaeopteryx) which first appeared about 160 million years ago (mya) in China. According to DNA evidence, modern birds (Neornithes) evolved in the Middle to Late Cretaceous, and diversified dramatically around the time of the Cretaceous–Paleogene extinction event 66 mya, which killed off the pterosaurs and all non-avian dinosaurs.
+
+(ref:birds) [The diversity of birds:](https://en.wikipedia.org/wiki/File:Bird_Diversity_2013.png) This image shows 17 biological orders of birds (from top, left to right): Musophagiformes, Pelecaniformes, Phaethontiformes, Accipitriformes, Gruiformes, Galliformes, Columbiformes, Apodiformes, Charadriiformes, Casuariiformes, Psittaciformes, Phoenicopteriformes, Sphenisciformes, Pelecaniformes, Suliformes, Passeriformes, Strigiformes, Piciformes.
+
+```{r birddiversity, fig.cap='(ref:birds)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Bird_Diversity_2013.png")
+```
+
+Many social species pass on knowledge across generations, which is considered a form of culture. Birds are social, communicating with visual signals, calls, and songs, and participating in such behaviours as cooperative breeding and hunting, flocking, and mobbing of predators. The vast majority of bird species are socially (but not necessarily sexually) monogamous, usually for one breeding season at a time, sometimes for years, but rarely for life. Other species have breeding systems that are polygynous (one male with many females) or, rarely, polyandrous (one female with many males). Birds produce offspring by laying eggs which are fertilised through sexual reproduction. They are usually laid in a nest and incubated by the parents. Most birds have an extended period of parental care after hatching.
+
+Many species of birds are economically important as food for human consumption and raw material in manufacturing, with domesticated and undomesticated birds being important sources of eggs, meat, and feathers. Songbirds, parrots, and other species are popular as pets. Guano (bird excrement) is harvested for use as a fertiliser. Birds figure throughout human culture. About 120 to 130 species have become extinct due to human activity since the 17th century, and hundreds more before then. Human activity threatens about 1,200 bird species with extinction, though efforts are underway to protect them. Recreational birdwatching is an important part of the ecotourism industry.
+
+## Mammals
+
+Mammals (from Latin mamma "breast") are vertebrate animals constituting the class Mammalia, and characterized by the presence of mammary glands which in females produce milk for feeding (nursing) their young, a neocortex (a region of the brain), fur or hair, and three middle ear bones. These characteristics distinguish them from reptiles and birds, from which they diverged in the late Carboniferous, approximately 300 million years ago. Around 6,400 extant species of mammals have been described. The largest orders are the rodents, bats and Eulipotyphla (hedgehogs, moles, shrews, and others). The next three are the Primates (apes including humans, monkeys, and others), the Cetartiodactyla (cetaceans and even-toed ungulates), and the Carnivora (cats, dogs, seals, and others).
+
+(ref:mammals) [Diversity of mammals.](https://en.wikipedia.org/wiki/File:Mammal_Diversity_2011.png) 
+
+```{r mammaldiversity, fig.cap='(ref:mammals)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Mammal_Diversity_2011.png")
+```
+
+In terms of cladistics, which reflects evolutionary history, mammals are the only living members of the Synapsida; this clade, together with Sauropsida (reptiles and birds), constitutes the larger Amniota clade. The early synapsid mammalian ancestors were sphenacodont pelycosaurs, a group that included the non-mammalian Dimetrodon. At the end of the Carboniferous period around 300 million years ago, this group diverged from the sauropsid line that led to today's reptiles and birds. The line following the stem group Sphenacodontia split into several diverse groups of non-mammalian synapsids—sometimes incorrectly referred to as mammal-like reptiles—before giving rise to Therapsida in the Early Permian period. The modern mammalian orders arose in the Paleogene and Neogene periods of the Cenozoic era, after the extinction of non-avian dinosaurs, and have been the dominant terrestrial animal group from 66 million years ago to the present.
+
+The basic body type is quadruped, and most mammals use their four extremities for terrestrial locomotion; but in some, the extremities are adapted for life at sea, in the air, in trees, underground, or on two legs. Mammals range in size from the 30–40 mm (1.2–1.6 in) bumblebee bat to the 30 m (98 ft) blue whale—possibly the largest animal to have ever lived. Maximum lifespan varies from two years for the shrew to 211 years for the bowhead whale. All modern mammals give birth to live young, except the five species of monotremes, which are egg-laying mammals. The most species-rich group of mammals, the cohort called placentals, have a placenta, which enables the feeding of the fetus during gestation.
+
+Most mammals are intelligent, with some possessing large brains, self-awareness, and tool use. Mammals can communicate and vocalize in several ways, including the production of ultrasound, scent-marking, alarm signals, singing, and echolocation. Mammals can organize themselves into fission-fusion societies, harems, and hierarchies—but can also be solitary and territorial. Most mammals are polygynous, but some can be monogamous or polyandrous.
+
+Domestication of many types of mammals by humans played a major role in the Neolithic revolution, and resulted in farming replacing hunting and gathering as the primary source of food for humans. This led to a major restructuring of human societies from nomadic to sedentary, with more co-operation among larger and larger groups, and ultimately the development of the first civilizations. Domesticated mammals provided, and continue to provide, power for transport and agriculture, as well as food (meat and dairy products), fur, and leather. Mammals are also hunted and raced for sport, and are used as model organisms in science. Mammals have been depicted in art since Palaeolithic times, and appear in literature, film, mythology, and religion. Decline in numbers and extinction of many mammals is primarily driven by human poaching and habitat destruction, primarily deforestation.
+
 ## Ecdysozoa
 
 The Ecdysozoa are protostomes, named after their shared trait of ecdysis, growth by moulting. They include the largest animal phylum, the Arthropoda, which contains insects, spiders, crabs, and their kin. All of these have a body divided into repeating segments, typically with paired appendages. Two smaller phyla, the Onychophora and Tardigrada, are close relatives of the arthropods and share these traits. The ecdysozoans also include the Nematoda or roundworms, perhaps the second largest animal phylum. Roundworms are typically microscopic, and occur in nearly every environment where there is water; some are important parasites. Smaller phyla related to them are the Nematomorpha or horsehair worms, and the Kinorhyncha, Priapulida, and Loricifera. These groups have a reduced coelom, called a pseudocoelom.
+
+## Arthropods
+
+An arthropod (from Greek ἄρθρον arthron, "joint" and πούς pous, "foot" (gen. ποδός)) is an invertebrate animal having an exoskeleton, a segmented body, and paired jointed appendages. Arthropods form the phylum Euarthropoda, which includes insects, arachnids, myriapods, and crustaceans. The term Arthropoda as originally proposed refers to a proposed grouping of Euarthropods and the phylum Onychophora.
+
+(ref:arthropods) [Diversity of arthropods:](https://commons.wikimedia.org/wiki/File:Arthropoda.jpg) From left to right and from top to bottom: Kolihapeltis, Stylonurus, scorpion, crab, centipede, butterfly.
+
+```{r arthropoddiversity, fig.cap='(ref:arthropods)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Arthropoda.jpg")
+```
+
+Arthropods are characterized by their jointed limbs and cuticle made of chitin, often mineralised with calcium carbonate. The arthropod body plan consists of segments, each with a pair of appendages. The rigid cuticle inhibits growth, so arthropods replace it periodically by moulting. Arthropods are bilaterally symmetrical and their body possesses an external skeleton. Some species have wings.
+
+Their versatility has enabled arthropods to become the most species-rich members of all ecological guilds in most environments. They have over a million described species, making up more than 80 percent of all described living animal species, some of which, unlike most other animals, are very successful in dry environments. Arthropods range in size from the microscopic crustacean Stygotantulus up to the Japanese spider crab.
+
+An arthropod's primary internal cavity is a haemocoel, which accommodates its internal organs, and through which its haemolymph – analogue of blood – circulates; it has an open circulatory system. Like their exteriors, the internal organs of arthropods are generally built of repeated segments. Their nervous system is "ladder-like", with paired ventral nerve cords running through all segments and forming paired ganglia in each segment. Their heads are formed by fusion of varying numbers of segments, and their brains are formed by fusion of the ganglia of these segments and encircle the esophagus. The respiratory and excretory systems of arthropods vary, depending as much on their environment as on the subphylum to which they belong.
+
+Their vision relies on various combinations of compound eyes and pigment-pit ocelli: in most species the ocelli can only detect the direction from which light is coming, and the compound eyes are the main source of information, but the main eyes of spiders are ocelli that can form images and, in a few cases, can swivel to track prey. Arthropods also have a wide range of chemical and mechanical sensors, mostly based on modifications of the many bristles known as setae that project through their cuticles.
+
+Arthropods' methods of reproduction and development are diverse; all terrestrial species use internal fertilization, but this is often by indirect transfer of the sperm via an appendage or the ground, rather than by direct injection. Aquatic species use either internal or external fertilization. Almost all arthropods lay eggs, but scorpions give birth to live young after the eggs have hatched inside the mother. Arthropod hatchlings vary from miniature adults to grubs and caterpillars that lack jointed limbs and eventually undergo a total metamorphosis to produce the adult form. The level of maternal care for hatchlings varies from nonexistent to the prolonged care provided by scorpions.
+
+The evolutionary ancestry of arthropods dates back to the Cambrian period. The group is generally regarded as monophyletic, and many analyses support the placement of arthropods with cycloneuralians (or their constituent clades) in a superphylum Ecdysozoa. Overall, however, the basal relationships of animals are not yet well resolved. Likewise, the relationships between various arthropod groups are still actively debated.
+
+Arthropods contribute to the human food supply both directly as food, and more importantly indirectly as pollinators of crops. Some species are known to spread severe disease to humans, livestock, and crops.
+
+## Nematodes
+
+The nematodes or roundworms constitute the phylum Nematoda (also called Nemathelminthes), with plant-parasitic nematodes being known as eelworms. The word nematode comes from the Modern Latin compound of nemat- "thread" (from Greek nema, genitive nematos "thread," from stem of nein "to spin"; see needle) + -odes "like, of the nature of" (see -oid). They are a diverse animal phylum inhabiting a broad range of environments. Taxonomically, they are classified along with insects and other moulting animals in the clade Ecdysozoa, and unlike flatworms, have tubular digestive systems with openings at both ends. Like tardigrades they have a reduced number of Hox genes, but as their sister phylum Nematomorpha has kept the ancestral protostome Hox genotype, it shows that the reduction has occurred within the nematode phylum.
+
+(ref:celeg) [*Caenorhabditis elegans*, a free-living transparent nematode about 1 mm in length that lives in temperate soil environments.](https://commons.wikimedia.org/wiki/File:Adult_Caenorhabditis_elegans.jpg) In 1963, Sydney Brenner proposed research into C. elegans, primarily in the area of neuronal development. In 1974, he began research into the molecular and developmental biology of C. elegans, which has since been extensively used as a model organism. It was the first multicellular organism to have its whole genome sequenced, and as of 2019, is the only organism to have its connectome (neuronal "wiring diagram") completed.
+
+```{r celegans, fig.cap='(ref:celeg)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Adult_Caenorhabditis_elegans.jpg")
+```
+
+Nematode species can be difficult to distinguish from one another. Consequently, estimates of the number of nematode species described to date vary by author and may change rapidly over time. A 2013 survey of animal biodiversity published in the mega journal Zootaxa puts this figure at over 25,000. Estimates of the total number of extant species are subject to even greater variation. A widely referenced article published in 1993 estimated there may be over 1 million species of nematode, a claim which has since been repeated in numerous publications. Many other publications have since vigorously refuted this claim on the grounds that it is unsupported by fact. More recent, fact-based estimates have placed the true figure closer to 40,000 species worldwide.
+
+Nematodes have successfully adapted to nearly every ecosystem: from marine (salt) to fresh water, soils, from the polar regions to the tropics, as well as the highest to the lowest of elevations (including mountains). They are ubiquitous in freshwater, marine, and terrestrial environments, where they often outnumber other animals in both individual and species counts, and are found in locations as diverse as mountains, deserts, and oceanic trenches. They are found in every part of the earth's lithosphere, even at great depths, 0.9–3.6 km (3,000–12,000 ft) below the surface of the Earth in gold mines in South Africa. They represent 90% of all animals on the ocean floor. In total, 4.4 × 1020 nematodes inhabit the Earth's topsoil, or approximately 60 billion for each human, with the highest densities observed in tundra and boreal forests. Their numerical dominance, often exceeding a million individuals per square meter and accounting for about 80% of all individual animals on earth, their diversity of lifecycles, and their presence at various trophic levels point to an important role in many ecosystems. They have been shown to play crucial roles in polar ecosystems. The roughly 2,271 genera are placed in 256 families. The many parasitic forms include pathogens in most plants and animals. A third of the genera occur as parasites of vertebrates; about 35 nematode species occur in humans.
 
 ## Spiralia
 
 The Spiralia are a large group of protostomes that develop by spiral cleavage in the early embryo. The Spiralia's phylogeny has been disputed, but it contains a large clade, the superphylum Lophotrochozoa, and smaller groups of phyla such as the Rouphozoa which includes the gastrotrichs and the flatworms. All of these are grouped as the Platytrochozoa, which has a sister group, the Gnathifera, which includes the rotifers.
 
 The Lophotrochozoa includes the molluscs, annelids, brachiopods, nemerteans, bryozoa and entoprocts. The molluscs, the second-largest animal phylum by number of described species, includes snails, clams, and squids, while the annelids are the segmented worms, such as earthworms, lugworms, and leeches. These two groups have long been considered close relatives because they share trochophore larvae.
+
+## Molluscs
+
+Mollusca is the second-largest phylum of invertebrate animals after the Arthropoda. The members are known as molluscs or mollusks. Around 85,000 extant species of molluscs are recognized. The number of fossil species is estimated between 60,000 and 100,000 additional species. The proportion of undescribed species is very high. Many taxa remain poorly studied.
+
+(ref:snai) [*Cornu aspersum* (formerly *Helix aspersa*) – a common land snail.](https://commons.wikimedia.org/wiki/File:Snail-wiki-120-Zachi-Evenor.jpg) 
+
+```{r snail, fig.cap='(ref:snai)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Snail-wiki-120-Zachi-Evenor.jpg")
+```
+
+Molluscs are the largest marine phylum, comprising about 23% of all the named marine organisms. Numerous molluscs also live in freshwater and terrestrial habitats. They are highly diverse, not just in size and anatomical structure, but also in behaviour and habitat. The phylum is typically divided into 8 or 9 taxonomic classes, of which two are entirely extinct. Cephalopod molluscs, such as squid, cuttlefish, and octopuses, are among the most neurologically advanced of all invertebrates—and either the giant squid or the colossal squid is the largest known invertebrate species. The gastropods (snails and slugs) are by far the most numerous molluscs and account for 80% of the total classified species.
+
+The three most universal features defining modern molluscs are a mantle with a significant cavity used for breathing and excretion, the presence of a radula (except for bivalves), and the structure of the nervous system. Other than these common elements, molluscs express great morphological diversity, so many textbooks base their descriptions on a "hypothetical ancestral mollusc" (see image below). This has a single, "limpet-like" shell on top, which is made of proteins and chitin reinforced with calcium carbonate, and is secreted by a mantle covering the whole upper surface. The underside of the animal consists of a single muscular "foot". Although molluscs are coelomates, the coelom tends to be small. The main body cavity is a hemocoel through which blood circulates; as such, their circulatory systems are mainly open. The "generalized" mollusc's feeding system consists of a rasping "tongue", the radula, and a complex digestive system in which exuded mucus and microscopic, muscle-powered "hairs" called cilia play various important roles. The generalized mollusc has two paired nerve cords, or three in bivalves. The brain, in species that have one, encircles the esophagus. Most molluscs have eyes, and all have sensors to detect chemicals, vibrations, and touch. The simplest type of molluscan reproductive system relies on external fertilization, but more complex variations occur. Nearly all produce eggs, from which may emerge trochophore larvae, more complex veliger larvae, or miniature adults. The coelomic cavity is reduced. They have an open circulatory system and kidney-like organs for excretion.
+
+Good evidence exists for the appearance of gastropods, cephalopods, and bivalves in the Cambrian period, 541–485.4 million years ago. However, the evolutionary history both of molluscs' emergence from the ancestral Lophotrochozoa and of their diversification into the well-known living and fossil forms are still subjects of vigorous debate among scientists.
+
+
+Fossilized ammonite displayed at the National Museum of the Philippines
+Molluscs have been and still are an important food source for anatomically modern humans. A risk of food poisoning exists from toxins that can accumulate in certain molluscs under specific conditions, however, and because of this, many countries have regulations to reduce this risk. Molluscs have, for centuries, also been the source of important luxury goods, notably pearls, mother of pearl, Tyrian purple dye, and sea silk. Their shells have also been used as money in some preindustrial societies.
+
+Mollusc species can also represent hazards or pests for human activities. The bite of the blue-ringed octopus is often fatal, and that of Octopus apollyon causes inflammation that can last over a month. Stings from a few species of large tropical cone shells can also kill, but their sophisticated, though easily produced, venoms have become important tools in neurological research. Schistosomiasis (also known as bilharzia, bilharziosis, or snail fever) is transmitted to humans by water snail hosts, and affects about 200 million people. Snails and slugs can also be serious agricultural pests, and accidental or deliberate introduction of some snail species into new environments has seriously damaged some ecosystems.
+
+## Annelids
+
+The annelids (Annelida, from Latin anellus, "little ring"[a]), also known as the ringed worms or segmented worms, are a large phylum, with over 22,000 extant species including ragworms, earthworms, and leeches. The species exist in and have adapted to various ecologies – some in marine environments as distinct as tidal zones and hydrothermal vents, others in fresh water, and yet others in moist terrestrial environments.
+
+(ref:annelid) [The earthworm *Lumbricus terrestris* is a representative of the annelids.](https://commons.wikimedia.org/wiki/File:Nerr0328.jpg) 
+
+```{r annelidrep, fig.cap='(ref:annelid)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Earthworm.jpg")
+```
+
+The Annelids are bilaterally symmetrical, triploblastic, coelomate, invertebrate organisms. They also have parapodia for locomotion. Most textbooks still use the traditional division into polychaetes (almost all marine), oligochaetes (which include earthworms) and leech-like species. Cladistic research since 1997 has radically changed this scheme, viewing leeches as a sub-group of oligochaetes and oligochaetes as a sub-group of polychaetes. In addition, the Pogonophora, Echiura and Sipuncula, previously regarded as separate phyla, are now regarded as sub-groups of polychaetes. Annelids are considered members of the Lophotrochozoa, a "super-phylum" of protostomes that also includes molluscs, brachiopods, and nemerteans.
+
+The basic annelid form consists of multiple segments. Each segment has the same sets of organs and, in most polychates, has a pair of parapodia that many species use for locomotion. Septa separate the segments of many species, but are poorly defined or absent in others, and Echiura and Sipuncula show no obvious signs of segmentation. In species with well-developed septa, the blood circulates entirely within blood vessels, and the vessels in segments near the front ends of these species are often built up with muscles that act as hearts. The septa of such species also enable them to change the shapes of individual segments, which facilitates movement by peristalsis ("ripples" that pass along the body) or by undulations that improve the effectiveness of the parapodia. In species with incomplete septa or none, the blood circulates through the main body cavity without any kind of pump, and there is a wide range of locomotory techniques – some burrowing species turn their pharynges inside out to drag themselves through the sediment.
+
+Earthworms are oligochaetes that support terrestrial food chains both as prey and in some regions are important in aeration and enriching of soil. The burrowing of marine polychaetes, which may constitute up to a third of all species in near-shore environments, encourages the development of ecosystems by enabling water and oxygen to penetrate the sea floor. In addition to improving soil fertility, annelids serve humans as food and as bait. Scientists observe annelids to monitor the quality of marine and fresh water. Although blood-letting is used less frequently by doctors, some leech species are regarded as endangered species because they have been over-harvested for this purpose in the last few centuries. Ragworms' jaws are now being studied by engineers as they offer an exceptional combination of lightness and strength.
+
+Since annelids are soft-bodied, their fossils are rare – mostly jaws and the mineralized tubes that some of the species secreted. Although some late Ediacaran fossils may represent annelids, the oldest known fossil that is identified with confidence comes from about 518 million years ago in the early Cambrian period. Fossils of most modern mobile polychaete groups appeared by the end of the Carboniferous, about 299 million years ago. Palaeontologists disagree about whether some body fossils from the mid Ordovician, about 472 to 461 million years ago, are the remains of oligochaetes, and the earliest indisputable fossils of the group appear in the Tertiary period, which began 66 million years ago.
 
 ## Animal Development
 
@@ -248,6 +406,50 @@ Muscle cells form the active contractile tissue of the body known as muscle tiss
 ## Nervous tissue
 
 Cells comprising the central nervous system and peripheral nervous system are classified as nervous (or neural) tissue. In the central nervous system, neural tissues form the brain and spinal cord. In the peripheral nervous system, neural tissues form the cranial nerves and spinal nerves, inclusive of the motor neurons.
+
+## Organs And Organ Systems
+
+An organ is a group of tissues with similar functions. Plant life and animal life rely on many organs that coexist in organ systems.
+
+A given organ's tissues can be broadly categorized as parenchyma, the tissue peculiar to (or at least archetypal of) the organ and that does the organ's specialized job, and stroma, the tissues with supportive, structural, connective, or ancillary functions. For example, in a gland, the tissue that makes the hormones is the parenchyma, whereas the stroma includes the nerves that innervate the parenchyma, the blood vessels that oxygenate and nourish it and carry away its metabolic wastes, and the connective tissues that provide a suitable place for it to be situated and anchored. The main tissues that make up an organ tend to have common embryologic origins, such as arising from the same germ layer. Functionally related organs often cooperate to form whole organ systems. Organs exist in most multicellular organisms. In single-celled organisms such as bacteria, the functional analogue of an organ is known as an organelle. In plants, there are three main organs. A hollow organ is an internal organ that forms a hollow tube, or pouch such as the stomach, intestine, or bladder.
+
+In the study of anatomy, the term viscus refers to an internal organ. Viscera is the plural form.
+
+The number of organs in any organism depends on which precise definition of the term one uses. By one widely used definition, 79 organs have been identified in the human body.
+
+Two or more organs working together in the execution of a specific body function form an organ system, also called a biological system or body system. The functions of organ systems often share significant overlap. For instance, the nervous and endocrine system both operate via a shared organ, the hypothalamus. For this reason, the two systems are combined and studied as the neuroendocrine system. The same is true for the musculoskeletal system because of the relationship between the muscular and skeletal systems.
+
+The organ level of organisation in animals can be first detected in flatworms and the more derived phyla. The less-advanced taxa (like Placozoa, Sponges and Radiata) do not show consolidation of their tissues into organs.
+
+More complex animals are composed of different organs, which have been evolving over time. For example, the liver evolved in the stem vertebrates more than 500 million years ago, while the gut and brain are even more ancient, arising in the ancestor of vertebrates, insects, and worms more than 600 million years ago.
+
+(ref:orgev) [Relationship of major animal lineages with indication of how long ago these animals shared a common ancestor. On the left, important organs are shown, which allows us to determine how long ago these may have evolved.](https://commons.wikimedia.org/wiki/File:Origin_of_major_organs_on_the_animal_phylogeny.jpg) 
+
+```{r organevolution, fig.cap='(ref:orgev)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Origin_of_major_organs_on_the_animal_phylogeny.jpg")
+```
+
+Given the ancient origin of most vertebrate organs, researchers have looked for model systems, where organs have evolved more recently, and ideally have evolved multiple times independently. An outstanding model for this kind of research is the placenta, which has evolved more than 100 times independently in vertebrates, has evolved relatively recently in some lineages, and exists in intermediate forms in extant taxa. Studies on the evolution of the placenta have identified a variety of genetic and physiological processes that contribute to the origin and evolution of organs, these include the re-purposing of existing animal tissues, the acquisition of new functional properties by these tissues, and novel interactions of distinct tissue types.
+
+Bilateral animals have a variety of organ systems: 
+
+* Cardiovascular system: pumping and channeling blood to and from the body and lungs with heart, blood and blood vessels.
+* Digestive system: digestion and processing food with salivary glands, esophagus, stomach, liver, gallbladder, pancreas, intestines, colon, rectum and anus.
+* Endocrine system: communication within the body using hormones made by endocrine glands such as the hypothalamus, pituitary gland, pineal body or pineal gland, thyroid, parathyroids and adrenals, i.e., adrenal glands.
+* Excretory system: kidneys, ureters, bladder and urethra involved in fluid balance, electrolyte balance and excretion of urine.
+* Lymphatic system: structures involved in the transfer of lymph between tissues and the blood stream, the lymph and the nodes and vessels that transport it including the Immune system: defending against disease-causing agents with leukocytes, tonsils, adenoids, thymus and spleen.
+* Integumentary system: skin, hair and nails of mammals. Also scales of fish, reptiles, and birds, and feathers of birds.
+* Muscular system: movement with muscles.
+* Nervous system: collecting, transferring and processing information with brain, spinal cord and nerves.
+* Reproductive system: the sex organs, such as ovaries, fallopian tubes, uterus, vulva, vagina, testes, vas deferens, seminal vesicles, prostate and penis.
+* Respiratory system: the organs used for breathing, the pharynx, larynx, trachea, bronchi, lungs and diaphragm.
+* Skeletal system: structural support and protection with bones, cartilage, ligaments and tendons.
+
+(ref:humorg) [Selection of internal organs in human anatomy.](https://commons.wikimedia.org/wiki/File:Internal_organs.svg) 
+
+```{r humanorgans, fig.cap='(ref:humorg)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Internal_organs.svg")
+```
 
 ## Human evolution
 

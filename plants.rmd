@@ -305,7 +305,7 @@ One study has suggested that the early-middle Jurassic plant Schmeissneria, trad
 
 It has been proposed that the swift rise of angiosperms to dominance was facilitated by a reduction in their genome size. During the early Cretaceous period, only angiosperms underwent rapid genome downsizing, while genome sizes of ferns and gymnosperms remained unchanged. Smaller genomes—and smaller nuclei—allow for faster rates of cell division and smaller cells. Thus, species with smaller genomes can pack more, smaller cells—in particular veins and stomata—into a given leaf volume. Genome downsizing therefore facilitated higher rates of leaf gas exchange (transpiration and photosynthesis) and faster rates of growth. This would have countered some of the negative physiological effects of genome duplications, facilitated increased uptake of carbon dioxide despite concurrent declines in atmospheric CO2) concentrations, and allowed the flowering plants to outcompete other land plants.
 
-The earliest known macrofossil confidently identified as an angiosperm, Archaefructus liaoningensis, is dated to about 125 million years BP (the Cretaceous period), whereas pollen considered to be of angiosperm origin takes the fossil record back to about 130 million years BP, with Montsechia representing the earliest flower at that time. In 2018, scientists reported that the earliest flowers began about 180 million years ago, 50 million years earlier than thought earlier. Nonetheless, circumstantial chemical evidence has been found for the existence of angiosperms as early as 250 million years ago (see the above Paleozoic section)
+The earliest known macrofossil confidently identified as an angiosperm, Archaefructus liaoningensis, is dated to about 125 million years BP (the Cretaceous period), whereas pollen considered to be of angiosperm origin takes the fossil record back to about 130 million years BP, with Montsechia representing the earliest flower at that time. In 2018, scientists reported that the earliest flowers began about 180 million years ago, 50 million years earlier than thought earlier. Nonetheless, circumstantial chemical evidence has been found for the existence of angiosperms as early as 250 million years ago .
 
 In 2013 flowers encased in amber were found and dated 100 million years before present. The amber had frozen the act of sexual reproduction in the process of taking place. Microscopic images showed tubes growing out of pollen and penetrating the flower's stigma. The pollen was sticky, suggesting it was carried by insects. In August 2017, scientists presented a detailed description and 3D model image of what the first flower possibly looked like, and presented the hypothesis that it may have lived about 140 million years ago. A Bayesian analysis of 52 angiosperm taxa suggested that the crown group of angiosperms evolved between 178 million years ago and 198 million years ago.
 
@@ -348,6 +348,19 @@ The adaptive function of meiosis is currently a matter of debate. A key event du
 ## Plant Anatomy
 
 Plant anatomy or phytotomy is the general term for the study of the internal structure of plants. Originally it included plant morphology, the description of the physical form and external structure of plants, but since the mid-20th century plant anatomy has been considered a separate field referring only to internal plant structure. Plant anatomy is now frequently investigated at the cellular level, and often involves the sectioning of tissues and microscopy.
+
+Some studies of plant anatomy use a systems approach, organized on the basis of the plant's activities, such as nutrient transport, flowering, pollination, embryogenesis or seed development. Others are more classically divided into the following structural categories:
+
+* Flower anatomy, including study of the Calyx, Corolla, Androecium, and Gynoecium
+* Leaf anatomy, including study of the Epidermis, stomata and Palisade cells
+* Stem anatomy, including Stem structure and vascular tissues, buds and shoot apex
+* Fruit/Seed anatomy, including structure of the Ovule, Seed, Pericarp and Accessory fruit
+* Wood anatomy, including structure of the Bark, Cork, Xylem, Phloem, Vascular cambium, Heartwood and sapwood and branch collar
+* Root anatomy, including structure of the Root, root tip, endodermis
+
+Organs of plants can be divided into vegetative and reproductive. Vegetative plant organs include roots, stems, and leaves. The reproductive organs are variable. In flowering plants, they are represented by the flower, seed and fruit. In conifers, the organ that bears the reproductive structures is called a cone. In other divisions (phyla) of plants, the reproductive organs are called strobili, in Lycopodiophyta, or simply gametophores in mosses.
+
+The vegetative organs are essential for maintaining the life of a plant. While there can be 11 organ systems in animals, there are far fewer in plants, where some perform the vital functions, such as photosynthesis, while the reproductive organs are essential in reproduction. However, if there is asexual vegetative reproduction, the vegetative organs are those that create the new generation of plants (see clonal colony).
 
 ## Plant Tissues
 
@@ -396,7 +409,6 @@ Parenchyma (para - 'beside'; infusion - 'tissue') is the bulk of a substance. In
 
 ### Collenchyma
 
-Cross section of collenchyma cells
 Collenchyma is Greek word where "Colla" means gum and "enchyma" means infusion. It is a living tissue of primary body like Parenchyma. Cells are thin-walled but possess thickening of cellulose, water and pectin substances (pectocellulose) at the corners where a number of cells join together. This tissue gives tensile strength to the plant and the cells are compactly arranged and have very little inter-cellular spaces. It occurs chiefly in hypodermis of stems and leaves. It is absent in monocots and in roots. Sometimes it contains chlorophyll which can help them photosynthesize.
 
 Collenchymatous tissue acts as a supporting tissue in stems of young plants. It provides mechanical support, elasticity, and tensile strength to the plant body. It helps in manufacturing sugar and storing it as starch. It is present in the margin of leaves and resists tearing effect of the wind.
@@ -444,18 +456,6 @@ Phloem consists of:
 
 Phloem is an equally important plant tissue as it also is part of the 'plumbing system' of a plant. Primarily, phloem carries dissolved food substances throughout the plant. This conduction system is composed of sieve-tube member and companion cells, that are without secondary walls. The parent cells of the vascular cambium produce both xylem and phloem. This usually also includes fibers, parenchyma and ray cells. Sieve tubes are formed from sieve-tube members laid end to end. The end walls, unlike vessel members in xylem, do not have openings. The end walls, however, are full of small pores where cytoplasm extends from cell to cell. These porous connections are called sieve plates. In spite of the fact that their cytoplasm is actively involved in the conduction of food materials, sieve-tube members do not have nuclei at maturity. It is the companion cells that are nestled between sieve-tube members that function in some manner bringing about the conduction of food. Sieve-tube members that are alive contain a polymer called callose, a carbohydrate polymer, forming the callus pad/callus, the colourless substance that covers the sieve plate. Callose stays in solution as long as the cell contents are under pressure. Phloem transports food and materials in plants upwards and downwards as required.
 
-### Structural Divisions
-
-Some studies of plant anatomy use a systems approach, organized on the basis of the plant's activities, such as nutrient transport, flowering, pollination, embryogenesis or seed development. Others are more classically divided into the following structural categories:
-
-### Root Tip
-
-Flower anatomy, including study of the Calyx, Corolla, Androecium, and Gynoecium
-Leaf anatomy, including study of the Epidermis, stomata and Palisade cells
-Stem anatomy, including Stem structure and vascular tissues, buds and shoot apex
-Fruit/Seed anatomy, including structure of the Ovule, Seed, Pericarp and Accessory fruit
-Wood anatomy, including structure of the Bark, Cork, Xylem, Phloem, Vascular cambium, Heartwood and sapwood and branch collar
-Root anatomy, including structure of the Root, root tip, endodermis
 
 ### Plant cells
 
@@ -580,6 +580,57 @@ Plants have a number of different means to attract pollinators including color, 
 The largest family of flowering plants is the orchids (Orchidaceae), estimated by some specialists to include up to 35,000 species, which often have highly specialized flowers that attract particular insects for pollination. The stamens are modified to produce pollen in clusters called pollinia, which become attached to insects that crawl into the flower. The flower shapes may force insects to pass by the pollen, which is "glued" to the insect. Some orchids are even more highly specialized, with flower shapes that mimic the shape of insects to attract them to attempt to 'mate' with the flowers, a few even have scents that mimic insect pheromones.
 
 Another large group of flowering plants is the Asteraceae or sunflower family with close to 22,000 species, which also have highly modified inflorescences that are flowers collected together in heads composed of a composite of individual flowers called florets. Heads with florets of one sex, when the flowers are pistillate or functionally staminate or made up of all bisexual florets, are called homogamous and can include discoid and liguliflorous type heads. Some radiate heads may be homogamous too. Plants with heads that have florets of two or more sexual forms are called heterogamous and include radiate and disciform head forms, though some radiate heads may be heterogamous too.
+
+## The Fruit
+
+A [fruit](https://en.wikipedia.org/wiki/Fruit) is the seed-bearing structure in angiosperms formed from the ovary after flowering.
+
+Fruits are the means by which angiosperms disseminate seeds. Edible fruits, in particular, have propagated with the movements of humans and animals in a symbiotic relationship as a means for seed dispersal and nutrition; in fact, humans and many animals have become dependent on fruits as a source of food. Accordingly, fruits account for a substantial fraction of the world's agricultural output, and some (such as the apple and the pomegranate) have acquired extensive cultural and symbolic meanings.
+
+In common language usage, "fruit" normally means the fleshy seed-associated structures of a plant that are sweet or sour, and edible in the raw state, such as apples, bananas, grapes, lemons, oranges, and strawberries. On the other hand, in botanical usage, "fruit" includes many structures that are not commonly called "fruits", such as bean pods, corn kernels, tomatoes, and wheat grains. The section of a fungus that produces spores is also called a fruiting body.
+
+(ref:flowfrui) [Flowers and fruit (capsules) of the ground orchid, Spathoglottis plicata, illustrating an inferior ovary.](https://commons.wikimedia.org/wiki/File:Spathoglottis_flwrs_reduced.jpg) 
+
+```{r flowersfruits, fig.cap='(ref:flowfrui)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/plants/Spathoglottis_flwrs_reduced.jpg")
+```
+
+The outer, often edible layer, is the pericarp, formed from the ovary and surrounding the seeds, although in some species other tissues contribute to or form the edible portion. The pericarp may be described in three layers from outer to inner, the epicarp, mesocarp and endocarp.
+
+Fruit that bears a prominent pointed terminal projection is said to be beaked.
+
+A fruit results from maturation of one or more flowers, and the gynoecium of the flower(s) forms all or part of the fruit. Gynoecium (from Ancient Greek γυνή, gyne, meaning woman, and οἶκος, oikos, meaning house) is most commonly used as a collective term for the parts of a flower that produce ovules and ultimately develop into the fruit and seeds. The gynoecium is the innermost whorl of a flower; it consists of (one or more) pistils and is typically surrounded by the pollen-producing reproductive organs, the stamens, collectively called the androecium. The gynoecium is often referred to as the "female" portion of the flower, although rather than directly producing female gametes (i.e. egg cells), the gynoecium produces megaspores, each of which develops into a female gametophyte which then produces egg cells.
+
+(ref:gyno) [Flower of Magnolia × wieseneri showing the many pistils making up the gynoecium in the middle of the flower](https://commons.wikimedia.org/wiki/File:Magnolia_wieseneri_-_labelled_gynoecium.jpg) 
+
+```{r gynoecium, fig.cap='(ref:gyno)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/plants/Magnolia_wieseneri_-_labelled_gynoecium.jpg")
+```
+
+Inside the ovary/ovaries are one or more ovules where the megagametophyte contains the egg cell. After double fertilization, these ovules will become seeds. The ovules are fertilized in a process that starts with pollination, which involves the movement of pollen from the stamens to the stigma of flowers. After pollination, a tube grows from the pollen through the stigma into the ovary to the ovule and two sperm are transferred from the pollen to the megagametophyte. Within the megagametophyte one of the two sperm unites with the egg, forming a zygote, and the second sperm enters the central cell forming the endosperm mother cell, which completes the double fertilization process. Later the zygote will give rise to the embryo of the seed, and the endosperm mother cell will give rise to endosperm, a nutritive tissue used by the embryo.
+
+(ref:ovule) [Cross-section through the ovary of Narcissus showing multiple carpels (the female reproductive part of the flower) fused along the placental line where the ovules form](https://en.wikipedia.org/wiki/Gynoecium#/media/File:Narcis_zaadhokken.jpg) 
+
+```{r ovarycross, fig.cap='(ref:ovule)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/plants/Narcis_zaadhokken.jpg")
+```
+
+As the ovules develop into seeds, the ovary begins to ripen and the ovary wall, the pericarp, may become fleshy (as in berries or drupes), or form a hard outer covering (as in nuts). In some multiseeded fruits, the extent to which the flesh develops is proportional to the number of fertilized ovules. The pericarp is often differentiated into two or three distinct layers called the exocarp (outer layer, also called epicarp), mesocarp (middle layer), and endocarp (inner layer). In some fruits, especially simple fruits derived from an inferior ovary, other parts of the flower (such as the floral tube, including the petals, sepals, and stamens), fuse with the ovary and ripen with it. In other cases, the sepals, petals and/or stamens and style of the flower fall off. When such other floral parts are a significant part of the fruit, it is called an accessory fruit. Since other parts of the flower may contribute to the structure of the fruit, it is important to study flower structure to understand how a particular fruit forms.
+
+(ref:fruitdev) [The development sequence of a typical drupe, the nectarine (Prunus persica) over a 7.5 month period, from bud formation in early winter to fruit ripening in midsummer. ](https://commons.wikimedia.org/wiki/File:Nectarine_Fruit_Development.jpg))1. Bud formation can be observed on new growth on the plant (early winter) 2. Flower buds clearly formed and leaves start to develop (early spring, ≈ 3 months) . 3. Flowers fully develop and are pollinated by wind or insects (early spring, ≈ 3½ months). 4. If successfully pollinated, flowers die back and incipient fruit can be observed; leaves have quickly grown to provide tree with food and energy from photosynthesis (mid-spring, ≈ 4 months). 5. Fruit is well developed and continues to grow (late spring, ≈ 5½ months). 6. Fruit fully ripens to an edible form to encourage spreading of seed contained within by animals (midsummer, ≈ 7½ months)
+
+```{r fruitdevelopment, fig.cap='(ref:fruitdev)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/plants/Nectarine_Fruit_Development.jpg")
+```
+
+There are three general modes of fruit development:
+
+* Apocarpous fruits develop from a single flower having one or more separate carpels, and they are the simplest fruits.
+* Syncarpous fruits develop from a single gynoecium having two or more carpels fused together.
+* Multiple fruits form from many different flowers.
+
+Plant scientists have grouped fruits into three main groups, simple fruits, aggregate fruits, and composite or multiple fruits. The groupings are not evolutionarily relevant, since many diverse plant taxa may be in the same group, but reflect how the flower organs are arranged and how the fruits develop.
+
 
 ### Reproductin of Ferns
 

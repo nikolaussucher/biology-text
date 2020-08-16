@@ -10,17 +10,46 @@ Other animals, such as insects, have respiratory systems with very simple anatom
 
 In humans and other mammals, the anatomy of a typical respiratory system is the respiratory tract. The tract is divided into an upper and a lower respiratory tract. The upper tract includes the nose, nasal cavities, sinuses, pharynx and the part of the larynx above the vocal folds. The lower tract (Fig. 2.) includes the lower part of the larynx, the trachea, bronchi, bronchioles and the alveoli.
 
+(ref:resps) [The respiratory system consists of the airways, the lungs, and the respiratory muscles that mediate the movement of air into and out of the body.](https://commons.wikimedia.org/wiki/File:Respiratory_system_complete_en.svg)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Respiratory_system_complete_en} 
+
+}
+
+\caption{(ref:resps)}(\#fig:respiratorysystem)
+\end{figure}
+
 The branching airways of the lower tract are often described as the respiratory tree or tracheobronchial tree. The intervals between successive branch points along the various branches of "tree" are often referred to as branching "generations", of which there are, in the adult human about 23. The earlier generations (approximately generations 0–16), consisting of the trachea and the bronchi, as well as the larger bronchioles which simply act as air conduits, bringing air to the respiratory bronchioles, alveolar ducts and alveoli (approximately generations 17–23), where gas exchange takes place. Bronchioles are defined as the small airways lacking any cartilagenous support.
 
 The first bronchi to branch from the trachea are the right and left main bronchi. Second only in diameter to the trachea (1.8 cm), these bronchi (1 -1.4 cm in diameter) enter the lungs at each hilum, where they branch into narrower secondary bronchi known as lobar bronchi, and these branch into narrower tertiary bronchi known as segmental bronchi. Further divisions of the segmental bronchi (1 to 6 mm in diameter) are known as 4th order, 5th order, and 6th order segmental bronchi, or grouped together as subsegmental bronchi.
 
 The alveoli are the dead end terminals of the "tree", meaning that any air that enters them has to exit via the same route. A system such as this creates dead space, a volume of air (about 150 ml in the adult human) that fills the airways after exhalation and is breathed back into the alveoli before environmental air reaches them. At the end of inhalation the airways are filled with environmental air, which is exhaled without coming in contact with the gas exchanger.
 
-The first bronchi to branch from the trachea are the right and left main bronchi. Second only in diameter to the trachea (1.8 cm), these bronchi (1 -1.4 cm in diameter) enter the lungs at each hilum, where they branch into narrower secondary bronchi known as lobar bronchi, and these branch into narrower tertiary bronchi known as segmental bronchi. Further divisions of the segmental bronchi (1 to 6 mm in diameter) are known as 4th order, 5th order, and 6th order segmental bronchi, or grouped together as subsegmental bronchi.
+(ref:alveolusdia) [Alveoli and their capillary networks.](https://upload.wikimedia.org/wikipedia/commons/4/46/Alveolus_diagram.svg) 
 
-The alveoli are the dead end terminals of the "tree", meaning that any air that enters them has to exit via the same route. A system such as this creates dead space, a volume of air (about 150 ml in the adult human) that fills the airways after exhalation and is breathed back into the alveoli before environmental air reaches them. At the end of inhalation the airways are filled with environmental air, which is exhaled without coming in contact with the gas exchanger.
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Alveolus diagram en} 
+
+}
+
+\caption{(ref:alveolusdia)}(\#fig:alveolusdiagram)
+\end{figure}
 
 The lungs expand and contract during the breathing cycle, drawing air in and out of the lungs. The volume of air moved in or out of the lungs under normal resting circumstances (the resting tidal volume of about 500 ml), and volumes moved during maximally forced inhalation and maximally forced exhalation are measured in humans by spirometry. 
+
+(ref:spiro) [Output of a 'spirometer'. Upward movement of the graph, read from the left, indicates the intake of air; downward movements represent exhalation.](https://commons.wikimedia.org/wiki/File:Lungvolumes_Updated.png) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Lungvolumes_Updated} 
+
+}
+
+\caption{(ref:spiro)}(\#fig:spirometeroutput)
+\end{figure}
 
 Not all the air in the lungs can be expelled during maximally forced exhalation. This is the residual volume of about 1.0-1.5 liters which cannot be measured by spirometry. Volumes that include the residual volume (i.e. functional residual capacity of about 2.5-3.0 liters, and total lung capacity of about 6 liters) can therefore also not be measured by spirometry. Their measurement requires special techniques.
 
@@ -44,9 +73,20 @@ Although not a form of breathing, the Valsalva maneuver involves the respiratory
 
 ## Gas exchange
 
-The primary purpose of the respiratory system is the equilibration of the partial pressures of the respiratory gases in the alveolar air with those in the pulmonary capillary blood. This process occurs by simple diffusion, across a very thin membrane (known as the blood–air barrier), which forms the walls of the pulmonary alveoli (Fig. 10). It consisting of the alveolar epithelial cells, their basement membranes and the endothelial cells of the alveolar capillaries (Fig. 10). This blood gas barrier is extremely thin (in humans, on average, 2.2 μm thick). It is folded into about 300 million small air sacs called alveoli (each between 75 and 300 µm in diameter) branching off from the respiratory bronchioles in the lungs, thus providing an extremely large surface area (approximately 145 m2) for gas exchange to occur.
+The primary purpose of the respiratory system is the equilibration of the partial pressures of the respiratory gases in the alveolar air with those in the pulmonary capillary blood. This process occurs by simple diffusion, across a very thin membrane (known as the blood–air barrier), which forms the walls of the pulmonary alveoli (Figure \@ref(fig:alveolarwall)). It consisting of the alveolar epithelial cells, their basement membranes and the endothelial cells of the alveolar capillaries (Figure \@ref(fig:alveolarwall)). This blood gas barrier is extremely thin (in humans, on average, 2.2 μm thick). It is folded into about 300 million small air sacs called alveoli (each between 75 and 300 µm in diameter) branching off from the respiratory bronchioles in the lungs, thus providing an extremely large surface area (approximately 145 m2) for gas exchange to occur.
 
-The air contained within the alveoli has a semi-permanent volume of about 2.5-3.0 liters which completely surrounds the alveolar capillary blood (Fig. 12). This ensures that equilibration of the partial pressures of the gases in the two compartments is very efficient and occurs very quickly. The blood leaving the alveolar capillaries and is eventually distributed throughout the body therefore has a partial pressure of oxygen of 13-14 kPa (100 mmHg), and a partial pressure of carbon dioxide of 5.3 kPa (40 mmHg) (i.e. the same as the oxygen and carbon dioxide gas tensions as in the alveoli). As mentioned in the section above, the corresponding partial pressures of oxygen and carbon dioxide in the ambient (dry) air at sea level are 21 kPa (160 mmHg) and 0.04 kPa (0.3 mmHg) respectively.
+(ref:alve)[A histological cross-section through an alveolar wall showing the layers through which the gases have to move between the blood plasma and the alveolar air. The dark blue objects are the nuclei of the capillary endothelial and alveolar type I epithelial cells (or type 1 pneumocytes). The two red objects labeled "RBC" are red blood cells in the pulmonary capillary blood.](https://upload.wikimedia.org/wikipedia/commons/c/c8/Alveolar_wall.jpg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Alveolar_wall} 
+
+}
+
+\caption{(ref:alve)}(\#fig:alveolarwall)
+\end{figure}
+
+The air contained within the alveoli has a semi-permanent volume of about 2.5-3.0 liters which completely surrounds the alveolar capillary blood. This ensures that equilibration of the partial pressures of the gases in the two compartments is very efficient and occurs very quickly. The blood leaving the alveolar capillaries and is eventually distributed throughout the body therefore has a partial pressure of oxygen of 13-14 kPa (100 mmHg), and a partial pressure of carbon dioxide of 5.3 kPa (40 mmHg) (i.e. the same as the oxygen and carbon dioxide gas tensions as in the alveoli). As mentioned in the section above, the corresponding partial pressures of oxygen and carbon dioxide in the ambient (dry) air at sea level are 21 kPa (160 mmHg) and 0.04 kPa (0.3 mmHg) respectively.
 
 This marked difference between the composition of the alveolar air and that of the ambient air can be maintained because the functional residual capacity is contained in dead-end sacs connected to the outside air by fairly narrow and relatively long tubes (the airways: nose, pharynx, larynx, trachea, bronchi and their branches down to the bronchioles), through which the air has to be breathed both in and out (i.e. there is no unidirectional through-flow as there is in the bird lung). This typical mammalian anatomy combined with the fact that the lungs are not emptied and re-inflated with each breath (leaving a substantial volume of air, of about 2.5-3.0 liters, in the alveoli after exhalation), ensures that the composition of the alveolar air is only minimally disturbed when the 350 ml of fresh air is mixed into it with each inhalation. Thus the animal is provided with a very special "portable atmosphere", whose composition differs significantly from the present-day ambient air. It is this portable atmosphere (the functional residual capacity) to which the blood and therefore the body tissues are exposed – not to the outside air.
 
@@ -54,7 +94,29 @@ The resulting arterial partial pressures of oxygen and carbon dioxide are homeos
 
 Since the blood arriving in the alveolar capillaries has a partial pressure of O~2~) of, on average, 6 kPa (45 mmHg), while the pressure in the alveolar air is 13-14 kPa (100 mmHg), there will be a net diffusion of oxygen into the capillary blood, changing the composition of the 3 liters of alveolar air slightly. Similarly, since the blood arriving in the alveolar capillaries has a partial pressure of CO~2~) of also about 6 kPa (45 mmHg), whereas that of the alveolar air is 5.3 kPa (40 mmHg), there is a net movement of carbon dioxide out of the capillaries into the alveoli. The changes brought about by these net flows of individual gases into and out of the alveolar air necessitate the replacement of about 15% of the alveolar air with ambient air every 5 seconds or so. This is very tightly controlled by the monitoring of the arterial blood gases (which accurately reflect composition of the alveolar air) by the aortic and carotid bodies, as well as by the blood gas and pH sensor on the anterior surface of the medulla oblongata in the brain. There are also oxygen and carbon dioxide sensors in the lungs, but they primarily determine the diameters of the bronchioles and pulmonary capillaries, and are therefore responsible for directing the flow of air and blood to different parts of the lungs.
 
+(ref:gasex) [A highly diagrammatic illustration of the process of gas exchange in the mammalian lungs, emphasizing the differences between the gas compositions of the ambient air, the alveolar air (light blue) with which the pulmonary capillary blood equilibrates, and the blood gas tensions in the pulmonary arterial (blue blood entering the lung on the left) and venous blood (red blood leaving the lung on the right). All the gas tensions are in kPa. To convert to mm Hg, multiply by 7.5.](https://commons.wikimedia.org/wiki/File:Gas_exchange.jpg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Gas_exchange} 
+
+}
+
+\caption{(ref:gasex)}(\#fig:gasexchange)
+\end{figure}
+
 It is only as a result of accurately maintaining the composition of the 3 liters of alveolar air that with each breath some carbon dioxide is discharged into the atmosphere and some oxygen is taken up from the outside air. If more carbon dioxide than usual has been lost by a short period of hyperventilation, respiration will be slowed down or halted until the alveolar partial pressure of carbon dioxide has returned to 5.3 kPa (40 mmHg). It is therefore strictly speaking untrue that the primary function of the respiratory system is to rid the body of carbon dioxide “waste”. The carbon dioxide that is breathed out with each breath could probably be more correctly be seen as a byproduct of the body's extracellular fluid carbon dioxide and pH homeostats
+
+(ref:alv) [A diagrammatic histological cross-section through a portion of lung tissue showing a normally inflated alveolus (at the end of a normal exhalation), and its walls containing the pulmonary capillaries (shown in cross-section). This illustrates how the pulmonary capillary blood is completely surrounded by alveolar air. In a normal human lung all the alveoli together contain about 3 liters of alveolar air. All the pulmonary capillaries contain about 100 ml blood.](https://commons.wikimedia.org/wiki/File:Alveolus.jpg)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Alveolus} 
+
+}
+
+\caption{(ref:alv)}(\#fig:alveolarair)
+\end{figure}
 
 If these homeostats are compromised, then a respiratory acidosis, or a respiratory alkalosis will occur. In the long run these can be compensated by renal adjustments to the H+ and HCO3− concentrations in the plasma; but since this takes time, the hyperventilation syndrome can, for instance, occur when agitation or anxiety cause a person to breathe fast and deeply thus causing a distressing respiratory alkalosis through the blowing off of too much CO~2~) from the blood into the outside air.
 
@@ -78,7 +140,6 @@ Inhalation and exhalation are brought about by alternately increasing and decrea
 
 During exhalation the external oblique muscle which is attached to the sternum and vertebral ribs anteriorly, and to the pelvis (pubis and ilium in Fig. 17) posteriorly (forming part of the abdominal wall) reverses the inhalatory movement, while compressing the abdominal contents, thus increasing the pressure in all the air sacs. Air is therefore expelled from the respiratory system in the act of exhalation.
 
-
 During inhalation air enters the trachea via the nostrils and mouth, and continues to just beyond the syrinx at which point the trachea branches into two primary bronchi, going to the two lungs (Fig. 16). The primary bronchi enter the lungs to become the intrapulmonary bronchi, which give off a set of parallel branches called ventrobronchi and, a little further on, an equivalent set of dorsobronchi (Fig. 16). The ends of the intrapulmonary bronchi discharge air into the posterior air sacs at the caudal end of the bird. Each pair of dorso-ventrobronchi is connected by a large number of parallel microscopic air capillaries (or parabronchi) where gas exchange occurs (Fig. 16). As the bird inhales, tracheal air flows through the intrapulmonary bronchi into the posterior air sacs, as well as into the dorsobronchi, but not into the ventrobronchi (Fig. 18). This is due to the bronchial architecture which directs the inhaled air away from the openings of the ventrobronchi, into the continuation of the intrapulmonary bronchus towards the dorsobronchi and posterior air sacs. From the dorsobronchi the inhaled air flows through the parabronchi (and therefore the gas exchanger) to the ventrobronchi from where the air can only escape into the expanding anterior air sacs. So, during inhalation, both the posterior and anterior air sacs expand, the posterior air sacs filling with fresh inhaled air, while the anterior air sacs fill with "spent" (oxygen-poor) air that has just passed through the lungs.
 
 During exhalation the pressure in the posterior air sacs (which were filled with fresh air during inhalation) increases due to the contraction of the oblique muscle described above. The aerodynamics of the interconnecting openings from the posterior air sacs to the dorsobronchi and intrapulmonary bronchi ensures that the air leaves these sacs in the direction of the lungs (via the dorsobronchi), rather than returning down the intrapulmonary bronchi (Fig. 18). From the dorsobronchi the fresh air from the posterior air sacs flows through the parabronchi (in the same direction as occurred during inhalation) into ventrobronchi. The air passages connecting the ventrobronchi and anterior air sacs to the intrapulmonary bronchi direct the "spent", oxygen poor air from these two organs to the trachea from where it escapes to the exterior. Oxygenated air therefore flows constantly (during the entire breathing cycle) in a single direction through the parabronchi.
@@ -97,10 +158,20 @@ Birds lack a diaphragm, and therefore use their intercostal and abdominal muscle
 
 Three distinct sets of organs perform respiration — the anterior air sacs (interclavicular, cervicals, and anterior thoracics), the lungs, and the posterior air sacs (posterior thoracics and abdominals). Typically there are nine air sacs within the system; however, that number can range between seven and twelve, depending on the species of bird. Passerines possess seven air sacs, as the clavicular air sacs may interconnect or be fused with the anterior thoracic sacs.
 
+(ref:birdres) [The respiratory system of birds.](https://commons.wikimedia.org/wiki/File:BirdRespiration.svg) On inhalation, air travels to air sacs near the back of a bird. The air then passes through the lungs to air sacs near the front of the bird, from where the air is exhaled.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/BirdRespiration} 
+
+}
+
+\caption{(ref:birdres)}(\#fig:birdrespiration)
+\end{figure}
+
 During inhalation, environmental air initially enters the bird through the nostrils from where it is heated, humidified, and filtered in the nasal passages and upper parts of the trachea. From there, the air enters the lower trachea and continues to just beyond the syrinx, at which point the trachea branches into two primary bronchi, going to the two lungs. The primary bronchi enter the lungs to become the intrapulmonary bronchi, which give off a set of parallel branches called ventrobronchi and, a little further on, an equivalent set of dorsobronchi. The ends of the intrapulmonary bronchi discharge air into the posterior air sacs at the caudal end of the bird. Each pair of dorso-ventrobronchi is connected by a large number of parallel microscopic air capillaries (or parabronchi) where gas exchange occurs. As the bird inhales, tracheal air flows through the intrapulmonary bronchi into the posterior air sacs, as well as into the dorsobronchi (but not into the ventrobronchi whose openings into the intrapulmonary bronchi were previously believed to be tightly closed during inhalation. However, more recent studies have shown that the aerodynamics of the bronchial architecture directs the inhaled air away from the openings of the ventrobronchi, into the continuation of the intrapulmonary bronchus towards the dorsobronchi and posterior air sacs). From the dorsobronchi the air flows through the parabronchi (and therefore the gas exchanger) to the ventrobronchi from where the air can only escape into the expanding anterior air sacs. So, during inhalation, both the posterior and anterior air sacs expand, the posterior air sacs filling with fresh inhaled air, while the anterior air sacs fill with "spent" (oxygen-poor) air that has just passed through the lungs.
 
 During exhalation the intrapulmonary bronchi were believed to be tightly constricted between the region where the ventrobronchi branch off and the region where the dorsobronchi branch off. But it is now believed that more intricate aerodynamic features have the same effect. The contracting posterior air sacs can therefore only empty into the dorsobronchi. From there the fresh air from the posterior air sacs flows through the parabronchi (in the same direction as occurred during inhalation) into ventrobronchi. The air passages connecting the ventrobronchi and anterior air sacs to the intrapulmonary bronchi open up during exhalation, thus allowing oxygen-poor air from these two organs to escape via the trachea to the exterior. Oxygenated air therefore flows constantly (during the entire breathing cycle) in a single direction through the parabronchi.
-
 
 The cross-current respiratory gas exchanger in the lungs of birds. Air is forced from the air sacs unidirectionally (from right to left in the diagram) through the parabronchi. The pulmonary capillaries surround the parabronchi in the manner shown (blood flowing from below the parabronchus to above it in the diagram). Blood or air with a high oxygen content is shown in red; oxygen-poor air or blood is shown in various shades of purple-blue.
 The blood flow through the bird lung is at right angles to the flow of air through the parabronchi, forming a cross-current flow exchange system (see illustration on the left). The partial pressure of oxygen in the parabronchi declines along their lengths as O~2~ diffuses into the blood. The blood capillaries leaving the exchanger near the entrance of airflow take up more O~2~ than do the capillaries leaving near the exit end of the parabronchi. When the contents of all capillaries mix, the final partial pressure of oxygen of the mixed pulmonary venous blood is higher than that of the exhaled air, but is nevertheless less than half that of the inhaled air, thus achieving roughly the same systemic arterial blood partial pressure of oxygen as mammals do with their bellows-type lungs.
@@ -111,13 +182,9 @@ Air passes unidirectionally through the lungs during both exhalation and inspira
 
 Avian lungs do not have alveoli as mammalian lungs do. Instead they contain millions of narrow passages known as parabronchi, connecting the dorsobronchi to the ventrobronchi at either ends of the lungs. Air flows anteriorly (caudal to cranial) through the parallel parabronchi. These parabronchi have honeycombed walls. The cells of the honeycomb are dead-end air vesicles, called atria, which project radially from the parabronchi. The atria are the site of gas exchange by simple diffusion. The blood flow around the parabronchi (and their atria), forms a cross-current gas exchanger (see diagram on the left).
 
-
-The human heart (left) and chicken heart (right) share many similar characteristics. Avian hearts pump faster than mammalian hearts. Due to the faster heart rate, the muscles surrounding the ventricles of the chicken heart are thicker. Both hearts are labeled with the following parts: 1. Ascending Aorta 2. Left Atrium 3. Left Ventricle 4. Right Ventricle 5. Right Atrium. In chickens and others birds, the superior cava is double.
 All species of birds with the exception of the penguin, have a small region of their lungs devoted to "neopulmonic parabronchi". This unorganized network of microscopic tubes branches off from the posterior air sacs, and open haphazardly into both the dorso- and ventrobronchi, as well as directly into the intrapulmonary bronchi. Unlike the parabronchi, in which the air moves unidirectionally, the air flow in the neopulmonic parabronchi is bidirectional. The neopulmonic parabronchi never make up more than 25% of the total gas exchange surface of birds.
 
 The syrinx is the sound-producing vocal organ of birds, located at the base of a bird's trachea. As with the mammalian larynx, sound is produced by the vibration of air flowing across the organ. The syrinx enables some species of birds to produce extremely complex vocalizations, even mimicking human speech. In some songbirds, the syrinx can produce more than one sound at a time.
-
-
 
 ## The Respiratory System of Reptiles
 
@@ -126,6 +193,17 @@ The anatomical structure of the lungs is less complex in reptiles than in mammal
 ## The Respiratory System of Amphibians
 
 Both the lungs and the skin serve as respiratory organs in amphibians. The ventilation of the lungs in amphibians relies on positive pressure ventilation. Muscles lower the floor of the oral cavity, enlarging it and drawing in air through the nostrils into the oral cavity. With the nostrils and mouth closed, the floor of the oral cavity is then pushed up, which forces air down the trachea into the lungs. The skin of these animals is highly vascularized and moist, with moisture maintained via secretion of mucus from specialised cells, and is involved in cutaneous respiration. While the lungs are of primary organs for gas exchange between the blood and the environmental air (when out of the water), the skin's unique properties aid rapid gas exchange when amphibians are submerged in oxygen-rich water. Some amphibians have gills, either in the early stages of their development (e.g. tadpoles of frogs), while others retain them into adulthood (e.g. some salamanders).
+
+(ref:axol) [The axolotl (*Ambystoma mexicanum*) retains its larval form with gills into adulthood.](https://commons.wikimedia.org/wiki/File:Axolotl_ganz.jpg)
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Axolotl_ganz} 
+
+}
+
+\caption{(ref:axol)}(\#fig:axolotl)
+\end{figure}
 
 ## The Respiratory System of Fish
 
@@ -147,6 +225,17 @@ Labyrinth fish are not born with functional labyrinth organs. The development of
 
 Some species of crab use a respiratory organ called a branchiostegal lung. Its gill-like structure increases the surface area for gas exchange which is more suited to taking oxygen from the air than from water. Some of the smallest spiders and mites can breathe simply by exchanging gas through the surface of the body. Larger spiders, scorpions and other arthropods use a primitive book lung.
 
+(ref:booklung) [The book lungs of a spider.](https://upload.wikimedia.org/wikipedia/commons/2/22/Spider_internal_anatomy-en.svg) 
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Spider_internal_anatomy-en} 
+
+}
+
+\caption{(ref:booklung)}(\#fig:spiderbooklkung)
+\end{figure}
+
 Insects
 
 Most insects breath passively through their spiracles (special openings in the exoskeleton) and the air reaches every part of the body by means of a series of smaller and smaller tubes called 'trachaea' when their diameters are relatively large, and 'tracheoles' when their diameters are very small. The tracheoles make contact with individual cells throughout the body. They are partially filled with fluid, which can be withdrawn from the individual tracheoles when the tissues, such as muscles, are active and have a high demand for oxygen, bringing the air closer to the active cells. This is probably brought about by the buildup of lactic acid in the active muscles causing an osmotic gradient, moving the water out of the tracheoles and into the active cells. Diffusion of gases is effective over small distances but not over larger ones, this is one of the reasons insects are all relatively small. Insects which do not have spiracles and trachaea, such as some Collembola, breathe directly through their skins, also by diffusion of gases.
@@ -161,6 +250,6 @@ Molluscs generally possess gills that allow gas exchange between the aqueous env
 
 ## The Respiratory System of Plants
 
-Plants use carbon dioxide gas in the process of photosynthesis, and exhale oxygen gas as waste. The chemical equation of photosynthesis is 6 CO~2~) (carbon dioxide) and 6 H2) (water), which in the presence of sunlight makes C6H12O6 (glucose) and 6 O~2~) (oxygen). Photosynthesis uses electrons on the carbon atoms as the repository for the energy obtained from sunlight. Respiration is the opposite of photosynthesis. It reclaims the energy to power chemical reactions in cells. In so doing the carbon atoms and their electrons are combined with oxygen forming CO~2~) which is easily removed from both the cells and the organism. Plants use both processes, photosynthesis to capture the energy and oxidative metabolism to use it.
+Plants use carbon dioxide gas in the process of photosynthesis, and exhale oxygen gas as waste. The chemical equation of photosynthesis is 6 CO~2~) (carbon dioxide) and 6 H2) (water), which in the presence of sunlight makes C~6~H~12~O~6~ (glucose) and 6 O~2~) (oxygen). Photosynthesis uses electrons on the carbon atoms as the repository for the energy obtained from sunlight. Respiration is the opposite of photosynthesis. It reclaims the energy to power chemical reactions in cells. In so doing the carbon atoms and their electrons are combined with oxygen forming CO~2~) which is easily removed from both the cells and the organism. Plants use both processes, photosynthesis to capture the energy and oxidative metabolism to use it.
 
 Plant respiration is limited by the process of diffusion. Plants take in carbon dioxide through holes, known as stomata, that can open and close on the undersides of their leaves and sometimes other parts of their anatomy. Most plants require some oxygen for catabolic processes (break-down reactions that release energy). But the quantity of O~2~) used per hour is small as they are not involved in activities that require high rates of aerobic metabolism. Their requirement for air, however, is very high as they need CO~2~) for photosynthesis, which constitutes only 0.04% of the environmental air. Thus, to make 1 g of glucose requires the removal of all the CO~2~) from at least 18.7 liters of air at sea level. But inefficiencies in the photosynthetic process cause considerably greater volumes of air to be used.

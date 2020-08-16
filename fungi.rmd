@@ -22,7 +22,7 @@ A group of all the fungi present in a particular area or geographic region is kn
 
 Before the introduction of molecular methods for phylogenetic analysis, taxonomists considered fungi to be members of the plant kingdom because of similarities in lifestyle: both fungi and plants are mainly immobile, and have similarities in general morphology and growth habitat. Like plants, fungi often grow in soil and, in the case of mushrooms, form conspicuous fruit bodies, which sometimes resemble plants such as mosses. The fungi are now considered a separate kingdom, distinct from both plants and animals, from which they appear to have diverged around one billion years ago (around the start of the Neoproterozoic Era). Some morphological, biochemical, and genetic features are shared with other organisms, while others are unique to the fungi, clearly separating them from the other kingdoms:
 
-Shared features:
+Shared features include:
 
 * With other eukaryotes: Fungal cells contain membrane-bound nuclei with chromosomes that contain DNA with noncoding regions called introns and coding regions called exons. Fungi have membrane-bound cytoplasmic organelles such as mitochondria, sterol-containing membranes, and ribosomes of the 80S type. They have a characteristic range of soluble carbohydrates and storage compounds, including sugar alcohols (e.g., mannitol), disaccharides, (e.g., trehalose), and polysaccharides (e.g., glycogen, which is also found in animals).
 * With animals: Fungi lack chloroplasts and are heterotrophic organisms and so require preformed organic compounds as energy sources.
@@ -36,9 +36,7 @@ Shared features:
 knitr::include_graphics("./figures/fungi/HYPHAE.png")
 ```
 
-* In common with some plant and animal species, more than 70 fungal species display bioluminescence.
-
-Unique features:
+Unique features of fungi:
 
 * Some species grow as unicellular yeasts that reproduce by budding or fission. Dimorphic fungi can switch between a yeast phase and a hyphal phase in response to environmental conditions.
 * The fungal cell wall is composed of glucans and chitin; while glucans are also found in plants and chitin in the exoskeleton of arthropods, fungi are the only organisms that combine these two structural molecules in their cell wall. Unlike those of plants and oomycetes, fungal cell walls do not contain cellulose.
@@ -49,7 +47,7 @@ Fungi have a worldwide distribution, and grow in a wide range of habitats, inclu
 
 Around 120,000 species of fungi have been described by taxonomists, but the global biodiversity of the fungus kingdom is not fully understood. A 2017 estimate suggests there may be between 2.2 and 3.8 million species. In mycology, species have historically been distinguished by a variety of methods and concepts. Classification based on morphological characteristics, such as the size and shape of spores or fruiting structures, has traditionally dominated fungal taxonomy. Species may also be distinguished by their biochemical and physiological characteristics, such as their ability to metabolize certain biochemicals, or their reaction to chemical tests. The biological species concept discriminates species based on their ability to mate. The application of molecular tools, such as DNA sequencing and phylogenetic analysis, to study diversity has greatly enhanced the resolution and added robustness to estimates of genetic diversity within various taxonomic groups.
 
-## Morphology
+## Morphology of Fungi
 
 Most fungi grow as hyphae, which are cylindrical, thread-like structures 2–10 µm in diameter and up to several centimeters in length. Hyphae grow at their tips (apices); new hyphae are typically formed by emergence of new tips along existing hyphae by a process called branching, or occasionally growing hyphal tips fork, giving rise to two parallel-growing hyphae. Hyphae also sometimes fuse when they come into contact, a process called hyphal fusion (or anastomosis). These growth processes lead to the development of a mycelium, an interconnected network of hyphae. Hyphae can be either septate or coenocytic. Septate hyphae are divided into compartments separated by cross walls (internal cell walls, called septa, that are formed at right angles to the cell wall giving the hypha its shape), with each compartment containing one or more nuclei; coenocytic hyphae are not compartmentalized. Septa have pores that allow cytoplasm, organelles, and sometimes nuclei to pass through; an example is the dolipore septum in fungi of the phylum Basidiomycota. Coenocytic hyphae are in essence multinucleate supercells.
 
@@ -61,7 +59,7 @@ Fungal mycelia can become visible to the naked eye, for example, on various surf
 
 The apothecium—a specialized structure important in sexual reproduction in the ascomycetes—is a cup-shaped fruit body that is often macroscopic and holds the hymenium, a layer of tissue containing the spore-bearing cells. The fruit bodies of the basidiomycetes (basidiocarps) and some ascomycetes can sometimes grow very large, and many are well known as mushrooms.
 
-## Growth and physiology
+## Growth And Physiology of Fungi
 
 The growth of fungi as hyphae on or in solid substrates or as single cells in aquatic environments is adapted for the efficient extraction of nutrients, because these growth forms have high surface area to volume ratios. Hyphae are specifically adapted for growth on solid surfaces, and to invade substrates and tissues. They can exert large penetrative mechanical forces; for example, many plant pathogens, including Magnaporthe grisea, form a structure called an appressorium that evolved to puncture plant tissues. The pressure generated by the appressorium, directed against the plant epidermis, can exceed 8 megapascals (1,200 psi). The filamentous fungus Paecilomyces lilacinus uses a similar structure to penetrate the eggs of nematodes.
 
@@ -69,7 +67,7 @@ The mechanical pressure exerted by the appressorium is generated from physiologi
 
 The fungi are traditionally considered heterotrophs, organisms that rely solely on carbon fixed by other organisms for metabolism. Fungi have evolved a high degree of metabolic versatility that allows them to use a diverse range of organic substrates for growth, including simple compounds such as nitrate, ammonia, acetate, or ethanol. In some species the pigment melanin may play a role in extracting energy from ionizing radiation, such as gamma radiation. This form of "radiotrophic" growth has been described for only a few species, the effects on growth rates are small, and the underlying biophysical and biochemical processes are not well known. This process might bear similarity to CO~2~fixation via visible light, but instead uses ionizing radiation as a source of energy.
 
-## Reproduction
+## Reproduction of Fungi
 
 Fungal reproduction is complex, reflecting the differences in lifestyles and genetic makeup within this diverse kingdom of organisms. It is estimated that a third of all fungi reproduce using more than one method of propagation; for example, reproduction may occur in two well-differentiated stages within the life cycle of a species, the teleomorph and the anamorph. Environmental conditions trigger genetically determined developmental states that lead to the creation of specialized structures for sexual or asexual reproduction. These structures aid reproduction by efficiently dispersing spores or spore-containing propagules.
 
@@ -153,20 +151,48 @@ Unlike true fungi, the cell walls of oomycetes contain cellulose and lack chitin
 
 Although often inconspicuous, fungi occur in every environment on Earth and play very important roles in most ecosystems. Along with bacteria, fungi are the major decomposers in most terrestrial (and some aquatic) ecosystems, and therefore play a critical role in biogeochemical cycles and in many food webs. As decomposers, they play an essential role in nutrient cycling, especially as saprotrophs and symbionts, degrading organic matter to inorganic molecules, which can then re-enter anabolic metabolic pathways in plants or other organisms.
 
-
 ### Symbiosis
 
 Many fungi have important symbiotic relationships with organisms from most if not all kingdoms. These interactions can be mutualistic or antagonistic in nature, or in the case of commensal fungi are of no apparent benefit or detriment to the host.
 
 Mycorrhizal symbiosis between plants and fungi is one of the most well-known plant–fungus associations and is of significant importance for plant growth and persistence in many ecosystems; over 90% of all plant species engage in mycorrhizal relationships with fungi and are dependent upon this relationship for survival.
 
+(ref:mycorh) [Nutrient exchanges and communication between a mycorrhizal fungus and plants.](https://commons.wikimedia.org/wiki/File:Mycorrhizal_network.svg)
+
+```{r mycorhiza, fig.cap='(ref:mycorh)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/fungi/Mycorrhizal_network.svg")
+```
+
 The mycorrhizal symbiosis is ancient, dating to at least 400 million years ago. It often increases the plant's uptake of inorganic compounds, such as nitrate and phosphate from soils having low concentrations of these key plant nutrients. The fungal partners may also mediate plant-to-plant transfer of carbohydrates and other nutrients. Such mycorrhizal communities are called "common mycorrhizal networks". A special case of mycorrhiza is myco-heterotrophy, whereby the plant parasitizes the fungus, obtaining all of its nutrients from its fungal symbiont. Some fungal species inhabit the tissues inside roots, stems, and leaves, in which case they are called endophytes. Similar to mycorrhiza, endophytic colonization by fungi may benefit both symbionts; for example, endophytes of grasses impart to their host increased resistance to herbivores and other environmental stresses and receive food and shelter from the plant in return.
 
-Lichens are a symbiotic relationship between fungi and photosynthetic algae or cyanobacteria. The photosynthetic partner in the relationship is referred to in lichen terminology as a "photobiont". The fungal part of the relationship is composed mostly of various species of ascomycetes and a few basidiomycetes. Lichens occur in every ecosystem on all continents, play a key role in soil formation and the initiation of biological succession, and are prominent in some extreme environments, including polar, alpine, and semiarid desert regions. They are able to grow on inhospitable surfaces, including bare soil, rocks, tree bark, wood, shells, barnacles and leaves. As in mycorrhizas, the photobiont provides sugars and other carbohydrates via photosynthesis to the fungus, while the fungus provides minerals and water to the photobiont. The functions of both symbiotic organisms are so closely intertwined that they function almost as a single organism; in most cases the resulting organism differs greatly from the individual components. Lichenization is a common mode of nutrition for fungi; around 20% of fungi—between 17,500 and 20,000 described species—are lichenized. Characteristics common to most lichens include obtaining organic carbon by photosynthesis, slow growth, small size, long life, long-lasting (seasonal) vegetative reproductive structures, mineral nutrition obtained largely from airborne sources, and greater tolerance of desiccation than most other photosynthetic organisms in the same habitat.
+Lichens are a symbiotic relationship between fungi and photosynthetic algae or cyanobacteria. The photosynthetic partner in the relationship is referred to in lichen terminology as a "photobiont".
+
+(ref:lich)  Fruticose (light green) and crustose (yellow) lichens growing on a tree.
+
+```{r lichen, fig.cap='(ref:lich)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/fungi/lichen.jpeg")
+```
+
+(ref:lichcross) [Schematic cross section of foliose lichen:](https://commons.wikimedia.org/wiki/File:Lichen_cross_section_–_heteromeric_thallus.svg)  a) The cortex is the outer layer of tightly woven fungus filaments (hyphae) b) This photobiont layer has photosynthesizing green algae c) Loosely packed hyphae in the medulla d) A tightly woven lower cortex e) Anchoring hyphae called rhizines where the fungus attaches to the substrate.
+
+```{r lichencrossection, fig.cap='(ref:lichcross)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/fungi/Lichen_cross_section_–_heteromeric_thallus.svg")
+```
+
+The fungal part of the relationship is composed mostly of various species of ascomycetes and a few basidiomycetes.
+
+
+(ref:lichap) Cup-shaped apothecia and thallus of a foliose lichen. 
+
+```{r lichenapothecium, fig.cap='(ref:lichap)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/fungi/lichen_apothecium.jpeg")
+```
+
+Lichens occur in every ecosystem on all continents, play a key role in soil formation and the initiation of biological succession, and are prominent in some extreme environments, including polar, alpine, and semiarid desert regions. They are able to grow on inhospitable surfaces, including bare soil, rocks, tree bark, wood, shells, barnacles and leaves. As in mycorrhizas, the photobiont provides sugars and other carbohydrates via photosynthesis to the fungus, while the fungus provides minerals and water to the photobiont. The functions of both symbiotic organisms are so closely intertwined that they function almost as a single organism; in most cases the resulting organism differs greatly from the individual components. Lichenization is a common mode of nutrition for fungi; around 20% of fungi—between 17,500 and 20,000 described species—are lichenized. Characteristics common to most lichens include obtaining organic carbon by photosynthesis, slow growth, small size, long life, long-lasting (seasonal) vegetative reproductive structures, mineral nutrition obtained largely from airborne sources, and greater tolerance of desiccation than most other photosynthetic organisms in the same habitat.
 
 Many insects also engage in mutualistic relationships with fungi. Several groups of ants cultivate fungi in the order Agaricales as their primary food source, while ambrosia beetles cultivate various species of fungi in the bark of trees that they infest. Likewise, females of several wood wasp species (genus Sirex) inject their eggs together with spores of the wood-rotting fungus Amylostereum areolatum into the sapwood of pine trees; the growth of the fungus provides ideal nutritional conditions for the development of the wasp larvae. At least one species of stingless bee has a relationship with a fungus in the genus Monascus, where the larvae consume and depend on fungus transferred from old to new nests. Termites on the African savannah are also known to cultivate fungi, and yeasts of the genera Candida and Lachancea inhabit the gut of a wide range of insects, including neuropterans, beetles, and cockroaches; it is not known whether these fungi benefit their hosts. Fungi ingrowing dead wood are essential for xylophagous insects (e.g. woodboring beetles). They deliver nutrients needed by xylophages to nutritionally scarce dead wood. Thanks to this nutritional enrichment the larvae of woodboring insect is able to grow and develop to adulthood. The larvae of many families of fungicolous flies, particularly those within the superfamily Sciaroidea such as the Mycetophilidae and some Keroplatidae feed on fungal fruiting bodies and sterile mycorrhizae.
 
-## Fungi As pathogens and parasites
+## Fungi as Pathogens And Parasites
 
 Many fungi are parasites on plants, animals (including humans), and other fungi. Serious pathogens of many cultivated plants causing extensive damage and losses to agriculture and forestry include the rice blast fungus Magnaporthe oryzae, tree pathogens such as Ophiostoma ulmi and Ophiostoma novo-ulmi causing Dutch elm disease and Cryphonectria parasitica responsible for chestnut blight, and plant pathogens in the genera Fusarium, Ustilago, Alternaria, and Cochliobolus. Some carnivorous fungi, like Paecilomyces lilacinus, are predators of nematodes, which they capture using an array of specialized structures such as constricting rings or adhesive nets. Many fungi that are plant pathogens, such as Magnaporthe oryzae, can switch from being biotrophic (parasitic on living plants) to being necrotrophic (feeding on the dead tissues of plants they have killed). This same principle is applied to fungi-feeding parasites, including Asterotremella albida, which feeds on the fruit bodies of other fungi both while they are living and after they are dead.
 
@@ -200,7 +226,6 @@ Many mushroom species are poisonous to humans and cause a range of reactions inc
 As it is difficult to accurately identify a safe mushroom without proper training and knowledge, it is often advised to assume that a wild mushroom is poisonous and not to consume it.
 
 In agriculture, fungi may be useful if they actively compete for nutrients and space with pathogenic microorganisms such as bacteria or other fungi via the competitive exclusion principle, or if they are parasites of these pathogens. For example, certain species may be used to eliminate or suppress the growth of harmful plant pathogens, such as insects, mites, weeds, nematodes, and other fungi that cause diseases of important crop plants. This has generated strong interest in practical applications that use these fungi in the biological control of these agricultural pests. Entomopathogenic fungi can be used as biopesticides, as they actively kill insects. Examples that have been used as biological insecticides are Beauveria bassiana, Metarhizium spp, Hirsutella spp, Paecilomyces (Isaria) spp, and Lecanicillium lecanii. Endophytic fungi of grasses of the genus Neotyphodium, such as N. coenophialum, produce alkaloids that are toxic to a range of invertebrate and vertebrate herbivores. These alkaloids protect grass plants from herbivory, but several endophyte alkaloids can poison grazing animals, such as cattle and sheep. Infecting cultivars of pasture or forage grasses with Neotyphodium endophytes is one approach being used in grass breeding programs; the fungal strains are selected for producing only alkaloids that increase resistance to herbivores such as insects, while being non-toxic to livestock.
-
 
 Certain fungi, in particular white-rot fungi, can degrade insecticides, herbicides, pentachlorophenol, creosote, coal tars, and heavy fuels and turn them into carbon dioxide, water, and basic elements. Fungi have been shown to biomineralize uranium oxides, suggesting they may have application in the bioremediation of radioactively polluted sites.
 
