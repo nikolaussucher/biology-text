@@ -4,14 +4,10 @@ Animals (from the Latin animalis, meaning having breath, having soul or living b
 
 (ref:animdiv) [Diversity of animals.](https://en.wikipedia.org/wiki/File:Animal_diversity.png)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Animal_diversity} 
-
-}
-
-\caption{(ref:animdiv)}(\#fig:animaldiversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Animal_diversity.png" alt="(ref:animdiv)" width="70%" />
+<p class="caption">(\#fig:animaldiversity)(ref:animdiv)</p>
+</div>
 
 Most living animal species are in Bilateria, a clade whose members have a bilaterally symmetric body plan. The Bilateria include the protostomes—in which many groups of invertebrates are found, such as nematodes, arthropods, and molluscs—and the deuterostomes, containing both the echinoderms as well as the chordates, the latter containing the vertebrates. Life forms interpreted as early animals were present in the Ediacaran biota of the late Precambrian. Many modern animal phyla became clearly established in the fossil record as marine species during the Cambrian explosion, which began around 542 million years ago. 6,331 groups of genes common to all living animals have been identified; these may have arisen from a single common ancestor that lived 650 million years ago.
 
@@ -39,14 +35,10 @@ Animals originally evolved in the sea. Lineages of arthropods colonised land aro
 
 (ref:tikta) [Tiktaalik, ≈375 Ma](https://commons.wikimedia.org/wiki/File:Tiktaalik_BW.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Tiktaalik_BW} 
-
-}
-
-\caption{(ref:tikta)}(\#fig:tiktaalik)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Tiktaalik_BW.jpg" alt="(ref:tikta)" width="70%" />
+<p class="caption">(\#fig:tiktaalik)(ref:tikta)</p>
+</div>
 
 Animals (mostly nematodes) inhabit the most extreme cold deserts of continental Antarctica.
 
@@ -56,27 +48,19 @@ The oldest animals are found in the Ediacaran biota, towards the end of the Prec
 
 (ref:edia) [Dickinsonia costata from the Ediacaran biota (c. 635–542 MYA) is one of the earliest animal species known.](https://commons.wikimedia.org/wiki/File:DickinsoniaCostata.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/DickinsoniaCostata} 
-
-}
-
-\caption{(ref:edia)}(\#fig:ediacara)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/DickinsoniaCostata.jpg" alt="(ref:edia)" width="70%" />
+<p class="caption">(\#fig:ediacara)(ref:edia)</p>
+</div>
 
 Many animal phyla first appear in the fossil record during the Cambrian explosion, starting about 542 million years ago, in beds such as the Burgess shale. Extant phyla in these rocks include molluscs, brachiopods, onychophorans, tardigrades, arthropods, echinoderms and hemichordates, along with numerous now-extinct forms such as the predatory Anomalocaris. The apparent suddenness of the event may however be an artefact of the fossil record, rather than showing that all these animals appeared simultaneously.
 
 (ref:anoma) [Anomalocaris canadensis](https://commons.wikimedia.org/wiki/File:Anomalocaris2019.jpg) is one of the many animal species that emerged in the Cambrian explosion, starting some 542 million years ago, and found in the fossil beds of the Burgess shale.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Anomalocaris2019} 
-
-}
-
-\caption{(ref:anoma)}(\#fig:amomalocaris)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Anomalocaris2019.jpg" alt="(ref:anoma)" width="70%" />
+<p class="caption">(\#fig:amomalocaris)(ref:anoma)</p>
+</div>
 
 Some palaeontologists have suggested that animals appeared much earlier than the Cambrian explosion, possibly as early as 1 billion years ago. Trace fossils such as tracks and burrows found in the Tonian period may indicate the presence of triploblastic worm-like animals, roughly as large (about 5 mm wide) and complex as earthworms. However, similar tracks are produced today by the giant single-celled protist Gromia sphaerica, so the Tonian trace fossils may not indicate early animal evolution. Around the same time, the layered mats of microorganisms called stromatolites decreased in diversity, perhaps due to grazing by newly-evolved animals.
 
@@ -84,39 +68,135 @@ Animals are monophyletic, meaning they are derived from a common ancestor. Anima
 
 (ref:placo) The Placozoa are a basal form of free-living (non-parasitic) multicellular organism. They are the simplest in structure of all animals. Three genera have been found: the classical [Trichoplax adhaerens](https://commons.wikimedia.org/wiki/File:Trichoplax_adhaerens_photograph.png), Hoilungia hongkongensis, and Polyplacotoma mediterranea.
 
-\begin{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Trichoplax_adhaerens_photograph.png" alt="(ref:placo)" width="70%" />
+<p class="caption">(\#fig:trichoplax)(ref:placo)</p>
+</div>
 
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Trichoplax_adhaerens_photograph} 
-
-}
-
-\caption{(ref:placo)}(\#fig:trichoplax)
-\end{figure}
-
-\begin{table}[!h]
-
-\caption{(\#tab:animalphyla)Estimated numbers of described extant species for the animal groups with the largest numbers of species, along with their principal habitats (terrestrial, fresh water, and marine), and free-living or parasitic ways of life.}
-\centering
-\begin{tabular}[t]{lllllll}
-\toprule
-Phylum & No. of Species & Land & Sea & Freshwater & Free-living & Parasitic\\
-\midrule
-\rowcolor{gray!6}  Annelids & 17,000 & Yes (soil) & Yes & 1,750 & Yes & 400\\
-Arthropods & 1,257,000 & 1,000,000(insects) & >40,000(Malac-ostraca) & 94,000 & Yes & >45,000[b]\\
-\rowcolor{gray!6}  Bryozoa & 6,000 &  & Yes & 60–80 & Yes & \\
-Chordates & 65,00045,000 & 23,000 & 13,000 & 18,0009,000 & Yes & 40(catfish)\\
-\rowcolor{gray!6}  Cnidaria & 16,000 &  & Yes & Yes (few) & Yes & >1,350(Myxozoa)\\
-\addlinespace
-Echinoderms & 7,500 &  & 7,500 &  & Yes & \\
-\rowcolor{gray!6}  Molluscs & 85,000107,000 & 35,000 & 60,000 & 5,00012,000 & Yes & >5,600\\
-Nematodes & 25,000 & Yes (soil) & 4,000 & 2,000 & 11,000 & 14,000\\
-\rowcolor{gray!6}  Platyhelminthes & 29,500 & Yes & Yes & 1,300 & Yes 3,000–6,500 & >40,000 4,000–25,000\\
-Rotifers & 2,000 &  & >400 & 2,000 & Yes & \\
-\addlinespace
-\rowcolor{gray!6}  Sponges & 10,800 &  & Yes & 200-300 & Yes & Yes\\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:animalphyla)Estimated numbers of described extant species for the animal groups with the largest numbers of species, along with their principal habitats (terrestrial, fresh water, and marine), and free-living or parasitic ways of life.</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Phylum </th>
+   <th style="text-align:left;"> No. of Species </th>
+   <th style="text-align:left;"> Land </th>
+   <th style="text-align:left;"> Sea </th>
+   <th style="text-align:left;"> Freshwater </th>
+   <th style="text-align:left;"> Free-living </th>
+   <th style="text-align:left;"> Parasitic </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Annelids </td>
+   <td style="text-align:left;"> 17,000 </td>
+   <td style="text-align:left;"> Yes (soil) </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 1,750 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 400 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Arthropods </td>
+   <td style="text-align:left;"> 1,257,000 </td>
+   <td style="text-align:left;"> 1,000,000(insects) </td>
+   <td style="text-align:left;"> &gt;40,000(Malac-ostraca) </td>
+   <td style="text-align:left;"> 94,000 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> &gt;45,000[b] </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Bryozoa </td>
+   <td style="text-align:left;"> 6,000 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 60–80 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Chordates </td>
+   <td style="text-align:left;"> 65,00045,000 </td>
+   <td style="text-align:left;"> 23,000 </td>
+   <td style="text-align:left;"> 13,000 </td>
+   <td style="text-align:left;"> 18,0009,000 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 40(catfish) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cnidaria </td>
+   <td style="text-align:left;"> 16,000 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes (few) </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> &gt;1,350(Myxozoa) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Echinoderms </td>
+   <td style="text-align:left;"> 7,500 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 7,500 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Molluscs </td>
+   <td style="text-align:left;"> 85,000107,000 </td>
+   <td style="text-align:left;"> 35,000 </td>
+   <td style="text-align:left;"> 60,000 </td>
+   <td style="text-align:left;"> 5,00012,000 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> &gt;5,600 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Nematodes </td>
+   <td style="text-align:left;"> 25,000 </td>
+   <td style="text-align:left;"> Yes (soil) </td>
+   <td style="text-align:left;"> 4,000 </td>
+   <td style="text-align:left;"> 2,000 </td>
+   <td style="text-align:left;"> 11,000 </td>
+   <td style="text-align:left;"> 14,000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Platyhelminthes </td>
+   <td style="text-align:left;"> 29,500 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 1,300 </td>
+   <td style="text-align:left;"> Yes 3,000–6,500 </td>
+   <td style="text-align:left;"> &gt;40,000 4,000–25,000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Rotifers </td>
+   <td style="text-align:left;"> 2,000 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> &gt;400 </td>
+   <td style="text-align:left;"> 2,000 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Sponges </td>
+   <td style="text-align:left;"> 10,800 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 200-300 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
+   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
+   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
+   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
+   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
+   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
+   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
+  </tr>
+</tbody>
+</table>
 
 These genes are found in the Placozoa and the higher animals, the Bilateria. 6,331 groups of genes common to all living animals have been identified; these may have arisen from a single common ancestor that lived 650 million years ago in the Precambrian. 25 of these are novel core gene groups, found only in animals; of those, 8 are for essential components of the Wnt and TGF-beta signalling pathways which may have enabled animals to become multicellular by providing a pattern for the body's system of axes (in three dimensions), and another 7 are for transcription factors including homeodomain proteins involved in the control of development.
 
@@ -126,38 +206,26 @@ Several animal phyla lack bilateral symmetry. Among these, the sponges (Porifera
 
 (ref:sponges) [Sponge biodiversity and morphotypes at the lip of a wall site in 60 feet (20 m) of water. Included are the yellow tube sponge, Aplysina fistularis, the purple vase sponge, Niphates digitalis, the red encrusting sponge, Spirastrella coccinea [nl], and the gray rope sponge, Callyspongia sp.](https://commons.wikimedia.org/wiki/File:Reef3859_-_Flickr_-_NOAA_Photo_Library.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Reef3859_-_Flickr_-_NOAA_Photo_Library} 
-
-}
-
-\caption{(ref:sponges)}(\#fig:spongediversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Reef3859_-_Flickr_-_NOAA_Photo_Library.jpg" alt="(ref:sponges)" width="70%" />
+<p class="caption">(\#fig:spongediversity)(ref:sponges)</p>
+</div>
 
 The Ctenophora (comb jellies) and Cnidaria (which includes jellyfish, sea anemones, and corals) are radially symmetric and have digestive chambers with a single opening, which serves as both mouth and anus. Animals in both phyla have distinct tissues, but these are not organised into organs. They are diploblastic, having only two main germ layers, ectoderm and endoderm. The tiny placozoans are similar, but they do not have a permanent digestive chamber.
 
 (ref:cteno) [Pelagic (open ocean) ctenophores (a) Beroe ovata, (b) Euplokamis sp., (c) Nepheloctena sp., (d) Bathocyroe fosteri, (e) Mnemiopsis leidyi, and (f) Ocyropsis sp.](https://commons.wikimedia.org/wiki/File:Pelagic_ctenophores.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Pelagic_ctenophores} 
-
-}
-
-\caption{(ref:cteno)}(\#fig:ctenophora)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Pelagic_ctenophores.png" alt="(ref:cteno)" width="70%" />
+<p class="caption">(\#fig:ctenophora)(ref:cteno)</p>
+</div>
 
 (ref:cnida) [Four examples of Cnidaria:](https://commons.wikimedia.org/wiki/File:Cnidaria.png) A jellyfish Chrysaora melanaster,  a gorgonian Annella mollis, a rocky coral Acropora cervicornis, and a sea anemone Nemanthus annamensis.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Cnidaria} 
-
-}
-
-\caption{(ref:cnida)}(\#fig:cnidaria)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Cnidaria.png" alt="(ref:cnida)" width="70%" />
+<p class="caption">(\#fig:cnidaria)(ref:cnida)</p>
+</div>
 
 ## Bilaterian animals
 
@@ -165,50 +233,105 @@ The remaining animals, the great majority—comprising some 29 phyla and over a 
 
 (ref:bilat) [Diversity of bilaterians.](https://commons.wikimedia.org/wiki/File:Animal_diversity_October_2007.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Animal_diversity_October_2007} 
-
-}
-
-\caption{(ref:bilat)}(\#fig:bilateriandiversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Animal_diversity_October_2007.jpg" alt="(ref:bilat)" width="70%" />
+<p class="caption">(\#fig:bilateriandiversity)(ref:bilat)</p>
+</div>
 
 Having a front end means that this part of the body encounters stimuli, such as food, favouring cephalisation, the development of a head with sense organs and a mouth. Many bilaterians have a combination of circular muscles that constrict the body, making it longer, and an opposing set of longitudinal muscles, that shorten the body; these enable soft-bodied animals with a hydrostatic skeleton to move by peristalsis. They also have a gut that extends through the basically cylindrical body from mouth to anus. Many bilaterian phyla have primary larvae which swim with cilia and have an apical organ containing sensory cells. However, there are exceptions to each of these characteristics; for example, adult echinoderms are radially symmetric (unlike their larvae), while some parasitic worms have extremely simplified body structures.
 
 (ref:bibod) [Idealised bilaterian body plan.](https://commons.wikimedia.org/wiki/File:Bilaterian_body_plan.svg) With an elongated body and a direction of movement the animal has head and tail ends. Sense organs and mouth form the basis of the head. Opposed circular and longitudinal muscles enable peristaltic motion.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Bilaterian_body_plan} 
-
-}
-
-\caption{(ref:bipod)}(\#fig:bilaterianbodyplan)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Bilaterian_body_plan.svg" alt="(ref:bipod)" width="70%" />
+<p class="caption">(\#fig:bilaterianbodyplan)(ref:bipod)</p>
+</div>
 
 Genetic studies have considerably changed zoologists' understanding of the relationships within the Bilateria. Most appear to belong to two major lineages, the protostomes and the deuterostomes. The basalmost bilaterians are the Xenacoelomorpha.
 
-\begin{table}[!h]
-\centering
-\begin{tabular}{lllll}
-\toprule
- & Sponges & Cnidarians & Ctenophores & Bilateria\\
-\midrule
-\rowcolor{gray!6}  Cnidocytes & No & Yes & No & No\\
-Colloblasts & No & No & Yes & No\\
-\rowcolor{gray!6}  Digestive and circulatory organs & No & No & No & Yes\\
-Number of main cell layers & Two, with jelly-like layer between them & Three & Two or Three & Three\\
-\rowcolor{gray!6}  Cells in each layer bound together & cell-adhesion molecules, but no basement membranes except Homoscleromorpha. & inter-cell connections; basement membranes & inter-cell connections; basement membranes & inter-cell connections; basement membranes\\
-\addlinespace
-Sensory organs & No & Yes & Yes & Yes\\
-\rowcolor{gray!6}  Number of cells in middle "jelly" layer & Many & Few & Few & (Not applicable)\\
-Cells in outer layers can move inwards and change functions & Yes & No & No & (Not applicable)\\
-\rowcolor{gray!6}  Nervous system & No & Yes, simple & Yes, simple & Simple to complex\\
-Muscles & None & Mostly epitheliomuscular & Mostly myoepithelial & Mostly myocytes\\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> Sponges </th>
+   <th style="text-align:left;"> Cnidarians </th>
+   <th style="text-align:left;"> Ctenophores </th>
+   <th style="text-align:left;"> Bilateria </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Cnidocytes </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Colloblasts </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> No </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Digestive and circulatory organs </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Number of main cell layers </td>
+   <td style="text-align:left;"> Two, with jelly-like layer between them </td>
+   <td style="text-align:left;"> Three </td>
+   <td style="text-align:left;"> Two or Three </td>
+   <td style="text-align:left;"> Three </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cells in each layer bound together </td>
+   <td style="text-align:left;"> cell-adhesion molecules, but no basement membranes except Homoscleromorpha. </td>
+   <td style="text-align:left;"> inter-cell connections; basement membranes </td>
+   <td style="text-align:left;"> inter-cell connections; basement membranes </td>
+   <td style="text-align:left;"> inter-cell connections; basement membranes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Sensory organs </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Number of cells in middle "jelly" layer </td>
+   <td style="text-align:left;"> Many </td>
+   <td style="text-align:left;"> Few </td>
+   <td style="text-align:left;"> Few </td>
+   <td style="text-align:left;"> (Not applicable) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cells in outer layers can move inwards and change functions </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> (Not applicable) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Nervous system </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes, simple </td>
+   <td style="text-align:left;"> Yes, simple </td>
+   <td style="text-align:left;"> Simple to complex </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Muscles </td>
+   <td style="text-align:left;"> None </td>
+   <td style="text-align:left;"> Mostly epitheliomuscular </td>
+   <td style="text-align:left;"> Mostly myoepithelial </td>
+   <td style="text-align:left;"> Mostly myocytes </td>
+  </tr>
+</tbody>
+</table>
 
 ## Protostomes and deuterostomes
 
@@ -216,14 +339,10 @@ Protostomes and deuterostomes differ in several ways. Early in development, deut
 
 (ref:prodeu) [The bilaterian gut develops in two ways. In many protostomes, the blastopore develops into the mouth, while in deuterostomes it becomes the anus.](https://commons.wikimedia.org/wiki/File:Protovsdeuterostomes.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Protovsdeuterostomes} 
-
-}
-
-\caption{(ref:prodeu)}(\#fig:protovsdeutero)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Protovsdeuterostomes.svg" alt="(ref:prodeu)" width="70%" />
+<p class="caption">(\#fig:protovsdeutero)(ref:prodeu)</p>
+</div>
 
 The main deuterostome phyla are the Echinodermata and the Chordata. Echinoderms are exclusively marine and include starfish, sea urchins, and sea cucumbers. The chordates are dominated by the vertebrates (animals with backbones), which consist of fishes, amphibians, reptiles, birds, and mammals. The deuterostomes also include the Hemichordata (acorn worms).
 
@@ -250,14 +369,10 @@ Amphibians are ectothermic, tetrapod vertebrates of the class Amphibia. All livi
 
 (ref:amphibians) [Diversity of amphibians:](https://commons.wikimedia.org/wiki/File:Amphibians.png) Clockwise from top right: Seymouria, Mexican burrowing caecilian, eastern newt and leaf green tree frog.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Amphibians} 
-
-}
-
-\caption{(ref:amphibians)}(\#fig:amphibiandiversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Amphibians.png" alt="(ref:amphibians)" width="70%" />
+<p class="caption">(\#fig:amphibiandiversity)(ref:amphibians)</p>
+</div>
 Amphibians are ectothermic, tetrapod vertebrates of the class Amphibia. All living amphibians belong to the group Lissamphibia. They inhabit a wide variety of habitats, with most species living within terrestrial, fossorial, arboreal or freshwater aquatic ecosystems. Thus amphibians typically start out as larvae living in water, but some species have developed behavioural adaptations to bypass this.
 
 ## Reptiles
@@ -266,14 +381,10 @@ Reptiles are tetrapod animals in the class Reptilia, comprising today's turtles,
 
 (ref:reptiles) [Diversity of reptiles:](https://commons.wikimedia.org/wiki/File:Extant_reptilia.jpg) Clockwise from above left: Green sea turtle (*Chelonia mydas*), Tuatara (*Sphenodon punctatus*), Nile crocodile (*Crocodylus niloticus*), and Sinai agama (*Pseudotrapelus sinaitus*)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Extant_reptilia} 
-
-}
-
-\caption{(ref:)}(\#fig:reptilediversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Extant_reptilia.jpg" alt="(ref:)" width="70%" />
+<p class="caption">(\#fig:reptilediversity)(ref:)</p>
+</div>
 
 Because some reptiles are more closely related to birds than they are to other reptiles (e.g., crocodiles are more closely related to birds than they are to lizards), the traditional groups of "reptiles" listed above do not together constitute a monophyletic grouping or clade (consisting of all descendants of a common ancestor). For this reason, many modern scientists prefer to consider the birds part of Reptilia as well, thereby making Reptilia a monophyletic class, including all living diapsids. The term reptiles is sometimes used as shorthand for 'non-avian Reptilia'.
 
@@ -291,14 +402,10 @@ Birds are a group of feathered theropod dinosaurs, and constitute the only livin
 
 (ref:birds) [The diversity of birds:](https://en.wikipedia.org/wiki/File:Bird_Diversity_2013.png) This image shows 17 biological orders of birds (from top, left to right): Musophagiformes, Pelecaniformes, Phaethontiformes, Accipitriformes, Gruiformes, Galliformes, Columbiformes, Apodiformes, Charadriiformes, Casuariiformes, Psittaciformes, Phoenicopteriformes, Sphenisciformes, Pelecaniformes, Suliformes, Passeriformes, Strigiformes, Piciformes.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Bird_Diversity_2013} 
-
-}
-
-\caption{(ref:birds)}(\#fig:birddiversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Bird_Diversity_2013.png" alt="(ref:birds)" width="70%" />
+<p class="caption">(\#fig:birddiversity)(ref:birds)</p>
+</div>
 
 Many social species pass on knowledge across generations, which is considered a form of culture. Birds are social, communicating with visual signals, calls, and songs, and participating in such behaviours as cooperative breeding and hunting, flocking, and mobbing of predators. The vast majority of bird species are socially (but not necessarily sexually) monogamous, usually for one breeding season at a time, sometimes for years, but rarely for life. Other species have breeding systems that are polygynous (one male with many females) or, rarely, polyandrous (one female with many males). Birds produce offspring by laying eggs which are fertilised through sexual reproduction. They are usually laid in a nest and incubated by the parents. Most birds have an extended period of parental care after hatching.
 
@@ -310,14 +417,10 @@ Mammals (from Latin mamma "breast") are vertebrate animals constituting the clas
 
 (ref:mammals) [Diversity of mammals.](https://en.wikipedia.org/wiki/File:Mammal_Diversity_2011.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Mammal_Diversity_2011} 
-
-}
-
-\caption{(ref:mammals)}(\#fig:mammaldiversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Mammal_Diversity_2011.png" alt="(ref:mammals)" width="70%" />
+<p class="caption">(\#fig:mammaldiversity)(ref:mammals)</p>
+</div>
 
 In terms of cladistics, which reflects evolutionary history, mammals are the only living members of the Synapsida; this clade, together with Sauropsida (reptiles and birds), constitutes the larger Amniota clade. The early synapsid mammalian ancestors were sphenacodont pelycosaurs, a group that included the non-mammalian Dimetrodon. At the end of the Carboniferous period around 300 million years ago, this group diverged from the sauropsid line that led to today's reptiles and birds. The line following the stem group Sphenacodontia split into several diverse groups of non-mammalian synapsids—sometimes incorrectly referred to as mammal-like reptiles—before giving rise to Therapsida in the Early Permian period. The modern mammalian orders arose in the Paleogene and Neogene periods of the Cenozoic era, after the extinction of non-avian dinosaurs, and have been the dominant terrestrial animal group from 66 million years ago to the present.
 
@@ -337,14 +440,10 @@ An arthropod (from Greek ἄρθρον arthron, "joint" and πούς pous, "foot
 
 (ref:arthropods) [Diversity of arthropods:](https://commons.wikimedia.org/wiki/File:Arthropoda.jpg) From left to right and from top to bottom: Kolihapeltis, Stylonurus, scorpion, crab, centipede, butterfly.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Arthropoda} 
-
-}
-
-\caption{(ref:arthropods)}(\#fig:arthropoddiversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Arthropoda.jpg" alt="(ref:arthropods)" width="70%" />
+<p class="caption">(\#fig:arthropoddiversity)(ref:arthropods)</p>
+</div>
 
 Arthropods are characterized by their jointed limbs and cuticle made of chitin, often mineralised with calcium carbonate. The arthropod body plan consists of segments, each with a pair of appendages. The rigid cuticle inhibits growth, so arthropods replace it periodically by moulting. Arthropods are bilaterally symmetrical and their body possesses an external skeleton. Some species have wings.
 
@@ -366,14 +465,10 @@ The nematodes or roundworms constitute the phylum Nematoda (also called Nemathel
 
 (ref:celeg) [*Caenorhabditis elegans*, a free-living transparent nematode about 1 mm in length that lives in temperate soil environments.](https://commons.wikimedia.org/wiki/File:Adult_Caenorhabditis_elegans.jpg) In 1963, Sydney Brenner proposed research into C. elegans, primarily in the area of neuronal development. In 1974, he began research into the molecular and developmental biology of C. elegans, which has since been extensively used as a model organism. It was the first multicellular organism to have its whole genome sequenced, and as of 2019, is the only organism to have its connectome (neuronal "wiring diagram") completed.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Adult_Caenorhabditis_elegans} 
-
-}
-
-\caption{(ref:celeg)}(\#fig:celegans)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Adult_Caenorhabditis_elegans.jpg" alt="(ref:celeg)" width="70%" />
+<p class="caption">(\#fig:celegans)(ref:celeg)</p>
+</div>
 
 Nematode species can be difficult to distinguish from one another. Consequently, estimates of the number of nematode species described to date vary by author and may change rapidly over time. A 2013 survey of animal biodiversity published in the mega journal Zootaxa puts this figure at over 25,000. Estimates of the total number of extant species are subject to even greater variation. A widely referenced article published in 1993 estimated there may be over 1 million species of nematode, a claim which has since been repeated in numerous publications. Many other publications have since vigorously refuted this claim on the grounds that it is unsupported by fact. More recent, fact-based estimates have placed the true figure closer to 40,000 species worldwide.
 
@@ -391,14 +486,10 @@ Mollusca is the second-largest phylum of invertebrate animals after the Arthropo
 
 (ref:snai) [*Cornu aspersum* (formerly *Helix aspersa*) – a common land snail.](https://commons.wikimedia.org/wiki/File:Snail-wiki-120-Zachi-Evenor.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Snail-wiki-120-Zachi-Evenor} 
-
-}
-
-\caption{(ref:snai)}(\#fig:snail)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Snail-wiki-120-Zachi-Evenor.jpg" alt="(ref:snai)" width="70%" />
+<p class="caption">(\#fig:snail)(ref:snai)</p>
+</div>
 
 Molluscs are the largest marine phylum, comprising about 23% of all the named marine organisms. Numerous molluscs also live in freshwater and terrestrial habitats. They are highly diverse, not just in size and anatomical structure, but also in behaviour and habitat. The phylum is typically divided into 8 or 9 taxonomic classes, of which two are entirely extinct. Cephalopod molluscs, such as squid, cuttlefish, and octopuses, are among the most neurologically advanced of all invertebrates—and either the giant squid or the colossal squid is the largest known invertebrate species. The gastropods (snails and slugs) are by far the most numerous molluscs and account for 80% of the total classified species.
 
@@ -418,14 +509,10 @@ The annelids (Annelida, from Latin anellus, "little ring"[a]), also known as the
 
 (ref:annelid) [The earthworm *Lumbricus terrestris* is a representative of the annelids.](https://commons.wikimedia.org/wiki/File:Nerr0328.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Earthworm} 
-
-}
-
-\caption{(ref:annelid)}(\#fig:annelidrep)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Earthworm.jpg" alt="(ref:annelid)" width="70%" />
+<p class="caption">(\#fig:annelidrep)(ref:annelid)</p>
+</div>
 
 The Annelids are bilaterally symmetrical, triploblastic, coelomate, invertebrate organisms. They also have parapodia for locomotion. Most textbooks still use the traditional division into polychaetes (almost all marine), oligochaetes (which include earthworms) and leech-like species. Cladistic research since 1997 has radically changed this scheme, viewing leeches as a sub-group of oligochaetes and oligochaetes as a sub-group of polychaetes. In addition, the Pogonophora, Echiura and Sipuncula, previously regarded as separate phyla, are now regarded as sub-groups of polychaetes. Annelids are considered members of the Lophotrochozoa, a "super-phylum" of protostomes that also includes molluscs, brachiopods, and nemerteans.
 
@@ -441,14 +528,10 @@ The main processes involved in the embryonic development of animals are: tissue 
 
 (ref:andev) [Animals are unique in having the ball of cells of the early embryo (1) develop into a hollow ball or blastula (2).](https://commons.wikimedia.org/wiki/File:Blastulation.png)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Blastulation} 
-
-}
-
-\caption{(ref:andev)}(\#fig:animaldev)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Blastulation.png" alt="(ref:andev)" width="70%" />
+<p class="caption">(\#fig:animaldev)(ref:andev)</p>
+</div>
 
 * Regional specification refers to the processes that create spatial pattern in a ball or sheet of initially similar cells. This generally involves the action of cytoplasmic determinants, located within parts of the fertilized egg, and of inductive signals emitted from signaling centers in the embryo. The early stages of regional specification do not generate functional differentiated cells, but cell populations committed to develop to a specific region or part of the organism. These are defined by the expression of specific combinations of transcription factors.
 * Cell differentiation relates specifically to the formation of functional cell types such as nerve, muscle, secretory epithelia etc. Differentiated cells contain large amounts of specific proteins associated with the cell function.
@@ -477,14 +560,10 @@ Developmental processes are very evident during the process of metamorphosis. Th
 
 (ref:metamorph) [Two types of metamorphosis are shown.](https://commons.wikimedia.org/wiki/File:Holometabolous_vs._Hemimetabolous.svg) In a complete (holometabolous) metamorphosis the insect passes through four distinct phases, which produce an adult that does not resemble the larva. In an incomplete (hemimetabolous) metamorphosis an insect does not go through a full transformation, but instead transitions from a nymph to an adult by molting its exoskeleton as it grows.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Holometabolous_vs._Hemimetabolous} 
-
-}
-
-\caption{(ref:metamorph)}(\#fig:metamorphosis)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Holometabolous_vs._Hemimetabolous.svg" alt="(ref:metamorph)" width="70%" />
+<p class="caption">(\#fig:metamorphosis)(ref:metamorph)</p>
+</div>
 
 All the developmental processes listed above occur during metamorphosis. Examples that have been especially well studied include tail loss and other changes in the tadpole of the frog Xenopus, and the biology of the imaginal discs, which generate the adult body parts of the fly Drosophila melanogaster.
 
@@ -554,14 +633,10 @@ More complex animals are composed of different organs, which have been evolving 
 
 (ref:orgev) [Relationship of major animal lineages with indication of how long ago these animals shared a common ancestor. On the left, important organs are shown, which allows us to determine how long ago these may have evolved.](https://commons.wikimedia.org/wiki/File:Origin_of_major_organs_on_the_animal_phylogeny.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Origin_of_major_organs_on_the_animal_phylogeny} 
-
-}
-
-\caption{(ref:orgev)}(\#fig:organevolution)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Origin_of_major_organs_on_the_animal_phylogeny.jpg" alt="(ref:orgev)" width="70%" />
+<p class="caption">(\#fig:organevolution)(ref:orgev)</p>
+</div>
 
 Given the ancient origin of most vertebrate organs, researchers have looked for model systems, where organs have evolved more recently, and ideally have evolved multiple times independently. An outstanding model for this kind of research is the placenta, which has evolved more than 100 times independently in vertebrates, has evolved relatively recently in some lineages, and exists in intermediate forms in extant taxa. Studies on the evolution of the placenta have identified a variety of genetic and physiological processes that contribute to the origin and evolution of organs, these include the re-purposing of existing animal tissues, the acquisition of new functional properties by these tissues, and novel interactions of distinct tissue types.
 
@@ -581,14 +656,10 @@ Bilateral animals have a variety of organ systems:
 
 (ref:humorg) [Selection of internal organs in human anatomy.](https://commons.wikimedia.org/wiki/File:Internal_organs.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Internal_organs} 
-
-}
-
-\caption{(ref:humorg)}(\#fig:humanorgans)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Internal_organs.svg" alt="(ref:humorg)" width="70%" />
+<p class="caption">(\#fig:humanorgans)(ref:humorg)</p>
+</div>
 
 ## Human evolution
 
@@ -601,6 +672,13 @@ Within the superfamily Hominoidea, the family Hominidae diverged from the family
 Human evolution from its first separation from the last common ancestor of humans and chimpanzees is characterized by a number of morphological, developmental, physiological, and behavioral changes. The most significant of these adaptations are bipedalism, increased brain size, lengthened ontogeny (gestation and infancy), and decreased sexual dimorphism. The relationship between these changes is the subject of ongoing debate.[page needed] Other significant morphological changes included the evolution of a power and precision grip, a change first occurring in H. erectus.
 
 Bipedalism is the basic adaptation of the hominid and is considered the main cause behind a suite of skeletal changes shared by all bipedal hominids. The earliest hominin, of presumably primitive bipedalism, is considered to be either Sahelanthropus or Orrorin, both of which arose some 6 to 7 million years ago. The non-bipedal knuckle-walkers, the gorillas and chimpanzees, diverged from the hominin line over a period covering the same time, so either Sahelanthropus or Orrorin may be our last shared ancestor. Ardipithecus, a full biped, arose approximately 5.6 million years ago.
+
+(ref:skelcomp) [From Thomas Huxley's 1863 Evidence as to Man's Place in Nature, the compared skeletons of apes to humans.](https://commons.wikimedia.org/wiki/File:Huxley_-_Mans_Place_in_Nature.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Huxley_-_Mans_Place_in_Nature.jpg" alt="(ref:skelcomp)" width="70%" />
+<p class="caption">(\#fig:skeletoncomparison)(ref:skelcomp)</p>
+</div>
 
 The early bipeds eventually evolved into the australopithecines and still later into the genus Homo. There are several theories of the adaptation value of bipedalism. It is possible that bipedalism was favored because it freed the hands for reaching and carrying food, saved energy during locomotion, enabled long-distance running and hunting, provided an enhanced field of vision, and helped avoid hyperthermia by reducing the surface area exposed to direct sun; features all advantageous for thriving in the new savanna and woodland environment created as a result of the East African Rift Valley uplift versus the previous closed forest habitat. A 2007 study provides support for the hypothesis that walking on two legs, or bipedalism, evolved because it used less energy than quadrupedal knuckle-walking. However, recent studies suggest that bipedality without the ability to use fire would not have allowed global dispersal. This change in gait saw a lengthening of the legs proportionately when compared to the length of the arms, which were shortened through the removal of the need for brachiation. Another change is the shape of the big toe. Recent studies suggest that australopithecines still lived part of the time in trees as a result of maintaining a grasping big toe. This was progressively lost in habilines.
 
@@ -670,14 +748,10 @@ Anthropologists in the 1980s were divided regarding some details of reproductive
 
 (ref:humevo) [A model of the evolution of the genus Homo](https://en.wikipedia.org/wiki/Human_evolution#/media/File:Homo_lineage_2017update.svg) over the last 2 million years (vertical axis). The rapid "Out of Africa" expansion of H. sapiens is indicated at the top of the diagram, with admixture indicated with Neanderthals, Denisovans, and unspecified archaic African hominins. Late survival of robust australopithecines (Paranthropus) alongside Homo until 1.2 Mya is indicated in purple.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Homo_lineage_2017update} 
-
-}
-
-\caption{(ref:humevo)}(\#fig:humanevolution)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Homo_lineage_2017update.svg" alt="(ref:humevo)" width="70%" />
+<p class="caption">(\#fig:humanevolution)(ref:humevo)</p>
+</div>
 
 
 Recent evidence suggests that humans may have left Africa half a million years earlier than previously thought. A joint Franco-Indian team has found human artifacts in the Siwalk Hills north of New Delhi dating back at least 2.6 million years. This is earlier than the previous earliest finding of genus Homo at Dmanisi, in Georgia, dating to 1.85 million years. Although controversial, tools found at a Chinese cave strengthen the case that humans used tools as far back as 2.48 million years ago. This suggests that the Asian "Chopper" tool tradition, found in Java and northern China may have left Africa before the appearance of the Acheulian hand axe.
@@ -694,14 +768,10 @@ Recent sequencing of Neanderthal and Denisovan genomes shows that some admixture
 
 (ref:neander) [Dermoplastic reconstruction of a Neanderthal](https://commons.wikimedia.org/wiki/File:Neandertaler_reconst.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Neandertaler_reconst} 
-
-}
-
-\caption{(ref:neander)}(\#fig:neanderthal)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Neandertaler_reconst.jpg" alt="(ref:neander)" width="70%" />
+<p class="caption">(\#fig:neanderthal)(ref:neander)</p>
+</div>
 
 There are still differing theories on whether there was a single exodus from Africa or several. A multiple dispersal model involves the Southern Dispersal theory, which has gained support in recent years from genetic, linguistic and archaeological evidence. In this theory, there was a coastal dispersal of modern humans from the Horn of Africa crossing the Bab el Mandib to Yemen at a lower sea level around 70,000 years ago. This group helped to populate Southeast Asia and Oceania, explaining the discovery of early human sites in these areas much earlier than those in the Levant. This group seems to have been dependent upon marine resources for their survival.
 
@@ -731,14 +801,10 @@ During the next million years, a process of encephalization began and, by the ar
 
 (ref:ergaster) [Replica of fossil skull of Homo ergaster (African Homo erectus). Fossil number Khm-Heu 3733 discovered in 1975 in Kenya.](https://commons.wikimedia.org/wiki/File:Homo_ergaster.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Homo_ergaster} 
-
-}
-
-\caption{(ref:ergaster)}(\#fig:homoergaster)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Homo_ergaster.jpg" alt="(ref:ergaster)" width="70%" />
+<p class="caption">(\#fig:homoergaster)(ref:ergaster)</p>
+</div>
 
 The earliest transitional fossils between H. ergaster/erectus and archaic H. sapiens are from Africa, such as Homo rhodesiensis. These descendants of African H. erectus spread through Eurasia from ca. 500,000 years ago, evolving into H. antecessor, H. heidelbergensis and H. neanderthalensis. The earliest fossils of anatomically modern humans are from the Middle Paleolithic, about 300–200,000 years ago such as the Herto and Omo remains of Ethiopia, Jebel Irhoud remains of Morocco, and Florisbad remains of South Africa; later fossils from Es Skhul cave in Israel and Southern Europe begin around 90,000 years ago (0.09 million years ago).
 
@@ -794,14 +860,10 @@ The earliest documented representative of the genus Homo is Homo habilis, which 
 
 (ref:habilis) [Replica of fossil skull of Homo habilis. Fossil number KNM ER 1813, found at Koobi Fora, Kenya.](https://commons.wikimedia.org/wiki/File:Homo_habilis-KNM_ER_1813.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Homo_habilis-KNM_ER_1813} 
-
-}
-
-\caption{(ref:habilis)}(\#fig:homohabilis)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Homo_habilis-KNM_ER_1813.jpg" alt="(ref:habilis)" width="70%" />
+<p class="caption">(\#fig:homohabilis)(ref:habilis)</p>
+</div>
 
 According to the recent African origin of modern humans theory, modern humans evolved in Africa possibly from Homo heidelbergensis, Homo rhodesiensis or Homo antecessor and migrated out of the continent some 50,000 to 100,000 years ago, gradually replacing local populations of Homo erectus, Denisova hominins, Homo floresiensis, Homo luzonensis and Homo neanderthalensis. Archaic Homo sapiens, the forerunner of anatomically modern humans, evolved in the Middle Paleolithic between 400,000 and 250,000 years ago. Recent DNA evidence suggests that several haplotypes of Neanderthal origin are present among all non-African populations, and Neanderthals and other hominins, such as Denisovans, may have contributed up to 6% of their genome to present-day humans, suggestive of a limited interbreeding between these species. The transition to behavioral modernity with the development of symbolic culture, language, and specialized lithic technology happened around 50,000 years ago, according to some anthropologists, although others point to evidence that suggests that a gradual change in behavior took place over a longer time span.
 
@@ -895,14 +957,10 @@ Many species make and use tools, but it is the human genus that dominates the ar
 
 (ref:oldo) [Oldowan-tradition stone chopper.](https://commons.wikimedia.org/wiki/File:Oldowan_tradition_chopper.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Oldowan_tradition_chopper} 
-
-}
-
-\caption{(ref:oldo)}(\#fig:oldowan)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Oldowan_tradition_chopper.jpg" alt="(ref:oldo)" width="70%" />
+<p class="caption">(\#fig:oldowan)(ref:oldo)</p>
+</div>
 
 Bernard Wood noted that Paranthropus co-existed with the early Homo species in the area of the "Oldowan Industrial Complex" over roughly the same span of time. Although there is no direct evidence which identifies Paranthropus as the tool makers, their anatomy lends to indirect evidence of their capabilities in this area. Most paleoanthropologists agree that the early Homo species were indeed responsible for most of the Oldowan tools found. They argue that when most of the Oldowan tools were found in association with human fossils, Homo was always present, but Paranthropus was not.
 
@@ -922,14 +980,10 @@ Modern humans started burying their dead, using animal hides to make clothing, h
 
 (ref:aurignac) [Aurignacian Culture bone tools (needdle, points and tools for punching holes), Hayonim Cave, 30000 BP (Before Present).](https://commons.wikimedia.org/wiki/File:Aurignacian_Culture_Bone_Tools,_Hayonim_Cave,_30000_BP.jpg) HaYonim Cave (Hebrew: מערת היונים, Me'arat HaYonim, lit. Cave of the Pigeons) is a cave located in a limestone bluff about 250 meters above modern sea level, in the Upper Galilee, Israel.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Aurignacian_Culture_Bone_Tools,_Hayonim_Cave,_30000_BP} 
-
-}
-
-\caption{(ref:aurignac)}(\#fig:aurignactools)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Aurignacian_Culture_Bone_Tools,_Hayonim_Cave,_30000_BP.jpg" alt="(ref:aurignac)" width="70%" />
+<p class="caption">(\#fig:aurignactools)(ref:aurignac)</p>
+</div>
 
 Among concrete examples of modern human behavior, anthropologists include specialization of tools, use of jewellery and images (such as cave drawings), organization of living space, rituals (for example, burials with grave gifts), specialized hunting techniques, exploration of less hospitable geographical areas, and barter trade networks. Debate continues as to whether a "revolution" led to modern humans ("the big bang of human consciousness"), or whether the evolution was more "gradual".
 

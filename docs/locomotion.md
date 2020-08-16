@@ -28,6 +28,12 @@ An external skeleton can be quite heavy in relation to the overall mass of an an
 
 The endoskeleton is the internal support structure of an animal, composed of mineralized tissue and is typical of vertebrates. Endoskeletons vary in complexity from functioning purely for support (as in the case of sponges), to serving as an attachment site for muscles and a mechanism for transmitting muscular forces. A true endoskeleton is derived from mesodermal tissue. Such a skeleton is present in echinoderms and chordates.
 
+(ref:vertebrateskeletons) [Vertebrate skulls and skeletons](https://upload.wikimedia.org/wikipedia/commons/8/87/Skeletons.png): 1. [Homo sapiens](https://commons.wikimedia.org/wiki/File:S,keleton_diagram.svg), 2. [Human skull](https://commons.wikimedia.org/wiki/File:Gray188_skull_left_lateral_index.png), 3. [Australopithecus](https://commons.wikimedia.org/wiki/File:Australopithecus.jpg), 4. [Homo neanderthalensis](https://commons.wikimedia.org/wiki/File:Homo_sapiens_neanderthalensis.jpg), 5. [Pan troglodytes](https://commons.wikimedia.org/wiki/File:Pan_troglodytes01.jpg), 6. [Papio hamadryas](https://commons.wikimedia.org/wiki/File:Huxley_-_Mans_Place_in_Nature.jpg), 7. [Rhinopithecus roxellan](https://commons.wikimedia.org/wiki/File:Goldstumpfnasen_(Rhinopithecus_roxellana).jpg), 8. [Gorilla](https://commons.wikimedia.org/wiki/File:GorillaSkeleton.jpg), 9. [Sus scrofa](https://commons.wikimedia.org/wiki/File:PigSkelLyd2.png), 10. [Cattle](https://commons.wikimedia.org/wiki/File:Heubach_cattle_skull.jpg), 11. [Panthera leo](https://commons.wikimedia.org/wiki/File:Lion_anatomy_lateral_skeleton_view.jpg), 12. [Canis lupus](https://commons.wikimedia.org/wiki/File:WolfSkelLyd1.png), 13. [Equus caballus](https://commons.wikimedia.org/wiki/File:Horse_bones_ugglan.jpg), 14. [Elephantidae](https://commons.wikimedia.org/wiki/File:ElephantSkelLyd2.png), 15. [Capra](https://commons.wikimedia.org/wiki/File:Goat_anatomy_lateral_skeleton_view.jpg), 16. [Hippopotamus](https://commons.wikimedia.org/wiki/File:HippoSkelLyd2.png), 17. [Camelus](https://commons.wikimedia.org/wiki/File:CamelSkelLyd2.png), 18. [Macropus](https://commons.wikimedia.org/wiki/File:Macropodidae_skeleton.png), 19. [Damaliscus korrigum](https://commons.wikimedia.org/wiki/File:ChausinghaSkullLyd2.png), 20. [Odobenus rosmarus](https://commons.wikimedia.org/wiki/File:WalrusLyd2.png), 21. [Bat](https://commons.wikimedia.org/wiki/File:Fledermaus_(Nycteris_fuliginosis).png), 22. [Cetacea](https://commons.wikimedia.org/wiki/File:GreenlandWhaleLyd3.jpg), 23. [Accipitridae](https://commons.wikimedia.org/wiki/File:Baldeagle-06jul16.jpg), 24. [Psittacidae](https://commons.wikimedia.org/wiki/File:ParrotSkelLyd.jpg), 25. [Gallus gallus](https://commons.wikimedia.org/wiki/File:Furcula.png), 26. [Roosters](https://commons.wikimedia.org/wiki/File:Furcula.png), 27. [Ramphastos sulfuratus](https://commons.wikimedia.org/wiki/File:Toco_toucan_whipsnade.jpg), 28. [Casuariidae](https://commons.wikimedia.org/wiki/File:CassowarySkullLyd4.png), 29. [Spheniscidae](https://commons.wikimedia.org/wiki/File:Skull_alca_torda.jpg), 30. [Gruidae](https://commons.wikimedia.org/wiki/File:Grus_grus_skull.png), 32. [Sharovipteryx mirabilis](https://commons.wikimedia.org/wiki/File:Sharovipteryx_BW.jpg), 32. [Natrix natrix](https://commons.wikimedia.org/wiki/File:Python_gab_fbi.png), 33. [Crotalinae](), 34. [Boa constrictor](https://commons.wikimedia.org/wiki/File:Acrantophis_dumerili.jpg), 35. [Crocodile](https://commons.wikimedia.org/wiki/File:Crocodilelyd5.png), 36. [Lizard](https://commons.wikimedia.org/wiki/File:Pleurodont_jaw_Mivart.png), 37. [Testudines](https://commons.wikimedia.org/wiki/File:SmithTestudoSkeletonTagged.PNG), 38. [Frog](https://commons.wikimedia.org/wiki/File:Rana_skull.png), 39. [Salamandra salamandra](https://commons.wikimedia.org/wiki/File:Albanerpeton_BW.jpg), 40. [Perca fluviatilis](https://commons.wikimedia.org/wiki/File:Pesce_Persico.jpg), 41. [Acipenser](https://commons.wikimedia.org/wiki/File:Sturgeon2.jpg), 42. [Balistoides viridescens](https://commons.wikimedia.org/wiki/Category:Balistoides_viridescens), 43. [Rajidae](https://commons.wikimedia.org/wiki/File:Smooth_skate.jpg), 44. [Polypterus](https://commons.wikimedia.org/wiki/Category:Polypterus)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/Skeletons.png" alt="(ref:vertebrateskeletons)" width="70%" />
+<p class="caption">(\#fig:skullskeletons)(ref:vertebrateskeletons)</p>
+</div>
 
 Pliant skeletons are capable of movement; thus, when stress is applied to the skeletal structure, it deforms and then reverts to its original shape. This skeletal structure is used in some invertebrates, for instance in the hinge of bivalve shells or the mesoglea of cnidarians such as jellyfish. Pliant skeletons are beneficial because only muscle contractions are needed to bend the skeleton; upon muscle relaxation, the skeleton will return to its original shape. Cartilage is one material that a pliant skeleton may be composed of, but most pliant skeletons are formed from a mixture of proteins, polysaccharides, and water. For additional structure or protection, pliant skeletons may be supported by rigid skeletons. Organisms that have pliant skeletons typically live in water, which supports body structure in the absence of a rigid skeleton.
 
@@ -57,11 +63,33 @@ The bird skeleton is highly adapted for flight. It is extremely lightweight, yet
 
 The human skeleton consists of both fused and individual bones supported and supplemented by ligaments, tendons, muscles and cartilage. It is composed of around 270 bones at birth – this total decreases to around 206 bones by adulthood after some bones get fused together. The biggest bone in the body is the femur in the upper leg, and the smallest is the stapes bone in the middle ear. In an adult, the skeleton comprises around 14% of the total body weight, and half of this weight is water. The bone mass in the skeleton reaches maximum density around age 21. The human skeleton can be divided into the axial skeleton and the appendicular skeleton. The axial skeleton is formed by the vertebral column, the rib cage, the skull and other associated bones. The appendicular skeleton, which is attached to the axial skeleton, is formed by the shoulder girdle, the pelvic girdle and the bones of the upper and lower limbs.
 
+(ref:skull) [Major bones of the human skull viewed from the side.](https://commons.wikimedia.org/wiki/File:Human_skull_side_simplified_(bones).svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/Human_skull_side_simplified_(bones).svg" alt="(ref:skull)" width="70%" />
+<p class="caption">(\#fig:humanskull)(ref:skull)</p>
+</div>
+
 The human skeleton performs six major functions; support, movement, protection, production of blood cells, storage of minerals, and endocrine regulation.It serves as a scaffold which supports organs, anchors muscles, and protects organs such as the brain, lungs, heart and spinal cord. Although the teeth do not consist of tissue commonly found in bones, the teeth are usually considered as members of the skeletal system. 
 
 Fused bones include those of the pelvis and the cranium. Not all bones are interconnected directly: There are three bones in each middle ear called the ossicles that articulate only with each other. The hyoid bone, which is located in the neck and serves as the point of attachment for the tongue, does not articulate with any other bones in the body, being supported by muscles and ligaments.
 
+(ref:humskelfr) [The human skeleton viewed from the front.](https://commons.wikimedia.org/wiki/File:Human_skeleton_front_en.svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/Human_skeleton_front_en.svg" alt="(ref:humanskeletonfront)" width="70%" />
+<p class="caption">(\#fig:humanskeletonfront)(ref:humanskeletonfront)</p>
+</div>
+
 There are 206 bones in the adult human skeleton, although this number depends on whether the pelvic bones (the hip bones on each side) are counted as one or three bones on each side (ilium, ischium, and pubis), whether the coccyx or tail bone is counted as one or four separate bones, and does not count the variable wormian bones between skull sutures. Similarly, the sacrum is usually counted as a single bone, rather than five fused vertebrae. There is also a variable number of small sesamoid bones, commonly found in tendons. The patella or kneecap on each side is an example of a larger sesamoid bone. The patellae are counted in the total, as they are constant. The number of bones varies between individuals and with age – newborn babies have over 270 bones some of which fuse together. These bones are organized into a longitudinal axis, the axial skeleton, to which the appendicular skeleton is attached.
+
+(ref:humskelba) [The human skeleton viewed from the back.](https://commons.wikimedia.org/wiki/File:Human_skeleton_back_en.svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/Human_skeleton_back_en.svg" alt="(ref:humskelba)" width="70%" />
+<p class="caption">(\#fig:humanskeletonback)(ref:humskelba)</p>
+</div>
+
 
 The human skeleton takes 20 years before it is fully developed, and the bones contain marrow, which produces blood cells.
 
@@ -71,17 +99,52 @@ There exist several general differences between the male and female skeletons. T
 
 The axial skeleton (80 bones) is formed by the vertebral column (32 bones), a part of the rib cage (12 pairs of ribs and the sternum), and the skull (22 bones and 7 associated bones).
 
+(ref:axialsk) [The Axial skeleton](https://commons.wikimedia.org/wiki/File:Axial_skeleton_diagram.svg) consists of the bones in the head and trunk of the human body. It is composed of five parts; the human skull, the ossicles of the inner ear, the hyoid bone of the throat, the chest, and the vertebral column. The axial skeleton and the appendicular skeleton together form the complete skeleton.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/Axial_skeleton_diagram.svg" alt="(ref:axialsk)" width="70%" />
+<p class="caption">(\#fig:axialskeleton)(ref:axialsk)</p>
+</div>
+
 The upright posture of humans is maintained by the axial skeleton, which transmits the weight from the head, the trunk, and the upper extremities down to the lower extremities at the hip joints. The bones of the spine are supported by many ligaments. The erector spinae muscles are also supporting and are useful for balance.
 
 ## The Appendicular Skeleton
 
 The appendicular skeleton (126 bones) is formed by the pectoral girdles, the upper limbs, the pelvic girdle or pelvis, and the lower limbs. Their functions are to make locomotion possible and to protect the major organs of digestion, excretion and reproduction.
 
+(ref:appendsk) [The appendicular skeleton (red) and the axial skeleton together form the complete skeleton.](https://commons.wikimedia.org/wiki/File:Appendicular_skeleton_diagram.svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/Appendicular_skeleton_diagram.svg" alt="(ref:appendsk)" width="70%" />
+<p class="caption">(\#fig:appendicularskeleton)(ref:appendsk)</p>
+</div>
+
 ## Bone
 
 A bone is a rigid organ that constitutes part of the vertebrate skeleton in animals. Bones protect the various organs of the body, produce red and white blood cells, store minerals, provide structure and support for the body, and enable mobility. Bones come in a variety of shapes and sizes and have a complex internal and external structure. They are lightweight yet strong and hard, and serve multiple functions.
 
+(ref:longbo) [Structure of a long bone.](https://commons.wikimedia.org/wiki/File:603_Anatomy_of_Long_Bone.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/603_Anatomy_of_Long_Bone.jpg" alt="(ref:longbo)" width="70%" />
+<p class="caption">(\#fig:longbone)(ref:longbo)</p>
+</div>
+
+(ref:bonecross) [Cross-section of human bone.](https://commons.wikimedia.org/wiki/File:Human_skeleton_back_en.svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/Bone_cross-section.svg" alt="(ref:bonecross)" width="70%" />
+<p class="caption">(\#fig:bonecrossection)(ref:bonecross)</p>
+</div>
+
 Bone tissue (osseous tissue) is a hard tissue, a type of dense connective tissue. It has a honeycomb-like matrix internally, which helps to give the bone rigidity. Bone tissue is made up of different types of bone cells. Osteoblasts and osteocytes are involved in the formation and mineralization of bone; osteoclasts are involved in the resorption of bone tissue. Modified (flattened) osteoblasts become the lining cells that form a protective layer on the bone surface. The mineralised matrix of bone tissue has an organic component of mainly collagen called ossein and an inorganic component of bone mineral made up of various salts. Bone tissue is a mineralized tissue of two types, cortical bone and cancellous bone. Other types of tissue found in bones include bone marrow, endosteum, periosteum, nerves, blood vessels and cartilage.
+
+(ref:anotherbonecross) [A cross section of a long bone, showing the internal structure.](https://commons.wikimedia.org/wiki/File:Illu_compact_spongy_bone.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/Illu_compact_spongy_bone.jpg" alt="(ref:anotherbonecross)" width="70%" />
+<p class="caption">(\#fig:anotherbonecrossection)(ref:anotherbonecross)</p>
+</div>
 
 The Greek word for bone is ὀστέον ("osteon"), hence the many terms that use it as a prefix—such as osteopathy.
 
@@ -109,9 +172,15 @@ Bone marrow, also known as myeloid tissue in red bone marrow, can be found in al
 
 Bone is a metabolically active tissue composed of several types of cells. These cells include osteoblasts, which are involved in the creation and mineralization of bone tissue, osteocytes, and osteoclasts, which are involved in the reabsorption of bone tissue. Osteoblasts and osteocytes are derived from osteoprogenitor cells, but osteoclasts are derived from the same cells that differentiate to form macrophages and monocytes. Within the marrow of the bone there are also hematopoietic stem cells. These cells give rise to other cells, including white blood cells, red blood cells, and platelets.
 
+(ref:bocel) [Bone cells.](https://commons.wikimedia.org/wiki/File:604_Bone_cells.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/604_Bone_cells.jpg" alt="(ref:bocel)" width="70%" />
+<p class="caption">(\#fig:bonecells)(ref:bocel)</p>
+</div>
+
 ## Osteoblast
 
-Light micrograph of decalcified cancellous bone displaying osteoblasts actively synthesizing osteoid, containing two osteocytes.
 Osteoblasts are mononucleate bone-forming cells. They are located on the surface of osteon seams and make a protein mixture known as osteoid, which mineralizes to become bone. The osteoid seam is a narrow region of newly formed organic matrix, not yet mineralized, located on the surface of a bone. Osteoid is primarily composed of Type I collagen. Osteoblasts also manufacture hormones, such as prostaglandins, to act on the bone itself. The osteoblast creates and repairs new bone by actually building around itself. First, the osteoblast puts up collagen fibers. These collagen fibers are used as a framework for the osteoblasts' work. The osteoblast then deposits calcium phosphate which is hardened by hydroxide and bicarbonate ions. The brand new bone created by the osteoblast is called osteoid. Once the osteoblast is finished working it is actually trapped inside the bone once it hardens. When the osteoblast becomes trapped, it becomes known as an osteocyte. Other osteoblasts remain on the top of the new bone and are used to protect the underlying bone, these become known as lining cells.
 
 ## Osteocyte
@@ -132,9 +201,36 @@ The inorganic composition of bone (bone mineral) is primarily formed from salts 
 
 The muscular system is an organ system consisting of skeletal, smooth and cardiac muscles. It permits movement of the body, maintains posture and circulates blood throughout the body. The muscular systems in vertebrates are controlled through the nervous system although some muscles (such as the cardiac muscle) can be completely autonomous. Together with the skeletal system, it forms the musculoskeletal system, which is responsible for movement of the human body.
 
-There are three distinct types of muscles: skeletal muscles, cardiac or heart muscles, and smooth (non-striated) muscles. Muscles provide strength, balance, posture, movement and heat for the body to keep warm.
+There are three distinct types of muscles:
+
+* Skeletal muscle or "voluntary muscle" is anchored by tendons (or by aponeuroses at a few places) to bone and is used to effect skeletal movement such as locomotion and in maintaining posture. Though this postural control is generally maintained as an unconscious reflex, the muscles responsible react to conscious control like non-postural muscles. An average adult male is made up of 42% of skeletal muscle and an average adult female is made up of 36% (as a percentage of body mass).
+* Smooth muscle or "involuntary muscle" is found within the walls of organs and structures such as the esophagus, stomach, intestines, bronchi, uterus, urethra, bladder, blood vessels, and the arrector pili in the skin (in which it controls erection of body hair). Unlike skeletal muscle, smooth muscle is not under conscious control.
+* Cardiac muscle (myocardium), is also an "involuntary muscle" but is more akin in structure to skeletal muscle, and is found only in the heart.
+
+(ref:threetypes) [The body contains three types of muscle tissue](https://upload.wikimedia.org/wikipedia/commons/e/e5/414_Skeletal_Smooth_Cardiac.jpg): (a) skeletal muscle, (b) smooth muscle, and (c) cardiac muscle.
+
+Skeletal muscle is arranged in discrete muscles, an example of which is the biceps brachii (biceps). The tough, fibrous epimysium of skeletal muscle is both connected to and continuous with the tendons. In turn, the tendons connect to the periosteum layer surrounding the bones, permitting the transfer of force from the muscles to the skeleton. Together, these fibrous layers, along with tendons and ligaments, constitute the deep fascia of the body.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/414_Skeletal_Smooth_Cardiac.jpg" alt="(ref:threetypes)" width="70%" />
+<p class="caption">(\#fig:threetypesofmuscle)(ref:threetypes)</p>
+</div>
 
 Skeletal muscles, like other striated muscles, are composed of myocytes, or muscle fibers, which are in turn composed of myofibrils, which are composed of sarcomeres, the basic building block of striated muscle tissue. Upon stimulation by an action potential, skeletal muscles perform a coordinated contraction by shortening each sarcomere. The best proposed model for understanding contraction is the sliding filament model of muscle contraction. Within the sarcomere, actin and myosin fibers overlap in a contractile motion towards each other. Myosin filaments have club-shaped heads that project toward the actin filaments.
+
+(ref:skelmus) [Bundles of muscle fibers, called fascicles, are covered by the perimysium. Muscle fibers are covered by the endomysium.](https://upload.wikimedia.org/wikipedia/commons/d/dd/1007_Muscle_Fibes_%28large%29.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/1007_Muscle_Fibes_(large).jpg" alt="(ref:skelmus)" width="70%" />
+<p class="caption">(\#fig:skeletalmuscle)(ref:skelmus)</p>
+</div>
+
+(ref:muscfib) [A skeletal muscle fiber is surrounded by a plasma membrane called the sarcolemma, which contains sarcoplasm, the cytoplasm of muscle cells. A muscle fiber is composed of many fibrils, which give the cell its striated appearance.](https://commons.wikimedia.org/wiki/File:1022_Muscle_Fibers_(small).jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/1022_Muscle_Fibers_(small).jpg" alt="(ref:muscfib)" width="70%" />
+<p class="caption">(\#fig:musclefibre)(ref:muscfib)</p>
+</div>
 
 Larger structures along the myosin filament called myosin heads are used to provide attachment points on binding sites for the actin filaments. The myosin heads move in a coordinated style; they swivel toward the center of the sarcomere, detach and then reattach to the nearest active site of the actin filament. This is called a ratchet type drive system.
 
@@ -143,6 +239,13 @@ This process consumes large amounts of adenosine triphosphate (ATP), the energy 
 Calcium ions are required for each cycle of the sarcomere. Calcium is released from the sarcoplasmic reticulum into the sarcomere when a muscle is stimulated to contract. This calcium uncovers the actin binding sites. When the muscle no longer needs to contract, the calcium ions are pumped from the sarcomere and back into storage in the sarcoplasmic reticulum.
 
 There are approximately 639 skeletal muscles in the human body.
+
+(ref:muscsys) [On the anterior and posterior views of the muscular system above, superficial muscles (those at the surface) are shown on the right side of the body while deep muscles (those underneath the superficial muscles) are shown on the left half of the body. For the legs, superficial muscles are shown in the anterior view while the posterior view shows both superficial and deep muscles.](https://commons.wikimedia.org/wiki/File:1105_Anterior_and_Posterior_Views_of_Muscles.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/1105_Anterior_and_Posterior_Views_of_Muscles.jpg" alt="(ref:muscsys)" width="70%" />
+<p class="caption">(\#fig:muscularsystem)(ref:muscsys)</p>
+</div>
 
 ## Cardiac Muscle
 
@@ -181,17 +284,20 @@ In vertebrate animals, there are three types of muscle tissues: skeletal, smooth
 
 Excluding reflexes, all skeletal muscles contractions occur as a result of conscious effort originating in the brain. The brain sends electrochemical signals through the nervous system to the motor neuron that innervates several muscle fibers. In the case of some reflexes, the signal to contract can originate in the spinal cord through a feedback loop with the grey matter. Other actions such as locomotion, breathing, and chewing have a reflex aspect to them: the contractions can be initiated both consciously or unconsciously.
 
-A neuromuscular junction is a chemical synapse formed by the contact between a motor neuron and a muscle fiber. It is the site in which a motor neuron transmits a signal to a muscle fiber to initiate muscle contraction. The sequence of events that results in the depolarization of the muscle fiber at the neuromuscular junction begins when an action potential is initiated in the cell body of a motor neuron, which is then propagated by saltatory conduction along its axon toward the neuromuscular junction. Once it reaches the terminal bouton, the action potential causes a Ca2+
- ion influx into the terminal by way of the voltage-gated calcium channels. The Ca2+
- influx causes synaptic vesicles containing the neurotransmitter acetylcholine to fuse with the plasma membrane, releasing acetylcholine into the synaptic cleft between the motor neuron terminal and the neuromuscular junction of the skeletal muscle fiber. Acetylcholine diffuses across the synapse and binds to and activates nicotinic acetylcholine receptors on the neuromuscular junction. Activation of the nicotinic receptor opens its intrinsic sodium/potassium channel, causing sodium to rush in and potassium to trickle out. As a result, the sarcolemma reverses polarity and its voltage quickly jumps from the resting membrane potential of -90mV to as high as +75mV as sodium enters. The membrane potential then becomes hyperpolarized when potassium exits and is then adjusted back to the resting membrane potential. This rapid fluctuation is called the end-plate potential The voltage-gated ion channels of the sarcolemma next to the end plate open in response to the end plate potential. These voltage-gated channels are sodium and potassium specific and only allow one through. This wave of ion movements creates the action potential that spreads from the motor end plate in all directions. If action potentials stop arriving, then acetylcholine ceases to be released from the terminal bouton. The remaining acetylcholine in the synaptic cleft is either degraded by active acetylcholine esterase or reabsorbed by the synaptic knob and none is left to replace the degraded acetylcholine.
+A neuromuscular junction is a chemical synapse formed by the contact between a motor neuron and a muscle fiber. It is the site in which a motor neuron transmits a signal to a muscle fiber to initiate muscle contraction.
+
+(ref:neuromusc) [Structure of neuromuscular junction.](https://upload.wikimedia.org/wikipedia/commons/5/57/1009_Motor_End_Plate_and_Innervation.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/1009_Motor_End_Plate_and_Innervation.jpg" alt="(ref:neuromusc)" width="70%" />
+<p class="caption">(\#fig:neuromuscularjunction)(ref:neuromusc)</p>
+</div>
+
+The sequence of events that results in the depolarization of the muscle fiber at the neuromuscular junction begins when an action potential is initiated in the cell body of a motor neuron, which is then propagated by saltatory conduction along its axon toward the neuromuscular junction. Once it reaches the terminal bouton, the action potential causes a Ca^2+^ ion influx into the terminal by way of the voltage-gated calcium channels. The Ca^2+^ influx causes synaptic vesicles containing the neurotransmitter acetylcholine to fuse with the plasma membrane, releasing acetylcholine into the synaptic cleft between the motor neuron terminal and the neuromuscular junction of the skeletal muscle fiber. Acetylcholine diffuses across the synapse and binds to and activates nicotinic acetylcholine receptors on the neuromuscular junction. Activation of the nicotinic receptor opens its intrinsic sodium/potassium channel, causing sodium to rush in and potassium to trickle out. As a result, the sarcolemma reverses polarity and its voltage quickly jumps from the resting membrane potential of -90mV to as high as +75mV as sodium enters. The membrane potential then becomes hyperpolarized when potassium exits and is then adjusted back to the resting membrane potential. This rapid fluctuation is called the end-plate potential The voltage-gated ion channels of the sarcolemma next to the end plate open in response to the end plate potential. These voltage-gated channels are sodium and potassium specific and only allow one through. This wave of ion movements creates the action potential that spreads from the motor end plate in all directions. If action potentials stop arriving, then acetylcholine ceases to be released from the terminal bouton. The remaining acetylcholine in the synaptic cleft is either degraded by active acetylcholine esterase or reabsorbed by the synaptic knob and none is left to replace the degraded acetylcholine.
 
 ## Excitation-contraction Coupling
 
-Excitation–contraction coupling is the process by which a muscular action potential in the muscle fiber causes the myofibrils to contract. In skeletal muscle, excitation–contraction coupling relies on a direct coupling between key proteins, the sarcoplasmic reticulum (SR) calcium release channel (identified as the ryanodine receptor, RyR) and voltage-gated L-type calcium channels (identified as dihydropyridine receptors, DHPRs). DHPRs are located on the sarcolemma (which includes the surface sarcolemma and the transverse tubules), while the RyRs reside across the SR membrane. The close apposition of a transverse tubule and two SR regions containing RyRs is described as a triad and is predominantly where excitation–contraction coupling takes place. Excitation–contraction coupling occurs when depolarization of skeletal muscle cell results in a muscle action potential, which spreads across the cell surface and into the muscle fiber's network of T-tubules, thereby depolarizing the inner portion of the muscle fiber. Depolarization of the inner portions activates dihydropyridine receptors in the terminal cisternae, which are in close proximity to ryanodine receptors in the adjacent sarcoplasmic reticulum. The activated dihydropyridine receptors physically interact with ryanodine receptors to activate them via foot processes (involving conformational changes that allosterically activates the ryanodine receptors). As the ryanodine receptors open, Ca2+
- is released from the sarcoplasmic reticulum into the local junctional space, which then diffuses into the bulk cytoplasm to cause a calcium spark. Note that the sarcoplasmic reticulum has a large calcium buffering capacity partially due to a calcium-binding protein called calsequestrin. The near synchronous activation of thousands of calcium sparks by the action potential causes a cell-wide increase in calcium giving rise to the upstroke of the calcium transient. The Ca2+
- released into the cytosol binds to Troponin C by the actin filaments, to allow crossbridge cycling, producing force and, in some situations, motion. The sarco/endoplasmic reticulum calcium-ATPase (SERCA) actively pumps Ca2+
- back into the sarcoplasmic reticulum. As Ca2+
- declines back to resting levels, the force declines and relaxation occurs.
+Excitation–contraction coupling is the process by which a muscular action potential in the muscle fiber causes the myofibrils to contract. In skeletal muscle, excitation–contraction coupling relies on a direct coupling between key proteins, the sarcoplasmic reticulum (SR) calcium release channel (identified as the ryanodine receptor, RyR) and voltage-gated L-type calcium channels (identified as dihydropyridine receptors, DHPRs). DHPRs are located on the sarcolemma (which includes the surface sarcolemma and the transverse tubules), while the RyRs reside across the SR membrane. The close apposition of a transverse tubule and two SR regions containing RyRs is described as a triad and is predominantly where excitation–contraction coupling takes place. Excitation–contraction coupling occurs when depolarization of skeletal muscle cell results in a muscle action potential, which spreads across the cell surface and into the muscle fiber's network of T-tubules, thereby depolarizing the inner portion of the muscle fiber. Depolarization of the inner portions activates dihydropyridine receptors in the terminal cisternae, which are in close proximity to ryanodine receptors in the adjacent sarcoplasmic reticulum. The activated dihydropyridine receptors physically interact with ryanodine receptors to activate them via foot processes (involving conformational changes that allosterically activates the ryanodine receptors). As the ryanodine receptors open, Ca^2+^ is released from the sarcoplasmic reticulum into the local junctional space, which then diffuses into the bulk cytoplasm to cause a calcium spark. Note that the sarcoplasmic reticulum has a large calcium buffering capacity partially due to a calcium-binding protein called calsequestrin. The near synchronous activation of thousands of calcium sparks by the action potential causes a cell-wide increase in calcium giving rise to the upstroke of the calcium transient. The Ca^2+^ released into the cytosol binds to Troponin C by the actin filaments, to allow crossbridge cycling, producing force and, in some situations, motion. The sarco/endoplasmic reticulum calcium-ATPase (SERCA) actively pumps Ca^2+^ back into the sarcoplasmic reticulum. As Ca^2+^ declines back to resting levels, the force declines and relaxation occurs.
 
 ## The Sliding Filament Theory
 
@@ -199,18 +305,17 @@ The sliding filament theory describes a process used by muscles to contract. It 
 
 ## Crossbridge Cycling
 
-Crossbridge cycling is a sequence of molecular events that underlies the sliding filament theory. A crossbridge is a myosin projection, consisting of two myosin heads, that extends from the thick filaments. Each myosin head has two binding sites: one for ATP and another for actin. The binding of ATP to a myosin head detaches myosin from actin, thereby allowing myosin to bind to another actin molecule. Once attached, the ATP is hydrolyzed by myosin, which uses the released energy to move into the "cocked position" whereby it binds weakly to a part of the actin binding site. The remainder of the actin binding site is blocked by tropomyosin. With the ATP hydrolyzed, the cocked myosin head now contains ADP + Pi. Two Ca2+
- ions bind to troponin C on the actin filaments. The troponin-Ca2+
- complex causes tropomyosin to slide over and unblock the remainder of the actin binding site. Unblocking the rest of the actin binding sites allows the two myosin heads to close and myosin to bind strongly to actin. The myosin head then releases the inorganic phosphate and initiates a power stroke, which generates a force of 2 pN. The power stroke moves the actin filament inwards, thereby shortening the sarcomere. Myosin then releases ADP but still remains tightly bound to actin. At the end of the power stroke, ADP is released from the myosin head, leaving myosin attached to actin in a rigor state until another ATP binds to myosin. A lack of ATP would result in the rigor state characteristic of rigor mortis. Once another ATP binds to myosin, the myosin head will again detach from actin and another crossbridges cycle occurs.
+Crossbridge cycling is a sequence of molecular events that underlies the sliding filament theory. A crossbridge is a myosin projection, consisting of two myosin heads, that extends from the thick filaments. Each myosin head has two binding sites: one for ATP and another for actin. The binding of ATP to a myosin head detaches myosin from actin, thereby allowing myosin to bind to another actin molecule. Once attached, the ATP is hydrolyzed by myosin, which uses the released energy to move into the "cocked position" whereby it binds weakly to a part of the actin binding site. The remainder of the actin binding site is blocked by tropomyosin. With the ATP hydrolyzed, the cocked myosin head now contains ADP + Pi. Two Ca^2+^
+ ions bind to troponin C on the actin filaments. The troponin-Ca^2+^ complex causes tropomyosin to slide over and unblock the remainder of the actin binding site. Unblocking the rest of the actin binding sites allows the two myosin heads to close and myosin to bind strongly to actin. The myosin head then releases the inorganic phosphate and initiates a power stroke, which generates a force of 2 pN. The power stroke moves the actin filament inwards, thereby shortening the sarcomere. Myosin then releases ADP but still remains tightly bound to actin. At the end of the power stroke, ADP is released from the myosin head, leaving myosin attached to actin in a rigor state until another ATP binds to myosin. A lack of ATP would result in the rigor state characteristic of rigor mortis. Once another ATP binds to myosin, the myosin head will again detach from actin and another crossbridges cycle occurs.
 
-Crossbridge cycling is able to continue as long as there are sufficient amounts of ATP and Ca2+
- in the cytoplasm. Termination of crossbridge cycling can occur when Ca2+
- is actively pumped back into the sarcoplasmic reticulum. When Ca2+
- is no longer present on the thin filament, the tropomyosin changes conformation back to its previous state so as to block the binding sites again. The myosin ceases binding to the thin filament, and the muscle relaxes. The Ca2+
- ions leave the troponin molecule in order to maintain the Ca2+
- ion concentration in the sarcoplasm. The active pumping of Ca2+
- ions into the sarcoplasmic reticulum creates a deficiency in the fluid around the myofibrils. This causes the removal of Ca2+
- ions from the troponin. Thus, the tropomyosin-troponin complex again covers the binding sites on the actin filaments and contraction ceases.
+(ref:crossbri) [Crossbridge cycling.](https://upload.wikimedia.org/wikipedia/commons/2/24/1008_Skeletal_Muscle_Contraction.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/1008_Skeletal_Muscle_Contraction.jpg" alt="(ref:crossbri)" width="70%" />
+<p class="caption">(\#fig:crossbridge)(ref:crossbri)</p>
+</div>
+
+Crossbridge cycling is able to continue as long as there are sufficient amounts of ATP and Ca^2+^ in the cytoplasm. Termination of crossbridge cycling can occur when Ca^2+^ is actively pumped back into the sarcoplasmic reticulum. When Ca^2+^ is no longer present on the thin filament, the tropomyosin changes conformation back to its previous state so as to block the binding sites again. The myosin ceases binding to the thin filament, and the muscle relaxes. The Ca^2+^ ions leave the troponin molecule in order to maintain the Ca^2+^ ion concentration in the sarcoplasm. The active pumping of Ca^2+^ ions into the sarcoplasmic reticulum creates a deficiency in the fluid around the myofibrils. This causes the removal of Ca^2+^ ions from the troponin. Thus, the tropomyosin-troponin complex again covers the binding sites on the actin filaments and contraction ceases.
 
 The strength of skeletal muscle contractions can be broadly separated into twitch, summation, and tetanus. A twitch is a single contraction and relaxation cycle produced by an action potential within the muscle fiber itself. The time between a stimulus to the motor nerve and the subsequent contraction of the innervated muscle is called the latent period, which usually takes about 10 ms and is caused by the time taken for nerve action potential to propagate, the time for chemical transmission at the neuromuscular junction, then the subsequent steps in excitation-contraction coupling.
 
@@ -228,22 +333,11 @@ Smooth muscles can be divided into two subgroups: single-unit (unitary) and mult
 
 Unlike single-unit smooth muscle cells, multi-unit smooth muscle cells are found in the muscle of the eye and in the base of hair follicles. Multi-unit smooth muscle cells contract by being separately stimulated by nerves of the autonomic nervous system. As such, they allow for fine control and gradual responses, much like motor unit recruitment in skeletal muscle.
 
-The contractile activity of smooth muscle cells is influenced by multiple inputs such as spontaneous electrical activity, neural and hormonal inputs, local changes in chemical composition, and stretch. This is in contrast to the contractile activity of skeletal muscle cells, which relies on a single neural input. Some types of smooth muscle cells are able to generate their own action potentials spontaneously, which usually occur following a pacemaker potential or a slow wave potential. These action potentials are generated by the influx of extracellular Ca2+
-, and not Na+
-. Like skeletal muscles, cytosolic Ca2+
- ions are also required for crossbridge cycling in smooth muscle cells.
+The contractile activity of smooth muscle cells is influenced by multiple inputs such as spontaneous electrical activity, neural and hormonal inputs, local changes in chemical composition, and stretch. This is in contrast to the contractile activity of skeletal muscle cells, which relies on a single neural input. Some types of smooth muscle cells are able to generate their own action potentials spontaneously, which usually occur following a pacemaker potential or a slow wave potential. These action potentials are generated by the influx of extracellular Ca^2+^ , and not Na^+^. Like skeletal muscles, cytosolic Ca^2+^ ions are also required for crossbridge cycling in smooth muscle cells.
 
-The two sources for cytosolic Ca2+
- in smooth muscle cells are the extracellular Ca2+
- entering through calcium channels and the Ca2+
- ions that are released from the sarcoplasmic reticulum. The elevation of cytosolic Ca2+
- results in more Ca2+
- binding to calmodulin, which then binds and activates myosin light-chain kinase. The calcium-calmodulin-myosin light-chain kinase complex phosphorylates myosin on the 20 kilodalton (kDa) myosin light chains on amino acid residue-serine 19, initiating contraction and activating the myosin ATPase. Unlike skeletal muscle cells, smooth muscle cells lack troponin, even though they contain the thin filament protein tropomyosin and other notable proteins – caldesmon and calponin. Thus, smooth muscle contractions are initiated by the Ca2+
--activated phosphorylation of myosin rather than Ca2+
- binding to the troponin complex that regulates myosin binding sites on actin like in skeletal and cardiac muscles.
+The two sources for cytosolic Ca^2+^ in smooth muscle cells are the extracellular Ca^2+^ entering through calcium channels and the Ca^2+^ ions that are released from the sarcoplasmic reticulum. The elevation of cytosolic Ca^2+^ results in more Ca^2+^ binding to calmodulin, which then binds and activates myosin light-chain kinase. The calcium-calmodulin-myosin light-chain kinase complex phosphorylates myosin on the 20 kilodalton (kDa) myosin light chains on amino acid residue-serine 19, initiating contraction and activating the myosin ATPase. Unlike skeletal muscle cells, smooth muscle cells lack troponin, even though they contain the thin filament protein tropomyosin and other notable proteins – caldesmon and calponin. Thus, smooth muscle contractions are initiated by the Ca^2+^ -activated phosphorylation of myosin rather than Ca^2+^ binding to the troponin complex that regulates myosin binding sites on actin like in skeletal and cardiac muscles.
 
-Termination of crossbridge cycling (and leaving the muscle in latch-state) occurs when myosin light chain phosphatase removes the phosphate groups from the myosin heads. Phosphorylation of the 20 kDa myosin light chains correlates well with the shortening velocity of smooth muscle. During this period, there is a rapid burst of energy utilization as measured by oxygen consumption. Within a few minutes of initiation, the calcium level markedly decreases, the 20 kDa myosin light chains' phosphorylation decreases, and energy utilization decreases; however, force in tonic smooth muscle is maintained. During contraction of muscle, rapidly cycling crossbridges form between activated actin and phosphorylated myosin, generating force. It is hypothesized that the maintenance of force results from dephosphorylated "latch-bridges" that slowly cycle and maintain force. A number of kinases such as rho kinase, ZIP kinase, and protein kinase C are believed to participate in the sustained phase of contraction, and Ca2+
- flux may be significant.
+Termination of crossbridge cycling (and leaving the muscle in latch-state) occurs when myosin light chain phosphatase removes the phosphate groups from the myosin heads. Phosphorylation of the 20 kDa myosin light chains correlates well with the shortening velocity of smooth muscle. During this period, there is a rapid burst of energy utilization as measured by oxygen consumption. Within a few minutes of initiation, the calcium level markedly decreases, the 20 kDa myosin light chains' phosphorylation decreases, and energy utilization decreases; however, force in tonic smooth muscle is maintained. During contraction of muscle, rapidly cycling crossbridges form between activated actin and phosphorylated myosin, generating force. It is hypothesized that the maintenance of force results from dephosphorylated "latch-bridges" that slowly cycle and maintain force. A number of kinases such as rho kinase, ZIP kinase, and protein kinase C are believed to participate in the sustained phase of contraction, and Ca^2+^ flux may be significant.
 
 Although smooth muscle contractions are myogenic, the rate and strength of their contractions can be modulated by the autonomic nervous system. Postganglionic nerve fibers of parasympathetic nervous system release the neurotransmitter acetylcholine, which binds to muscarinic acetylcholine receptors (mAChRs) on smooth muscle cells. These receptors are metabotropic, or G-protein coupled receptors that initiate a second messenger cascade. Conversely, postganglionic nerve fibers of the sympathetic nervous system release the neurotransmitters epinephrine and norepinephrine, which bind to adrenergic receptors that are also metabotropic. The exact effects on the smooth muscle depend on the specific characteristics of the receptor activated—both parasympathetic input and sympathetic input can be either excitatory (contractile) or inhibitory (relaxing).
 
@@ -251,25 +345,11 @@ Although smooth muscle contractions are myogenic, the rate and strength of their
 
 There are two types of cardiac muscle cells: autorhythmic and contractile. Autorhythmic cells do not contract, but instead set the pace of contraction for other cardiac muscle cells, which can be modulated by the autonomic nervous system. In contrast, contractile muscle cells (cardiomyocytes) constitute the majority of the heart muscle and are able to contract.
 
-Unlike skeletal muscle, excitation–contraction coupling in cardiac muscle is thought to depend primarily on a mechanism called calcium-induced calcium release. Though the proteins involved are similar, the L-type calcium channels and ryanodine receptors (RyRs) are not physically coupled. Instead, RyRs are activated by a calcium trigger, which is brought about by the flow of Ca2+
-through the L-type calcium channels. Furthermore, cardiac muscle tend to exhibit diad (or dyad) structures, rather than triads.
+Unlike skeletal muscle, excitation–contraction coupling in cardiac muscle is thought to depend primarily on a mechanism called calcium-induced calcium release. Though the proteins involved are similar, the L-type calcium channels and ryanodine receptors (RyRs) are not physically coupled. Instead, RyRs are activated by a calcium trigger, which is brought about by the flow of Ca^2+^ through the L-type calcium channels. Furthermore, cardiac muscle tend to exhibit diad (or dyad) structures, rather than triads.
 
-Excitation-contraction coupling in cardiac muscle cells occurs when an action potential is initiated by pacemaker cells in the sinoatrial node or Atrioventricular node and conducted to all cells in the heart via gap junctions. The action potential travels along the surface membrane into T-tubules (the latter are not seen in all cardiac cell types) and the depolarisation causes extracellular Ca2+
- to enter the cell via L-type calcium channels and possibly sodium-calcium exchanger (NCX) during the early part of the plateau phase. This Ca2+
- influx causes a small local increase in intracellular Ca2+
-. The increase in Ca2+
- is detected by ryanodine receptors in the membrane of the sarcoplasmic reticulum, which releases Ca2+
- in a positive feedback physiological response. This positive feedback is known as calcium-induced calcium release and gives rise to calcium sparks (Ca2+
- sparks). The spatial and temporal summation of ~30,000 Ca2+
- sparks gives a cell-wide increase in cytoplasmic calcium concentration. The increase in cytosolic calcium following the flow of calcium through the cell membrane and sarcoplasmic reticulum is moderated by calcium buffers, which bind a large proportion of intracellular calcium. As a result, a large increase in total calcium leads to a relatively small rise in free Ca2+
-.
+Excitation-contraction coupling in cardiac muscle cells occurs when an action potential is initiated by pacemaker cells in the sinoatrial node or Atrioventricular node and conducted to all cells in the heart via gap junctions. The action potential travels along the surface membrane into T-tubules (the latter are not seen in all cardiac cell types) and the depolarisation causes extracellular Ca^2+^ to enter the cell via L-type calcium channels and possibly sodium-calcium exchanger (NCX) during the early part of the plateau phase. This Ca^2+^ influx causes a small local increase in intracellular Ca^2+^ . The increase in Ca^2+^ is detected by ryanodine receptors in the membrane of the sarcoplasmic reticulum, which releases Ca^2+^ in a positive feedback physiological response. This positive feedback is known as calcium-induced calcium release and gives rise to calcium sparks (Ca^2+^ sparks). The spatial and temporal summation of ~30,000 Ca^2+^ sparks gives a cell-wide increase in cytoplasmic calcium concentration. The increase in cytosolic calcium following the flow of calcium through the cell membrane and sarcoplasmic reticulum is moderated by calcium buffers, which bind a large proportion of intracellular calcium. As a result, a large increase in total calcium leads to a relatively small rise in free Ca^2+^ .
 
-Following systole, intracellular calcium is taken up by the sarco/endoplasmic reticulum ATPase (SERCA) pump back into the sarcoplasmic reticulum ready for the next cycle to begin. Calcium is also ejected from the cell mainly by the sodium-calcium exchanger (NCX) and, to a lesser extent, a plasma membrane calcium ATPase. Some calcium is also taken up by the mitochondria. An enzyme, phospholamban, serves as a brake for SERCA. At low heart rates, phospholamban is active and slows down the activity of the ATPase so that Ca2+
- does not have to leave the cell entirely. At high heart rates, phospholamban is phosphorylated and deactivated thus taking most Ca2+
- from the cytoplasm back into the sarcoplasmic reticulum. Once again, calcium buffers moderate this fall in Ca2+
-concentration, permitting a relatively small decrease in free Ca2+
-concentration in response to a large change in total calcium. The falling Ca2+
-concentration allows the troponin complex to dissociate from the actin filament thereby ending contraction. The heart relaxes, allowing the ventricles to fill with blood and begin the cardiac cycle again.
+Following systole, intracellular calcium is taken up by the sarco/endoplasmic reticulum ATPase (SERCA) pump back into the sarcoplasmic reticulum ready for the next cycle to begin. Calcium is also ejected from the cell mainly by the sodium-calcium exchanger (NCX) and, to a lesser extent, a plasma membrane calcium ATPase. Some calcium is also taken up by the mitochondria. An enzyme, phospholamban, serves as a brake for SERCA. At low heart rates, phospholamban is active and slows down the activity of the ATPase so that Ca^2+^ does not have to leave the cell entirely. At high heart rates, phospholamban is phosphorylated and deactivated thus taking most Ca^2+^from the cytoplasm back into the sarcoplasmic reticulum. Once again, calcium buffers moderate this fall in Ca^2+^ concentration, permitting a relatively small decrease in free Ca^2+^ concentration in response to a large change in total calcium. The falling Ca^2+^ concentration allows the troponin complex to dissociate from the actin filament thereby ending contraction. The heart relaxes, allowing the ventricles to fill with blood and begin the cardiac cycle again.
 
 ## The Muscular Systems of Invertebrates
 
@@ -315,7 +395,21 @@ A tendon is a tough, flexible band of fibrous connective tissue that connects mu
 
 Joints are structures that connect individual bones and may allow bones to move against each other to cause movement. There are three divisions of joints, diarthroses which allow extensive mobility between two or more articular heads; amphiarthrosis, which is a joint that allows some movement, and false joints or synarthroses, joints that are immovable, that allow little or no movement and are predominantly fibrous. Synovial joints, joints that are not directly joined, are lubricated by a solution called synovial fluid that is produced by the synovial membranes. This fluid lowers the friction between the articular surfaces and is kept within an articular capsule, binding the joint with its taut tissue.
 
+(ref:synjoint) [A synovial joint.](https://commons.wikimedia.org/wiki/File:Joint.svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/Joint.svg" alt="(ref:synjoint)" width="70%" />
+<p class="caption">(\#fig:synovialjoint)(ref:synjoint)</p>
+</div>
+
 A ligament is a small band of dense, white, fibrous elastic tissue. Ligaments connect the ends of bones together in order to form a joint. Most ligaments limit dislocation, or prevent certain movements that may cause breaks. Since they are only elastic they increasingly lengthen when under pressure. When this occurs the ligament may be susceptible to break resulting in an unstable joint.
+
+(ref:kneelig) [Diagram of the right knee. Anterior cruciate ligament labeled at center left.](https://commons.wikimedia.org/wiki/File:Knee_diagram.svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/locomotion/Knee_diagram.svg" alt="(ref:kneelig)" width="70%" />
+<p class="caption">(\#fig:kneeligaments)(ref:kneelig)</p>
+</div>
 
 Ligaments may also restrict some actions: movements such as hyper extension and hyper flexion are restricted by ligaments to an extent. Also ligaments prevent certain directional movement.
 

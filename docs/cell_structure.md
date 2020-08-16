@@ -32,36 +32,24 @@ The discovery of the cell was made possible through the invention of the microsc
 
 (ref:micrographia) [Title page](https://commons.wikimedia.org/wiki/File:Micrographia_title_page.gif) of "MICROGRAPHIA or some physiological descriptions of minute bodies made by magnifying glasses with observations and inquiries thereupon".
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Micrographia_title_page} 
-
-}
-
-\caption{(ref:micrographia)}(\#fig:hookemicrographia)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Micrographia_title_page.gif" alt="(ref:micrographia)" width="70%" />
+<p class="caption">(\#fig:hookemicrographia)(ref:micrographia)</p>
+</div>
 
 (ref:microscope) [Hooke's microscope, from an engraving in Micrographia](https://commons.wikimedia.org/wiki/File:Hooke-microscope.png)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Hooke-microscope} 
-
-}
-
-\caption{(ref:microscope)}(\#fig:hookescope)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Hooke-microscope.png" alt="(ref:microscope)" width="70%" />
+<p class="caption">(\#fig:hookescope)(ref:microscope)</p>
+</div>
 
 (ref:cork) Hooke was the first to apply the word "cell"to biological objects. [Cell structure of cork by Hooke](https://commons.wikimedia.org/wiki/File:RobertHookeMicrographia1665.jpg). 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/RobertHookeMicrographia1665} 
-
-}
-
-\caption{(ref:cork)}(\#fig:hookecork)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/RobertHookeMicrographia1665.jpg" alt="(ref:cork)" width="70%" />
+<p class="caption">(\#fig:hookecork)(ref:cork)</p>
+</div>
 
 Extensive microscopic study was done by Anton van Leeuwenhoek, a draper who took the interest in microscopes after seeing one while on an apprenticeship in Amsterdam in 1648. At some point in his life before 1668, he was able to learn how to grind lenses. This eventually led to Leeuwenhoek making his own unique microscope. His was a single lens simple microscope, rather than a compound microscope. This was because he was able to use a single lens that was a small glass sphere but allowed for a magnification of 270x. This was a large progression since the magnification before was only a maximum of 50x. After Leeuwenhoek, there was not much progress in microscope technology until the 1850s, two hundred years later. Carl Zeiss, a German engineer who manufactured microscopes, began to make changes to the lenses used. But the optical quality did not improve until the 1880s when he hired Otto Schott and eventually Ernst Abbe.
 
@@ -92,14 +80,10 @@ Prokaryotes lack mitochondria, or any other eukaryotic membrane-bound organelles
 
 (ref:prokcell) [Structure of a typical prokaryotic cell](https://commons.wikimedia.org/wiki/File:Prokaryote_cell.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Prokaryote_cell} 
-
-}
-
-\caption{(ref:prokcell)}(\#fig:typicalprokcell)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Prokaryote_cell.svg" alt="(ref:prokcell)" width="70%" />
+<p class="caption">(\#fig:typicalprokcell)(ref:prokcell)</p>
+</div>
 
 Molecular studies have provided insight into the evolution and interrelationships of the three domains of life. The division between prokaryotes and eukaryotes reflects the existence of two very different levels of cellular organization; only eukaryotic cells have a enveloped nucleus that contains its chromosomal DNA, and other characteristic membrane-bound organelles including mitochondria. Distinctive types of prokaryotes include extremophiles and methanogens; these are common in some extreme environments.
 
@@ -119,25 +103,17 @@ Eukaryotic cells typically contain membrane-bound organelles such as mitochondri
 
 (ref:animalcell) [Cartoon of the structure of a typical animal cell](https://commons.wikimedia.org/wiki/File:Animal_cell_structure_en.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Animal_cell_structure_en} 
-
-}
-
-\caption{(ref:animalcell)}(\#fig:typicalanimalcell)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Animal_cell_structure_en.svg" alt="(ref:animalcell)" width="70%" />
+<p class="caption">(\#fig:typicalanimalcell)(ref:animalcell)</p>
+</div>
 
 (ref:plantcell) [Cartoon of the structure of a typical plant cell](https://commons.wikimedia.org/wiki/File:Plant_cell_structure_en.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Plant_cell_structure-en} 
-
-}
-
-\caption{(ref:plantcell)}(\#fig:typicalplantcell)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Plant_cell_structure-en.svg" alt="(ref:plantcell)" width="70%" />
+<p class="caption">(\#fig:typicalplantcell)(ref:plantcell)</p>
+</div>
 
 Eukaryotes can reproduce both asexually through mitosis and sexually through meiosis and gamete fusion. In mitosis, one cell divides to produce two genetically identical cells. In meiosis, DNA replication is followed by two rounds of cell division to produce four haploid daughter cells. These act as sex cells (gametes). Each gamete has just one set of chromosomes, each a unique mix of the corresponding pair of parental chromosomes resulting from genetic recombination during meiosis.
 
@@ -147,31 +123,87 @@ Plants, animals, fungi, and protists are all eukaryotic. These cells are about f
 * Many eukaryotic cells are ciliated with primary cilia. Primary cilia play important roles in chemosensation, mechanosensation, and thermosensation. Each cilium may thus be "viewed as a sensory cellular antennae that coordinates a large number of cellular signaling pathways, sometimes coupling the signaling to ciliary motility or alternatively to cell division and differentiation."
 * Motile eukaryotes can move using motile cilia or flagella. Motile cells are absent in conifers and flowering plants. Eukaryotic flagella are more complex than those of prokaryotes.
 
-\begin{table}[!h]
-\centering
-\begin{tabular}{lll}
-\toprule
- & Prokaryotes & Eukaryotes\\
-\midrule
-\rowcolor{gray!6}  Typical organisms & bacteria, archaea & protists; fungi; plants; animals\\
-Typical size & \textasciitilde{}1–5 µm & \textasciitilde{}10–100 µm\\
-\rowcolor{gray!6}  Type of nucleus & nucleoid region; no true nucleus & true nucleus with double membrane\\
-DNA & circular (usually) & linear molecules (chromosomes) with histone proteins\\
-\rowcolor{gray!6}  RNA/protein synthesis & coupled in the cytoplasm & RNA synthesis in the nucleus; protein synthesis in the cytoplasm\\
-\addlinespace
-Ribosomes & 50S and 30S & 60S and 40S\\
-\rowcolor{gray!6}  Cytoplasmic structure & very few structures & highly structured by endomembranes and a cytoskeleton\\
-Cell movement & flagella made of flagellin & flagella and cilia containing microtubules; lamellipodia and filopodia containing actin\\
-\rowcolor{gray!6}  Mitochondria & none & one to several thousand\\
-Chloroplasts & none & in algae and plants\\
-\addlinespace
-\rowcolor{gray!6}  Organization & usually single cells & single cells, colonies, higher multicellular organisms with specialized cells\\
-Cell division & binary fission (simple division) & mitosis (fission or budding);  meiosis\\
-\rowcolor{gray!6}  Chromosomes & single chromosome & more than one chromosome\\
-Membranes & cell membrane & Cell membrane and membrane-bound organelles\\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> Prokaryotes </th>
+   <th style="text-align:left;"> Eukaryotes </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Typical organisms </td>
+   <td style="text-align:left;"> bacteria, archaea </td>
+   <td style="text-align:left;"> protists; fungi; plants; animals </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Typical size </td>
+   <td style="text-align:left;"> ~1–5 µm </td>
+   <td style="text-align:left;"> ~10–100 µm </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Type of nucleus </td>
+   <td style="text-align:left;"> nucleoid region; no true nucleus </td>
+   <td style="text-align:left;"> true nucleus with double membrane </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> DNA </td>
+   <td style="text-align:left;"> circular (usually) </td>
+   <td style="text-align:left;"> linear molecules (chromosomes) with histone proteins </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> RNA/protein synthesis </td>
+   <td style="text-align:left;"> coupled in the cytoplasm </td>
+   <td style="text-align:left;"> RNA synthesis in the nucleus; protein synthesis in the cytoplasm </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Ribosomes </td>
+   <td style="text-align:left;"> 50S and 30S </td>
+   <td style="text-align:left;"> 60S and 40S </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cytoplasmic structure </td>
+   <td style="text-align:left;"> very few structures </td>
+   <td style="text-align:left;"> highly structured by endomembranes and a cytoskeleton </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cell movement </td>
+   <td style="text-align:left;"> flagella made of flagellin </td>
+   <td style="text-align:left;"> flagella and cilia containing microtubules; lamellipodia and filopodia containing actin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Mitochondria </td>
+   <td style="text-align:left;"> none </td>
+   <td style="text-align:left;"> one to several thousand </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Chloroplasts </td>
+   <td style="text-align:left;"> none </td>
+   <td style="text-align:left;"> in algae and plants </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Organization </td>
+   <td style="text-align:left;"> usually single cells </td>
+   <td style="text-align:left;"> single cells, colonies, higher multicellular organisms with specialized cells </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cell division </td>
+   <td style="text-align:left;"> binary fission (simple division) </td>
+   <td style="text-align:left;"> mitosis (fission or budding);  meiosis </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Chromosomes </td>
+   <td style="text-align:left;"> single chromosome </td>
+   <td style="text-align:left;"> more than one chromosome </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Membranes </td>
+   <td style="text-align:left;"> cell membrane </td>
+   <td style="text-align:left;"> Cell membrane and membrane-bound organelles </td>
+  </tr>
+</tbody>
+</table>
 
 All cells, whether prokaryotic or eukaryotic, have a membrane that envelops the cell, regulates what moves in and out (selectively permeable), and maintains the electric potential of the cell. Inside the membrane, the cytoplasm takes up most of the cell's volume. All cells (except red blood cells which lack a cell nucleus and most organelles to accommodate maximum space for hemoglobin) possess DNA, the hereditary material of genes, and RNA, containing the information necessary to build various proteins such as enzymes, the cell's primary machinery. There are also other kinds of biomolecules in cells. This article lists these primary cellular components, then briefly describes their function.
 
@@ -182,14 +214,10 @@ The cell membrane, or plasma membrane, is a biological membrane that surrounds t
 
 (ref:membrane) [Detailed diagram of lipid bilayer cell membrane](https://commons.wikimedia.org/wiki/File:Cell_membrane_detailed_diagram_en.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Cell_membrane_detailed_diagram_en} 
-
-}
-
-\caption{(ref:membrane)}(\#fig:cellmembrane)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Cell_membrane_detailed_diagram_en.svg" alt="(ref:membrane)" width="70%" />
+<p class="caption">(\#fig:cellmembrane)(ref:membrane)</p>
+</div>
 
 ## The Cytoskeleton
 
@@ -203,53 +231,37 @@ Eukaryotic cells contain three main kinds of cytoskeletal filaments: microfilame
 
 (ref:cytoskel) [The eukaryotic cytoskeleton.](https://commons.wikimedia.org/wiki/File:FluorescentCells.jpg) Actin filaments are shown in red, and microtubules composed of beta tubulin are in green.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/FluorescentCells} 
-
-}
-
-\caption{(ref:cytoskel)}(\#fig:cytoskeleton)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/FluorescentCells.jpg" alt="(ref:cytoskel)" width="70%" />
+<p class="caption">(\#fig:cytoskeleton)(ref:cytoskel)</p>
+</div>
 
 Microfilaments, also known as actin filaments, are composed of linear polymers of G-actin proteins, and generate force when the growing (plus) end of the filament pushes against a barrier, such as the cell membrane. They also act as tracks for the movement of myosin molecules that affix to the microfilament and "walk" along them. In general, the major component or protein of microfilaments are actin. The G-actin monomer combines to form a polymer which continues to form the microfilament (actin filament). These subunits then assemble into two chains that intertwine into what are called F-actin chains. Myosin motoring along F-actin filaments generates contractile forces in so-called actomyosin fibers, both in muscle as well as most non-muscle cell types. 
 
 (ref:microfil) [Cartoon of the structure of a microfilament, which creates the structure in the cytoskeleton of an eukaryotic cell.](https://commons.wikimedia.org/wiki/File:Microfilament_Structure.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Microfilament_Structure} 
-
-}
-
-\caption{(ref:microfil)}(\#fig:microfilament)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Microfilament_Structure.svg" alt="(ref:microfil)" width="70%" />
+<p class="caption">(\#fig:microfilament)(ref:microfil)</p>
+</div>
 
 Intermediate filaments are a part of the cytoskeleton of many eukaryotic cells. These filaments, averaging 10 nanometers in diameter, are more stable (strongly bound) than microfilaments, and heterogeneous constituents of the cytoskeleton. Like actin filaments, they function in the maintenance of cell-shape by bearing tension (microtubules, by contrast, resist compression but can also bear tension during mitosis and during the positioning of the centrosome). Intermediate filaments organize the internal tridimensional structure of the cell, anchoring organelles and serving as structural components of the nuclear lamina. They also participate in some cell-cell and cell-matrix junctions. Nuclear lamina exist in all animals and all tissues. Some animals like the fruit fly do not have any cytoplasmic intermediate filaments. In those animals that express cytoplasmic intermediate filaments, these are tissue specific. Keratin intermediate filaments in epithelial cells provide protection for different mechanical stresses the skin may endure. They also provide protection for organs against metabolic, oxidative, and chemical stresses. Strengthening of epithelial cells with these intermediate filaments may prevent onset of apoptosis, or cell death, by reducing the probability of stress.
 
 (ref:intermedfil) [Cartoon of the the structure of an intermediate filament.](https://commons.wikimedia.org/wiki/File:Intermediate_filaments.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Intermediate_filaments} 
-
-}
-
-\caption{(ref:intermedfil)}(\#fig:intermedfilament)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Intermediate_filaments.svg" alt="(ref:intermedfil)" width="70%" />
+<p class="caption">(\#fig:intermedfilament)(ref:intermedfil)</p>
+</div>
 
 Microtubules are hollow cylinders about 23 nm in diameter (lumen diameter of approximately 15 nm), most commonly comprising 13 protofilaments that, in turn, are polymers of alpha and beta tubulin. They have a very dynamic behavior, binding GTP for polymerization. They are commonly organized by the centrosome.
 
 (ref:microtubule) [Cartoon of the the structure of a microtubule.](https://commons.wikimedia.org/wiki/File:Microtubule_Structure.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Microtubule_Structure} 
-
-}
-
-\caption{(ref:microtubule)}(\#fig:microtubulestruc)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Microtubule_Structure.svg" alt="(ref:microtubule)" width="70%" />
+<p class="caption">(\#fig:microtubulestruc)(ref:microtubule)</p>
+</div>
 
 In nine triplet sets (star-shaped), they form the centrioles, and in nine doublets oriented about two additional microtubules (wheel-shaped), they form cilia and flagella. The latter formation is commonly referred to as a "9+2" arrangement, wherein each doublet is connected to another by the protein dynein. As both flagella and cilia are structural components of the cell, and are maintained by microtubules, they can be considered part of the cytoskeleton. There are two types of cilia: motile and non-motile cilia. Cilia are short and more numerous than flagella. The motile cilia have a rhythmic waving or beating motion compared to the non-motile cilia which receive sensory information for the cell; processing signals from the other cells or the fluids surrounding it. Additionally, the microtubules control the beating (movement) of the cilia and flagella. Also, the dynein arms attached to the microtubules function as the molecular motors. The motion of the cilia and flagella is created by the microtubules sliding past one another, which requires ATP.
 Cytoplasmic streaming, also known as cyclosis, is the active movement of a cell’s contents along the components of the cytoskeleton. While mainly seen in plants, all cell types use this process for transportation of waste, nutrients, and organelles to other parts of the cell.  Plant and algae cells are generally larger than many other cells; so cytoplasmic streaming is important in these types of cells. This is because the cell’s extra volume requires cytoplasmic streaming in order to move organelles throughout the entire cell. Organelles move along microfilaments in the cytoskeleton driven by myosin motors binding and pushing along actin filament bundles.
@@ -284,64 +296,44 @@ In cell biology, the nucleus (pl. nuclei; from Latin nucleus or nuculeus, meanin
 
 (ref:helanuc) [HeLa cells stained for nuclear DNA with the blue fluorescent Hoechst dye.](https://commons.wikimedia.org/wiki/File:HeLa_cells_stained_with_Hoechst_33258.jpg) The central and rightmost cell are in interphase, thus their entire nuclei are labeled. On the left, a cell is going through mitosis and its DNA has condensed. HeLa is an immortal cell line used in scientific research. It is the oldest and most commonly used human cell line. The line is derived from cervical cancer cells taken on February 8, 1951, from [Henrietta Lacks](https://en.wikipedia.org/wiki/Henrietta_Lacks), a 31-year-old African-American mother of five, who died of cancer on October 4, 1951. The cell line was found to be remarkably durable and prolific, which allows it to be used extensively in scientific study. The cells from Lacks' cancerous cervical tumor were taken without her knowledge or consent, which was common practice at the time. Cell biologist George Otto Gey found that they could be kept alive, and developed a cell line. Previously, cells cultured from other human cells would only survive for a few days. Cells from Lacks' tumor behaved differently. As was custom for Gey's lab assistant, she labeled the culture 'HeLa', the first two letters of the patient's first and last name; this became the name of the cell line. HeLa was the subject of a 2010 book by Rebecca Skloot, [The Immortal Life of Henrietta Lacks](https://en.wikipedia.org/wiki/The_Immortal_Life_of_Henrietta_Lacks), investigating the historical context of the cell line and how the Lacks family was involved its use.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/HeLa_cells_stained_with_Hoechst_33258} 
-
-}
-
-\caption{(ref:helanuc)}(\#fig:helacellsstained)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/HeLa_cells_stained_with_Hoechst_33258.jpg" alt="(ref:helanuc)" width="70%" />
+<p class="caption">(\#fig:helacellsstained)(ref:helanuc)</p>
+</div>
 
 The nucleus was the first organelle to be discovered. What is most likely the oldest preserved drawing dates back to the early microscopist Antonie van Leeuwenhoek (1632–1723). He observed a "lumen", the nucleus, in the red blood cells of salmon (Figure \@ref(fig:leeuvenhookcells)). Unlike mammalian red blood cells, those of other vertebrates still contain nuclei.
 
 (ref:leeuven) [Oldest known depiction of cells and their nuclei by Antonie van Leeuwenhoek, 1719](https://commons.wikimedia.org/wiki/File:Leeuwenhoek1719RedBloodCells.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Leeuwenhoek1719RedBloodCells} 
-
-}
-
-\caption{(ref:leeuven)}(\#fig:leeuvenhookcells)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Leeuwenhoek1719RedBloodCells.jpg" alt="(ref:leeuven)" width="70%" />
+<p class="caption">(\#fig:leeuvenhookcells)(ref:leeuven)</p>
+</div>
 
 The cell nucleus contains all of the cell's genome, except for a small fraction of mitochondrial DNA, organized as multiple long linear DNA molecules in a complex with a large variety of proteins, such as histones, to form chromosomes. The genes within these chromosomes are structured in such a way to promote cell function. The nucleus maintains the integrity of genes and controls the activities of the cell by regulating gene expression—the nucleus is, therefore, the control center of the cell. The main structures making up the nucleus are the nuclear envelope, a double membrane that encloses the entire organelle and isolates its contents from the cellular cytoplasm, and the nuclear matrix (which includes the nuclear lamina), a network within the nucleus that adds mechanical support, much like the cytoskeleton, which supports the cell as a whole.
 
 (ref:electronnuc) [An electron micrograph of a cell nucleus, showing the darkly stained nucleolus](https://commons.wikimedia.org/wiki/File:Micrograph_of_a_cell_nucleus.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Micrograph_of_a_cell_nucleus} 
-
-}
-
-\caption{(ref:electronnuc)}(\#fig:electronmicronucleus)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Micrograph_of_a_cell_nucleus.png" alt="(ref:electronnuc)" width="70%" />
+<p class="caption">(\#fig:electronmicronucleus)(ref:electronnuc)</p>
+</div>
 
 (ref:cellnuc) [The eukaryotic cell nucleus.](https://commons.wikimedia.org/wiki/File:Diagram_human_cell_nucleus.svg) Visible in this diagram are the ribosome-studded double membranes of the nuclear envelope, the DNA (complexed as chromatin), and the nucleolus. Within the cell nucleus is a viscous liquid called nucleoplasm, similar to the cytoplasm found outside the nucleus.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Diagram_human_cell_nucleus} 
-
-}
-
-\caption{(ref:cellnuc)}(\#fig:cellnucleus)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Diagram_human_cell_nucleus.svg" alt="(ref:cellnuc)" width="70%" />
+<p class="caption">(\#fig:cellnucleus)(ref:cellnuc)</p>
+</div>
 
 Because the nuclear envelope is impermeable to large molecules, nuclear pores are required to regulate nuclear transport of molecules across the envelope. The pores cross both nuclear membranes, providing a channel through which larger molecules must be actively transported by carrier proteins while allowing free movement of small molecules and ions. Movement of large molecules such as proteins and RNA through the pores is required for both gene expression and the maintenance of chromosomes. Although the interior of the nucleus does not contain any membrane-bound subcompartments, its contents are not uniform, and a number of nuclear bodies exist, made up of unique proteins, RNA molecules, and particular parts of the chromosomes. The best-known of these is the nucleolus, which is mainly involved in the assembly of ribosomes. After being produced in the nucleolus, ribosomes are exported to the cytoplasm where they translate mRNA.
 
 (ref:nucpore) [A cross section of a nuclear pore on the surface of the nuclear envelope (1).](https://en.wikipedia.org/wiki/Cell_nucleus#/media/File:NuclearPore_crop.svg) Other diagram labels show (2) the outer ring, (3) spokes, (4) basket, and (5) filaments.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/NuclearPore_crop} 
-
-}
-
-\caption{(ref:nucpore)}(\#fig:nuclearpore)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/NuclearPore_crop.svg" alt="(ref:nucpore)" width="70%" />
+<p class="caption">(\#fig:nuclearpore)(ref:nucpore)</p>
+</div>
 
 The nuclear envelope, otherwise known as nuclear membrane, consists of two cellular membranes, an inner and an outer membrane, arranged parallel to one another and separated by 10 to 50 nanometres (nm). The nuclear envelope completely encloses the nucleus and separates the cell's genetic material from the surrounding cytoplasm, serving as a barrier to prevent macromolecules from diffusing freely between the nucleoplasm and the cytoplasm. The outer nuclear membrane is continuous with the membrane of the rough endoplasmic reticulum (RER), and is similarly studded with ribosomes. The space between the membranes is called the perinuclear space and is continuous with the RER lumen.
 
@@ -365,14 +357,10 @@ The [mitochondrion](https://en.wikipedia.org/wiki/Mitochondrion) (plural mitocho
 
 (ref:electromito) [Two mitochondria from mammalian lung tissue displaying their matrix and membranes as shown by electron microscopy.](https://commons.wikimedia.org/wiki/File:Mitochondria,_mammalian_lung_-_TEM.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Mitochondria_mammalian_lung_TEM} 
-
-}
-
-\caption{(ref:electromito)}(\#fig:electromitochondrion)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Mitochondria_mammalian_lung_TEM.jpg" alt="(ref:electromito)" width="70%" />
+<p class="caption">(\#fig:electromitochondrion)(ref:electromito)</p>
+</div>
 
 The word mitochondrion comes from the Greek μίτος, mitos, "thread", and χονδρίον, chondrion, "granule" or "grain-like". Mitochondria generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy. A mitochondrion is thus termed the powerhouse of the cell.
 
@@ -382,14 +370,10 @@ The organelle is composed of compartments that carry out specialized functions. 
 
 (ref:mitocart) [Cartoon of the structure of a mitochondrion.](https://commons.wikimedia.org/wiki/File:Mitochondrion_mini.svg) Components of a typical mitochondrion 1 Outer membrane 1.1 Porin 2 Intermembrane space 2.1 Intracristal space 2.2 Peripheral space 3 Lamella 3.1 Inner membrane 3.11 Inner boundary membrane 3.12 Cristal membrane 3.2 Matrix 3.3 Cristæ 4 Mitochondrial DNA 5 Matrix granule 6 Ribosome 7 ATP synthase
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Mitochondrion_mini} 
-
-}
-
-\caption{(ref:mitocart)}(\#fig:mitocartoon)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Mitochondrion_mini.svg" alt="(ref:mitocart)" width="70%" />
+<p class="caption">(\#fig:mitocartoon)(ref:mitocart)</p>
+</div>
 
 Although most of a cell's DNA is contained in the cell nucleus, the mitochondrion has its own independent genome ("mitogenome") that shows substantial similarity to bacterial genomes. Mitochondrial proteins (proteins transcribed from mitochondrial DNA) vary depending on the tissue and the species. 
 
@@ -414,14 +398,10 @@ The most prominent roles of mitochondria are to produce the energy currency of t
 
 (ref:fluocell) [A fluorescent image of an endothelial cell. Nuclei are stained blue, mitochondria are stained red, and microfilaments are stained green.](https://commons.wikimedia.org/wiki/File:DAPIMitoTrackerRedAlexaFluor488BPAE.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/DAPIMitoTrackerRedAlexaFluor488BPAE} 
-
-}
-
-\caption{(ref:fluocell)}(\#fig:dapimitotracker)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/DAPIMitoTrackerRedAlexaFluor488BPAE.jpg" alt="(ref:fluocell)" width="70%" />
+<p class="caption">(\#fig:dapimitotracker)(ref:fluocell)</p>
+</div>
 
 ## The Chloroplasts
 
@@ -431,14 +411,10 @@ A chloroplast is a type of organelle known as a plastid, characterized by its tw
 
 (ref:chlorocart) [Cartoon of the structure of a chloroplast.](https://commons.wikimedia.org/wiki/File:Chloroplast_mini.svg) Components of a typical chloroplast 1 Granum 2 Chloroplast envelope 2.1 Outer membrane 2.2 Intermembrane space 2.3 Inner membrane 3 Thylakoid   ◄ You are here 3.1 Thylakoid space (lumen) 3.2 Thylakoid membrane 4 Stromal thylakoid 5 Stroma 6 Nucleoid (DNA ring) 7 Ribosome 8 Plastoglobulus 9 Starch granule
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Chloroplast_mini} 
-
-}
-
-\caption{(ref:chlorocart)}(\#fig:chloroplastcartoon)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Chloroplast_mini.svg" alt="(ref:chlorocart)" width="70%" />
+<p class="caption">(\#fig:chloroplastcartoon)(ref:chlorocart)</p>
+</div>
 
 Chloroplasts are highly dynamic—they circulate and are moved around within plant cells, and occasionally pinch in two to reproduce. Their behavior is strongly influenced by environmental factors like light color and intensity. Chloroplasts, like mitochondria, contain their own DNA, which is thought to be inherited from their ancestor—a photosynthetic cyanobacterium that was engulfed by an early eukaryotic cell. Chloroplasts cannot be made by the plant cell and must be inherited by each daughter cell during cell division.
 
@@ -502,14 +478,10 @@ The Golgi apparatus is a major collection and dispatch station of protein produc
 
 (ref:endomembrane) [Diagram of the endomembrane system](https://commons.wikimedia.org/wiki/File:Endomembrane_system_diagram_en.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cells/Endomembrane_system_diagram_en} 
-
-}
-
-\caption{(ref:endomembrane)}(\#fig:endomembranediagram)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/cells/Endomembrane_system_diagram_en.svg" alt="(ref:endomembrane)" width="70%" />
+<p class="caption">(\#fig:endomembranediagram)(ref:endomembrane)</p>
+</div>
 
 ## The Ribosomes
 
@@ -517,14 +489,10 @@ The Golgi apparatus is a major collection and dispatch station of protein produc
 
 (ref:ribosome) Crystal structure of the human 80S ribosome (based on atomic coordinates of [PDB 4V6X](https://www.rcsb.org/structure/4v6x) rendered with open source molecular visualization tool PyMol). The 40S (small) ribosomal subunit proteins are shown in lightblue, the 60S (large) subunit proteins in palegreen, the ribosomal RNA in orange.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/translation/human_ribosome} 
-
-}
-
-\caption{(ref:ribo)}(\#fig:ribosomestructure)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/translation/human_ribosome.png" alt="(ref:ribo)" width="70%" />
+<p class="caption">(\#fig:ribosomestructure)(ref:ribo)</p>
+</div>
 
 ## Structures Outside The Cell Membrane
 

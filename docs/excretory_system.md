@@ -8,27 +8,19 @@ Osmoregulators tightly regulate their body osmolarity, maintaining constant inte
 
 (ref:freshwfish) [Movement of water and ions in freshwater fish.](https://en.wikipedia.org/wiki/Osmoregulation#/media/File:Bachforelle_osmoregulatoin_bw_en2.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/excretory/Bachforelle_osmoregulatoin_bw_en2} 
-
-}
-
-\caption{(ref:freshwfish)}(\#fig:freshwaterfish)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/excretory/Bachforelle_osmoregulatoin_bw_en2.png" alt="(ref:freshwfish)" width="70%" />
+<p class="caption">(\#fig:freshwaterfish)(ref:freshwfish)</p>
+</div>
 
 A marine fish has an internal osmotic concentration lower than that of the surrounding seawater, so it tends to lose water and gain salt. It actively excretes salt out from the gills. Most fish are stenohaline, which means they are restricted to either salt or fresh water and cannot survive in water with a different salt concentration than they are adapted to. 
 
 (ref:salthwfish) [Movement of water and ions in saltwater fish.](https://en.wikipedia.org/wiki/File:Osmoseragulation_Carangoides_bartholomaei_bw_en2.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/excretory/Osmoseragulation_Carangoides_bartholomaei_bw_en2} 
-
-}
-
-\caption{(ref:saltwfish)}(\#fig:saltwaterfish)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/excretory/Osmoseragulation_Carangoides_bartholomaei_bw_en2.png" alt="(ref:saltwfish)" width="70%" />
+<p class="caption">(\#fig:saltwaterfish)(ref:saltwfish)</p>
+</div>
 
 However, some fish show a tremendous ability to effectively osmoregulate across a broad range of salinities; fish with this ability are known as euryhaline species, e.g., Flounder. Flounder have been observed to inhabit two utterly disparate environments—marine and fresh water—and it is inherent to adapt to both by bringing in behavioral and physiological modifications.
 
@@ -68,14 +60,10 @@ The urinary system, also known as the renal system or urinary tract, consists of
 
 (ref:urinsys) [The human urinary system.](https://commons.wikimedia.org/wiki/File:Urinary_system.svg) 1. Human urinary system: 2. Kidney, 3. Renal pelvis, 4. Ureter, 5. Urinary bladder, 6. Urethra. (Left side with frontal section) 7. Adrenal gland Vessels: 8. Renal artery and vein, 9. Inferior vena cava, 10. Abdominal aorta, 11. Common iliac artery and vein Transparent: 12. Liver, 13. Large intestine, 14. Pelvis
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/excretory/Urinary_system} 
-
-}
-
-\caption{(ref:urinsys)}(\#fig:urinarysystem)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/excretory/Urinary_system.svg" alt="(ref:urinsys)" width="70%" />
+<p class="caption">(\#fig:urinarysystem)(ref:urinsys)</p>
+</div>
 
 Urine is formed in the kidneys through a filtration of blood. The urine is then passed through the ureters to the bladder, where it is stored. During urination, the urine is passed from the bladder through the urethra to the outside of the body.
 
@@ -103,14 +91,10 @@ The kidneys are two bean-shaped organs found in vertebrates. They are located on
 
 (ref:kid) [The kidneys lie in the retroperitoneal space behind the abdomen, and act to filter blood to create urine.](https://commons.wikimedia.org/wiki/File:Blausen_0592_KidneyAnatomy_01.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/excretory/Blausen_0592_KidneyAnatomy_01} 
-
-}
-
-\caption{(ref:kid)}(\#fig:kidney)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/excretory/Blausen_0592_KidneyAnatomy_01.png" alt="(ref:kid)" width="70%" />
+<p class="caption">(\#fig:kidney)(ref:kid)</p>
+</div>
 
 The nephron is the structural and functional unit of the kidney. Each human adult kidney contains around 1 million nephrons, while a mouse kidney contains only about 12,500 nephrons. The kidney participates in the control of the volume of various body fluids, fluid osmolality, acid-base balance, various electrolyte concentrations, and removal of toxins. Filtration occurs in the glomerulus: one-fifth of the blood volume that enters the kidneys is filtered. Examples of substances reabsorbed are solute-free water, sodium, bicarbonate, glucose, and amino acids. Examples of substances secreted are hydrogen, ammonium, potassium and uric acid. The kidneys also carry out functions independent of the nephron. For example, they convert a precursor of vitamin D to its active form, calcitriol; and synthesize the hormones erythropoietin and renin.
 
@@ -118,14 +102,10 @@ In humans, the kidneys are located high in the abdominal cavity, one on each sid
 
 (ref:kidneystruc) [The structure of the kidney.](https://commons.wikimedia.org/wiki/File:KidneyStructures_PioM.svg)  1. Renal pyramid • 2. Interlobular artery • 3. Renal artery • 4. Renal vein 5. Renal hilum • 6. Renal pelvis • 7. Ureter • 8. Minor calyx • 9. Renal capsule • 10. Inferior renal capsule • 11. Superior renal capsule • 12. Interlobular vein • 13. Nephron • 14. Renal sinus • 15. Major calyx • 16. Renal papilla • 17. Renal column
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/excretory/KidneyStructures_PioM} 
-
-}
-
-\caption{(ref:kidneystruc)}(\#fig:kidneystructure)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/excretory/KidneyStructures_PioM.svg" alt="(ref:kidneystruc)" width="70%" />
+<p class="caption">(\#fig:kidneystructure)(ref:kidneystruc)</p>
+</div>
 
 The kidney is a bean-shaped structure with a convex and a concave border. A recessed area on the concave border is the renal hilum, where the renal artery enters the kidney and the renal vein and ureter leave. The kidney is surrounded by tough fibrous tissue, the renal capsule, which is itself surrounded by perirenal fat, renal fascia, and pararenal fat. The anterior (front) surface of these tissues is the peritoneum, while the posterior (rear) surface is the transversalis fascia.
 
@@ -135,38 +115,26 @@ The basic structural and functional unit of the kidney is the nephron. Its chief
 
 (ref:neph) [The nephron, shown here, is the functional unit of the kidneys. Its parts are labelled except the (gray) connecting tubule located after the (dark red) distal convoluted tubule and before the large (gray) collecting duct (mislabeled collection duct).](https://commons.wikimedia.org/wiki/File:Kidney_Nephron.png)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/excretory/Kidney_Nephron} 
-
-}
-
-\caption{(ref:neph)}(\#fig:nephron)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/excretory/Kidney_Nephron.png" alt="(ref:neph)" width="70%" />
+<p class="caption">(\#fig:nephron)(ref:neph)</p>
+</div>
 
 In the first part of the nephron, Bowman's capsule filters blood from the circulatory system into the tubules. Hydrostatic and osmotic pressure gradients facilitate filtration across a semipermeable membrane. The filtrate includes water, small molecules, and ions that easily pass through the filtration membrane. However larger molecules such as proteins and blood cells are prevented from passing through the filtration membrane. The amount of filtrate produced every minute is called the glomerular filtration rate or GFR and amounts to 180 litres per day. About 99% of this filtrate is reabsorbed as it passes through the nephron and the remaining 1% becomes urine.
 
 (ref:nephphys) [The four main processes involved in the creation of urine: Excretion = Filtration - Reabsorption + Secretion](https://commons.wikimedia.org/wiki/File:Physiology_of_Nephron.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/excretory/Physiology_of_Nephron} 
-
-}
-
-\caption{(ref:)}(\#fig:unnamed-chunk-1)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/excretory/Physiology_of_Nephron.svg" alt="(ref:)" width="70%" />
+<p class="caption">(\#fig:unnamed-chunk-1)(ref:)</p>
+</div>
 
 (ref:secreabs) [Secretion and reabsorption of water, ions and various substances throughout the nephron.](https://upload.wikimedia.org/wikipedia/commons/2/26/2618_Nephron_Secretion_Reabsorption.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/excretory/2618_Nephron_Secretion_Reabsorption} 
-
-}
-
-\caption{(ref:secreabs)}(\#fig:secretionreabsorption)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/excretory/2618_Nephron_Secretion_Reabsorption.jpg" alt="(ref:secreabs)" width="70%" />
+<p class="caption">(\#fig:secretionreabsorption)(ref:secreabs)</p>
+</div>
 
 The urinary system is regulated by the endocrine system by hormones such as antidiuretic hormone, aldosterone, and parathyroid hormone.
 

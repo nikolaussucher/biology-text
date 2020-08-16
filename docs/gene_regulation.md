@@ -20,14 +20,10 @@ Bacterial operons are polycistronic transcripts that are able to produce multipl
 
 (ref:lac) [](https://commons.wikimedia.org/wiki/File:Lac_operon1.png)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/regulation/Lac_operon1} 
-
-}
-
-\caption{(ref:lac)}(\#fig:lacoper)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/regulation/Lac_operon1.png" alt="(ref:lac)" width="70%" />
+<p class="caption">(\#fig:lacoper)(ref:lac)</p>
+</div>
 
 It would be wasteful to produce enzymes when no lactose were available or if a preferable energy source such as glucose were available. The *lac* operon uses a two-part control mechanism to ensure that the cell expends energy producing the enzymes encoded by the *lac* operon only when necessary. In the absence of lactose, the *lac* repressor, lacI, halts production of the enzymes encoded by the *lac* operon. The *lac* repressor is always expressed unless a co-inducer binds to it. In other words, it is transcribed only in the presence of small molecule co-inducer. In the presence of glucose, the catabolite activator protein (CAP), required for production of the enzymes, remains inactive, and EIIAGlc shuts down lactose permease to prevent transport of lactose into the cell. This dual control mechanism causes the sequential utilization of glucose and lactose in two distinct growth phases, known as diauxie.
 
@@ -68,14 +64,10 @@ In the current model, *lac* repressor is bound simultaneously to both the main o
 
 (ref:model) A simulated structural [model](https://www.modelarchive.org/doi/10.5452/ma-cwr9z) of a complex between the *lac* repressor protein (LacI) and a 107-bp-long DNA segment. Two dimeric LacI functional subunits (green +blue and yellow + orange) each bind a DNA operator sequence (top). The mobility of the DNA-binding head groups coupled to the stable body of the body of LacI provide the force for the looping of the DNA ([Ville et al.](https://www.pnas.org/content/102/19/6783)).
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/regulation/lac_repressor_model} 
-
-}
-
-\caption{(ref:model)}(\#fig:lacmodel)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/regulation/lac_repressor_model.png" alt="(ref:model)" width="70%" />
+<p class="caption">(\#fig:lacmodel)(ref:model)</p>
+</div>
 
 The repressor is an allosteric protein, i.e. it can assume either one of two slightly different shapes, which are in equilibrium with each other. In one form the repressor will bind to the operator DNA with high specificity, and in the other form it has lost its specificity. According to the classical model of induction, binding of the inducer, either allolactose or IPTG, to the repressor affects the distribution of repressor between the two shapes. Thus, repressor with inducer bound is stabilized in the non-DNA-binding conformation. However, this simple model cannot be the whole story, because repressor is bound quite stably to DNA, yet it is released rapidly by addition of inducer. Therefore, it seems clear that an inducer can also bind to the repressor when the repressor is already bound to DNA. It is still not entirely known what the exact mechanism of binding is.
 
@@ -85,14 +77,10 @@ A number of lactose derivatives or analogs have been described that are useful f
 
 (ref:iptg) [Structure of isopropyl β-D-thiogalactopyranoside (IPTG)](https://commons.wikimedia.org/wiki/File:IPTG2.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/regulation/IPTG2} 
-
-}
-
-\caption{(ref:iptg)}(\#fig:iptgstruc)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/regulation/IPTG2.svg" alt="(ref:iptg)" width="70%" />
+<p class="caption">(\#fig:iptgstruc)(ref:iptg)</p>
+</div>
 
 The experimental microorganism used by François Jacob and Jacques Monod was the common laboratory bacterium, *E. coli*, but many of the basic regulatory concepts that were discovered by Jacob and Monod are fundamental to cellular regulation in all organisms. The key idea is that proteins are not synthesized when they are not needed—E. coli conserves cellular resources and energy by not making the three Lac proteins when there is no need to metabolize lactose, such as when other sugars like glucose are available. The following section discusses how *E. coli* controls certain genes in response to metabolic needs.
 
@@ -106,14 +94,10 @@ To analyze regulatory mutants of the *lac* operon, Jacob developed a system by w
 
 (ref:lacana) [Analysis of *lac* regulatory mutants by Lac complementation.](https://commons.wikimedia.org/wiki/File:Lac_complementation.png)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/regulation/Lac_complementation} 
-
-}
-
-\caption{(ref:lacana)}(\#fig:laccomp)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/regulation/Lac_complementation.png" alt="(ref:lacana)" width="70%" />
+<p class="caption">(\#fig:laccomp)(ref:lacana)</p>
+</div>
 
 This test is illustrated in Figure \@ref(fig:laccomp) (lacA is omitted for simplicity). First, certain haploid states are shown (i.e. the cell carries only a single copy of the *lac* genes). Panel (a) shows repression, (b) shows induction by IPTG, and (c) and (d) show the effect of a mutation to the lacI gene or to the operator, respectively. In panel (e) the complementation test for repressor is shown. If one copy of the *lac* genes carries a mutation in lacI, but the second copy is wild type for lacI, the resulting phenotype is normal—but lacZ is expressed when exposed to inducer IPTG. Mutations affecting repressor are said to be recessive to wild type (and that wild type is dominant), and this is explained by the fact that repressor is a small protein which can diffuse in the cell. The copy of the *lac* operon adjacent to the defective lacI gene is effectively shut off by protein produced from the second copy of lacI.
 

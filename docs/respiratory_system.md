@@ -12,14 +12,10 @@ In humans and other mammals, the anatomy of a typical respiratory system is the 
 
 (ref:resps) [The respiratory system consists of the airways, the lungs, and the respiratory muscles that mediate the movement of air into and out of the body.](https://commons.wikimedia.org/wiki/File:Respiratory_system_complete_en.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Respiratory_system_complete_en} 
-
-}
-
-\caption{(ref:resps)}(\#fig:respiratorysystem)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/respiratory/Respiratory_system_complete_en.svg" alt="(ref:resps)" width="70%" />
+<p class="caption">(\#fig:respiratorysystem)(ref:resps)</p>
+</div>
 
 The branching airways of the lower tract are often described as the respiratory tree or tracheobronchial tree. The intervals between successive branch points along the various branches of "tree" are often referred to as branching "generations", of which there are, in the adult human about 23. The earlier generations (approximately generations 0–16), consisting of the trachea and the bronchi, as well as the larger bronchioles which simply act as air conduits, bringing air to the respiratory bronchioles, alveolar ducts and alveoli (approximately generations 17–23), where gas exchange takes place. Bronchioles are defined as the small airways lacking any cartilagenous support.
 
@@ -29,27 +25,19 @@ The alveoli are the dead end terminals of the "tree", meaning that any air that 
 
 (ref:alveolusdia) [Alveoli and their capillary networks.](https://upload.wikimedia.org/wikipedia/commons/4/46/Alveolus_diagram.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Alveolus diagram en} 
-
-}
-
-\caption{(ref:alveolusdia)}(\#fig:alveolusdiagram)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/respiratory/Alveolus diagram en.svg" alt="(ref:alveolusdia)" width="70%" />
+<p class="caption">(\#fig:alveolusdiagram)(ref:alveolusdia)</p>
+</div>
 
 The lungs expand and contract during the breathing cycle, drawing air in and out of the lungs. The volume of air moved in or out of the lungs under normal resting circumstances (the resting tidal volume of about 500 ml), and volumes moved during maximally forced inhalation and maximally forced exhalation are measured in humans by spirometry. 
 
 (ref:spiro) [Output of a 'spirometer'. Upward movement of the graph, read from the left, indicates the intake of air; downward movements represent exhalation.](https://commons.wikimedia.org/wiki/File:Lungvolumes_Updated.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Lungvolumes_Updated} 
-
-}
-
-\caption{(ref:spiro)}(\#fig:spirometeroutput)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/respiratory/Lungvolumes_Updated.png" alt="(ref:spiro)" width="70%" />
+<p class="caption">(\#fig:spirometeroutput)(ref:spiro)</p>
+</div>
 
 Not all the air in the lungs can be expelled during maximally forced exhalation. This is the residual volume of about 1.0-1.5 liters which cannot be measured by spirometry. Volumes that include the residual volume (i.e. functional residual capacity of about 2.5-3.0 liters, and total lung capacity of about 6 liters) can therefore also not be measured by spirometry. Their measurement requires special techniques.
 
@@ -77,14 +65,10 @@ The primary purpose of the respiratory system is the equilibration of the partia
 
 (ref:alve)[A histological cross-section through an alveolar wall showing the layers through which the gases have to move between the blood plasma and the alveolar air. The dark blue objects are the nuclei of the capillary endothelial and alveolar type I epithelial cells (or type 1 pneumocytes). The two red objects labeled "RBC" are red blood cells in the pulmonary capillary blood.](https://upload.wikimedia.org/wikipedia/commons/c/c8/Alveolar_wall.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Alveolar_wall} 
-
-}
-
-\caption{(ref:alve)}(\#fig:alveolarwall)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/respiratory/Alveolar_wall.jpg" alt="(ref:alve)" width="70%" />
+<p class="caption">(\#fig:alveolarwall)(ref:alve)</p>
+</div>
 
 The air contained within the alveoli has a semi-permanent volume of about 2.5-3.0 liters which completely surrounds the alveolar capillary blood. This ensures that equilibration of the partial pressures of the gases in the two compartments is very efficient and occurs very quickly. The blood leaving the alveolar capillaries and is eventually distributed throughout the body therefore has a partial pressure of oxygen of 13-14 kPa (100 mmHg), and a partial pressure of carbon dioxide of 5.3 kPa (40 mmHg) (i.e. the same as the oxygen and carbon dioxide gas tensions as in the alveoli). As mentioned in the section above, the corresponding partial pressures of oxygen and carbon dioxide in the ambient (dry) air at sea level are 21 kPa (160 mmHg) and 0.04 kPa (0.3 mmHg) respectively.
 
@@ -96,27 +80,19 @@ Since the blood arriving in the alveolar capillaries has a partial pressure of O
 
 (ref:gasex) [A highly diagrammatic illustration of the process of gas exchange in the mammalian lungs, emphasizing the differences between the gas compositions of the ambient air, the alveolar air (light blue) with which the pulmonary capillary blood equilibrates, and the blood gas tensions in the pulmonary arterial (blue blood entering the lung on the left) and venous blood (red blood leaving the lung on the right). All the gas tensions are in kPa. To convert to mm Hg, multiply by 7.5.](https://commons.wikimedia.org/wiki/File:Gas_exchange.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Gas_exchange} 
-
-}
-
-\caption{(ref:gasex)}(\#fig:gasexchange)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/respiratory/Gas_exchange.jpg" alt="(ref:gasex)" width="70%" />
+<p class="caption">(\#fig:gasexchange)(ref:gasex)</p>
+</div>
 
 It is only as a result of accurately maintaining the composition of the 3 liters of alveolar air that with each breath some carbon dioxide is discharged into the atmosphere and some oxygen is taken up from the outside air. If more carbon dioxide than usual has been lost by a short period of hyperventilation, respiration will be slowed down or halted until the alveolar partial pressure of carbon dioxide has returned to 5.3 kPa (40 mmHg). It is therefore strictly speaking untrue that the primary function of the respiratory system is to rid the body of carbon dioxide “waste”. The carbon dioxide that is breathed out with each breath could probably be more correctly be seen as a byproduct of the body's extracellular fluid carbon dioxide and pH homeostats
 
 (ref:alv) [A diagrammatic histological cross-section through a portion of lung tissue showing a normally inflated alveolus (at the end of a normal exhalation), and its walls containing the pulmonary capillaries (shown in cross-section). This illustrates how the pulmonary capillary blood is completely surrounded by alveolar air. In a normal human lung all the alveoli together contain about 3 liters of alveolar air. All the pulmonary capillaries contain about 100 ml blood.](https://commons.wikimedia.org/wiki/File:Alveolus.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Alveolus} 
-
-}
-
-\caption{(ref:alv)}(\#fig:alveolarair)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/respiratory/Alveolus.jpg" alt="(ref:alv)" width="70%" />
+<p class="caption">(\#fig:alveolarair)(ref:alv)</p>
+</div>
 
 If these homeostats are compromised, then a respiratory acidosis, or a respiratory alkalosis will occur. In the long run these can be compensated by renal adjustments to the H+ and HCO3− concentrations in the plasma; but since this takes time, the hyperventilation syndrome can, for instance, occur when agitation or anxiety cause a person to breathe fast and deeply thus causing a distressing respiratory alkalosis through the blowing off of too much CO~2~) from the blood into the outside air.
 
@@ -160,14 +136,10 @@ Three distinct sets of organs perform respiration — the anterior air sacs (int
 
 (ref:birdres) [The respiratory system of birds.](https://commons.wikimedia.org/wiki/File:BirdRespiration.svg) On inhalation, air travels to air sacs near the back of a bird. The air then passes through the lungs to air sacs near the front of the bird, from where the air is exhaled.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/BirdRespiration} 
-
-}
-
-\caption{(ref:birdres)}(\#fig:birdrespiration)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/respiratory/BirdRespiration.svg" alt="(ref:birdres)" width="70%" />
+<p class="caption">(\#fig:birdrespiration)(ref:birdres)</p>
+</div>
 
 During inhalation, environmental air initially enters the bird through the nostrils from where it is heated, humidified, and filtered in the nasal passages and upper parts of the trachea. From there, the air enters the lower trachea and continues to just beyond the syrinx, at which point the trachea branches into two primary bronchi, going to the two lungs. The primary bronchi enter the lungs to become the intrapulmonary bronchi, which give off a set of parallel branches called ventrobronchi and, a little further on, an equivalent set of dorsobronchi. The ends of the intrapulmonary bronchi discharge air into the posterior air sacs at the caudal end of the bird. Each pair of dorso-ventrobronchi is connected by a large number of parallel microscopic air capillaries (or parabronchi) where gas exchange occurs. As the bird inhales, tracheal air flows through the intrapulmonary bronchi into the posterior air sacs, as well as into the dorsobronchi (but not into the ventrobronchi whose openings into the intrapulmonary bronchi were previously believed to be tightly closed during inhalation. However, more recent studies have shown that the aerodynamics of the bronchial architecture directs the inhaled air away from the openings of the ventrobronchi, into the continuation of the intrapulmonary bronchus towards the dorsobronchi and posterior air sacs). From the dorsobronchi the air flows through the parabronchi (and therefore the gas exchanger) to the ventrobronchi from where the air can only escape into the expanding anterior air sacs. So, during inhalation, both the posterior and anterior air sacs expand, the posterior air sacs filling with fresh inhaled air, while the anterior air sacs fill with "spent" (oxygen-poor) air that has just passed through the lungs.
 
@@ -196,14 +168,10 @@ Both the lungs and the skin serve as respiratory organs in amphibians. The venti
 
 (ref:axol) [The axolotl (*Ambystoma mexicanum*) retains its larval form with gills into adulthood.](https://commons.wikimedia.org/wiki/File:Axolotl_ganz.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Axolotl_ganz} 
-
-}
-
-\caption{(ref:axol)}(\#fig:axolotl)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/respiratory/Axolotl_ganz.jpg" alt="(ref:axol)" width="70%" />
+<p class="caption">(\#fig:axolotl)(ref:axol)</p>
+</div>
 
 ## The Respiratory System of Fish
 
@@ -227,14 +195,10 @@ Some species of crab use a respiratory organ called a branchiostegal lung. Its g
 
 (ref:booklung) [The book lungs of a spider.](https://upload.wikimedia.org/wikipedia/commons/2/22/Spider_internal_anatomy-en.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/respiratory/Spider_internal_anatomy-en} 
-
-}
-
-\caption{(ref:booklung)}(\#fig:spiderbooklkung)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/respiratory/Spider_internal_anatomy-en.svg" alt="(ref:booklung)" width="70%" />
+<p class="caption">(\#fig:spiderbooklkung)(ref:booklung)</p>
+</div>
 
 Insects
 

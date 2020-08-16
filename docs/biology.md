@@ -70,14 +70,10 @@ After a day, the solution collected at the trap had turned pink in colour, and a
 
 (ref:muex) [The Miller–Urey experiment](https://commons.wikimedia.org/wiki/File:MUexperiment.png) was a chemical experiment that simulated the conditions thought at the time (1952) to be present on the early Earth and tested the chemical origin of life under those conditions. The experiment at the time supported Alexander Oparin's and J. B. S. Haldane's hypothesis that putative conditions on the primitive Earth favoured chemical reactions that synthesized more complex organic compounds from simpler inorganic precursors. Considered to be the classic experiment investigating abiogenesis, it was conducted in 1952 by Stanley Miller, with assistance from Harold Urey, at the University of Chicago and later the University of California, San Diego and published the following year.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Miller-Urey_experiment-en} 
-
-}
-
-\caption{(ref:mux)}(\#fig:millerurey)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/life/Miller-Urey_experiment-en.svg" alt="(ref:mux)" width="70%" />
+<p class="caption">(\#fig:millerurey)(ref:mux)</p>
+</div>
 
 Living organisms synthesize proteins, which are polymers of amino acids using instructions encoded by deoxyribonucleic acid (DNA). Protein synthesis entails intermediary ribonucleic acid (RNA) polymers. One possibility for how life began is that genes originated first, followed by proteins; the alternative being that proteins came first and then genes.
 
@@ -101,14 +97,10 @@ Since its primordial beginnings, life on Earth has changed its environment on a 
 
 (ref:celltypes) [Cartoons of a eukaryotic cell (left) and prokaryotic cell (right)](https://commons.wikimedia.org/wiki/File:Celltypes.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Celltypes} 
-
-}
-
-\caption{(ref:celltypes)}(\#fig:celltypecartoon )
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/life/Celltypes.svg" alt="(ref:celltypes)" width="70%" />
+<p class="caption">(\#fig:celltypecartoon )(ref:celltypes)</p>
+</div>
 
 ## Foundations of Modern Biology
 
@@ -122,14 +114,10 @@ There are two primary types of cells. [Prokaryotes](https://en.wikipedia.org/wik
 
 (ref:livorg) [Tree diagram](https://commons.wikimedia.org/wiki/File:Tree_of_Living_Organisms_2.png) illustrating the evolutionary relationship of living organisms]
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Tree_of_Living_Organisms_2} 
-
-}
-
-\caption{(ref:livorg)}(\#fig:livorgtree)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/life/Tree_of_Living_Organisms_2.png" alt="(ref:livorg)" width="70%" />
+<p class="caption">(\#fig:livorgtree)(ref:livorg)</p>
+</div>
 
 A [virus](https://en.wikipedia.org/wiki/Virus) is a submicroscopic infectious agent that replicates only inside the living cells of an organism. Scientific opinions differ on whether viruses are a form of life, or organic structures that interact with living organisms. They have been described as "organisms at the edge of life", since they resemble organisms in that they possess genes, evolve by natural selection, and reproduce by creating multiple copies of themselves through self-assembly. Although they have genes, they do not have a cellular structure, which is seen as the basic unit of life. Viruses do not have their own metabolism, and require a host cell to make new products. They therefore cannot naturally reproduce outside a host cell—although bacterial species such as rickettsia and chlamydia are considered living organisms despite the same limitation. Accepted forms of life use cell division to reproduce, whereas viruses spontaneously assemble within cells. They differ from autonomous growth of crystals as they inherit genetic mutations while being subject to natural selection. Virus self-assembly within host cells has implications for the study of the origin of life, as it lends further credence to the hypothesis that life could have started as self-assembling organic molecules.
 
@@ -159,14 +147,10 @@ The earliest evidence of life comes from biogenic carbon signatures and stromato
 
 (ref:stromatolite) [Modern stromatolites in Shark Bay, Western Australia](https://commons.wikimedia.org/wiki/File:Stromatolites_in_Sharkbay.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Stromatolites_in_Sharkbay} 
-
-}
-
-\caption{(ref:)}(\#fig:unnamed-chunk-1)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/life/Stromatolites_in_Sharkbay.jpg" alt="(ref:)" width="70%" />
+<p class="caption">(\#fig:unnamed-chunk-1)(ref:)</p>
+</div>
 
 Microbial mats of coexisting bacteria and archaea were the dominant form of life in the early Archean Epoch and many of the major steps in early evolution are thought to have taken place in this environment. The evolution of photosynthesis, around 3.5 Ga, eventually led to a buildup of its waste product, oxygen, in the atmosphere, leading to the great oxygenation event, beginning around 2.4 Ga. The earliest evidence of eukaryotes (complex cells with organelles) dates from 1.85 Ga, and while they may have been present earlier, their diversification accelerated when they started using oxygen in their metabolism. Later, around 1.7 Ga, multicellular organisms began to appear, with differentiated cells performing specialised functions. Sexual reproduction, which involves the fusion of male and female reproductive cells (gametes) to create a zygote in a process called fertilization is, in contrast to asexual reproduction, the primary method of reproduction for the vast majority of macroscopic organisms, including almost all eukaryotes (which includes animals and plants). However the origin and evolution of sexual reproduction remain a puzzle for biologists though it did evolve from a common ancestor that was a single celled eukaryotic species. Bilateria, animals having a left and a right side that are mirror images of each other, appeared by 555 Ma (million years ago).
 
@@ -228,27 +212,19 @@ Traditionally, living things have been divided into five kingdoms: Monera; Proti
 
 (ref:eukardiv) [Eukaryotes and some examples of their diversity](https://commons.wikimedia.org/wiki/File:Eukaryota_diversity_2.jpg) – clockwise from top left: Red mason bee, Boletus edulis, chimpanzee, Isotricha intestinalis, Ranunculus asiaticus, and Volvox carteri.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Eukaryota_diversity_2} 
-
-}
-
-\caption{(ref:eukardiv)}(\#fig:eukaryotediversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/life/Eukaryota_diversity_2.jpg" alt="(ref:eukardiv)" width="70%" />
+<p class="caption">(\#fig:eukaryotediversity)(ref:eukardiv)</p>
+</div>
 
 Further, each kingdom is broken down recursively until each species is separately classified. The order is: Domain; Kingdom; Phylum; Class; Order; Family; Genus; Species.
 
 (ref:hierarchy) [The hierarchy of biological classification's eight major taxonomic ranks from the most specific (top) to the most general (bottom). Intermediate minor rankings are not shown. This diagram uses a 3 Domains / 6 Kingdoms format](https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/life/Biological_classification_L_Pengo} 
-
-}
-
-\caption{(ref:hierarchy)}(\#fig:hierarchycartoon)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/life/Biological_classification_L_Pengo.svg" alt="(ref:hierarchy)" width="70%" />
+<p class="caption">(\#fig:hierarchycartoon)(ref:hierarchy)</p>
+</div>
 
 Outside of these categories, there are obligate intracellular parasites that are "on the edge of life" in terms of metabolic activity, meaning that many scientists do not actually classify such structures as alive, due to their lack of at least one or more of the fundamental functions or characteristics that define life. They are classified as viruses, viroids, prions, or satellites.
 
@@ -270,9 +246,41 @@ Biogeography studies the spatial distribution of organisms on the Earth, focusin
 
 [Science](https://en.wikipedia.org/wiki/Science) (from the Latin word scientia, meaning "knowledge") is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe.
 
-Scientists are individuals who conduct scientific research to advance knowledge in an area of interest. The term scientist was coined by William Whewell in 1833. In modern times, many professional scientists are trained in an academic setting and upon completion, attain an academic degree, with the highest degree being a doctorate such as a Doctor of Philosophy (PhD). Many scientists pursue careers in various sectors of the economy such as academia, industry, government, and nonprofit organizations.
+Scientists are individuals who conduct scientific research to advance knowledge in an area of interest. In classical antiquity, there was no real ancient analog of a modern scientist. Instead, philosophers engaged in the philosophical study of nature called natural philosophy, a precursor of natural science. It was not until the 19th century that the term scientist came into regular use after it was coined by the theologian, philosopher, and historian of science William Whewell in 1833. In modern times, many professional scientists are trained in an academic setting and upon completion, attain an academic degree, with the highest degree being a doctorate such as a Doctor of Philosophy (PhD). Many scientists pursue careers in various sectors of the economy such as academia, industry, government, and nonprofit organizations.
+
+(ref:scientist) [Two scientists working at the Natinal Cancer Institute which is part of the National Institutes of Health of the United States of America.](https://commons.wikimedia.org/wiki/File:Researcher_looking_through_microscope.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/life/Researcher_looking_through_microscope.jpg" alt="(ref:)" width="70%" />
+<p class="caption">(\#fig:unnamed-chunk-2)(ref:)</p>
+</div>
+
+The roles of "scientists", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time. Scientists of different eras (and before them, natural philosophers and others who contributed to the development of science) have had widely different places in society, and the social norms, ethical values, and epistemic virtues associated with scientists—and expected of them—have changed over time as well. 
+
+Some historians point to the Scientific Revolution that began in 16th century as the period when science in a recognizably modern form developed. It wasn't until the 19th century that sufficient socioeconomic changes occurred for scientists to emerge as a major profession.
+
+The presence of women in science spans the earliest times of the history of science wherein they have made significant contributions. Historians with an interest in gender and science have researched the scientific endeavors and accomplishments of women, the barriers they have faced, and the strategies implemented to have their work peer-reviewed and accepted in major scientific journals and other publications. 
+
+The involvement of women in the field of medicine occurred in several early civilizations, and the study of natural philosophy in ancient Greece was open to women. Women contributed to the proto-science of alchemy in the first or second centuries AD. During the Middle Ages, religious convents were an important place of education for women, and some of these communities provided opportunities for women to contribute to scholarly research. The 11th century saw the emergence of the first universities; women were, for the most part, excluded from university education. Outside academia, botany was the science that benefitted most from contributions of women in early modern times. Gender roles were largely deterministic in the eighteenth century and women made substantial advances in science. During the nineteenth century, women were excluded from most formal scientific education, but they began to be admitted into learned societies during this period. In the later nineteenth century, the rise of the women's college provided jobs for women scientists and opportunities for education. [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie), a physicist and chemist who conducted pioneering research on radioactive decay, was the first woman to receive a Nobel Prize in Physics and became the first person to receive a second Nobel Prize in Chemistry. Forty women have been awarded the Nobel Prize between 1901 and 2010. Seventeen women have been awarded the Nobel Prize in physics, chemistry, physiology or medicine.
+
+(ref:mc) [At First Solvay Conference (1911), Maie Curie (seated, second from right) confers with Henri Poincaré; standing, fourth from right, is Rutherford; second from right, Einstein; far right, Paul Langevin](https://commons.wikimedia.org/wiki/File:1911_Solvay_conference.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/life/1911_Solvay_conference.jpg" alt="(ref:mc)" width="70%" />
+<p class="caption">(\#fig:mariecuriesolvay)(ref:mc)</p>
+</div>
+
+[A list of African Americans inventors and scientists](https://en.wikipedia.org/wiki/List_of_African-American_inventors_and_scientists) documents many of the African-Americans who have invented a multitude of items or made discoveries in the course of their lives. These have ranged from practical everyday devices to applications and scientific discoveries in diverse fields, including physics, biology, math, plus the medical, nuclear and space science.
+
+(ref:gwc) [George Washington Carver](https://en.wikipedia.org/wiki/George_Washington_Carver) George Washington Carver (1860s – January 5, 1943) was an American agricultural scientist and inventor who promoted alternative crops to cotton and methods to prevent soil depletion. He was the most prominent black scientist of the early 20th century. Apart from his work to improve the lives of farmers, Carver was also a leader in promoting environmentalism. He received numerous honors for his work, including the Spingarn Medal of the NAACP. In an era of high racial polarization, his fame reached beyond the black community. He was widely recognized and praised in the white community for his many achievements and talents. In 1941, Time magazine dubbed Carver a "Black Leonardo".
+
+<div class="figure" style="text-align: center">
+<img src="./figures/life/George_Washington_Carver_c1910_-_Restoration.jpg" alt="(ref:gwc)" width="70%" />
+<p class="caption">(\#fig:gwcarter)(ref:gwc)</p>
+</div>
 
 Scientists exhibit a strong curiosity about reality, with some scientists having a desire to apply scientific knowledge for the benefit of health, nations, environment, or industries. Other motivations include recognition by their peers and prestige. The Nobel Prize, a widely regarded prestigious award, is awarded annually to those who have achieved scientific advances in the fields of medicine, physics, chemistry, and economics.
+
 The earliest roots of science can be traced to Ancient Egypt and Mesopotamia in around 3500 to 3000 BCE. Their contributions to mathematics, astronomy, and medicine entered and shaped Greek natural philosophy of classical antiquity, whereby formal attempts were made to provide explanations of events in the physical world based on natural causes. After the fall of the Western Roman Empire, knowledge of Greek conceptions of the world deteriorated in Western Europe during the early centuries (400 to 1000 CE) of the Middle Ages but was preserved in the Muslim world during the Islamic Golden Age. The recovery and assimilation of Greek works and Islamic inquiries into Western Europe from the 10th to 13th century revived "natural philosophy", which was later transformed by the Scientific Revolution that began in the 16th century as new ideas and discoveries departed from previous Greek conceptions and traditions. The scientific method soon played a greater role in knowledge creation and it was not until the 19th century that many of the institutional and professional features of science began to take shape; along with the changing of "natural philosophy" to "natural science."
 
 Modern science is typically divided into three major branches that consist of the natural sciences (e.g., biology, chemistry, and physics), which study nature in the broadest sense; the social sciences (e.g., economics, psychology, and sociology), which study individuals and societies; and the formal sciences (e.g., logic, mathematics, and theoretical computer science), which study abstract concepts. There is disagreement, however, on whether the formal sciences actually constitute a science as they do not rely on empirical evidence. Disciplines that use existing scientific knowledge for practical purposes, such as engineering and medicine, are described as applied sciences.
@@ -313,15 +321,23 @@ The belief that scientific theories should and do represent metaphysical reality
 
 There are different schools of thought in philosophy of science. The most popular position is empiricism, which holds that knowledge is created by a process involving observation and that scientific theories are the result of generalizations from such observations. Empiricism generally encompasses inductivism, a position that tries to explain the way general theories can be justified by the finite number of observations humans can make and hence the finite amount of empirical evidence available to confirm scientific theories. This is necessary because the number of predictions those theories make is infinite, which means that they cannot be known from the finite amount of evidence using deductive logic only. Many versions of empiricism exist, with the predominant ones being Bayesianism and the hypothetico-deductive method.
 
-Empiricism has stood in contrast to rationalism, the position originally associated with Descartes, which holds that knowledge is created by the human intellect, not by observation. Critical rationalism is a contrasting 20th-century approach to science, first defined by Austrian-British philosopher Karl Popper. Popper rejected the way that empiricism describes the connection between theory and observation. He claimed that theories are not generated by observation, but that observation is made in the light of theories and that the only way a theory can be affected by observation is when it comes in conflict with it. Popper proposed replacing verifiability with falsifiability as the landmark of scientific theories and replacing induction with falsification as the empirical method. Popper further claimed that there is actually only one universal method, not specific to science: the negative method of criticism, trial and error. It covers all products of the human mind, including science, mathematics, philosophy, and art.
+Logical positivism, later called logical empiricism, and both of which together are also known as neopositivism, was a movement in Western philosophy whose central thesis was the verification principle (also known as the verifiability criterion of meaning). This theory of knowledge asserted that only statements verifiable through direct observation or logical proof are meaningful. Starting in the late 1920s, groups of philosophers, scientists, and mathematicians formed the Berlin Circle and the Vienna Circle, which, in these two cities, would propound the ideas of logical positivism.
+
+Flourishing in several European centres through the 1930s, the movement sought to prevent confusion rooted in unclear language and unverifiable claims by converting philosophy into "scientific philosophy", which, according to the logical positivists, ought to share the bases and structures of empirical sciences' best examples, such as Albert Einstein's general theory of relativity. Despite its ambition to overhaul philosophy by studying and mimicking the extant conduct of empirical science, logical positivism became erroneously stereotyped as a movement to regulate the scientific process and to place strict standards on it.
+
+After World War II, the movement shifted to a milder variant, logical empiricism, led mainly by Carl Hempel, who, during the rise of Nazism, had immigrated to the United States. In the ensuing years, the movement's central premises, still unresolved, were heavily criticised by leading philosophers, particularly Willard van Orman Quine and Karl Popper, and even, within the movement itself, by Hempel. By 1960, the movement had run its course. Soon, publication of Thomas Kuhn's landmark book, The Structure of Scientific Revolutions, dramatically shifted academic philosophy's focus.
+
+Empiricism has stood in contrast to rationalism, the position originally associated with Descartes, which holds that knowledge is created by the human intellect, not by observation. Critical rationalism is a contrasting 20th-century approach to science, first defined by Austrian-British philosopher [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper). Popper rejected the way that empiricism describes the connection between theory and observation. He claimed that theories are not generated by observation, but that observation is made in the light of theories and that the only way a theory can be affected by observation is when it comes in conflict with it. Popper proposed replacing verifiability with falsifiability as the landmark of scientific theories and replacing induction with falsification as the empirical method. Popper further claimed that there is actually only one universal method, not specific to science: the negative method of criticism, trial and error. It covers all products of the human mind, including science, mathematics, philosophy, and art.
 
 Another approach, instrumentalism, colloquially termed "shut up and calculate," emphasizes the utility of theories as instruments for explaining and predicting phenomena. It views scientific theories as black boxes with only their input (initial conditions) and output (predictions) being relevant. Consequences, theoretical entities, and logical structure are claimed to be something that should simply be ignored and that scientists should not make a fuss about (see interpretations of quantum mechanics). Close to instrumentalism is constructive empiricism, according to which the main criterion for the success of a scientific theory is whether what it says about observable entities is true.
 
-Thomas Kuhn argued that the process of observation and evaluation takes place within a paradigm, a logically consistent "portrait" of the world that is consistent with observations made from its framing. He characterized normal science as the process of observation and "puzzle solving" which takes place within a paradigm, whereas revolutionary science occurs when one paradigm overtakes another in a paradigm shift. Each paradigm has its own distinct questions, aims, and interpretations. The choice between paradigms involves setting two or more "portraits" against the world and deciding which likeness is most promising. A paradigm shift occurs when a significant number of observational anomalies arise in the old paradigm and a new paradigm makes sense of them. That is, the choice of a new paradigm is based on observations, even though those observations are made against the background of the old paradigm. For Kuhn, acceptance or rejection of a paradigm is a social process as much as a logical process. Kuhn's position, however, is not one of relativism.
+In his book The [Structure of Scientific Revolutions](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions) the American philosopher of science [Thomas Samuel Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn) made several claims concerning the progress of scientific knowledge: that scientific fields undergo periodic "paradigm shifts" rather than solely progressing in a linear and continuous way, and that these paradigm shifts open up new approaches to understanding what scientists would never have considered valid before; and that the notion of scientific truth, at any given moment, cannot be established solely by objective criteria but is defined by a consensus of a scientific community. Competing paradigms are frequently incommensurable; that is, they are competing and irreconcilable accounts of reality. Thus, our comprehension of science can never rely wholly upon "objectivity" alone. Science must account for subjective perspectives as well, since all objective conclusions are ultimately founded upon the subjective conditioning/worldview of its researchers and participants.
 
 A scientific theory is empirical and is always open to falsification if new evidence is presented. That is, no theory is ever considered strictly certain as science accepts the concept of fallibilism. The philosopher of science Karl Popper sharply distinguished truth from certainty. He wrote that scientific knowledge "consists in the search for truth," but it "is not the search for certainty ... All human knowledge is fallible and therefore uncertain.
 
 New scientific knowledge rarely results in vast changes in our understanding. Knowledge in science is gained by a gradual synthesis of information from different experiments by various researchers across different branches of science; it is more like a climb than a leap. Theories vary in the extent to which they have been tested and verified, as well as their acceptance in the scientific community. For example, heliocentric theory, the theory of evolution, relativity theory, and germ theory still bear the name "theory" even though, in practice, they are considered factual. Philosopher Barry Stroud adds that, although the best definition for "knowledge" is contested, being skeptical and entertaining the possibility that one is incorrect is compatible with being correct. Therefore, scientists adhering to proper scientific approaches will doubt themselves even once they possess the truth. 
+
+The Polish and Israeli physician, biologist and philosopher of science [Ludwik Fleck](https://en.wikipedia.org/wiki/Ludwik_Fleck) wrote in his 1935 book "Entstehung und Entwicklung einer wissenschaftlichen Tatsache; Einführung in die Lehre vom Denkstil und Denkkollektiv" that the development of truth in scientific research was an unattainable ideal as different researchers were locked into thought collectives (or thought-styles). This means "that a pure and direct observation cannot exist: in the act of perceiving objects the observer, i.e. the epistemological subject, is always influenced by the epoch and the environment to which he belongs, that is by what Fleck calls the thought style." A "truth" was a relative value, expressed in the language or symbolism of the thought collective in which it belonged, and subject to the social and temporal structure of this collective. To state therefore that a specific truth is true or false is impossible. It is true in its own collective, but incomprehensible or unverifiable in most others. He felt that the development of scientific insights was not unidirectional and does not consist of just accumulating new pieces of information, but also in overthrowing the old ones. This overthrowing of old insights is difficult because a collective attains over time a specific way of investigating, bringing with it a blindness to alternative ways of observing and conceptualization. Change was especially possible when members of two thought collectives met and cooperated in observing, formulating hypothesis and ideas. He strongly advocated comparative epistemology. This approach anticipated later developments in social constructionism, and especially the development of critical science and technology studies.
 
 In his book Against Method and Science in a Free Society the philosopher [Paul Feyerabend](https://en.wikipedia.org/wiki/Paul_Feyerabend) defended the idea that there are no methodological rules which are always used by scientists. He objected to any single prescriptive scientific method on the grounds that any such method would limit the activities of scientists, and hence restrict scientific progress. In his view, science would benefit most from a "dose" of theoretical anarchism. He also thought that theoretical anarchism was desirable because it was more humanitarian than other systems of organization, by not imposing rigid rules on scientists.
 

@@ -4,14 +4,10 @@ Bacteria (singular bacterium) and Archaea (singular archaeon) constitute two dom
 
 (ref:ecoli) [Scanning electron micrograph of Escherichia coli bacteria.](https://commons.wikimedia.org/wiki/File:EscherichiaColi_NIAID.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/EscherichiaColi_NIAID} 
-
-}
-
-\caption{(ref:ecoli)}(\#fig:semecoli)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/EscherichiaColi_NIAID.jpg" alt="(ref:ecoli)" width="70%" />
+<p class="caption">(\#fig:semecoli)(ref:ecoli)</p>
+</div>
 
 For much of the 20th century, prokaryotes were regarded as a single group of organisms and classified based on their biochemistry, morphology and metabolism. Microbiologists tried to classify microorganisms based on the structures of their cell walls, their shapes, and the substances they consume. In 1965, Emile Zuckerkandl and Linus Pauling instead proposed using the sequences of the genes in different prokaryotes to work out how they are related to each other. This phylogenetic approach is the main method used today.
 
@@ -19,27 +15,19 @@ Archaea – at that time only the methanogens were known – were first classifi
 
 (ref:archaea) [Halobacterium sp. strain NRC-1, each cell about 5 μm long](https://commons.wikimedia.org/wiki/File:Halobacteria.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Halobacteria} 
-
-}
-
-\caption{(ref:archaea)}(\#fig:haloarchaea)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/Halobacteria.jpg" alt="(ref:archaea)" width="70%" />
+<p class="caption">(\#fig:haloarchaea)(ref:archaea)</p>
+</div>
 
 A virus is a submicroscopic infectious agent that replicates only inside the living cells of an organism. Viruses infect all types of life forms, from animals and plants to microorganisms, including bacteria and archaea. Since Dmitri Ivanovsky's 1892 article describing a non-bacterial pathogen infecting tobacco plants, and the discovery of the tobacco mosaic virus by Martinus Beijerinck in 1898, more than 6,000 virus species have been described in detail, of the millions of types of viruses in the environment. Viruses are found in almost every ecosystem on Earth and are the most numerous type of biological entity. The study of viruses is known as virology, a subspeciality of microbiology.
 
 (ref:sarscov) [Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the strain of coronavirus that causes coronavirus disease 2019 (COVID-19), the respiratory illness responsible for the COVID-19 pandemic.](https://commons.wikimedia.org/wiki/File:SARS-CoV-2_without_background.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/SARS-CoV-2_without_background} 
-
-}
-
-\caption{(ref:sarscov)}(\#fig:sarscovi2)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/SARS-CoV-2_without_background.png" alt="(ref:sarscov)" width="70%" />
+<p class="caption">(\#fig:sarscovi2)(ref:sarscov)</p>
+</div>
 
 When infected, a host cell is forced to rapidly produce thousands of identical copies of the original virus. When not inside an infected cell or in the process of infecting a cell, viruses exist in the form of independent particles, or virions, consisting of: (i) the genetic material, i.e. long molecules of DNA or RNA that encode the structure of the proteins by which the virus acts; (ii) a protein coat, the capsid, which surrounds and protects the genetic material; and in some cases (iii) an outside envelope of lipids. The shapes of these virus particles range from simple helical and icosahedral forms to more complex structures. Most virus species have virions too small to be seen with an optical microscope as they are one hundredth the size of most bacteria.
 
@@ -65,14 +53,10 @@ Bacteria display a wide diversity of shapes and sizes, called morphologies. Bact
 
 (ref:bacshape) [Bacteria display various cell morphologies and arrangements](https://commons.wikimedia.org/wiki/File:Bacterial_morphology_diagram.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Bacterial_morphology_diagram} 
-
-}
-
-\caption{(ref:bacshape)}(\#fig:bacteriashape)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/Bacterial_morphology_diagram.svg" alt="(ref:bacshape)" width="70%" />
+<p class="caption">(\#fig:bacteriashape)(ref:bacshape)</p>
+</div>
 
 Most bacterial species are either spherical, called cocci (singular coccus, from Greek kókkos, grain, seed), or rod-shaped, called bacilli (sing. bacillus, from Latin baculus, stick). Some bacteria, called vibrio, are shaped like slightly curved rods or comma-shaped; others can be spiral-shaped, called spirilla, or tightly coiled, called spirochaetes. A small number of other unusual shapes have been described, such as star-shaped bacteria. This wide variety of shapes is determined by the bacterial cell wall and cytoskeleton, and is important because it can influence the ability of bacteria to acquire nutrients, attach to surfaces, swim through liquids and escape predators.
 
@@ -102,14 +86,10 @@ In many bacteria, an S-layer of rigidly arrayed protein molecules covers the out
 
 (ref:hpyl) [Helicobacter pylori electron micrograph](https://commons.wikimedia.org/wiki/File:EMpylori.jpg), showing multiple flagella on the cell surface
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/EMpylori} 
-
-}
-
-\caption{(ref:hpyl)}(\#fig:helicopylori)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/EMpylori.jpg" alt="(ref:hpyl)" width="70%" />
+<p class="caption">(\#fig:helicopylori)(ref:hpyl)</p>
+</div>
 
 Flagella are rigid protein structures, about 20 nanometres in diameter and up to 20 micrometres in length, that are used for motility. Flagella are driven by the energy released by the transfer of ions down an electrochemical gradient across the cell membrane.
 
@@ -125,27 +105,19 @@ Certain genera of Gram-positive bacteria, such as Bacillus, Clostridium, Sporoha
 
 (ref:endosp) [A stained preparation of the cell Bacillus subtilis showing endospores as green and the vegetative cell as red.](https://commons.wikimedia.org/wiki/File:Bacillus_subtilis_Spore.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Bacillus_subtilis_Spore} 
-
-}
-
-\caption{(ref:endosp)}(\#fig:endospore)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/Bacillus_subtilis_Spore.jpg" alt="(ref:endosp)" width="70%" />
+<p class="caption">(\#fig:endospore)(ref:endosp)</p>
+</div>
 
 Endospores show no detectable metabolism and can survive extreme physical and chemical stresses, such as high levels of UV light, gamma radiation, detergents, disinfectants, heat, freezing, pressure, and desiccation. In this dormant state, these organisms may remain viable for millions of years, and endospores even allow bacteria to survive exposure to the vacuum and radiation in space, possibly bacteria could be distributed throughout the Universe by space dust, meteoroids, asteroids, comets, planetoids or via directed panspermia. Endospore-forming bacteria can also cause disease: for example, anthrax can be contracted by the inhalation of Bacillus anthracis endospores, and contamination of deep puncture wounds with Clostridium tetani endospores causes tetanus.
 
 (ref:endospf) [Formation of an endospore through the process of sporulation.](https://commons.wikimedia.org/wiki/File:Endospore_Formation.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Endospore_Formation} 
-
-}
-
-\caption{(ref:endospf)}(\#fig:endosporeform)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/Endospore_Formation.png" alt="(ref:endospf)" width="70%" />
+<p class="caption">(\#fig:endosporeform)(ref:endospf)</p>
+</div>
 
 ### Metabolism
 
@@ -156,18 +128,36 @@ Bacteria either derive energy from light using photosynthesis (called phototroph
 Many bacteria get their carbon from other organic carbon, called heterotrophy. Others such as cyanobacteria and some purple bacteria are autotrophic, meaning that they obtain cellular carbon by fixing carbon dioxide. In unusual circumstances, the gas methane can be used by methanotrophic bacteria as both a source of electrons and a substrate for carbon anabolism.
 
 
-\begin{table}[!h]
-\centering
-\begin{tabular}{llll}
-\toprule
-Nutritional Type & Source of Energy & Source of Carbon & Examples\\
-\midrule
-\rowcolor{gray!6}   Phototrophs  & Sunlight &  Organic compounds (photoheterotrophs) or carbon fixation (photoautotrophs) &  Cyanobacteria, Green sulfur bacteria, Chloroflexi, or Purple bacteria \\
- Lithotrophs & Inorganic compounds &  Organic compounds (lithoheterotrophs) or carbon fixation (lithoautotrophs) &  Thermodesulfobacteria, Hydrogenophilaceae, or Nitrospirae \\
-\rowcolor{gray!6}   Organotrophs & Organic compounds &  Organic compounds (chemoheterotrophs) or carbon fixation (chemoautotrophs)   &  Bacillus, Clostridium or Enterobacteriaceae \\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Nutritional Type </th>
+   <th style="text-align:left;"> Source of Energy </th>
+   <th style="text-align:left;"> Source of Carbon </th>
+   <th style="text-align:left;"> Examples </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;">  Phototrophs  </td>
+   <td style="text-align:left;"> Sunlight </td>
+   <td style="text-align:left;">  Organic compounds (photoheterotrophs) or carbon fixation (photoautotrophs) </td>
+   <td style="text-align:left;">  Cyanobacteria, Green sulfur bacteria, Chloroflexi, or Purple bacteria  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  Lithotrophs </td>
+   <td style="text-align:left;"> Inorganic compounds </td>
+   <td style="text-align:left;">  Organic compounds (lithoheterotrophs) or carbon fixation (lithoautotrophs) </td>
+   <td style="text-align:left;">  Thermodesulfobacteria, Hydrogenophilaceae, or Nitrospirae  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  Organotrophs </td>
+   <td style="text-align:left;"> Organic compounds </td>
+   <td style="text-align:left;">  Organic compounds (chemoheterotrophs) or carbon fixation (chemoautotrophs)   </td>
+   <td style="text-align:left;">  Bacillus, Clostridium or Enterobacteriaceae  </td>
+  </tr>
+</tbody>
+</table>
 
 In many ways, bacterial metabolism provides traits that are useful for ecological stability and for human society. One example is that some bacteria have the ability to fix nitrogen gas using the enzyme nitrogenase. This environmentally important trait can be found in bacteria of most metabolic types listed above. This leads to the ecologically important processes of denitrification, sulfate reduction, and acetogenesis, respectively. Bacterial metabolic processes are also important in biological responses to pollution; for example, sulfate-reducing bacteria are largely responsible for the production of the highly toxic forms of mercury (methyl- and dimethylmercury) in the environment. Non-respiratory anaerobes use fermentation to generate energy and reducing power, secreting metabolic by-products (such as ethanol in brewing) as waste. Facultative anaerobes can switch between fermentation and different terminal electron acceptors depending on the environmental conditions in which they find themselves.
 
@@ -281,27 +271,73 @@ Woese argued that the Bacteria, Archaea, and Eukaryotes represent separate lines
 
 The following table (\@ref(tab:domaincomparison) compares some major characteristics of the three domains, to illustrate their similarities and differences.
 
-\begin{table}[!h]
-
-\caption{(\#tab:domaincomparison)A comparison of major characterisitcs of the domains of Bacteria, Archaea and Eukaryia}
-\centering
-\begin{tabular}[t]{llll}
-\toprule
-Property & Bacteria & Archaea & Eukarya\\
-\midrule
-\rowcolor{gray!6}  Cell membrane & Ether-linked lipids & Ester-linked lipids & Ester-linked lipids\\
-Cell wall & Pseudopeptidoglycan, glycoprotein, or S-layer & Peptidoglycan, S-layer, or no cell wall & Various structures\\
-\rowcolor{gray!6}  Gene structure & Circular chromosomes, similar translation and transcription to Eukarya & Circular chromosomes, unique translation and transcription & Multiple, linear chromosomes, but translation and transcription similar to Archaea\\
-Internal cell structure & No membrane-bound organelles (?[62]) or nucleus & No membrane-bound organelles or nucleus & Membrane-bound organelles and nucleus\\
-\rowcolor{gray!6}  Metabolism[63] & Various, including diazotrophy, with methanogenesis unique to Archaea & Various, including photosynthesis, aerobic and anaerobic respiration, fermentation, diazotrophy, and autotrophy & Photosynthesis, cellular respiration, and fermentation; no diazotrophy\\
-\addlinespace
-Reproduction & Asexual reproduction, horizontal gene transfer & Asexual reproduction, horizontal gene transfer & Sexual and asexual reproduction\\
-\rowcolor{gray!6}  Protein synthesis initiation & Methionine & Formylmethionine & Methionine\\
-RNA polymerase & Many & One & Many\\
-\rowcolor{gray!6}  Toxin & Sensitive to diphtheria toxin & Resistant to diphtheria toxin & Sensitive to diphtheria toxin\\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:domaincomparison)A comparison of major characterisitcs of the domains of Bacteria, Archaea and Eukaryia</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Property </th>
+   <th style="text-align:left;"> Bacteria </th>
+   <th style="text-align:left;"> Archaea </th>
+   <th style="text-align:left;"> Eukarya </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Cell membrane </td>
+   <td style="text-align:left;"> Ether-linked lipids </td>
+   <td style="text-align:left;"> Ester-linked lipids </td>
+   <td style="text-align:left;"> Ester-linked lipids </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cell wall </td>
+   <td style="text-align:left;"> Pseudopeptidoglycan, glycoprotein, or S-layer </td>
+   <td style="text-align:left;"> Peptidoglycan, S-layer, or no cell wall </td>
+   <td style="text-align:left;"> Various structures </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Gene structure </td>
+   <td style="text-align:left;"> Circular chromosomes, similar translation and transcription to Eukarya </td>
+   <td style="text-align:left;"> Circular chromosomes, unique translation and transcription </td>
+   <td style="text-align:left;"> Multiple, linear chromosomes, but translation and transcription similar to Archaea </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Internal cell structure </td>
+   <td style="text-align:left;"> No membrane-bound organelles (?[62]) or nucleus </td>
+   <td style="text-align:left;"> No membrane-bound organelles or nucleus </td>
+   <td style="text-align:left;"> Membrane-bound organelles and nucleus </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Metabolism[63] </td>
+   <td style="text-align:left;"> Various, including diazotrophy, with methanogenesis unique to Archaea </td>
+   <td style="text-align:left;"> Various, including photosynthesis, aerobic and anaerobic respiration, fermentation, diazotrophy, and autotrophy </td>
+   <td style="text-align:left;"> Photosynthesis, cellular respiration, and fermentation; no diazotrophy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Reproduction </td>
+   <td style="text-align:left;"> Asexual reproduction, horizontal gene transfer </td>
+   <td style="text-align:left;"> Asexual reproduction, horizontal gene transfer </td>
+   <td style="text-align:left;"> Sexual and asexual reproduction </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Protein synthesis initiation </td>
+   <td style="text-align:left;"> Methionine </td>
+   <td style="text-align:left;"> Formylmethionine </td>
+   <td style="text-align:left;"> Methionine </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> RNA polymerase </td>
+   <td style="text-align:left;"> Many </td>
+   <td style="text-align:left;"> One </td>
+   <td style="text-align:left;"> Many </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Toxin </td>
+   <td style="text-align:left;"> Sensitive to diphtheria toxin </td>
+   <td style="text-align:left;"> Resistant to diphtheria toxin </td>
+   <td style="text-align:left;"> Sensitive to diphtheria toxin </td>
+  </tr>
+</tbody>
+</table>
 
 Archaea were split off as a third domain because of the large differences in their ribosomal RNA structure. The particular molecule 16S rRNA is key to the production of proteins in all organisms. Because this function is so central to life, organisms with mutations in their 16S rRNA are unlikely to survive, leading to great (but not absolute) stability in the structure of this nucleotide over generations. 16S rRNA is large enough to show organism-specific variations, but still small enough to be compared quickly. In 1977, Carl Woese, a microbiologist studying the genetic sequences of organisms, developed a new comparison method that involved splitting the RNA into fragments that could be sorted and compared with other fragments from other organisms. The more similar the patterns between species, the more closely they are related.
 
@@ -356,14 +392,10 @@ The phospholipids of archaea are unusual in four ways:
 
 (ref:membcomp) [A comparison of the membrane structures of Archaea, Bacteria and Eukarya. Top, an archaeal phospholipid: 1, isoprene chains; 2, ether linkages; 3, L-glycerol moiety; 4, phosphate group. Middle, a bacterial or eukaryotic phospholipid: 5, fatty acid chains; 6, ester linkages; 7, D-glycerol moiety; 8, phosphate group. Bottom: 9, lipid bilayer of bacteria and eukaryotes; 10, lipid monolayer of some archaea.](https://commons.wikimedia.org/wiki/File:Archaea_membrane.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Archaea_membrane} 
-
-}
-
-\caption{(ref:membcomp)}(\#fig:membranestruccomp)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/Archaea_membrane.svg" alt="(ref:membcomp)" width="70%" />
+<p class="caption">(\#fig:membranestruccomp)(ref:membcomp)</p>
+</div>
 
 ### Metabolism
 
@@ -371,18 +403,36 @@ Archaea exhibit a great variety of chemical reactions in their metabolism and us
 
 Other groups of archaea use sunlight as a source of energy (they are phototrophs), but oxygen–generating photosynthesis does not occur in any of these organisms. Many basic metabolic pathways are shared among all forms of life; for example, archaea use a modified form of glycolysis (the Entner–Doudoroff pathway) and either a complete or partial citric acid cycle. These similarities to other organisms probably reflect both early origins in the history of life and their high level of efficiency.
 
-\begin{table}[!h]
-\centering
-\begin{tabular}{llll}
-\toprule
-Nutritional Type & Source of Energy & Source of Carbon & Examples\\
-\midrule
-\rowcolor{gray!6}   Phototrophs  &  Sunlight  &  Organic compounds  &  Halobacterium \\
- Lithotrophs &  Inorganic compounds &  Organic compounds or carbon fixation &  Ferroglobus, Methanobacteria or Pyrolobus \\
-\rowcolor{gray!6}   Organotrophs &  Organic compounds  &  Organic compounds or carbon fixation  &  Pyrococcus, Sulfolobus or Methanosarcinales \\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Nutritional Type </th>
+   <th style="text-align:left;"> Source of Energy </th>
+   <th style="text-align:left;"> Source of Carbon </th>
+   <th style="text-align:left;"> Examples </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;">  Phototrophs  </td>
+   <td style="text-align:left;">  Sunlight  </td>
+   <td style="text-align:left;">  Organic compounds  </td>
+   <td style="text-align:left;">  Halobacterium  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  Lithotrophs </td>
+   <td style="text-align:left;">  Inorganic compounds </td>
+   <td style="text-align:left;">  Organic compounds or carbon fixation </td>
+   <td style="text-align:left;">  Ferroglobus, Methanobacteria or Pyrolobus  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  Organotrophs </td>
+   <td style="text-align:left;">  Organic compounds  </td>
+   <td style="text-align:left;">  Organic compounds or carbon fixation  </td>
+   <td style="text-align:left;">  Pyrococcus, Sulfolobus or Methanosarcinales  </td>
+  </tr>
+</tbody>
+</table>
 
 Some Euryarchaeota are methanogens (archaea that produce methane as a result of metabolism) living in anaerobic environments, such as swamps. This form of metabolism evolved early, and it is even possible that the first free-living organism was a methanogen. A common reaction involves the use of carbon dioxide as an electron acceptor to oxidize hydrogen. Methanogenesis involves a range of coenzymes that are unique to these archaea, such as coenzyme M and methanofuran. Other organic compounds such as alcohols, acetic acid or formic acid are used as alternative electron acceptors by methanogens. These reactions are common in gut-dwelling archaea. Acetic acid is also broken down into methane and carbon dioxide directly, by acetotrophic archaea. These acetotrophs are archaea in the order Methanosarcinales, and are a major part of the communities of microorganisms that produce biogas.
 
@@ -440,27 +490,19 @@ Helical viruses are composed of a single type of capsomere stacked around a cent
 
 (ref:tmv) [Structure of tobacco mosaic virus: RNA coiled in a helix of repeating protein sub-units](https://commons.wikimedia.org/wiki/File:TMV_structure_simple.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/TMV_structure_simple} 
-
-}
-
-\caption{(ref:tmv)}(\#fig:tmvirus)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/TMV_structure_simple.png" alt="(ref:tmv)" width="70%" />
+<p class="caption">(\#fig:tmvirus)(ref:tmv)</p>
+</div>
 
 Most animal viruses are icosahedral or near-spherical with chiral icosahedral symmetry. A regular icosahedron is the optimum way of forming a closed shell from identical sub-units. The minimum number of identical capsomeres required for each triangular face is 3, which gives 60 for the icosahedron. Many viruses, such as rotavirus, have more than 60 capsomers and appear spherical but they retain this symmetry. To achieve this, the capsomeres at the apices are surrounded by five other capsomeres and are called pentons. Capsomeres on the triangular faces are surrounded by six others and are called hexons. Hexons are in essence flat and pentons, which form the 12 vertices, are curved. The same protein may act as the subunit of both the pentamers and hexamers or they may be composed of different proteins.
 
 (ref:icosa) [Structure of an icosahedral cowpea mosaic virus](https://commons.wikimedia.org/wiki/File:CowpeaMosaicVirus3D.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/CowpeaMosaicVirus3D} 
-
-}
-
-\caption{(ref:icosa)}(\#fig:icosavirus)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/CowpeaMosaicVirus3D.png" alt="(ref:icosa)" width="70%" />
+<p class="caption">(\#fig:icosavirus)(ref:icosa)</p>
+</div>
 
 Some species of virus envelop themselves in a modified form of one of the cell membranes, either the outer membrane surrounding an infected host cell or internal membranes such as nuclear membrane or endoplasmic reticulum, thus gaining an outer lipid bilayer known as a viral envelope. This membrane is studded with proteins coded for by the viral genome and host genome; the lipid membrane itself and any carbohydrates present originate entirely from the host. The influenza virus and HIV use this strategy. Most enveloped viruses are dependent on the envelope for their infectivity.
 
@@ -483,14 +525,10 @@ For most viruses with RNA genomes and some with single-stranded DNA genomes, the
 
 (ref:influ) [This negative-stained transmission electron micrograph (TEM) depicts the ultrastructural details of an influenza virus particle, or “virion”. A member of the taxonomic family Orthomyxoviridae, the influenza virus is an enveloped, single-stranded RNA virus. Eight helical capsis are surrounded by the viral envelope. Particle diameter: 80 -120 nm](https://commons.wikimedia.org/wiki/File:Influenza_virus_particle_8430_lores.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Influenza_virus_particle_8430_lores} 
-
-}
-
-\caption{(ref:influ)}(\#fig:influenza)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/Influenza_virus_particle_8430_lores.jpg" alt="(ref:influ)" width="70%" />
+<p class="caption">(\#fig:influenza)(ref:influ)</p>
+</div>
 
 Genome size varies greatly between species. The smallest—the ssDNA circoviruses, family Circoviridae—code for only two proteins and have a genome size of only two kilobases; the largest—the pandoraviruses—have genome sizes of around two megabases which code for about 2500 proteins. Virus genes rarely have introns and often are arranged in the genome so that they overlap.
 
@@ -506,14 +544,10 @@ Viral populations do not grow through cell division, because they are acellular.
 
 (ref:repc) [A typical virus replication cycle.](https://commons.wikimedia.org/wiki/File:HepC_replication.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/HepC_replication} 
-
-}
-
-\caption{(ref:repc)}(\#fig:virusrepc)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/HepC_replication.png" alt="(ref:repc)" width="70%" />
+<p class="caption">(\#fig:virusrepc)(ref:repc)</p>
+</div>
 
 Their life cycle differs greatly between species, but there are six basic stages in their life cycle:
 
@@ -539,14 +573,10 @@ Reverse transcribing viruses have ssRNA (Retroviridae, Metaviridae, Pseudovirida
 
 (ref:rnavir) [Taxonomy and replication strategies of RNA viruses.](https://commons.wikimedia.org/wiki/File:18_2014_1695_Fig1_HTML.webp) A) Simplified taxonomy of the genome architecture of the RNA viruses described in this review. See main text for used abbreviations. B) (+RNA virus) Infection with a +RNA virus—as exemplified here with a CoV-like virion—releases a single-stranded RNA genome into the cytoplasm (1). (2) Translation of the 5′-terminal open-reading frame of the genome produces the viral replicase. (3) This multi-enzyme complex includes RdRp activity (orange) and associates with intracellular membranes before −RNA synthesis commences. Newly synthesised −RNAs are subsequently used to produce new +RNAs (4), which are typically capped (yellow) and polyadenylated (polyA). (Retrovirus) HIV-1 genomes are packaged as ssRNA in virions. When the ssRNA is released (1) a cDNA copy is synthesised by the RT (2). The RNA is next degraded by the intrinsic RNase H activity in the RT (3) and the single stranded cDNA converted to dsDNA (4). The dsDNA is imported in the nucleus (5) for integration into the host’s genetic material. (−RNA virus) (1) As illustrated here with an IAV-like particle, infection with an −RNA virus releases a viral RNA genome that is associated with a viral polymerase (orange) and nucleoprotein (green). (2) In the case of non-segmented −RNA viruses, these complexes support transcription to produce viral mRNAs or cRNAs. (3) Viral mRNAs are next translated and new viral proteins complex with cRNAs to synthesise new vRNAs. (5) The vRNA-containing complexes of some segmented −RNA viruses are imported into the nucleus of the host cell, where (6) the RdRp produces mRNAs or cRNAs. (7) mRNAs are transported to the cytoplasm, while cRNAs are bound by new viral proteins to form cRNPs for −RNA synthesis. (dsRNA virus) Fully duplexed RNA genomes lack cap and polyA elements. (1) The RdRp (orange), therefore, transcribes the viral genome inside the capsid of the virion (blue and red), so viral mRNAs can be (2) released into the cytoplasm as illustrated here with a rotavirus-like virion. In the cytoplasm the mRNA is translated (3) or replicated by newly synthesised viral RdRps (4)] 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/rna_virus} 
-
-}
-
-\caption{(ref:rnavir)}(\#fig:rnavirus)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/rna_virus.png" alt="(ref:rnavir)" width="70%" />
+<p class="caption">(\#fig:rnavirus)(ref:rnavir)</p>
+</div>
 
 The range of structural and biochemical effects that viruses have on the host cell is extensive. These are called 'cytopathic effects'. Most virus infections eventually result in the death of the host cell. The causes of death include cell lysis, alterations to the cell's surface membrane and apoptosis. Often cell death is caused by cessation of its normal activities because of suppression by virus-specific proteins, not all of which are components of the virus particle. The distinction between cytopathic and harmless is gradual. Some viruses, such as Epstein–Barr virus, can cause cells to proliferate without causing malignancy, while others, such as papillomaviruses, are established causes of cancer.
 
@@ -622,27 +652,19 @@ A bacteriophage, also known informally as a phage, is a virus that infects and r
 
 (ref:phagestruc) [Structural overview of T2 phage](https://en.wikipedia.org/wiki/Hershey–Chase_experiment#/media/File:Tevenphage.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Tevenphage} 
-
-}
-
-\caption{(ref:phagestruc)}(\#fig:phage)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/Tevenphage.svg" alt="(ref:phagestruc)" width="70%" />
+<p class="caption">(\#fig:phage)(ref:phagestruc)</p>
+</div>
 
 These viruses infect specific bacteria by binding to surface receptor molecules and then entering the cell. Within a short amount of time, in some cases just minutes, bacterial polymerase starts translating viral mRNA into protein. These proteins go on to become either new virions within the cell, helper proteins, which help assembly of new virions, or proteins involved in cell lysis. Viral enzymes aid in the breakdown of the cell membrane, and, in the case of the T4 phage, in just over twenty minutes after injection over three hundred phages could be released.
 
 (ref:phagebac) [Diagram showing bacteriophages infecting a bacterial cell (not to scale; bacteriophages are much smaller than bacteria)](https://commons.wikimedia.org/wiki/File:Phage_injecting_its_genome_into_bacteria.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/bacteria/Phage_injecting_its_genome_into_bacteria} 
-
-}
-
-\caption{(ref:phagebac)}(\#fig:bacphage)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/bacteria/Phage_injecting_its_genome_into_bacteria.svg" alt="(ref:phagebac)" width="70%" />
+<p class="caption">(\#fig:bacphage)(ref:phagebac)</p>
+</div>
 
 The major way bacteria defend themselves from bacteriophages is by producing enzymes that destroy foreign DNA. These enzymes, called restriction endonucleases, cut up the viral DNA that bacteriophages inject into bacterial cells. Bacteria also contain a system that uses CRISPR sequences to retain fragments of the genomes of viruses that the bacteria have come into contact with in the past, which allows them to block the virus's replication through a form of RNA interference. This genetic system provides bacteria with acquired immunity to infection.
 
