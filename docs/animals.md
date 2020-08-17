@@ -186,15 +186,6 @@ Animals are monophyletic, meaning they are derived from a common ancestor. Anima
    <td style="text-align:left;"> Yes </td>
    <td style="text-align:left;"> Yes </td>
   </tr>
-  <tr>
-   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
-   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
-   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
-   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
-   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
-   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
-   <td style="text-align:left;"> Total number of described extant species as of 2013: 1,525,728 </td>
-  </tr>
 </tbody>
 </table>
 

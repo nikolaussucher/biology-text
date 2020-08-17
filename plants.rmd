@@ -26,7 +26,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 plantae <-  as_tibble(read.csv("data/plants.csv"))
 
-knitr::kable(plantae, col.names = c("Name", "Scope", "Distribution"), digits = 2, align = 'lll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position"))
+knitr::kable(plantae, col.names = c("Name", "Scope", "Distribution"), digits = 2, align = 'lll', booktabs = TRUE, caption = "Four commonly used concepts of plants.") %>% kable_styling(latex_options = c("striped", "hold_position")) %>% column_spec(1, width = "20em") %>% column_spec(2, width = "10em") %>% column_spec(3, width = "20em")
 ```
 
 The evolution of plants has resulted in increasing levels of complexity, from the earliest algal mats, through bryophytes, lycopods, ferns to the complex gymnosperms and angiosperms of today. Plants in all of these groups continue to thrive, especially in the environments in which they evolved.
