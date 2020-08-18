@@ -192,7 +192,21 @@ Plasma is composed of gaseous matter that has been completely ionized, usually t
 
 ## Acids And Bases
 
-A substance can often be classified as an acid or a base. There are several different theories which explain acid-base behavior. The simplest is Arrhenius theory, which states that acid is a substance that produces hydronium ions when it is dissolved in water, and a base is one that produces hydroxide ions when dissolved in water. According to Brønsted–Lowry acid-base theory, acids are substances that donate a positive hydrogen ion to another substance in a chemical reaction; by extension, a base is the substance which receives that hydrogen ion.
+A substance can often be classified as an acid or a base. There are several different theories which explain acid-base behavior. The simplest is Arrhenius theory, which states that acid is a substance that produces hydronium ions (H~3~O^+^) when it is dissolved in water, and a base is one that produces hydroxide ions (OH^−^) when dissolved in water. According to Brønsted–Lowry acid-base theory, acids are substances that donate a positive hydrogen ion (H^+^) to another substance in a chemical reaction; by extension, a base is the substance which receives that hydrogen ion.
+
+(ref:hydronium) [3D diagram showing the pyramidal structure of the hydroxonium ion.](https://commons.wikimedia.org/wiki/File:Hydroxonium-cation.svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/chemistry/Hydroxonium-cation.svg" alt="(ref:hydronium)" width="70%" />
+<p class="caption">(\#fig:hydroxoniumion)(ref:hydronium)</p>
+</div>
+
+(ref:hydroxide) [Lewis structure of the hydroxide ion showing three lone pairs on the oxygen atom](https://commons.wikimedia.org/wiki/File:Hydroxide_lone_pairs-2D.svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/chemistry/Hydroxonium-cation.svg" alt="(ref:hydroxide)" width="70%" />
+<p class="caption">(\#fig:hydroxideion)(ref:hydroxide)</p>
+</div>
 
 A third common theory is Lewis acid-base theory, which is based on the formation of new chemical bonds. Lewis theory explains that an acid is a substance which is capable of accepting a pair of electrons from another substance during the process of bond formation, while a base is a substance which can provide a pair of electrons to form a new bond. According to this theory, the crucial things being exchanged are charges. There are several other ways in which a substance may be classified as an acid or a base, as is evident in the history of this concept.
 
