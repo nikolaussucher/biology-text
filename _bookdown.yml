@@ -29,8 +29,8 @@ rmd_files: [ "index.rmd",
              "sensation.rmd",
              "locomotion.rmd",
              "endocrine_system.rmd",
-             "reproductive_system.rmd"
-             # "development.Rmd"
+             "reproductive_system.rmd",
+             "development.rmd"
            ]
 output_dir: docs
 before_chapter_script: "_common.R"

@@ -56,8 +56,7 @@ membrane <-  as_tibble(read.csv("data/membrane_proteins.csv"))
 knitr::kable(membrane, col.names = c("Type", "Description", "Examples"), digits = 2, align = 'lll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
-
-## Function
+## Structure And Function of The Cell Membrane
 
 The cell membrane surrounds the cytoplasm of living cells, physically separating the intracellular components from the extracellular environment. The cell membrane also plays a role in anchoring the cytoskeleton to provide shape to the cell, and in attaching to the extracellular matrix and other cells to hold them together to form tissues. Fungi, bacteria, most archaea, and plants also have a cell wall, which provides a mechanical support to the cell and precludes the passage of larger molecules.
 
@@ -71,7 +70,7 @@ The cell membrane is selectively permeable and able to regulate what enters and 
 
 4. Exocytosis: Just as material can be brought into the cell by invagination and formation of a vesicle, the membrane of a vesicle can be fused with the plasma membrane, extruding its contents to the surrounding medium. This is the process of exocytosis. Exocytosis occurs in various cells to remove undigested residues of substances brought in by endocytosis, to secrete substances such as hormones and enzymes, and to transport a substance completely across a cellular barrier. In the process of exocytosis, the undigested waste-containing food vacuole or the secretory vesicle budded from Golgi apparatus, is first moved by cytoskeleton from the interior of the cell to the surface. The vesicle membrane comes in contact with the plasma membrane. The lipid molecules of the two bilayers rearrange themselves and the two membranes are, thus, fused. A passage is formed in the fused membrane and the vesicles discharges its contents outside the cell.
 
-## The Fluid Mosaic Model of The Cell Membrane
+### The Fluid Mosaic Model of The Cell Membrane
 
 According to the fluid mosaic model of S. J. Singer and G. L. Nicolson (1972), which replaced the earlier model of Davson and Danielli, biological membranes can be considered as a two-dimensional liquid in which lipid and protein molecules diffuse more or less easily. Although the lipid bilayers that form the basis of the membranes do indeed form two-dimensional liquids by themselves, the plasma membrane also contains a large quantity of proteins, which provide more structure. Examples of such structures are protein-protein complexes, pickets and fences formed by the actin-based cytoskeleton, and potentially lipid rafts.
 
@@ -106,27 +105,27 @@ The content of the cell, inside the cell membrane, is composed of numerous membr
 
 The permeability of a membrane is the rate of passive diffusion of molecules through the membrane. These molecules are known as permeant molecules. Permeability depends mainly on the electric charge and polarity of the molecule and to a lesser extent the molar mass of the molecule. Due to the cell membrane's hydrophobic nature, small electrically neutral molecules pass through the membrane more easily than charged, large ones. The inability of charged molecules to pass through the cell membrane results in pH partition of substances throughout the fluid compartments of the body. Because of these properties, the cell membrane is referred to as as selectively (or semi-) permeable membrane.
 
-## Diffusion
+### Diffusion
 
 [Diffusion](https://en.wikipedia.org/wiki/Diffusion) is the net movement of material from an area of high concentration to an area with lower concentration. The difference of concentration between the two areas is often termed as the concentration gradient, and diffusion will continue until this gradient has been eliminated. Since diffusion moves materials from an area of higher concentration to an area of lower concentration, it is described as moving solutes "down the concentration gradient" (compared with active transport, which often moves material from area of low concentration to area of higher concentration, and therefore referred to as moving the material "against the concentration gradient"). However, in many cases (e.g. passive drug transport) the driving force of passive transport can not be simplified to the concentration gradient. If there are different solutions at the two sides of the membrane with different equilibrium solubility of the drug, the difference in degree of saturation is the driving force of passive membrane transport. It is also true for supersaturated solutions which are more and more important owing to the spreading of the application of amorphous solid dispersions for drug bioavailability enhancement.
 
 Simple diffusion and osmosis are in some ways similar. Simple diffusion is the passive movement of solute from a high concentration to a lower concentration until the concentration of the solute is uniform throughout and reaches equilibrium. Osmosis is much like simple diffusion but it specifically describes the movement of water (not the solute) across a selectively permeable membrane until there is an equal concentration of water and solute on both sides of the membrane. Simple diffusion and osmosis are both forms of passive transport and require none of the cell's ATP energy.
 
-## Facilitated Diffusion
+### Facilitated Diffusion
 
 Facilitated diffusion, also called carrier-mediated osmosis, is the movement of molecules across the cell membrane via special transport proteins that are embedded in the plasma membrane by actively taking up or excluding ions. Active transport of protons by H+ ATPases alters membrane potential allowing for facilitated passive transport of particular ions such as potassium  down their charge gradient through high affinity transporters and channels.
 
-## Osmosis
+### Osmosis
 
 [Osmosis](https://en.wikipedia.org/wiki/Osmosis) is the movement of water molecules across a selectively permeable membrane. The net movement of water molecules through a partially permeable membrane from a solution of high water potential to an area of low water potential. A cell with a less negative water potential will draw in water but this depends on other factors as well such as solute potential (pressure in the cell e.g. solute molecules) and pressure potential (external pressure e.g. cell wall). There are three types of Osmosis solutions: the isotonic solution, hypotonic solution, and hypertonic solution. Isotonic solution is when the extracellular solute concentration is balanced with the concentration inside the cell. In the Isotonic solution, the water molecules still moves between the solutions, but the rates are the same from both directions, thus the water movement is balanced between the inside of the cell as well as the outside of the cell. A hypotonic solution is when the solute concentration outside the cell is lower than the concentration inside the cell. In hypotonic solutions, the water moves into the cell, down its concentration gradient (from higher to lower water concentrations). That can cause the cell to swell. Cells that don't have a cell wall, such as animal cells, could burst in this solution. A hypertonic solution is when the solute concentration is higher (think of hyper - as high) than the concentration inside the cell. In hypertonic solution, the water will move out, causing the cell to shrink.
 
-## Active Transport
+### Active Transport
 
 Unlike passive transport, which uses the kinetic energy and natural entropy of molecules moving down a gradient, active transport uses cellular energy to move them against a gradient, polar repulsion, or other resistance. Active transport is usually associated with accumulating high concentrations of molecules that the cell needs, such as ions, glucose and amino acids. Examples of active transport include the uptake of glucose in the intestines in humans and the uptake of mineral ions into root hair cells of plants.
 
 There are two types of active transport: primary active transport that uses adenosine triphosphate (ATP), and secondary active transport that uses an electrochemical gradient. An example of active transport in human physiology is the uptake of glucose in the intestines.
 
-## Bulk transport
+### Bulk transport
 
 Endocytosis and exocytosis are both forms of bulk transport that move materials into and out of cells, respectively, via vesicles. In the case of endocytosis, the cellular membrane folds around the desired materials outside the cell. The ingested particle becomes trapped within a pouch, known as a vesicle, inside the cytoplasm. Often enzymes from lysosomes are then used to digest the molecules absorbed by this process. Substances that enter the cell via signal mediated electrolysis include proteins, hormones and growth and stabilization factors. Viruses enter cells through a form of endocytosis that involves their outer membrane fusing with the membrane of the cell. This forces the viral DNA into the host cell.
 
@@ -219,7 +218,7 @@ Physiological pH plays a part in the selectivity of solutes passing through tigh
 knitr::include_graphics("./figures/membrane/Cell_junction_simplified_en.svg")
 ```
 
-## Cell Junction Molecules
+### Cell Junction Molecules
 
 The molecules responsible for creating cell junctions include various cell adhesion molecules. There are four main types: selectins, cadherins, integrins, and the immunoglobulin superfamily.
 

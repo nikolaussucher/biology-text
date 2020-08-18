@@ -51,19 +51,19 @@ knitr::kable(cellcyc, col.names = c("State", "Phase", "Abbreviation", "Descripti
 
 After cell division, each of the daughter cells begin the interphase of a new cycle. Although the various stages of interphase are not usually morphologically distinguishable, each phase of the cell cycle has a distinct set of specialized biochemical processes that prepare the cell for initiation of cell division.
 
-## G0 phase (quiescence)
+### G0 phase (quiescence)
 
 G0 is a resting phase where the cell has left the cycle and has stopped dividing. The cell cycle starts with this phase. Non-proliferative (non-dividing) cells in multicellular eukaryotes generally enter the quiescent G0 state from G1 and may remain quiescent for long periods of time, possibly indefinitely (as is often the case for neurons). This is very common for cells that are fully differentiated. Some cells enter the G0 phase semi-permanently and are considered post-mitotic, e.g., some liver, kidney, and stomach cells. Many cells do not enter G0 and continue to divide throughout an organism's life, e.g., epithelial cells.
 
 The word "post-mitotic" is sometimes used to refer to both quiescent and senescent cells. Cellular senescence occurs in response to DNA damage and external stress and usually constitutes an arrest in G1. Cellular senescence may make a cell's progeny nonviable; it is often a biochemical alternative to the self-destruction of such a damaged cell by apoptosis.
 
-## Interphase
+### Interphase
 
 Interphase is a series of changes that takes place in a newly formed cell and its nucleus before it becomes capable of division again. It is also called preparatory phase or intermitosis. Typically interphase lasts for at least 91% of the total time required for the cell cycle.
 
 Interphase proceeds in three stages, G1, S, and G2, followed by the cycle of mitosis and cytokinesis. The cell's nuclear DNA contents are duplicated during S phase.
 
-## G1 phase (First growth phase or Post mitotic gap phase)
+### G1 phase (First growth phase or Post mitotic gap phase)
 
 The first phase within interphase, from the end of the previous M phase until the beginning of DNA synthesis, is called G1 (G indicating gap). It is also called the growth phase. During this phase, the biosynthetic activities of the cell, which are considerably slowed down during M phase, resume at a high rate. The duration of G1 is highly variable, even among different cells of the same species. In this phase, the cell increases its supply of proteins, increases the number of organelles (such as mitochondria, ribosomes), and grows in size. In G1 phase, a cell has three options.
 
@@ -73,15 +73,15 @@ The first phase within interphase, from the end of the previous M phase until th
 
 The deciding point is called check point (Restriction point). This check point is called the restriction point or START and is regulated by G1/S cyclins, which cause transition from G1 to S phase. Passage through the G1 check point commits the cell to division.
 
-## S phase (DNA replication)
+### S phase (DNA Replication)
 
 The ensuing S phase starts when DNA synthesis commences; when it is complete, all of the chromosomes have been replicated, i.e., each chromosome consists of two sister chromatids. Thus, during this phase, the amount of DNA in the cell has doubled, though the ploidy and number of chromosomes are unchanged. Rates of RNA transcription and protein synthesis are very low during this phase. An exception to this is histone production, most of which occurs during the S phase.
 
-## G2 phase (growth)
+### G2 phase (growth)
 
 G2 phase occurs after DNA replication and is a period of protein synthesis and rapid cell growth to prepare the cell for mitosis. During this phase microtubules begin to reorganize to form a spindle (preprophase). Before proceeding to mitotic phase, cells must be checked at the G2checkpoint for any DNA damage within the chromosomes. The G2 checkpoint is mainly regulated by the tumor protein p53. If the DNA is damaged, p53 will either repair the DNA or trigger the apoptosis of the cell. If p53 is dysfunctional or mutated, cells with damaged DNA may continue through the cell cycle, leading to the development of cancer.
 
-## Mitotic Phase (Chromosome Separation)
+### Mitotic Phase (Chromosome Separation)
 
 The relatively brief M phase consists of nuclear division (karyokinesis). It is a relatively short period of the cell cycle. M phase is complex and highly regulated. The sequence of events is divided into phases, corresponding to the completion of one set of activities and the start of the next. These phases are sequentially known as:
 
@@ -130,7 +130,7 @@ Eukaryotes possess multiple large linear chromosomes contained in the cell's nuc
 
 In the nuclear chromosomes of eukaryotes, the uncondensed DNA exists in a semi-ordered structure, where it is wrapped around histones (structural proteins), forming a composite material called chromatin.
 
-### Interphase chromatin
+### Interphase Chromatin
 
 During interphase (the period of the cell cycle where the cell is not dividing), two types of chromatin can be distinguished:
 
@@ -150,7 +150,7 @@ Mitotic metaphase chromosomes are best described by a linearly organized longitu
 
 During mitosis, microtubules grow from centrosomes located at opposite ends of the cell and also attach to the centromere at specialized structures called kinetochores, one of which is present on each sister chromatid. A special DNA base sequence in the region of the kinetochores provides, along with special proteins, longer-lasting attachment in this region. The microtubules then pull the chromatids apart toward the centrosomes, so that each daughter cell inherits one set of chromatids. Once the cells have divided, the chromatids are uncoiled and DNA can again be transcribed. In spite of their appearance, chromosomes are structurally highly condensed, which enables these giant DNA structures to be contained within a cell nucleus.
 
-## Human chromosomes
+### Human chromosomes
 
 Chromosomes in humans can be divided into two types: autosomes (body chromosome(s)) and allosomes (sex chromosome(s)). Certain genetic traits are linked to a person's sex and are passed on through the sex chromosomes. The autosomes contain the rest of the genetic hereditary information. All act in the same way during cell division. Human cells have 23 pairs of chromosomes (22 pairs of autosomes and one pair of sex chromosomes), giving a total of 46 per cell (Figure \@ref(fig:karyotype)). In addition to these, human cells have many hundreds of copies of the mitochondrial genome. Sequencing of the human genome has provided a great deal of information about each of the chromosomes (Table \@ref(tab:chr)). 
 
@@ -186,7 +186,7 @@ Table: (\#tab:chr) [Human Genome Assembly GRCh38.p12 (nucleotides) and GRCh38.p1
 |Unplaced  | 4,485,509   |
 |Genome    |3,099,734,149|20,415|
 
-## Number of chromosomes in various organisms
+### Number of Chromosomes in Various Organisms
 
 The following tables (Tables \@ref(tab:numplants) and \@ref(tab:numanimals)) give the total number of chromosomes (including sex chromosomes) in a cell nucleus. For example, most eukaryotes are diploid, like humans who have 22 different types of autosomes, each present as homologous pairs (i.e. one chromosome of each type inherited from the mother and one from the father), and two sex chromosomes. This gives 46 chromosomes in total. Other organisms have more than two copies of their chromosome types, such as bread wheat, which is hexaploid and has six copies of seven different chromosome types – 42 chromosomes in total.
 
@@ -243,7 +243,7 @@ Sexually reproducing species have somatic cells (body cells), which are diploid 
 
 Some animal and plant species are polyploid [Xn]: They have more than two sets of homologous chromosomes. Plants important in agriculture such as tobacco or wheat are often polyploid, compared to their ancestral species. Wheat has a haploid number of seven chromosomes, still seen in some cultivars as well as the wild progenitors. The more-common pasta and bread wheat types are polyploid, having 28 (tetraploid) and 42 (hexaploid) chromosomes, compared to the 14 (diploid) chromosomes in the wild wheat.
 
-### In prokaryotes
+### Prokaryotic Chromosomes
 
 Prokaryote species generally have one copy of each major chromosome, but most cells can easily survive with multiple copies. For example, Buchnera, a symbiont of aphids has multiple copies of its chromosome, ranging from 10–400 copies per cell. However, in some large bacteria, such as *Epulopiscium fishelsoni* up to 100,000 copies of the chromosome can be present. Plasmids and plasmid-like small chromosomes are, as in eukaryotes, highly variable in copy number. The number of plasmids in the cell is almost entirely determined by the rate of division of the plasmid – fast division causes high copy number.
 
@@ -349,7 +349,6 @@ Cytokinesis is not a phase of mitosis but rather a separate process, necessary f
 
 There are many cells where mitosis and cytokinesis occur separately, forming single cells with multiple nuclei. The most notable occurrence of this is among the fungi, slime molds, and coenocytic algae, but the phenomenon is found in various other organisms. Even in animals, cytokinesis and mitosis may occur independently, for instance during certain stages of fruit fly embryonic development.
 
-
 Mitosis occurs in the following circumstances:
 
 * Development and growth: The number of cells within an organism increases by mitosis. This is the basis of the development of a multicellular body from a single cell, i.e., zygote and also the basis of the growth of a multicellular body.
@@ -363,7 +362,7 @@ Mitosis is immediately followed by cytokinesis, which divides the nuclei, cytopl
 
 Because cytokinesis usually occurs in conjunction with mitosis, "mitosis" is often used interchangeably with "M phase". However, there are many cells where mitosis and cytokinesis occur separately, forming single cells with multiple nuclei in a process called endoreplication. This occurs most notably among the fungi and slime molds, but is found in various groups. Even in animals, cytokinesis and mitosis may occur independently, for instance during certain stages of fruit fly embryonic development. Errors in mitosis can result in cell death through apoptosis or cause mutations that may lead to cancer.
 
-## Regulation of eukaryotic cell cycle
+## Regulation of The Eukaryotic Cell Cycle
 
 Levels of the three major cyclin types oscillate during the cell cycle (top), providing the basis for oscillations in the cyclin–Cdk complexes that drive cell-cycle events (bottom). In general, Cdk levels are constant and in large excess over cyclin levels; thus, cyclin–Cdk complexes form in parallel with cyclin levels. The enzymatic activities of cyclin–Cdk complexes also tend to rise and fall in parallel with cyclin levels, although in some cases Cdk inhibitor proteins or phosphorylation introduce a delay between the formation and activation of cyclin–Cdk complexes. Formation of active G1/S–Cdk complexes commits the cell to a new division cycle at the Start checkpoint in late G1. G1/S–Cdks then activate the S–Cdk complexes that initiate DNA replication at the beginning of S phase. M–Cdk activation occurs after the completion of S phase, resulting in progression through the G2/M checkpoint and assembly of the mitotic spindle. APC activation then triggers sister-chromatid separation at the metaphase-to-anaphase transition. APC activity also causes the destruction of S and M cyclins and thus the inactivation of Cdks, which promotes the completion of mitosis and cytokinesis. APC activity is maintained in G1 until G1/S–Cdk activity rises again and commits the cell to the next cycle. This scheme serves only as a general guide and does not apply to all cell types.
 Regulation of the cell cycle involves processes crucial to the survival of a cell, including the detection and repair of genetic damage as well as the prevention of uncontrolled cell division. The molecular events that control the cell cycle are ordered and directional; that is, each process occurs in a sequential fashion and it is impossible to "reverse" the cycle.
@@ -410,7 +409,7 @@ Checkpoint regulation plays an important role in an organism's development. In s
 
 p53 plays an important role in triggering the control mechanisms at both G1/S and G2/M checkpoints. In addition to p53, checkpoint regulators are being heavily researched for their roles in cancer growth and proliferation.
 
-### Role in tumor formation
+### Role in Tumor Formation
 
 A disregulation of the cell cycle components may lead to tumor formation. As mentioned above, when some genes like the cell cycle inhibitors, RB, p53 etc. mutate, they may cause the cell to multiply uncontrollably, forming a tumor. Although the duration of cell cycle in tumor cells is equal to or longer than that of normal cell cycle, the proportion of cells that are in active cell division (versus quiescent cells in G0 phase) in tumors is much higher than that in normal tissue.[citation needed] Thus there is a net increase in cell number as the number of cells that die by apoptosis or senescence remains the same.
 

@@ -290,7 +290,7 @@ There are several types of organelles in a cell. Some (such as the nucleus and g
 * Centrosome: the cytoskeleton organiser: The centrosome produces the microtubules of a cell – a key component of the cytoskeleton. It directs the transport through the ER and the Golgi apparatus. Centrosomes are composed of two centrioles, which separate during cell division and help in the formation of the mitotic spindle. A single centrosome is present in the animal cells. They are also found in some fungi and algae cells.
 * Vacuoles: Vacuoles sequester waste products and in plant cells store water. They are often described as liquid filled space and are surrounded by a membrane. Some cells, most notably Amoeba, have contractile vacuoles, which can pump water out of the cell if there is too much water. The vacuoles of plant cells and fungal cells are usually larger than those of animal cells.
 
-## The Cell Nucleus
+### The Cell Nucleus
 
 In cell biology, the nucleus (pl. nuclei; from Latin nucleus or nuculeus, meaning kernel or seed) is a membrane-bound organelle found in eukaryotic cells. Eukaryotes usually have a single nucleus, but a few cell types, such as mammalian red blood cells, have no nuclei, and a few others including osteoclasts have many. Inside its fully enclosed nuclear membrane, it contains the majority of the cell's genetic material. This material is organized as DNA molecules, along with a variety of proteins, to form chromosomes.
 
@@ -351,7 +351,7 @@ In the first step of ribosome assembly, a protein called RNA polymerase I transc
 
 When observed under the electron microscope, the nucleolus can be seen to consist of three distinguishable regions: the innermost fibrillar centers (FCs), surrounded by the dense fibrillar component (DFC) (that contains fibrillarin and nucleolin), which in turn is bordered by the granular component (GC) (that contains the protein nucleophosmin). Transcription of the rDNA occurs either in the FC or at the FC-DFC boundary, and, therefore, when rDNA transcription in the cell is increased, more FCs are detected. Most of the cleavage and modification of rRNAs occurs in the DFC, while the latter steps involving protein assembly onto the ribosomal subunits occur in the GC.
 
-## The Mitochondria
+### The Mitochondria
 
 The [mitochondrion](https://en.wikipedia.org/wiki/Mitochondrion) (plural mitochondria) is a semi autonomous double-membrane-bound organelle found in most eukaryotic organisms. Some cells in some multicellular organisms may, however, lack mitochondria (for example, mature mammalian red blood cells). 
 
@@ -403,7 +403,7 @@ The most prominent roles of mitochondria are to produce the energy currency of t
 <p class="caption">(\#fig:dapimitotracker)(ref:fluocell)</p>
 </div>
 
-## The Chloroplasts
+### The Chloroplasts
 
 [Chloroplasts](https://en.wikipedia.org/wiki/Chloroplast) are organelles that conduct photosynthesis, where the photosynthetic pigment chlorophyll captures the energy from sunlight, converts it, and stores it in the energy-storage molecules ATP and NADPH while freeing oxygen from water in plant and algal cells. They then use the ATP and NADPH to make organic molecules from carbon dioxide in a process known as the Calvin cycle. Chloroplasts carry out a number of other functions, including fatty acid synthesis, much amino acid synthesis, and the immune response in plants. The number of chloroplasts per cell varies from one, in unicellular algae, up to 100 in plants like Arabidopsis and wheat.
 
@@ -452,7 +452,7 @@ The chloroplasts of plant and algal cells can orient themselves to best suit the
 
 One of the main functions of the chloroplast is its role in photosynthesis, the process by which light is transformed into chemical energy, to subsequently produce food in the form of sugars. Water (H~2~O) and carbon dioxide (CO~2~) are used in photosynthesis, and sugar and oxygen (O2) is made, using light energy. Photosynthesis is divided into two stages—the light reactions, where water is split to produce oxygen, and the dark reactions, or Calvin cycle, which builds sugar molecules from carbon dioxide. The two phases are linked by the energy carriers adenosine triphosphate (ATP) and nicotinamide adenine dinucleotide phosphate (NADP+).
 
-## The Endoplasmic Reticulum
+### The Endoplasmic Reticulum
 
 The [endoplasmic reticulum](https://en.wikipedia.org/wiki/Endoplasmic_reticulum) (ER) is a type of organelle made up of two subunits – rough endoplasmic reticulum (RER), and smooth endoplasmic reticulum (SER). The endoplasmic reticulum is found in most eukaryotic cells and forms an interconnected network of flattened, membrane-enclosed sacs known as cisternae (in the RER), and tubular structures in the SER. The membranes of the ER are continuous with the outer nuclear membrane. The endoplasmic reticulum is not found in red blood cells, or spermatozoa.
 
@@ -466,7 +466,7 @@ The surface of the rough endoplasmic reticulum (often abbreviated RER or rough E
 
 In most cells the smooth endoplasmic reticulum (abbreviated SER) is scarce. Instead there are areas where the ER is partly smooth and partly rough, this area is called the transitional ER. The transitional ER gets its name because it contains ER exit sites. These are areas where the transport vesicles that contain lipids and proteins made in the ER, detach from the ER and start moving to the Golgi apparatus. Specialized cells can have a lot of smooth endoplasmic reticulum and in these cells the smooth ER has many functions. It synthesizes lipids, phospholipids, and steroids. Cells which secrete these products, such as those in the testes, ovaries, and sebaceous glands have an abundance of smooth endoplasmic reticulum. It also carries out the metabolism of carbohydrates, detoxification of natural metabolism products and of alcohol and drugs, attachment of receptors on cell membrane proteins, and steroid metabolism. In muscle cells, it regulates calcium ion concentration. 
 
-## The Golgi Apparatus
+### The Golgi Apparatus
 
 The [Golgi apparatus](https://en.wikipedia.org/wiki/Golgi_apparatus), also known as the Golgi complex, Golgi body, or simply the Golgi, is an organelle found in most eukaryotic cells. Part of the endomembrane system in the cytoplasm, it packages proteins into membrane-bound vesicles inside the cell before the vesicles are sent to their destination. It resides at the intersection of the secretory, lysosomal, and endocytic pathways. It is of particular importance in processing proteins for secretion, containing a set of glycosylation enzymes that attach various sugar monomers to proteins as the proteins move through the apparatus.
 
@@ -483,7 +483,7 @@ The Golgi apparatus is a major collection and dispatch station of protein produc
 <p class="caption">(\#fig:endomembranediagram)(ref:endomembrane)</p>
 </div>
 
-## The Ribosomes
+### The Ribosomes
 
 * Ribosomes: The ribosome is a large complex of RNA and protein molecules. They each consist of two subunits, and act as an assembly line where RNA from the nucleus is used to synthesise proteins from amino acids. Ribosomes can be found either floating freely or bound to a membrane (the rough endoplasmatic reticulum in eukaryotes, or the cell membrane in prokaryotes).
 

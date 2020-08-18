@@ -1,6 +1,6 @@
 # Biology: The Science of Life
 
-[Biology](https://en.wikipedia.org/wiki/Biology) is the natural science that studies life and living organisms, including their physical structure, chemical processes, molecular interactions, physiological mechanisms, development and evolution. Despite the complexity of the science, certain unifying concepts consolidate it into a single, coherent field. Biology recognizes the cell as the basic unit of life, genes as the basic unit of heredity, and evolution as the engine that propels the creation and extinction of species. Living organisms are open systems that survive by transforming energy and decreasing their local entropy to maintain a stable and vital condition defined as homeostasis.
+[Biology](https://en.wikipedia.org/wiki/Biology) is the natural science that studies life and living organisms, including their physical structure, chemical processes, molecular interactions, physiological mechanisms, development and evolution. Despite the complexity of the science, certain unifying concepts consolidate it into a single, coherent field. Biology recognizes the cell as the basic unit of life, genes as the basic unit of heredity, and evolution as the engine that propels the creation and extinction of species. Living organisms (from Greek: ὀργανισμός, organismos) are open systems that survive by transforming energy and decreasing their local entropy to maintain a stable and vital condition defined as homeostasis.
 
 Sub-disciplines of biology are defined by the research methods employed and the kind of system studied: theoretical biology uses mathematical methods to formulate quantitative models while experimental biology performs empirical experiments to test the validity of proposed theories and understand the mechanisms underlying life and how it appeared and evolved from non-living matter about 4 billion years ago through a gradual increase in the complexity of the system. 
 
@@ -95,7 +95,7 @@ According to the panspermia hypothesis, microscopic life—distributed by meteor
 
 Since its primordial beginnings, life on Earth has changed its environment on a geologic time scale, but it has also adapted to survive in most ecosystems and conditions. Some microorganisms, called extremophiles, thrive in physically or geochemically extreme environments that are detrimental to most other life on Earth. The cell is considered the structural and functional unit of life. There are two kinds of cells, prokaryotic and eukaryotic, both of which consist of cytoplasm enclosed within a membrane and contain many biomolecules such as proteins and nucleic acids. Cells reproduce through a process of cell division, in which the parent cell divides into two or more daughter cells.
 
-(ref:celltypes) [Cartoons of a eukaryotic cell (left) and prokaryotic cell (right)](https://commons.wikimedia.org/wiki/File:Celltypes.svg)
+(ref:celltypes) [Cartoons of a eukaryotic and prokaryotic cell.](https://commons.wikimedia.org/wiki/File:Celltypes.svg)
 
 <div class="figure" style="text-align: center">
 <img src="./figures/life/Celltypes.svg" alt="(ref:celltypes)" width="70%" />
@@ -129,7 +129,7 @@ Multicellular organisms may have first evolved through the formation of colonies
 
 Cells have evolved methods to perceive and respond to their microenvironment, thereby enhancing their adaptability. Cell signaling coordinates cellular activities, and hence governs the basic functions of multicellular organisms. Signaling between cells can occur through direct cell contact using juxtacrine signalling, or indirectly through the exchange of agents as in the endocrine system. In more complex organisms, coordination of activities can occur through a dedicated nervous system.
 
-## Evolution
+## The Theory of Evolution
 
 A central organizing concept in biology is that life changes and develops through [evolution](https://en.wikipedia.org/wiki/Evolution), and that all life-forms known have a common origin. The theory of evolution postulates that all organisms on the Earth, both living and extinct, have descended from a common ancestor or an ancestral gene pool. This universal common ancestor of all organisms is believed to have appeared about 3.5 billion years ago. Biologists regard the ubiquity of the genetic code as definitive evidence in favor of the theory of universal common descent for all bacteria, archaea, and eukaryotes.
 
@@ -145,11 +145,11 @@ The evolutionary history of life on Earth traces the processes by which living a
 
 The earliest evidence of life comes from biogenic carbon signatures and stromatolite fossils discovered in 3.7 billion-year-old metasedimentary rocks from western Greenland. In 2015, possible "remains of biotic life" were found in 4.1 billion-year-old rocks in Western Australia. In March 2017, putative evidence of possibly the oldest forms of life on Earth was reported in the form of fossilized microorganisms discovered in hydrothermal vent precipitates in the Nuvvuagittuq Belt of Quebec, Canada, that may have lived as early as 4.28 billion years ago, not long after the oceans formed 4.4 billion years ago, and not long after the formation of the Earth 4.54 billion years ago.
 
-(ref:stromatolite) [Modern stromatolites in Shark Bay, Western Australia](https://commons.wikimedia.org/wiki/File:Stromatolites_in_Sharkbay.jpg) 
+(ref:stromato) [Modern stromatolites in Shark Bay, Western Australia](https://commons.wikimedia.org/wiki/File:Stromatolites_in_Sharkbay.jpg) 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/life/Stromatolites_in_Sharkbay.jpg" alt="(ref:)" width="70%" />
-<p class="caption">(\#fig:unnamed-chunk-1)(ref:)</p>
+<img src="./figures/life/Stromatolites_in_Sharkbay.jpg" alt="(ref:stromato)" width="70%" />
+<p class="caption">(\#fig:stromatolites)(ref:stromato)</p>
 </div>
 
 Microbial mats of coexisting bacteria and archaea were the dominant form of life in the early Archean Epoch and many of the major steps in early evolution are thought to have taken place in this environment. The evolution of photosynthesis, around 3.5 Ga, eventually led to a buildup of its waste product, oxygen, in the atmosphere, leading to the great oxygenation event, beginning around 2.4 Ga. The earliest evidence of eukaryotes (complex cells with organelles) dates from 1.85 Ga, and while they may have been present earlier, their diversification accelerated when they started using oxygen in their metabolism. Later, around 1.7 Ga, multicellular organisms began to appear, with differentiated cells performing specialised functions. Sexual reproduction, which involves the fusion of male and female reproductive cells (gametes) to create a zygote in a process called fertilization is, in contrast to asexual reproduction, the primary method of reproduction for the vast majority of macroscopic organisms, including almost all eukaryotes (which includes animals and plants). However the origin and evolution of sexual reproduction remain a puzzle for biologists though it did evolve from a common ancestor that was a single celled eukaryotic species. Bilateria, animals having a left and a right side that are mirror images of each other, appeared by 555 Ma (million years ago).
@@ -180,8 +180,6 @@ Some of the energy thus captured produces biomass and energy that is available f
 
 ## Areas And Levels of Study And Research in Biology
 
-### Structural
-
 [Molecular biology](https://en.wikipedia.org/wiki/Molecular_biology) is the study of biology at the molecular level. This field overlaps with other areas of biology, particularly those of genetics and biochemistry. Molecular biology is a study of the interactions of the various systems within a cell, including the interrelationships of DNA, RNA, and protein synthesis and how those interactions are regulated.
 
 The next larger scale, [cell biology](https://en.wikipedia.org/wiki/Cell_biology), studies the structural and physiological properties of cells, including their internal behavior, interactions with other cells, and with their environment. This is done on both the microscopic and molecular levels, for unicellular organisms such as bacteria, as well as the specialized cells of multicellular organisms such as humans. Understanding the structure and function of cells is fundamental to all of the biological sciences. The similarities and differences between cell types are particularly relevant to molecular biology.
@@ -192,19 +190,13 @@ The next larger scale, [cell biology](https://en.wikipedia.org/wiki/Cell_biology
 
 [Developmental biology](https://en.wikipedia.org/wiki/Developmental_biology) studies the process by which organisms grow and develop. Developmental biology, originated from embryology, studies the genetic control of cell growth, cellular differentiation, and "cellular morphogenesis," which is the process that progressively gives rise to tissues, organs, and anatomy. Model organisms for developmental biology include the round worm Caenorhabditis elegans, the fruit fly Drosophila melanogaster, the zebrafish Danio rerio, the mouse Mus musculus, and the weed Arabidopsis thaliana. (A model organism is a species that is extensively studied to understand particular biological phenomena, with the expectation that discoveries made in that organism provide insight into the workings of other organisms.)
 
-### Physiological
-
 [Physiology](https://en.wikipedia.org/wiki/Physiology) is the study of the mechanical, physical, and biochemical processes of living organisms function as a whole. The theme of "structure to function" is central to biology. Physiological studies have traditionally been divided into plant physiology and animal physiology, but some principles of physiology are universal, no matter what particular organism is being studied. For example, what is learned about the physiology of yeast cells can also apply to human cells. The field of animal physiology extends the tools and methods of human physiology to non-human species. Plant physiology borrows techniques from both research fields.
 
 Physiology is the study the interaction of how, for example, the nervous, immune, endocrine, respiratory, and circulatory systems, function and interact. The study of these systems is shared with such medically oriented disciplines as neurology and immunology.
 
-### Evolutionary
-
 Evolutionary research is concerned with the origin and descent of species, and their change over time. It employs scientists from many taxonomically oriented disciplines, for example, those with special training in particular organisms such as mammalogy, ornithology, botany, or herpetology, but are of use in answering more general questions about evolution.
 
 [Evolutionary biology](https://en.wikipedia.org/wiki/Evolutionary_biology) is partly based on [paleontology](https://en.wikipedia.org/wiki/Paleontology), which uses the fossil record to answer questions about the mode and tempo of evolution, and partly on the developments in areas such as population genetics. In the 1980s, developmental biology re-entered evolutionary biology after its initial exclusion from the modern synthesis through the study of evolutionary developmental biology. Phylogenetics, systematics, and taxonomy are related fields often considered part of evolutionary biology.
-
-### Systematic
 
 Multiple speciation events create a tree structured system of relationships between species. The role of [systematics](https://en.wikipedia.org/wiki/Systematics) is to study these relationships and thus the differences and similarities between species and groups of species. However, systematics was an active field of research long before evolutionary thinking was common.
 
@@ -232,8 +224,6 @@ The scientific name of an organism is generated from its genus and species. For 
 
 The dominant classification system is called the Linnaean taxonomy. It includes ranks and binomial nomenclature. How organisms are named is governed by international agreements such as the International Code of Nomenclature for algae, fungi, and plants (ICN), the International Code of Zoological Nomenclature (ICZN), and the International Code of Nomenclature of Bacteria (ICNB). The classification of viruses, viroids, prions, and all other sub-viral agents that demonstrate biological characteristics is conducted by the International Committee on Taxonomy of Viruses (ICTV) and is known as the International Code of Viral Classification and Nomenclature (ICVCN). 
 
-### Ecological And Environmental
-
 [Ecology](https://en.wikipedia.org/wiki/Ecology) is the study of the distribution and abundance of living organisms, the interaction between them and their environment. An organism shares an environment that includes other organisms and biotic factors as well as local abiotic factors (non-living) such as climate and ecology. One reason that biological systems can be difficult to study is that so many different interactions with other organisms and the environment are possible, even on small scales. A microscopic bacterium responding to a local sugar gradient is responding to its environment as much as a lion searching for food in the African savanna. For any species, behaviors can be co-operative, competitive, parasitic, or symbiotic. Matters become more complex when two or more species interact in an ecosystem.
 
 Ecological systems are studied at several different levels, from the scale of the ecology of individual organisms, to those of populations, to the ecosystems and finally the biosphere. The term population biology is often used interchangeably with population ecology, although population biology is more frequently used in the case of diseases, viruses, and microbes, while the term population ecology is more commonly applied to the study of plants and animals. Ecology draws on many subdisciplines.
@@ -251,8 +241,8 @@ Scientists are individuals who conduct scientific research to advance knowledge 
 (ref:scientist) [Two scientists working at the Natinal Cancer Institute which is part of the National Institutes of Health of the United States of America.](https://commons.wikimedia.org/wiki/File:Researcher_looking_through_microscope.jpg) 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/life/Researcher_looking_through_microscope.jpg" alt="(ref:)" width="70%" />
-<p class="caption">(\#fig:unnamed-chunk-2)(ref:)</p>
+<img src="./figures/life/Researcher_looking_through_microscope.jpg" alt="(ref:scientist)" width="70%" />
+<p class="caption">(\#fig:twoscientists)(ref:scientist)</p>
 </div>
 
 The roles of "scientists", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time. Scientists of different eras (and before them, natural philosophers and others who contributed to the development of science) have had widely different places in society, and the social norms, ethical values, and epistemic virtues associated with scientists—and expected of them—have changed over time as well. 
@@ -263,7 +253,7 @@ The presence of women in science spans the earliest times of the history of scie
 
 The involvement of women in the field of medicine occurred in several early civilizations, and the study of natural philosophy in ancient Greece was open to women. Women contributed to the proto-science of alchemy in the first or second centuries AD. During the Middle Ages, religious convents were an important place of education for women, and some of these communities provided opportunities for women to contribute to scholarly research. The 11th century saw the emergence of the first universities; women were, for the most part, excluded from university education. Outside academia, botany was the science that benefitted most from contributions of women in early modern times. Gender roles were largely deterministic in the eighteenth century and women made substantial advances in science. During the nineteenth century, women were excluded from most formal scientific education, but they began to be admitted into learned societies during this period. In the later nineteenth century, the rise of the women's college provided jobs for women scientists and opportunities for education. [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie), a physicist and chemist who conducted pioneering research on radioactive decay, was the first woman to receive a Nobel Prize in Physics and became the first person to receive a second Nobel Prize in Chemistry. Forty women have been awarded the Nobel Prize between 1901 and 2010. Seventeen women have been awarded the Nobel Prize in physics, chemistry, physiology or medicine.
 
-(ref:mc) [At First Solvay Conference (1911), Maie Curie (seated, second from right) confers with Henri Poincaré; standing, fourth from right, is Rutherford; second from right, Einstein; far right, Paul Langevin](https://commons.wikimedia.org/wiki/File:1911_Solvay_conference.jpg) 
+(ref:mc) [At First Solvay Conference (1911), Marie Curie (seated, second from right) confers with Henri Poincaré; standing, fourth from right, is Rutherford; second from right, Einstein; far right, Paul Langevin](https://commons.wikimedia.org/wiki/File:1911_Solvay_conference.jpg) 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/life/1911_Solvay_conference.jpg" alt="(ref:mc)" width="70%" />
