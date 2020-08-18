@@ -75,7 +75,7 @@ The human heart is situated in the middle mediastinum, at the level of thoracic 
 
 The largest part of the heart is usually slightly offset to the left side of the chest (though occasionally it may be offset to the right) and is felt to be on the left because the left heart is stronger and larger, since it pumps to all body parts. Because the heart is between the lungs, the left lung is smaller than the right lung and has a cardiac notch in its border to accommodate the heart. The heart is cone-shaped, with its base positioned upwards and tapering down to the apex. An adult heart has a mass of 250–350 grams (9–12 oz). The heart is often described as the size of a fist: 12 cm (5 in) in length, 8 cm (3.5 in) wide, and 6 cm (2.5 in) in thickness, although this description is disputed, as the heart is likely to be slightly larger. Well-trained athletes can have much larger hearts due to the effects of exercise on the heart muscle, similar to the response of skeletal muscle.
 
-## Structure of The Heart
+### Structure of The Heart
 
 The heart has four chambers, two upper atria, the receiving chambers, and two lower ventricles, the discharging chambers. The atria open into the ventricles via the atrioventricular valves, present in the atrioventricular septum. This distinction is visible also on the surface of the heart as the coronary sulcus. There is an ear-shaped structure in the upper right atrium called the right atrial appendage, or auricle, and another in the upper left atrium, the left atrial appendage. The right atrium and the right ventricle together are sometimes referred to as the right heart. Similarly, the left atrium and the left ventricle together are sometimes referred to as the left heart. The ventricles are separated from each other by the interventricular septum, visible on the surface of the heart as the anterior longitudinal sulcus and the posterior interventricular sulcus.
 
@@ -115,7 +115,7 @@ The middle layer of the heart wall is the myocardium, which is the cardiac muscl
 
 There are two types of cells in cardiac muscle: muscle cells which have the ability to contract easily, and pacemaker cells of the conducting system. The muscle cells make up the bulk (99%) of cells in the atria and ventricles. These contractile cells are connected by intercalated discs which allow a rapid response to impulses of action potential from the pacemaker cells. The intercalated discs allow the cells to act as a syncytium and enable the contractions that pump blood through the heart and into the major arteries. The pacemaker cells make up 1% of cells and form the conduction system of the heart. They are generally much smaller than the contractile cells and have few myofibrils which gives them limited contractibility. Their function is similar in many respects to neurons. Cardiac muscle tissue has autorhythmicity, the unique ability to initiate a cardiac action potential at a fixed rate—spreading the impulse rapidly from cell to cell to trigger the contraction of the entire heart.
 
-## The Pericardium
+### The Pericardium
 
 The pericardium is the sack that surrounds the heart. The tough outer surface of the pericardium is called the fibrous membrane. This is lined by a double inner membrane called the serous membrane that produces pericardial fluid to lubricate the surface of the heart. The part of the serous membrane attached to the fibrous membrane is called the parietal pericardium, while the part of the serous membrane attached to the heart is known as the visceral pericardium. The pericardium is present in order to lubricate its movement against other structures within the chest, to keep the heart's position stabilised within the chest, and to protect the heart from infection.
 
@@ -143,13 +143,13 @@ The right heart collects deoxygenated blood from two large veins, the superior a
 
 In the left heart, oxygenated blood is returned to the left atrium via the pulmonary veins. It is then pumped into the left ventricle through the mitral valve and into the aorta through the aortic valve for systemic circulation. The aorta is a large artery that branches into many smaller arteries, arterioles, and ultimately capillaries. In the capillaries, oxygen and nutrients from blood are supplied to body cells for metabolism, and exchanged for carbon dioxide and waste products. Capillary blood, now deoxygenated, travels into venules and veins that ultimately collect in the superior and inferior vena cavae, and into the right heart.
 
-## The Cardiac Cycle
+### The Cardiac Cycle
 
 The cardiac cycle refers to the sequence of events in which the heart contracts and relaxes with every heartbeat. The period of time during which the ventricles contract, forcing blood out into the aorta and main pulmonary artery, is known as systole, while the period during which the ventricles relax and refill with blood is known as diastole. The atria and ventricles work in concert, so in systole when the ventricles are contracting, the atria are relaxed and collecting blood. When the ventricles are relaxed in diastole, the atria contract to pump blood to the ventricles. This coordination ensures blood is pumped efficiently to the body.
 
 At the beginning of the cardiac cycle, the ventricles are relaxing. As they do so, they are filled by blood passing through the open mitral and tricuspid valves. After the ventricles have completed most of their filling, the atria contract, forcing further blood into the ventricles and priming the pump. Next, the ventricles start to contract. As the pressure rises within the cavities of the ventricles, the mitral and tricuspid valves are forced shut. As the pressure within the ventricles rises further, exceeding the pressure with the aorta and pulmonary arteries, the aortic and pulmonary valves open. Blood is ejected from the heart, causing the pressure within the ventricles to fall. Simultaneously, the atria refill as blood flows into the right atrium through the superior and inferior vena cavae, and into the left atrium through the pulmonary veins. Finally, when the pressure within the ventricles falls below the pressure within the aorta and pulmonary arteries, the aortic and pulmonary valves close. The ventricles start to relax, the mitral and tricuspid valves open, and the cycle begins again
 
-## Control of The Heart Rate
+### Control of The Heart Rate
 
 The normal resting heart rate is called the sinus rhythm, created and sustained by the sinoatrial node, a group of pacemaking cells found in the wall of the right atrium. Cells in the sinoatrial node do this by creating an action potential. The cardiac action potential is created by the movement of specific electrolytes into and out of the pacemaker cells. The action potential then spreads to nearby cells.
 
@@ -165,7 +165,7 @@ The ions move from areas where they are concentrated to where they are not. For 
 
 The adult resting heart rate ranges from 60 to 100 bpm. The resting heart rate of a newborn can be 129 beats per minute (bpm) and this gradually decreases until maturity. An athlete's heart rate can be lower than 60 bpm. During exercise the rate can be 150 bpm with maximum rates reaching from 200 to 220 bpm.
 
-## The Electrocardiogram (EKG)
+### The Electrocardiogram (EKG)
 
 Using surface electrodes on the body, it is possible to record the electrical activity of the heart. This tracing of the electrical signal is the electrocardiogram (ECG) or (EKG). An ECG is a bedside test and involves the placement of ten leads on the body. This produces a "12 lead" ECG (three extra leads are calculated mathematically, and one lead is a ground).
 
@@ -189,7 +189,7 @@ Arteries branch into small passages called arterioles and then into the capillar
 
 Capillaries merge into venules, which merge into veins. The venous system feeds into the two major veins: the superior vena cava – which mainly drains tissues above the heart – and the inferior vena cava – which mainly drains tissues below the heart. These two large veins empty into the right atrium of the heart.
 
-## Portal veins
+### Portal veins
 
 The general rule is that arteries from the heart branch out into capillaries, which collect into veins leading back to the heart. Portal veins are a slight exception to this. In humans the only significant example is the hepatic portal vein which combines from capillaries around the gastrointestinal tract where the blood absorbs the various products of digestion; rather than leading directly back to the heart, the hepatic portal vein branches into a second capillary system in the liver.
 
@@ -255,5 +255,4 @@ Finally, the English physician William Harvey, a pupil of Hieronymus Fabricius (
 In 1956, André Frédéric Cournand, Werner Forssmann and Dickinson W. Richards were awarded the Nobel Prize in Medicine "for their discoveries concerning heart catheterization and pathological changes in the circulatory system." In his Nobel lecture, Forssmann credits Harvey as birthing cardiology with the publication of his book in 1628.
 
 In the 1970s, Diana McSherry developed computer-based systems to create images of the circulatory system and heart without the need for surgery.
-
 

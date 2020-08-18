@@ -196,7 +196,7 @@ knitr::include_graphics("./figures/chemistry/Hydroxonium-cation.svg")
 (ref:hydroxide) [Lewis structure of the hydroxide ion showing three lone pairs on the oxygen atom](https://commons.wikimedia.org/wiki/File:Hydroxide_lone_pairs-2D.svg) 
 
 ```{r hydroxideion, fig.cap='(ref:hydroxide)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/chemistry/Hydroxonium-cation.svg")
+knitr::include_graphics("./figures/chemistry/Hydroxide_lone_pairs-2D.svg")
 ```
 
 A third common theory is Lewis acid-base theory, which is based on the formation of new chemical bonds. Lewis theory explains that an acid is a substance which is capable of accepting a pair of electrons from another substance during the process of bond formation, while a base is a substance which can provide a pair of electrons to form a new bond. According to this theory, the crucial things being exchanged are charges. There are several other ways in which a substance may be classified as an acid or a base, as is evident in the history of this concept.
@@ -330,12 +330,6 @@ Water is a good polar solvent, that dissolves many salts and hydrophilic organic
 Many organic substances (such as fats and oils and alkanes) are hydrophobic, that is, insoluble in water. Many inorganic substances are insoluble too, including most metal oxides, sulfides, and silicates.
 
 Because of its polarity, a molecule of water in the liquid or solid state can form up to four hydrogen bonds with neighboring molecules. Hydrogen bonds are about ten times as strong as the Van der Waals force that attracts molecules to each other in most liquids. This is the reason why the melting and boiling points of water are much higher than those of other analogous compounds like hydrogen sulfide. They also explain its exceptionally high specific heat capacity (about 4.2 J/g/K), heat of fusion (about 333 J/g), heat of vaporization (2257 J/g), and thermal conductivity (between 0.561 and 0.679 W/m/K). These properties make water more effective at moderating Earth's climate, by storing heat and transporting it between the oceans and the atmosphere. The hydrogen bonds of water are around 23 kJ/mol (compared to a covalent O-H bond at 492 kJ/mol). Of this, it is estimated that 90% is attributable to electrostatics, while the remaining 10% is partially covalent.
-
-(ref:water) [Model of hydrogen bonds (1) between molecules of water.](https://commons.wikimedia.org/wiki/File:3D_model_hydrogen_bonds_in_water.svg) 
-
-```{r hydrogenbonds, fig.cap='(ref:water)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/chemistry/3D_model_hydrogen_bonds_in_water.svg")
-```
 
 These bonds are the cause of water's high surface tension and capillary forces. The capillary action refers to the tendency of water to move up a narrow tube against the force of gravity. This property is relied upon by all vascular plants, such as trees.
 

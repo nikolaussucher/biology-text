@@ -2,6 +2,34 @@
 
 Taxonomy is the identification, naming and classification of organisms. Binomial nomenclature is a formal system of naming species of living things by giving each a name composed of two parts. Systematics is the branch of science that deals with unique properties of species and groups to recognise, describe name and arrange the diverse organisms according to an organised plan. In biology, phylogenetics (Greek: φυλή, φῦλον – phylé, phylon = tribe, clan, race + γενετικός – genetikós = origin, source, birth) is a part of systematics that addresses the inference of the evolutionary history and relationships among or within groups of organisms (e.g. species, or more inclusive taxa). Classifications are now usually based on phylogenetic data. The degree to which classification depends on inferred evolutionary history differs depending on the school of taxonomy: phenetics ignores phylogenetic speculation altogether, trying to represent the similarity between organisms instead; cladistics (phylogenetic systematics) tries to reflect phylogeny in its classifications by only recognizing groups based on shared, derived characters (synapomorphies); evolutionary taxonomy tries to take into account both the branching pattern and "degree of difference" to find a compromise between them.
 
+Biological classification is a critical component of the taxonomic process. As a result, it informs the user as to what the relatives of the taxon are hypothesized to be. Biological classification uses taxonomic ranks, including among others (in order from most inclusive to least inclusive): Domain, Kingdom, Phylum, Class, Order, Family, Genus, and Species
+
+(ref:classification) [Biological classification.](https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo_vflip.svg)
+
+```{r classification, fig.cap='(ref:classification)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/systematics/biological_classification.svg")
+```
+
+The "definition" of a taxon is encapsulated by its description or its diagnosis or by both combined. There are no set rules governing the definition of taxa, but the naming and publication of new taxa is governed by sets of rules. In zoology, the nomenclature for the more commonly used ranks (superfamily to subspecies), is regulated by the International Code of Zoological Nomenclature (ICZN Code). In the fields of botany, phycology, and mycology, the naming of taxa is governed by the International Code of Nomenclature for algae, fungi, and plants (ICN).
+
+The initial description of a taxon involves five main requirements:
+
+1.  The taxon must be given a name based on the 26 letters of the Latin alphabet (a binomial for new species, or uninomial for other ranks).
+2.  The name must be unique (i.e. not a homonym).
+3.  The description must be based on at least one name-bearing type specimen.
+4.  It should include statements about appropriate attributes either to describe (define) the taxon or to differentiate it from other taxa (the diagnosis, ICZN Code, Article 13.1.1, ICN, Article 38). Both codes deliberately separate defining the content of a taxon (its circumscription) from defining its name.
+5.  These first four requirements must be published in a work that is obtainable in numerous identical copies, as a permanent scientific record.
+
+However, often much more information is included, like the geographic range of the taxon, ecological notes, chemistry, behavior, etc. How researchers arrive at their taxa varies: depending on the available data, and resources, methods vary from simple quantitative or qualitative comparisons of striking features, to elaborate computer analyses of large amounts of DNA sequence data.
+
+An "authority" may be placed after a scientific name. The authority is the name of the scientist or scientists who first validly published the name. For example, in 1758 Linnaeus gave the Asian elephant the scientific name Elephas maximus, so the name is sometimes written as "Elephas maximus Linnaeus, 1758". The names of authors are frequently abbreviated: the abbreviation L., for Linnaeus, is commonly used. In botany, there is, in fact, a regulated list of standard abbreviations (see list of botanists by author abbreviation). The system for assigning authorities differs slightly between botany and zoology. However, it is standard that if a species' name or placement has been changed since the original description, the original authority's name is placed in parentheses.
+
+(ref:tree) [The tree of life.](https://commons.wikimedia.org/wiki/File:CollapsedtreeLabels-simplified.svg)
+
+```{r tree, fig.cap='(ref:tree)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/systematics/tree_of_life.svg")
+```
+
 ## The Concept of Species in Biology
 
 In biology, a species is the basic unit of classification and a taxonomic rank of an organism, as well as a unit of biodiversity. A species is often defined as the largest group of organisms in which any two individuals of the appropriate sexes or mating types can produce fertile offspring, typically by sexual reproduction. Other ways of defining species include their karyotype, DNA sequence, morphology, behaviour or ecological niche. In addition, paleontologists use the concept of the chronospecies since fossil reproduction cannot be examined.
@@ -28,7 +56,7 @@ It is difficult to define a species in a way that applies to all organisms. The 
 
 The evolutionary process by which biological populations evolve to become distinct or reproductively isolated as species is called speciation. Charles Darwin was the first to describe the role of natural selection in speciation in his 1859 book The Origin of Species. Speciation depends on a measure of reproductive isolation, a reduced gene flow. This occurs most easily in allopatric speciation, where populations are separated geographically and can diverge gradually as mutations accumulate. Reproductive isolation is threatened by hybridisation, but this can be selected against once a pair of populations have incompatible alleles of the same gene, as described in the Bateson–Dobzhansky–Muller model. A different mechanism, phyletic speciation, involves one lineage gradually changing over time into a new and distinct form, without increasing the number of resultant species.
 
-## Binomial nomenclature
+## Binomial Nomenclature
 
 The commonly used names for kinds of organisms are often ambiguous: "cat" could mean the domestic cat  or the cat family. Another problem with common names is that they often vary from place to place, so that puma, cougar, catamount, panther, painter and mountain lion all mean *Puma concolor* in various parts of America, while "panther" may also mean the jaguar (*Panthera onca*) of Latin America or the leopard (*Panthera pardus*) of Africa and Asia. In contrast, the scientific names of species are chosen to be unique and universal; they are in two parts used together: the genus as in *Puma*, and the specific epithet as in *concolor*.
 
@@ -114,7 +142,7 @@ With Darwin's theory, a general acceptance quickly appeared that a classificatio
 
 The cladistic method has emerged since the 1960s. In 1958, [Julian Huxley](https://en.wikipedia.org/wiki/Julian_Huxley) used the term clade. Later, in 1960, Cain and Harrison introduced the term cladistic. The salient feature is arranging taxa in a hierarchical evolutionary tree, ignoring ranks. A taxon is called monophyletic, if it includes all the descendants of an ancestral form. Groups that have descendant groups removed from them (e.g. dinosaurs, with birds as offspring group) are termed paraphyletic, while groups representing more than one branch from the tree of life are called polyphyletic. The International Code of Phylogenetic Nomenclature or PhyloCode is intended to regulate the formal naming of clades. Linnaean ranks will be optional under the PhyloCode, which is intended to coexist with the current, rank-based codes.
 
-## Kingdoms
+## Kingdoms And Domains
 
 Well before Linnaeus, plants and animals were considered separate Kingdoms. Linnaeus used this as the top rank, dividing the physical world into the plant, animal and mineral kingdoms. As advances in microscopy made classification of microorganisms possible, the number of kingdoms increased, five and six-kingdom systems being the most common.
 
@@ -132,7 +160,7 @@ When used with a common name, the scientific name often follows in parentheses, 
 
 The binomial name should generally be written in full. The exception to this is when several species from the same genus are being listed or discussed in the same paper or report, or the same species is mentioned repeatedly; in which case the genus is written in full when it is first used, but may then be abbreviated to an initial (and a period/full stop). For example, a list of members of the genus Canis might be written as "Canis lupus, C. aureus, C. simensis". In rare cases, this abbreviated form has spread to more general use; for example, the bacterium Escherichia coli is often referred to as just E. coli, and Tyrannosaurus rex is perhaps even better known simply as T. rex, these two both often appearing in this form in popular writing even where the full genus name has not already been given.
 
-## The Three-Domain System
+### The Three-Domain System
 
 The three-domain system is a biological classification first proposed in 1977 by [Carl Woese's](https://en.wikipedia.org/wiki/Carl_Woese) that divides cellular life forms into [Archaea](https://en.wikipedia.org/wiki/Archaea), [Bacteria](https://en.wikipedia.org/wiki/Bacteria) and [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote). The key difference from earlier classifications is the splitting of archaea and bacteria, previously grouped into the single kingdom Bacteria (a kingdom also sometimes called Monera).
 
@@ -142,41 +170,10 @@ Woese argued, on the basis of differences in 16S rRNA genes, that bacteria, arch
 
 Acceptance of the validity of Woese's phylogenetically valid classification was a slow process. Prominent biologists including Salvador Luria and Ernst Mayr objected to his division of the prokaryotes. Not all criticism of him was restricted to the scientific level. A decade of labor-intensive oligonucleotide cataloging left him with a reputation as "a crank," and Woese would go on to be dubbed as "Microbiology's Scarred Revolutionary" by a news article printed in the journal Science. The growing amount of supporting data led the scientific community to accept the Archaea by the mid-1980s. Today, few scientists cling to the idea of a unified Prokarya.
 
-## Biological Classification
-
-Biological classification is a critical component of the taxonomic process. As a result, it informs the user as to what the relatives of the taxon are hypothesized to be. Biological classification uses taxonomic ranks, including among others (in order from most inclusive to least inclusive): Domain, Kingdom, Phylum, Class, Order, Family, Genus, and Species
-
-(ref:classification) [Biological classification.](https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo_vflip.svg)
-
-```{r classification, fig.cap='(ref:classification)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/systematics/biological_classification.svg")
-```
-
-The "definition" of a taxon is encapsulated by its description or its diagnosis or by both combined. There are no set rules governing the definition of taxa, but the naming and publication of new taxa is governed by sets of rules. In zoology, the nomenclature for the more commonly used ranks (superfamily to subspecies), is regulated by the International Code of Zoological Nomenclature (ICZN Code). In the fields of botany, phycology, and mycology, the naming of taxa is governed by the International Code of Nomenclature for algae, fungi, and plants (ICN).
-
-The initial description of a taxon involves five main requirements:
-
-1.  The taxon must be given a name based on the 26 letters of the Latin alphabet (a binomial for new species, or uninomial for other ranks).
-2.  The name must be unique (i.e. not a homonym).
-3.  The description must be based on at least one name-bearing type specimen.
-4.  It should include statements about appropriate attributes either to describe (define) the taxon or to differentiate it from other taxa (the diagnosis, ICZN Code, Article 13.1.1, ICN, Article 38). Both codes deliberately separate defining the content of a taxon (its circumscription) from defining its name.
-5.  These first four requirements must be published in a work that is obtainable in numerous identical copies, as a permanent scientific record.
-
-However, often much more information is included, like the geographic range of the taxon, ecological notes, chemistry, behavior, etc. How researchers arrive at their taxa varies: depending on the available data, and resources, methods vary from simple quantitative or qualitative comparisons of striking features, to elaborate computer analyses of large amounts of DNA sequence data.
-
-An "authority" may be placed after a scientific name. The authority is the name of the scientist or scientists who first validly published the name. For example, in 1758 Linnaeus gave the Asian elephant the scientific name Elephas maximus, so the name is sometimes written as "Elephas maximus Linnaeus, 1758". The names of authors are frequently abbreviated: the abbreviation L., for Linnaeus, is commonly used. In botany, there is, in fact, a regulated list of standard abbreviations (see list of botanists by author abbreviation). The system for assigning authorities differs slightly between botany and zoology. However, it is standard that if a species' name or placement has been changed since the original description, the original authority's name is placed in parentheses.
-
-(ref:tree) [The tree of life.](https://commons.wikimedia.org/wiki/File:CollapsedtreeLabels-simplified.svg)
-
-```{r tree, fig.cap='(ref:tree)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/systematics/tree_of_life.svg")
-```
-
-Phenetics was an attempt to determine the relationships of organisms through a measure of overall similarity, making no distinction between plesiomorphies (shared ancestral traits) and apomorphies (derived traits). From the late-20th century onwards, it was superseded by cladistics, which rejects plesiomorphies in attempting to resolve the phylogeny of Earth's various organisms through time. Today's systematists generally make extensive use of molecular biology and of computer programs to study organisms.
-
 ## Cladistics
 
 [Cladistics](https://en.wikipedia.org/wiki/Cladistics) (from Greek κλάδος, kládos, "branch") is an approach to biological classification in which organisms are categorized based on shared derived characteristics that can be traced to a group's most recent common ancestor and are not present in more distant ancestors. Therefore, members of a group are assumed to share a common history and are considered to be closely related.
+
 
 The original methods used in cladistic analysis and the school of taxonomy derived from the work of the German entomologist [Willi Hennig](https://en.wikipedia.org/wiki/Willi_Hennig), who referred to it as phylogenetic systematics (also the title of his 1966 book); the terms "cladistics" and "clade" were popularized by other researchers. Cladistics in the original sense refers to a particular set of methods used in phylogenetic analysis, although it is now sometimes used to refer to the whole field.
 
@@ -191,6 +188,8 @@ The following terms, coined by Hennig, are used to identify shared or distinct c
 The terms plesiomorphy and apomorphy are relative; their application depends on the position of a group within a tree. For example, when trying to decide whether the tetrapods form a clade, an important question is whether having four limbs is a synapomorphy of the earliest taxa to be included within Tetrapoda: did all the earliest members of the Tetrapoda inherit four limbs from a common ancestor, whereas all other vertebrates did not, or at least not homologously? By contrast, for a group within the tetrapods, such as birds, having four limbs is a plesiomorphy. Using these two terms allows a greater precision in the discussion of homology, in particular allowing clear expression of the hierarchical relationships among different homologous features.
 
 It can be difficult to decide whether a character state is in fact the same and thus can be classified as a synapomorphy, which may identify a monophyletic group, or whether it only appears to be the same and is thus a homoplasy, which cannot identify such a group. There is a danger of circular reasoning: assumptions about the shape of a phylogenetic tree are used to justify decisions about character states, which are then used as evidence for the shape of the tree. Phylogenetics uses various forms of parsimony to decide such questions; the conclusions reached often depend on the dataset and the methods. Such is the nature of empirical science, and for this reason, most cladists refer to their cladograms as hypotheses of relationship. Cladograms that are supported by a large number and variety of different kinds of characters are viewed as more robust than those based on more limited evidence.
+
+From the late-20th century onwards, cladistics superseded phenetics. Phenetics was an attempt to determine the relationships of organisms through a measure of overall similarity, making no distinction between plesiomorphies (shared ancestral traits) and apomorphies (derived traits). 
 
 A [monophyletic](https://en.wikipedia.org/wiki/Monophyly) group is a group of organisms that forms a clade, which consists of all the descendants of a common ancestor. Monophyletic groups are typically characterized by shared derived characteristics (synapomorphies), which distinguish organisms in the clade from other organisms. The arrangement of the members of a monophyletic group is called a monophyly.
 

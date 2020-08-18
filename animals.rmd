@@ -85,13 +85,126 @@ These genes are found in the Placozoa and the higher animals, the Bilateria. 6,3
 
 Several animal phyla lack bilateral symmetry. Among these, the sponges (Porifera) probably diverged first, representing the oldest animal phylum. Sponges lack the complex organization found in most other animal phyla; their cells are differentiated, but in most cases not organised into distinct tissues. They typically feed by drawing in water through pores.
 
+The Ctenophora (comb jellies) and Cnidaria (which includes jellyfish, sea anemones, and corals) are radially symmetric and have digestive chambers with a single opening, which serves as both mouth and anus. Animals in both phyla have distinct tissues, but these are not organised into organs. They are diploblastic, having only two main germ layers, ectoderm and endoderm. The tiny placozoans are similar, but they do not have a permanent digestive chamber.
+
+### Porifera
+
+Sponges, the members of the phylum Porifera (/pəˈrɪfərə/; meaning "pore bearer"), are a basal Metazoa (animal) clade as a sister of the Diploblasts. They are multicellular organisms that have bodies full of pores and channels allowing water to circulate through them, consisting of jelly-like mesohyl sandwiched between two thin layers of cells. The branch of zoology that studies sponges is known as spongiology.
+
+Sponges have unspecialized cells that can transform into other types and that often migrate between the main cell layers and the mesohyl in the process. Sponges do not have nervous, digestive or circulatory systems. Instead, most rely on maintaining a constant water flow through their bodies to obtain food and oxygen and to remove wastes. Sponges were first to branch off the evolutionary tree from the common ancestor of all animals, making them the sister group of all other animals.
+
 (ref:sponges) [Sponge biodiversity and morphotypes at the lip of a wall site in 60 feet (20 m) of water. Included are the yellow tube sponge, Aplysina fistularis, the purple vase sponge, Niphates digitalis, the red encrusting sponge, Spirastrella coccinea [nl], and the gray rope sponge, Callyspongia sp.](https://commons.wikimedia.org/wiki/File:Reef3859_-_Flickr_-_NOAA_Photo_Library.jpg) 
 
 ```{r spongediversity, fig.cap='(ref:sponges)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/animals/Reef3859_-_Flickr_-_NOAA_Photo_Library.jpg")
 ```
 
-The Ctenophora (comb jellies) and Cnidaria (which includes jellyfish, sea anemones, and corals) are radially symmetric and have digestive chambers with a single opening, which serves as both mouth and anus. Animals in both phyla have distinct tissues, but these are not organised into organs. They are diploblastic, having only two main germ layers, ectoderm and endoderm. The tiny placozoans are similar, but they do not have a permanent digestive chamber.
+Sponges are similar to other animals in that they are multicellular, heterotrophic, lack cell walls and produce sperm cells. Unlike other animals, they lack true tissues and organs. Some of them are radially symmetrical, but most are asymmetrical. The shapes of their bodies are adapted for maximal efficiency of water flow through the central cavity, where the water deposits nutrients and then leaves through a hole called the osculum. Many sponges have internal skeletons of spongin and/or spicules (skeletal-like fragments) of calcium carbonate or silicon dioxide. All sponges are sessile aquatic animals, meaning that they attach to an underwater surface and remain fixed in place (i.e., do not travel). Although there are freshwater species, the great majority are marine (salt-water) species, ranging in habitat from tidal zones to depths exceeding 8,800 m (5.5 mi).
+
+Although most of the approximately 5,000–10,000 known species of sponges feed on bacteria and other microscopic food in the water, some host photosynthesizing microorganisms as endosymbionts, and these alliances often produce more food and oxygen than they consume. A few species of sponges that live in food-poor environments have evolved as carnivores that prey mainly on small crustaceans.
+
+Most species use sexual reproduction, releasing sperm cells into the water to fertilize ova that in some species are released and in others are retained by the "mother." The fertilized eggs develop into larvae, which swim off in search of places to settle. Sponges are known for regenerating from fragments that are broken off, although this only works if the fragments include the right types of cells. A few species reproduce by budding. When environmental conditions become less hospitable to the sponges, for example as temperatures drop, many freshwater species and a few marine ones produce gemmules, "survival pods" of unspecialized cells that remain dormant until conditions improve; they then either form completely new sponges or recolonize the skeletons of their parents.
+
+In most sponges, an internal gelatinous matrix called mesohyl functions as an endoskeleton, and it is the only skeleton in soft sponges that encrust such hard surfaces as rocks. More commonly, the mesohyl is stiffened by mineral spicules, by spongin fibers, or both. Demosponges use spongin; many species have silica spicules, whereas some species have calcium carbonate exoskeletons. Demosponges constitute about 90% of all known sponge species, including all freshwater ones, and they have the widest range of habitats. Calcareous sponges, which have calcium carbonate spicules and, in some species, calcium carbonate exoskeletons, are restricted to relatively shallow marine waters where production of calcium carbonate is easiest. The fragile glass sponges, with "scaffolding" of silica spicules, are restricted to polar regions and the ocean depths where predators are rare. Fossils of all of these types have been found in rocks dated from 580 million years ago. In addition Archaeocyathids, whose fossils are common in rocks from 530 to 490 million years ago, are now regarded as a type of sponge.
+
+The single-celled choanoflagellates resemble the choanocyte cells of sponges which are used to drive their water flow systems and capture most of their food. This along with phylogenetic studies of ribosomal molecules have been used as morphological evidence to suggest sponges are the sister group to the rest of animals. Some studies have shown that sponges do not form a monophyletic group, in other words do not include all and only the descendants of a common ancestor. Recent phylogenetic analyses suggest that comb jellies rather than sponges are the sister group to the rest of animals.
+
+The few species of demosponge that have entirely soft fibrous skeletons with no hard elements have been used by humans over thousands of years for several purposes, including as padding and as cleaning tools. By the 1950s, though, these had been overfished so heavily that the industry almost collapsed, and most sponge-like materials are now synthetic. Sponges and their microscopic endosymbionts are now being researched as possible sources of medicines for treating a wide range of diseases. Dolphins have been observed using sponges as tools while foraging.
+
+Sponges constitute the phylum Porifera, and have been defined as sessile metazoans (multicelled immobile animals) that have water intake and outlet openings connected by chambers lined with choanocytes, cells with whip-like flagella. However, a few carnivorous sponges have lost these water flow systems and the choanocytes. All known living sponges can remold their bodies, as most types of their cells can move within their bodies and a few can change from one type to another.
+
+Even if a few sponges are able to produce mucus – which acts as a microbial barrier in all other animals – no sponge with the ability to secrete a functional mucus layer has been recorded. Without such a mucus layer their living tissue is covered by a layer of microbial symbionts, which can contribute up to 40–50% of the sponge wet mass. This inability to prevent microbes from penetrating their porous tissue could be a major reason why they have never evolved a more complex anatomy.
+
+Like cnidarians (jellyfish, etc.) and ctenophores (comb jellies), and unlike all other known metazoans, sponges' bodies consist of a non-living jelly-like mass (mesoglea) sandwiched between two main layers of cells. Cnidarians and ctenophores have simple nervous systems, and their cell layers are bound by internal connections and by being mounted on a basement membrane (thin fibrous mat, also known as "basal lamina"). Sponges have no nervous systems, their middle jelly-like layers have large and varied populations of cells, and some types of cells in their outer layers may move into the middle layer and change their functions.
+
+A sponge's body is hollow and is held in shape by the mesohyl, a jelly-like substance made mainly of collagen and reinforced by a dense network of fibers also made of collagen. The inner surface is covered with choanocytes, cells with cylindrical or conical collars surrounding one flagellum per choanocyte. The wave-like motion of the whip-like flagella drives water through the sponge's body. All sponges have ostia, channels leading to the interior through the mesohyl, and in most sponges these are controlled by tube-like porocytes that form closable inlet valves. Pinacocytes, plate-like cells, form a single-layered external skin over all other parts of the mesohyl that are not covered by choanocytes, and the pinacocytes also digest food particles that are too large to enter the ostia, while those at the base of the animal are responsible for anchoring it.
+
+Other types of cell live and move within the mesohyl:
+
+* Lophocytes are amoeba-like cells that move slowly through the mesohyl and secrete collagen fibres.
+* Collencytes are another type of collagen-producing cell.
+* Rhabdiferous cells secrete polysaccharides that also form part of the mesohyl.
+* Oocytes and spermatocytes are reproductive cells.
+* Sclerocytes secrete the mineralized spicules ("little spines") that form the skeletons of many sponges and in some species provide some defense against predators.
+* In addition to or instead of sclerocytes, demosponges have spongocytes that secrete a form of collagen that polymerizes into spongin, a thick fibrous material that stiffens the mesohyl.
+* Myocytes ("muscle cells") conduct signals and cause parts of the animal to contract.
+* "Grey cells" act as sponges' equivalent of an immune system.
+* Archaeocytes (or amoebocytes) are amoeba-like cells that are totipotent, in other words each is capable of transformation into any other type of cell. They also have important roles in feeding and in clearing debris that block the ostia.
+
+Many larval sponges possess neuron-less eyes that are based on cryptochromes. They mediate phototaxic behavior.
+
+Glass sponges present a distinctive variation on this basic plan. Their spicules, which are made of silica, form a scaffolding-like framework between whose rods the living tissue is suspended like a cobweb that contains most of the cell types. This tissue is a syncytium that in some ways behaves like many cells that share a single external membrane, and in others like a single cell with multiple nuclei. The mesohyl is absent or minimal. The syncytium's cytoplasm, the soupy fluid that fills the interiors of cells, is organized into "rivers" that transport nuclei, organelles ("organs" within cells) and other substances. Instead of choanocytes, they have further syncytia, known as choanosyncytia, which form bell-shaped chambers where water enters via perforations. The insides of these chambers are lined with "collar bodies", each consisting of a collar and flagellum but without a nucleus of its own. The motion of the flagella sucks water through passages in the "cobweb" and expels it via the open ends of the bell-shaped chambers.
+
+Some types of cells have a single nucleus and membrane each, but are connected to other single-nucleus cells and to the main syncytium by "bridges" made of cytoplasm. The sclerocytes that build spicules have multiple nuclei, and in glass sponge larvae they are connected to other tissues by cytoplasm bridges; such connections between sclerocytes have not so far been found in adults, but this may simply reflect the difficulty of investigating such small-scale features. The bridges are controlled by "plugged junctions" that apparently permit some substances to pass while blocking others.
+Most sponges work rather like chimneys: they take in water at the bottom and eject it from the osculum ("little mouth") at the top. Since ambient currents are faster at the top, the suction effect that they produce by Bernoulli's principle does some of the work for free. Sponges can control the water flow by various combinations of wholly or partially closing the osculum and ostia (the intake pores) and varying the beat of the flagella, and may shut it down if there is a lot of sand or silt in the water.
+
+(ref:spongedia) [Diagram of the structure of a sponge.](https://commons.wikimedia.org/wiki/File:Sea_sponge_diagram.svg) 
+
+```{r spongediagram, fig.cap='(ref:spongedia)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Sea_sponge_diagram.svg")
+```
+
+Although the layers of pinacocytes and choanocytes resemble the epithelia of more complex animals, they are not bound tightly by cell-to-cell connections or a basal lamina (thin fibrous sheet underneath). The flexibility of these layers and re-modeling of the mesohyl by lophocytes allow the animals to adjust their shapes throughout their lives to take maximum advantage of local water currents.
+
+(ref:choano) [Cells of the protist choanoflagellate clade closely resemble sponge choanocyte cells. Beating of choanocyte flagella draws water through the sponge so that nutrients can be extracted and waste removed.](https://commons.wikimedia.org/wiki/File:Choanoflagellate_and_choanocyte.png) 
+
+```{r choanocomp, fig.cap='(ref:choano)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Choanoflagellate_and_choanocyte.png")
+```
+
+The simplest body structure in sponges is a tube or vase shape known as "asconoid", but this severely limits the size of the animal. The body structure is characterized by a stalk-like spongocoel surrounded by a single layer of choanocytes. If it is simply scaled up, the ratio of its volume to surface area increases, because surface increases as the square of length or width while volume increases proportionally to the cube. The amount of tissue that needs food and oxygen is determined by the volume, but the pumping capacity that supplies food and oxygen depends on the area covered by choanocytes. Asconoid sponges seldom exceed 1 mm (0.039 in) in diameter.
+
+Some sponges overcome this limitation by adopting the "syconoid" structure, in which the body wall is pleated. The inner pockets of the pleats are lined with choanocytes, which connect to the outer pockets of the pleats by ostia. This increase in the number of choanocytes and hence in pumping capacity enables syconoid sponges to grow up to a few centimeters in diameter.
+
+The "leuconoid" pattern boosts pumping capacity further by filling the interior almost completely with mesohyl that contains a network of chambers lined with choanocytes and connected to each other and to the water intakes and outlet by tubes. Leuconid sponges grow to over 1 m (3.3 ft) in diameter, and the fact that growth in any direction increases the number of choanocyte chambers enables them to take a wider range of forms, for example "encrusting" sponges whose shapes follow those of the surfaces to which they attach. All freshwater and most shallow-water marine sponges have leuconid bodies. The networks of water passages in glass sponges are similar to the leuconid structure. In all three types of structure the cross-section area of the choanocyte-lined regions is much greater than that of the intake and outlet channels. This makes the flow slower near the choanocytes and thus makes it easier for them to trap food particles. For example, in Leuconia, a small leuconoid sponge about 10 centimetres (3.9 in) tall and 1 centimetre (0.39 in) in diameter, water enters each of more than 80,000 intake canals at 6 cm per minute. However, because Leuconia has more than 2 million flagellated chambers whose combined diameter is much greater than that of the canals, water flow through chambers slows to 3.6 cm per hour, making it easy for choanocytes to capture food. All the water is expelled through a single osculum at about 8.5 cm per second, fast enough to carry waste products some distance away
+
+The mesohyl functions as an endoskeleton in most sponges, and is the only skeleton in soft sponges that encrust hard surfaces such as rocks. More commonly the mesohyl is stiffened by mineral spicules, by spongin fibers or both. Spicules, which are present in most but not all species, may be made of silica or calcium carbonate, and vary in shape from simple rods to three-dimensional "stars" with up to six rays. Spicules are produced by sclerocyte cells, and may be separate, connected by joints, or fused.
+
+Some sponges also secrete exoskeletons that lie completely outside their organic components. For example, sclerosponges ("hard sponges") have massive calcium carbonate exoskeletons over which the organic matter forms a thin layer with choanocyte chambers in pits in the mineral. These exoskeletons are secreted by the pinacocytes that form the animals' skins.
+
+Although adult sponges are fundamentally sessile animals, some marine and freshwater species can move across the sea bed at speeds of 1–4 mm (0.039–0.157 in) per day, as a result of amoeba-like movements of pinacocytes and other cells. A few species can contract their whole bodies, and many can close their oscula and ostia. Juveniles drift or swim freely, while adults are stationary.
+
+Sponges do not have distinct circulatory, respiratory, digestive, and excretory systems – instead the water flow system supports all these functions. They filter food particles out of the water flowing through them. Particles larger than 50 micrometers cannot enter the ostia and pinacocytes consume them by phagocytosis (engulfing and internal digestion). Particles from 0.5 μm to 50 μm are trapped in the ostia, which taper from the outer to inner ends. These particles are consumed by pinacocytes or by archaeocytes which partially extrude themselves through the walls of the ostia. Bacteria-sized particles, below 0.5 micrometers, pass through the ostia and are caught and consumed by choanocytes. Since the smallest particles are by far the most common, choanocytes typically capture 80% of a sponge's food supply. Archaeocytes transport food packaged in vesicles from cells that directly digest food to those that do not. At least one species of sponge has internal fibers that function as tracks for use by nutrient-carrying archaeocytes, and these tracks also move inert objects.
+
+It used to be claimed that glass sponges could live on nutrients dissolved in sea water and were very averse to silt. However, a study in 2007 found no evidence of this and concluded that they extract bacteria and other micro-organisms from water very efficiently (about 79%) and process suspended sediment grains to extract such prey. Collar bodies digest food and distribute it wrapped in vesicles that are transported by dynein "motor" molecules along bundles of microtubules that run throughout the syncytium.
+
+Sponges' cells absorb oxygen by diffusion from water into cells as water flows through body, into which carbon dioxide and other soluble waste products such as ammonia also diffuse. Archeocytes remove mineral particles that threaten to block the ostia, transport them through the mesohyl and generally dump them into the outgoing water current, although some species incorporate them into their skeletons.
+
+Sponges have three asexual methods of reproduction: after fragmentation; by budding; and by producing gemmules. Fragments of sponges may be detached by currents or waves. They use the mobility of their pinacocytes and choanocytes and reshaping of the mesohyl to re-attach themselves to a suitable surface and then rebuild themselves as small but functional sponges over the course of several days. The same capabilities enable sponges that have been squeezed through a fine cloth to regenerate. A sponge fragment can only regenerate if it contains both collencytes to produce mesohyl and archeocytes to produce all the other cell types. A very few species reproduce by budding.
+
+Gemmules are "survival pods" which a few marine sponges and many freshwater species produce by the thousands when dying and which some, mainly freshwater species, regularly produce in autumn. Spongocytes make gemmules by wrapping shells of spongin, often reinforced with spicules, round clusters of archeocytes that are full of nutrients. Freshwater gemmules may also include phytosynthesizing symbionts. The gemmules then become dormant, and in this state can survive cold, drying out, lack of oxygen and extreme variations in salinity. Freshwater gemmules often do not revive until the temperature drops, stays cold for a few months and then reaches a near-"normal" level. When a gemmule germinates, the archeocytes round the outside of the cluster transform into pinacocytes, a membrane over a pore in the shell bursts, the cluster of cells slowly emerges, and most of the remaining archeocytes transform into other cell types needed to make a functioning sponge. Gemmules from the same species but different individuals can join forces to form one sponge. Some gemmules are retained within the parent sponge, and in spring it can be difficult to tell whether an old sponge has revived or been "recolonized" by its own gemmules.
+
+Most sponges are hermaphrodites (function as both sexes simultaneously), although sponges have no gonads (reproductive organs). Sperm are produced by choanocytes or entire choanocyte chambers that sink into the mesohyl and form spermatic cysts while eggs are formed by transformation of archeocytes, or of choanocytes in some species. Each egg generally acquires a yolk by consuming "nurse cells". During spawning, sperm burst out of their cysts and are expelled via the osculum. If they contact another sponge of the same species, the water flow carries them to choanocytes that engulf them but, instead of digesting them, metamorphose to an ameboid form and carry the sperm through the mesohyl to eggs, which in most cases engulf the carrier and its cargo.
+
+A few species release fertilized eggs into the water, but most retain the eggs until they hatch. There are four types of larvae, but all are balls of cells with an outer layer of cells whose flagellae or cilia enable the larvae to move. After swimming for a few days the larvae sink and crawl until they find a place to settle. Most of the cells transform into archeocytes and then into the types appropriate for their locations in a miniature adult sponge.
+
+Glass sponge embryos start by dividing into separate cells, but once 32 cells have formed they rapidly transform into larvae that externally are ovoid with a band of cilia round the middle that they use for movement, but internally have the typical glass sponge structure of spicules with a cobweb-like main syncitium draped around and between them and choanosyncytia with multiple collar bodies in the center. The larvae then leave their parents' bodies.
+
+Sponges in temperate regions live for at most a few years, but some tropical species and perhaps some deep-ocean ones may live for 200 years or more. Some calcified demosponges grow by only 0.2 mm (0.0079 in) per year and, if that rate is constant, specimens 1 m (3.3 ft) wide must be about 5,000 years old. Some sponges start sexual reproduction when only a few weeks old, while others wait until they are several years old.
+
+Adult sponges lack neurons or any other kind of nervous tissue. However, most species have the ability to perform movements that are coordinated all over their bodies, mainly contractions of the pinacocytes, squeezing the water channels and thus expelling excess sediment and other substances that may cause blockages. Some species can contract the osculum independently of the rest of the body. Sponges may also contract in order to reduce the area that is vulnerable to attack by predators. In cases where two sponges are fused, for example if there is a large but still unseparated bud, these contraction waves slowly become coordinated in both of the "Siamese twins". The coordinating mechanism is unknown, but may involve chemicals similar to neurotransmitters. However, glass sponges rapidly transmit electrical impulses through all parts of the syncytium, and use this to halt the motion of their flagella if the incoming water contains toxins or excessive sediment. Myocytes are thought to be responsible for closing the osculum and for transmitting signals between different parts of the body.
+
+Sponges contain genes very similar to those that contain the "recipe" for the post-synaptic density, an important signal-receiving structure in the neurons of all other animals. However, in sponges these genes are only activated in "flask cells" that appear only in larvae and may provide some sensory capability while the larvae are swimming. This raises questions about whether flask cells represent the predecessors of true neurons or are evidence that sponges' ancestors had true neurons but lost them as they adapted to a sessile lifestyle.
+
+Sponges are worldwide in their distribution, living in a wide range of ocean habitats, from the polar regions to the tropics. Most live in quiet, clear waters, because sediment stirred up by waves or currents would block their pores, making it difficult for them to feed and breathe. The greatest numbers of sponges are usually found on firm surfaces such as rocks, but some sponges can attach themselves to soft sediment by means of a root-like base.
+
+Sponges are more abundant but less diverse in temperate waters than in tropical waters, possibly because organisms that prey on sponges are more abundant in tropical waters. Glass sponges are the most common in polar waters and in the depths of temperate and tropical seas, as their very porous construction enables them to extract food from these resource-poor waters with the minimum of effort. Demosponges and calcareous sponges are abundant and diverse in shallower non-polar waters
+
+
+```{r porifera, out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(printr)        
+library(kableExtra)
+setwd("~/Dropbox/R/biology-text-master")
+
+sponges <-  as_tibble(read.csv("data/porifera.csv"))
+
+knitr::kable(sponges, col.names = c("", "Type of cells", "Spicules", "Spongin fibers", "Massive exoskeleton", "Body form"), digits = 2, align = 'llllll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position")) 
+```
+
+### Ctenophora
+
+Ctenophora (from Ancient Greek: κτείς, romanized: kteis, lit. 'comb' and φέρω, pherō, 'to carry'; commonly known as comb jellies) comprise a phylum of invertebrate animals that live in marine waters worldwide. They are notable for the groups of cilia they use for swimming (commonly referred to as "combs"), and they are the largest animals to swim with the help of cilia. Depending on the species, adult ctenophores range from a few millimeters to 1.5 m (4 ft 11 in) in size. Only 100 to 150 species have been validated, and possibly another 25 have not been fully described and named. The textbook examples are cydippids with egg-shaped bodies and a pair of retractable tentacles fringed with tentilla ("little tentacles") that are covered with colloblasts, sticky cells that capture prey. Their bodies consist of a mass of jelly, with a layer two cells thick on the outside, and another lining the internal cavity. The phylum has a wide range of body forms, including the egg-shaped cydippids with retractable tentacles that capture prey, the flat generally combless platyctenids, and the large-mouthed beroids, which prey on other ctenophores.
 
 (ref:cteno) [Pelagic (open ocean) ctenophores (a) Beroe ovata, (b) Euplokamis sp., (c) Nepheloctena sp., (d) Bathocyroe fosteri, (e) Mnemiopsis leidyi, and (f) Ocyropsis sp.](https://commons.wikimedia.org/wiki/File:Pelagic_ctenophores.png) 
 
@@ -99,10 +212,111 @@ The Ctenophora (comb jellies) and Cnidaria (which includes jellyfish, sea anemon
 knitr::include_graphics("./figures/animals/Pelagic_ctenophores.png")
 ```
 
+Almost all ctenophores function as predators, taking prey ranging from microscopic larvae and rotifers to the adults of small crustaceans; the exceptions are juveniles of two species, which live as parasites on the salps on which adults of their species feed.
+
+Despite their soft, gelatinous bodies, fossils thought to represent ctenophores appear in lagerstätten dating as far back as the early Cambrian, about 525 million years ago. The position of the ctenophores in the "tree of life" has long been debated in molecular phylogenetics studies. Biologists proposed that ctenophores constitute the second-earliest branching animal lineage, with sponges being the sister-group to all other multicellular animals. Other biologists once believed that ctenophores were emerging earlier than the sponges, which themselves appeared before the split between cnidarians and bilaterians. However reanalysis of the data showed that the computer algorithms used for analysis were misled by the presence of specific ctenophore genes that were markedly different from those of other species. Molecular phylogenetics studies indicate that the common ancestor of modern ctenophores was cydippid-like, descending from various cydippids after the Cretaceous–Paleogene extinction event 66 million years ago.
+
+Among animal phyla, the Ctenophores are more complex than sponges, about as complex as cnidarians (jellyfish, sea anemones, etc.), and less complex than bilaterians (which include almost all other animals). Unlike sponges, both ctenophores and cnidarians have: cells bound by inter-cell connections and carpet-like basement membranes; muscles; nervous systems; and some have sensory organs. Ctenophores are distinguished from all other animals by having colloblasts, which are sticky and adhere to prey, although a few ctenophore species lack them.
+
+Like sponges and cnidarians, ctenophores have two main layers of cells that sandwich a middle layer of jelly-like material, which is called the mesoglea in cnidarians and ctenophores; more complex animals have three main cell layers and no intermediate jelly-like layer. Hence ctenophores and cnidarians have traditionally been labelled diploblastic, along with sponges. Both ctenophores and cnidarians have a type of muscle that, in more complex animals, arises from the middle cell layer, and as a result some recent text books classify ctenophores as triploblastic, while others still regard them as diploblastic. The comb jellies have more than 80 different cell types, exceeding the numbers from other groups like placozoans, sponges, cnidarians, and some deep-branching bilaterians.
+
+Ranging from about 1 millimeter (0.039 in) to 1.5 meters (4.9 ft) in size, ctenophores are the largest non-colonial animals that use cilia ("hairs") as their main method of locomotion. Most species have eight strips, called comb rows, that run the length of their bodies and bear comb-like bands of cilia, called "ctenes", stacked along the comb rows so that when the cilia beat, those of each comb touch the comb below. The name "ctenophora" means "comb-bearing", from the Greek κτείς (stem-form κτεν-) meaning "comb" and the Greek suffix -φορος meaning "carrying".
+
+The phylogenetic relationship of ctenophores to the rest of Metazoa is very important to our understanding of the early evolution of animals and the origin of multicellularity. It has been the focus of debate for many years. Ctenophores have been purported to be the sister lineage to the Bilateria, sister to the Cnidaria, sister to Cnidaria, Placozoa, and Bilateria, and sister to all other animals.
+
+A series of studies that looked at the presence and absence of members of gene families and signalling pathways (e.g., homeoboxes, nuclear receptors, the Wnt signaling pathway, and sodium channels) showed evidence congruent with the latter two scenarios, that ctenophores are either sister to Cnidaria, Placozoa, and Bilateria or sister to all other animal phyla.     Several more recent studies comparing complete sequenced genomes of ctenophores with other sequenced animal genomes have also supported ctenophores as the sister lineage to all other animals. This position would suggest that neural and muscle cell types either were lost in major animal lineages (e.g., Porifera and Placozoa) or evolved independently in the ctenophore lineage.
+
+Other researchers have argued that the placement of Ctenophora as sister to all other animals is a statistical anomaly caused by the high rate of evolution in ctenophore genomes, and that Porifera (sponges) is the earliest-diverging animal taxon instead. As such, the Ctenophora appear to be a basal diploblast clade. In agreement with the latter point, the analysis of a very large sequence alignment at the metazoan taxonomic scale (1,719 proteins totalizing ca. 400,000 amino acid positions) showed that ctenophores emerge as the second-earliest branching animal lineage, and sponges are sister-group to all other multicellular animals. Also, research on mucin genes, which allow an animal to produce mucus, shows that sponges have never had them while all other animals, including comb jellies, appear to share genes with a common origin.
+
+Yet another study strongly rejects the hypothesis that sponges are the sister group to all other extant animals and establishes the placement of Ctenophora as the sister group to all other animals, and disagreement with the last-mentioned paper is explained by methodological problems in analyses in that work. Neither ctenophores or sponges possess HIF pathways, and are the only known animal phyla that lack any true hox genes (although these are also absent in the larval stage in a few species from other phyla; the nemertean pilidium larva, the larva of the Phoronid species Phoronopsis harmeri and the acorn worm larva Schizocardium californicum, but is activated later in development).
+
+### Cnidaria
+
+Cnidaria is a phylum under kingdom Animalia containing over 11,000 species of aquatic animals found both in freshwater and marine environments: they are predominantly marine.
+
+Their distinguishing feature is cnidocytes, specialized cells that they use mainly for capturing prey. Their bodies consist of mesoglea, a non-living jelly-like substance, sandwiched between two layers of epithelium that are mostly one cell thick.
+
+They have two basic body forms: swimming medusae and sessile polyps, both of which are radially symmetrical with mouths surrounded by tentacles that bear cnidocytes. Both forms have a single orifice and body cavity that are used for digestion and respiration. Many cnidarian species produce colonies that are single organisms composed of medusa-like or polyp-like zooids, or both (hence they are trimorphic). Cnidarians' activities are coordinated by a decentralized nerve net and simple receptors. Several free-swimming species of Cubozoa and Scyphozoa possess balance-sensing statocysts, and some have simple eyes. Not all cnidarians reproduce sexually, with many species having complex life cycles of asexual polyp stages and sexual medusae. Some, however, omit either the polyp or the medusa stage.
+
+Cnidarians were formerly grouped with ctenophores in the phylum Coelenterata, but increasing awareness of their differences caused them to be placed in separate phyla. Cnidarians are classified into four main groups: the almost wholly sessile Anthozoa (sea anemones, corals, sea pens); swimming Scyphozoa (jellyfish); Cubozoa (box jellies); and Hydrozoa (a diverse group that includes all the freshwater cnidarians as well as many marine forms, and has both sessile members, such as Hydra, and colonial swimmers, such as the Portuguese Man o' War). Staurozoa have recently been recognised as a class in their own right rather than a sub-group of Scyphozoa, and the parasitic Myxozoa and Polypodiozoa were firmly recognized as cnidarians in 2007.
+
+Most cnidarians prey on organisms ranging in size from plankton to animals several times larger than themselves, but many obtain much of their nutrition from dinoflagellates, and a few are parasites. Many are preyed on by other animals including starfish, sea slugs, fish, turtles, and even other cnidarians. Many scleractinian corals—which form the structural foundation for coral reefs—possess polyps that are filled with symbiotic photo-synthetic zooxanthellae. While reef-forming corals are almost entirely restricted to warm and shallow marine waters, other cnidarians can be found at great depths, in polar regions, and in freshwater.
+
+Recent phylogenetic analyses support monophyly of cnidarians, as well as the position of cnidarians as the sister group of bilaterians. Fossil cnidarians have been found in rocks formed about 580 million years ago, and other fossils show that corals may have been present shortly before 490 million years ago and diversified a few million years later. However, molecular clock analysis of mitochondrial genes suggests a much older age for the crown group of cnidarians, estimated around 741 million years ago, almost 200 million years before the Cambrian period as well as any fossils.
+
 (ref:cnida) [Four examples of Cnidaria:](https://commons.wikimedia.org/wiki/File:Cnidaria.png) A jellyfish Chrysaora melanaster,  a gorgonian Annella mollis, a rocky coral Acropora cervicornis, and a sea anemone Nemanthus annamensis.
 
 ```{r cnidaria, fig.cap='(ref:cnida)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/animals/Cnidaria.png")
+```
+
+Cnidarians form a phylum of animal that are more complex than sponges, about as complex as ctenophores (comb jellies), and less complex than bilaterians, which include almost all other animals. Both cnidarians and ctenophores are more complex than sponges as they have: cells bound by inter-cell connections and carpet-like basement membranes; muscles; nervous systems; and some have sensory organs. Cnidarians are distinguished from all other animals by having cnidocytes that fire harpoon like structures and are usually used mainly to capture prey. In some species, cnidocytes can also be used as anchors. Cnidarians are also distinguished by the fact that they have only one opening in their body for ingestion and excretion i.e. they don't have a separate mouth and anus.
+
+Like sponges and ctenophores, cnidarians have two main layers of cells that sandwich a middle layer of jelly-like material, which is called the mesoglea in cnidarians; more complex animals have three main cell layers and no intermediate jelly-like layer. Hence, cnidarians and ctenophores have traditionally been labelled diploblastic, along with sponges. However, both cnidarians and ctenophores have a type of muscle that, in more complex animals, arises from the middle cell layer. As a result, some recent text books classify ctenophores as triploblastic, and it has been suggested that cnidarians evolved from triploblastic ancestors.
+
+Most adult cnidarians appear as either free-swimming medusae or sessile polyps, and many hydrozoans species are known to alternate between the two forms.
+
+Both are radially symmetrical, like a wheel and a tube respectively. Since these animals have no heads, their ends are described as "oral" (nearest the mouth) and "aboral" (furthest from the mouth).
+
+Most have fringes of tentacles equipped with cnidocytes around their edges, and medusae generally have an inner ring of tentacles around the mouth. Some hydroids may consist of colonies of zooids that serve different purposes, such as defense, reproduction and catching prey. The mesoglea of polyps is usually thin and often soft, but that of medusae is usually thick and springy, so that it returns to its original shape after muscles around the edge have contracted to squeeze water out, enabling medusae to swim by a sort of jet propulsion.
+
+Cnidaria are diploblastic animals; in other words, they have two main cell layers, while more complex animals are triploblasts having three main layers. The two main cell layers of cnidarians form epithelia that are mostly one cell thick, and are attached to a fibrous basement membrane, which they secrete. They also secrete the jelly-like mesoglea that separates the layers. The layer that faces outwards, known as the ectoderm ("outside skin"), generally contains the following types of cells:
+
+* Epitheliomuscular cells whose bodies form part of the epithelium but whose bases extend to form muscle fibers in parallel rows. The fibers of the outward-facing cell layer generally run at right angles to the fibers of the inward-facing one. In Anthozoa (anemones, corals, etc.) and Scyphozoa (jellyfish), the mesoglea also contains some muscle cells.
+* Cnidocytes, the harpoon-like "nettle cells" that give the phylum Cnidaria its name. These appear between or sometimes on top of the muscle cells.
+* Nerve cells. Sensory cells appear between or sometimes on top of the muscle cells, and communicate via synapses (gaps across which chemical signals flow) with motor nerve cells, which lie mostly between the bases of the muscle cells. Some form a simple nerve net.
+* Interstitial cells, which are unspecialized and can replace lost or damaged cells by transforming into the appropriate types. These are found between the bases of muscle cells.
+
+In addition to epitheliomuscular, nerve and interstitial cells, the inward-facing gastroderm ("stomach skin") contains gland cells that secrete digestive enzymes. In some species it also contains low concentrations of cnidocytes, which are used to subdue prey that is still struggling.
+
+The mesoglea contains small numbers of amoeba-like cells, and muscle cells in some species. However, the number of middle-layer cells and types are much lower than in sponges.
+
+Medusae swim by a form of jet propulsion: muscles, especially inside the rim of the bell, squeeze water out of the cavity inside the bell, and the springiness of the mesoglea powers the recovery stroke. Since the tissue layers are very thin, they provide too little power to swim against currents and just enough to control movement within currents.
+
+Hydras and some sea anemones can move slowly over rocks and sea or stream beds by various means: creeping like snails, crawling like inchworms, or by somersaulting. A few can swim clumsily by waggling their bases.
+
+Cnidarians are generally thought to have no brains or even central nervous systems. However, they do have integrative areas of neural tissue that could be considered some form of centralization. Most of their bodies are innervated by decentralized nerve nets that control their swimming musculature and connect with sensory structures, though each clade has slightly different structures. These sensory structures, usually called rhopalia, can generate signals in response to various types of stimuli such as light, pressure, and much more. Medusa usually have several of them around the margin of the bell that work together to control the motor nerve net, that directly innervates the swimming muscles. Most Cnidarians also have a parallel system. In scyphozoans, this takes the form of a diffuse nerve net, which has modulatory effects on the nervous system. As well as forming the "signal cables" between sensory neurons and motoneurons, intermediate neurons in the nerve net can also form ganglia that act as local coordination centers. Communication between nerve cells can occur by chemical synapses or gap junctions in hydrozoans, though gap junctions are not present in all groups. Cnidarians have many of the same neurotransmitters as many animals, including chemicals such as glutamate, GABA, and acetylcholine.
+
+This structure ensures that the musculature is excited rapidly and simultaneously, and can be directly stimulated from any point on the body, and it also is better able to recover after injury.
+
+Medusae and complex swimming colonies such as siphonophores and chondrophores sense tilt and acceleration by means of statocysts, chambers lined with hairs which detect the movements of internal mineral grains called statoliths. If the body tilts in the wrong direction, the animal rights itself by increasing the strength of the swimming movements on the side that is too low. Most species have ocelli ("simple eyes"), which can detect sources of light. However, the agile box jellyfish are unique among Medusae because they possess four kinds of true eyes that have retinas, corneas and lenses. Although the eyes probably do not form images, Cubozoa can clearly distinguish the direction from which light is coming as well as negotiate around solid-colored objects.
+
+Cnidarians feed in several ways: predation, absorbing dissolved organic chemicals, filtering food particles out of the water, obtaining nutrients from symbiotic algae within their cells, and parasitism. Most obtain the majority of their food from predation but some, including the corals Hetroxenia and Leptogorgia, depend almost completely on their endosymbionts and on absorbing dissolved nutrients. Cnidaria give their symbiotic algae carbon dioxide, some nutrients, a place in the sun and protection against predators.
+
+Predatory species use their cnidocytes to poison or entangle prey, and those with venomous nematocysts may start digestion by injecting digestive enzymes. The "smell" of fluids from wounded prey makes the tentacles fold inwards and wipe the prey off into the mouth. In medusae the tentacles round the edge of the bell are often short and most of the prey capture is done by "oral arms", which are extensions of the edge of the mouth and are often frilled and sometimes branched to increase their surface area. Medusae often trap prey or suspended food particles by swimming upwards, spreading their tentacles and oral arms and then sinking. In species for which suspended food particles are important, the tentacles and oral arms often have rows of cilia whose beating creates currents that flow towards the mouth, and some produce nets of mucus to trap particles. Their digestion is both intra and extracellular.
+
+Once the food is in the digestive cavity, gland cells in the gastroderm release enzymes that reduce the prey to slurry, usually within a few hours. This circulates through the digestive cavity and, in colonial cnidarians, through the connecting tunnels, so that gastroderm cells can absorb the nutrients. Absorption may take a few hours, and digestion within the cells may take a few days. The circulation of nutrients is driven by water currents produced by cilia in the gastroderm or by muscular movements or both, so that nutrients reach all parts of the digestive cavity. Nutrients reach the outer cell layer by diffusion or, for animals or zooids such as medusae which have thick mesogleas, are transported by mobile cells in the mesoglea.
+
+Indigestible remains of prey are expelled through the mouth. The main waste product of cells' internal processes is ammonia, which is removed by the external and internal water currents.
+
+There are no respiratory organs, and both cell layers absorb oxygen from and expel carbon dioxide into the surrounding water. When the water in the digestive cavity becomes stale it must be replaced, and nutrients that have not been absorbed will be expelled with it. Some Anthozoa have ciliated grooves on their tentacles, allowing them to pump water out of and into the digestive cavity without opening the mouth. This improves respiration after feeding and allows these animals, which use the cavity as a hydrostatic skeleton, to control the water pressure in the cavity without expelling undigested food.
+
+Cnidaria that carry photosynthetic symbionts may have the opposite problem, an excess of oxygen, which may prove toxic. The animals produce large quantities of antioxidants to neutralize the excess oxygen.
+
+Cnidarian sexual reproduction often involves a complex life cycle with both polyp and medusa stages. For example, in Scyphozoa (jellyfish) and Cubozoa (box jellies) a larva swims until it finds a good site, and then becomes a polyp. This grows normally but then absorbs its tentacles and splits horizontally into a series of disks that become juvenile medusae, a process called strobilation. The juveniles swim off and slowly grow to maturity, while the polyp re-grows and may continue strobilating periodically. The adults have gonads in the gastroderm, and these release ova and sperm into the water in the breeding season.
+
+This phenomenon of succession of differently organized generations (one asexually reproducing, sessile polyp, followed by a free-swimming medusa or a sessile polyp that reproduces sexually) is sometimes called "alternation of asexual and sexual phases" or "metagenesis", but should not be confused with the alternation of generations as found in plants.
+
+Shortened forms of this life cycle are common, for example some oceanic scyphozoans omit the polyp stage completely, and cubozoan polyps produce only one medusa. Hydrozoa have a variety of life cycles. Some have no polyp stages and some (e.g. hydra) have no medusae. In some species, the medusae remain attached to the polyp and are responsible for sexual reproduction; in extreme cases these reproductive zooids may not look much like medusae. Meanwhile, life cycle reversal, in which polyps are formed directly from medusae without the involvement of sexual reproduction process, was observed in both Hydrozoa (Turritopsis dohrnii and Laodicea undulata) and Scyphozoa (Aurelia sp.1). Anthozoa have no medusa stage at all and the polyps are responsible for sexual reproduction.
+
+Spawning is generally driven by environmental factors such as changes in the water temperature, and their release is triggered by lighting conditions such as sunrise, sunset or the phase of the moon. Many species of Cnidaria may spawn simultaneously in the same location, so that there are too many ova and sperm for predators to eat more than a tiny percentage — one famous example is the Great Barrier Reef, where at least 110 corals and a few non-cnidarian invertebrates produce enough gametes to turn the water cloudy. These mass spawnings may produce hybrids, some of which can settle and form polyps, but it is not known how long these can survive. In some species the ova release chemicals that attract sperm of the same species.
+
+The fertilized eggs develop into larvae by dividing until there are enough cells to form a hollow sphere (blastula) and then a depression forms at one end (gastrulation) and eventually becomes the digestive cavity. However, in cnidarians the depression forms at the end further from the yolk (at the animal pole), while in bilaterians it forms at the other end (vegetal pole). The larvae, called planulae, swim or crawl by means of cilia. They are cigar-shaped but slightly broader at the "front" end, which is the aboral, vegetal-pole end and eventually attaches to a substrate if the species has a polyp stage.
+
+Anthozoan larvae either have large yolks or are capable of feeding on plankton, and some already have endosymbiotic algae that help to feed them. Since the parents are immobile, these feeding capabilities extend the larvae's range and avoid overcrowding of sites. Scyphozoan and hydrozoan larvae have little yolk and most lack endosymbiotic algae, and therefore have to settle quickly and metamorphose into polyps. Instead, these species rely on their medusae to extend their ranges.
+
+All known cnidaria can reproduce asexually by various means, in addition to regenerating after being fragmented. Hydrozoan polyps only bud, while the medusae of some hydrozoans can divide down the middle. Scyphozoan polyps can both bud and split down the middle. In addition to both of these methods, Anthozoa can split horizontally just above the base. Asexual reproduction makes the daughter cnidarian a clone of the adult.
+
+```{r cniaria, out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(printr)        
+library(kableExtra)
+setwd("~/Dropbox/R/biology-text-master")
+
+jellyfish <-  as_tibble(read.csv("data/cnidaria.csv"))
+
+knitr::kable(jellyfish, col.names = c("", "Hydrozoa", "Scyphozoa", "Cubozoa", "Anthozoa", "Myxozoa"), digits = 2, align = 'llllll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position"))
+
 ```
 
 ## Bilaterian animals
@@ -136,7 +350,7 @@ animalcomp <-  as_tibble(read.csv("data/animal_comparison.csv"))
 knitr::kable(animalcomp, col.names = c("","Sponges","Cnidarians","Ctenophores","Bilateria"), digits = 2, align = 'lll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position")) 
 ```
 
-## Protostomes and deuterostomes
+### Protostomes and deuterostomes
 
 Protostomes and deuterostomes differ in several ways. Early in development, deuterostome embryos undergo radial cleavage during cell division, while many protostomes (the Spiralia) undergo spiral cleavage. Animals from both groups possess a complete digestive tract, but in protostomes the first opening of the embryonic gut develops into the mouth, and the anus forms secondarily. In deuterostomes, the anus forms first while the mouth develops secondarily. Most protostomes have schizocoelous development, where cells simply fill in the interior of the gastrula to form the mesoderm. In deuterostomes, the mesoderm forms by enterocoelic pouching, through invagination of the endoderm.
 
@@ -148,7 +362,7 @@ knitr::include_graphics("./figures/animals/Protovsdeuterostomes.svg")
 
 The main deuterostome phyla are the Echinodermata and the Chordata. Echinoderms are exclusively marine and include starfish, sea urchins, and sea cucumbers. The chordates are dominated by the vertebrates (animals with backbones), which consist of fishes, amphibians, reptiles, birds, and mammals. The deuterostomes also include the Hemichordata (acorn worms).
 
-## Fish
+### Fish
 
 Fish are gill-bearing aquatic craniate animals that lack limbs with digits. They form a sister group to the tunicates, together forming the olfactores. Included in this definition are the living hagfish, lampreys, and cartilaginous and bony fish as well as various extinct related groups.
 
@@ -165,7 +379,7 @@ Fish are an important resource for humans worldwide, especially as food. Commerc
 Tetrapods emerged within lobe-finned fishes, so cladistically they are fish as well. However, traditionally fish are rendered paraphyletic by excluding the tetrapods (i.e., the amphibians, reptiles, birds and mammals which all descended from within the same ancestry). Because in this manner the term "fish" is defined negatively as a paraphyletic group, it is not considered a formal taxonomic grouping in systematic biology, unless it is used in the cladistic sense, including tetrapods. The traditional term pisces (also ichthyes) is considered a typological, but not a phylogenetic classification.
 
 
-## Amphibians
+### Amphibians
 
 Amphibians are ectothermic, tetrapod vertebrates of the class Amphibia. All living amphibians belong to the group Lissamphibia. They inhabit a wide variety of habitats, with most species living within terrestrial, fossorial, arboreal or freshwater aquatic ecosystems. Thus amphibians typically start out as larvae living in water, but some species have developed behavioural adaptations to bypass this.
 
@@ -176,7 +390,7 @@ knitr::include_graphics("./figures/animals/Amphibians.png")
 ```
 Amphibians are ectothermic, tetrapod vertebrates of the class Amphibia. All living amphibians belong to the group Lissamphibia. They inhabit a wide variety of habitats, with most species living within terrestrial, fossorial, arboreal or freshwater aquatic ecosystems. Thus amphibians typically start out as larvae living in water, but some species have developed behavioural adaptations to bypass this.
 
-## Reptiles
+### Reptiles
 
 Reptiles are tetrapod animals in the class Reptilia, comprising today's turtles, crocodilians, snakes, amphisbaenians, lizards, tuatara, and their extinct relatives. The study of these traditional reptile orders, historically combined with that of modern amphibians, is called herpetology.
 
@@ -194,7 +408,7 @@ Modern non-avian reptiles inhabit all the continents except Antarctica, although
 
 Reptiles are tetrapod vertebrates, creatures that either have four limbs or, like snakes, are descended from four-limbed ancestors. Unlike amphibians, reptiles do not have an aquatic larval stage. Most reptiles are oviparous, although several species of squamates are viviparous, as were some extinct aquatic clades – the fetus develops within the mother, contained in a placenta rather than an eggshell. As amniotes, reptile eggs are surrounded by membranes for protection and transport, which adapt them to reproduction on dry land. Many of the viviparous species feed their fetuses through various forms of placenta analogous to those of mammals, with some providing initial care for their hatchlings. Extant reptiles range in size from a tiny gecko, Sphaerodactylus ariasae, which can grow up to 17 mm (0.7 in) to the saltwater crocodile, Crocodylus porosus, which can reach 6 m (19.7 ft) in length and weigh over 1,000 kg (2,200 lb).
 
-## Birds
+### Birds
 
 Birds are a group of warm-blooded vertebrates constituting the class Aves, characterized by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton. Birds live worldwide and range in size from the 5 cm (2 in) bee hummingbird to the 2.75 m (9 ft) ostrich. There are about ten thousand living species, more than half of which are passerine, or "perching" birds. Birds have wings whose development varies according to species; the only known groups without wings are the extinct moa and elephant birds. Wings, which evolved from forelimbs, gave birds the ability to fly, although further evolution has led to the loss of flight in some birds, including ratites, penguins, and diverse endemic island species. The digestive and respiratory systems of birds are also uniquely adapted for flight. Some bird species of aquatic environments, particularly seabirds and some waterbirds, have further evolved for swimming.
 
@@ -210,7 +424,7 @@ Many social species pass on knowledge across generations, which is considered a 
 
 Many species of birds are economically important as food for human consumption and raw material in manufacturing, with domesticated and undomesticated birds being important sources of eggs, meat, and feathers. Songbirds, parrots, and other species are popular as pets. Guano (bird excrement) is harvested for use as a fertiliser. Birds figure throughout human culture. About 120 to 130 species have become extinct due to human activity since the 17th century, and hundreds more before then. Human activity threatens about 1,200 bird species with extinction, though efforts are underway to protect them. Recreational birdwatching is an important part of the ecotourism industry.
 
-## Mammals
+### Mammals
 
 Mammals (from Latin mamma "breast") are vertebrate animals constituting the class Mammalia, and characterized by the presence of mammary glands which in females produce milk for feeding (nursing) their young, a neocortex (a region of the brain), fur or hair, and three middle ear bones. These characteristics distinguish them from reptiles and birds, from which they diverged in the late Carboniferous, approximately 300 million years ago. Around 6,400 extant species of mammals have been described. The largest orders are the rodents, bats and Eulipotyphla (hedgehogs, moles, shrews, and others). The next three are the Primates (apes including humans, monkeys, and others), the Cetartiodactyla (cetaceans and even-toed ungulates), and the Carnivora (cats, dogs, seals, and others).
 
@@ -232,7 +446,7 @@ Domestication of many types of mammals by humans played a major role in the Neol
 
 The Ecdysozoa are protostomes, named after their shared trait of ecdysis, growth by moulting. They include the largest animal phylum, the Arthropoda, which contains insects, spiders, crabs, and their kin. All of these have a body divided into repeating segments, typically with paired appendages. Two smaller phyla, the Onychophora and Tardigrada, are close relatives of the arthropods and share these traits. The ecdysozoans also include the Nematoda or roundworms, perhaps the second largest animal phylum. Roundworms are typically microscopic, and occur in nearly every environment where there is water; some are important parasites. Smaller phyla related to them are the Nematomorpha or horsehair worms, and the Kinorhyncha, Priapulida, and Loricifera. These groups have a reduced coelom, called a pseudocoelom.
 
-## Arthropods
+### Arthropods
 
 An arthropod (from Greek ἄρθρον arthron, "joint" and πούς pous, "foot" (gen. ποδός)) is an invertebrate animal having an exoskeleton, a segmented body, and paired jointed appendages. Arthropods form the phylum Euarthropoda, which includes insects, arachnids, myriapods, and crustaceans. The term Arthropoda as originally proposed refers to a proposed grouping of Euarthropods and the phylum Onychophora.
 
@@ -256,7 +470,7 @@ The evolutionary ancestry of arthropods dates back to the Cambrian period. The g
 
 Arthropods contribute to the human food supply both directly as food, and more importantly indirectly as pollinators of crops. Some species are known to spread severe disease to humans, livestock, and crops.
 
-## Nematodes
+### Nematodes
 
 The nematodes or roundworms constitute the phylum Nematoda (also called Nemathelminthes), with plant-parasitic nematodes being known as eelworms. The word nematode comes from the Modern Latin compound of nemat- "thread" (from Greek nema, genitive nematos "thread," from stem of nein "to spin"; see needle) + -odes "like, of the nature of" (see -oid). They are a diverse animal phylum inhabiting a broad range of environments. Taxonomically, they are classified along with insects and other moulting animals in the clade Ecdysozoa, and unlike flatworms, have tubular digestive systems with openings at both ends. Like tardigrades they have a reduced number of Hox genes, but as their sister phylum Nematomorpha has kept the ancestral protostome Hox genotype, it shows that the reduction has occurred within the nematode phylum.
 
@@ -276,7 +490,7 @@ The Spiralia are a large group of protostomes that develop by spiral cleavage in
 
 The Lophotrochozoa includes the molluscs, annelids, brachiopods, nemerteans, bryozoa and entoprocts. The molluscs, the second-largest animal phylum by number of described species, includes snails, clams, and squids, while the annelids are the segmented worms, such as earthworms, lugworms, and leeches. These two groups have long been considered close relatives because they share trochophore larvae.
 
-## Molluscs
+### Molluscs
 
 Mollusca is the second-largest phylum of invertebrate animals after the Arthropoda. The members are known as molluscs or mollusks. Around 85,000 extant species of molluscs are recognized. The number of fossil species is estimated between 60,000 and 100,000 additional species. The proportion of undescribed species is very high. Many taxa remain poorly studied.
 
@@ -298,7 +512,7 @@ Molluscs have been and still are an important food source for anatomically moder
 
 Mollusc species can also represent hazards or pests for human activities. The bite of the blue-ringed octopus is often fatal, and that of Octopus apollyon causes inflammation that can last over a month. Stings from a few species of large tropical cone shells can also kill, but their sophisticated, though easily produced, venoms have become important tools in neurological research. Schistosomiasis (also known as bilharzia, bilharziosis, or snail fever) is transmitted to humans by water snail hosts, and affects about 200 million people. Snails and slugs can also be serious agricultural pests, and accidental or deliberate introduction of some snail species into new environments has seriously damaged some ecosystems.
 
-## Annelids
+### Annelids
 
 The annelids (Annelida, from Latin anellus, "little ring"[a]), also known as the ringed worms or segmented worms, are a large phylum, with over 22,000 extant species including ragworms, earthworms, and leeches. The species exist in and have adapted to various ecologies – some in marine environments as distinct as tidal zones and hydrothermal vents, others in fresh water, and yet others in moist terrestrial environments.
 
@@ -333,32 +547,6 @@ knitr::include_graphics("./figures/animals/Blastulation.png")
 
 Cell differentiation is the process whereby different functional cell types arise in development. For example, neurons, muscle fibers and hepatocytes (liver cells) are well known types of differentiated cells. Differentiated cells usually produce large amounts of a few proteins that are required for their specific function and this gives them the characteristic appearance that enables them to be recognized under the light microscope. The genes encoding these proteins are highly active. Typically their chromatin structure is very open, allowing access for the transcription enzymes, and specific transcription factors bind to regulatory sequences in the DNA in order to activate gene expression. For example, NeuroD is a key transcription factor for neuronal differentiation, myogenin for muscle differentiation, and HNF4 for hepatocyte differentiation. Cell differentiation is usually the final stage of development, preceded by several states of commitment which are not visibly differentiated. A single tissue, formed from a single type of progenitor cell or stem cell, often consists of several differentiated cell types. Control of their formation involves a process of lateral inhibition, based on the properties of the Notch signaling pathway. For example, in the neural plate of the embryo this system operates to generate a population of neuronal precursor cells in which NeuroD is highly expressed.
 
-## Embryonic Development of Animals
-
-The sperm and egg fuse in the process of fertilization to form a fertilized egg, or zygote. This undergoes a period of divisions to form a ball or sheet of similar cells called a blastula or blastoderm. These cell divisions are usually rapid with no growth so the daughter cells are half the size of the mother cell and the whole embryo stays about the same size. They are called cleavage divisions.
-
-Mouse epiblast primordial germ cells (see Figure: “The initial stages of human embryogenesis”) undergo extensive epigenetic reprogramming. This process involves genome-wide DNA demethylation, chromatin reorganization and epigenetic imprint erasure leading to totipotency. DNA demethylation is carried out by a process that utilizes the DNA base excision repair pathway.
-
-Morphogenetic movements convert the cell mass into a three layered structure consisting of multicellular sheets called ectoderm, mesoderm and endoderm. These sheets are known as germ layers. This is the process of gastrulation. During cleavage and gastrulation the first regional specification events occur. In addition to the formation of the three germ layers themselves, these often generate extraembryonic structures, such as the mammalian placenta, needed for support and nutrition of the embryo, and also establish differences of commitment along the anteroposterior axis (head, trunk and tail).
-
-Regional specification is initiated by the presence of cytoplasmic determinants in one part of the zygote. The cells that contain the determinant become a signaling center and emit an inducing factor. Because the inducing factor is produced in one place, diffuses away, and decays, it forms a concentration gradient, high near the source cells and low further away. The remaining cells of the embryo, which do not contain the determinant, are competent to respond to different concentrations by upregulating specific developmental control genes. This results in a series of zones becoming set up, arranged at progressively greater distance from the signaling center. In each zone a different combination of developmental control genes is upregulated. These genes encode transcription factors which upregulate new combinations of gene activity in each region. Among other functions, these transcription factors control expression of genes conferring specific adhesive and motility properties on the cells in which they are active. Because of these different morphogenetic properties, the cells of each germ layer move to form sheets such that the ectoderm ends up on the outside, mesoderm in the middle, and endoderm on the inside. Morphogenetic movements not only change the shape and structure of the embryo, but by bringing cell sheets into new spatial relationships they also make possible new phases of signaling and response between them.
-
-Growth in embryos is mostly autonomous. For each territory of cells the growth rate is controlled by the combination of genes that are active. Free-living embryos do not grow in mass as they have no external food supply. But embryos fed by a placenta or extraembryonic yolk supply can grow very fast, and changes to relative growth rate between parts in these organisms help to produce the final overall anatomy.
-
-The whole process needs to be coordinated in time and how this is controlled is not understood. There may be a master clock able to communicate with all parts of the embryo that controls the course of events, or timing may depend simply on local causal sequences of events.
-
-## Metamorphosis
-
-Developmental processes are very evident during the process of metamorphosis. This occurs in various types of animal. Well-known examples are seen in frogs, which usually hatch as a tadpole and metamorphoses to an adult frog, and certain insects which hatch as a larva and then become remodeled to the adult form during a pupal stage.
-
-(ref:metamorph) [Two types of metamorphosis are shown.](https://commons.wikimedia.org/wiki/File:Holometabolous_vs._Hemimetabolous.svg) In a complete (holometabolous) metamorphosis the insect passes through four distinct phases, which produce an adult that does not resemble the larva. In an incomplete (hemimetabolous) metamorphosis an insect does not go through a full transformation, but instead transitions from a nymph to an adult by molting its exoskeleton as it grows.
-
-```{r metamorphosis, fig.cap='(ref:metamorph)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/animals/Holometabolous_vs._Hemimetabolous.svg")
-```
-
-All the developmental processes listed above occur during metamorphosis. Examples that have been especially well studied include tail loss and other changes in the tadpole of the frog Xenopus, and the biology of the imaginal discs, which generate the adult body parts of the fly Drosophila melanogaster.
-
 ## Tissues
 
 In biology, tissue is a cellular organizational level between cells and a complete organ. A tissue is an ensemble of similar cells and their extracellular matrix from the same origin that together carry out a specific function. Organs are then formed by the functional grouping together of multiple tissues.
@@ -371,7 +559,7 @@ Animal tissues are grouped into four basic types: connective, muscle, nervous, a
 
 The epithelium in all animals is derived from the ectoderm and endoderm, with a small contribution from the mesoderm, forming the endothelium, a specialized type of epithelium that composes the vasculature. By contrast, a true epithelial tissue is present only in a single layer of cells held together via occluding junctions called tight junctions, to create a selectively permeable barrier. This tissue covers all organismal surfaces that come in contact with the external environment such as the skin, the airways, and the digestive tract. It serves functions of protection, secretion, and absorption, and is separated from other tissues below by a basal lamina.
 
-## Epithelial tissue
+### Epithelial tissue
 
 The epithelial tissues are formed by cells that cover the organ surfaces, such as the surface of skin, the airways, surfaces of soft organs,the reproductive tract, and the inner lining of the digestive tract. The cells comprising an epithelial layer are linked via semi-permeable, tight junctions; hence, this tissue provides a barrier between the external environment and the organ it covers. In addition to this protective function, epithelial tissue may also be specialized to function in secretion, excretion and absorption. Epithelial tissue helps to protect organs from microorganisms, injury, and fluid loss.
 
@@ -395,15 +583,15 @@ There are many kinds of epithelium, and nomenclature is somewhat variable. Most 
 * Columnar epithelium
 * Glandular epithelium
 
-## Connective tissue
+### Connective tissue
 
 Connective tissues are fibrous tissues made up of cells separated by non-living material, which is called an extracellular matrix. This matrix can be liquid or rigid. For example, blood contains plasma as its matrix and bone's matrix is rigid. Connective tissue gives shape to organs and holds them in place. Blood, bone, tendon, ligament, adipose, and areolar tissues are examples of connective tissues. One method of classifying connective tissues is to divide them into three types: fibrous connective tissue, skeletal connective tissue, and fluid connective tissue.
 
-## Muscular tissue
+### Muscular tissue
 
 Muscle cells form the active contractile tissue of the body known as muscle tissue or muscular tissue. Muscle tissue functions to produce force and cause motion, either locomotion or movement within internal organs. Muscle tissue is separated into three distinct categories: visceral or smooth muscle, found in the inner linings of organs; skeletal muscle, typically attached to bones, which generate gross movement; and cardiac muscle, found in the heart, where it contracts to pump blood throughout an organism.
 
-## Nervous tissue
+### Nervous tissue
 
 Cells comprising the central nervous system and peripheral nervous system are classified as nervous (or neural) tissue. In the central nervous system, neural tissues form the brain and spinal cord. In the peripheral nervous system, neural tissues form the cranial nerves and spinal nerves, inclusive of the motor neurons.
 
@@ -531,7 +719,7 @@ In the 1990s, several teams of paleoanthropologists were working throughout Afri
 
 In 2000, Martin Pickford and Brigitte Senut discovered, in the Tugen Hills of Kenya, a 6-million-year-old bipedal hominin which they named Orrorin tugenensis. And in 2001, a team led by Michel Brunet discovered the skull of Sahelanthropus tchadensis which was dated as 7.2 million years ago, and which Brunet argued was a bipedal, and therefore a hominid—that is, a hominin (cf Hominidae; terms "hominids" and hominins).
 
-## Human dispersal
+### Human dispersal
 
 Anthropologists in the 1980s were divided regarding some details of reproductive barriers and migratory dispersals of the genus Homo. Subsequently, genetics has been used to investigate and resolve these issues. According to the Sahara pump theory evidence suggests that the genus Homo have migrated out of Africa at least three and possibly four times (e.g. Homo erectus, Homo heidelbergensis and two or three times for Homo sapiens). Recent evidence suggests these dispersals are closely related to fluctuating periods of climate change.
 
@@ -564,7 +752,7 @@ There are still differing theories on whether there was a single exodus from Afr
 
 Recent genetic evidence suggests that all modern non-African populations, including those of Eurasia and Oceania, are descended from a single wave that left Africa between 65,000 and 50,000 years ago.
 
-## Evidence of Human Evolution
+### Evidence of Human Evolution
 
 The evidence on which scientific accounts of human evolution are based comes from many fields of natural science. The main source of knowledge about the evolutionary process has traditionally been the fossil record, but since the development of genetics beginning in the 1970s, DNA analysis has come to occupy a place of comparable importance. The studies of ontogeny, phylogeny and especially evolutionary developmental biology of both vertebrates and invertebrates offer considerable insight into the evolution of all life, including how humans evolved. The specific study of the origin and life of humans is anthropology, particularly paleoanthropology which focuses on the study of human prehistory.
 
@@ -604,7 +792,7 @@ For example, comparative studies in the mid-2010s found several traits related t
 
 Although the narratives of human evolution are often contentious, several discoveries since 2010 show that human evolution should not be seen as a simple linear or branched progression, but a mix of related species. In fact, genomic research has shown that hybridization between substantially diverged lineages is the rule, not the exception, in human evolution. Furthermore, it is argued that hybridization was an essential creative force in the emergence of modern humans.
 
-## Early Evolution of Primates
+### Early Evolution of Primates
 
 The evolutionary history of the primates can be traced back 65 million years. One of the oldest known primate-like mammal species, the Plesiadapis, came from North America; another, Archicebus, came from China. Other similar basal primates were widespread in Eurasia and Africa during the tropical conditions of the Paleocene and Eocene.
 
@@ -618,7 +806,7 @@ The presence of other generalized non-cercopithecids of Middle Miocene from site
 
 Molecular evidence indicates that the lineage of gibbons (family Hylobatidae) diverged from the line of great apes some 18–12 million years ago, and that of orangutans (subfamily Ponginae) diverged from the other great apes at about 12 million years; there are no fossils that clearly document the ancestry of gibbons, which may have originated in a so-far-unknown Southeast Asian hominoid population, but fossil proto-orangutans may be represented by Sivapithecus from India and Griphopithecus from Turkey, dated to around 10 million years ago.
 
-## Divergence of The Human Clade From Other Great Apes
+### Divergence of The Human Clade From Other Great Apes
 
 Species close to the last common ancestor of gorillas, chimpanzees and humans may be represented by Nakalipithecus fossils found in Kenya and Ouranopithecus found in Greece. Molecular evidence suggests that between 8 and 4 million years ago, first the gorillas, and then the chimpanzees (genus Pan) split off from the line leading to the humans. Human DNA is approximately 98.4% identical to that of chimpanzees when comparing single nucleotide polymorphisms (see human evolutionary genetics). The fossil record, however, of gorillas and chimpanzees is limited; both poor preservation — rain forest soils tend to be acidic and dissolve bone — and sampling bias probably contribute to this problem.
 
@@ -630,7 +818,7 @@ Of course Ar. ramidus differs significantly from bonobos, bonobos having retaine
 
 The authors argue that many of the basic human adaptations evolved in the ancient forest and woodland ecosystems of late Miocene and early Pliocene Africa. Consequently, they argue that humans may not represent evolution from a chimpanzee-like ancestor as has traditionally been supposed. This suggests many modern human adaptations represent phylogenetically deep traits and that the behavior and morphology of chimpanzees may have evolved subsequent to the split with the common ancestor they share with humans.
 
-## Genus Australopithecus
+### Genus Australopithecus
 
 The genus Australopithecus evolved in eastern Africa around 4 million years ago before spreading throughout the continent and eventually becoming extinct 2 million years ago. During this time period various forms of australopiths existed, including Australopithecus anamensis, Au. afarensis, Au. sediba, and Au. africanus. There is still some debate among academics whether certain African hominid species of this time, such as Au. robustus and Au. boisei, constitute members of the same genus; if so, they would be considered to be Au. robust australopiths whilst the others would be considered Au. gracile australopiths. However, if these species do indeed constitute their own genus, then they may be given their own name, Paranthropus.
 
@@ -640,7 +828,7 @@ The genus Australopithecus evolved in eastern Africa around 4 million years ago 
 
 A new proposed species Australopithecus deyiremeda is claimed to have been discovered living at the same time period of Au. afarensis. There is debate if Au. deyiremeda is a new species or is Au. afarensis. Australopithecus prometheus, otherwise known as Little Foot has recently been dated at 3.67 million years old through a new dating technique, making the genus Australopithecus as old as afarensis. Given the opposable big toe found on Little Foot, it seems that he was a good climber, and it is thought given the night predators of the region, he probably, like gorillas and chimpanzees, built a nesting platform at night, in the trees.
 
-## Evolution of Genus Homo
+### Evolution of Genus Homo
 
 The earliest documented representative of the genus Homo is Homo habilis, which evolved around 2.8 million years ago, and is arguably the earliest species for which there is positive evidence of the use of stone tools. The brains of these early hominins were about the same size as that of a chimpanzee, although it has been suggested that this was the time in which the human SRGAP2 gene doubled, producing a more rapid wiring of the frontal cortex. During the next million years a process of rapid encephalization occurred, and with the arrival of Homo erectus and Homo ergaster in the fossil record, cranial capacity had doubled to 850 cm3. (Such an increase in human brain size is equivalent to each generation having 125,000 more neurons than their parents.) It is believed that Homo erectus and Homo ergaster were the first to use fire and complex tools, and were the first of the hominin line to leave Africa, spreading throughout Africa, Asia, and Europe between 1.3 to 1.8 million years ago.
 
@@ -658,20 +846,20 @@ Based on archaeological and paleontological evidence, it has been possible to in
 
 Some anthropologists and archaeologists subscribe to the Toba catastrophe theory, which posits that the supereruption of Lake Toba on Sumatran island in Indonesia some 70,000 years ago caused global consequences, killing the majority of humans and creating a population bottleneck that affected the genetic inheritance of all humans today. The genetic and archaeological evidence for this remains in question however.
 
-## H. habilis and H. gautengensis
+### H. habilis and H. gautengensis
 
 Homo habilis lived from about 2.8 to 1.4 Ma. The species evolved in South and East Africa in the Late Pliocene or Early Pleistocene, 2.5–2 Ma, when it diverged from the australopithecines. Homo habilis had smaller molars and larger brains than the australopithecines, and made tools from stone and perhaps animal bones. One of the first known hominins was nicknamed 'handy man' by discoverer Louis Leakey due to its association with stone tools. Some scientists have proposed moving this species out of Homo and into Australopithecus due to the morphology of its skeleton being more adapted to living on trees rather than to moving on two legs like Homo sapiens.
 
 In May 2010, a new species, Homo gautengensis, was discovered in South Africa.
 
-## H. rudolfensis and H. georgicus
+### H. rudolfensis and H. georgicus
 
 These are proposed species names for fossils from about 1.9–1.6 Ma, whose relation to Homo habilis is not yet clear.
 
 * Homo rudolfensis refers to a single, incomplete skull from Kenya. Scientists have suggested that this was another Homo habilis, but this has not been confirmed.
 * Homo georgicus, from Georgia, may be an intermediate form between Homo habilis and Homo erectus, or a subspecies of Homo erectus.
 
-## H. ergaster and H. erectus
+### H. ergaster and H. erectus
 
 The first fossils of Homo erectus were discovered by Dutch physician Eugene Dubois in 1891 on the Indonesian island of Java. He originally named the material Anthropopithecus erectus (1892–1893, considered at this point as a chimpanzee-like fossil primate) and Pithecanthropus erectus (1893–1894, changing his mind as of based on its morphology, which he considered to be intermediate between that of humans and apes). Years later, in the 20th century, the German physician and paleoanthropologist Franz Weidenreich (1873–1948) compared in detail the characters of Dubois' Java Man, then named Pithecanthropus erectus, with the characters of the Peking Man, then named Sinanthropus pekinensis. Weidenreich concluded in 1940 that because of their anatomical similarity with modern humans it was necessary to gather all these specimens of Java and China in a single species of the genus Homo, the species Homo erectus. Homo erectus lived from about 1.8 Ma to about 70,000 years ago — which would indicate that they were probably wiped out by the Toba catastrophe; however, nearby Homo floresiensis survived it. The early phase of Homo erectus, from 1.8 to 1.25 Ma, is considered by some to be a separate species, Homo ergaster, or as Homo erectus ergaster, a subspecies of Homo erectus.
 
@@ -679,23 +867,23 @@ In Africa in the Early Pleistocene, 1.5–1 Ma, some populations of Homo habilis
 
 A famous example of Homo erectus is Peking Man; others were found in Asia (notably in Indonesia), Africa, and Europe. Many paleoanthropologists now use the term Homo ergaster for the non-Asian forms of this group, and reserve Homo erectus only for those fossils that are found in Asia and meet certain skeletal and dental requirements which differ slightly from H. ergaster.
 
-## H. cepranensis and H. antecessor
+### H. cepranensis and H. antecessor
 
 These are proposed as species that may be intermediate between H. erectus and H. heidelbergensis.
 
 H. antecessor is known from fossils from Spain and England that are dated 1.2 Ma–500 ka.
 H. cepranensis refers to a single skull cap from Italy, estimated to be about 800,000 years old.
 
-## H. heidelbergensis
+### H. heidelbergensis
 
 H. heidelbergensis ("Heidelberg Man") lived from about 800,000 to about 300,000 years ago. Also proposed as Homo sapiens heidelbergensis or Homo sapiens paleohungaricus.
 
-## H. rhodesiensis, and the Gawis cranium
+### H. rhodesiensis, and the Gawis cranium
 
 H. rhodesiensis, estimated to be 300,000–125,000 years old. Most current researchers place Rhodesian Man within the group of Homo heidelbergensis, though other designations such as archaic Homo sapiens and Homo sapiens rhodesiensis have been proposed.
 In February 2006 a fossil, the Gawis cranium, was found which might possibly be a species intermediate between H. erectus and H. sapiens or one of many evolutionary dead ends. The skull from Gawis, Ethiopia, is believed to be 500,000–250,000 years old. Only summary details are known, and the finders have not yet released a peer-reviewed study. Gawis man's facial features suggest its being either an intermediate species or an example of a "Bodo man" female.
 
-## Neanderthal and Denisovan
+### Neanderthal and Denisovan
 
 Homo neanderthalensis, alternatively designated as Homo sapiens neanderthalensis, lived in Europe and Asia from 400,000 to about 28,000 years ago. There are a number of clear anatomical differences between anatomically modern humans (AMH) and Neanderthal populations. Many of these relate to the superior adaptation to cold environments possessed by the Neanderthal populations. Their surface to volume ratio is an extreme version of that found amongst Inuit populations, indicating that they were less inclined to lose body heat than were AMH. From brain Endocasts, Neanderthals also had significantly larger brains. This would seem to indicate that the intellectual superiority of AMH populations may be questionable. More recent research by Eiluned Pearce, Chris Stringer, R.I.M. Dunbar, however, have shown important differences in brain architecture. For example, in both the orbital chamber size and in the size of the occipital lobe, the larger size suggests that the Neanderthal had a better visual acuity than modern humans. This would give a superior vision in the inferior light conditions found in Glacial Europe. It also seems that the higher body mass of Neanderthals had a correspondingly larger brain mass required for body care and control.
 
@@ -714,7 +902,7 @@ The flow of genes from Neanderthal populations to modern humans was not all one 
 
 Studies of a Neanderthal child at Gibraltar show from brain development and teeth eruption that Neanderthal children may have matured more rapidly than is the case for Homo sapiens.
 
-## H. floresiensis
+### H. floresiensis
 
 H. floresiensis, which lived from approximately 190,000 to 50,000 years before present (BP), has been nicknamed the hobbit for its small size, possibly a result of insular dwarfism. H. floresiensis is intriguing both for its size and its age, being an example of a recent species of the genus Homo that exhibits derived traits not shared with modern humans. In other words, H. floresiensis shares a common ancestor with modern humans, but split from the modern human lineage and followed a distinct evolutionary path. The main find was a skeleton believed to be a woman of about 30 years of age. Found in 2003, it has been dated to approximately 18,000 years old. The living woman was estimated to be one meter in height, with a brain volume of just 380 cm3 (considered small for a chimpanzee and less than a third of the H. sapiens average of 1400 cm3).
 
@@ -722,11 +910,11 @@ However, there is an ongoing debate over whether H. floresiensis is indeed a sep
 
 The hypothesis of pathological dwarfism, however, fails to explain additional anatomical features that are unlike those of modern humans (diseased or not) but much like those of ancient members of our genus. Aside from cranial features, these features include the form of bones in the wrist, forearm, shoulder, knees, and feet. Additionally, this hypothesis fails to explain the find of multiple examples of individuals with these same characteristics, indicating they were common to a large population, and not limited to one individual.
 
-## H. luzonensis
+### H. luzonensis
 
 A small number of specimens from the island of Luzon, dated 50,000 to 67,000 years ago, have recently been assigned by their discoverers, based on dental characteristics, to a novel human species, H. luzonensis.
 
-## H. sapiens
+### H. sapiens
 
 H. sapiens (the adjective sapiens is Latin for "wise" or "intelligent") emerged in Africa around 300,000 years ago, likely derived from Homo heidelbergensis or a related lineage. In September 2019, scientists reported the computerized determination, based on 260 CT scans, of a virtual skull shape of the last common human ancestor to modern humans/H. sapiens, representative of the earliest modern humans, and suggested that modern humans arose between 260,000 and 350,000 years ago through a merging of populations in East and South Africa.
 

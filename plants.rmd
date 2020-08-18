@@ -83,7 +83,7 @@ Bryophytes exist in a wide variety of habitats. They can be found growing in a r
 
 Bryophytes can grow where vascularized plants cannot because they do not depend on roots for an uptake of nutrients from soil. Bryophytes can survive on rocks and bare soil.
 
-### Life Cycle
+### The Life Cycle of Plants
 
 Like all land plants (embryophytes), bryophytes have life cycles with alternation of generations. In each cycle, a haploid gametophyte, each of whose cells contains a fixed number of unpaired chromosomes, alternates with a diploid sporophyte, whose cell contain two sets of paired chromosomes. Gametophytes produce haploid sperm and eggs which fuse to form diploid zygotes that grow into sporophytes. Sporophytes produce haploid spores by meiosis, that grow into gametophytes.
 
@@ -129,7 +129,7 @@ Living root cells passively absorb water in the absence of transpiration pull vi
 
 Xylem and phloem tissues are involved in the conduction processes within plants. Sugars are conducted throughout the plant in the phloem, water and other nutrients through the xylem. Conduction occurs from a source to a sink for each separate nutrient. Sugars are produced in the leaves (a source) by photosynthesis and transported to the growing shoots and roots (sinks) for use in growth, cellular respiration or storage. Minerals are absorbed in the roots (a source) and transported to the shoots to allow cell division and growth.
 
-## Ferns
+### Ferns
 
 A fern (Polypodiopsida or Polypodiophyta) is a member of a group of vascular plants (plants with xylem and phloem) that reproduce via spores and have neither seeds nor flowers. They differ from mosses by being vascular, i.e., having specialized tissues that conduct water and nutrients and in having life cycles in which the sporophyte is the dominant phase. Ferns have complex leaves called megaphylls, that are more complex than the microphylls of clubmosses. Most ferns are leptosporangiate ferns. They produce coiled fiddleheads that uncoil and expand into fronds. The group includes about 10,560 known extant species. Ferns are defined here in the broad sense, being all of the Polypodiopsida, comprising both the leptosporangiate (Polypodiidae) and eusporangiate ferns, the latter group including horsetails or scouring rushes, whisk ferns, marattioid ferns, and ophioglossoid ferns.
 
@@ -162,7 +162,7 @@ Many ferns depend on associations with mycorrhizal fungi. Many ferns grow only w
 
 The spores are rich in lipids, protein and calories, so some vertebrates eat these. The European woodmouse (Apodemus sylvaticus) has been found to eat the spores of Culcita macrocarpa and the bullfinch (Pyrrhula murina) and the New Zealand lesser short-tailed bat (Mystacina tuberculata) also eat fern spores.
 
-### Life Cycle of Ferns
+### The Life Cycle of Ferns
 
 Ferns are vascular plants differing from lycophytes by having true leaves (megaphylls), which are often pinnate. They differ from seed plants (gymnosperms and angiosperms) in reproducing by means of spores and they lack flowers and seeds. Like all land plants, they have a life cycle referred to as alternation of generations, characterized by alternating diploid sporophytic and haploid gametophytic phases. The diploid sporophyte has 2n paired chromosomes, where n varies from species to species. The haploid gametophyte has n unpaired chromosomes, i.e. half the number of the sporophyte. The gametophyte of ferns is a free-living organism, whereas the gametophyte of the gymnosperms and angiosperms is dependent on the sporophyte.
 
@@ -174,7 +174,7 @@ The life cycle of a typical fern proceeds as follows:
 1. A mobile, flagellate sperm fertilizes an egg that remains attached to the prothallus.
 1. The fertilized egg is now a diploid zygote and grows by mitosis into a diploid sporophyte (the typical fern plant).
 
-## Seed Plants (Spermatophytes)
+## Seed Plants
 
 The spermatophytes, also known as phanerogams (taxon Phanerogamae) or phaenogams (taxon Phaenogamae), comprise those plants that produce seeds, hence the alternative name seed plants. They are a subset of the embryophytes or land plants. The term phanerogams or phanerogamae is derived from the Greek φανερός, phanerós meaning "visible", in contrast to the cryptogamae from Greek κρυπτός kryptós = "hidden" together with the suffix γαμέω, gameo, "to marry". These terms distinguished those plants with hidden sexual organs (cryptogamae) from those with visible sexual organs (phanerogamae).
 
@@ -323,7 +323,7 @@ A few paleontologists have also proposed that flowering plants, or angiosperms, 
 
 By the late Cretaceous, angiosperms appear to have dominated environments formerly occupied by ferns and cycadophytes, but large canopy-forming trees replaced conifers as the dominant trees only close to the end of the Cretaceous 66 million years ago or even later, at the beginning of the Tertiary. The radiation of herbaceous angiosperms occurred much later. Yet, many fossil plants recognizable as belonging to modern families (including beech, oak, maple, and magnolia) had already appeared by the late Cretaceous. Flowering plants appeared in Australia about 126 million years ago. This also pushed the age of ancient Australian vertebrates, in what was then a south polar continent, to 126-110 million years old.
 
-### Fertilization and embryogenesis
+### Fertilization and Embryogenesis
 
 Double fertilization refers to a process in which two sperm cells fertilize cells in the ovule. This process begins when a pollen grain adheres to the stigma of the pistil (female reproductive structure), germinates, and grows a long pollen tube. While this pollen tube is growing, a haploid generative cell travels down the tube behind the tube nucleus. The generative cell divides by mitosis to produce two haploid (n) sperm cells. As the pollen tube grows, it makes its way from the stigma, down the style and into the ovary. Here the pollen tube reaches the micropyle of the ovule and digests its way into one of the synergids, releasing its contents (which include the sperm cells). The synergid that the cells were released into degenerates and one sperm makes its way to fertilize the egg cell, producing a diploid (2n) zygote. The second sperm cell fuses with both central cell nuclei, producing a triploid (3n) cell. As the zygote develops into an embryo, the triploid cell develops into the endosperm, which serves as the embryo's food supply. The ovary will now develop into a fruit and the ovule will develop into a seed.
 
@@ -421,7 +421,7 @@ Sclerenchyma is Greek word where "Sclero-" means hard and "enchyma" means infusi
 
 The entire surface of the plant consists of a single layer of cells called epidermis or surface tissue. The entire surface of the plant has this outer layer of the epidermis. Hence it is also called surface tissue. Most of the epidermal cells are relatively flat. The outer and lateral walls of the cell are often thicker than the inner walls. The cells form a continuous sheet without intercellular spaces. It protects all parts of the plant. The outer epidermis is coated with a waxy thick layer called cuticle which prevents loss of water. The epidermis also consists of stomata(singular:stoma) which helps in transpiration.
 
-## Complex Permanent Tissue
+### Complex Permanent Tissue
 
 The complex tissue consists of more than one type of cells which work together as a unit. Complex tissues help in the transportation of organic material, water, and minerals up and down the plants. That is why it is also known as conducting and vascular tissue. The common types of complex permanent tissue are:
 
@@ -430,7 +430,7 @@ The complex tissue consists of more than one type of cells which work together a
 
 Xylem and phloem together form vascular bundles.
 
-## Xylem
+### Xylem
 
 Xylem consists of:
 
@@ -445,7 +445,7 @@ It is responsible for the conduction of water and mineral ions/salt. Xylem tissu
 
 Though most conduction in xylem tissue is vertical, lateral conduction along the diameter of a stem is facilitated via rays. Rays are horizontal rows of long-living parenchyma cells that arise out of the vascular cambium. In trees and other woody plants, rays radiate out from the center of stems and roots and appear like spokes on a wheel in cross section. Rays, unlike vessel members and tracheids, are alive at functional maturity.
 
-## Phloem
+### Phloem
 
 Phloem consists of:
 
@@ -455,7 +455,6 @@ Phloem consists of:
 * Phloem parenchyma.
 
 Phloem is an equally important plant tissue as it also is part of the 'plumbing system' of a plant. Primarily, phloem carries dissolved food substances throughout the plant. This conduction system is composed of sieve-tube member and companion cells, that are without secondary walls. The parent cells of the vascular cambium produce both xylem and phloem. This usually also includes fibers, parenchyma and ray cells. Sieve tubes are formed from sieve-tube members laid end to end. The end walls, unlike vessel members in xylem, do not have openings. The end walls, however, are full of small pores where cytoplasm extends from cell to cell. These porous connections are called sieve plates. In spite of the fact that their cytoplasm is actively involved in the conduction of food materials, sieve-tube members do not have nuclei at maturity. It is the companion cells that are nestled between sieve-tube members that function in some manner bringing about the conduction of food. Sieve-tube members that are alive contain a polymer called callose, a carbohydrate polymer, forming the callus pad/callus, the colourless substance that covers the sieve plate. Callose stays in solution as long as the cell contents are under pressure. Phloem transports food and materials in plants upwards and downwards as required.
-
 
 ### Plant cells
 
@@ -630,7 +629,6 @@ There are three general modes of fruit development:
 * Multiple fruits form from many different flowers.
 
 Plant scientists have grouped fruits into three main groups, simple fruits, aggregate fruits, and composite or multiple fruits. The groupings are not evolutionarily relevant, since many diverse plant taxa may be in the same group, but reflect how the flower organs are arranged and how the fruits develop.
-
 
 ### Reproductin of Ferns
 

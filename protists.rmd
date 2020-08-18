@@ -1,5 +1,13 @@
 # Protists
 
+A protist is any eukaryotic organism (one with cells containing a nucleus) that is not an animal, plant, or fungus. While it is likely that protists share a common ancestor (the last eukaryotic common ancestor), the exclusion of other eukaryotes means that protists do not form a natural group, or clade. So some protists may be more closely related to animals, plants, or fungi than they are to other protists; however, like algae, invertebrates, or protozoans, the grouping is used for convenience.
+
+(ref:prot) [A sampling of protists:](https://commons.wikimedia.org/wiki/File:Protist_collage_2.jpg) red algae (Chondrus crispus); brown algae (Giant Kelp); ciliate (Frontonia); golden algae (Dinobryon); Foraminifera (Radiolaria); parasitic flagellate (Giardia muris); pathogenic amoeba (Acanthamoeba); amoebozoan slime mold (Fuligo septica)
+
+```{r protistacollage, fig.cap='(ref:prot)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/protista/Protist_collage_2.jpg")
+```
+
 In antiquity, the two lineages of animals and plants were recognized. They were given the taxonomic rank of Kingdom by the Swedish botanist [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus). Though he included the fungi with plants with some reservations, it was later realized that they are quite distinct and warrant a separate kingdom, the composition of which was not entirely clear until the 1980s. The various single-cell eukaryotes were originally placed with plants or animals when they became known. In 1818, the German biologist Georg A. Goldfuss coined the word protozoa to refer to organisms such as ciliates, and this group was expanded until it encompassed all single-celled eukaryotes, and given their own kingdom, the Protista, by [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel) in 1866.
 
 
@@ -29,14 +37,6 @@ setwd("~/Dropbox/R/biology-text-master")
 eutax <-  as_tibble(read.csv("data/eukaryote_taxonomy.csv"))
 
 knitr::kable(eutax, col.names = c("Supergroup Name", "Organisms"), digits = 2, align = 'll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position"))
-```
-
-A protist is any eukaryotic organism (one with cells containing a nucleus) that is not an animal, plant, or fungus. While it is likely that protists share a common ancestor (the last eukaryotic common ancestor), the exclusion of other eukaryotes means that protists do not form a natural group, or clade. So some protists may be more closely related to animals, plants, or fungi than they are to other protists; however, like algae, invertebrates, or protozoans, the grouping is used for convenience.
-
-(ref:prot) [A sampling of protists:](https://commons.wikimedia.org/wiki/File:Protist_collage_2.jpg) red algae (Chondrus crispus); brown algae (Giant Kelp); ciliate (Frontonia); golden algae (Dinobryon); Foraminifera (Radiolaria); parasitic flagellate (Giardia muris); pathogenic amoeba (Acanthamoeba); amoebozoan slime mold (Fuligo septica)
-
-```{r protistacollage, fig.cap='(ref:prot)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/protista/Protist_collage_2.jpg")
 ```
 
 The classification of a separate kingdom to the animals and plants was first proposed by John Hogg in 1860 as the kingdom Protoctista; in 1866 Ernst Haeckel also proposed a third kingdom Protista as "the kingdom of primitive forms". Originally these also included prokaryotes, but with time these would be removed to a fourth kingdom Monera. In the popular five-kingdom scheme proposed by Robert Whittaker in 1969, the Protista was defined as eukaryotic "organisms which are unicellular or unicellular-colonial and which form no tissues", and the fifth kingdom Fungi was established.[c] In the five-kingdom system of Lynn Margulis, the term protist is reserved for microscopic organisms, while the more inclusive kingdom Protoctista (or protoctists) included certain large multicellular eukaryotes, such as kelp, red algae and slime molds. Others use the term protist interchangeably with Margulis's protoctist, to encompass both single-celled and multicellular eukaryotes, including those that form specialized tissues but do not fit into any of the other traditional kingdoms.
@@ -71,26 +71,6 @@ protmet <-  as_tibble(read.csv("data/protist_metabolism.csv"))
 
 knitr::kable(protmet, col.names = c("Nutritional Type", "Source of Energy", "Source of Carbon", "Examples"), digits = 2, align = 'llll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position"))
 ```
-
-## Reproduction of Protists
-
-Some protists reproduce sexually using gametes, while others reproduce asexually.
-
-Some species, for example *Plasmodium falciparum,* have extremely complex life cycles that involve multiple forms of the organism, some of which reproduce sexually and others asexually. However, it is unclear how frequently sexual reproduction causes genetic exchange between different strains of Plasmodium in nature and most populations of parasitic protists may be clonal lines that rarely exchange genes with other members of their species.
-
-Eukaryotes emerged in evolution more than 1.5 billion years ago. The earliest eukaryotes were likely protists. Although sexual reproduction is widespread among extant eukaryotes, it seemed unlikely until recently, that sex could be a primordial and fundamental characteristic of eukaryotes. A principal reason for this view was that sex appeared to be lacking in certain pathogenic protists whose ancestors branched off early from the eukaryotic family tree. However, several of these protists are now known to be capable of, or to recently have had the capability for, meiosis and hence sexual reproduction. For example, the common intestinal parasite Giardia lamblia was once considered to be a descendant of a protist lineage that predated the emergence of meiosis and sex. However, G. lamblia was recently found to have a core set of genes that function in meiosis and that are widely present among sexual eukaryotes. These results suggested that G. lamblia is capable of meiosis and thus sexual reproduction. Furthermore, direct evidence for meiotic recombination, indicative of sex, was also found in G. lamblia.
-
-The pathogenic parasitic protists of the genus Leishmania have been shown to be capable of a sexual cycle in the invertebrate vector, likened to the meiosis undertaken in the trypanosomes.
-
-Protists generally reproduce asexually under favorable environmental conditions, but tend to reproduce sexually under stressful conditions, such as starvation or heat shock. Oxidative stress, which is associated with the production of reactive oxygen species leading to DNA damage, also appears to be an important factor in the induction of sex in protists.
-
-Some commonly found Protist pathogens such as *Toxoplasma gondii* are capable of infecting and undergoing asexual reproduction in a wide variety of animals – which act as secondary or intermediate host – but can undergo sexual reproduction only in the primary or definitive host (for example: felids such as domestic cats in this case).
-
-Free-living Protists occupy almost any environment that contains liquid water. Many protists, such as algae, are photosynthetic and are vital primary producers in ecosystems, particularly in the ocean as part of the plankton. Protists make up a large portion of the biomass in both marine and terrestrial environments.
-
-Other protists include pathogenic species, such as the kinetoplastid Trypanosoma brucei, which causes sleeping sickness, and species of the apicomplexan Plasmodium, which cause malaria.
-
-Some protists are significant parasites of animals (e.g.; five species of the parasitic genus Plasmodium cause malaria in humans and many others cause similar diseases in other vertebrates), plants (the oomycete Phytophthora infestans causes late blight in potatoes) or even of other protists. Protist pathogens share many metabolic pathways with their eukaryotic hosts. This makes therapeutic target development extremely difficult – a drug that harms a protist parasite is also likely to harm its animal/plant host. A more thorough understanding of protist biology may allow these diseases to be treated more efficiently. For example, the apicoplast (a nonphotosynthetic chloroplast but essential to carry out important functions other than photosynthesis) present in apicomplexans provides an attractive target for treating diseases caused by dangerous pathogens such as plasmodium.
 
 ## Protozoa
 
@@ -363,4 +343,25 @@ knitr::include_graphics("./figures/protista/Dictyostelium_Aggregation.jpg")
 ```{r dictslug, fig.cap='(ref:dicslug)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/protista/Dictyostelium_Pseudoplasmodium.jpg")
 ```
+
+### Reproduction of Protists
+
+Some protists reproduce sexually using gametes, while others reproduce asexually.
+
+Some species, for example *Plasmodium falciparum,* have extremely complex life cycles that involve multiple forms of the organism, some of which reproduce sexually and others asexually. However, it is unclear how frequently sexual reproduction causes genetic exchange between different strains of Plasmodium in nature and most populations of parasitic protists may be clonal lines that rarely exchange genes with other members of their species.
+
+Eukaryotes emerged in evolution more than 1.5 billion years ago. The earliest eukaryotes were likely protists. Although sexual reproduction is widespread among extant eukaryotes, it seemed unlikely until recently, that sex could be a primordial and fundamental characteristic of eukaryotes. A principal reason for this view was that sex appeared to be lacking in certain pathogenic protists whose ancestors branched off early from the eukaryotic family tree. However, several of these protists are now known to be capable of, or to recently have had the capability for, meiosis and hence sexual reproduction. For example, the common intestinal parasite Giardia lamblia was once considered to be a descendant of a protist lineage that predated the emergence of meiosis and sex. However, G. lamblia was recently found to have a core set of genes that function in meiosis and that are widely present among sexual eukaryotes. These results suggested that G. lamblia is capable of meiosis and thus sexual reproduction. Furthermore, direct evidence for meiotic recombination, indicative of sex, was also found in G. lamblia.
+
+The pathogenic parasitic protists of the genus Leishmania have been shown to be capable of a sexual cycle in the invertebrate vector, likened to the meiosis undertaken in the trypanosomes.
+
+Protists generally reproduce asexually under favorable environmental conditions, but tend to reproduce sexually under stressful conditions, such as starvation or heat shock. Oxidative stress, which is associated with the production of reactive oxygen species leading to DNA damage, also appears to be an important factor in the induction of sex in protists.
+
+Some commonly found Protist pathogens such as *Toxoplasma gondii* are capable of infecting and undergoing asexual reproduction in a wide variety of animals – which act as secondary or intermediate host – but can undergo sexual reproduction only in the primary or definitive host (for example: felids such as domestic cats in this case).
+
+Free-living Protists occupy almost any environment that contains liquid water. Many protists, such as algae, are photosynthetic and are vital primary producers in ecosystems, particularly in the ocean as part of the plankton. Protists make up a large portion of the biomass in both marine and terrestrial environments.
+
+Other protists include pathogenic species, such as the kinetoplastid Trypanosoma brucei, which causes sleeping sickness, and species of the apicomplexan Plasmodium, which cause malaria.
+
+Some protists are significant parasites of animals (e.g.; five species of the parasitic genus Plasmodium cause malaria in humans and many others cause similar diseases in other vertebrates), plants (the oomycete Phytophthora infestans causes late blight in potatoes) or even of other protists. Protist pathogens share many metabolic pathways with their eukaryotic hosts. This makes therapeutic target development extremely difficult – a drug that harms a protist parasite is also likely to harm its animal/plant host. A more thorough understanding of protist biology may allow these diseases to be treated more efficiently. For example, the apicoplast (a nonphotosynthetic chloroplast but essential to carry out important functions other than photosynthesis) present in apicomplexans provides an attractive target for treating diseases caused by dangerous pathogens such as plasmodium.
+
 

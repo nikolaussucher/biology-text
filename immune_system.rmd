@@ -26,15 +26,15 @@ The lymphatic system was first described in the 17th century independently by Ol
 
 The lymphatic system consists of a conducting network of lymphatic vessels, lymphoid organs, lymphoid tissues, and the circulating lymph.
 
-## Primary lymphoid organs
+### Primary lymphoid organs
 
 The primary (or central) lymphoid organs generate lymphocytes from immature progenitor cells. The thymus and the bone marrow constitute the primary lymphoid organs involved in the production and early clonal selection of lymphocyte tissues.
 
-## The Bone Marrow
+### The Bone Marrow
 
 Bone marrow is responsible for both the creation of T cells and the production and maturation of B cells, which are important cell types of the immune system. From the bone marrow, B cells immediately join the circulatory system and travel to secondary lymphoid organs in search of pathogens. T cells, on the other hand, travel from the bone marrow to the thymus, where they develop further and mature. Mature T cells then join B cells in search of pathogens. The other 95% of T cells begin a process of apoptosis, a form of programmed cell death.
 
-## The Thymus
+### The Thymus
 
 The thymus increases in size from birth in response to postnatal antigen stimulation. It is most active during the neonatal and pre-adolescent periods. At puberty, by the early teens, the thymus begins to atrophy and regress, with adipose tissue mostly replacing the thymic stroma. However, residual T lymphopoiesis continues throughout adult life. The loss or lack of the thymus results in severe immunodeficiency and subsequent high susceptibility to infection. In most species, the thymus consists of lobules divided by septa which are made up of epithelium; it is therefore often considered an epithelial organ. T cells mature from thymocytes, proliferate, and undergo a selection process in the thymic cortex before entering the medulla to interact with epithelial cells.
 
@@ -46,11 +46,11 @@ knitr::include_graphics("./figures/immune/Illu_thymus.jpg")
 
 The thymus provides an inductive environment for the development of T cells from hematopoietic progenitor cells. In addition, thymic stromal cells allow for the selection of a functional and self-tolerant T cell repertoire. Therefore, one of the most important roles of the thymus is the induction of central tolerance.
 
-## The Secondary Lymphoid Organs
+### The Secondary Lymphoid Organs
 
 The secondary (or peripheral) lymphoid organs (SLO), which include lymph nodes and the spleen, maintain mature naive lymphocytes and initiate an adaptive immune response. The peripheral lymphoid organs are the sites of lymphocyte activation by antigens. Activation leads to clonal expansion and affinity maturation. Mature lymphocytes recirculate between the blood and the peripheral lymphoid organs until they encounter their specific antigen.
 
-## The Spleen
+### The Spleen
 
 The main functions of the spleen are:
 
@@ -70,7 +70,7 @@ Like the thymus, the spleen has only efferent lymphatic vessels. Both the short 
 
 Until the fifth month of prenatal development, the spleen creates red blood cells; after birth, the bone marrow is solely responsible for hematopoiesis. As a major lymphoid organ and a central player in the reticuloendothelial system, the spleen retains the ability to produce lymphocytes. The spleen stores red blood cells and lymphocytes. It can store enough blood cells to help in an emergency. Up to 25% of lymphocytes can be stored at any one time.
 
-## The Lymph Nodes
+### The Lymph Nodes
 
 A lymph node is an organized collection of lymphoid tissue, through which the lymph passes on its way back to the blood. Lymph nodes are located at intervals along the lymphatic system. Several afferent lymph vessels bring in lymph, which percolates through the substance of the lymph node, and is then drained out by an efferent lymph vessel. Of the nearly 800 lymph nodes in the human body, about 300 are located in the head and neck. Many are grouped in clusters in different regions, as in the underarm and abdominal areas. Lymph node clusters are commonly found at the proximal ends of limbs (groin, armpits) and in the neck, where lymph is collected from regions of the body likely to sustain pathogen contamination from injuries. Lymph nodes are particularly numerous in the mediastinum in the chest, neck, pelvis, axilla, inguinal region, and in association with the blood vessels of the intestines.
 
@@ -90,7 +90,7 @@ In the gastrointestinal wall, the appendix has mucosa resembling that of the col
 
 Lymphoid tissue associated with the lymphatic system is concerned with immune functions in defending the body against infections and the spread of tumours. It consists of connective tissue formed of reticular fibers, with various types of leukocytes (white blood cells), mostly lymphocytes enmeshed in it, through which the lymph passes. Regions of the lymphoid tissue that are densely packed with lymphocytes are known as lymphoid follicles. Lymphoid tissue can either be structurally well organized as lymph nodes or may consist of loosely organized lymphoid follicles known as the mucosa-associated lymphoid tissue (MALT).
 
-## The Lymphatic Vessels
+### The Lymphatic Vessels
 
 The lymphatic vessels, also called lymph vessels, are thin-walled vessels that conduct lymph between different parts of the body. They include the tubular vessels of the lymph capillaries, and the larger collecting vessels–the right lymphatic duct and the thoracic duct (the left lymphatic duct). The lymph capillaries are mainly responsible for the absorption of interstitial fluid from the tissues, while lymph vessels propel the absorbed fluid forward into the larger collecting ducts, where it ultimately returns to the bloodstream via one of the subclavian veins.
 
@@ -153,7 +153,7 @@ Recognition of extracellular or endosomal pathogen-associated molecular patterns
 
 Cells in the innate immune system have pattern recognition receptors that detect infection or cell damage in the cytosol. Three major classes of these cytosolic receptors are NOD–like receptors, RIG (retinoic acid-inducible gene)-like receptors, and cytosolic DNA sensors.
 
-## Surface Barriers
+### Surface Barriers
 
 Several barriers protect organisms from infection, including mechanical, chemical, and biological barriers. The waxy cuticle of most leaves, the exoskeleton of insects, the shells and membranes of externally deposited eggs, and skin are examples of mechanical barriers that are the first line of defense against infection. However, as organisms cannot be completely sealed from their environments, other systems act to protect body openings such as the lungs, intestines, and the genitourinary tract. In the lungs, coughing and sneezing mechanically eject pathogens and other irritants from the respiratory tract. The flushing action of tears and urine also mechanically expels pathogens, while mucus secreted by the respiratory and gastrointestinal tract serves to trap and entangle microorganisms.
 
@@ -175,11 +175,11 @@ knitr::include_graphics("./figures/immune/SEM_blood_cells.jpg")
 
 Phagocytosis is an important feature of cellular innate immunity performed by cells called phagocytes that engulf, or eat, pathogens or particles. Phagocytes generally patrol the body searching for pathogens, but can be called to specific locations by cytokines. Once a pathogen has been engulfed by a phagocyte, it becomes trapped in an intracellular vesicle called a phagosome, which subsequently fuses with another vesicle called a lysosome to form a phagolysosome. The pathogen is killed by the activity of digestive enzymes or following a respiratory burst that releases free radicals into the phagolysosome. Phagocytosis evolved as a means of acquiring nutrients, but this role was extended in phagocytes to include engulfment of pathogens as a defense mechanism. Phagocytosis probably represents the oldest form of host defense, as phagocytes have been identified in both vertebrate and invertebrate animals.
 
-## Mast cells
+### Mast cells
 
 Mast cells are a type of innate immune cell that reside in connective tissue and in the mucous membranes. They are intimately associated with wound healing and defense against pathogens, but are also often associated with allergy and anaphylaxis (serious allergic reactions that can cause death). When activated, mast cells rapidly release characteristic granules, rich in histamine and heparin, along with various hormonal mediators and chemokines, or chemotactic cytokines into the environment. Histamine dilates blood vessels, causing the characteristic signs of inflammation, and recruits neutrophils and macrophages.
 
-## Phagocytes
+### Phagocytes
 
 Phagocytes are cells that protect the body by ingesting harmful foreign particles, bacteria, and dead or dying cells. Their name comes from the Greek phagein, "to eat" or "devour", and "-cyte", the suffix in biology denoting "cell", from the Greek kutos, "hollow vessel". They are essential for fighting infections and for subsequent immunity. Phagocytes are important throughout the animal kingdom and are highly developed within vertebrates. One litre of human blood contains about six billion phagocytes. They were discovered in 1882 by Ilya Ilyich Mechnikov while he was studying starfish larvae. Mechnikov was awarded the 1908 Nobel Prize in Physiology or Medicine for his discovery. Phagocytes occur in many species; some amoebae behave like macrophage phagocytes, which suggests that phagocytes appeared early in the evolution of life.
 
@@ -199,11 +199,11 @@ During an infection, chemical signals attract phagocytes to places where the pat
 knitr::include_graphics("./figures/immune/Phagocytosis2.png")
 ```
 
-## Macrophages
+### Macrophages
 
 Macrophages, from the Greek, meaning "large eaters," are large phagocytic leukocytes, which are able to move outside of the vascular system by migrating through the walls of capillary vessels and entering the areas between cells in pursuit of invading pathogens. In tissues, organ-specific macrophages are differentiated from phagocytic cells present in the blood called monocytes. Macrophages are the most efficient phagocytes and can phagocytose substantial numbers of bacteria or other cells or microbes. The binding of bacterial molecules to receptors on the surface of a macrophage triggers it to engulf and destroy the bacteria through the generation of a “respiratory burst”, causing the release of reactive oxygen species. Pathogens also stimulate the macrophage to produce chemokines, which summon other cells to the site of infection.
 
-## Neutrophils
+### Neutrophils
 
 Neutrophils, along with two other cell types (eosinophils and basophils; see below), are known as granulocytes due to the presence of granules in their cytoplasm, or as polymorphonuclear cells (PMNs) due to their distinctive lobed nuclei. Neutrophil granules contain a variety of toxic substances that kill or inhibit growth of bacteria and fungi. Similar to macrophages, neutrophils attack pathogens by activating a respiratory burst. The main products of the neutrophil respiratory burst are strong oxidizing agents including hydrogen peroxide, free oxygen radicals and hypochlorite. Neutrophils are the most abundant type of phagocyte, normally representing 50-60% of the total circulating leukocytes, and are usually the first cells to arrive at the site of an infection. The bone marrow of a normal healthy adult produces more than 100 billion neutrophils per day, and more than 10 times that many per day during acute inflammation.
 
@@ -213,11 +213,11 @@ Neutrophils, along with two other cell types (eosinophils and basophils; see bel
 knitr::include_graphics("./figures/immune/PBNeutrophil.jpg")
 ```
 
-## Dendritic Cells
+### Dendritic Cells
 
 Dendritic cells (DC) are phagocytes in tissues that are in contact with the external environment; therefore, they are located mainly in the skin, nose, lungs, stomach, and intestines. They are named for their resemblance to neuronal dendrites, as both have many spine-like projections, but dendritic cells are in no way connected to the nervous system. Dendritic cells serve as a link between the bodily tissues and the innate and adaptive immune systems, as they present antigens to T cells, one of the key cell types of the adaptive immune system.
 
-## Basophils And Eosinophils
+### Basophils And Eosinophils
 
 Basophils and eosinophils are cells related to the neutrophil. When activated by a pathogen encounter, histamine-releasing basophils are important in the defense against parasites and play a role in allergic reactions, such as asthma. Upon activation, eosinophils secrete a range of highly toxic proteins and free radicals that are highly effective in killing parasites, but may also damage tissue during an allergic reaction. Activation and release of toxins by eosinophils are, therefore, tightly regulated to prevent any inappropriate tissue destruction.
 
@@ -227,7 +227,7 @@ Basophils and eosinophils are cells related to the neutrophil. When activated by
 knitr::include_graphics("./figures/immune/Eosinophil_blood_smear.jpg")
 ```
 
-## Innate Lymphoid Cells
+### Innate Lymphoid Cells
 
 Innate lymphoid cells (ILCs) are a group of innate immune cells that are derived from common lymphoid progenitor (CLP) and belong to the lymphoid lineage. These cells are defined by absence of antigen specific B or T cell receptor because of the lack of recombination activating gene (RAG). ILCs do not express myeloid or dendritic cell markers.
 
@@ -311,7 +311,7 @@ The major functions of the acquired immune system include:
 
 In humans, it takes 4-7 days for the adaptive immune system to mount a significant response.
 
-## The Lymphocytes
+### The Lymphocytes
 
 The cells of the acquired immune system are T and B lymphocytes; lymphocytes are a subset of leukocyte. B cells and T cells are the major types of lymphocytes. The human body has about 2 trillion lymphocytes, constituting 20–40% of white blood cells (WBCs); their total mass is about the same as the brain or liver. The peripheral blood contains 2% of circulating lymphocytes; the rest move within the tissues and lymphatic system.
 
@@ -323,7 +323,7 @@ T progenitors migrate from the bone marrow to the thymus where they are called t
 * effector cells that have been activated by their cognate antigen, and are actively involved in eliminating a pathogen.
 * memory cells – the survivors of past infections.
 
-## Antigen Presentation to T Lymphocytes
+### Antigen Presentation to T Lymphocytes
 
 Acquired immunity relies on the capacity of immune cells to distinguish between the body's own cells and unwanted invaders. The host's cells express "self" antigens. These antigens are different from those on the surface of bacteria or on the surface of virus-infected host cells ("non-self" or "foreign" antigens). The acquired immune response is triggered by recognizing foreign antigen in the cellular context of an activated dendritic cell.
 
@@ -347,7 +347,7 @@ Endogenous antigens are produced by intracellular bacteria and viruses replicati
 knitr::include_graphics("./figures/immune/T_cell_activation.svg")
 ```
 
-## Cytotoxic T lymphocytes
+### Cytotoxic T lymphocytes
 
 Cytotoxic T cells (also known as TC, killer T cell, or cytotoxic T-lymphocyte (CTL)) are a sub-group of T cells that induce the death of cells that are infected with viruses (and other pathogens), or are otherwise damaged or dysfunctional.
 
@@ -359,7 +359,7 @@ On resolution of the infection, most effector cells die and phagocytes clear the
 
 CD4+ lymphocytes, also called "helper" T cells, are immune response mediators, and play an important role in establishing and maximizing the capabilities of the acquired immune response. These cells have no cytotoxic or phagocytic activity; and cannot kill infected cells or clear pathogens, but, in essence "manage" the immune response, by directing other cells to perform these tasks.
 
-## T Helper Cells
+### T Helper Cells
 
 Helper T cells express T cell receptors (TCR) that recognize antigen bound to Class II MHC molecules. The activation of a naive helper T-cell causes it to release cytokines, which influences the activity of many cell types, including the APC (Antigen-Presenting Cell) that activated it. Helper T-cells require a much milder activation stimulus than cytotoxic T cells. Helper T cells can provide extra signals that "help" activate cytotoxic cells.
 
@@ -373,11 +373,11 @@ Increasingly, there is strong evidence from mouse and human-based scientific stu
 
 The relevance of CD4+ T helper cells is highlighted during an HIV infection. HIV is able to subvert the immune system by specifically attacking the CD4+ T cells, precisely the cells that could drive the clearance of the virus, but also the cells that drive immunity against all other pathogens encountered during an organism's lifetime.
 
-## Gamma delta T cells
+### Gamma delta T cells
 
 Gamma delta T cells (γδ T cells) possess an alternative T cell receptor (TCR) as opposed to CD4+ and CD8+ αβ T cells and share characteristics of helper T cells, cytotoxic T cells and natural killer cells. Like other 'unconventional' T cell subsets bearing invariant TCRs, such as CD1d-restricted natural killer T cells, γδ T cells exhibit characteristics that place them at the border between innate and acquired immunity. On one hand, γδ T cells may be considered a component of adaptive immunity in that they rearrange TCR genes via V(D)J recombination, which also produces junctional diversity, and develop a memory phenotype. On the other hand, however, the various subsets may also be considered part of the innate immune system where a restricted TCR or NK receptors may be used as a pattern recognition receptor. For example, according to this paradigm, large numbers of Vγ9/Vδ2 T cells respond within hours to common molecules produced by microbes, and highly restricted intraepithelial Vδ1 T cells respond to stressed epithelial cells.
 
-## B Lymphocytes And Antibody Production
+### B Lymphocytes And Antibody Production
 
 The B lymphocyte activation pathway. B cells function to protect the host by producing antibodies that identify and neutralize foreign objects like bacteria and viruses.
 B Cells are the major cells involved in the creation of antibodies that circulate in blood plasma and lymph, known as humoral immunity. Antibodies (also known as immunoglobulin, Ig), are large Y-shaped proteins used by the immune system to identify and neutralize foreign objects. In mammals, there are five types of antibody: IgA, IgD, IgE, IgG, and IgM, differing in biological properties; each has evolved to handle different kinds of antigens. Upon activation, B cells produce antibodies, each of which recognize a unique antigen, and neutralizing specific pathogens.
@@ -404,7 +404,7 @@ A B cell identifies pathogens when antibodies on its surface bind to a specific 
 knitr::include_graphics("./figures/immune/B_cell_activation.svg")
 ```
 
-## Antibodies
+### Antibodies
 
 An antibody (Ab), also known as an immunoglobulin (Ig), is a large, Y-shaped protein produced mainly by plasma cells that is used by the immune system to neutralize pathogens such as pathogenic bacteria and viruses. The antibody recognizes a unique molecule of the pathogen, called an antigen, via the fragment antigen-binding (Fab) variable region. Each tip of the "Y" of an antibody contains a paratope (analogous to a lock) that is specific for one particular epitope (analogous to a key) on an antigen, allowing these two structures to bind together with precision. Using this binding mechanism, an antibody can tag a microbe or an infected cell for attack by other parts of the immune system, or can neutralize its target directly (for example, by inhibiting a part of a microbe that is essential for its invasion and survival). Depending on the antigen, the binding may impede the biological process causing the disease or may activate macrophages to destroy the foreign substance. The ability of an antibody to communicate with the other components of the immune system is mediated via its Fc region (located at the base of the "Y"), which contains a conserved glycosylation site involved in these interactions. The production of antibodies is the main function of the humoral immune system.
 
@@ -430,7 +430,7 @@ knitr::include_graphics("./figures/immune/Antibody_chains.svg")
 
 The variable parts of an antibody are its V regions, and the constant part is its C region.
 
-## The Immunological Memory
+### The Immunological Memory
 
 When B cells and T cells are activated and begin to replicate, some of their offspring become long-lived memory cells. Throughout the lifetime of an animal, these memory cells remember each specific pathogen encountered and can mount a strong response if the pathogen is detected again. This is "adaptive" because it occurs during the lifetime of an individual as an adaptation to infection with that pathogen and prepares the immune system for future challenges. Immunological memory can be in the form of either passive short-term memory or active long-term memory.
 
