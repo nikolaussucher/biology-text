@@ -98,8 +98,6 @@ As its name suggests, it depends upon the hypothalamus, the pituitary gland, and
 
 The hypothalamus senses low circulating levels of thyroid hormone (Triiodothyronine (T3) and Thyroxine (T4)) and responds by releasing thyrotropin-releasing hormone (TRH). The TRH stimulates the anterior pituitary to produce thyroid-stimulating hormone (TSH). The TSH, in turn, stimulates the thyroid to produce thyroid hormone until levels in the blood return to normal. Thyroid hormone exerts negative feedback control over the hypothalamus as well as anterior pituitary, thus controlling the release of both TRH from hypothalamus and TSH from anterior pituitary gland.
 
-The HPA, HPG, and HPT axes are three pathways in which the hypothalamus and pituitary direct neuroendocrine function.
-
 Thyroid homeostasis results from a multi-loop feedback system that is found in virtually all higher vertebrates. Proper function of thyrotropic feedback control is indispensable for growth, differentiation, reproduction and intelligence. Very few animals (e.g. axolotls and sloths) have impaired thyroid homeostasis that exhibits a very low set-point that is assumed to underlie the metabolic and ontogenetic anomalies of these animals.
 
 The pituitary gland secretes thyrotropin (TSH; Thyroid Stimulating Hormone) that stimulates the thyroid to secrete thyroxine (T4) and, to a lesser degree, triiodothyronine (T3). The major portion of T3, however, is produced in peripheral organs, e.g. liver, adipose tissue, glia and skeletal muscle by deiodination from circulating T4. Deiodination is controlled by numerous hormones and nerval signals including TSH, vasopressin and catecholamines.
@@ -128,8 +126,6 @@ The axis controls development, reproduction, and aging in animals. Gonadotropin-
 
 In oviparous organisms (e.g. fish, reptiles, amphibians, birds), the HPG axis is commonly referred to as the hypothalamus-pituitary-gonadal-liver axis (HPGL-axis) in females. Many egg-yolk and chorionic proteins are synthesized heterologously in the liver, which are necessary for ovocyte growth and development. Examples of such necessary liver proteins are vitellogenin and choriogenin.
 
-The HPA, HPG, and HPT axes are three pathways in which the hypothalamus and pituitary direct neuroendocrine function.
-
 The hypothalamus is located in the brain and secretes GnRH. GnRH travels down the anterior portion of the pituitary via the hypophyseal portal system and binds to receptors on the secretory cells of the adenohypophysis. In response to GnRH stimulation these cells produce LH and FSH, which travel into the blood stream.
 
 These two hormones play an important role in communicating to the gonads. In females FSH and LH act primarily to activate the ovaries to produce estrogen and inhibin and to regulate the menstrual cycle and ovarian cycle. Estrogen forms a negative feedback loop by inhibiting the production of GnRH in the hypothalamus. Inhibin acts to inhibit activin, which is a peripherally produced hormone that positively stimulates GnRH-producing cells. Follistatin, which is also produced in all body tissue, inhibits activin and gives the rest of the body more control over the axis. In males LH stimulates the interstitial cells located in the testes to produce testosterone, and FSH plays a role in spermatogenesis. Only small amounts of estrogen are secreted in males. Recent research has shown that a neurosteroid axis exists, which helps the cortex to regulate the hypothalamus's production of GnRH.
@@ -146,7 +142,7 @@ Although males remain fertile until death, the activity of the HPG axis decrease
 
 Sex steroids also affect behavior, because sex steroids affect the brains structure and functioning. During development, hormones help determine how neurons synapse and migrate to result in sexual dimorphisms. These physical differences lead to differences in behavior. While GnRH has not been shown to have any direct influence on regulating brain structure and function, gonadotropins, sex steroids, and activin have been shown to have such effects. It is thought that FSH may have an important role in brain development and differentiation.
 
-Testosterone levels have been shown to relate to prosocial behavior. This helps create synaptogenesis by promoting neurite development and migration. Activin promotes neural plasticity throughout the lifespan and regulates the neurotransmitters of peripheral neurons. Environment can also affect hormones and behavior interaction. Women have more connections between areas of language better enabling them to communicate than men. On average men outperform women on spatial reasoning tests, which is theorized to result from sexual differences.[citation needed] Testosterone has been linked to aggression and sex drive; therefore men tend to be more competitive or aggressive than women.[citation needed] There is also a large amount of individual diversity within all these traits and hormone levels.
+Testosterone levels have been shown to relate to prosocial behavior. This helps create synaptogenesis by promoting neurite development and migration. Activin promotes neural plasticity throughout the lifespan and regulates the neurotransmitters of peripheral neurons. Environment can also affect hormones and behavior interaction. Women have more connections between areas of language better enabling them to communicate than men. On average men outperform women on spatial reasoning tests, which is theorized to result from sexual differences. Testosterone has been linked to aggression and sex drive; therefore men tend to be more competitive or aggressive than women. There is also a large amount of individual diversity within all these traits and hormone levels.
 
 ## Hypothalamic–pituitary–adrenal axis
 
@@ -159,9 +155,6 @@ knitr::include_graphics("./figures/endocrine/HPA Axis.svg")
 ```
 
 These organs and their interactions constitute the HPA axis, a major neuroendocrine system that controls reactions to stress and regulates many body processes, including digestion, the immune system, mood and emotions, sexuality, and energy storage and expenditure. It is the common mechanism for interactions among glands, hormones, and parts of the midbrain that mediate the general adaptation syndrome (GAS). While steroid hormones are produced mainly in vertebrates, the physiological role of the HPA axis and corticosteroids in stress response is so fundamental that analogous systems can be found in invertebrates and monocellular organisms as well.
-
-The HPA axis, hypothalamic–pituitary–gonadal axis (HPG), hypothalamic–pituitary–thyroid axis (HPT), and the hypothalamic–neurohypophyseal system are the four major neuroendocrine systems through which the hypothalamus and pituitary direct neuroendocrine function.
-
 
 The key elements of the HPA axis are:
 

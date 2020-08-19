@@ -87,7 +87,7 @@ The major reproductive organs of the male can be grouped into three categories. 
 (ref:testes) [Diagram of inner structures of testes.](https://commons.wikimedia.org/wiki/File:Figure_28_01_03.JPG) 
 
 ```{r testesdiagram, fig.cap='(ref:testes)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/reproductive_system/Figure_28_02_02.jpg")
+knitr::include_graphics("./figures/reproductive_system/Figure_28_01_03.jpg")
 ```
 
 Major secondary sexual characteristics include: larger, more muscular stature, deepened voice, facial and body hair, broad shoulders, and development of an Adam's apple. An important sexual hormone of males is androgen, and particularly testosterone.
