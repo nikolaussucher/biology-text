@@ -5,6 +5,7 @@ Sensation is the physical process during which sensory systems respond to stimul
 The sensory nervous system is a part of the nervous system responsible for processing sensory information. A sensory system consists of sensory neurons (including the sensory receptor cells), neural pathways, and parts of the brain involved in sensory perception. Commonly recognized sensory systems are those for vision, hearing, touch, taste, smell, and balance. In short, senses are transducers from the physical world to the realm of the mind where we interpret the information, creating our perception of the world around us.
 
 Organisms need information to solve at least three kinds of problems: (a) to maintain an appropriate environment, i.e., homeostasis; (b) to time activities (e.g., seasonal changes in behavior) or synchronize activities with those of conspecifics; and (c) to locate and respond to resources or threats (e.g., by moving towards resources or evading or attacking threats). Organisms also need to transmit information in order to influence another's behavior: to identify themselves, warn conspecifics of danger, coordinate activities, or deceive.
+
 The receptive field is the area of the body or environment to which a receptor organ and receptor cells respond. For instance, the part of the world an eye can see, is its receptive field; the light that each rod or cone can see, is its receptive field. Receptive fields have been identified for the visual system, auditory system and somatosensory system.
 
 Sensory systems code for four aspects of a stimulus; type (modality), intensity, location, and duration. Arrival time of a sound pulse and phase differences of continuous sound are used for sound localization. Certain receptors are sensitive to certain types of stimuli (for example, different mechanoreceptors respond best to different kinds of touch stimuli, like sharp or blunt objects). Receptors send impulses in certain patterns to send information about the intensity of a stimulus (for example, how loud a sound is). The location of the receptor that is stimulated gives the brain information about the location of the stimulus (for example, stimulating a mechanoreceptor in a finger will send information to the brain about that finger). The duration of the stimulus (how long it lasts) is conveyed by firing patterns of receptors. These impulses are transmitted to the brain through afferent neurons.
@@ -39,18 +40,18 @@ Perception occurs when nerves that lead from the sensory organs (e.g. eye) to th
 
 The initialization of sensation stems from the response of a specific receptor to a physical stimulus. The receptors which react to the stimulus and initiate the process of sensation are commonly characterized in four distinct categories: chemoreceptors, photoreceptors, mechanoreceptors, and thermoreceptors. All receptors receive distinct physical stimuli and transduce the signal into an electrical action potential. This action potential then travels along afferent neurons to specific brain regions where it is processed and interpreted.
 
-## Chemoreceptors
+### Chemoreceptors
 
 Chemoreceptors, or chemosensors, detect certain chemical stimuli and transduce that signal into an electrical action potential. The two primary types of chemoreceptors are:
 
 Distance chemoreceptors are integral to receiving stimuli in gases in the olfactory system through both olfactory receptor neurons and neurons in the vomeronasal organ.
 Direct chemoreceptors that detect stimuli in liquids include the taste buds in the gustatory system as well as receptors in the aortic bodies which detect changes in oxygen concentration.
 
-## Photoreceptors
+### Photoreceptors
 
 Photoreceptors are capable of phototransduction, a process which converts light (electromagnetic radiation) into, among other types of energy, a membrane potential. The three primary types of photoreceptors are: Cones are photoreceptors which respond significantly to color. In humans the three different types of cones correspond with a primary response to short wavelength (blue), medium wavelength (green), and long wavelength (yellow/red). Rods are photoreceptors which are very sensitive to the intensity of light, allowing for vision in dim lighting. The concentrations and ratio of rods to cones is strongly correlated with whether an animal is diurnal or nocturnal. In humans rods outnumber cones by approximately 20:1, while in nocturnal animals, such as the tawny owl, the ratio is closer to 1000:1. Ganglion Cells reside in the adrenal medulla and retina where they are involved in the sympathetic response. Of the ~1.3 million ganglion cells present in the retina, 1-2% are believed to be photosensitive ganglia. These photosensitive ganglia play a role in conscious vision for some animals, and are believed to do the same in humans.
 
-## Mechanoreceptors
+### Mechanoreceptors
 
 Mechanoreceptors are sensory receptors which respond to mechanical forces, such as pressure or distortion. While mechanoreceptors are present in hair cells and play an integral role in the vestibular and auditory systems, the majority of mechanoreceptors are cutaneous and are grouped into four categories:
 
@@ -59,7 +60,7 @@ Mechanoreceptors are sensory receptors which respond to mechanical forces, such 
 * Rapidly adapting receptors have small receptive fields and underlie the perception of slip.
 Pacinian receptors have large receptive fields and are the predominant receptors for high-frequency vibration.
 
-## Thermoreceptors
+### Thermoreceptors
 
 Thermoreceptors are sensory receptors which respond to varying temperatures. While the mechanisms through which these receptors operate is unclear, recent discoveries have shown that mammals have at least two distinct types of thermoreceptors:[permanent dead link]‹See TfM›[failed verification]
 
@@ -68,7 +69,7 @@ Thermoreceptors are sensory receptors which respond to varying temperatures. Whi
 
 TRPV1 is a heat-activated channel that acts as a small heat detecting thermometer in the membrane which begins the polarization of the neural fiber when exposed to changes in temperature. Ultimately, this allows us to detect ambient temperature in the warm/hot range. Similarly, the molecular cousin to TRPV1, TRPM8, is a cold-activated ion channel that responds to cold. Both cold and hot receptors are segregated by distinct subpopulations of sensory nerve fibers, which shows us that the information coming into the spinal cord is originally separate. Each sensory receptor has its own “labeled line” to convey a simple sensation experienced by the recipient. Ultimately, TRP channels act as thermosensors, channels that help us to detect changes in ambient temperatures.
 
-## Nociceptors
+### Nociceptors
 
 Nociceptors respond to potentially damaging stimuli by sending signals to the spinal cord and brain. This process, called nociception, usually causes the perception of pain. They are found in internal organs, as well as on the surface of the body. Nociceptors detect different kinds of damaging stimuli or actual damage. Those that only respond when tissues are damaged are known as "sleeping" or "silent" nociceptors.
 
@@ -88,18 +89,18 @@ Many fan worms, such as *Acromegalomma interruptum* which live in tubes on the s
 
 Only higher primate Old World (African) monkeys and apes have the same kind of three-cone photoreceptor color vision humans have, while lower primate New World (South American) monkeys have a two-cone photoreceptor kind of color vision.
 
-## The Eye
+### The Eye
 
 Light entering the eye is refracted as it passes through the cornea. It then passes through the pupil (controlled by the iris) and is further refracted by the lens. The cornea and lens act together as a compound lens to project an inverted image onto the retina.
 
-(ref:ey) Horizontal section of the eyeball. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
+(ref:ey) Horizontal section of the human eyeball. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/sensation/anatomyofhumanbo1918gray_1008.jpg" alt="(ref:ey)" width="70%" />
 <p class="caption">(\#fig:eye)(ref:ey)</p>
 </div>
 
-## The Retina
+### The Retina
 
 The retina is the light-sensitive layer of tissue of the eye of most vertebrates and some molluscs. The optics of the eye create a focused two-dimensional image of the visual world on the retina, which translates that image into electrical neural impulses to the brain to create visual perception.
 
@@ -175,7 +176,7 @@ The central retina predominantly contains cones, while the peripheral retina pre
 
 Though the rod and cones are a mosaic of sorts, transmission from receptors, to bipolars, to ganglion cells is not direct. Since there are about 150 million receptors and only 1 million optic nerve fibres, there must be convergence and thus mixing of signals. Moreover, the horizontal action of the horizontal and amacrine cells can allow one area of the retina to control another (e.g. one stimulus inhibiting another). This inhibition is key to lessening the sum of messages sent to the higher regions of the brain. In some lower vertebrates (e.g. the pigeon), there is a "centrifugal" control of messages – that is, one layer can control another, or higher regions of the brain can drive the retinal nerve cells, but in primates this does not occur.
 
-## The Photoreceptors
+### The Photoreceptors
 
 A photoreceptor cell is a specialized type of neuroepithelial cell found in the retina that is capable of visual phototransduction. The great biological importance of photoreceptors is that they convert light (visible electromagnetic radiation) into signals that can stimulate biological processes. To be more specific, photoreceptor proteins in the cell absorb photons, triggering a change in the cell's membrane potential.
 
@@ -195,7 +196,7 @@ Cones require significantly brighter light (that is, a larger number of photons)
 
 The number and ratio of rods to cones varies among species, dependent on whether an animal is primarily diurnal or nocturnal.
 
-## Visual Phototransduction
+### Visual Phototransduction
 
 Visual phototransduction is the sensory transduction of the visual system. It is a process by which light is converted into electrical signals in the rod cells, cone cells and photosensitive ganglion cells of the retina of the eye. This cycle was elucidated by [George Wald](https://en.wikipedia.org/wiki/George_Wald) (1906–1997) for which he received the Nobel Prize in 1967.
 
@@ -257,23 +258,13 @@ In light, low cGMP levels close Na^+^ and Ca^2+^ channels, reducing intracellula
 1. Low intracellular Ca^2+^ makes intracellular Ca-recoverin-RK dissociate into Ca^2+^ and recoverin and RK. The liberated RK then phosphorylates metarhodopsin II, reducing its binding affinity for transducin. Arrestin then completely deactivates the phosphorylated-metarhodopsin II, terminating the phototransduction cascade (restoring dark current).
 1. Low intracellular Ca^2+^ make the Ca^2+^/calmodulin complex within the cGMP-gated cation channels more sensitive to low cGMP levels (thereby, keeping the cGMP-gated cation channel open even at low cGMP levels, restoring dark current)
 
-In more detail:
-
-GTPase Accelerating Protein (GAP) interacts with the alpha subunit of transducin, and causes it to hydrolyse its bound GTP to GDP, and thus halts the action of phosphodiesterase, stopping the transformation of cGMP to GMP.
-
-Guanylate Cyclase Activating Protein (GCAP) is a calcium binding protein, and as the calcium levels in the cell have decreased, GCAP dissociates from its bound calcium ions, and interacts with Guanylate Cyclase, activating it. Guanylate Cyclase then proceeds to transform GTP to cGMP, replenishing the cell's cGMP levels and thus reopening the sodium channels that were closed during phototransduction.
-
-Finally, metarhodopsin II is deactivated. Recoverin, another calcium binding protein, is normally bound to rhodopsin kinase when calcium is present. When the calcium levels fall during phototransduction, the calcium dissociates from recoverin, and rhodopsin kinase is released, when it (what?) proceeds to phosphorylate metarhodopsin II, which decreases its affinity for transducin. Finally, arrestin, another protein, binds the phosphorylated metarhodopsin II, completely deactivating it. Thus, finally, phototransduction is deactivated, and the dark current and glutamate release is restored. It is this pathway, where Metarhodopsin II is phosphorylated and bound to arrestin and thus deactivated, which is thought to be responsible for the S2 component of dark adaptation. The S2 component represents a linear section of the dark adaptation function present at the beginning of dark adaptation for all bleaching intensities.
-
 All-trans retinal cannot be synthesised by humans and must be supplied by vitamin A in the diet. Deficiency of all-trans retinal can lead to night blindness. This is part of the bleach and recycle process of retinoids in the photoreceptors and retinal pigment epithelium.
 
 Photoreceptor cells are typically arranged in an irregular but approximately hexagonal grid, known as the retinal mosaic.
 
 The opsin found in the intrinsically photosensitive ganglion cells of the retina is called melanopsin. These cells are involved in various reflexive responses of the brain and body to the presence of (day)light, such as the regulation of circadian rhythms, pupillary reflex and other non-visual responses to light. Melanopsin functionally resembles invertebrate opsins.
 
-When light activates the melanopsin signaling system, the melanopsin-containing ganglion cells discharge nerve impulses that are conducted through their axons to specific brain targets. These targets include the olivary pretectal nucleus (a center responsible for controlling the pupil of the eye), the LGN, and, through the retinohypothalamic tract (RHT), the suprachiasmatic nucleus of the hypothalamus (the master pacemaker of circadian rhythms). Melanopsin-containing ganglion cells are thought to influence these targets by releasing from their axon terminals the neurotransmitters glutamate and pituitary adenylate cyclase activating polypeptide (PACAP).
-
-## The Visual Pathways
+### The Visual Pathways
 
 ### The Optic Nerve And Optic Tract
 
@@ -285,7 +276,7 @@ In humans, the optic nerve is derived from optic stalks during the seventh week 
 
 Most of the axons of the optic nerve terminate in the lateral geniculate nucleus from where information is relayed to the visual cortex, while other axons terminate in the pretectal nucleus and are involved in reflexive eye movements. Other axons terminate in the suprachiasmatic nucleus and are involved in regulating the sleep-wake cycle. Its diameter increases from about 1.6 mm within the eye to 3.5 mm in the orbit to 4.5 mm within the cranial space.
 
-## The Superior Colliculus
+### The Superior Colliculus
 
 The superior colliculus (Latin, upper hill) is a structure lying on the roof of the mammalian midbrain. In non-mammalian vertebrates the homologous structure, is known as the optic tectum or optic lobe.
 
@@ -293,17 +284,9 @@ In mammals the superior colliculus forms a major component of the midbrain. It i
 
 The general function of the tectal system is to direct behavioral responses toward specific points in egocentric ("body-centered") space. Each layer contains a topographic map of the surrounding world in retinotopic coordinates, and activation of neurons at a particular point in the map evokes a response directed toward the corresponding point in space. In primates, the superior colliculus has been studied mainly with respect to its role in directing eye movements. Visual input from the retina, or "command" input from the cerebral cortex, create a "bump" of activity in the tectal map, which, if strong enough, induces a saccadic eye movement. Even in primates, however, the superior colliculus is also involved in generating spatially directed head turns, arm-reaching movements, and shifts in attention that do not involve any overt movements. In mammals, and especially primates, the massive expansion of the cerebral cortex reduces the superior colliculus to a much smaller fraction of the whole brain. It remains nonetheless important in terms of function as the primary integrating center for eye movements.
 
-In contrast to the vision-dominated inputs to the superficial layers, the intermediate and deep layers receive inputs from a very diverse set of sensory and motor structures. Most areas of the cerebral cortex project to these layers, although the input from "association" areas tends to be heavier than the input from primary sensory or motor areas. However, the cortical areas involved, and the strength of their relative projections differs across species. Another important input comes from the substantia nigra, pars reticulata, a component of the basal ganglia. This projection uses the inhibitory neurotransmitter GABA, and is thought to exert a "gating" effect on the superior colliculus. The intermediate and deep layers also receive input from the spinal trigeminal nucleus, which conveys somatosensory information from the face, as well as the hypothalamus, zona incerta, thalamus, and inferior colliculus.
-
-In addition to their distinctive inputs, the superficial and deep zones of the superior colliculus also have distinctive outputs. One of the most important outputs goes to the pulvinar and lateral intermediate areas of the thalamus, which in turn project to areas of the cerebral cortex that are involved in controlling eye movements. There are also projections from the superficial zone to the pretectal nuclei, lateral geniculate nucleus of the thalamus, and the parabigeminal nucleus. The projections from the deeper layers are more extensive. There are two large descending pathways, traveling to the brainstem and spinal cord, and numerous ascending projections to a variety of sensory and motor centers, including several that are involved in generating eye movements.
-
-Both colliculi also have descending projections to the paramedian pontine reticular formation and spinal cord, and thus can be involved in responses to stimuli faster than cortical processing would allow.
-
 Behavioral studies have shown that the SC is not needed for object recognition, but plays a critical role in the ability to direct behaviors toward specific objects, and can support this ability even in the absence of the cerebral cortex. Thus, cats with major damage to the visual cortex cannot recognize objects, but may still be able to follow and orient toward moving stimuli, although more slowly than usual. If one half of the SC is removed, however, the cats will circle constantly toward the side of the lesion, and orient compulsively toward objects located there, but fail to orient at all toward objects located in the opposite hemifield. These deficits diminish over time but never disappear.
 
 In primates, eye movements can be divided into several types: fixation, in which the eyes are directed toward a motionless object, with eye movements only to compensate for movements of the head; smooth pursuit, in which the eyes move steadily to track a moving object; saccades, in which the eyes move very rapidly from one location to another; and vergence, in which the eyes move simultaneously in opposite directions to obtain or maintain single binocular vision. The superior colliculus is involved in all of these, but its role in saccades has been studied most intensively.
-
-Each of the two colliculi — one on each side of the brain — contains a two-dimensional map representing half of the visual field. The fovea — the region of maximum sensitivity — is represented at the front edge of the map, and the periphery at the back edge. Eye movements are evoked by activity in the deep layers of the SC. During fixation, neurons near the front edge — the foveal zone — are tonically active. During smooth pursuit, neurons a small distance from the front edge are activated, leading to small eye movements. For saccades, neurons are activated in a region that represents the point to which the saccade will be directed. Just prior to a saccade, activity rapidly builds up at the target location and decreases in other parts of the SC. The coding is rather broad, so that for any given saccade the activity profile forms a "hill" that encompasses a substantial fraction of the collicular map: The location of the peak of this "hill" represents the saccade target.
 
 The output from the motor sector of the SC goes to a set of midbrain and brainstem nuclei, which transform the "place" code used by the SC into the "rate" code used by oculomotor neurons. Eye movements are generated by six muscles, arranged in three orthogonally-aligned pairs. Thus, at the level of the final common path, eye movements are encoded in essentially a Cartesian coordinate system.
 
@@ -313,7 +296,7 @@ The SC only receives visual inputs in its superficial layers, whereas the deeper
 
 The superior colliculus also receives auditory information from the inferior colliculus. This auditory information is integrated with the visual information already present to produce the ventriloquist effect.
 
-## The Lateral Geniculate Nucleus (LGN)
+### The Lateral Geniculate Nucleus (LGN)
 
 The lateral geniculate nucleus (LGN; also called the lateral geniculate body or lateral geniculate complex; named after its resemblance to a bent knee) is a relay center in the thalamus for the visual pathway. It receives a major sensory input from the retina. The LGN is the main central connection for the optic nerve to the occipital lobe, particularly the primary visual cortex. In humans, each LGN has six layers of neurons (grey matter) alternating with optic fibers (white matter).
 
@@ -360,7 +343,7 @@ The axons that leave the LGN go to V1 visual cortex. Both the magnocellular laye
 
 Studies involving blindsight have suggested that projections from the LGN travel not only to the primary visual cortex but also to higher cortical areas V2 and V3. Patients with blindsight are phenomenally blind in certain areas of the visual field corresponding to a contralateral lesion in the primary visual cortex; however, these patients are able to perform certain motor tasks accurately in their blind field, such as grasping. This suggests that neurons travel from the LGN to both the primary visual cortex and higher cortex regions.
 
-## The Visual Cortex
+### The Visual Cortex
 
 The visual cortex of the brain is that part of the cerebral cortex which processes visual information. It is located in the occipital lobe.
 
@@ -383,21 +366,13 @@ The visual cortex receives its blood supply primarily from the calcarine branch 
 V1 transmits information to two primary pathways, called the ventral stream and the dorsal stream. The ventral stream begins with V1, goes through visual area V2, then through visual area V4, and to the inferior temporal cortex (IT cortex). The ventral stream, sometimes called the "What Pathway", is associated with form recognition and object representation. It is also associated with storage of long-term memory.
 The dorsal stream begins with V1, goes through Visual area V2, then to the dorsomedial area (DM/V6) and medial temporal area (MT/V5) and to the posterior parietal cortex. The dorsal stream, sometimes called the "Where Pathway" or "How Pathway", is associated with motion, representation of object locations, and control of the eyes and arms, especially when visual information is used to guide saccades or reaching.
 
-More recently, Goodale and Milner extended these ideas and suggested that the ventral stream is critical for visual perception whereas the dorsal stream mediates the visual control of skilled actions. It has been shown that visual illusions such as the [Ebbinghaus illusion](https://en.wikipedia.org/wiki/Ebbinghaus_illusion) distort judgements of a perceptual nature, but when the subject responds with an action, such as grasping, no distortion occurs.
-
-Work such as the one from Scharnowski and Gegenfurtner suggests that both the action and perception systems are equally fooled by such illusions. Other studies, however, provide strong support for the idea that skilled actions such as grasping are not affected by pictorial illusions and suggest that the action/perception dissociation is a useful way to characterize the functional division of labor between the dorsal and ventral visual pathways in the cerebral cortex.
-
-The functionally defined primary visual cortex is approximately equivalent to the anatomically defined striate cortex. The name "striate cortex" is derived from the line of Gennari, a distinctive stripe visible to the naked eye that represents myelinated axons from the lateral geniculate body terminating in layer 4 of the gray matter.
-
-The primary visual cortex is divided into six functionally distinct layers, labeled 1 to 6. Layer 4, which receives most visual input from the lateral geniculate nucleus (LGN), is further divided into 4 layers, labelled 4A, 4B, 4Cα, and 4Cβ. Sublamina 4Cα receives mostly magnocellular input from the LGN, while layer 4Cβ receives input from parvocellular pathways.
-
 ## The Auditory And Vestibular Systems
 
 The auditory system is the sensory system for the sense of hearing. It includes both the sensory organs (the ears) and the auditory parts of the sensory system. Hearing, or auditory perception, is the ability to perceive sounds by detecting vibrations, changes in the pressure of the surrounding medium over time, through the ear. 
 
 Providing balance, when moving or stationary, is also a central function of the ear. The ear facilitates two types of balance: static balance, which allows a person to feel the effects of gravity, and dynamic balance, which allows a person to sense acceleration.
 
-## The Ear
+### The Ear
 
 In mammals, the ear is usually described as having three parts—the outer ear, the middle ear and the inner ear. The outer ear consists of the pinna and the ear canal. The folds of cartilage surrounding the ear canal are called the pinna. Sound waves are reflected and attenuated when they hit the pinna, and these changes provide additional information that will help the brain determine the sound direction. Since the outer ear is the only visible portion of the ear in most animals, the word "ear" often refers to the external part alone. The middle ear includes the tympanic cavity and the three ossicles. The inner ear sits in the bony labyrinth, and contains structures which are key to several senses: the semicircular canals, which enable balance and eye tracking when moving; the utricle and saccule, which enable balance when stationary; and the cochlea, which enables hearing. The ears of vertebrates are placed somewhat symmetrically on either side of the head, an arrangement that aids sound localisation.
 
@@ -405,7 +380,7 @@ The ear develops from the first pharyngeal pouch and six small swellings that de
 
 The ear canal of the outer ear is separated from the air-filled tympanic cavity of the middle ear by the eardrum. The middle ear contains the three small bones—the ossicles—involved in the transmission of sound, and is connected to the throat at the nasopharynx, via the pharyngeal opening of the Eustachian tube. The inner ear contains the otolith organs—the utricle and saccule—and the semicircular canals belonging to the vestibular system, as well as the cochlea of the auditory system.
 
-(ref:ear) Front view of the right outer, middle and inner ear. [Gray, Henry, 1825-1861. Anatomy, descriptive and surgical; ed. by T. Pickering Pick and Robert Howden. A revised American, from the fifteenth English edition. Philadelphia, Lea, 1901](https://archive.org/details/anatomydescripti00grayuoft/page/n6/mode/2up)
+(ref:ear) Front view of the right outer, middle and inner human ear. [Gray, Henry, 1825-1861. Anatomy, descriptive and surgical; ed. by T. Pickering Pick and Robert Howden. A revised American, from the fifteenth English edition. Philadelphia, Lea, 1901](https://archive.org/details/anatomydescripti00grayuoft/page/n6/mode/2up)
 
 <div class="figure" style="text-align: center">
 <img src="./figures/sensation/GrayEar.jpg" alt="(ref:ear)" width="70%" />
@@ -464,7 +439,7 @@ Efferent projections from the brain to the cochlea also play a role in the perce
 
 ### The Cochlear Nucleus
 
-The cochlear nucleus is the first site of the neuronal processing of the newly converted “digital” data from the inner ear. In mammals, this region is anatomically and physiologically split into two regions, the dorsal cochlear nucleus (DCN), and ventral cochlear nucleus (VCN). The VCN is further divided by the nerve root into the posteroventral cochlear nucleus (PVCN) and the anteroventral cochlear nucleus (AVCN).
+The cochlear nucleus is the first site of the neuronal processing of the newly converted “digital” data from the inner ear. In mammals, this region is anatomically and physiologically split into two regions, the dorsal cochlear nucleus (DCN), and ventral cochlear nucleus (VCN).
 
 ### The Trapezoid Body
 
@@ -557,7 +532,7 @@ Somatic senses are sometimes referred to as somesthetic senses, with the underst
 
 The mapping of the body surfaces in the brain is called somatotopy. In the cortex, it is also referred to as the cortical homunculus. This brain-surface ("cortical") map is not immutable, however. Dramatic shifts can occur in response to stroke or injury.
 
-## Touch
+### Touch
 
 In contrast, the other sense, touch, is a somatic sense which does not have a specialized organ but comes from all over the body, most noticeably the skin but also the internal organs (viscera). Touch includes mechanoreception (pressure, vibration and proprioception), pain (nociception) and heat (thermoception), and such information is carried in general somatic afferents and general visceral afferents.
 
@@ -570,7 +545,7 @@ Skin is the soft outer tissue covering of vertebrates with three main functions:
 <p class="caption">(\#fig:skindiagram)(ref:skin)</p>
 </div>
 
-## Cutaneous Mechanoreceptors
+### Cutaneous Mechanoreceptors
 
 Cutaneous mechanoreceptors respond to mechanical stimuli that result from physical interaction, including pressure and vibration. They are located in the skin. They are all innervated by Aβ fibers, except the mechanorecepting free nerve endings, which are Aδ fibers. Cutaneous mechanoreceptors can be categorized by morphology, by what kind of sensation they perceive, and by the rate of adaptation. Furthermore, each has a different receptive field.
 
@@ -634,7 +609,7 @@ Ruffini corpuscles respond to sustained pressure and show very little adaptation
 
 Ruffinian endings are located in the deep layers of the skin, and register mechanical deformation within joints, more specifically angle change, with a specificity of up to 2.75 degrees, as well as continuous pressure states. They also act as thermoreceptors that respond for a long time, so in case of deep burn there will be pain, as these receptors will be burned off.
 
-## Nociception
+### Nociception
 
 [Nociception](https://en.wikipedia.org/wiki/Nociception) (also nocioception or nociperception, from Latin nocere 'to harm or hurt') is the sensory nervous system's response to certain harmful or potentially harmful stimuli. The term "nociception" was coined by [Charles Scott Sherrington](https://en.wikipedia.org/wiki/Charles_Scott_Sherrington) to distinguish the physiological process (nervous activity) from pain (a subjective experience). In nociception, intense chemical (e.g., cayenne powder), mechanical (e.g., cutting, crushing), or thermal (heat and cold) stimulation of sensory nerve cells called nociceptors produces a signal that travels along a chain of nerve fibers via the spinal cord to the brain. Nociception triggers a variety of physiological and behavioral responses and usually results in a subjective experience of pain in sentient beings. Nociception can also cause generalized autonomic responses before or without reaching consciousness to cause pallor, sweating, tachycardia, hypertension, lightheadedness, nausea and fainting.
 
@@ -657,7 +632,7 @@ TRP channels that detect noxious stimuli (mechanical, thermal, and chemical pain
 <p class="caption">(\#fig:TRPV1channel)(ref:TRPV1)</p>
 </div>
 
-## Proprioception
+### Proprioception
 
 Proprioception is the sense of self-movement and body position. It is sometimes described as the "sixth sense".
 
@@ -669,7 +644,7 @@ An important role for proprioception is to allow an animal to stabilize itself a
 
 When planning complex movements such as reaching or grooming, animals must consider the current position and velocity of their limb and use it to adjust dynamics to target a final position. If the animal's estimate of their limb's initial position is wrong, this can lead to a deficiency in the movement. Furthermore, proprioception is crucial in refining the movement if it deviates from the trajectory.
 
-## Muscle Spindles
+### Muscle Spindles
 
 Muscle spindles are stretch receptors within the body of a muscle that primarily detect changes in the length of the muscle. They convey length information to the central nervous system via afferent nerve fibers. This information can be processed by the brain as proprioception. The responses of muscle spindles to changes in length also play an important role in regulating the contraction of muscles, for example, by activating motor neurons via the stretch reflex to resist muscle stretch.
 
@@ -682,7 +657,7 @@ Muscle spindles are stretch receptors within the body of a muscle that primarily
 
 Muscle spindles are found within the belly of muscles, between extrafusal muscle fibers.[b] The specialised fibers that constitute the muscle spindle are known as intrafusal fibers (as they are present within the spindle), to distinguish themselves from the fibres of the muscle itself which are called extrafusal fibers. Muscle spindles have a capsule of connective tissue, and run parallel to the extrafusal muscle fibers.
 
-## Golgi Tendon Organ
+### Golgi Tendon Organ
 
 The Golgi tendon organ (GTO) (also called Golgi organ, tendon organ, neurotendinous organ or neurotendinous spindle) is a proprioceptive sensory receptor organ that senses changes in muscle tension. It lies at the origins and insertion of skeletal muscle fibers into the tendons of skeletal muscle. It provides the sensory component of the Golgi tendon reflex.
 
@@ -696,7 +671,7 @@ The Golgi tendon organ (GTO) (also called Golgi organ, tendon organ, neurotendin
 
 The body of the organ is made up of braided strands of collagen (intrafusal fasciculi) that are less compact than elsewhere in the tendon and are encapsulated. The capsule is connected in series with a group of muscle fibers (10-20 fibers) at one end, and merge into the tendon proper at the other. Each capsule is about 1 mm long, has a diameter of about 0.1 mm, and is perforated by one or more afferent type Ib sensory nerve fibers (Aɑ fiber), which are large (12-20 μm) myelinated axons that can conduct nerve impulses very rapidly. Inside the capsule, the afferent fibers lose their medullary sheaths, branch, intertwine with the collagen fibers, and terminate as flattened leaf-like endings between the collagen strands (see figure).
 
-## The Somatosensory Pathways
+### The Somatosensory Pathways
 
 All afferent touch/vibration info ascends the spinal cord via the posterior (dorsal) column-medial lemniscus pathway via gracilis (T7 and below) or cuneatus (T6 and above). Cuneatus sends signals to the cochlear nucleus indirectly via spinal grey matter, this info is used in determining if a perceived sound is just villi noise/irritation. All fibers cross (left becomes right) in the medulla. 
 
@@ -712,7 +687,7 @@ Crude touch (or non-discriminative touch) is a sensory modality that allows the 
 
 In humans, temperature sensation from thermoreceptors enters the spinal cord along the axons of Lissauer's tract that synapse on second order neurons in grey matter of the dorsal horn. The axons of these second order neurons then decussate, joining the spinothalamic tract as they ascend to neurons in the ventral posterolateral nucleus of the thalamus.
 
-## The Primary Somatosensory Cortex
+### The Primary Somatosensory Cortex
 
 The primary somatosensory cortex is located in the postcentral gyrus, and is part of the somatosensory system.
 
@@ -724,9 +699,7 @@ Areas 1 and 2 receive dense inputs from BA 3b. The projection from 3b to 1 prima
 
 Somatosensory cortex, like other neocortex, is layered. Like other sensory cortex (i.e., visual and auditory) the thalamic inputs project into layer IV, which in turn project into other layers. As in other sensory cortices, S1 neurons are grouped together with similar inputs and responses into vertical columns that extend across cortical layers.
 
-
-
-# The Olfactory System
+## The Olfactory System
 
 The olfactory system, or sense of smell, is the sensory system used for smelling (olfaction). Olfaction is one of the special senses, that have directly associated specific organs. Most mammals and reptiles have a main olfactory system and an accessory olfactory system. The main olfactory system detects airborne substances, while the accessory system senses fluid-phase stimuli. Often, land organisms will have separate olfaction systems for smell and taste (orthonasal smell and retronasal smell), but water-dwelling organisms usually have only one system. The senses of smell and taste (gustatory system) are often referred to together as the chemosensory system, because they both give the brain information about the chemical composition of objects.
 
@@ -738,7 +711,7 @@ In vertebrates, smells are sensed by olfactory sensory neurons in the olfactory 
 
 Molecules of odorants passing through the superior nasal concha of the nasal passages dissolve in the mucus that lines the superior portion of the cavity and are detected by olfactory receptors on the dendrites of the olfactory sensory neurons. This may occur by diffusion or by the binding of the odorant to odorant-binding proteins. The mucus overlying the epithelium contains mucopolysaccharides, salts, enzymes, and antibodies (these are highly important, as the olfactory neurons provide a direct passage for infection to pass to the brain). This mucus acts as a solvent for odor molecules, flows constantly, and is replaced approximately every ten minutes.
 
-## The Nose
+### The Nose
 
 The human nose is the most protruding part of the face. It bears the nostrils and is the first organ of the respiratory system. It is also the principal organ in the olfactory system. The shape of the nose is determined by the nasal bones and the nasal cartilages, including the nasal septum which separates the nostrils and divides the nasal cavity into two. 
 
@@ -757,7 +730,7 @@ The peripheral olfactory system consists mainly of the nostrils, ethmoid bone, n
 
 Odor molecules can enter the peripheral pathway and reach the nasal cavity either through the nostrils when inhaling (olfaction) or through the throat when the tongue pushes air to the back of the nasal cavity while chewing or swallowing (retro-nasal olfaction). Inside the nasal cavity, mucus lining the walls of the cavity dissolves odor molecules. Mucus also covers the olfactory epithelium, which contains mucous membranes that produce and store mucus and olfactory glands that secrete metabolic enzymes found in the mucus.
 
-## Olfactory Sensory Neurons  
+### Olfactory Sensory Neurons  
 
 Humans have between 10 and 20 million olfactory receptor neurons (ORNs). In vertebrates, ORNs are bipolar neurons with dendrites facing the external surface of the cribriform plate with axons that pass through the cribriform foramina with terminal end at olfactory bulbs. The ORNs are located in the olfactory epithelium in the nasal cavity. The cell bodies of the ORNs are distributed among all three of the stratified layers of the olfactory epithelium.
 
@@ -776,11 +749,11 @@ Olfactory nerves and fibers transmit information about odors from the peripheral
 <p class="caption">(\#fig:olfactory)(ref:olf)</p>
 </div>
 
-## The Olfactory Bulb
+### The Olfactory Bulb
 
 The main olfactory bulb transmits pulses to both mitral and tufted cells, which help determine odor concentration based off the time certain neuron clusters fire (called 'timing code'). These cells also note differences between highly similar odors and use that data to aid in later recognition. The cells are different with mitral having low firing-rates and being easily inhibited by neighboring cells, while tufted have high rates of firing and are more difficult to inhibit.
 
-## The Olfactory Cortex
+### The Olfactory Cortex
 
 The uncus(an anterior extremity of the parahippocampal gyrus, a region that surrounds the hippocampus and is part of the limbic system) houses the olfactory cortex which includes the piriform cortex (posterior orbitofrontal cortex), amygdala, olfactory tubercle, and parahippocampal gyrus.
 
@@ -788,7 +761,7 @@ The olfactory tubercle connects to numerous areas of the amygdala, thalamus, hyp
 
 The anterior olfactory nucleus distributes reciprocal signals between the olfactory bulb and piriform cortex. The anterior olfactory nucleus is the memory hub for smell.
 
-## Olfactory Pathways
+### Olfactory Pathways
 
 Olfactory sensory neurons project axons to the brain within the olfactory nerve, (cranial nerve I). These nerve fibers, lacking myelin sheaths, pass to the olfactory bulb of the brain through perforations in the cribriform plate, which in turn projects olfactory information to the olfactory cortex and other areas. The axons from the olfactory receptors converge in the outer layer of the olfactory bulb within small (≈50 micrometers in diameter) structures called glomeruli. Mitral cells, located in the inner layer of the olfactory bulb, form synapses with the axons of the sensory neurons within glomeruli and send the information about the odor to other parts of the olfactory system, where multiple signals may be processed to form a synthesized olfactory perception. A large degree of convergence occurs, with 25,000 axons synapsing on 25 or so mitral cells, and with each of these mitral cells projecting to multiple glomeruli. Mitral cells also project to periglomerular cells and granular cells that inhibit the mitral cells surrounding it (lateral inhibition). Granular cells also mediate inhibition and excitation of mitral cells through pathways from centrifugal fibers and the anterior olfactory nuclei. Neuromodulators like acetylcholine, serotonin and norepinephrine all send axons to the olfactory bulb and have been implicated in gain modulation, pattern separation, and memory functions, respectively.
 
@@ -818,11 +791,11 @@ Chemicals that stimulate taste receptor cells are known as tastants. The tongue 
 
 Taste, along with smell (olfaction) and trigeminal nerve stimulation (registering texture, pain, and temperature), determines flavors of food and/or other substances. Humans have taste receptors on taste buds (gustatory calyculi) and other areas including the upper surface of the tongue and the epiglottis. The gustatory cortex is responsible for the perception of taste.
 
-## The Tongue
+### The Tongue
 
 The tongue is a muscular organ in the mouth of most vertebrates that manipulates food for mastication and is used in the act of swallowing. It has importance in the digestive system and is the primary organ of taste in the gustatory system. The tongue's upper surface (dorsum) is covered by taste buds housed in numerous lingual papillae. It is sensitive and kept moist by saliva and is richly supplied with nerves and blood vessels. The tongue also serves as a natural means of cleaning the teeth. A major function of the tongue is the enabling of speech in humans and vocalization in other animals.
 
-(ref:ton) The tongue and three kinds of papillae magnified. Bottom left to right: filiform, fungiform and circumvallate papillae. From [Gray, Henry: Anatomy Descriptive And Surgical. 7^th^ Edition, Longmans, Green, And Co., London, 1875 ](https://wellcomelibrary.org/item/b21688692)
+(ref:ton) The human tongue and three kinds of papillae magnified. Bottom left to right: filiform, fungiform and circumvallate papillae. From [Gray, Henry: Anatomy Descriptive And Surgical. 7^th^ Edition, Longmans, Green, And Co., London, 1875 ](https://wellcomelibrary.org/item/b21688692)
 
 <div class="figure" style="text-align: center">
 <img src="./figures/sensation/tongue.jpg" alt="(ref:ton)" width="70%" />
@@ -830,17 +803,6 @@ The tongue is a muscular organ in the mouth of most vertebrates that manipulates
 </div>
 
 Innervation of the tongue consists of motor fibers, special sensory fibers for taste, and general sensory fibers for sensation.
-
-* Motor supply for all intrinsic and extrinsic muscles of the tongue is supplied by efferent motor nerve fibers from the hypoglossal nerve (CN XII), with the exception of the palatoglossus, which is innervated by the vagus nerve (CN X).
-Innervation of taste and sensation is different for the anterior and posterior part of the tongue because they are derived from different embryological structures (pharyngeal arch 1 and pharyngeal arches 3 and 4, respectively).
-
-* Anterior two thirds of tongue (anterior to the vallate papillae):
-    * Taste: chorda tympani branch of the facial nerve (CN VII) via special visceral afferent fibers
-    * Sensation: lingual branch of the mandibular (V3) division of the trigeminal nerve (CN V) via general visceral afferent fibers
-* Posterior one third of tongue:
-    * Taste and sensation: glossopharyngeal nerve (CN IX) via a mixture of special and general visceral afferent fibers
-* Base of tongue
-    * Taste and sensation: internal branch of the superior laryngeal nerve (itself a branch of the vagus nerve, CN X)
 
 The tongue is covered with thousands of small bumps called papillae, which are visible to the naked eye. Within each papilla are hundreds of taste buds. The exception to this is the filiform papillae that do not contain taste buds. Each taste bud contains 50 to 100 taste receptor cells.
 
@@ -851,7 +813,7 @@ The tongue is covered with thousands of small bumps called papillae, which are v
 <p class="caption">(\#fig:vallatepapilla)(ref:papilla)</p>
 </div>
 
-## The Five Basic Tastes
+### The Five Basic Tastes
 
 The sensation of taste includes five established basic tastes: sweetness, sourness, saltiness, bitterness, and savoriness (also known as savory or umami). Taste buds are able to distinguish between different tastes through detecting interaction with different molecules or ions. Sweet, savoriness, and bitter tastes are triggered by the binding of molecules to G protein-coupled receptors on the cell membranes of taste buds. Saltiness and sourness are perceived when alkali metal or hydrogen ions enter taste buds, respectively.
 
@@ -907,7 +869,7 @@ Research has shown that TAS2Rs (taste receptors, type 2, also known as T2Rs) suc
 
 Savory, or savoriness is an appetitive taste and is occasionally described by its Japanese name, umami or "meaty". 
 
-## The Taste Receptors
+### The Taste Receptors
 
 There are four types taste receptors. When food or other substances enter the mouth, molecules interact with saliva and are bound to taste receptors in the oral cavity and other locations. Molecules which give a sensation of taste are considered "sapid".
 
@@ -936,51 +898,9 @@ Various receptors have also been proposed for salty tastes, along with the possi
 
 Visual, olfactive, "sapictive" (the perception of tastes), trigeminal (hot, cool), mechanical, all contribute to the perception of taste. Of these, transient receptor potential cation channel subfamily V member 1 (TRPV1) vanilloid receptors are responsible for the perception of heat from some molecules such as capsaicin, and a CMR1 receptor is responsible for the perception of cold from molecules such as menthol, eucalyptol, and icilin.
 
-The tongue can also feel other sensations not generally included in the basic tastes. These are largely detected by the somatosensory system. In humans, the sense of taste is conveyed via three of the twelve cranial nerves. The facial nerve (VII) carries taste sensations from the anterior two thirds of the tongue, the glossopharyngeal nerve (IX) carries taste sensations from the posterior one third of the tongue while a branch of the vagus nerve (X) carries some taste sensations from the back of the oral cavity.
-
-The trigeminal nerve (cranial nerve V) provides information concerning the general texture of food as well as the taste-related sensations of peppery or hot (from spices).
-
-
-The glossopharyngeal nerve innervates a third of the tongue including the circumvallate papillae. The facial nerve innervates the other two thirds of the tongue and the cheek via the chorda tympani.
-
-The pterygopalatine ganglia are ganglia (one on each side) of the soft palate. The greater petrosal, lesser palatine and zygomatic nerves all synapse here. The greater petrosal, carries soft palate taste signals to the facial nerve. The lesser palatine sends signals to the nasal cavity; which is why spicy foods cause nasal drip. The zygomatic sends signals to the lacrimal nerve that activate the lacrimal gland; which is the reason that spicy foods can cause tears. Both the lesser palatine and the zygomatic are maxillary nerves (from the trigeminal nerve).
-
-The special visceral afferents of the vagus nerve carry taste from the epiglottal region of the tongue.
-
-The lingual nerve (trigeminal, not shown in diagram) is deeply interconnected with chorda tympani in that it provides all other sensory info from the ⅔ of the tongue. This info is processed separately (nearby) in rostal lateral subdivision of nucleus of the solitary tract (NST).
-
-NST receives input from the amygdala (regulates oculomotor nuclei output), bed nuclei of stria terminalis, hypothalamus, and prefrontal cortex. NST is the topographical map that processes gustatory and sensory (temp, texture, etc.) info.
-
-Reticular formation (includes Raphe nuclei responsible for serotonin production) is signaled to release serotonin during and after a meal to suppress appetite. Similarly, salivary nuclei are signaled to decrease saliva secretion.
-
-Hypoglossal and thalamic connections aid in oral-related movements.
-
-Hypothalamus connections hormonally regulate hunger and the digestive system.
-
-Substantia innominata connects the thalamus, temporal lobe, and insula.
-
-Edinger-Westphal nucleus reacts to taste stimuli by dilating and constricting the pupils.
-
-Spinal ganglion are involved in movement.
-
-The insula cortex aids in swallowing and gastric motility.
-
-## The Gustatory Nucleus
-
-The gustatory nucleus is the rostral part of the solitary nucleus located in the medulla. The gustatory nucleus is associated with the sense of taste and has two sections, the rostral and lateral regions. A close association between the gustatory nucleus and visceral information exists for this function in the gustatory system, assisting in homeostasis - via the identification of food that might be possibly poisonous or harmful for the body. There are many gustatory nuclei in the brain stem. Each of these nuclei corresponds to three cranial nerves, the facial nerve (VII), the glossopharyngeal nerve (IX), and the vagus nerve (X)  and GABA is the primary inhibitory neurotransmitter involved in its functionality. All visceral afferents in the vagus and glossopharyngeal nerves first arrive in the nucleus of the solitary tract and information from the gustatory system can then be relayed to the thalamus and cortex.
-
-The central axons on primary sensory neurons in the taste system in the cranial nerve ganglia connect to lateral and rostral regions of the nucleus of the solitary tract which is located in the medulla and is also known as the gustatory nucleus. The most pronounced gustatory nucleus is the rostral cap of the nucleus solitarius which is located at the ponto-medullary junction. Afferent taste fibers from the facial and from the facial and glossopharyngeal nerves are sent to the nucleus solitarius. The gustatory system then sends information to the thalamus which ultimately sends information to the cerebral cortex.
-
-Each nucleus from the gustatory system can contain networks of interconnected neurons that can help regulate the firing rates of one another. Fishes (specifically channel catfish), have been used to study the structure, mechanism for activation and its integrated with the solitary nucleus. The secondary gustatory nucleus contains three subnucleic structures: a medial, central and dorsal subnucleus (with the central and dorsal positioned in the rostral area of the secondary gustatory nucleus).
-
-Furthermore, the gustatory nucleus is connected via the pons to the thalamocortical system consisting of the hypothalamus and the amygdala. These connections can stimulate appetite, satisfaction, and other homeostatic responses that have to do with eating. Distributed throughout the dorsal epithelium of the tongue, soft palate, pharynx, and upper part of the esophagus are taste buds that contain taste cells, which are peripheral receptors involved in gustatory system and react to chemical stimuli. Different sections of the tongue are innervated with the three cranial nerves. The facial nerve (VII) innervates the anterior two-thirds of the tongue, the glossopharyngeal nerve (IX) innervates the posterior one-third and the vagus nerve (X) innervates the epiglottis.
-
-The study of the nucleus usually involves model organisms like fish, hamsters, and mice. Studies with humans involve MRIs and PET scan. A study done on monkeys found that when a given food is consumed to the point that a monkey is full and satisfied, specific orbitofrontal neurons in the monkey direct their firing towards that stimulus which indicates that these neurons are used in motivating one to eat as well as not to eat. In addition, the gustatory system has been greatly studied in some cyprinoid and cobitoid fish species because of their enormously hypertrophied peripheral gustatory nerves. The major difference between the gustatory neural structure of the fish and the rat is that the secondary gustatory nucleus of the fish projects to the interior lobe's lateral lobule of the diencephalon, while in the rat, the secondary gustatory nucleus projects to a specific thalamic area in the ventrobasal complex and to the ventral forebrain and rostroventral diencephalon.
-
-## The Gustatory Cortex
+### The Gustatory Cortex
 
 The primary gustatory cortex is a brain structure responsible for the perception of taste. It consists of two substructures: the anterior insula on the insular lobe and the frontal operculum on the inferior frontal gyrus of the frontal lobe. Because of its composition the primary gustatory cortex is sometimes referred to in literature as the AI/FO(Anterior Insula/Frontal Operculum). By using extracellular unit recording techniques, scientists have elucidated that neurons in the AI/FO respond to sweetness, saltiness, bitterness, and sourness, and they code the intensity of the taste stimulus.
 
 Like the olfactory system, the taste system is defined by its specialized peripheral receptors and central pathways that relay and process taste information. Peripheral taste receptors are found on the upper surface of the tongue, soft palate, pharynx, and the upper part of the esophagus. Taste cells synapse with primary sensory axons that run in the chorda tympani and greater superficial petrosal branches of the facial nerve (cranial nerve VII), the lingual branch of the glossopharyngeal nerve (cranial nerve IX), and the superior laryngeal branch of the vagus nerve (Cranial nerve X) to innervate the taste buds in the tongue, palate, epiglottis, and esophagus respectively. The central axons of these primary sensory neurons in the respective cranial nerve ganglia project to rostral and lateral regions of the nucleus of the solitary tract in the medulla, which is also known as the gustatory nucleus of the solitary tract complex. Axons from the rostral (gustatory) part of the solitary nucleus project to the ventral posterior complex of the thalamus, where they terminate in the medial half of the ventral posterior medial nucleus. This nucleus projects in turn to several regions of the neocortex which includes the gustatory cortex (the frontal operculum and the insula), which becomes activated when the subject is consuming and experiencing taste.
 
-There have been many studies done to observe the functionality of the primary gustatory cortex and associated structures with various chemical and electrical stimulations as well as observations of patients with lesions and GC epileptic focus. It has been reported that electrical stimulation of the lingual nerve, chorda tympani, and a lingual branch of the glossopharyngeal nerve elicit evoked field potential in the frontal operculum. Electrical stimulation of the insula in the human elicit gustatory sensations. Gustatory information is conveyed to the orbitofrontal cortex, the secondary gustatory cortex from the AI/FO. Studies have shown that 8% of neurons in the orbitofrontal cortex respond to taste stimuli, and a part of these neurons are finely tuned to particular taste stimuli. It has also been shown in monkeys that the responses of orbitofrontal neurons to taste decreased when the monkey eats to satiety. Furthermore neurons in the orbitofrontal cortex respond to the visual, and/or olfactory stimuli in addition to the gustatory stimulus. These results suggest that gustatory neurons in the orbitofrontal cortex may play an important role in food identification and selection. A patient study reported that damage in the rostral part of the insula caused gustatory disturbance, as well as taste recognition and intensity deficits in patients with insular cortex lesions. It has also been reported that a patient who had an epileptic focus in the frontal operculum and epileptic activity in the focus produced a disagreeable taste. Activation in the insula also takes place when exposed to gustatory imagery. Studies compared the activated regions in subjects shown food pictures to those shown location pictures and found that food pictures activated the right insula/operculum and the left orbitofrontal cortex.

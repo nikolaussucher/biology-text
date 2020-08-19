@@ -1,5 +1,11 @@
 # Development And Aging
 
+Developmental biology is the study of the process by which animals and plants grow and develop.
+
+Ageing or aging is the process of becoming older. The term refers especially to human beings, many animals, and fungi, whereas for example bacteria, perennial plants and some simple animals are potentially biologically immortal. In the broader sense, aging can refer to single cells within an organism which have ceased dividing (cellular senescence) or to the population of a species (population ageing).
+
+## Animal Development
+
 The main processes involved in the embryonic development of animals are: tissue patterning (via regional specification and patterned cell differentiation); tissue growth; and tissue morphogenesis.
 
 * Regional specification refers to the processes that create spatial pattern in a ball or sheet of initially similar cells. This generally involves the action of cytoplasmic determinants, located within parts of the fertilized egg, and of inductive signals emitted from signaling centers in the embryo. The early stages of regional specification do not generate functional differentiated cells, but cell populations committed to develop to a specific region or part of the organism. These are defined by the expression of specific combinations of transcription factors.
@@ -16,6 +22,57 @@ The main processes involved in the embryonic development of animals are: tissue 
 
 The development of plants involves similar processes to that of animals. However plant cells are mostly immotile so morphogenesis is achieved by differential growth, without cell movements. Also, the inductive signals and the genes involved are different from those that control animal development.
 
+### Cellular differentiation
+
+Cellular differentiation is the process in which a cell changes from one cell type to another. Usually, the cell changes to a more specialized type. Differentiation occurs numerous times during the development of a multicellular organism as it changes from a simple zygote to a complex system of tissues and cell types. Differentiation continues in adulthood as adult stem cells divide and create fully differentiated daughter cells during tissue repair and during normal cell turnover. Some differentiation occurs in response to antigen exposure. Differentiation dramatically changes a cell's size, shape, membrane potential, metabolic activity, and responsiveness to signals. These changes are largely due to highly controlled modifications in gene expression and are the study of epigenetics. With a few exceptions, cellular differentiation almost never involves a change in the DNA sequence itself. Thus, different cells can have very different physical characteristics despite having the same genome.
+
+(ref:celldif) [Stem cell differentiation into various tissue types.](https://commons.wikimedia.org/wiki/File:Final_stem_cell_differentiation_(1).svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/development/Final_stem_cell_differentiation_(1).svg" alt="(ref:celldif)" width="70%" />
+<p class="caption">(\#fig:cellulardifferentiation)(ref:celldif)</p>
+</div>
+
+A specialized type of differentiation, known as 'terminal differentiation', is of importance in some tissues, for example vertebrate nervous system, striated muscle, epidermis and gut. During terminal differentiation, a precursor cell formerly capable of cell division, permanently leaves the cell cycle, dismantles the cell cycle machinery and often expresses a range of genes characteristic of the cell's final function (e.g. myosin and actin for a muscle cell). Differentiation may continue to occur after terminal differentiation if the capacity and functions of the cell undergo further changes.
+
+Among dividing cells, there are multiple levels of cell potency, the cell's ability to differentiate into other cell types. A greater potency indicates a larger number of cell types that can be derived. A cell that can differentiate into all cell types, including the placental tissue, is known as totipotent. In mammals, only the zygote and subsequent blastomeres are totipotent, while in plants, many differentiated cells can become totipotent with simple laboratory techniques. A cell that can differentiate into all cell types of the adult organism is known as pluripotent. Such cells are called meristematic cells in higher plants and embryonic stem cells in animals, though some groups report the presence of adult pluripotent cells. Virally induced expression of four transcription factors Oct4, Sox2, c-Myc, and Klf4 (Yamanaka factors) is sufficient to create pluripotent (iPS) cells from adult fibroblasts. A multipotent cell is one that can differentiate into multiple different, but closely related cell types. Oligopotent cells are more restricted than multipotent, but can still differentiate into a few closely related cell types. Finally, unipotent cells can differentiate into only one cell type, but are capable of self-renewal. In cytopathology, the level of cellular differentiation is used as a measure of cancer progression. "Grade" is a marker of how differentiated a cell in a tumor is.
+
+### Morphogenesis
+
+Morphogenesis (from the Greek morphê shape and genesis creation, literally "the generation of form") is the biological process that causes a cell, tissue or organism to develop its shape. It is one of three fundamental aspects of developmental biology along with the control of tissue growth and patterning of cellular differentiation.
+
+The process controls the organized spatial distribution of cells during the embryonic development of an organism. Morphogenesis can take place also in a mature organism, such as in the normal maintenance of tissue homeostasis by stem cells or in regeneration of tissues after damage. Cancer is an example of highly abnormal and pathological tissue morphogenesis. Morphogenesis also describes the development of unicellular life forms that do not have an embryonic stage in their life cycle. Morphogenesis is essential for the evolution of a new forms.
+
+(ref:hoxg) [Homologous hox genes in such different animals as insects and vertebrates control embryonic development and hence the form of adult bodies. These genes have been highly conserved through hundreds of millions of years of evolution.](https://commons.wikimedia.org/wiki/File:Genes_hox.jpeg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/development/Genes_hox.jpg" alt="(ref:hoxg)" width="70%" />
+<p class="caption">(\#fig:hoxgenes)(ref:hoxg)</p>
+</div>
+
+Morphogenesis is a mechanical process involving forces that generate mechanical stress, strain, and movement of cells, and can be induced by genetic programs according to the spatial patterning of cells within tissues.
+
+Several types of molecules are important in morphogenesis. Morphogens are soluble molecules that can diffuse and carry signals that control cell differentiation via concentration gradients. Morphogens typically act through binding to specific protein receptors. An important class of molecules involved in morphogenesis are transcription factor proteins that determine the fate of cells by interacting with DNA. These can be coded for by master regulatory genes, and either activate or deactivate the transcription of other genes; in turn, these secondary gene products can regulate the expression of still other genes in a regulatory cascade of gene regulatory networks. At the end of this cascade are classes of molecules that control cellular behaviors such as cell migration, or, more generally, their properties, such as cell adhesion or cell contractility. For example, during gastrulation, clumps of stem cells switch off their cell-to-cell adhesion, become migratory, and take up new positions within an embryo where they again activate specific cell adhesion proteins and form new tissues and organs. Developmental signaling pathways implicated in morphogenesis include Wnt, Hedgehog, and ephrins.
+
+At a tissue level, ignoring the means of control, morphogenesis arises because of cellular proliferation and motility. Morphogenesis also involves changes in the cellular structure or how cells interact in tissues. These changes can result in tissue elongation, thinning, folding, invasion or separation of one tissue into distinct layers. The latter case is often referred as cell sorting. Cell "sorting out" consists of cells moving so as to sort into clusters that maximize contact between cells of the same type. The ability of cells to do this has been proposed to arise from differential cell adhesion by Malcolm Steinberg through his differential adhesion hypothesis. Tissue separation can also occur via more dramatic cellular differentiation events during which epithelial cells become mesenchymal (see Epithelial–mesenchymal transition). Mesenchymal cells typically leave the epithelial tissue as a consequence of changes in cell adhesive and contractile properties. Following epithelial-mesenchymal transition, cells can migrate away from an epithelium and then associate with other similar cells in a new location. In plants, cellular morphogenesis is tightly linked to the chemical composition and the mechanical properties of the cell wall. 
+
+## Genetic Control of Development
+
+Roughly spherical eggs of different animals give rise to extremely different bodies, from jellyfish to lobsters, butterflies to elephants. Many of these organisms share the same structural genes for body-building proteins like collagen and enzymes, but biologists had expected that each group of animals would have its own rules of development. The surprise of evo-devo is that the shaping of bodies is controlled by a rather small percentage of genes, and that these regulatory genes are ancient, shared by all animals. The giraffe does not have a gene for a long neck, any more than the elephant has a gene for a big body. Their bodies are patterned by a system of switching which causes development of different features to begin earlier or later, to occur in this or that part of the embryo, and to continue for more or less time.
+
+The puzzle of how embryonic development was controlled began to be solved using the fruit fly Drosophila melanogaster as a model organism. The step-by-step control of its embryogenesis was visualized by attaching fluorescent dyes of different colours to specific types of protein made by genes expressed in the embryo. A dye such as green fluorescent protein, originally from a jellyfish, was typically attached to an antibody specific to a fruit fly protein, forming a precise indicator of where and when that protein appeared in the living embryo.
+
+Using such a technique, in 1994 Walter Gehring found that the pax-6 gene, vital for forming the eyes of fruit flies, exactly matches an eye-forming gene in mice and humans. The same gene was quickly found in many other groups of animals, such as squid, a cephalopod mollusc. Biologists including Ernst Mayr had believed that eyes had arisen in the animal kingdom at least 40 times, as the anatomy of different types of eye varies widely. For example, the fruit fly's compound eye is made of hundreds of small lensed structures (ommatidia); the human eye has a blind spot where the optic nerve enters the eye, and the nerve fibres run over the surface of the retina, so light has to pass through a layer of nerve fibres before reaching the detector cells in the retina, so the structure is effectively "upside-down"; in contrast, the cephalopod eye has the retina, then a layer of nerve fibres, then the wall of the eye "the right way around". The evidence of pax-6, however, was that the same genes controlled the development of the eyes of all these animals, suggesting that they all evolved from a common ancestor. Ancient genes had been conserved through millions of years of evolution to create dissimilar structures for similar functions, demonstrating deep homology between structures once thought to be purely analogous. This has caused a radical revision of the meaning of homology in evolutionary biology.
+
+A small fraction of the genes in an organism's genome control the organism's development. These genes are called the developmental-genetic toolkit. They are highly conserved among phyla, meaning that they are ancient and very similar in widely separated groups of animals. Differences in deployment of toolkit genes affect the body plan and the number, identity, and pattern of body parts. Most toolkit genes are parts of signalling pathways: they encode transcription factors, cell adhesion proteins, cell surface receptor proteins and signalling ligands that bind to them, and secreted morphogens that diffuse through the embryo. All of these help to define the fate of undifferentiated cells in the embryo. Together, they generate the patterns in time and space which shape the embryo, and ultimately form the body plan of the organism. Among the most important toolkit genes are the Hox genes. These transcription factors contain the homeobox protein-binding DNA motif, also found in other toolkit genes, and create the basic pattern of the body along its front-to-back axis. Hox genes determine where repeating parts, such as the many vertebrae of snakes, will grow in a developing embryo or larva. Pax-6, already mentioned, is a classic toolkit gene. Homeobox genes are also found in plants, implying they are common to all eukaryotes
+
+The protein products of the regulatory toolkit are reused not by duplication and modification, but by a complex mosaic of pleiotropy, being applied unchanged in many independent developmental processes, giving pattern to many dissimilar body structures. The loci of these pleiotropic toolkit genes have large, complicated and modular cis-regulatory elements. For example, while a non-pleiotropic rhodopsin gene in the fruit fly has a cis-regulatory element just a few hundred base pairs long, the pleiotropic eyeless cis-regulatory region contains 6 cis-regulatory elements in over 7000 base pairs. The regulatory networks involved are often very large. Each regulatory protein controls "scores to hundreds" of cis-regulatory elements. For instance, 67 fruit fly transcription factors controlled on average 124 target genes each. All this complexity enables genes involved in the development of the embryo to be switched on and off at exactly the right times and in exactly the right places. Some of these genes are structural, directly forming enzymes, tissues and organs of the embryo. But many others are themselves regulatory genes, so what is switched on is often a precisely-timed cascade of switching, involving turning on one developmental process after another in the developing embryo.
+
+Such a cascading regulatory network has been studied in detail in the development of the fruit fly embryo. The young embryo is oval in shape, like a rugby ball. A small number of genes produce messenger RNAs that set up concentration gradients along the long axis of the embryo. In the early embryo, the bicoid and hunchback genes are at high concentration near the anterior end, and give pattern to the future head and thorax; the caudal and nanos genes are at high concentration near the posterior end, and give pattern to the hindmost abdominal segments. The effects of these genes interact; for instance, the Bicoid protein blocks the translation of caudal's messenger RNA, so the Caudal protein concentration becomes low at the anterior end. Caudal later switches on genes which create the fly's hindmost segments, but only at the posterior end where it is most concentrated.
+
+The Bicoid, Hunchback and Caudal proteins in turn regulate the transcription of gap genes such as giant, knirps, Krüppel, and tailless in a striped pattern, creating the first level of structures that will become segments. The proteins from these in turn control the pair-rule genes, which in the next stage set up 7 bands across the embryo's long axis. Finally, the segment polarity genes such as engrailed split each of the 7 bands into two, creating 14 future segments.
+
+This process explains the accurate conservation of toolkit gene sequences, which has resulted in deep homology and functional equivalence of toolkit proteins in dissimilar animals (seen, for example, when a mouse protein controls fruit fly development). The interactions of transcription factors and cis-regulatory elements, or of signalling proteins and receptors, become locked in through multiple usages, making almost any mutation deleterious and hence eliminated by natural selection.
 
 ## Human Embryonic Development
 
@@ -51,7 +108,6 @@ Fertilization takes place when the spermatozoon has successfully entered the ovu
 
 Successful fertilization is enabled by three processes, which also act as controls to ensure species-specificity. The first is that of chemotaxis which directs the movement of the sperm towards the ovum. Secondly there is an adhesive compatibility between the sperm and the egg. With the sperm adhered to the ovum, the third process of acrosomal reaction takes place; the front part of the spermatozoan head is capped by an acrosome which contains digestive enzymes to break down the zona pellucida and allow its entry. The entry of the sperm causes calcium to be released which blocks entry to other sperm cells. A parallel reaction takes place in the ovum called the zona reaction. This sees the release of cortical granules that release enzymes which digest sperm receptor proteins, thus preventing polyspermy. The granules also fuse with the plasma membrane and modify the zona pellucida in such a way as to prevent further sperm entry.
 
-
 (ref:eighcell) [An embryo at the 8-cell stage, at 3 days.](https://commons.wikimedia.org/wiki/File:Embryo,_8_cells.jpg) 
 
 <div class="figure" style="text-align: center">
@@ -62,7 +118,6 @@ Successful fertilization is enabled by three processes, which also act as contro
 The beginning of the cleavage process is marked when the zygote divides through mitosis into two cells. This mitosis continues and the first two cells divide into four cells, then into eight cells and so on. Each division takes from 12 to 24 hours. The zygote is large compared to any other cell and undergoes cleavage without any overall increase in size. This means that with each successive subdivision, the ratio of nuclear to cytoplasmic material increases. Initially the dividing cells, called blastomeres (blastos Greek for sprout), are undifferentiated and aggregated into a sphere enclosed within the membrane of glycoproteins (termed the zona pellucida) of the ovum. When eight blastomeres have formed they begin to develop gap junctions, enabling them to develop in an integrated way and co-ordinate their response to physiological signals and environmental cues.
 
 When the cells number around sixteen the solid sphere of cells within the zona pellucida is referred to as a morula At this stage the cells start to bind firmly together in a process called compaction, and cleavage continues as cellular differentiation.
-
 
 Cleavage itself is the first stage in blastulation, the process of forming the blastocyst. Cells differentiate into an outer layer of cells (collectively called the trophoblast) and an inner cell mass. With further compaction the individual outer blastomeres, the trophoblasts, become indistinguishable. They are still enclosed within the zona pellucida. This compaction serves to make the structure watertight, containing the fluid that the cells will later secrete. The inner mass of cells differentiate to become embryoblasts and polarise at one end. They close together and form gap junctions, which facilitate cellular communication. This polarisation leaves a cavity, the blastocoel, creating a structure that is now termed the blastocyst. (In animals other than mammals, this is called the blastula.) The trophoblasts secrete fluid into the blastocoel. The resulting increase in size of the blastocyst causes it to hatch through the zona pellucida, which then disintegrates.
 
@@ -101,15 +156,13 @@ Following gastrulation, the ectoderm gives rise to epithelial and neural tissue,
 
 The embryonic disc begins flat and round, but eventually elongates to have a wider cephalic part and narrow-shaped caudal end. At the beginning, the primitive line extends in cephalic direction and 18 days after fertilization returns caudally until it disappears. In the cephalic portion, the germ layer shows specific differentiation at the beginning of the 4th week, while in the caudal portion it occurs at the end of the 4th week. Cranial and caudal neuropores become progressively smaller until they close completely (by day 26) forming the neural tube.
 
-Development of organs and organ systems
+### Development of Organs And Organ Systems
+
 Organogenesis is the development of the organs that begins during the third to eighth week, and continues until birth. Sometimes full development, as in the lungs, continues after birth. Different organs take part in the development of the many organ systems of the body.
 
-Blood
 Haematopoietic stem cells that give rise to all the blood cells develop from the mesoderm. The development of blood formation takes place in clusters of blood cells, known as blood islands, in the yolk sac. Blood islands develop outside the embryo, on the umbilical vesicle, allantois, connecting stalk, and chorion, from mesodermal hemangioblasts.
 
 In the centre of a blood island, hemangioblasts form the haematopoietic stem cells that are the precursor to all types of blood cell. In the periphery of a blood island the hemangioblasts differentiate into angioblasts the precursors to the blood vessels.
-
-Heart and circulatory system
 
 The heart is the first functional organ to develop and starts to beat and pump blood at around 21 or 22 days. Cardiac myoblasts and blood islands in the splanchnopleuric mesenchyme on each side of the neural plate, give rise to the cardiogenic region.:165This is a horseshoe-shaped area near to the head of the embryo. By day 19, following cell signalling, two strands begin to form as tubes in this region, as a lumen develops within them. These two endocardial tubes grow and by day 21 have migrated towards each other and fused to form a single primitive heart tube, the tubular heart. This is enabled by the folding of the embryo which pushes the tubes into the thoracic cavity.
 
@@ -177,3 +230,58 @@ From the 10th week of gestation (8th week of development), the developing organi
 All major structures are already formed in the fetus, but they continue to grow and develop. Since the precursors of all the major organs are created by this time, the fetal period is described both by organ and by a list of changes by weeks of gestational age.
 
 Because the precursors of the organs are now formed, the fetus is not as sensitive to damage from environmental exposure as the embryo was. Instead, toxic exposure often causes physiological abnormalities or minor congenital malformation.
+
+## Aging
+
+A number of characteristic aging symptoms are experienced by a majority or by a significant proportion of humans during their lifetimes.
+
+* Teenagers lose the young child's ability to hear high-frequency sounds above 20 kHz.
+* Wrinkles develop mainly due to photoageing, particularly affecting sun-exposed areas (face).
+* After peaking in the mid-20s, female fertility declines.
+* After age 30 the mass of human body is decreased until 70 years and then shows damping oscillations.
+* Muscles have reduced capacity of responding to exercise or injury and loss of muscle mass and strength (sarcopenia) is common. VO2 max and maximum heart rate decline.
+* People over 35 years of age are at increasing risk for losing strength in the ciliary muscle which leads to difficulty focusing on close objects, or presbyopia. Most people experience presbyopia by age 45–50. The cause is lens hardening by decreasing levels of α-crystallin, a process which may be sped up by higher temperatures.
+* Around age 50, hair turns grey. Pattern hair loss by the age of 50 affects about 30–50% of males and a quarter of females.
+* Menopause typically occurs between 44 and 58 years of age.
+* In the 60–64 age cohort, the incidence of osteoarthritis rises to 53%. Only 20% however report disabling osteoarthritis at this age.
+* Almost half of people older than 75 have hearing loss (presbycusis) inhibiting spoken communication. Many vertebrates such as fish, birds and amphibians do not suffer presbycusis in old age as they are able to regenerate their cochlear sensory cells, whereas mammals including humans have genetically lost this ability.
+* By age 80, more than half of all Americans either have a cataract or have had cataract surgery.
+* Frailty, a syndrome of decreased strength, physical activity, physical performance and energy, affects 25% of those over 85.
+* Atherosclerosis is classified as an aging disease. It leads to cardiovascular disease (for example stroke and heart attack) which globally is the most common cause of death. Vessel aging causes vascular remodeling and loss of arterial elasticity and as a result causes the stiffness of the vasculature.
+* Recent evidence suggests that age-related risk of death plateaus after age 105. The maximum human lifespan is suggested to be 115 years. The oldest reliably recorded human was Jeanne Calment who died in 1997 at 122.
+
+Dementia becomes more common with age. About 3% of people between the ages of 65 and 74, 19% between 75 and 84, and nearly half of those over 85 years of age have dementia. The spectrum ranges from mild cognitive impairment to the neurodegenerative diseases of Alzheimer's disease, cerebrovascular disease, Parkinson's disease and Lou Gehrig's disease. Furthermore, many types of memory decline with aging, but not semantic memory or general knowledge such as vocabulary definitions, which typically increases or remains steady until late adulthood (see Aging brain). Intelligence declines with age, though the rate varies depending on the type and may in fact remain steady throughout most of the lifespan, dropping suddenly only as people near the end of their lives. Individual variations in rate of cognitive decline may therefore be explained in terms of people having different lengths of life. There are changes to the brain: after 20 years of age there is a 10% reduction each decade in the total length of the brain's myelinated axons.
+
+Age can result in visual impairment, whereby non-verbal communication is reduced, which can lead to isolation and possible depression. Older adults, however, may not suffer depression as much as younger adults, and were paradoxically found to have improved mood despite declining physical health. Macular degeneration causes vision loss and increases with age, affecting nearly 12% of those above the age of 80. This degeneration is caused by systemic changes in the circulation of waste products and by growth of abnormal vessels around the retina.
+
+A distinction can be made between "proximal aging" (age-based effects that come about because of factors in the recent past) and "distal aging" (age-based differences that can be traced to a cause in a person's early life, such as childhood poliomyelitis).
+
+Aging is among the greatest known risk factors for most human diseases. Of the roughly 150,000 people who die each day across the globe, about two thirds—100,000 per day—die from age-related causes. In industrialized nations, the proportion is higher, reaching 90%.
+In humans, aging represents the accumulation of changes in a human being over time and can encompass physical, psychological, and social changes. Reaction time, for example, may slow with age, while knowledge of world events and wisdom may expand. Aging is among the greatest known risk factors for most human diseases: of the roughly 150,000 people who die each day across the globe, about two-thirds die from age-related causes.
+
+The causes of aging are uncertain; current theories are assigned to the damage concept, whereby the accumulation of damage (such as DNA oxidation) may cause biological systems to fail, or to the programmed aging concept, whereby internal processes (such as DNA methylation) may cause aging. Programmed aging should not be confused with programmed cell death (apoptosis).
+
+At present, researchers are only just beginning to understand the biological basis of aging even in relatively simple and short-lived organisms such as yeast. Less still is known of mammalian aging, in part due to the much longer lives of even small mammals such as the mouse (around 3 years). A model organism for studying of aging is the nematode C. elegans. Thanks to its short lifespan of 2–3 weeks, our ability to easily perform genetic manipulations or to suppress gene activity with RNA interference, or other factors. Most known mutations and RNA interference targets that extend lifespan were first discovered in C. elegans.
+
+The factors proposed to influence biological aging fall into two main categories, programmed and damage-related. Programmed factors follow a biological timetable, perhaps one that might be a continuation of the one that regulates childhood growth and development. This regulation would depend on changes in gene expression that affect the systems responsible for maintenance, repair and defense responses. Damage-related factors include internal and environmental assaults to living organisms that induce cumulative damage at various levels. A third, novel, concept is that aging is mediated by vicious cycles.
+
+In a detailed review, Lopez-Otin and colleagues (2013), who discuss aging through the lens of the damage theory, propose nine metabolic "hallmarks" of aging in various organisms but especially mammals:
+
+* genomic instability (mutations accumulated in nuclear DNA, in mtDNA, and in the nuclear lamina)
+* telomere attrition (the authors note that artificial telomerase confers non-cancerous immortality to otherwise mortal cells)
+* epigenetic alterations (including DNA methylation patterns, post-translational modification of histones, and chromatin remodelling)
+* loss of proteostasis (protein folding and proteolysis)
+* deregulated nutrient sensing (relating to the Growth hormone/Insulin-like growth factor 1 signalling pathway, which is the most conserved aging-controlling pathway in evolution and among its targets are the FOXO3/Sirtuin transcription factors and the mTOR complexes, probably responsive to caloric restriction)
+* mitochondrial dysfunction (the authors point out however that a causal link between aging and increased mitochondrial production of reactive oxygen species is no longer supported by recent research)
+* cellular senescence (accumulation of no longer dividing cells in certain tissues, a process induced especially by p16INK4a/Rb and p19ARF/p53 to stop cancerous cells from proliferating)
+* stem cell exhaustion (in the authors' view caused by damage factors such as those listed above)
+* altered intercellular communication (encompassing especially inflammation but possibly also other intercellular interactions)
+
+There are three main metabolic pathways which can influence the rate of aging, discussed below:
+
+* the FOXO3/Sirtuin pathway, probably responsive to caloric restriction
+* the Growth hormone/Insulin-like growth factor 1 signalling pathway
+* the activity levels of the electron transport chain in mitochondria and (in plants) in chloroplasts.
+
+It is likely that most of these pathways affect aging separately, because targeting them simultaneously leads to additive increases in lifespan.
+

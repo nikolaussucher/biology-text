@@ -8,6 +8,13 @@ In a living organism, chemical bonds are broken and made as part of the exchange
 
 Adenosine triphosphate (ATP) is the main "energy currency" for organisms; the goal of metabolic and catabolic processes are to synthesize ATP from available starting materials (from the environment), and to break- down ATP (into adenosine diphosphate (ADP) and inorganic phosphate) by utilizing it in biological processes. In a cell, the ratio of ATP to ADP concentrations is known as the "energy charge" of the cell. A cell can use this energy charge to relay information about cellular needs; if there is more ATP than ADP available, the cell can use ATP to do work, but if there is more ADP than ATP available, the cell must synthesize ATP via oxidative phosphorylation.
 
+(ref:atpsform) [Structure of adenosine triphosphate (ATP), protonated](https://commons.wikimedia.org/wiki/File:Adenosintriphosphat_protoniert.svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/bioenergetics/Adenosintriphosphat_protoniert.svg" alt="(ref:atpsform)" width="70%" />
+<p class="caption">(\#fig:atpstrucform)(ref:atpsform)</p>
+</div>
+
 Living organisms produce ATP from energy sources, mostly sunlight or O2, mainly via oxidative phosphorylation. The terminal phosphate bonds of ATP are relatively weak compared with the stronger bonds formed when ATP is hydrolyzed (broken down by water) to adenosine diphosphate and inorganic phosphate. Here it is the thermodynamically favorable free energy of hydrolysis that results in energy release; the phosphoanhydride bond between the terminal phosphate group and the rest of the ATP molecule does not itself contain this energy. An organism's stockpile of ATP is used as a battery to store energy in cells. Utilization of chemical energy from such molecular bond rearrangement powers biological processes in every biological organism.
 
 Living organisms obtain energy from organic and inorganic materials; i.e. ATP can be synthesized from a variety of biochemical precursors. For example, lithotrophs can oxidize minerals such as nitrites or forms of sulfur, such as elemental sulfur, sulfites, and hydrogen sulfide to produce ATP. In photosynthesis, autotrophs produce ATP using light energy, whereas heterotrophs must consume organic compounds, mostly including carbohydrates, fats, and proteins. The amount of energy actually obtained by the organism is lower than the amount released in combustion of the food; there are losses in digestion, metabolism, and thermogenesis.
@@ -36,6 +43,13 @@ Many models have been proposed to describe the mechanisms by which novel metabol
 
 As well as the evolution of new metabolic pathways, evolution can also cause the loss of metabolic functions. For example, in some parasites metabolic processes that are not essential for survival are lost and preformed amino acids, nucleotides and carbohydrates may instead be scavenged from the host. Similar reduced metabolic capabilities are seen in endosymbiotic organisms.
 
+(ref:sun) [The Sun](https://commons.wikimedia.org/wiki/File:Sun_in_February_(black_version).jpg) is the source of energy for most of life on Earth. It derives its energy mainly from nuclear fusion in its core, converting mass to energy as protons are combined to form helium. This energy is transported to the sun's surface then released into space mainly in the form of radiant (light) energy.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/bioenergetics/Sun_in_February_black_version.jpg" alt="(ref:sun)" width="70%" />
+<p class="caption">(\#fig:energyfromsun)(ref:sun)</p>
+</div>
+
 The sun is the primary source of energy for living organisms on earth. The relationship between the energy of the incoming sunlight and its wavelength λ or frequency ν is given by
 
 $$ E={\frac  {hc}{\lambda }}=h\nu $$ 
@@ -59,6 +73,13 @@ Metabolism (from Greek: μεταβολή metabolē, "change") is the set of life
 
 Metabolic reactions may be categorized as catabolic – the breaking down of compounds (for example, the breaking down of glucose to pyruvate by cellular respiration); or anabolic – the building up (synthesis) of compounds (such as proteins, carbohydrates, lipids, and nucleic acids). Usually, catabolism releases energy, and anabolism consumes energy.
 
+(ref:simplmet) [Simplified view of the cellular metabolism](https://commons.wikimedia.org/wiki/File:Metabolism.png) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/bioenergetics/Metabolism.png" alt="(ref:simplmet)" width="70%" />
+<p class="caption">(\#fig:simpleviewmet)(ref:simplmet)</p>
+</div>
+
 The chemical reactions of metabolism are organized into metabolic pathways, in which one chemical is transformed through a series of steps into another chemical, each step being facilitated by a specific enzyme. Enzymes are crucial to metabolism because they allow organisms to drive desirable reactions that require energy that will not occur by themselves, by coupling them to spontaneous reactions that release energy. Enzymes act as catalysts – they allow a reaction to proceed more rapidly – and they also allow the regulation of the rate of a metabolic reaction, for example in response to changes in the cell's environment or to signals from other cells.
 
 The metabolic system of a particular organism determines which substances it will find nutritious and which poisonous. For example, some prokaryotes use hydrogen sulfide as a nutrient, yet this gas is poisonous to animals. The basal metabolic rate of an organism is the measure of the amount of energy consumed by all of these chemical reactions.
@@ -67,13 +88,13 @@ A striking feature of metabolism is the similarity of the basic metabolic pathwa
 
 Most of the structures that make up animals, plants and microbes are made from four basic classes of molecule: amino acids, carbohydrates , nucleic acid and lipids (often called fats). As these molecules are vital for life, metabolic reactions either focus on making these molecules during the construction of cells and tissues, or by breaking them down and using them as a source of energy, by their digestion. These biochemicals can be joined together to make polymers such as DNA and proteins, essential macromolecules of life.
 
-<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:100; overflow-x: scroll; width:100%; "><table class="table" style="margin-left: auto; margin-right: auto;">
+<table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Type of molecule </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Name of monomer forms </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Name of polymer forms </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Examples of polymer forms </th>
+   <th style="text-align:left;"> Type of molecule </th>
+   <th style="text-align:left;"> Name of monomer forms </th>
+   <th style="text-align:left;"> Name of polymer forms </th>
+   <th style="text-align:left;"> Examples of polymer forms </th>
   </tr>
  </thead>
 <tbody>
@@ -96,26 +117,33 @@ Most of the structures that make up animals, plants and microbes are made from f
    <td style="text-align:left;"> DNA and RNA </td>
   </tr>
 </tbody>
-</table></div>
+</table>
 The history of the scientific study of metabolism spans several centuries and has moved from examining whole animals in early studies, to examining individual metabolic reactions in modern biochemistry. The first controlled experiments in human metabolism were published by Santorio Santorio in 1614 in his book Ars de statica medicina. He described how he weighed himself before and after eating, sleep, working, sex, fasting, drinking, and excreting. He found that most of the food he took in was lost through what he called "insensible perspiration".
 
 In these early studies, the mechanisms of these metabolic processes had not been identified and a vital force was thought to animate living tissue. In the 19th century, when studying the fermentation of sugar to alcohol by yeast, Louis Pasteur concluded that fermentation was catalyzed by substances within the yeast cells he called "ferments". He wrote that "alcoholic fermentation is an act correlated with the life and organization of the yeast cells, not with the death or putrefaction of the cells." This discovery, along with the publication by Friedrich Wöhler in 1828 of a paper on the chemical synthesis of urea, and is notable for being the first organic compound prepared from wholly inorganic precursors. This proved that the organic compounds and chemical reactions found in cells were no different in principle than any other part of chemistry.
 
 It was the discovery of enzymes at the beginning of the 20th century by Eduard Buchner that separated the study of the chemical reactions of metabolism from the biological study of cells, and marked the beginnings of biochemistry. The mass of biochemical knowledge grew rapidly throughout the early 20th century. One of the most prolific of these modern biochemists was Hans Krebs who made huge contributions to the study of metabolism. He discovered the urea cycle and later, working with Hans Kornberg, the citric acid cycle and the glyoxylate cycle. Modern biochemical research has been greatly aided by the development of new techniques such as chromatography, X-ray diffraction, NMR spectroscopy, radioisotopic labelling, electron microscopy and molecular dynamics simulations. These techniques have allowed the discovery and detailed analysis of the many molecules and metabolic pathways in cells.
 
-## Catabolism
+### Catabolism
 
 Catabolism is the set of metabolic processes that break down large molecules. These include breaking down and oxidizing food molecules. The purpose of the catabolic reactions is to provide the energy and components needed by anabolic reactions which build molecules. The exact nature of these catabolic reactions differ from organism to organism, and organisms can be classified based on their sources of energy and carbon (their primary nutritional groups), as shown in the table below. Organic molecules are used as a source of energy by organotrophs, while lithotrophs use inorganic substrates, and phototrophs capture sunlight as chemical energy. However, all these different forms of metabolism depend on redox reactions that involve the transfer of electrons from reduced donor molecules such as organic molecules, water, ammonia, hydrogen sulfide or ferrous ions to acceptor molecules such as oxygen, nitrate or sulfate. In animals, these reactions involve complex organic molecules that are broken down to simpler molecules, such as carbon dioxide and water. In photosynthetic organisms, such as plants and cyanobacteria, these electron-transfer reactions do not release energy but are used as a way of storing energy absorbed from sunlight.
 
+(ref:simplcat) [Simplified diagram of catabolism of proteins, carbohydrates and fats.](https://commons.wikimedia.org/wiki/File:Catabolism_schematic.svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/bioenergetics/Catabolism_schematic.svg" alt="(ref:simplcat)" width="70%" />
+<p class="caption">(\#fig:simplecatdia )(ref:simplcat)</p>
+</div>
+
 The most common set of catabolic reactions in animals can be separated into three main stages. In the first stage, large organic molecules, such as proteins, polysaccharides or lipids, are digested into their smaller components outside cells. Next, these smaller molecules are taken up by cells and converted to smaller molecules, usually acetyl coenzyme A (acetyl-CoA), which releases some energy. Finally, the acetyl group on the CoA is oxidised to water and carbon dioxide in the citric acid cycle and electron transport chain, releasing the energy that is stored by reducing the coenzyme nicotinamide adenine dinucleotide (NAD+) into NADH.
 
-## Digestion
+### Digestion
 
 Macromolecules cannot be directly processed by cells. Macromolecules must be broken into smaller units before they can be used in cell metabolism. Different classes of enzymes were being used to digest these polymers. These digestive enzymes include proteases that digest proteins into amino acids, as well as glycoside hydrolases that digest polysaccharides into simple sugars known as monosaccharides
 
 Microbes simply secrete digestive enzymes into their surroundings, while animals only secrete these enzymes from specialized cells in their guts, including the stomach and pancreas, and salivary glands. The amino acids or sugars released by these extracellular enzymes are then pumped into cells by active transport proteins.
 
-## Energy From Organic Compounds
+### Energy From Organic Compounds
 
 Carbohydrate catabolism is the breakdown of carbohydrates into smaller units. Carbohydrates are usually taken into cells once they have been digested into monosaccharides. Once inside, the major route of breakdown is glycolysis, where sugars such as glucose and fructose are converted into pyruvate and some ATP is generated. Pyruvate is an intermediate in several metabolic pathways, but the majority is converted to acetyl-CoA through aerobic (with oxygen) glycolysis and fed into the citric acid cycle. Although some more ATP is generated in the citric acid cycle, the most important product is NADH, which is made from NAD+ as the acetyl-CoA is oxidized. This oxidation releases carbon dioxide as a waste product. In anaerobic conditions, glycolysis produces lactate, through the enzyme lactate dehydrogenase re-oxidizing NADH to NAD+ for re-use in glycolysis. An alternative route for glucose breakdown is the pentose phosphate pathway, which reduces the coenzyme NADPH and produces pentose sugars such as ribose, the sugar component of nucleic acids.
 
@@ -125,18 +153,17 @@ Amino acids are either used to synthesize proteins and other biomolecules, or ox
 
 ## Energy Transformations
 
-## Oxidative Phosphorylation
+### Oxidative Phosphorylation
 
-Further information: Oxidative phosphorylation, Chemiosmosis, and Mitochondrion
-In oxidative phosphorylation, the electrons removed from organic molecules in areas such as the protagon acid cycle are transferred to oxygen and the energy released is used to make ATP. This is done in eukaryotes by a series of proteins in the membranes of mitochondria called the electron transport chain. In prokaryotes, these proteins are found in the cell's inner membrane. These proteins use the energy released from passing electrons from reduced molecules like NADH onto oxygen to pump protons across a membrane.
+In oxidative phosphorylation, the electrons removed from organic molecules are transferred to oxygen and the energy released is used to make ATP. This is done in eukaryotes by a series of proteins in the membranes of mitochondria called the electron transport chain. In prokaryotes, these proteins are found in the cell's inner membrane. These proteins use the energy released from passing electrons from reduced molecules like NADH onto oxygen to pump protons across a membrane.
 
 Pumping protons out of the mitochondria creates a proton concentration difference across the membrane and generates an electrochemical gradient. This force drives protons back into the mitochondrion through the base of an enzyme called ATP synthase. The flow of protons makes the stalk subunit rotate, causing the active site of the synthase domain to change shape and phosphorylate adenosine diphosphate – turning it into ATP.
 
-## Energy From Inorganic Compounds
+### Energy From Inorganic Compounds
 
 Chemolithotrophy is a type of metabolism found in prokaryotes where energy is obtained from the oxidation of inorganic compounds. These organisms can use hydrogen, reduced sulfur compounds (such as sulfide, hydrogen sulfide and thiosulfate), ferrous iron (FeII) or ammonia as sources of reducing power and they gain energy from the oxidation of these compounds with electron acceptors such as oxygen or nitrite. These microbial processes are important in global biogeochemical cycles such as acetogenesis, nitrification and denitrification and are critical for soil fertility.
 
-## Energy From Light
+### Energy From Light
 
 The energy in sunlight is captured by plants, cyanobacteria, purple bacteria, green sulfur bacteria and some protists. This process is often coupled to the conversion of carbon dioxide into organic compounds, as part of photosynthesis, which is discussed below. The energy capture and carbon fixation systems can however operate separately in prokaryotes, as purple bacteria and green sulfur bacteria can use sunlight as a source of energy, while switching between carbon fixation and the fermentation of organic compounds.
 
@@ -144,17 +171,17 @@ In many organisms, the capture of solar energy is similar in principle to oxidat
 
 In plants, algae, and cyanobacteria, photosystem II uses light energy to remove electrons from water, releasing oxygen as a waste product. The electrons then flow to the cytochrome b6f complex, which uses their energy to pump protons across the thylakoid membrane in the chloroplast. These protons move back through the membrane as they drive the ATP synthase, as before. The electrons then flow through photosystem I and can then either be used to reduce the coenzyme NADP+.fThese cooenzyme can be used in the Calvin cycle, which is discussed below, or recycled for further ATP generation.
 
-## Anabolism
+### Anabolism
 
 Anabolism is the set of constructive metabolic processes where the energy released by catabolism is used to synthesize complex molecules. In general, the complex molecules that make up cellular structures are constructed step-by-step from small and simple precursors. Anabolism involves three basic stages. First, the production of precursors such as amino acids, monosaccharides, isoprenoids and nucleotides, secondly, their activation into reactive forms using energy from ATP, and thirdly, the assembly of these precursors into complex molecules such as proteins, polysaccharides, lipids and nucleic acids.
 
 Anabolism in organisms can be different according to the source of constructed molecules in their cells. Autotrophs such as plants can construct the complex organic molecules in cells such as polysaccharides and proteins from simple molecules like carbon dioxide and water. Heterotrophs, on the other hand, require a source of more complex substances, such as monosaccharides and amino acids, to produce these complex molecules. Organisms can be further classified by ultimate source of their energy: photoautotrophs and photoheterotrophs obtain energy from light, whereas chemoautotrophs and chemoheterotrophs obtain energy from inorganic oxidation reactions.
 
-## Carbon Fixation
+### Carbon Fixation
 
-Photosynthesis is the synthesis of carbohydrates from sunlight and carbon dioxide (CO~2~). In plants, cyanobacteria and algae, oxygenic photosynthesis splits water, with oxygen produced as a waste product. This process uses the ATP and NADPH produced by the photosynthetic reaction centres, as described above, to convert CO~2~ into glycerate 3-phosphate, which can then be converted into glucose. This carbon-fixation reaction is carried out by the enzyme RuBisCO as part of the Calvin – Benson cycle. Three types of photosynthesis occur in plants, C3 carbon fixation, C4 carbon fixation and CAM photosynthesis. These differ by the route that carbon dioxide takes to the Calvin cycle, with C3 plants fixing CO~2~ directly, while C4 and CAM photosynthesis incorporate the CO~2~ into other compounds first, as adaptations to deal with intense sunlight and dry conditions.
+Photosynthesis is the synthesis of carbohydrates from sunlight and carbon dioxide (CO~2~). In plants, cyanobacteria and algae, oxygenic photosynthesis splits water, with oxygen produced as a waste product. This process uses the ATP and NADPH produced by the photosynthetic reaction centres, as described above, to convert CO~2~ into glycerate 3-phosphate, which can then be converted into glucose. This carbon-fixation reaction is carried out by the enzyme RuBisCO as part of the Calvin cycle. Three types of photosynthesis occur in plants, C3 carbon fixation, C4 carbon fixation and CAM photosynthesis. These differ by the route that carbon dioxide takes to the Calvin cycle, with C3 plants fixing CO~2~ directly, while C4 and CAM photosynthesis incorporate the CO~2~ into other compounds first, as adaptations to deal with intense sunlight and dry conditions.
 
-In photosynthetic prokaryotes the mechanisms of carbon fixation are more diverse. Here, carbon dioxide can be fixed by the Calvin – Benson cycle, a reversed citric acid cycle, or the carboxylation of acetyl-CoA. Prokaryotic chemoautotrophs also fix CO~2~ through the Calvin–Benson cycle, but use energy from inorganic compounds to drive the reaction.
+In photosynthetic prokaryotes the mechanisms of carbon fixation are more diverse. Here, carbon dioxide can be fixed by the Calvin cycle, a reversed citric acid cycle, or the carboxylation of acetyl-CoA. Prokaryotic chemoautotrophs also fix CO~2~ through the Calvin cycle, but use energy from inorganic compounds to drive the reaction.
 
 ### Carbohydrates And Glycans
 
@@ -183,11 +210,18 @@ Nucleotides are made from amino acids, carbon dioxide and formic acid in pathway
 
 ## Enzymes
 
-Enzymes are proteins that act as biological catalysts (biocatalysts). Catalysts accelerate chemical reactions. The molecules upon which enzymes may act are called substrates, and the enzyme converts the substrates into different molecules known as products. Almost all metabolic processes in the cell need enzyme catalysis in order to occur at rates fast enough to sustain life.:8.1 Metabolic pathways depend upon enzymes to catalyze individual steps. The study of enzymes is called enzymology and a new field of pseudoenzyme analysis has recently grown up, recognising that during evolution, some enzymes have lost the ability to carry out biological catalysis, which is often reflected in their amino acid sequences and unusual 'pseudocatalytic' properties.
+Enzymes are proteins that act as biological catalysts (biocatalysts). Catalysts accelerate chemical reactions. The molecules upon which enzymes may act are called substrates, and the enzyme converts the substrates into different molecules known as products. Almost all metabolic processes in the cell need enzyme catalysis in order to occur at rates fast enough to sustain life. Metabolic pathways depend upon enzymes to catalyze individual steps. The study of enzymes is called enzymology and a new field of pseudoenzyme analysis has recently grown up, recognising that during evolution, some enzymes have lost the ability to carry out biological catalysis, which is often reflected in their amino acid sequences and unusual 'pseudocatalytic' properties.
 
 Enzymes are known to catalyze more than 5,000 biochemical reaction types. Other biocatalysts are catalytic RNA molecules, called ribozymes. Enzymes' specificity comes from their unique three-dimensional structures.
 
 Like all catalysts, enzymes increase the reaction rate by lowering its activation energy. Some enzymes can make their conversion of substrate to product occur many millions of times faster. An extreme example is orotidine 5'-phosphate decarboxylase, which allows a reaction that would otherwise take millions of years to occur in milliseconds. Chemically, enzymes are like any catalyst and are not consumed in chemical reactions, nor do they alter the equilibrium of a reaction. Enzymes differ from most other catalysts by being much more specific. Enzyme activity can be affected by other molecules: inhibitors are molecules that decrease enzyme activity, and activators are molecules that increase activity. Many therapeutic drugs and poisons are enzyme inhibitors. An enzyme's activity decreases markedly outside its optimal temperature and pH, and many enzymes are (permanently) denatured when exposed to excessive heat, losing their structure and catalytic properties.
+
+(ref:activen) [Example of an enzyme-catalysed exothermic reaction](https://commons.wikimedia.org/wiki/File:Activation2_updated.svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/bioenergetics/Activation2_updated.svg" alt="(ref:activen)" width="70%" />
+<p class="caption">(\#fig:activationenergy)(ref:activen)</p>
+</div>
 
 Some enzymes are used commercially, for example, in the synthesis of antibiotics. Some household products use enzymes to speed up chemical reactions: enzymes in biological washing powders break down protein, starch or fat stains on clothes, and enzymes in meat tenderizer break down proteins into smaller molecules, making the meat easier to chew.
 
@@ -202,7 +236,7 @@ The biochemical identity of enzymes was still unknown in the early 1900s. Many s
 The discovery that enzymes could be crystallized eventually allowed their structures to be solved by x-ray crystallography. This was first done for lysozyme, an enzyme found in tears, saliva and egg whites that digests the coating of some bacteria; the structure was solved by a group led by David Chilton Phillips and published in 1965. This high-resolution structure of lysozyme marked the beginning of the field of structural biology and the effort to understand how enzymes work at an atomic level of detail.
 
 Naming conventions
-An enzyme's name is often derived from its substrate or the chemical reaction it catalyzes, with the word ending in -ase.:8.1.3 Examples are lactase, alcohol dehydrogenase and DNA polymerase. Different enzymes that catalyze the same chemical reaction are called isozymes.:10.3
+An enzyme's name is often derived from its substrate or the chemical reaction it catalyzes, with the word ending in -ase. Examples are lactase, alcohol dehydrogenase and DNA polymerase. Different enzymes that catalyze the same chemical reaction are called isozymes.:10.3
 
 Enzymes are generally globular proteins, acting alone or in larger complexes. The sequence of the amino acids specifies the structure which in turn determines the catalytic activity of the enzyme. Although structure determines function, a novel enzymatic activity cannot yet be predicted from structure alone. Enzyme structures unfold (denature) when heated or exposed to chemical denaturants and this disruption to the structure typically causes a loss of activity. Enzyme denaturation is normally linked to temperatures above a species' normal level; as a result, enzymes from bacteria living in volcanic environments such as hot springs are prized by industrial users for their ability to function at high temperatures, allowing enzyme-catalysed reactions to be operated at a very high rate.
 
@@ -210,17 +244,15 @@ Enzymes are usually much larger than their substrates. Sizes range from just 62 
 
 In some enzymes, no amino acids are directly involved in catalysis; instead, the enzyme contains sites to bind and orient catalytic cofactors. Enzyme structures may also contain allosteric sites where the binding of a small molecule causes a conformational change that increases or decreases activity.
 
-A small number of RNA-based biological catalysts called ribozymes exist, which again can act alone or in complex with proteins. The most common of these is the ribosome which is a complex of protein and catalytic RNA components.:2.2
+A small number of RNA-based biological catalysts called ribozymes exist, which again can act alone or in complex with proteins. The most common of these is the ribosome which is a complex of protein and catalytic RNA components.
 
 Enzymes must bind their substrates before they can catalyse any chemical reaction. Enzymes are usually very specific as to what substrates they bind and then the chemical reaction catalysed. Specificity is achieved by binding pockets with complementary shape, charge and hydrophilic/hydrophobic characteristics to the substrates. Enzymes can therefore distinguish between very similar substrate molecules to be chemoselective, regioselective and stereospecific.
 
-Some of the enzymes showing the highest specificity and accuracy are involved in the copying and expression of the genome. Some of these enzymes have "proof-reading" mechanisms. Here, an enzyme such as DNA polymerase catalyzes a reaction in a first step and then checks that the product is correct in a second step. This two-step process results in average error rates of less than 1 error in 100 million reactions in high-fidelity mammalian polymerases.:5.3.1 Similar proofreading mechanisms are also found in RNA polymerase, aminoacyl tRNA synthetases and ribosomes.
+Some of the enzymes showing the highest specificity and accuracy are involved in the copying and expression of the genome. Some of these enzymes have "proof-reading" mechanisms. Here, an enzyme such as DNA polymerase catalyzes a reaction in a first step and then checks that the product is correct in a second step. This two-step process results in average error rates of less than 1 error in 100 million reactions in high-fidelity mammalian polymerases. Similar proofreading mechanisms are also found in RNA polymerase, aminoacyl tRNA synthetases and ribosomes.
 
 Conversely, some enzymes display enzyme promiscuity, having broad specificity and acting on a range of different physiologically relevant substrates. Many enzymes possess small side activities which arose fortuitously (i.e. neutrally), which may be the starting point for the evolutionary selection of a new function.
 
-Enzyme changes shape by induced fit upon substrate binding to form enzyme-substrate complex. Hexokinase has a large induced fit motion that closes over the substrates adenosine triphosphate and xylose. Binding sites in blue, substrates in black and Mg2+ cofactor in yellow. (PDB: 2E2N​, 2E2Q​)
-
-To explain the observed specificity of enzymes, in 1894 Emil Fischer proposed that both the enzyme and the substrate possess specific complementary geometric shapes that fit exactly into one another. This is often referred to as "the lock and key" model.:8.3.2 This early model explains enzyme specificity, but fails to explain the stabilization of the transition state that enzymes achieve.
+To explain the observed specificity of enzymes, in 1894 Emil Fischer proposed that both the enzyme and the substrate possess specific complementary geometric shapes that fit exactly into one another. This is often referred to as "the lock and key" model. This early model explains enzyme specificity, but fails to explain the stabilization of the transition state that enzymes achieve.
 
 In 1958, Daniel Koshland suggested a modification to the lock and key model: since enzymes are rather flexible structures, the active site is continuously reshaped by interactions with the substrate as the substrate interacts with the enzyme. As a result, the substrate does not simply bind to a rigid active site; the amino acid side-chains that make up the active site are molded into the precise positions that enable the enzyme to perform its catalytic function. In some cases, such as glycosidases, the substrate molecule also changes shape slightly as it enters the active site. The active site continues to change until the substrate is completely bound, at which point the final shape and charge distribution is determined. Induced fit may enhance the fidelity of molecular recognition in the presence of competition and noise via the conformational proofreading mechanism.
 
@@ -240,17 +272,17 @@ Enzymes are not rigid, static structures; instead they have complex internal dyn
 
 Substrate presentation is a process where the enzyme is sequestered away from its substrate. Enzymes can be sequestered to the plasma membrane away from a substrate in the nucleus or cytosol. Or within the membrane, an enzyme can be sequestered into lipid rafts away from its substrate in the disordered region. When the enzyme is releases it mixes with its substrate. Alternatively, the enzyme can be sequestered near its substrate to activate the enzyme. For example, the enzyme can be soluble and upon activation bind to a lipid in the plasma membrane and then act upon molecules in the plasma membrane.
 
-## Allosteric Modulation
+### Allosteric Modulation
 
 Allosteric sites are pockets on the enzyme, distinct from the active site, that bind to molecules in the cellular environment. These molecules then cause a change in the conformation or dynamics of the enzyme that is transduced to the active site and thus affects the reaction rate of the enzyme. In this way, allosteric interactions can either inhibit or activate enzymes. Allosteric interactions with metabolites upstream or downstream in an enzyme's metabolic pathway cause feedback regulation, altering the activity of the enzyme according to the flux through the rest of the pathway.
 
-## Cofactors of Enzymes and Coenzymes
+### Cofactors of Enzymes and Coenzymes
 
 Some enzymes do not need additional components to show full activity. Others require non-protein molecules called cofactors to be bound for activity. Cofactors can be either inorganic (e.g., metal ions and iron-sulfur clusters) or organic compounds (e.g., flavin and heme). These cofactors serve many purposes; for instance, metal ions can help in stabilizing nucleophilic species within the active site. Organic cofactors can be either coenzymes, which are released from the enzyme's active site during the reaction, or prosthetic groups, which are tightly bound to an enzyme. Organic prosthetic groups can be covalently bound (e.g., biotin in enzymes such as pyruvate carboxylase).
 
-An example of an enzyme that contains a cofactor is carbonic anhydrase, which uses a zinc cofactor bound as part of its active site. These tightly bound ions or molecules are usually found in the active site and are involved in catalysis.:8.1.1 For example, flavin and heme cofactors are often involved in redox reactions.:17
+An example of an enzyme that contains a cofactor is carbonic anhydrase, which uses a zinc cofactor bound as part of its active site. These tightly bound ions or molecules are usually found in the active site and are involved in catalysis. For example, flavin and heme cofactors are often involved in redox reactions.
 
-Enzymes that require a cofactor but do not have one bound are called apoenzymes or apoproteins. An enzyme together with the cofactor(s) required for activity is called a holoenzyme (or haloenzyme). The term holoenzyme can also be applied to enzymes that contain multiple protein subunits, such as the DNA polymerases; here the holoenzyme is the complete complex containing all the subunits needed for activity.:8.1.1
+Enzymes that require a cofactor but do not have one bound are called apoenzymes or apoproteins. An enzyme together with the cofactor(s) required for activity is called a holoenzyme (or haloenzyme). The term holoenzyme can also be applied to enzymes that contain multiple protein subunits, such as the DNA polymerases; here the holoenzyme is the complete complex containing all the subunits needed for activity.
 
 Coenzymes are small organic molecules that can be loosely or tightly bound to an enzyme. Coenzymes transport chemical groups from one enzyme to another. Examples include NADH, NADPH and adenosine triphosphate (ATP). Some coenzymes, such as flavin mononucleotide (FMN), flavin adenine dinucleotide (FAD), thiamine pyrophosphate (TPP), and tetrahydrofolate (THF), are derived from vitamins. These coenzymes cannot be synthesized by the body de novo and closely related compounds (vitamins) must be acquired from the diet. The chemical groups carried include:
 
@@ -264,13 +296,13 @@ Since coenzymes are chemically changed as a consequence of enzyme action, it is 
 
 Coenzymes are usually continuously regenerated and their concentrations maintained at a steady level inside the cell. For example, NADPH is regenerated through the pentose phosphate pathway and S-adenosylmethionine by methionine adenosyltransferase. This continuous regeneration means that small amounts of coenzymes can be used very intensively. For example, the human body turns over its own weight in ATP each day.
 
-## Inhibition of Enzymes
+### Inhibition of Enzymes
 
 An enzyme binding site that would normally bind substrate can alternatively bind a competitive inhibitor, preventing substrate access. Dihydrofolate reductase is inhibited by methotrexate which prevents binding of its substrate, folic acid. Binding site in blue, inhibitor in green, and substrate in black. (PDB: 4QI9​)
 Two dimensional representations of the chemical structure of folic acid and methotrexate highlighting the differences between these two substances (amidation of pyrimidone and methylation of secondary amine).
 The coenzyme folic acid (left) and the anti-cancer drug methotrexate (right) are very similar in structure (differences show in green). As a result, methotrexate is a competitive inhibitor of many enzymes that use folates.
 Main article: Enzyme inhibitor
-Enzyme reaction rates can be decreased by various types of enzyme inhibitors.:73–74
+Enzyme reaction rates can be decreased by various types of enzyme inhibitors.
 
 A competitive inhibitor and substrate cannot bind to the enzyme at the same time. Often competitive inhibitors strongly resemble the real substrate of the enzyme. For example, the drug methotrexate is a competitive inhibitor of the enzyme dihydrofolate reductase, which catalyzes the reduction of dihydrofolate to tetrahydrofolate. The similarity between the structures of dihydrofolate and this drug are shown in the accompanying figure. This type of inhibition can be overcome with high substrate concentration. In some cases, the inhibitor can bind to a site other than the binding-site of the usual substrate and exert an allosteric effect to change the shape of the usual binding-site.
 
@@ -286,7 +318,7 @@ In many organisms, inhibitors may act as part of a feedback mechanism. If an enz
 
 Since inhibitors modulate the function of enzymes they are often used as drugs. Many such drugs are reversible competitive inhibitors that resemble the enzyme's native substrate, similar to methotrexate above; other well-known examples include statins used to treat high cholesterol, and protease inhibitors used to treat retroviral infections such as HIV. A common example of an irreversible inhibitor that is used as a drug is aspirin, which inhibits the COX-1 and COX-2 enzymes that produce the inflammation messenger prostaglandin. Other enzyme inhibitors are poisons. For example, the poison cyanide is an irreversible enzyme inhibitor that combines with the copper and iron in the active site of the enzyme cytochrome c oxidase and blocks cellular respiration.
 
-## Factors Affecting Enzyme Activity
+### Factors Affecting Enzyme Activity
 
 As enzymes are made up of proteins, their actions are sensitive to change in many physio chemical factors such as pH, temperature, substrate concentration, etc.
 
@@ -294,23 +326,23 @@ Enzymes serve a wide variety of functions inside living organisms. They are indi
 
 An important function of enzymes is in the digestive systems of animals. Enzymes such as amylases and proteases break down large molecules (starch or proteins, respectively) into smaller ones, so they can be absorbed by the intestines. Starch molecules, for example, are too large to be absorbed from the intestine, but enzymes hydrolyze the starch chains into smaller molecules such as maltose and eventually glucose, which can then be absorbed. Different enzymes digest different food substances. In ruminants, which have herbivorous diets, microorganisms in the gut produce another enzyme, cellulase, to break down the cellulose cell walls of plant fiber.
 
-Several enzymes can work together in a specific order, creating metabolic pathways.:30.1 In a metabolic pathway, one enzyme takes the product of another enzyme as a substrate. After the catalytic reaction, the product is then passed on to another enzyme. Sometimes more than one enzyme can catalyze the same reaction in parallel; this can allow more complex regulation: with, for example, a low constant activity provided by one enzyme but an inducible high activity from a second enzyme.
+Several enzymes can work together in a specific order, creating metabolic pathways. In a metabolic pathway, one enzyme takes the product of another enzyme as a substrate. After the catalytic reaction, the product is then passed on to another enzyme. Sometimes more than one enzyme can catalyze the same reaction in parallel; this can allow more complex regulation with, for example, a low constant activity provided by one enzyme but an inducible high activity from a second enzyme.
 
-Enzymes determine what steps occur in these pathways. Without enzymes, metabolism would neither progress through the same steps and could not be regulated to serve the needs of the cell. Most central metabolic pathways are regulated at a few key steps, typically through enzymes whose activity involves the hydrolysis of ATP. Because this reaction releases so much energy, other reactions that are thermodynamically unfavorable can be coupled to ATP hydrolysis, driving the overall series of linked metabolic reactions.:30.1
+Enzymes determine what steps occur in these pathways. Without enzymes, metabolism would neither progress through the same steps and could not be regulated to serve the needs of the cell. Most central metabolic pathways are regulated at a few key steps, typically through enzymes whose activity involves the hydrolysis of ATP. Because this reaction releases so much energy, other reactions that are thermodynamically unfavorable can be coupled to ATP hydrolysis, driving the overall series of linked metabolic reactions.
 
-## Control of activity
+### Control of activity
 
 There are five main ways that enzyme activity is controlled in the cell.
 
-Enzymes can be either activated or inhibited by other molecules. For example, the end product(s) of a metabolic pathway are often inhibitors for one of the first enzymes of the pathway (usually the first irreversible step, called committed step), thus regulating the amount of end product made by the pathways. Such a regulatory mechanism is called a negative feedback mechanism, because the amount of the end product produced is regulated by its own concentration.:141–48 Negative feedback mechanism can effectively adjust the rate of synthesis of intermediate metabolites according to the demands of the cells. This helps with effective allocations of materials and energy economy, and it prevents the excess manufacture of end products. Like other homeostatic devices, the control of enzymatic action helps to maintain a stable internal environment in living organisms.:141
+Enzymes can be either activated or inhibited by other molecules. For example, the end product(s) of a metabolic pathway are often inhibitors for one of the first enzymes of the pathway (usually the first irreversible step, called committed step), thus regulating the amount of end product made by the pathways. Such a regulatory mechanism is called a negative feedback mechanism, because the amount of the end product produced is regulated by its own concentration. Negative feedback mechanism can effectively adjust the rate of synthesis of intermediate metabolites according to the demands of the cells. This helps with effective allocations of materials and energy economy, and it prevents the excess manufacture of end products. Like other homeostatic devices, the control of enzymatic action helps to maintain a stable internal environment in living organisms.
 
 ### Post-translational Modification
 
-Examples of post-translational modification include phosphorylation, myristoylation and glycosylation.:149–69 For example, in the response to insulin, the phosphorylation of multiple enzymes, including glycogen synthase, helps control the synthesis or degradation of glycogen and allows the cell to respond to changes in blood sugar. Another example of post-translational modification is the cleavage of the polypeptide chain. Chymotrypsin, a digestive protease, is produced in inactive form as chymotrypsinogen in the pancreas and transported in this form to the stomach where it is activated. This stops the enzyme from digesting the pancreas or other tissues before it enters the gut. This type of inactive precursor to an enzyme is known as a zymogen or proenzyme.
+Examples of post-translational modification include phosphorylation, myristoylation and glycosylation. For example, in the response to insulin, the phosphorylation of multiple enzymes, including glycogen synthase, helps control the synthesis or degradation of glycogen and allows the cell to respond to changes in blood sugar. Another example of post-translational modification is the cleavage of the polypeptide chain. Chymotrypsin, a digestive protease, is produced in inactive form as chymotrypsinogen in the pancreas and transported in this form to the stomach where it is activated. This stops the enzyme from digesting the pancreas or other tissues before it enters the gut. This type of inactive precursor to an enzyme is known as a zymogen or proenzyme.
 
 ### Quantity
 
-Enzyme production (transcription and translation of enzyme genes) can be enhanced or diminished by a cell in response to changes in the cell's environment. This form of gene regulation is called enzyme induction. For example, bacteria may become resistant to antibiotics such as penicillin because enzymes called beta-lactamases are induced that hydrolyse the crucial beta-lactam ring within the penicillin molecule. Another example comes from enzymes in the liver called cytochrome P450 oxidases, which are important in drug metabolism. Induction or inhibition of these enzymes can cause drug interactions. Enzyme levels can also be regulated by changing the rate of enzyme degradation.:30.1.1 The opposite of enzyme induction is enzyme repression.
+Enzyme production (transcription and translation of enzyme genes) can be enhanced or diminished by a cell in response to changes in the cell's environment. This form of gene regulation is called enzyme induction. For example, bacteria may become resistant to antibiotics such as penicillin because enzymes called beta-lactamases are induced that hydrolyse the crucial beta-lactam ring within the penicillin molecule. Another example comes from enzymes in the liver called cytochrome P450 oxidases, which are important in drug metabolism. Induction or inhibition of these enzymes can cause drug interactions. Enzyme levels can also be regulated by changing the rate of enzyme degradation. The opposite of enzyme induction is enzyme repression.
 
 ### Subcellular Distribution
 
@@ -335,5 +367,3 @@ Inorganic elements play critical roles in metabolism; some are abundant (e.g. so
 The abundant inorganic elements act as electrolytes. The most important ions are sodium, potassium, calcium, magnesium, chloride, phosphate and the organic ion bicarbonate. The maintenance of precise ion gradients across cell membranes maintains osmotic pressure and pH. Ions are also critical for nerve and muscle function, as action potentials in these tissues are produced by the exchange of electrolytes between the extracellular fluid and the cell's fluid, the cytosol. Electrolytes enter and leave cells through proteins in the cell membrane called ion channels. For example, muscle contraction depends upon the movement of calcium, sodium and potassium through ion channels in the cell membrane and T-tubules.
 
 Transition metals are usually present as trace elements in organisms, with zinc and iron being most abundant of those. These metals are used in some proteins as cofactors and are essential for the activity of enzymes such as catalase and oxygen-carrier proteins such as hemoglobin Metal cofactors are bound tightly to specific sites in proteins; although enzyme cofactors can be modified during catalysis, they always return to their original state by the end of the reaction catalyzed. Metal micronutrients are taken up into organisms by specific transporters and bind to storage proteins such as ferritin or metallothionein when not in use.
-
-

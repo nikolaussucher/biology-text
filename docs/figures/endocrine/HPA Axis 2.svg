@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="725" height="665" viewBox="0 0 725 665" version="1.1">
+	<title>HPA Axis</title>
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title>HPA Axis</dc:title>
+				<dc:description>Basic hypothalamic–pituitary–adrenal axis summary. Based on the PNG version by BrianMSweis 27 December 2012, 10:45:23.</dc:description>
+				<dc:source rdf:resource="https://commons.wikimedia.org/wiki/File:HPA_Axis_Diagram_(Brian_M_Sweis_2012).png"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:language>en</dc:language>
+				<dc:date>2016-11-18</dc:date>
+				<dc:creator rdf:resource="https://commons.wikimedia.org/wiki/User:ShelleyAdams"/>
+				<dc:contributor rdf:resource="https://commons.wikimedia.org/wiki/User:BrianMSweis"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+	<defs>
+		<filter id="shadow">
+			<feGaussianBlur in="SourceAlpha" stdDeviation="2" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" intercept="0"/>
+      </feComponentTransfer>
+			<feOffset dx="0" dy="2"/>
+			<feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+			</feMerge>
+		</filter>
+		<linearGradient id="fillGradient" gradientUnits="objectBoundingBox" x1="0.5" y1="0" x2="0.5" y2="1">
+			<stop offset="0" stop-color="#acf"/>
+			<stop offset="0.5" stop-color="#7ae"/>
+			<stop offset="1" stop-color="#59d"/>
+		</linearGradient>
+		<marker id="Arrow" refX="3.440741264" refY="2.197837761" viewBox="0 0 4.392857143 4.395675521" markerWidth="4.392857143" markerHeight="4.395675521" orient="auto">
+			<path d="M 0.5,0.5 L 3.440741264,2.197837761 L 0.5,3.895675522" style="fill:none;stroke:#6c3;stroke-width:1;stroke-linejoin:miter;stroke-linecap:round"/>
+		</marker>
+		<marker id="Tee" refX="0.5" refY="14.5" viewBox="0 0 1 29" markerWidth="1" markerHeight="29" orient="auto">
+			<rect x="0" y="0" width="1" height="29" style="fill:#f00"/>
+		</marker>
+	</defs>
+	<g id="drawing" style="font-family:Arial,Arimo,'Liberation Sans',sans-serif;font-weight:bold;">
+		<text x="10" y="613" style="font-size:61px;fill:#000;">HPA Axis</text>
+		<g id="hypothalamus">
+			<title>Hypothalamus</title>
+			<g id="CRH">
+				<title>Corticotropin Releasing Hormone</title>
+				<path d="M 134,130 L 276,272" style="fill:none;stroke:#6c3;stroke-width:7;stroke-linecap:round;marker-end:url(#Arrow);filter:url(#shadow)"/>
+				<text x="200.5" y="285" style="font-size:14px;fill:#00f;text-anchor:middle;text-align:center;"><tspan x="200.5" dy="0">Corticotropin</tspan><tspan x="200.5" dy="16">Releasing</tspan><tspan x="200.5" dy="16">Hormone</tspan></text>
+				<text x="252" y="227" style="font-size:23.5px;fill:#00f">CRH</text>
+			</g>
+			<circle cx="134" cy="130" r="126" style="fill:url(#fillGradient);stroke:#6c3;stroke-width:7;filter:url(#shadow)"/>
+			<text x="134" y="141" style="font-size:29px;fill:#000;text-anchor:middle;text-align:center;">Hypothalamus</text>
+		</g>
+		<g id="pituitary">
+			<title>Anterior Pituitary</title>
+			<g id="ACTH">
+				<title>Adrenocorticotropic Hormone</title>
+				<path d="M 365,361 L 486,482" style="fill:none;stroke:#6c3;stroke-width:7;stroke-linecap:round;marker-end:url(#Arrow);filter:url(#shadow)"/>
+				<text x="398" y="497" style="font-size:14px;fill:#00f;text-anchor:middle;text-align:center;"><tspan x="398" dy="0">Adrenocorticotropic</tspan><tspan x="398" dy="16">Hormone</tspan></text>
+				<text x="465" y="440" style="font-size:23.5px;fill:#00f">ACTH</text>
+			</g>
+			<circle cx="365" cy="361" r="105" style="fill:url(#fillGradient);stroke:#6c3;stroke-width:7;filter:url(#shadow)"/>
+			<text x="365" y="355" style="font-size:29px;fill:#000;text-anchor:middle;text-align:center;">
+				<tspan x="365" dy="0">Anterior</tspan>
+				<tspan x="365" dy="34">Pituitary</tspan>
+			</text>
+		</g>
+		<g id="adrenal">
+			<title>Adrenal Cortex</title>
+			<g id="CORT">
+				<title>Cortisol</title>
+				<path d="M 554,550 L 654,650" style="fill:none;stroke:#6c3;stroke-width:7;stroke-linecap:round;marker-end:url(#Arrow);filter:url(#shadow)"/>
+				<text x="594.5" y="663" style="font-size:14px;fill:#00f;text-anchor:middle;text-align:center;">Cortisol</text>
+				<text x="639" y="611" style="font-size:23.5px;fill:#00f">CORT</text>
+			</g>
+			<circle cx="554" cy="550" r="84" style="fill:url(#fillGradient);stroke:#6c3;stroke-width:7;filter:url(#shadow)"/>
+			<text x="554" y="544" style="font-size:29px;fill:#000;text-anchor:middle;text-align:center;">
+				<tspan x="554" dy="0">Adrenal</tspan>
+				<tspan x="554" dy="34">Cortex</tspan>
+			</text>
+		</g>
+		<g id="feedback">
+			<title>Negative Feedback</title>
+			<path d="M 291.700116959,56.110543693 A 294,273 0 0,1 722,298 L 722,416.5" style="fill:none;stroke:#f00;stroke-width:1;marker-start:url(#Tee)"/>
+			<path d="M 460.315644116,277.046633376 A 168,168 0 0,1 722,416.5 L 722,431 C 722,496 698,573 698,573" style="fill:none;stroke:#f00;stroke-width:1;marker-start:url(#Tee)"/>
+			<text x="550" y="157" style="font-size:17.5px;fill:#f00;text-anchor:middle;text-align:center;">Negative Feedback</text>
+		</g>
+	</g>
+</svg>

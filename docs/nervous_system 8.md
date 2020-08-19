@@ -1,6 +1,4 @@
-# The Nervous System 
-
-## Introduction
+# Nervous Systems
 
 The nervous system is a highly complex part of an animal that coordinates its actions and sensory information by transmitting signals to and from different parts of its body. The nervous system detects environmental changes that impact the body, then works in tandem with the endocrine system to respond to such events.
 
@@ -299,13 +297,6 @@ There are different internal structural characteristics between axons and dendri
 
 Neurons vary in shape and size and can be classified by their morphology and function. The anatomist [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi) grouped neurons into two types; type I with long axons used to move signals over long distances and type II with short axons, which can often be confused with dendrites. Type I cells can be further classified by the location of the soma. The basic morphology of type I neurons, represented by spinal motor neurons, consists of a cell body called the soma and a long thin axon covered by a myelin sheath.
 
-(ref:myelin) A Golgi type I neuron from the electric lobe in the brain of the electric ray (*Torpedo*). A single, thick axon emerges from the cell body unmyelinated (middle, left) but becomes surrounded by a think layer of myelin (dark grey).  Multiple, thin dendrites emerge from the remainder of the cell body. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
-
-<div class="figure" style="text-align: center">
-<img src="./figures/cells/CajalMyelinAxon.jpg" alt="(ref:myelin)" width="70%" />
-<p class="caption">(\#fig:axonmyelinated)(ref:myelin)</p>
-</div>
-
 The dendritic tree wraps around the cell body and receives signals from other neurons. The end of the axon has branching terminals (axon terminal) that release neurotransmitters into a gap called the synaptic cleft between the terminals and the dendrites of the next neuron.
 
 Most neurons can be anatomically characterized as:
@@ -327,20 +318,6 @@ Most neurons can be anatomically characterized as:
 <p class="caption">(\#fig:neurontypes)(ref:neurons)</p>
 </div>
 
-Some unique neuronal types can be identified according to their location in the nervous system and distinct shape. Some examples are:
-
-* Basket cells, interneurons that form a dense plexus of terminals around the soma of target cells, found in the cortex and cerebellum
-* Betz cells, large motor neurons
-* Lugaro cells, interneurons of the cerebellum
-* Medium spiny neurons, most neurons in the corpus striatum
-* Purkinje cells, huge neurons in the cerebellum, a type of Golgi I multipolar neuron
-* Pyramidal cells, neurons with triangular soma, a type of Golgi I
-* Renshaw cells, neurons with both ends linked to alpha motor neurons
-* Unipolar brush cells, interneurons with unique dendrite ending in a brush-like tuft
-* Granule cells, a type of Golgi II neuron
-* Anterior horn cells, motoneurons located in the spinal cord
-* Spindle cells, interneurons that connect widely separated areas of the brain
-
 Neurons can also be characterized based on various aspects of their function:
 
 * Afferent neurons convey information from tissues and organs into the central nervous system and are also called sensory neurons.
@@ -349,12 +326,6 @@ Neurons can also be characterized based on various aspects of their function:
 Afferent and efferent also refer generally to neurons that, respectively, bring information to or send information from the brain.
 
 The axons of neurons in the human peripheral nervous system can be classified based on their physical features and signal conduction properties. Axons were known to have different thicknesses (from 0.1 to 20 µm) and these differences were thought to relate to the speed at which an action potential could travel along the axon – its conductance velocity. Erlanger and Gasser proved this hypothesis, and identified several types of nerve fiber, establishing a relationship between the diameter of an axon and its nerve conduction velocity. They published their findings in 1941 giving the first classification of axons.
-
-Neurons have intrinsic electroresponsive properties like intrinsic transmembrane voltage oscillatory patterns. So neurons can be classified according to their electrophysiological characteristics:
-
-* Tonic or regular spiking. Some neurons are typically constantly (tonically) active, typically firing at a constant frequency. Example: interneurons in neurostriatum.
-* Phasic or bursting. Neurons that fire in bursts are called phasic.
-* Fast spiking. Some neurons are notable for their high firing rates, for example some types of cortical inhibitory interneurons, cells in globus pallidus, retinal ganglion cells.
 
 Neurons communicate with each another via synapses, where either the axon terminal of one cell contacts another neuron's dendrite, soma or, less commonly, axon. Neurons such as Purkinje cells in the cerebellum can have over 1000 dendritic branches, making connections with tens of thousands of other cells; other neurons, such as the magnocellular neurons of the supraoptic nucleus, have only one or two dendrites, each of which receives thousands of synapses.
 
@@ -374,12 +345,11 @@ Neurons can also be classified based on the neurotransmitter they release at syn
 
 * Cholinergic neurons—acetylcholine. Acetylcholine is released from presynaptic neurons into the synaptic cleft. It acts as a ligand for both ligand-gated ion channels and metabotropic (GPCRs) muscarinic receptors. Nicotinic receptors are pentameric ligand-gated ion channels composed of alpha and beta subunits that bind nicotine. Ligand binding opens the channel causing influx of Na^+^ depolarization and increases the probability of presynaptic neurotransmitter release. Acetylcholine is synthesized from choline and acetyl coenzyme A.
 * GABAergic neurons—gamma aminobutyric acid. GABA is one of two neuroinhibitors in the central nervous system (CNS), along with glycine. GABA has a homologous function to ACh, gating anion channels that allow Cl^−^ ions to enter the post synaptic neuron. Cl^−^ causes hyperpolarization within the neuron, decreasing the probability of an action potential firing as the voltage becomes more negative (for an action potential to fire, a positive voltage threshold must be reached). GABA is synthesized from glutamate by the enzyme glutamate decarboxylase.
-* Glutamatergic neurons—glutamate. Glutamate is one of two primary excitatory amino acid neurotransmitters, along with aspartate. Glutamate can cause excitotoxicity when blood flow to the brain is interrupted, resulting in brain damage. When blood flow is suppressed, glutamate is released from presynaptic neurons, causing abnormal NMDA and AMPA receptor activation, leading to elevated Ca^2+^ and Na^+^ entering the post synaptic neuron and cell damage. Glutamate is synthesized from the amino acid glutamine by the enzyme glutamate synthase. There are three main types of ionotropic glutamate receptors and three groups of metabotropic (G-protein coupled) receptors:
-  * AMPA (α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid) receptors  are composed of four types of subunits encoded by different genes, designated as GRIA1 (also named GluA1 or GluR1), GRIA2 (also named GluA2 or GluR2), GRIA3 (Also named GluA3 or GluR3), and GRIA4 (also called GluA4 or GluRA-D2 ), which combine to form tetramers. Most AMPARs are heterotetrameric, consisting of symmetric 'dimer of dimers' of GluA2 and either GluA1, GluA3 or GluA4. Each AMPAR has four sites to which an agonist (such as glutamate) can bind, one for each subunit. The binding site is believed to be formed by the N-terminal tail and the extracellular loop between transmembrane domains three and four. When an agonist binds, these two loops move towards each other, opening the pore. The channel opens when two sites are occupied, and increases its current as more binding sites are occupied. Once open, the channel may undergo rapid desensitization, stopping the current. The mechanism of desensitization is believed to be due to a small change in angle of one of the parts of the binding site, closing the pore. AMPARs open and close quickly (1ms), and are thus responsible for most of the fast excitatory synaptic transmission in the central nervous system. The AMPAR's permeability to calcium and other cations, such as sodium and potassium, is governed by the GluA2 subunit. If an AMPAR lacks a GluA2 subunit, then it will be permeable to sodium, potassium, and calcium. The presence of a GluA2 subunit will almost always render the channel impermeable to calcium. This is determined by post-transcriptional modification — RNA editing — of the Q-to-R editing site of the GluA2 mRNA. Here, A→I editing alters the uncharged amino acid glutamine (Q) to the positively charged arginine (R) in the receptor's ion channel. The positively charged amino acid at the critical point makes it energetically unfavourable for calcium to enter the cell through the pore. Almost all of the GluA2 subunits in CNS are edited to the GluA2(R) form. This means that the principal ions gated by AMPARs are sodium and potassium, distinguishing AMPARs from NMDA receptors (the other main ionotropic glutamate receptors in the brain), which also permit calcium influx.
-  * Kainate receptors were first identified as a distinct glutamate receptor type through their selective activation by the agonist kainate, a drug first isolated from the red alga *Digenea simplex*. There are five types of kainate receptor subunits, GluR5 (GRIK1), GluR6 (GRIK2), GluR7 (GRIK3), KA1 (GRIK4) and KA2 (GRIK5), which are similar to AMPA and NMDA receptor subunits and can be arranged in different ways to form a tetramer, a four subunit receptor. GluR5-7 can form homomers (ex. a receptor composed entirely of GluR5) and heteromers (ex. a receptor composed of both GluR5 and GluR6), however, KA1 and KA2 can only form functional receptors by combining with one of the GluR5-7 subunits. Since 2009 the kainate receptor subunits have been renamed to correspond with their gene name. Hence GluR5-7 are now GluK1-3 and KA1 and KA2 are GluK4 and GluK5 respectively.The ion channel formed by kainate receptors is permeable to sodium and potassium ions. The single channel conductance of kainate receptor channels is similar to that of AMPA channels, at about 20 pS. However, rise and decay times for postsynaptic potentials generated by KARs are slower than for AMPA postsynaptic potentials. Their permeability to Ca2+ is usually very slight but varies with subunits and RNA editing at the tip of the p loop.
-  * NMDA receptors are activated when glycine and glutamate bind to it. The receptor is a heteromeric complex that interacts with multiple intracellular proteins by three different subunits: GluN1, GluN2 and GluN3. GluN1 has eight different isoforms due to alternative splicing of the gene GRIN1. There are four different GluN2 subunits (A-D) and two different Glun3 subunits (A and B). Six separate genes encode for GluN2 and GluN3. All the subunits share a common membrane topology that is dominated by a large extracellular N-terminus, a membrane region comprising three transmembrane segments, a re-entrant pore loop, an extracellular loop between the transmembrane segments that are structurally not well known, and an intracellular C-terminus, which are different in size depending on the subunit and provide multiple sites of interaction with many intracellular proteins.Mg2+ blocks the NMDA receptor channel in a voltage-dependent manner. The channels are also highly permeable to Ca2+. Activation of the receptor depends on glutamate binding, D-serine or glycine binding at its GluN1-linked binding site and  AMPA receptor-mediated depolarization of the postsynaptic membrane, which relieves the voltage-dependent channel block by Mg2+. Activation and opening of the receptor channel thus allows the flow of K+, Na+ and Ca2+ ions, and the influx of Ca2+ triggers intracellular signaling pathways. Allosteric receptor binding sites for zinc, proteins and the polyamines spermidine and spermine are also modulators for the NMDA receptor channels.The activity of the NMDA receptor is affected by many psychoactive drugs such as phencyclidine (PCP), alcohol (ethanol) and dextromethorphan (DXM). 
-  * Metabotropic glutamate receptors are members of the group C family of G-protein-coupled receptors (GPCRs). 
-Eight different types of mGluRs, labeled mGluR1 to mGluR8 (GRM1 to GRM8), are divided into groups I, II, and III. Receptor types are grouped based on receptor structure and physiological activity. The mGluRs are further divided into subtypes, such as mGluR7a and mGluR7b.The mGluRs perform a variety of functions in the central and peripheral nervous systems: For example, they are involved in learning, memory, anxiety, and the perception of pain. They are found in pre- and postsynaptic neurons in synapses of retina, the hippocampus, cerebellum, and the cerebral cortex, as well as other parts of the brain and in peripheral tissues.
+* Glutamatergic neurons—glutamate. Glutamate is one of two primary excitatory amino acid neurotransmitters, along with aspartate. Glutamate can cause excitotoxicity when blood flow to the brain is interrupted, resulting in brain damage. When blood flow is suppressed, glutamate is released from presynaptic neurons, causing abnormal NMDA and AMPA receptor activation, leading to elevated Ca^2+^ and Na^+^ entering the post synaptic neuron and cell damage. Glutamate is synthesized from the amino acid glutamine by the enzyme glutamate synthase. There are three main types of ionotropic glutamate receptors 
+  * AMPA (α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid) receptors
+  * Kainate receptors
+  * NMDA receptors
+and three groups of metabotropic (G-protein coupled) receptors.
 * Dopaminergic neurons—dopamine. Dopamine is a neurotransmitter that acts on D1 type (D1 and D5) Gs-coupled receptors, which stimulate the production of cAMP which stimulates protein kinase A (PKA), and D2 type (D2, D3, and D4) receptors, which activate Gi-coupled receptors that decrease cAMP and PKA. Dopamine is connected to mood and behavior and modulates both pre- and post-synaptic neurotransmission. Loss of dopamine neurons in the substantia nigra has been linked to Parkinson's disease. Dopamine is synthesized from the amino acid tyrosine. Tyrosine is converted into levadopa (or L-DOPA) by tyrosine hydroxlase, and levadopa is then converted into dopamine by the aromatic amino acid decarboxylase.
 * Serotonergic neurons—serotonin. Serotonin (5-hydroxytryptamine, 5-HT) can act as excitatory or inhibitory. Of its four 5-HT receptor classes, 3 are GPCR and 1 is a ligand-gated cation channel. Serotonin is synthesized from tryptophan by tryptophan hydroxylase, and then further by decarboxylase. A lack of 5-HT at postsynaptic neurons has been linked to depression. Drugs that block the presynaptic serotonin transporter are used for treatment, such as Prozac and Zoloft.
 
@@ -416,69 +386,6 @@ Astrocytes are crucial participants in the tripartite synapse. They have several
 
 Oligodendrocytes are found in the CNS and resemble an octopus: they have bulbous cell bodies with up to fifteen arm-like processes. Each "arm" reaches out to a nerve fiber and spirals around it, creating a myelin sheath. The myelin sheath insulates the nerve fiber from the extracellular fluid and speeds up signal conduction along the nerve fiber.
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
-<caption>(\#tab:macroglia)Types of macroglia and their location and function.</caption>
- <thead>
-  <tr>
-   <th style="text-align:left;"> Location </th>
-   <th style="text-align:left;"> Name </th>
-   <th style="text-align:left;"> Description </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;width: 5em; vertical-align: middle !important;" rowspan="7"> CNS </td>
-   <td style="text-align:left;width: 10em; vertical-align: middle !important;" rowspan="4"> Astrocytes </td>
-   <td style="text-align:left;width: 20em; "> The most abundant type of macroglial cell in the CNS, astrocytes (also called astroglia) have numerous projections that link neurons to their blood supply while forming the blood-brain barrier. They regulate the external chemicalenvironment of neurons by removing excess potassium ions, and recycling neurotransmitters released during synaptic transmission. Astrocytes may regulate vasoconstriction and vasodilation by producing substances such as arachidonic acid, whose metabolites are vasoactive. </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 20em; "> Astrocytes signal each other using ATP. The gap junctions (also known as electrical synapses) between astrocytes allow the messenger molecule IP3 to diffuse from one astrocyte to another. IP3 activates calcium channels on cellular organelles, releasing calcium into the cytoplasm. This calcium may stimulate the production of more IP3 and cause release of ATP through channels in the membrane made of pannexins. The net effect is a calcium wave that propagates from cell to cell. Extracellular release of ATP, and consequent activation of purinergic receptors on other astrocytes, may also mediate calcium waves in some cases. </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 20em; "> In general, there are two types of astrocytes, protoplasmic and fibrous, similar in function but distinct in morphology and distribution. Protoplasmic astrocytes have short, thick, highly branched processes and are typically found in gray matter. Fibrous astrocytes have long, thin, less branched processes and are more commonly found in white matter. </td>
-  </tr>
-  <tr>
-   
-   
-   <td style="text-align:left;width: 20em; "> It has recently been shown that astrocyte activity is linked to blood flow in the brain, and that this is what is actually being measured in fMRI. They also have been involved in neuronal circuits playing an inhibitory role after sensing changes in extracellular calcium. </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 10em; "> Oligodendrocytes </td>
-   <td style="text-align:left;width: 20em; "> Oligodendrocytes are cells that coat axons in the central nervous system (CNS) with their cell membrane, forming a specialized membrane differentiation called myelin, producing the myelin sheath. The myelin sheath provides insulation to the axon that allows electrical signals to propagate more efficiently. </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 10em; "> Ependymal cells </td>
-   <td style="text-align:left;width: 20em; "> Ependymal cells, also named ependymocytes, line the spinal cord and the ventricular system of the brain. These cells are involved in the creation and secretion of cerebrospinal fluid (CSF) and beat their cilia to help circulate the CSF and make up the blood-CSF barrier. They are also thought to act as neural stem cells. </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 10em; "> Radial glia </td>
-   <td style="text-align:left;width: 20em; "> Radial glia cells arise from neuroepithelial cells after the onset of neurogenesis. Their differentiation abilities are more restricted than those of neuroepithelial cells. In the developing nervous system, radial glia function both as neuronal progenitors and as a scaffold upon which newborn neurons migrate. In the mature brain, the cerebellum and retina retain characteristic radial glial cells. In the cerebellum, these are Bergmann glia, which regulate synaptic plasticity. In the retina, the radial Müller cell is the glial cell that spans the thickness of the retina and, in addition to astroglial cells,[14] participates in a bidirectional communication with neurons. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 5em; vertical-align: middle !important;" rowspan="3"> PNS </td>
-   <td style="text-align:left;width: 10em; "> Schwann cells </td>
-   <td style="text-align:left;width: 20em; "> Similar in function to oligodendrocytes, Schwann cells provide myelination to axons in the peripheral nervous system(PNS). They also have phagocytotic activity and clear cellular debris that allows for regrowth of PNS neurons. </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 10em; "> Satellite cells </td>
-   <td style="text-align:left;width: 20em; "> Satellite glial cells are small cells that surround neurons in sensory, sympathetic, and parasympathetic ganglia.[17]These cells help regulate the external chemical environment. Like astrocytes, they are interconnected by gap junctions and respond to ATP by elevating intracellular concentration of calcium ions. They are highly sensitive to injury and inflammation, and appear to contribute to pathological states, such as chronic pain. </td>
-  </tr>
-  <tr>
-   
-   <td style="text-align:left;width: 10em; "> Enteric glial cells </td>
-   <td style="text-align:left;width: 20em; "> Are found in the intrinsic ganglia of the digestive system. They are thought to have many roles in the enteric system, some related to homeostasis and muscular digestive processes. </td>
-  </tr>
-</tbody>
-</table>
-
 Microglia are specialized macrophages capable of phagocytosis that protect neurons of the central nervous system. They are derived from the earliest wave of mononuclear cells that originate in yolk sac blood islands early in development, and colonize the brain shortly after the neural precursors begin to differentiate.
 
 These cells are found in all regions of the brain and spinal cord. Microglial cells are small relative to macroglial cells, with changing shapes and oblong nuclei. They are mobile within the brain and multiply when the brain is damaged. In the healthy central nervous system, microglia processes constantly sample all aspects of their environment (neurons, macroglia and blood vessels). In a healthy brain, microglia direct the immune response to brain damage and play an important role in the inflammation that accompanies the damage. Many diseases and disorders are associated with deficient microglia, such as Alzheimer's disease, Parkinson's disease, and ALS.During developmental wiring of the brain, microglial cells play a large role regulating numbers of neural precursor cells and removing apoptotic neurons. There is also evidence that microglia can refine synaptic circuitry by engulfing and eliminating synapses. Post development, the majority of dead or apoptotic cells are found in the cerebral cortex and the subcortical white matter. This may explain why the majority of ameboid microglial cells are found within the "fountains of microglia" in the cerebral cortex.
@@ -503,7 +410,7 @@ Voltage, which is synonymous with difference in electrical potential, is the abi
 
 The same principle applies to voltage in cell biology. In electrically active tissue, the potential difference between any two points can be measured by inserting an electrode at each point, for example one inside and one outside the cell, and connecting both electrodes to the leads of what is in essence a specialized voltmeter. By convention, the zero potential value is assigned to the outside of the cell and the sign of the potential difference between the outside and the inside is determined by the potential of the inside relative to the outside zero.
 
-## Ions And The Forces Driving Their Motion
+### Ions And The Forces Driving Their Motion
 
 Electrical signals within biological organisms are, in general, driven by ions. An ion  is an atom or molecule that has a net electrical charge. Since the charge of the electron (considered negative by convention) is equal and opposite to that of the proton (considered positive by convention), the net charge of an ion is non-zero due to its total number of electrons being unequal to its total number of protons. A cation is a positively charged ion, with fewer electrons than protons, while an anion is negatively charged, with more electrons than protons. Because of their opposite electric charges, cations and anions attract each other and readily form ionic compounds.
 
@@ -513,29 +420,13 @@ The word ion comes from the Greek word ἰόν, ion, "going", the present partic
 
 The most important cations for the action potential are sodium (Na^+^) and potassium (K^+^). Both of these are monovalent cations that carry a single positive charge. Action potentials can also involve calcium (Ca^2+^), which is a divalent cation that carries a double positive charge. The chloride anion (Cl^−^) plays a major role in the action potentials of some algae, but plays a negligible role in the action potentials of most animals.
 
-(ref:ions) : [Radii of some elements as neutral atoms, and cations (red) and anions (blue) derived from those atoms. Radii are given in picometers.](https://commons.wikimedia.org/wiki/File:Atomic_%26_ionic_radii.svg)
-
-<div class="figure" style="text-align: center">
-<img src="./figures/potential/Atomic_and_ionic_radii.svg" alt="(ref:ions)" width="70%" />
-<p class="caption">(\#fig:ionsize)(ref:ions)</p>
-</div>
-
 Ions cross the cell membrane under two influences: diffusion and electric fields. A simple example wherein two solutions—A and B—are separated by a porous barrier illustrates that diffusion will ensure that they will eventually mix into equal solutions. This mixing occurs because of the difference in their concentrations. The region with high concentration will diffuse out toward the region with low concentration. To extend the example, let solution A have 30 sodium ions and 30 chloride ions. Also, let solution B have only 20 sodium ions and 20 chloride ions. Assuming the barrier allows both types of ions to travel through it, then a steady state will be reached whereby both solutions have 25 sodium ions and 25 chloride ions. If, however, the porous barrier is selective to which ions are let through, then diffusion alone will not determine the resulting solution. Returning to the previous example, let's now construct a barrier that is permeable only to sodium ions. Now, only sodium is allowed to diffuse cross the barrier from its higher concentration in solution A to the lower concentration in solution B. This will result in a greater accumulation of sodium ions than chloride ions in solution B and a lesser number of sodium ions than chloride ions in solution A.
 
 This means that there is a net positive charge in solution B from the higher concentration of positively charged sodium ions than negatively charged chloride ions. Likewise, there is a net negative charge in solution A from the greater concentration of negative chloride ions than positive sodium ions. Since opposite charges attract and like charges repel, the ions are now also influenced by electrical fields as well as forces of diffusion. Therefore, positive sodium ions will be less likely to travel to the now-more-positive B solution and remain in the now-more-negative A solution. The point at which the forces of the electric fields completely counteract the force due to diffusion is called the equilibrium potential. At this point, the net flow of the specific ion (in this case sodium) is zero.
 
-## The Plasma Membrane
+### The Plasma Membrane
 
-The cell membrane, also called the plasma membrane or plasmalemma, is a semipermeable lipid bilayer common to all living cells. It contains a variety of biological molecules, primarily proteins and lipids, which are involved in a vast array of cellular processes.
-
-(ref:cellmembr) Picture of a [molecular dynamics simulation](https://doi.org/10.1371/journal.pone.0000880) of a cell membrane/protein complex consisting of bovine [rhodopsin](https://en.wikipedia.org/wiki/Rhodopsin) incorporated of a phosphatidylcholine (1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine, POPC) lipid bylayer. POPC and water molecules are depicted as sticks. The lipid layers facing the extracellular and cytoplasmic spaces are shown in white and blue, respectively. Both the extra- and intracellular interfaces are covered with layers of water. The secondary structure of rhodopsin is depicted in rainbow colored cartoon representation. Potassium and chloride ions are shown as spheres (colored in cyan and green, respectively). Image generated from [PDB file](http://www.charmm-gui.org/archive/complex/1gzm_rect_popc.pdb) obtained from the [CHARMM-GUI Archive - Protein/Membrane Complex Library](http://www.charmm-gui.org/?doc=archive&lib=complex) using the open source molecular visualization tool [PyMol](https://pymol.org/2/).
-
-<div class="figure" style="text-align: center">
-<img src="./figures/potential/cell_membrane_rhodopsin_water_Cl_K.png" alt="(ref:cellmembr)" width="70%" />
-<p class="caption">(\#fig:cellmembrane)(ref:cellmembr)</p>
-</div>
-
-Every animal cell is enclosed in a plasma membrane, which has the structure of a lipid bilayer with many types of large molecules embedded in it. Because it is made of lipid molecules, the plasma membrane intrinsically has a high electrical resistivity, in other words a low intrinsic permeability to ions. However, some of the molecules embedded in the membrane are capable either of actively transporting ions from one side of the membrane to the other or of providing channels through which they can move.
+Because it is made of lipid molecules, the plasma membrane intrinsically has a high electrical resistivity, in other words a low intrinsic permeability to ions. However, some of the molecules embedded in the membrane are capable either of actively transporting ions from one side of the membrane to the other or of providing channels through which they can move.
 
 In electrical terminology, the plasma membrane functions as a combined resistor and capacitor. Resistance arises from the fact that the membrane impedes the movement of charges across it. Capacitance arises from the fact that the lipid bilayer is so thin that an accumulation of charged particles on one side gives rise to an electrical force that pulls oppositely charged particles toward the other side. The capacitance of the membrane is relatively unaffected by the molecules that are embedded in it, so it has a more or less invariant value estimated at about 2 μF/cm^2^ (the total capacitance of a patch of membrane is proportional to its area). The conductance of a pure lipid bilayer is so low, on the other hand, that in biological situations it is always dominated by the conductance of alternative pathways provided by embedded molecules. Thus, the capacitance of the membrane is more or less fixed, but the resistance is highly variable.
 
@@ -543,7 +434,7 @@ The thickness of a plasma membrane is estimated to be about 7-8 nanometers. Beca
 
 The resistance of a pure lipid bilayer to the passage of ions across it is very high, but structures embedded in the membrane can greatly enhance ion movement, either actively or passively, via mechanisms called facilitated transport and facilitated diffusion. The two types of structure that play the largest roles are ion channels and ion pumps, both usually formed from assemblages of protein molecules. Ion channels provide passageways through which ions can move. In most cases, an ion channel is permeable only to specific types of ions (for example, sodium and potassium but not chloride or calcium), and sometimes the permeability varies depending on the direction of ion movement. Ion pumps, also known as ion transporters or carrier proteins, actively transport specific types of ions from one side of the membrane to the other, using energy derived from metabolic processes to do so.
 
-## Ion Pumps
+### Ion Pumps
 
 Ion pumps are integral membrane proteins that carry out active transport, i.e., use cellular energy (ATP) to "pump" the ions against their concentration gradient. Such ion pumps take in ions from one side of the membrane (decreasing its concentration there) and release them on the other side (increasing its concentration there).
 
@@ -564,7 +455,7 @@ Ion pumps influence the action potential only by establishing the relative ratio
 
 Another functionally important ion pump is the sodium-calcium exchanger. This pump operates in a conceptually similar way to the sodium-potassium pump, except that in each cycle it exchanges three Na^+^ from the extracellular space for one Ca^2+^ from the intracellular space. Because the net flow of charge is inward, this pump runs "downhill", in effect, and therefore does not require any energy source except the membrane voltage. Its most important effect is to pump calcium outward—it also allows an inward flow of sodium, thereby counteracting the sodium-potassium pump, but, because overall sodium and potassium concentrations are much higher than calcium concentrations, this effect is relatively unimportant. The net result of the sodium-calcium exchanger is that in the resting state, intracellular calcium concentrations become very low.
 
-## Ion Channels
+### Ion Channels
 
 Ion channels are integral membrane proteins with a pore through which ions can travel between extracellular space and cell interior. Most channels are specific (selective) for one ion; for example, most potassium channels are characterized by 1000:1 selectivity ratio for potassium over sodium, though potassium and sodium ions have the same charge and differ only slightly in their radius. The channel pore is typically so small that ions must pass through it in single-file order. Channel pores can be either open or closed for ion passage, although a number of channels demonstrate various sub-conductance levels. When a channel is open, ions permeate through the channel pore down the transmembrane concentration gradient for that particular ion. Rate of ionic flow through the channel, i.e. single-channel current amplitude, is determined by the maximum channel conductance and electrochemical driving force for that ion, which is the difference between the instantaneous value of the membrane potential and the value of the reversal potential.
 
@@ -647,7 +538,7 @@ The ionotropic glutamate receptors bind the neurotransmitter glutamate. They for
 
 Also called G protein-coupled receptor, seven-transmembrane domain receptor, 7 TM receptor, constitute a large protein family of receptors that sense molecules outside the cell and activate inside signal transduction pathways and, ultimately, cellular responses. They pass through the cell membrane 7 times. G-protein-Linked receptors are a huge family that have hundreds of members identified. Ion-channel-linked receptors (e.g. GABAB, NMDA, etc.) are only a part of them.
 
-## The Reversal Potential
+### The Reversal Potential
 
 The reversal potential (or equilibrium potential) of an ion is the value of transmembrane voltage at which diffusive and electrical forces counterbalance, so that there is no net ion flow across the membrane. This means that the transmembrane voltage exactly opposes the force of diffusion of the ion, such that the net current of the ion across the membrane is zero and unchanging. The reversal potential is important because it corresponds to the voltage that acts on channels permeable to that ion—in other words, it gives the voltage that the ion concentration gradient generates when it acts as a battery.
 
@@ -675,7 +566,7 @@ The most important regulators of cell excitability are the extracellular calcium
 
 Many cell types are considered to have an excitable membrane. Excitable cells are neurons, cardiac myocytes, skeletal myocytes, smooth muscle cells, many types of endothelial cells (e.g. beta cells), glial cells (e.g. astrocytes), mechanoreceptor cells (e.g. hair cells and Merkel cells), chemoreceptor cells (e.g. glomus cells, taste receptors), some plant cells and possibly immune cells. Astrocytes display a form of non-electrical excitability based on intracellular calcium variations related to the expression of several receptors through which they can detect the synaptic signal. In neurons, there are different membrane properties in some portions of the cell, for example, dendritic excitability endows neurons with the capacity for coincidence detection of spatially separated inputs.
 
-## The Resting Potential
+### The Resting Potential
 
 When the membrane potential of a cell goes for a long period of time without changing significantly, it is referred to as a resting potential or resting voltage. This term is used for the membrane potential of non-excitable cells, but also for the membrane potential of excitable cells in the absence of excitation. In excitable cells, the other possible states are graded membrane potentials (of variable amplitude), and action potentials, which are large, all-or-nothing rises in membrane potential that usually follow a fixed time course. Excitable cells include neurons, muscle cells, and some secretory cells in glands. Even in other types of cells, however, the membrane voltage can undergo changes in response to environmental or intracellular stimuli. For example, depolarization of the plasma membrane appears to be an important step in programmed cell death.
 
@@ -693,7 +584,7 @@ Maintenance of the resting potential can be metabolically costly for a cell beca
 
 On the other hand, the high resting potential in undifferentiated cells can be a metabolic advantage. This apparent paradox is resolved by examination of the origin of that resting potential. Little-differentiated cells are characterized by extremely high input resistance, which implies that few leakage channels are present at this stage of cell life. As an apparent result, potassium permeability becomes similar to that for sodium ions, which places resting potential in-between the reversal potentials for sodium and potassium as discussed above. The reduced leakage currents also mean there is little need for active pumping in order to compensate, therefore low metabolic cost.
 
-## The Action Potential
+### The Action Potential
 
 An action potential occurs when the membrane potential of a specific cell location rapidly rises and falls: this depolarisation then causes adjacent locations to similarly depolarise. Action potentials occur in several types of animal cells, called excitable cells, which include neurons, muscle cells, endocrine cells, glomus cells (peripheral chemoreceptor cells mainly located in the carotid and aortic bodies), and in some plant cells.
 
@@ -710,7 +601,7 @@ In animal cells, there are two primary types of action potentials. One type is g
 <p class="caption">(\#fig:actionpotential)(ref:action)</p>
 </div>
 
-## Graded Potentials
+### Graded Potentials
 
 As explained above, the potential at any point in a cell's membrane is determined by the ion concentration differences between the intracellular and extracellular areas, and by the permeability of the membrane to each type of ion. The ion concentrations do not normally change very quickly (with the exception of Ca^2+^, where the baseline intracellular concentration is so low that even a small influx may increase it by orders of magnitude), but the permeabilities of the ions can change in a fraction of a millisecond, as a result of activation of ligand-gated ion channels. The change in membrane potential can be either large or small, depending on how many ion channels are activated and what type they are, and can be either long or short, depending on the lengths of time that the channels remain open. Changes of this type are referred to as graded potentials, in contrast to action potentials, which have a fixed amplitude and time course.
 
@@ -734,3 +625,166 @@ If the driving force is high, then the ion is being "pushed" across the membrane
 So, in a resting membrane, while the driving force for potassium is low, its permeability is very high. Sodium has a huge driving force but almost no resting permeability. In this case, potassium carries about 20 times more current than sodium, and thus has 20 times more influence over E~m~ than does sodium.
 
 However, consider another case—the peak of the action potential. Here, permeability to Na is high and K permeability is relatively low. Thus, the membrane moves to near E~Na~ and far from E~K~.
+
+## Neurotransmission
+
+Neurotransmission (Latin: transmissio "passage, crossing" from transmittere "send, let through") is the process by which signaling molecules called neurotransmitters are released by the axon terminal of a neuron (the presynaptic neuron), and bind to and react with the receptors on the dendrites of another neuron (the postsynaptic neuron) a short distance away. 
+
+Neurotransmission is regulated by several different factors: the availability and rate-of-synthesis of the neurotransmitter, the release of that neurotransmitter, the baseline activity of the postsynaptic cell, the number of available postsynaptic receptors for the neurotransmitter to bind to, and the subsequent removal or deactivation of the neurotransmitter by enzymes or presynaptic reuptake.
+
+In response to a threshold action potential or graded electrical potential, a neurotransmitter is released at the presynaptic terminal. The released neurotransmitter may then move across the synaptic cleft to bind to receptors in the postsynaptic neuron. Binding of neurotransmitters may influence the postsynaptic neuron in either an inhibitory or excitatory way. The binding of neurotransmitters to receptors in the postsynaptic neuron can trigger either short term changes, such as changes in the membrane potential called postsynaptic potentials, or longer term changes by the activation of signaling cascades.
+
+Neurons form complex biological neural networks through which nerve impulses (action potentials) travel. Neurons do not touch each other (except in the case of an electrical synapse through a gap junction); instead, neurons interact at close contact points called synapses. When the nerve impulse arrives at the synapse, it may cause the release of neurotransmitters, which influence another (postsynaptic) neuron. The postsynaptic neuron may receive inputs from many additional neurons, both excitatory and inhibitory. The excitatory and inhibitory influences are summed, and if the net effect is inhibitory, the neuron will be less likely to "fire" (i.e., generate an action potential), and if the net effect is excitatory, the neuron will be more likely to fire. How likely a neuron is to fire depends on how far its membrane potential is from the threshold potential, the voltage at which an action potential is triggered because enough voltage-dependent sodium channels are activated so that the net inward sodium current exceeds all outward currents. Excitatory inputs bring a neuron closer to threshold, while inhibitory inputs bring the neuron farther from threshold. An action potential is an "all-or-none" event; neurons whose membranes have not reached threshold will not fire, while those that do must fire. Once the action potential is initiated (traditionally at the axon hillock), it will propagate along the axon, leading to release of neurotransmitters at the synaptic bouton to pass along information to yet another adjacent neuron.
+
+Stages in neurotransmission at the synapse
+
+* Synthesis of the neurotransmitter. This can take place in the cell body, in the axon, or in the axon terminal.
+* Storage of the neurotransmitter in storage granules or vesicles in the axon terminal.
+* Calcium enters the axon terminal during an action potential, causing release of the neurotransmitter into the synaptic cleft.
+* After its release, the transmitter binds to and activates a receptor in the postsynaptic membrane.
+* Deactivation of the neurotransmitter. The neurotransmitter is either destroyed enzymatically, or taken back into the terminal from which it came, where it can be reused, or degraded and removed.
+
+### The Synapse 
+
+In the nervous system, a synapse is a structure that permits a neuron (or nerve cell) to pass an electrical or chemical signal to another neuron or to the target effector cell.
+
+Santiago Ramón y Cajal proposed that neurons are not continuous throughout the body, yet still communicate with each other, an idea known as the neuron doctrine. The word "synapse" – from the Greek synapsis (συνάψις), meaning "conjunction", in turn from συνάπτεὶν (συν ("together") and ἅπτειν ("to fasten")) – was introduced in 1897 by the English neurophysiologist [Charles Sherrington](https://en.wikipedia.org/wiki/Charles_Scott_Sherrington) in Michael Foster's Textbook of Physiology. Sherrington struggled to find a good term that emphasized a union between two separate elements, and the actual term "synapse" was suggested by the English classical scholar Arthur Woollgar Verrall, a friend of Foster. Some authors generalize the concept of the synapse to include the communication from a neuron to any other cell type, such as to a motor cell, although such non-neuronal contacts may be referred to as junctions (a historically older term).A landmark electronmicroscopy study by [Sanford Palay](https://en.wikipedia.org/wiki/Sanford_Palay) demonstrated the existence of synapses. Palay examined thin sections of the abducens nucleus, and on the surfaces of dendrites and cell bodies he encountered clublike profiles that were filled with mitochondria and contained vesicles that were concentrated close to the presynaptic membrane. He also noticed that the pre- and postsynaptic membranes were thickened and appeared denser, and most importantly although these membranes appeared to adhere together, they were in fact separated by a thin intercellular space, the synaptic cleft. This observation directly confirmed Cajal’s idea about the synaptic junctions between nerve cells.
+
+Synapses are essential to neuronal function: neurons are cells that are specialized to pass signals to individual target cells, and synapses are the means by which they do so. At a synapse, the plasma membrane of the signal-passing neuron (the presynaptic neuron) comes into close apposition with the membrane of the target (postsynaptic) cell. Both the presynaptic and postsynaptic sites contain extensive arrays of molecular machinery that link the two membranes together and carry out the signaling process. In many synapses, the presynaptic part is located on an axon and the postsynaptic part is located on a dendrite or soma. Astrocytes also exchange information with the synaptic neurons, responding to synaptic activity and, in turn, regulating neurotransmission. Synapses (at least chemical synapses) are stabilized in position by synaptic adhesion molecules (SAMs) projecting from both the pre- and post-synaptic neuron and sticking together where they overlap; SAMs may also assist in the generation and functioning of synapses.
+
+(ref:electron) Electron micrograph of rat cortex showing multiple pre- and postsynaptic structures, as well as astrocytic endfeet (\*) in close contact with synapses. Note the presence of numerous synaptic vesicles in the presynaptic boutons. CAZ, cytomatrix at the active zone; PSD, postsynaptic density; SV, synaptic vesicles. Scalebar: 100 nm. From [Proteomics of the Synapse – A Quantitative Approach to Neuronal Plasticity Daniela C. Dieterich, Michael R. Kreutz Molecular & Cellular Proteomics February 1, 2016, First published on August 25, 2015, 15 (2) 368-381; DOI: 10.1074/mcp.R115.051482]( https://doi.org/10.1074/mcp.R115.051482)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/synapse/synapse_electronmicrograph.jpg" alt="(ref:electron)" width="70%" />
+<p class="caption">(\#fig:electronsynapse)(ref:electron)</p>
+</div>
+
+There are two fundamentally different types of synapses:
+
+* In a chemical synapse, electrical activity in the presynaptic neuron is converted (via the activation of voltage-gated calcium channels) into the release of a chemical called a neurotransmitter that binds to receptors located in the plasma membrane of the postsynaptic cell. The neurotransmitter may initiate an electrical response or a secondary messenger pathway that may either excite or inhibit the postsynaptic neuron. Chemical synapses can be classified according to the neurotransmitter released: glutamatergic (often excitatory), GABAergic (often inhibitory), cholinergic (e.g. vertebrate neuromuscular junction), and adrenergic (releasing norepinephrine). Because of the complexity of receptor signal transduction, chemical synapses can have complex effects on the postsynaptic cell.
+* In an electrical synapse, the presynaptic and postsynaptic cell membranes are connected by special channels called gap junctions that are capable of passing an electric current, causing voltage changes in the presynaptic cell to induce voltage changes in the postsynaptic cell. The main advantage of an electrical synapse is the rapid transfer of signals from one cell to the next.
+
+Synapses can be classified by the type of cellular structures serving as the pre- and post-synaptic components. The vast majority of synapses in the mammalian nervous system are classical axo-dendritic synapses (axon synapsing upon a dendrite), however, a variety of other arrangements exist. These include but are not limited to axo-axonic, dendro-dendritic, axo-secretory, somato-dendritic, dendro-somatic, and somato-somatic synapses.
+
+The axon can synapse onto a dendrite, onto a cell body, or onto another axon or axon terminal, as well as into the bloodstream or diffusely into the adjacent nervous tissue.
+
+The postsynaptic density (PSD) is a protein dense specialization attached to the postsynaptic membrane. PSDs were originally identified by electron microscopy as an electron-dense region at the membrane of a postsynaptic neuron. The PSD is in close apposition to the presynaptic active zone and ensures that receptors are in close proximity to presynaptic neurotransmitter release sites. PSDs vary in size and composition among brain regions and have been studied in great detail at glutamatergic synapses. Hundreds of proteins have been identified in the postsynaptic density including glutamate receptors, scaffold proteins, and many signaling molecules.
+
+PSDs are sized on the order of 250 to 500 nanometres in diameter and 25 to 50 nanometres in thickness, depending on the activity state of the synapse. During synaptic plasticity, the total size of the PSD is increasing along with an increase in synaptic size and strength after inducing long-term potentiation at single synapses.
+
+Many proteins in the PSD are involved in the regulation of synaptic function. Key among these, are postsynaptic density-95 (PSD95), neuroligin (a cellular adhesion molecule), NMDA receptors, AMPA receptors, calcium/calmodulin-dependent protein kinase II and actin. As protein detection technologies have increased in sensitivity, such as with improvements in mass spectrometry techniques, many more proteins have been found to be part of the PSD. Current estimates are that several hundred proteins are found at PSDs in different brain regions and during different states of development and synaptic activity. PSDs also contain cell adhesion molecules and a diverse set of other signaling proteins. Many of the PSD proteins contain PDZ domains.
+
+(ref:nmda) A cartoon representation of the atomic structure of the GluN1a/GluN2B N-Methyl-D-aspartate (NMDA) receptor subtype of the family of ionotropic glutamate receptors. The agonist glutamate (green spheres) is bound to the GluN2B subunit, the co-agonist glycine is bound to the GluN1A subunit. Data from [PDB 4PE5](https://www.rcsb.org/structure/4PE5), rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
+
+<div class="figure" style="text-align: center">
+<img src="./figures/synapse/NMDA_receptor.png" alt="(ref:nmda)" width="70%" />
+<p class="caption">(\#fig:nmdar)(ref:nmda)</p>
+</div>
+
+The PSD has been proposed to concentrate and organize neurotransmitter receptors in the synaptic cleft. The PSD also serves as a signaling apparatus. For instance kinases and phosphatases in the PSD are activated and released from the PSD to change the activity of proteins located in the spine or are transported to the nucleus to affect protein synthesis. Some of the features of the PSD are similar to the neuromuscular junction and other cellular junctions, as the PSD has been modeled as a specialized cellular junction that allows for rapid, asymmetrical signaling.
+
+(ref:synapse) The tetrapartite synapse of principal neurons in the forebrain, consisting of the pre- and postsynaptic compartment, astrocytic endfeet, and the extracellular matrix has a tightly regulated protein composition. A microsceretory system is present in synapses and dendrites that allows for translation of mRNA, local synthesis of, processing and insertion of transmembrane proteins. Hence the turnover of the synaptic protein machinery is controlled by local and somatic de novo protein synthesis, protein degradation by the ubiquitin proteasome system, lysosomes and autophagosomes. In addition, the association of proteins with pre- and postsynaptic compartments is highly dynamic. Molecular machineries and organelles for proteostasis are shared between synapses in dendritic segments. Proteins are transported in and out of the synapse as well as by diffusion of transmembrane proteins. These processes govern the activity-dependent assembly of the pre- and postsynaptic scaffold and the synaptic surface expression of receptors, calcium channels and cell adhesion molecules. Abbreviations: CAM, cell adhesion molecules; CAZ, cytomatrix at the active zone; ECM, extracellular matrix; ER, endoplasmatic reticulum; ERGIC, endoplasmatic reticulum Golgi intermediate compartment; MT, microtubules; PSD, postsynaptic density; RE, recycling endosomes; Lys, lysomes; SV, synaptic vesicle. From [Proteomics of the Synapse – A Quantitative Approach to Neuronal Plasticity Daniela C. Dieterich, Michael R. Kreutz Molecular & Cellular Proteomics February 1, 2016, First published on August 25, 2015, 15 (2) 368-381; DOI: 10.1074/mcp.R115.051482]( https://doi.org/10.1074/mcp.R115.051482)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/synapse/synapse_diagram.jpg" alt="(ref:synapse)" width="70%" />
+<p class="caption">(\#fig:synapsediagram)(ref:synapse)</p>
+</div>
+
+The adult human brain is estimated to contain from 10^14^ to 5 × 10^14^ (100–500 trillion) synapses. Every cubic millimeter of cerebral cortex contains roughly a billion (10^9^) of them. The number of synapses in the human cerebral cortex has separately been estimated at 0.15 quadrillion (150 trillion)
+
+It is widely accepted that the synapse plays a role in the formation of memory. As neurotransmitters activate receptors across the synaptic cleft, the connection between the two neurons is strengthened when both neurons are active at the same time, as a result of the receptor's signaling mechanisms. The strength of two connected neural pathways is thought to result in the storage of information, resulting in memory. This process of synaptic strengthening is known as long-term potentiation.
+
+Synaptic transmission can be changed by previous activity. These changes are called synaptic plasticity and may result in either a decrease in the efficacy of the synapse, called depression, or an increase in efficacy, called potentiation. These changes can either be long-term or short-term. Forms of short-term plasticity include synaptic fatigue or depression and synaptic augmentation. Forms of long-term plasticity include long-term depression and long-term potentiation. Synaptic plasticity can be either homosynaptic (occurring at a single synapse) or heterosynaptic (occurring at multiple synapses).
+
+By altering the release of neurotransmitters, the plasticity of synapses can be controlled in the presynaptic cell. The postsynaptic cell can be regulated by altering the function and number of its receptors. Changes in postsynaptic signaling are most commonly associated with a N-methyl-D-aspartic acid receptor (NMDAR)-dependent long-term potentiation (LTP) and long-term depression (LTD) due to the influx of calcium into the post-synaptic cell, which are the most analyzed forms of plasticity at excitatory synapses.
+
+A neurotransmitter can influence the function of a neuron through a remarkable number of mechanisms. In its direct actions in influencing a neuron's electrical excitability, however, a neurotransmitter acts in only one of two ways: excitatory or inhibitory. A neurotransmitter influences trans-membrane ion flow either to increase (excitatory) or to decrease (inhibitory) the probability that the cell with which it comes in contact will produce an action potential. Thus, despite the wide variety of synapses, they all convey messages of only these two types, and they are labeled as such. Type I synapses are excitatory in their actions, whereas type II synapses are inhibitory. Each type has a different appearance and is located on different parts of the neurons under its influence.
+
+Type I (excitatory) synapses are typically located on the shafts or the spines of dendrites, whereas type II (inhibitory) synapses are typically located on a cell body. In addition, Type I synapses have round synaptic vesicles, whereas the vesicles of type II synapses are flattened. The material on the presynaptic and post-synaptic membranes is denser in a Type I synapse than it is in a type II, and the type I synaptic cleft is wider. Finally, the active zone on a Type I synapse is larger than that on a Type II synapse.
+
+The different locations of type I and type II synapses divide a neuron into two zones: an excitatory dendritic tree and an inhibitory cell body. From an inhibitory perspective, excitation comes in over the dendrites and spreads to the axon hillock to trigger an action potential. If the message is to be stopped, it is best stopped by applying inhibition on the cell body, close to the axon hillock where the action potential originates. 
+
+Here is a summary of the sequence of events that take place in synaptic transmission from a presynaptic neuron to a postsynaptic cell. Each step is explained in more detail below. Note that with the exception of the final step, the entire process may run only a few hundred microseconds, in the fastest synapses.
+
+* The process begins with an action potential traveling along the membrane of the presynaptic cell, until it reaches the synapse.
+* The electrical depolarization of the membrane at the synapse causes channels to open that are permeable to calcium ions.
+* Calcium ions flow through the presynaptic membrane, rapidly increasing the calcium concentration in the interior.
+* The high calcium concentration activates a set of calcium-sensitive proteins attached to vesicles that contain a neurotransmitter chemical.
+* These proteins change shape, causing the membranes of some "docked" vesicles to fuse with the membrane of the presynaptic cell, thereby opening the vesicles and dumping their neurotransmitter contents into the synaptic cleft, the narrow space between the membranes of the pre- and postsynaptic cells.
+* The neurotransmitter diffuses within the cleft. Some of it escapes, but some of it binds to chemical receptor molecules located on the membrane of the postsynaptic cell.
+* The binding of neurotransmitter causes the receptor molecule to be activated. 
+* Due to thermal vibration, the motion of atoms, vibrating about their equilibrium positions in a crystalline solid, neurotransmitter molecules eventually break loose from the receptors and drift away.
+* The neurotransmitter is either reabsorbed by the presynaptic cell, and then repackaged for future release, or else it is broken down metabolically.
+
+In general, if an excitatory synapse is strong enough, an action potential in the presynaptic neuron will trigger an action potential in the postsynaptic cell. In many cases the excitatory postsynaptic potential (EPSP) will not reach the threshold for eliciting an action potential. When action potentials from multiple presynaptic neurons fire simultaneously, or if a single presynaptic neuron fires at a high enough frequency, the EPSPs can overlap and summate. If enough EPSPs overlap, the summated EPSP can reach the threshold for initiating an action potential. This process is known as summation.
+
+On the other hand, a presynaptic neuron releasing an inhibitory neurotransmitter, such as GABA, can cause an inhibitory postsynaptic potential (IPSP) in the postsynaptic neuron, moving the membrane potential farther away from the threshold, decreasing its excitability and making it more difficult for the neuron to initiate an action potential. If an IPSP overlaps with an EPSP, the IPSP can in many cases prevent the neuron from firing an action potential. In this way, the output of a neuron may depend on the input of many different neurons, each of which may have a different degree of influence, depending on the strength and type of synapse with that neuron. [John Carew Eccles](https://en.wikipedia.org/wiki/John_Eccles_(neurophysiologist)) performed some of the important early experiments on synaptic integration, for which he received the Nobel Prize for Physiology or Medicine in 1963.
+
+Understanding the effects of drugs on neurotransmitters comprises a significant portion of research initiatives in the field of neuroscience. Most neuroscientists involved in this field of research believe that such efforts may further advance our understanding of the circuits responsible for various neurological diseases and disorders, as well as ways to effectively treat and someday possibly prevent or cure such illnesses.
+
+### Neurotransmitters
+
+Neurotransmitters are endogenous chemicals that enable neurotransmission. It is a type of chemical messenger which transmits signals across a chemical synapse, such as a neuromuscular junction, from one neuron (nerve cell) to another "target" neuron, muscle cell, or gland cell. Neurotransmitters are released from synaptic vesicles in synapses into the synaptic cleft, where they are received by neurotransmitter receptors on the target cells. Many neurotransmitters are synthesized from simple and plentiful precursors such as amino acids, which are readily available from the diet and only require a small number of biosynthetic steps for conversion. Neurotransmitters play a major role in shaping everyday life and functions. Their exact numbers are unknown, but more than 200 unique chemical messengers have been identified.
+
+Neurotransmitters are stored in synaptic vesicles, clustered close to the cell membrane at the axon terminal of the presynaptic neuron. Neurotransmitters are released into and diffuse across the synaptic cleft, where they bind to specific receptors on the membrane of the postsynaptic neuron.
+
+Neurotransmitter action is terminated in three different ways:
+
+* Diffusion – the neurotransmitter detaches from receptor, drifting out of the synaptic cleft, here it becomes absorbed by glial cells.
+* Enzyme degradation – special chemicals called enzymes break it down. Usually, astrocytes absorb the excess neurotransmitters and pass them on to enzymes or pump them directly into the presynaptic neuron.
+* Reuptake – re-absorption of a neurotransmitter into the neuron. Transporters, or membrane transport proteins, pump neurotransmitters from the synaptic cleft back into axon terminals (the presynaptic neuron) where they are stored.
+
+For example, choline is taken up and recycled by the pre-synaptic neuron to synthesize more ACh. Other neurotransmitters such as dopamine are able to diffuse away from their targeted synaptic junctions and are eliminated from the body via the kidneys, or destroyed in the liver. Each neurotransmitter has very specific degradation pathways at regulatory points, which may be targeted by the body's regulatory system or by recreational drugs.
+
+Until the early 20th century, scientists assumed that the majority of synaptic communication in the brain was electrical. But in 1921 German pharmacologist [Otto Loewi](https://en.wikipedia.org/wiki/Otto_Loewi) (1873–1961) demonstrated that neurons can communicate by releasing chemicals. Some neurons do, however, communicate via electrical synapses through the use of gap junctions, which allow specific ions to pass directly from one cell to another.
+
+The anatomical localization of neurotransmitters is typically determined using immunocytochemical techniques, which identify the location of either the transmitter substances themselves, or of the enzymes that are involved in their synthesis. Immunocytochemical techniques have also revealed that many transmitters, particularly the neuropeptides, are co-localized, that is, one neuron may release more than one transmitter from its synaptic terminal. Various techniques have been used to identify neurotransmitters throughout the central nervous system.
+
+Single ions (such as synaptically released zinc) are also considered neurotransmitters by some, as well as some gaseous molecules such as nitric oxide (NO), carbon monoxide (CO), and hydrogen sulfide (H~2~S).
+
+The most prevalent transmitter is glutamate, which is excitatory at well over 90% of the synapses in the human brain. The next most prevalent is Gamma-Aminobutyric Acid, or GABA, which is inhibitory at more than 90% of the synapses that do not use glutamate. Although other transmitters are used in fewer synapses, they may be very important functionally: the great majority of psychoactive drugs exert their effects by altering the actions of some neurotransmitter systems, often acting through transmitters other than glutamate or GABA. Addictive drugs such as cocaine and amphetamines exert their effects primarily on the dopamine system. The addictive opiate drugs exert their effects primarily as functional analogs of opioid peptides, which, in turn, regulate dopamine levels.
+
+### Modulatory Neurotransmitter Systems 
+
+Neurons expressing certain types of neurotransmitters sometimes form distinct systems, where activation of the system acts in a modulatory fashion on a large number of neurons in large volumes of the brain. Such modulatory neurotransmitter systems include the noradrenaline (norepinephrine) system, the dopamine system, the serotonin system, and the cholinergic system, among others. Neuromodulatory neurotransmitters typically bind to metabotropic, G-protein coupled receptors to initiate a second messenger signaling cascade that induces a broad, long-lasting signal. This modulation can last for hundreds of milliseconds to several minutes. Some of the effects of neuromodulators include: altering the intrinsic firing activity, increasing or decreasing voltage-dependent currents, changing synaptic efficacy, increasing bursting activity and reconfiguring of synaptic connectivity.
+
+### Neurotransmitter Receptors
+
+There are two major types of neurotransmitter receptors: ionotropic and metabotropic. Ionotropic means that ions can pass through the receptor, whereas metabotropic means that a second messenger inside the cell relays the message (i.e. metabotropic receptors do not have channels). Metabotropic receptors are G-protein-coupled receptors (GPCRs). Ionotropic receptors are also called ligand-gated ion channels. Conversely, GPCRs are neither excitatory nor inhibitory. Rather, they can have a broad number of functions such as modulating the actions of excitatory and inhibitory ion channels or triggering a signalling cascade that releases calcium from stores inside the cell.
+
+### Ionotropic Receptors: Neurotransmitter-Gated Ion Channels
+
+Ligand-gated ion channels (LGICs) are one type of ionotropic receptor or channel-linked receptor. They are a group of transmembrane ion channels that are opened or closed in response to the binding of a chemical messenger (i.e., a ligand), such as a neurotransmitter.
+
+(ref:ach) A cartoon representation of the atomic structure of the the nicotinic acetylcholine receptor from the electric ray *Torpedo marmorata* at 4Å resolution. Data from [PDB 2BG9](https://www.rcsb.org/structure/2BG9), rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
+
+<div class="figure" style="text-align: center">
+<img src="./figures/synapse/nAch_receptor.png" alt="(ref:ach)" width="70%" />
+<p class="caption">(\#fig:achr)(ref:ach)</p>
+</div>
+
+
+The binding site of endogenous ligands on LGICs protein complexes are normally located on a different portion of the protein (an allosteric binding site) compared to where the ion conduction pore is located. The direct link between ligand binding and opening or closing of the ion channel, which is characteristic of ligand-gated ion channels, is contrasted with the indirect function of metabotropic receptors, which use second messengers. LGICs are also different from voltage-gated ion channels (which open and close depending on membrane potential), and stretch-activated ion channels (which open and close depending on mechanical deformation of the cell membrane).
+
+### Metabotropic Receptors: G-Protein Coupled Receptors
+
+GPCRs also known as seven-transmembrane domain receptors, 7TM receptors, heptahelical receptors, serpentine receptor comprise a large protein family of transmembrane receptors that sense molecules outside the cell and activate intracellular signal transduction pathways. GPCRs are found only in eukaryotes. The ligands that bind and activate these receptors include light-sensitive compounds, odors, pheromones, hormones, and neurotransmitters, and vary in size from small molecules to peptides to large proteins. G protein-coupled receptors are involved in many diseases, and are also the target of approximately 30% of all modern medicinal drugs.
+
+There are two principal signal transduction pathways involving the G protein-coupled receptors: the cAMP signal pathway and the phosphatidylinositol signal pathway. When a ligand binds to the GPCR it causes a conformational change in the GPCR, which allows it to act as a guanine nucleotide exchange factor (GEF). The GPCR can then activate an associated G-protein by exchanging its bound GDP for a GTP. The G-protein's α subunit, together with the bound GTP, can then dissociate from the β and γ subunits to further affect intracellular signaling proteins or target functional proteins directly depending on the α subunit type (G~αs~, G~αi/o~, G~αq/11~, G~α12/13~).
+
+Neurotransmitter receptors are present on both postsynaptic neurons and presynaptic neurons with the former being used to receive neurotransmitters and the latter for the purpose of preventing further release of a given neurotransmitter. In addition to being found in neuron cells, neurotransmitter receptors are also found in various immune and muscle tissues. Many neurotransmitter receptors are categorized as a serpentine receptor or G protein-coupled receptor because they span the cell membrane not once, but seven times. Neurotransmitter receptors are known to become unresponsive to the type of neurotransmitter they receive when exposed for extended periods of time. This phenomenon is known as ligand-induced desensitization or downregulation.
+
+The following are some major classes of neurotransmitter receptors:
+
+* Adrenergic: α1A, α1b, α1c, α1d, α2a, α2b, α2c, α2d, β1, β2, β3
+* Dopaminergic: D1, D2, D3, D4, D5
+* GABAergic: GABA~A~, GABA~B1a~, GABA~B1δ~, GABA~B2~, GABA~C~
+* Glutamatergic: NMDA, AMPA, kainate, mGluR1, mGluR2, mGluR3, mGluR4, mGluR5, mGluR6, mGluR7
+* Histaminergic: H1, H2, H3
+* Cholinergic: Muscarinic: M1, M2, M3, M4, M5; Nicotinic: muscle, neuronal (α-bungarotoxin-insensitive), neuronal (α-bungarotoxin-sensitive)
+* Opioid: μ, δ1, δ2, κ
+* Serotonergic: 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT4, 5-HT5, 5-HT6, 5-HT7
+* Glycinergic: Glycine
+
+Drugs can influence behavior by altering neurotransmitter activity. For instance, drugs can decrease the rate of synthesis of neurotransmitters by affecting the synthetic enzyme(s) for that neurotransmitter. When neurotransmitter synthesis is blocked, the amount of neurotransmitters available for release becomes substantially lower, resulting in a decrease in neurotransmitter activity. Some drugs block or stimulate the release of specific neurotransmitters. Alternatively, drugs can prevent neurotransmitter storage in synaptic vesicles by causing the synaptic vesicle membranes to leak. Drugs that prevent a neurotransmitter from binding to its receptor are called receptor antagonists. For example, drugs used to treat patients with schizophrenia such as haloperidol, chlorpromazine, and clozapine are antagonists at receptors in the brain for dopamine. Other drugs act by binding to a receptor and mimicking the normal neurotransmitter. Such drugs are called receptor agonists. An example of a receptor agonist is morphine, an opiate that mimics effects of the endogenous neurotransmitter β-endorphin to relieve pain. Other drugs interfere with the deactivation of a neurotransmitter after it has been released, thereby prolonging the action of a neurotransmitter. This can be accomplished by blocking re-uptake or inhibiting degradative enzymes. Lastly, drugs can also prevent an action potential from occurring, blocking neuronal activity throughout the central and peripheral nervous system. 
+

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns="http://www.xml-cml.org/schema/cml2/core/#"
+   xmlns:cml="http://www.xml-cml.org/schema/cml2/core/"
+   xmlns:en.wikipedia.org="http://en.wikipedia.org/wiki/Template:"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="340"
+   height="160"
+   id="svg2"
+   xml:space="preserve"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="Hydroxide_lone_pairs-2D.svg"><defs
+   id="defs6668" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="947"
+   id="namedview6666"
+   showgrid="false"
+   inkscape:zoom="1.5029412"
+   inkscape:cx="170"
+   inkscape:cy="80"
+   inkscape:window-x="0"
+   inkscape:window-y="24"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="diagram" />
+      
+  <metadata
+   id="metadata">
+  
+       <rdf:RDF>
+        
+        <rdf:Description
+   rdf:about="http://commons.wikipedia.org/Hydroxide_lone_pairs-2D.svg">
+        
+            <dc:title>Hydroxide lone pairs with WP Chembox and CML</dc:title>
+            <dc:date>2007-09-23</dc:date>
+            <dc:format>image/svg+xml</dc:format>
+            <dc:creator>http://commons.wikimedia.org/wiki/User:DoSiDo</dc:creator>
+
+            <dc:source>http://pubchem.ncbi.nlm.nih.gov</dc:source>
+            <rdfs:seeAlso
+   rdf:resource="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=961" />
+            <rdfs:seeAlso
+   rdf:resource="http://www.emolecules.com/cgi-bin/search?t=ss&amp;q=14280-30-9&amp;c=0&amp;v=" />
+
+            <dc:identifier>InChI=1/H2O/h1H2/p-1/fHO/h1h/q-1</dc:identifier>
+            <dc:identifier>pubchemCID=961</dc:identifier>
+            <dc:identifier>SMILES=[OH-]</dc:identifier>
+            <dc:identifier>CAS=14280-30-9</dc:identifier>
+            <dc:identifier>IUPACname=hydroxide</dc:identifier>
+                   
+            <en.wikipedia.org:Chembox_new
+   rdf:parseType="Literal">
+              <!-- the text below can be copied to the molecule's page -->
+              
+              {{Chembox new
+                | ImageFile = Hydroxide-lone-pairs-2D.svg
+                | ImageSize = 150px
+                | ImageFile1 = Hydroxide-3D-vdW.png
+                | ImageSize1 = 150px
+                | SystematicName = hydroxide<br
+   id="br6637" />oxidanide<br
+   id="br6639" />hydridooxygenate(1-)
+                | IUPACName = hydroxide
+                | Section1 = {{Chembox Identifiers
+                |   CASNo = 14280-30-9
+                |   PubChem = 961
+                |   SMILES = [OH-]
+                |   InChI = 1/H2O/h1H2/<br
+   id="br6641" />p-1/fHO/h1h/q-1
+                  }}
+                | Section2 = {{Chembox Properties
+                |   Formula = [[Oxygen|O]][[Hydrogen|H]]<sup
+   id="sup6643">-</sup>
+                |   MolarMass = 17.00274 (7) g/mol
+                |   pKa = ~22
+                |   pKb = -1.74<br
+   id="br6645" />15.74
+                  }}
+                }} 
+
+             </en.wikipedia.org:Chembox_new>
+
+              <cml:molecule
+   rdf:parseType="Literal">
+                 <ns:formula
+   concise="O H" />
+                 <ns:name
+   convention="trivial">hydroxide</ns:name>
+                 <ns:propertyList>
+                    <ns:property
+   title="molecular mass"
+   units="g/mol">17.00274</ns:property>
+                 </ns:propertyList>
+                 <ns:atomArray>
+                  <ns:atom
+   elementType="O"
+   formalCharge="-1"
+   x2="2.000000"
+   y2="0.000000" />
+                  <ns:atom
+   elementType="H"
+   x2="3.000000"
+   y2="0.000000" />
+                 </ns:atomArray>
+                 <ns:bondArray>
+                  <ns:bond
+   atomRefs2="a1 a2"
+   order="1" />
+                 </ns:bondArray>
+                </cml:molecule>
+                                 
+        </rdf:Description>
+        
+        <cc:Work
+   rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+     rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF>
+    
+  </metadata>
+   
+    <g
+   id="diagram"
+   transform="matrix(-1,0,0,1,344.50325,0)">
+    
+        
+        
+        <g
+   id="g2218"
+   transform="translate(61.878669,-2.6614481)">
+            <rect
+   width="5.5"
+   height="142.5"
+   x="14"
+   y="8.9601841"
+   style="fill:#000000;fill-opacity:1"
+   id="rect2167" />
+            <rect
+   width="13"
+   height="5.1199999"
+   x="19"
+   y="8.968545"
+   style="fill:#000000;fill-opacity:1"
+   id="rect2169" />
+            <rect
+   width="13"
+   height="5.1199999"
+   x="19.272852"
+   y="146.27075"
+   style="fill:#000000;fill-opacity:1"
+   id="rect2171" />
+        </g>
+        
+        <text
+   x="108.84209"
+   y="111.88837"
+   style="font-size:106px;font-family:Arial"
+   id="text18">O</text>
+
+        
+        <circle
+   cx="105"
+   cy="20"
+   r="8.5"
+   style="fill:#000000;fill-opacity:1"
+   id="circle134"
+   sodipodi:cx="105"
+   sodipodi:cy="20"
+   sodipodi:rx="8.5"
+   sodipodi:ry="8.5"
+   d="m 113.5,20 c 0,4.69442 -3.80558,8.5 -8.5,8.5 -4.69442,0 -8.5,-3.80558 -8.5,-8.5 0,-4.69442 3.80558,-8.5 8.5,-8.5 4.69442,0 8.5,3.80558 8.5,8.5 z"
+   transform="translate(61.878669,-2.6614481)" />
+                
+        <circle
+   cx="36.5"
+   cy="60.5"
+   r="8.5"
+   id="circle144"
+   sodipodi:cx="36.5"
+   sodipodi:cy="60.5"
+   sodipodi:rx="8.5"
+   sodipodi:ry="8.5"
+   d="M 45,60.5 C 45,65.19442 41.19442,69 36.5,69 31.80558,69 28,65.19442 28,60.5 28,55.80558 31.80558,52 36.5,52 c 4.69442,0 8.5,3.80558 8.5,8.5 z"
+   transform="translate(61.878669,-2.6614481)" />
+        <circle
+   cx="36.5"
+   cy="95.5"
+   r="8.5"
+   id="circle146"
+   sodipodi:cx="36.5"
+   sodipodi:cy="95.5"
+   sodipodi:rx="8.5"
+   sodipodi:ry="8.5"
+   d="m 45,95.5 c 0,4.69442 -3.80558,8.5 -8.5,8.5 -4.69442,0 -8.5,-3.80558 -8.5,-8.5 0,-4.69442 3.80558,-8.5 8.5,-8.5 4.69442,0 8.5,3.80558 8.5,8.5 z"
+   transform="translate(61.878669,-2.6614481)" />
+        <circle
+   cx="72"
+   cy="20"
+   r="8.5"
+   id="circle148"
+   sodipodi:cx="72"
+   sodipodi:cy="20"
+   sodipodi:rx="8.5"
+   sodipodi:ry="8.5"
+   d="m 80.5,20 c 0,4.69442 -3.80558,8.5 -8.5,8.5 -4.69442,0 -8.5,-3.80558 -8.5,-8.5 0,-4.69442 3.80558,-8.5 8.5,-8.5 4.69442,0 8.5,3.80558 8.5,8.5 z"
+   transform="translate(61.878669,-2.6614481)" />
+        <circle
+   cx="72"
+   cy="134.5"
+   r="8.5"
+   id="circle150"
+   sodipodi:cx="72"
+   sodipodi:cy="134.5"
+   sodipodi:rx="8.5"
+   sodipodi:ry="8.5"
+   d="m 80.5,134.5 c 0,4.69442 -3.80558,8.5 -8.5,8.5 -4.69442,0 -8.5,-3.80558 -8.5,-8.5 0,-4.69442 3.80558,-8.5 8.5,-8.5 4.69442,0 8.5,3.80558 8.5,8.5 z"
+   transform="translate(61.878669,-2.6614481)" />
+        <circle
+   cx="105"
+   cy="134.5"
+   r="8.5"
+   id="circle154"
+   sodipodi:cx="105"
+   sodipodi:cy="134.5"
+   sodipodi:rx="8.5"
+   sodipodi:ry="8.5"
+   d="m 113.5,134.5 c 0,4.69442 -3.80558,8.5 -8.5,8.5 -4.69442,0 -8.5,-3.80558 -8.5,-8.5 0,-4.69442 3.80558,-8.5 8.5,-8.5 4.69442,0 8.5,3.80558 8.5,8.5 z"
+   transform="translate(61.878669,-2.6614481)" />
+        
+        <line
+   style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5.07783175"
+   id="line2187"
+   y2="72.42012"
+   x2="192.56451"
+   y1="72.42012"
+   x1="255.06871" />
+                
+        <text
+   x="250.91617"
+   y="113.38934"
+   style="font-size:106px;font-family:Arial"
+   id="text2189">H</text>
+
+        
+        <g
+   id="g2213"
+   transform="translate(61.878669,-2.6614481)">
+            <rect
+   width="5.5"
+   height="142.5"
+   x="272.30466"
+   y="8.9601841"
+   style="fill:#000000;fill-opacity:1"
+   id="rect2191" />
+            <rect
+   width="13"
+   height="5.1199999"
+   x="260"
+   y="8.968545"
+   style="fill:#000000;fill-opacity:1"
+   id="rect2193" />                    
+            <rect
+   width="13"
+   height="5.1199999"
+   x="260"
+   y="146.34018"
+   style="fill:#000000;fill-opacity:1"
+   id="rect2195" />
+        </g>
+    <line
+   style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.29593229"
+   id="line42"
+   y2="8.9628172"
+   x2="18.06427"
+   y1="8.9628172"
+   x1="62.801334" /></g>
+    
+</svg>

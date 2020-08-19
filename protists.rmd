@@ -26,7 +26,7 @@ The eukaryotes thus came to be composed of four kingdoms:
 
 The protists were understood to be "primitive forms", and thus an evolutionary grade, united by their primitive unicellular nature. The disentanglement of the deep splits in the tree of life only really started with DNA sequencing, leading to a system of domains rather than kingdoms as top level rank being put forward by Carl Woese, uniting all the eukaryote kingdoms under the eukaryote domain. At the same time, work on the protist tree intensified, and is still actively going on today. Several alternative classifications have been forwarded, though there is no consensus in the field.
 
-A revised classification in 2012 recognizes five supergroups of eukaryotes as shown in Table \@ref(tab:eukaryote).
+A revised classification in 2012 recognizes five supergroups of eukaryotes as shown in Table \@ref(tab:eukaryotetaxonomy).
 
 ```{r eukaryotetaxonomy, out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
@@ -36,7 +36,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 eutax <-  as_tibble(read.csv("data/eukaryote_taxonomy.csv"))
 
-knitr::kable(eutax, col.names = c("Supergroup Name", "Organisms"), digits = 2, align = 'll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position"))
+knitr::kable(eutax, col.names = c("Supergroup Name", "Organisms"), digits = 2, align = 'll', booktabs = TRUE, caption = "A recent (2012) classification of protists.") %>% kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
 The classification of a separate kingdom to the animals and plants was first proposed by John Hogg in 1860 as the kingdom Protoctista; in 1866 Ernst Haeckel also proposed a third kingdom Protista as "the kingdom of primitive forms". Originally these also included prokaryotes, but with time these would be removed to a fourth kingdom Monera. In the popular five-kingdom scheme proposed by Robert Whittaker in 1969, the Protista was defined as eukaryotic "organisms which are unicellular or unicellular-colonial and which form no tissues", and the fifth kingdom Fungi was established.[c] In the five-kingdom system of Lynn Margulis, the term protist is reserved for microscopic organisms, while the more inclusive kingdom Protoctista (or protoctists) included certain large multicellular eukaryotes, such as kelp, red algae and slime molds. Others use the term protist interchangeably with Margulis's protoctist, to encompass both single-celled and multicellular eukaryotes, including those that form specialized tissues but do not fit into any of the other traditional kingdoms.

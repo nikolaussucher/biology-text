@@ -1,4 +1,10 @@
-# Mendelian Inheritance
+# Classical Genetics
+
+[Genetics](https://en.wikipedia.org/wiki/Genetics) is, generally, the study of genes, genetic variation, and heredity. This chapter is about [classical genetics](https://en.wikipedia.org/wiki/Classical_genetics). This is the oldest form of genetics that began with [Gregor Mendel's](https://en.wikipedia.org/wiki/Gregor_Mendel) experiments that formulated and defined a fundamental biological concept now referred to as Mendelian Inheritance. The subsequent chapter is about [molecular genetics](https://en.wikipedia.org/wiki/Molecular_genetics).
+
+Classical genetics is the part of genetics that is about the transmission of genetic traits via the acts of [reproduction](https://en.wikipedia.org/wiki/Reproduction). The process by which characteristics are passed down from parents to their offspring is called heredity. In the sense of classical genetics, variation is known as the lack of resemblance in related individuals and can be categorized as discontinuous or continuous. The [phenotype](https://en.wikipedia.org/wiki/Phenotype) is a general term that defines an individual's visible, physical traits. The [genotype](https://en.wikipedia.org/wiki/Genotype) of an offspring is known as its genetic makeup. Mendel was the first to systematically investigate how certain well-defined traits are transmitted from parents to offspring. Mendel's conclusions were largely ignored by the vast majority of scientists at the time. In 1900, however, his work was "re-discovered" by three European scientists, [Hugo de Vries](https://en.wikipedia.org/wiki/Hugo_de_Vries), [Carl Correns](https://en.wikipedia.org/wiki/Carl_Correns), and [Erich von Tschermak](https://en.wikipedia.org/wiki/Erich_von_Tschermak). In 1905, [Wilhelm Johannsen](https://en.wikipedia.org/wiki/Wilhelm_Johannsen) introduced the term *gene* and [William Bateson](https://en.wikipedia.org/wiki/William_Bateson) the term *genetics*. Our understanding of what a [*gene*](https://en.wikipedia.org/wiki/Gene#Discovery_of_discrete_inherited_units) is has undergone quite a bit of change. Currently, genes are considered to be pieces of DNA that contain information for synthesis of ribonuclec acids (RNAs) that can be directly functional or serve as the intermediate template for a protein that performs a function.
+
+## Mendelian Inheritance
 
 [Mendelian inheritance](https://en.wikipedia.org/wiki/Mendelian_inheritance) is a type of biological inheritance that follows the principles originally proposed by [Gregor Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel) in 1865 and 1866, re-discovered in 1900 and popularised by [William Bateson](https://en.wikipedia.org/wiki/William_Bateson). These principles were initially controversial. When Mendel's theories were integrated with the Boveri–Sutton chromosome theory of inheritance by [Thomas Hunt Morgan](https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan) in 1915, they became the core of classical genetics. [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher) combined these ideas with the theory of natural selection in his 1930 book The Genetical Theory of Natural Selection, putting evolution onto a mathematical footing and forming the basis for population genetics within the modern evolutinary synthesis.
 
@@ -17,7 +23,7 @@ Regardless, the "re-discovery" made Mendelism an important but controversial the
 
 Mendel's findings allowed scientists such as Fisher and [J.B.S. Haldane](https://en.wikipedia.org/wiki/J._B._S._Haldane) to predict the expression of traits on the basis of mathematical probabilities. An important aspect of Mendel's success can be traced to his decision to start his crosses only with plants he demonstrated were true-breeding. He only measured discrete (binary) characteristics, such as color, shape, and position of the seeds, rather than quantitatively variable characteristics. He expressed his results numerically and subjected them to statistical analysis. His method of data analysis and his large sample size gave credibility to his data. He had the foresight to follow several successive generations (P, F1, F2, F3) of pea plants and record their variations. Finally, he performed "test crosses" (backcrossing descendants of the initial hybridization to the initial true-breeding lines) to reveal the presence and proportions of recessive characters.
 
-## Mendel's genetic discoveries
+### Mendel's Genetic Discoveries
 
 Five parts of Mendel's discoveries were an important divergence from the common theories at the time and were the prerequisite for the establishment of his rules.
 
@@ -125,19 +131,19 @@ Of the 46 chromosomes in a normal diploid human cell, half are maternally derive
 
 In independent assortment, the chromosomes that result are randomly sorted from all possible maternal and paternal chromosomes. Because zygotes end up with a mix instead of a pre-defined "set" from either parent, chromosomes are therefore considered assorted independently. As such, the zygote can end up with any combination of paternal or maternal chromosomes. For human gametes, with 23 chromosomes, the number of possibilities is 2^23^ or 8,388,608 possible combinations. This contributes to the genetic variability of progeny. Generally the recombination of genes has important implications for many evolutionary processes.
 
-## Mendelian trait
+## Mendelian Trait
+
 A Mendelian trait is one that is controlled by a single locus in an inheritance pattern. In such cases, a mutation in a single gene can cause a disease that is inherited according to Mendel's principles. Dominant diseases manifest in heterozygous individuals. Recessive ones are sometimes inherited unnoticeably by genetic carriers. Examples include sickle-cell anemia, Tay–Sachs disease, cystic fibrosis and xeroderma pigmentosa. A disease controlled by a single gene contrasts with a multi-factorial disease, like heart disease, which is affected by several loci (and the environment) as well as those diseases inherited in a non-Mendelian fashion.
 
 ## Zygosity
 
 Zygosity refers to the grade of similarity between the alleles that determine one specific trait in an organism. In its simplest form, a pair of alleles can be either homozygous or heterozygous. Homozygosity, with homo relating to same while zygous pertains to a zygote, is seen when a combination of either two dominant or two recessive alleles code for the same trait. For example, using 'A' as the representative character for each allele, a homozygous dominant pair's genotype would be depicted as 'AA', while homozygous recessive is shown as 'aa'. Heterozygosity, with hetero associated with different, can only be 'Aa' (the capital letter is always presented first by convention). The phenotype of a homozygous dominant pair is 'A', or dominant, while the opposite is true for homozygous recessive. Heterozygous pairs always have a dominant phenotype. To a lesser degree, hemizygosity and nullizygosity can also be seen in gene pairs.
 
-
-## Monohybrid cross
+## Monohybrid Cross
 
 "Mono" means "one"; this cross indicates that the examination of a single trait. For example, when a strain of corn producing pure purple kernels (RR) is crossed with a strain producing pure yellow kernels (rr). In this cross, both parents are homozygous, one carrying two copies of the dominant allele (R; purple), the other two copies of the recessive (r; yellow) allele. 
 
-## Punnett square
+### Punnett Square
 
  The [Punnett square](https://en.wikipedia.org/wiki/Punnett_square) (Figures \@ref(fig:punnett) and \@ref(fig:punnettF1)) is a visual representation of Mendelian inheritance and used to predict an outcome of a particular cross or breeding experiment. It is named after [Reginald C. Punnett](https://en.wikipedia.org/wiki/Reginald_Punnett), who devised the approach. The diagram is used by biologists to determine the probability of an offspring having a particular genotype. The Punnett square is a tabular summary of possible combinations of maternal alleles with paternal alleles. These tables can be used to examine the genotypical outcome probabilities of the offspring of a single trait (allele), or when crossing multiple traits from the parents. 
  
@@ -158,7 +164,7 @@ Figure \@ref(fig:punnett) shows a Punnett square for a monohybrid cross. A strai
 <p class="caption">(\#fig:monohybrid)Monohybrid cross</p>
 </div>
 
-## Dihybrid cross
+## Dihybrid Cross
 
 More complicated crosses can be made by looking at two or more genes. The Punnett square works, however, only if the genes are independent of each other, which means that having a particular allele of gene "A" does not alter the probability of possessing an allele of gene "B". This is equivalent to stating that the genes are not linked, so that the two genes do not tend to sort together during meiosis.
 
@@ -176,18 +182,7 @@ The rules of meiosis, as they apply to the dihybrid, are codified in Mendel's fi
 *   the second **3** represents those displaying the first recessive trait and second dominant trait
 *   the **1** represents the homozygous, displaying both recessive traits.
 
-## Forked-line method
-
-The forked-line method (also known as the tree method and the branching system) can also solve dihybrid and multihybrid crosses. A problem is converted to a series of monohybrid crosses, and the results are combined in a tree. However, a tree produces the same result as a Punnett square in less time and with more clarity. The example below (Figure \@ref(fig:forkedline)) assesses another double-heterozygote cross using RrYy x RrYy. As stated above, the phenotypic ratio is expected to be 9:3:3:1 if crossing unlinked genes from two double-heterozygotes. The genotypic ratio was obtained in the diagram below, this diagram will have more branches than if only analyzing for phenotypic ratio.
-
-(ref:forked) [The forked line method.](https://commons.wikimedia.org/wiki/File:Dihybrid_Cross_Tree_Method.png)
-
-<div class="figure" style="text-align: center">
-<img src="./figures/mendel/Dihybrid_Cross_Tree_Method.png" alt="(ref:forked)" width="70%" />
-<p class="caption">(\#fig:forkedline)(ref:forked)</p>
-</div>
-
-## Mendelian traits in humans
+## Mendelian Traits in Humans
 
 Mendelian traits in humans concerns how, in Mendelian inheritance, a child receiving a dominant allele from either parent will have the dominant form of the phenotypic trait or characteristic. Only those that received the recessive allele from both parents, known as zygosity, will have the recessive phenotype. Those that receive a dominant allele from one parent and a recessive allele from the other parent will have the dominant form of the trait. Purely Mendelian traits are a tiny minority of all traits, since most phenotypic traits exhibit incomplete dominance, codominance, and contributions from many genes.
 
@@ -230,15 +225,7 @@ Examples
 * Tay–Sachs disease
 * Wet (dominant) or dry (recessive) earwax – dry is found mostly in Asians and Native Americans
 
-## OMIM - Online Mendelian Inheritance in Man
-
-[OMIM](https://omim.org) is a comprehensive, authoritative compendium of human genes and genetic phenotypes that is freely available and updated daily. The full-text, referenced overviews in OMIM contain information on all known mendelian disorders and over 15,000 genes. OMIM focuses on the relationship between phenotype and genotype. It is updated daily, and the entries contain copious links to other genetics resources.
-
-The database was initiated in the early 1960s by Dr. Victor A. McKusick as a catalog of mendelian traits and disorders, entitled Mendelian Inheritance in Man (MIM). Twelve book editions of MIM were published between 1966 and 1998. The online version, OMIM, was created in 1985 by a collaboration between the National Library of Medicine and the William H. Welch Medical Library at Johns Hopkins. It was made generally available on the internet starting in 1987. In 1995, OMIM was developed for the World Wide Web by NCBI, the National Center for Biotechnology Information.
-
-OMIM is authored and edited at the McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University School of Medicine, under the direction of Dr. Ada Hamosh.
-
-## Non-Mendelian inheritance
+## Non-Mendelian Inheritance
 
 After Mendels studies and discoveries more and more new discoveries about genetics were made. Mendel himself has said that the regularities he discovered apply only to the organisms and characteristics he consciously chose for his experiments. Mendel explained inheritance in terms of discrete factors —genes— that are passed along from generation to generation according to the rules of probability. Mendel's laws are valid for all sexually reproducing organisms, including garden peas and human beings. However, Mendel's laws stop short of explaining some patterns of genetic inheritance. For most sexually reproducing organisms, cases where Mendel's laws can strictly account for all patterns of inheritance are relatively rare. Often the inheritance patterns are more complex.
 

@@ -28,9 +28,10 @@ The eukaryotes thus came to be composed of four kingdoms:
 
 The protists were understood to be "primitive forms", and thus an evolutionary grade, united by their primitive unicellular nature. The disentanglement of the deep splits in the tree of life only really started with DNA sequencing, leading to a system of domains rather than kingdoms as top level rank being put forward by Carl Woese, uniting all the eukaryote kingdoms under the eukaryote domain. At the same time, work on the protist tree intensified, and is still actively going on today. Several alternative classifications have been forwarded, though there is no consensus in the field.
 
-A revised classification in 2012 recognizes five supergroups of eukaryotes as shown in Table \@ref(tab:eukaryote).
+A revised classification in 2012 recognizes five supergroups of eukaryotes as shown in Table \@ref(tab:eukaryotetaxonomy).
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:eukaryotetaxonomy)A recent (2012) classification of protists.</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> Supergroup Name </th>

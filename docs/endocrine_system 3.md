@@ -1,4 +1,4 @@
-# The Endocrine System
+# Endocrine Systems
 
 The endocrine system is a chemical messenger system comprising feedback loops of the hormones released by internal glands of an organism directly into the circulatory system, regulating distant target organs. In humans, the major endocrine glands are the thyroid gland and the adrenal glands. In vertebrates, the hypothalamus is the neural control center for all endocrine systems. The study of the endocrine system and its disorders is known as endocrinology. Endocrinology is a branch of internal medicine.
 
@@ -12,16 +12,146 @@ The word endocrine derives via New Latin from the Greek words ἔνδον, endon
 
 Endocrine glands are glands of the endocrine system that secrete their products, hormones, directly into interstitial spaces and then absorbed into blood rather than through a duct. The major glands of the endocrine system include the pineal gland, pituitary gland, pancreas, ovaries, testes, thyroid gland, parathyroid gland, hypothalamus and adrenal glands. The hypothalamus and pituitary gland are neuroendocrine organs.
 
+(ref:majendo) [Main glands of the human endocrine system.](https://commons.wikimedia.org/wiki/File:Illu_endocrine_system_New.png) 
 
-A hormone is any of a class of signaling molecules produced by glands in multicellular organisms that are transported by the circulatory system to target distant organs to regulate physiology and behaviour. Hormones have diverse chemical structures, mainly of 3 classes: eicosanoids, steroids, and amino acid/protein derivatives (amines, peptides, and proteins). The glands that secrete hormones comprise the endocrine system. The term hormone is sometimes extended to include chemicals produced by cells that affect the same cell (autocrine or intracrine signalling) or nearby cells (paracrine signalling).
+<div class="figure" style="text-align: center">
+<img src="./figures/endocrine/Illu_endocrine_system_New.png" alt="(ref:majendo)" width="70%" />
+<p class="caption">(\#fig:majorendocrineglands)(ref:majendo)</p>
+</div>
+A hormone (from the Greek participle ὁρμῶν, "setting in motion") is any member of a class of signaling molecules, produced by glands in multicellular organisms, that are transported by the circulatory system to target distant organs to regulate physiology and behavior. Hormones have diverse chemical structures, mainly of three classes:
+
+* eicosanoids
+* steroids
+* amino acid/protein derivatives (amines, peptides, and proteins)
+
+(ref:exhorm) [Representative examples of the three chemical classes of hormones in the human body.](https://commons.wikimedia.org/wiki/File:1802_Examples_of_Amine_Peptide_Protein_and_Steroid_Hormone_Structure.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/endocrine/1802_Examples_of_Amine_Peptide_Protein_and_Steroid_Hormone_Structure.jpg" alt="(ref:exhorm)" width="70%" />
+<p class="caption">(\#fig:hormoneexamples)(ref:exhorm)</p>
+</div>
+
+The glands that secrete hormones comprise the endocrine system.
+
+Hormonal effects are dependent on where they are released, as they can be released in different manners. Not all hormones are released from a cell and into the blood until it binds to a receptor on a target. The major types of hormone signaling are:
+
+* Endocrine – Acts on the target cell after being released into the bloodstream.
+* Paracrine – Acts on a nearby cell and does not have to enter general circulation.
+* Autocrine – Affects the cell type that secreted it and causes a biological effect.
+* Intracrine – Acts intracellularly on the cell that synthesized it.
 
 Hormones are used to communicate between organs and tissues for physiological regulation and behavioral activities, such as digestion, metabolism, respiration, tissue function, sensory perception, sleep, excretion, lactation, stress, growth and development, movement, reproduction, and mood.
 
 Hormones affect distant cells by binding to specific receptor proteins in the target cell resulting in a change in cell function. This may lead to cell type-specific responses that include rapid changes to the activity of existing proteins, or slower changes in the expression of target genes. Amino acid–based hormones (amines and peptide or protein hormones) are water-soluble and act on the surface of target cells via signal transduction pathways; steroid hormones, being lipid-soluble, move through the plasma membranes of target cells to act within their nuclei.
 
+(ref:hormact) [The left diagram shows a steroid (lipid) hormone (1) entering a cell and (2) binding to a receptor protein in the nucleus, causing (3) mRNA synthesis which is the first step of protein synthesis. The right side shows protein hormones (1) binding with receptors which (2) begins a transduction pathway. The transduction pathway ends (3) with transcription factors being activated in the nucleus, and protein synthesis beginning. In both diagrams, a is the hormone, b is the cell membrane, c is the cytoplasm, and d is the nucleus.](https://commons.wikimedia.org/wiki/File:Steroid_and_Lipid_Hormones.svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/endocrine/Steroid and Lipid Hormones.svg" alt="(ref:hormact)" width="70%" />
+<p class="caption">(\#fig:hormoneaction)(ref:hormact)</p>
+</div>
+
+## The Hypothalamus
+
+The hypothalamus (from Ancient Greek ὑπό, "under", and θάλαμος, "chamber") is a portion of the brain that has a central neuroendocrine function, most notably by its control of the anterior pituitary, which in turn regulates various endocrine glands and organs. Releasing hormones (also called releasing factors) are produced in hypothalamic nuclei then transported along axons to the posterior pituitary, where they are stored and released as needed.
+
+(ref:hpc) [The Hypothalamus-Pituitary Complex.](https://commons.wikimedia.org/wiki/File:1806_The_Hypothalamus-Pituitary_Complex.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/endocrine/1806_The_Hypothalamus-Pituitary_Complex.jpg" alt="(ref:hpc)" width="70%" />
+<p class="caption">(\#fig:hpcomplex)(ref:hpc)</p>
+</div>
+
+In the hypothalamic–adenohypophyseal axis, releasing hormones, also known as hypophysiotropic or hypothalamic hormones, are released from the median eminence, a prolongation of the hypothalamus, into the hypophyseal portal system, which carries them to the anterior pituitary where they exert their regulatory functions on the secretion of adenohypophyseal hormones. These hypophysiotropic hormones are stimulated by parvocellular neurosecretory cells located in the periventricular area of the hypothalamus. After their release into the capillaries of the third ventricle, the hypophysiotropic hormones travel through what is known as the hypothalamo-pituitary portal circulation. Once they reach their destination in the anterior pituitary, these hormones bind to specific receptors located on the surface of pituitary cells. Depending on which cells are activated through this binding, the pituitary will either begin secreting or stop secreting hormones into the rest of the bloodstream.
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:anteriorpituitaryhormones)Hormones of the anterior pituitary gland.</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Secreted hormone </th>
+   <th style="text-align:left;"> Abbreviation </th>
+   <th style="text-align:left;"> Produced by </th>
+   <th style="text-align:left;"> Effect </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Thyrotropin-releasing hormone (Prolactin-releasing hormone) </td>
+   <td style="text-align:left;"> TRH, TRF, or PRH </td>
+   <td style="text-align:left;"> Parvocellular neurosecretory cells of the paraventricular nucleus </td>
+   <td style="text-align:left;"> Stimulate thyroid-stimulating hormone (TSH) release from anterior pituitary (primarily) Stimulate prolactin release from anterior pituitary </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Corticotropin-releasing hormone </td>
+   <td style="text-align:left;"> CRH or CRF </td>
+   <td style="text-align:left;"> Parvocellular neurosecretory cells of the paraventricular nucleus </td>
+   <td style="text-align:left;"> Stimulate adrenocorticotropic hormone (ACTH) release from anterior pituitary </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Dopamine (Prolactin-inhibiting hormone) </td>
+   <td style="text-align:left;"> DA or PIH </td>
+   <td style="text-align:left;"> Dopamine neurons of the arcuate nucleus </td>
+   <td style="text-align:left;"> Inhibit prolactin release from anterior pituitary </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Growth-hormone-releasing hormone </td>
+   <td style="text-align:left;"> GHRH </td>
+   <td style="text-align:left;"> Neuroendocrine neurons of the Arcuate nucleus </td>
+   <td style="text-align:left;"> Stimulate growth-hormone (GH) release from anterior pituitary </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Gonadotropin-releasing hormone </td>
+   <td style="text-align:left;"> GnRH or LHRH </td>
+   <td style="text-align:left;"> Neuroendocrine cells of the Preoptic area </td>
+   <td style="text-align:left;"> Stimulate follicle-stimulating hormone (FSH) release from anterior pituitary Stimulate luteinizing hormone (LH) release from anterior pituitary </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Somatostatin[22] (growth-hormone-inhibiting hormone) </td>
+   <td style="text-align:left;"> SS, GHIH, or SRIF </td>
+   <td style="text-align:left;"> Neuroendocrine cells of the Periventricular nucleus </td>
+   <td style="text-align:left;"> Inhibit growth-hormone (GH) release from anterior pituitary Inhibit (moderately) thyroid-stimulating hormone (TSH) release from anterior pituitary </td>
+  </tr>
+</tbody>
+</table>
+
+In the hypothalamic-neurohypophyseal axis, neurohypophysial hormones are released from the posterior pituitary, which is actually a prolongation of the hypothalamus, into the circulation.
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:posteriorpituitaryhormones)Hormones of the posterior pituitary gland.</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Secreted hormone </th>
+   <th style="text-align:left;"> Abbreviation </th>
+   <th style="text-align:left;"> Produced by </th>
+   <th style="text-align:left;"> Effect </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Oxytocin </td>
+   <td style="text-align:left;"> OXY or OXT </td>
+   <td style="text-align:left;"> Magnocellular neurosecretory cells of the paraventricular nucleus and supraoptic nucleus </td>
+   <td style="text-align:left;"> Uterine contraction Lactation (letdown reflex) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Vasopressin (antidiuretic hormone) </td>
+   <td style="text-align:left;"> ADH or AVP </td>
+   <td style="text-align:left;"> Magnocellular and parvocellular neurosecretory cells of the paraventricular nucleus, magnocellular cells in supraoptic nucleus </td>
+   <td style="text-align:left;"> Increase in the permeability to water of the cells of distal tubule and collecting duct in the kidney and thus allows water reabsorption and excretion of concentrated urine </td>
+  </tr>
+</tbody>
+</table>
+
 ## Hypothalamic–pituitary–thyroid axis
 
 The hypothalamic–pituitary–thyroid axis (HPT axis for short, a.k.a. thyroid homeostasis or thyrotropic feedback control) is part of the neuroendocrine system responsible for the regulation of metabolism and also responds to stress.
+
+(ref:hpt) [The hypothalamic–pituitary–thyroid axis (HPT axis for short, a.k.a. thyroid homeostasis or thyrotropic feedback control) is part of the neuroendocrine system responsible for the regulation of metabolism and also responds to stress.](https://commons.wikimedia.org/wiki/File:Thyroid_system.svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/endocrine/Thyroid_system.svg" alt="(ref:hpt)" width="70%" />
+<p class="caption">(\#fig:hpthyroid)(ref:hpt)</p>
+</div>
 
 As its name suggests, it depends upon the hypothalamus, the pituitary gland, and the thyroid gland.
 
@@ -45,6 +175,13 @@ Convergence of multiple afferent signals in the control of TSH release including
 
 The hypothalamic–pituitary–gonadal axis (HPG axis) refers to the hypothalamus, pituitary gland, and gonadal glands as if these individual endocrine glands were a single entity. Because these glands often act in concert, physiologists and endocrinologists find it convenient and descriptive to speak of them as a single system.
 
+(ref:hpg) [The hypothalamic–pituitary–gonadal axis (HPG axis) refers to the hypothalamus, pituitary gland, and gonadal glands as if these individual endocrine glands were a single entity. Because these glands often act in concert, physiologists and endocrinologists find it convenient and descriptive to speak of them as a single system.](https://commons.wikimedia.org/wiki/File:Hypothalamic–pituitary–gonadal_axis.svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/endocrine/Hypothalamic–pituitary–gonadal_axis.svg" alt="(ref:hpg)" width="70%" />
+<p class="caption">(\#fig:hpgonadal)(ref:hpg)</p>
+</div>
+
 The HPG axis plays a critical part in the development and regulation of a number of the body's systems, such as the reproductive and immune systems. Fluctuations in this axis cause changes in the hormones produced by each gland and have various local and systemic effects on the body.
 
 The axis controls development, reproduction, and aging in animals. Gonadotropin-releasing hormone (GnRH) is secreted from the hypothalamus by GnRH-expressing neurons. The anterior portion of the pituitary gland produces luteinizing hormone (LH) and follicle-stimulating hormone (FSH), and the gonads produce estrogen and testosterone.
@@ -59,18 +196,14 @@ These two hormones play an important role in communicating to the gonads. In fem
 
 In addition, leptin and insulin have stimulatory effects and ghrelin has inhibitory effects on gonadotropin-releasing hormone (GnRH) secretion from the hypothalamus. Kisspeptin also influences GnRH secretion.
 
-Function[edit]
-Reproduction[edit]
 One of the most important functions of the HPG axis is to regulate reproduction by controlling the uterine and ovarian cycles. In females, the positive feedback loop between estrogen and luteinizing hormone help to prepare the follicle in the ovary and the uterus for ovulation and implantation. When the egg is released, the empty follicle sac begins to produce progesterone to inhibit the hypothalamus and the anterior pituitary thus stopping the estrogen-LH positive feedback loop. If conception occurs, the placenta will take over the secretion of progesterone; therefore the mother cannot ovulate again. If conception does not occur, decreasing excretion of progesterone will allow the hypothalamus to restart secretion of GnRH. These hormone levels also control the uterine (menstrual) cycle causing the proliferation phase in preparation for ovulation, the secretory phase after ovulation, and menstruation when conception does not occur. The activation of the HPG axis in both males and females during puberty also causes individuals to acquire secondary sex characteristics.
 
 In males, the production of GnRH, LH, and FSH are similar, but the effects of these hormones are different. FSH stimulates sustentacular cells to release androgen-binding protein, which promotes testosterone binding. LH binds to the interstitial cells, causing them to secrete testosterone. Testosterone is required for normal spermatogenesis and inhibits the hypothalamus. Inhibin is produced by the spermatogenic cells, which, also through inactivating activin, inhibits the hypothalamus. After puberty these hormones levels remain relatively constant.
 
-Life cycle[edit]
 The activation and deactivation of the HPG axis also helps to regulate life cycles. At birth FSH and LH levels are elevated, and females also have a lifetime supply of primary oocytes. These levels decrease and remain low through childhood. During puberty the HPG axis is activated by the secretions of estrogen from the ovaries or testosterone from the testes. This activation of estrogen and testosterone causes physiological and psychological changes. Once activated, the HPG axis continues to function in men for the rest of their life but becomes deregulated in women, leading to menopause. This deregulation is caused mainly by the lack of oocytes that normally produce estrogen to create the positive feedback loop. Over several years, the activity the HPG axis decreases and women are no longer fertile.
 
 Although males remain fertile until death, the activity of the HPG axis decreases. As males age, the testes begin to produce less testosterone, leading to a condition known as post-pubertal hypogonadism. The cause of the decreased testosterone is unclear and a current topic of research. Post-pubertal hypogonadism results in progressive muscle mass decrease, increase in visceral fat mass, loss of libido, impotence, decreased attention, increased risk of fractures, and abnormal sperm production.
 
-Sexual dimorphism and behavior[edit]
 Sex steroids also affect behavior, because sex steroids affect the brains structure and functioning. During development, hormones help determine how neurons synapse and migrate to result in sexual dimorphisms. These physical differences lead to differences in behavior. While GnRH has not been shown to have any direct influence on regulating brain structure and function, gonadotropins, sex steroids, and activin have been shown to have such effects. It is thought that FSH may have an important role in brain development and differentiation.
 
 Testosterone levels have been shown to relate to prosocial behavior. This helps create synaptogenesis by promoting neurite development and migration. Activin promotes neural plasticity throughout the lifespan and regulates the neurotransmitters of peripheral neurons. Environment can also affect hormones and behavior interaction. Women have more connections between areas of language better enabling them to communicate than men. On average men outperform women on spatial reasoning tests, which is theorized to result from sexual differences.[citation needed] Testosterone has been linked to aggression and sex drive; therefore men tend to be more competitive or aggressive than women.[citation needed] There is also a large amount of individual diversity within all these traits and hormone levels.
@@ -78,6 +211,13 @@ Testosterone levels have been shown to relate to prosocial behavior. This helps 
 ## Hypothalamic–pituitary–adrenal axis
 
 The hypothalamic–pituitary–adrenal axis (HPA axis or HTPA axis) is a complex set of direct influences and feedback interactions among three components: the hypothalamus, the pituitary gland (a pea-shaped structure located below the thalamus), and the adrenal (also called "suprarenal") glands (small, conical organs on top of the kidneys).
+
+(ref:hpa) [The hypothalamic–pituitary–adrenal axis (HPA axis or HTPA axis) is a complex set of direct influences and feedback interactions among three components: the hypothalamus, the pituitary gland (a pea-shaped structure located below the thalamus), and the adrenal (also called "suprarenal") glands (small, conical organs on top of the kidneys).](https://commons.wikimedia.org/wiki/File:HPA_Axis_Diagram_(Brian_M_Sweis_2012).svg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/endocrine/HPA Axis.svg" alt="(ref:hpa)" width="70%" />
+<p class="caption">(\#fig:hpadrenal)(ref:hpa)</p>
+</div>
 
 These organs and their interactions constitute the HPA axis, a major neuroendocrine system that controls reactions to stress and regulates many body processes, including digestion, the immune system, mood and emotions, sexuality, and energy storage and expenditure. It is the common mechanism for interactions among glands, hormones, and parts of the midbrain that mediate the general adaptation syndrome (GAS). While steroid hormones are produced mainly in vertebrates, the physiological role of the HPA axis and corticosteroids in stress response is so fundamental that analogous systems can be found in invertebrates and monocellular organisms as well.
 

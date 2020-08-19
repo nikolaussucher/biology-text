@@ -230,3 +230,58 @@ From the 10th week of gestation (8th week of development), the developing organi
 All major structures are already formed in the fetus, but they continue to grow and develop. Since the precursors of all the major organs are created by this time, the fetal period is described both by organ and by a list of changes by weeks of gestational age.
 
 Because the precursors of the organs are now formed, the fetus is not as sensitive to damage from environmental exposure as the embryo was. Instead, toxic exposure often causes physiological abnormalities or minor congenital malformation.
+
+## Aging
+
+A number of characteristic aging symptoms are experienced by a majority or by a significant proportion of humans during their lifetimes.
+
+* Teenagers lose the young child's ability to hear high-frequency sounds above 20 kHz.
+* Wrinkles develop mainly due to photoageing, particularly affecting sun-exposed areas (face).
+* After peaking in the mid-20s, female fertility declines.
+* After age 30 the mass of human body is decreased until 70 years and then shows damping oscillations.
+* Muscles have reduced capacity of responding to exercise or injury and loss of muscle mass and strength (sarcopenia) is common. VO2 max and maximum heart rate decline.
+* People over 35 years of age are at increasing risk for losing strength in the ciliary muscle which leads to difficulty focusing on close objects, or presbyopia. Most people experience presbyopia by age 45–50. The cause is lens hardening by decreasing levels of α-crystallin, a process which may be sped up by higher temperatures.
+* Around age 50, hair turns grey. Pattern hair loss by the age of 50 affects about 30–50% of males and a quarter of females.
+* Menopause typically occurs between 44 and 58 years of age.
+* In the 60–64 age cohort, the incidence of osteoarthritis rises to 53%. Only 20% however report disabling osteoarthritis at this age.
+* Almost half of people older than 75 have hearing loss (presbycusis) inhibiting spoken communication. Many vertebrates such as fish, birds and amphibians do not suffer presbycusis in old age as they are able to regenerate their cochlear sensory cells, whereas mammals including humans have genetically lost this ability.
+* By age 80, more than half of all Americans either have a cataract or have had cataract surgery.
+* Frailty, a syndrome of decreased strength, physical activity, physical performance and energy, affects 25% of those over 85.
+* Atherosclerosis is classified as an aging disease. It leads to cardiovascular disease (for example stroke and heart attack) which globally is the most common cause of death. Vessel aging causes vascular remodeling and loss of arterial elasticity and as a result causes the stiffness of the vasculature.
+* Recent evidence suggests that age-related risk of death plateaus after age 105. The maximum human lifespan is suggested to be 115 years. The oldest reliably recorded human was Jeanne Calment who died in 1997 at 122.
+
+Dementia becomes more common with age. About 3% of people between the ages of 65 and 74, 19% between 75 and 84, and nearly half of those over 85 years of age have dementia. The spectrum ranges from mild cognitive impairment to the neurodegenerative diseases of Alzheimer's disease, cerebrovascular disease, Parkinson's disease and Lou Gehrig's disease. Furthermore, many types of memory decline with aging, but not semantic memory or general knowledge such as vocabulary definitions, which typically increases or remains steady until late adulthood (see Aging brain). Intelligence declines with age, though the rate varies depending on the type and may in fact remain steady throughout most of the lifespan, dropping suddenly only as people near the end of their lives. Individual variations in rate of cognitive decline may therefore be explained in terms of people having different lengths of life. There are changes to the brain: after 20 years of age there is a 10% reduction each decade in the total length of the brain's myelinated axons.
+
+Age can result in visual impairment, whereby non-verbal communication is reduced, which can lead to isolation and possible depression. Older adults, however, may not suffer depression as much as younger adults, and were paradoxically found to have improved mood despite declining physical health. Macular degeneration causes vision loss and increases with age, affecting nearly 12% of those above the age of 80. This degeneration is caused by systemic changes in the circulation of waste products and by growth of abnormal vessels around the retina.
+
+A distinction can be made between "proximal aging" (age-based effects that come about because of factors in the recent past) and "distal aging" (age-based differences that can be traced to a cause in a person's early life, such as childhood poliomyelitis).
+
+Aging is among the greatest known risk factors for most human diseases. Of the roughly 150,000 people who die each day across the globe, about two thirds—100,000 per day—die from age-related causes. In industrialized nations, the proportion is higher, reaching 90%.
+In humans, aging represents the accumulation of changes in a human being over time and can encompass physical, psychological, and social changes. Reaction time, for example, may slow with age, while knowledge of world events and wisdom may expand. Aging is among the greatest known risk factors for most human diseases: of the roughly 150,000 people who die each day across the globe, about two-thirds die from age-related causes.
+
+The causes of aging are uncertain; current theories are assigned to the damage concept, whereby the accumulation of damage (such as DNA oxidation) may cause biological systems to fail, or to the programmed aging concept, whereby internal processes (such as DNA methylation) may cause aging. Programmed aging should not be confused with programmed cell death (apoptosis).
+
+At present, researchers are only just beginning to understand the biological basis of aging even in relatively simple and short-lived organisms such as yeast. Less still is known of mammalian aging, in part due to the much longer lives of even small mammals such as the mouse (around 3 years). A model organism for studying of aging is the nematode C. elegans. Thanks to its short lifespan of 2–3 weeks, our ability to easily perform genetic manipulations or to suppress gene activity with RNA interference, or other factors. Most known mutations and RNA interference targets that extend lifespan were first discovered in C. elegans.
+
+The factors proposed to influence biological aging fall into two main categories, programmed and damage-related. Programmed factors follow a biological timetable, perhaps one that might be a continuation of the one that regulates childhood growth and development. This regulation would depend on changes in gene expression that affect the systems responsible for maintenance, repair and defense responses. Damage-related factors include internal and environmental assaults to living organisms that induce cumulative damage at various levels. A third, novel, concept is that aging is mediated by vicious cycles.
+
+In a detailed review, Lopez-Otin and colleagues (2013), who discuss aging through the lens of the damage theory, propose nine metabolic "hallmarks" of aging in various organisms but especially mammals:
+
+* genomic instability (mutations accumulated in nuclear DNA, in mtDNA, and in the nuclear lamina)
+* telomere attrition (the authors note that artificial telomerase confers non-cancerous immortality to otherwise mortal cells)
+* epigenetic alterations (including DNA methylation patterns, post-translational modification of histones, and chromatin remodelling)
+* loss of proteostasis (protein folding and proteolysis)
+* deregulated nutrient sensing (relating to the Growth hormone/Insulin-like growth factor 1 signalling pathway, which is the most conserved aging-controlling pathway in evolution and among its targets are the FOXO3/Sirtuin transcription factors and the mTOR complexes, probably responsive to caloric restriction)
+* mitochondrial dysfunction (the authors point out however that a causal link between aging and increased mitochondrial production of reactive oxygen species is no longer supported by recent research)
+* cellular senescence (accumulation of no longer dividing cells in certain tissues, a process induced especially by p16INK4a/Rb and p19ARF/p53 to stop cancerous cells from proliferating)
+* stem cell exhaustion (in the authors' view caused by damage factors such as those listed above)
+* altered intercellular communication (encompassing especially inflammation but possibly also other intercellular interactions)
+
+There are three main metabolic pathways which can influence the rate of aging, discussed below:
+
+* the FOXO3/Sirtuin pathway, probably responsive to caloric restriction
+* the Growth hormone/Insulin-like growth factor 1 signalling pathway
+* the activity levels of the electron transport chain in mitochondria and (in plants) in chloroplasts.
+
+It is likely that most of these pathways affect aging separately, because targeting them simultaneously leads to additive increases in lifespan.
+

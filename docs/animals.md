@@ -305,6 +305,7 @@ Sponges are more abundant but less diverse in temperate waters than in tropical 
 
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:porifera)Comparison of 4 classes of sponges.</caption>
  <thead>
   <tr>
    <th style="text-align:left;">  </th>
@@ -322,7 +323,7 @@ Sponges are more abundant but less diverse in temperate waters than in tropical 
    <td style="text-align:left;"> CalciteMay be individual or large masses </td>
    <td style="text-align:left;"> Never </td>
    <td style="text-align:left;"> Common.Made of calcite if present. </td>
-   <td style="text-align:left;"> Asconoid, syconoid, leuconoid or solenoid[97] </td>
+   <td style="text-align:left;"> Asconoid, syconoid, leuconoid or solenoid </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Hexactinellida </td>
@@ -337,7 +338,7 @@ Sponges are more abundant but less diverse in temperate waters than in tropical 
    <td style="text-align:left;"> Single nucleus, single external membrane </td>
    <td style="text-align:left;"> Silica </td>
    <td style="text-align:left;"> In many species </td>
-   <td style="text-align:left;"> In some species.Made of aragonite if present.[25][39] </td>
+   <td style="text-align:left;"> In some species.Made of aragonite if present. </td>
    <td style="text-align:left;"> Leuconoid </td>
   </tr>
   <tr>
@@ -459,6 +460,7 @@ Anthozoan larvae either have large yolks or are capable of feeding on plankton, 
 All known cnidaria can reproduce asexually by various means, in addition to regenerating after being fragmented. Hydrozoan polyps only bud, while the medusae of some hydrozoans can divide down the middle. Scyphozoan polyps can both bud and split down the middle. In addition to both of these methods, Anthozoa can split horizontally just above the base. Asexual reproduction makes the daughter cnidarian a clone of the adult.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:cniaria)Comparison of 4 classes of cnidaria.</caption>
  <thead>
   <tr>
    <th style="text-align:left;">  </th>
@@ -471,7 +473,7 @@ All known cnidaria can reproduce asexually by various means, in addition to rege
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> Number of species[32] </td>
+   <td style="text-align:left;"> Number of species </td>
    <td style="text-align:left;"> 3,600 </td>
    <td style="text-align:left;"> 228 </td>
    <td style="text-align:left;"> 42 </td>
@@ -537,13 +539,14 @@ Having a front end means that this part of the body encounters stimuli, such as 
 (ref:bibod) [Idealised bilaterian body plan.](https://commons.wikimedia.org/wiki/File:Bilaterian_body_plan.svg) With an elongated body and a direction of movement the animal has head and tail ends. Sense organs and mouth form the basis of the head. Opposed circular and longitudinal muscles enable peristaltic motion.
 
 <div class="figure" style="text-align: center">
-<img src="./figures/animals/Bilaterian_body_plan.svg" alt="(ref:bipod)" width="70%" />
-<p class="caption">(\#fig:bilaterianbodyplan)(ref:bipod)</p>
+<img src="./figures/animals/Bilaterian_body_plan.svg" alt="(ref:bibod)" width="70%" />
+<p class="caption">(\#fig:bilaterianbodyplan)(ref:bibod)</p>
 </div>
 
 Genetic studies have considerably changed zoologists' understanding of the relationships within the Bilateria. Most appear to belong to two major lineages, the protostomes and the deuterostomes. The basalmost bilaterians are the Xenacoelomorpha.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:anicomparison)Comparison of major characteristics of porifera, cnidaria, ctenophora and bilateria.</caption>
  <thead>
   <tr>
    <th style="text-align:left;">  </th>
@@ -639,6 +642,135 @@ Protostomes and deuterostomes differ in several ways. Early in development, deut
 </div>
 
 The main deuterostome phyla are the Echinodermata and the Chordata. Echinoderms are exclusively marine and include starfish, sea urchins, and sea cucumbers. The chordates are dominated by the vertebrates (animals with backbones), which consist of fishes, amphibians, reptiles, birds, and mammals. The deuterostomes also include the Hemichordata (acorn worms).
+
+## Echinoderms
+
+Echinoderm is the common name given to any member of the phylum Echinodermata (from Ancient Greek, ἐχῖνος, echinos – "hedgehog" and δέρμα, derma – "skin") of marine animals. The adults are recognizable by their (usually five-point) radial symmetry, and include starfish, sea urchins, sand dollars, and sea cucumbers, as well as the sea lilies or "stone lilies". Echinoderms are found at every ocean depth, from the intertidal zone to the abyssal zone. The phylum contains about 7000 living species, making it the second-largest grouping of deuterostomes (a superphylum), after the chordates (which include the vertebrates, such as birds, fishes, mammals, and reptiles). Echinoderms are also the largest phylum that has no freshwater or terrestrial (land-based) representatives.
+
+(ref:seacucu) [A sea cucumber from Malaysia.](https://commons.wikimedia.org/wiki/File:Sea_cucumber_at_Pulau_Redang.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Sea_cucumber_at_Pulau_Redang.jpg" alt="(ref:seacucu)" width="70%" />
+<p class="caption">(\#fig:seacucumber)(ref:seacucu)</p>
+</div>
+
+Aside from the hard-to-classify Arkarua (a Precambrian animal with echinoderm-like pentamerous radial symmetry), the first definitive members of the phylum appeared near the start of the Cambrian. One group of Cambrian echinoderms, the cinctans (Homalozoa), which are close to the base of the echinoderm origin, have been found to possess external gills used for filter feeding, similar to those possessed by chordates and hemichordates.
+
+The echinoderms are important both ecologically and geologically. Ecologically, there are few other groupings so abundant in the biotic desert of the deep sea, as well as shallower oceans. Most echinoderms are able to reproduce asexually and regenerate tissue, organs, and limbs; in some cases, they can undergo complete regeneration from a single limb. Geologically, the value of echinoderms is in their ossified skeletons, which are major contributors to many limestone formations, and can provide valuable clues as to the geological environment. They were the most used species in regenerative research in the 19th and 20th centuries. Further, some scientists hold that the radiation of echinoderms was responsible for the Mesozoic Marine Revolution.
+
+(ref:starfi) [Starfish exhibit a wide range of colours.](https://commons.wikimedia.org/wiki/File:Nerr0878.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Nerr0878.jpg" alt="(ref:starfi)" width="70%" />
+<p class="caption">(\#fig:starfish)(ref:starfi)</p>
+</div>
+
+Along with the chordates and hemichordates, echinoderms are deuterostomes, one of the two major divisions of the bilaterians, the other being the protostomes. During the early development of the embryo, in deuterostomes, the blastopore (the first opening to form) becomes the anus whereas in the protostomes, it becomes the mouth. In deuterostomes, the mouth develops at a later stage, at the opposite end of the blastula from the blastopore, and a gut forms connecting the two. The larvae of echinoderms have bilateral symmetry but this is lost during metamorphosis when their bodies are reorganised and develop the characteristic radial symmetry of the echinoderm, typically pentamerism. The characteristics of adult echinoderms are the possession of a water vascular system with external tube feet and a calcareous endoskeleton consisting of ossicles connected by a mesh of collagen fibres. A 2014 analysis of 219 genes from all classes of echinoderms gives the following phylogenetic tree.
+
+There are a total of about 7,000 extant species of echinoderm as well as about 13,000 extinct species. They are found in habitats ranging from shallow intertidal areas to abyssal depths. Two main subdivisions are traditionally recognised: the more familiar motile Eleutherozoa, which encompasses the Asteroidea (starfish, 1,745 recent species), Ophiuroidea (brittle stars, 2,300 species), Echinoidea (sea urchins and sand dollars, 900 species) and Holothuroidea (sea cucumbers, 1,430 species); and the Pelmatozoa, some of which are sessile while others move around. These consist of the Crinoidea (feather stars and sea lilies, 580 species) and the extinct blastoids and Paracrinoids. A fifth class of Eleutherozoa consisting of just three species, the Concentricycloidea (sea daisies), were recently merged into the Asteroidea
+
+(ref:seaurch) [Strongylocentrotus purpuratus, a well-armoured sea urchin.](https://commons.wikimedia.org/wiki/File:Strongylocentrotus_purpuratus_1.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Strongylocentrotus_purpuratus_1.jpg" alt="(ref:)" width="70%" />
+<p class="caption">(\#fig:seaurchin)(ref:)</p>
+</div>
+
+Echinoderms evolved from animals with bilateral symmetry. Although adult echinoderms possess pentaradial, or five-sided, symmetry, echinoderm larvae are ciliated, free-swimming organisms that organize in bilateral symmetry which makes them look like embryonic chordates. Later, the left side of the body grows at the expense of the right side, which is eventually absorbed. The left side then grows in a pentaradially symmetric fashion, in which the body is arranged in five parts around a central axis. Within the Asterozoa, there can be a few exceptions from the rule. The starfish genus Leptasterias normally have six arms, although five-armed individuals can occur. Also the Brisingida have six armed species. Amongst the brittle stars, six-armed species such as Ophiothela danae, Ophiactis savignyi, and Ophionotus hexactis exists, and Ophiacantha vivipara often has more than six.
+
+Echinoderms exhibit secondary radial symmetry in portions of their body at some stage of life. This, however, is an adaptation to their sessile existence. They developed from other members of the Bilateria and exhibit bilateral symmetry in their larval stage. Many crinoids and some seastars exhibit symmetry in multiples of the basic five, with starfish such as Labidiaster annulatus known to possess up to fifty arms, and the sea-lily Comaster schlegelii having two hundred.
+
+Echinoderms have a mesodermal skeleton composed of calcareous plates or ossicles. Each one of these, even the articulating spine of a sea urchin, is composed mineralogically of a crystal of calcite. If solid, these would form a heavy skeleton, so they have a sponge-like porous structure known as stereom. Ossicles may be fused together, as in the test of sea urchins, or may articulate with each other as in the arms of sea stars, brittle stars and crinoids. The ossicles may be flat plates or bear external projections in the form of spines, granules or warts and they are supported by a tough epidermis (skin). Skeletal elements are also deployed in some specialized ways, such as the "Aristotle's lantern" mouthparts of sea urchins used for grinding, the supportive stalks of crinoids and the structural "lime ring" of sea cucumbers.
+
+Despite the robustness of the individual skeletal modules complete skeletons of starfish, brittle stars and crinoids are rare in the fossil record. This is because they quickly disarticulate (disconnect from each other) once the encompassing skin rots away, and in the absence of tissue there is nothing to hold the plates together. The modular construction is a result of the growth system employed by echinoderms, which adds new segments at the centre of the radial limbs, pushing the existing plates outwards and lengthening the arms. Sea urchins on the other hand are often well preserved in chalk beds or limestone. During fossilization, the cavities in the stereom are filled in with calcite that is in crystalline continuity with the surrounding material. On fracturing such rock, distinctive cleavage patterns can be seen and sometimes even the intricate internal and external structure of the test.
+
+The epidermis consists of cells responsible for the support and maintenance of the skeleton, as well as pigment cells, mechanoreceptor cells (which detect motion on the animal's surface), and sometimes gland cells which secrete sticky fluids or even toxins. The varied and often vivid colours of echinoderms are produced by the action of skin pigment cells. These are produced by a variable combination of coloured pigments, such as the dark melanin, red carotinoids, and carotene proteins, which can be blue, green, or violet. These may be light-sensitive, and as a result many echinoderms change appearance completely as night falls. The reaction can happen quickly – the sea urchin Centrostephanus longispinus changes from jet black to grey-brown in just fifty minutes when exposed to light.
+
+One characteristic of most echinoderms is a special kind of tissue known as "catch connective tissue". This collagenous material can change its mechanical properties in a few seconds or minutes through nervous control rather than by muscular means. This tissue enables a starfish to change from moving flexibly around the seabed to becoming rigid while prying open a bivalve mollusc or preventing itself from being extracted from a crevice. Similarly, sea urchins can lock their normally mobile spines rigidly as a defensive mechanism when attacked.
+
+Echinoderms possess a unique water vascular system. This is a network of fluid-filled canals derived from the coelom (body cavity) that function in gas exchange, feeding, sensory reception and locomotion. This system varies between different classes of echinoderm but typically opens to the exterior through a sieve-like madreporite on the aboral (upper) surface of the animal. The madreporite is linked to a slender duct, the stone canal, which extends to a ring canal that encircles the mouth or oesophagus. From this, radial canals extend along the arms of asteroids and adjoin the test in the ambulacral areas of echinoids. Short lateral canals branch off the radial canals, each one ending in an ampulla. Part of the ampulla can protrude through a pore (or a pair of pores in sea urchins) to the exterior and is known as a podium or tube feet. The water vascular system assists with the distribution of nutrients throughout the animal's body and is most obviously expressed in the tube feet which can be extended or contracted by the redistribution of fluid between the foot and the internal sac.
+
+The organization of the system is somewhat different in ophiuroids where the madreporite may be on the oral surface and the podia lack suckers. In holothuroids, the podia may be reduced or absent and the madreporite opens into the body cavity so that the circulating liquid is coelomic fluid rather than sea water. The arrangements in crinoids is similar to asteroids but the tube feet lack suckers and are used to pass food particles captured by the arms towards the central mouth. In the asteroids, the same wafting motion is employed to move the animal across the ground. Sea urchins use their feet to prevent the larvae of encrusting organisms from settling on their surfaces; potential settlers are moved to the urchin's mouth and eaten. Some burrowing sea stars extend their elongated dorsal tube feet to the surface of the sand or mud above and use them to absorb oxygen from the water column.
+
+Echinoderms possess a simple digestive system which varies according to the animal's diet. Starfish are mostly carnivorous and have a mouth, oesophagus, two-part stomach, intestine and rectum, with the anus located in the centre of the aboral body surface. With a few exceptions, the members of the order Paxillosida do not possess an anus. In many species of starfish, the large cardiac stomach can be everted and digest food outside the body. In other species, whole food items such as molluscs may be ingested. Brittle stars have a blind gut with no intestine or anus. They have varying diets and expel food waste through their mouth. Sea urchins are herbivores and use their specialised mouthparts to graze, tear and chew algae and sometimes other animal or vegetable material. They have an oesophagus, a large stomach and a rectum with the anus at the apex of the test. Sea cucumbers are mostly detritivores, sorting through the sediment with their buccal tentacles which are modified tube feet. Sand and mud accompanies their food through their simple gut which has a long coiled intestine and a capacious cloaca. Crinoids are passive suspension feeders, catching plankton with their outstretched arms. Boluses of mucus-trapped food are passed to the mouth which is linked to the anus by a loop consisting of a short oesophagus and longer intestine.
+
+The coelomic cavities of echinoderms are complex. Aside from the water vascular system, echinoderms have a haemal coelom (or haemal system, the "haemal" being a misnomer), a perivisceral coelom, a gonadal coelom and often also a perihaemal coelom (or perihaemal system). During development, echinoderm coelom is divided in metacoel, mesocoel and protocoel (also called somatocoel, hydrocoel and axocoel, respectively). The water vascular system, haemal system and perihaemal system form the tubular coelomic system. Echinoderms are an exception having both a coelomic circulatory system (i.e., the water vascular system) and a haemal circulatory system (i.e., the haemal and perihaemal systems).
+
+Haemal and perihaemal systems are derived from the coelom and form an open and reduced circulatory system. This usually consists of a central ring and five radial vessels. There is no true heart and the blood often lacks any respiratory pigment. Gaseous exchange occurs via dermal branchiae or papulae in starfish, genital bursae in brittle stars, peristominal gills in sea urchins and cloacal trees in sea cucumbers. Exchange of gases also takes place through the tube feet. Echinoderms lack specialized excretory (waste disposal) organs and so nitrogenous waste, chiefly in the form of ammonia, diffuses out through the respiratory surfaces.
+
+The coelomic fluid contains the coelomocytes, or immune cells. There are several types of immune cells, which vary among classes and species. All classes possess a type of phagocytic amebocyte, which engulf invading particles and infected cells, aggregate or clot, and may be involved in cytotoxicity. These cells are usually larger and granular, and are suggested to be a main line of defense against potential pathogens. Depending on the class, echinoderms may have spherule cells (for cytotoxicity, inflammation, and anti-bacterial activity), vibratile cells (for coelomic fluid movement and clotting), and crystal cells (potential osmoregulatory cells in sea cucumbers),. The coelomocytes also secrete Anti-Microbial Peptides (AMPs) against bacteria, and have a set of lectins and complement proteins as part of an innate immune system that is still being characterized.
+
+Echinoderms have a simple radial nervous system that consists of a modified nerve net consisting of interconnecting neurons with no central brain, although some do possess ganglia. Nerves radiate from central rings around the mouth into each arm or along the body wall; the branches of these nerves coordinate the movements of the organism and the synchronisation of the tube feet. Starfish have sensory cells in the epithelium and have simple eyespots and touch-sensitive tentacle-like tube feet at the tips of their arms. Sea urchins have no particular sense organs but do have statocysts that assist in gravitational orientation, and they have sensory cells in their epidermis, particularly in the tube feet, spines and pedicellariae. Brittle stars, crinoids and sea cucumbers in general do not have sensory organs but some burrowing sea cucumbers of the order Apodida have a single statocyst adjoining each radial nerve and some have an eyespot at the base of each tentacle.
+
+The gonads occupy much of the body cavities of sea urchins and sea cucumbers, while the less voluminous crinoids, brittle stars and starfish have two gonads in each arm. While the ancestral condition is considered to be the possession of one genital aperture, many organisms have multiple gonopores through which eggs or sperm may be released.
+
+Many echinoderms have remarkable powers of regeneration. Many species routinely autotomize and regenerate arms and viscera. Sea cucumbers often discharge parts of their internal organs if they perceive themselves to be threatened. The discharged organs and tissues are regenerated over the course of several months. Sea urchins are constantly replacing spines lost through damage. Sea stars and sea lilies readily lose and regenerate their arms. In most cases, a single severed arm cannot grow into a new starfish in the absence of at least part of the disc. However, in a few species a single arm can survive and develop into a complete individual and in some species, the arms are intentionally detached for the purpose of asexual reproduction. During periods when they have lost their digestive tracts, sea cucumbers live off stored nutrients and absorb dissolved organic matter directly from the water.
+
+Echinoderms become sexually mature after approximately two to three years, depending on the species and the environmental conditions. They are nearly all gonochoric, though a few species are hermaphroditic. The eggs and sperm cells are typically released into open water, where fertilization takes place. The release of sperm and eggs is synchronised in some species, usually with regard to the lunar cycle. In other species, individuals may aggregate during the reproductive season, thereby increasing the likelihood of successful fertilisation. Internal fertilisation has currently been observed in three species of sea star, three brittle stars and a deep water sea cucumber. Even at abyssal depths, where no light penetrates, synchronisation of reproductive activity in echinoderms is surprisingly frequent.
+
+Some echinoderms brood their eggs. This is especially common in cold water species where planktonic larvae might not be able to find sufficient food. These retained eggs are usually few in number and are supplied with large yolks to nourish the developing embryos. In starfish, the female may carry the eggs in special pouches, under her arms, under her arched body or even in her cardiac stomach. Many brittle stars are hermaphrodites. Egg brooding is quite common and usually takes place in special chambers on their oral surfaces, but sometimes the ovary or coelom is used. In these starfish and brittle stars, direct development without passing through a bilateral larval stage usually takes place. A few sea urchins and one species of sand dollar carry their eggs in cavities, or near their anus, holding them in place with their spines. Some sea cucumbers use their buccal tentacles to transfer their eggs to their underside or back where they are retained. In a very small number of species, the eggs are retained in the coelom where they develop viviparously, later emerging through ruptures in the body wall. In some species of crinoid, the embryos develop in special breeding bags, where the eggs are held until sperm released by a male happens to find them.
+
+The development of an echinoderm begins with a bilaterally symmetrical embryo, with a coeloblastula developing first. Gastrulation marks the opening of the "second mouth" that places echinoderms within the deuterostomes, and the mesoderm, which will host the skeleton, migrates inwards. The secondary body cavity, the coelom, forms by the partitioning of three body cavities. The larvae are mostly planktonic but in some species the eggs are retained inside the female and in some, the larvae are also brooded by the female.
+
+The larvae of echinoderms pass through a number of stages and these have specific names derived from the taxonomic names of the adults or from their appearance. For example, a sea urchin has an 'echinopluteus' larva while a brittle star has an 'ophiopluteus' larva. A starfish has a 'bipinnaria' larva but this later develops into a multi-armed 'brachiolaria' larva. A sea cucumber larva is an 'auricularia' while a crinoid one is a 'vitellaria'. All these larvae are bilaterally symmetrical and have bands of cilia with which they swim and some, usually known as 'pluteus' larvae, have arms. When fully developed they settle on the seabed to undergo metamorphosis and the larval arms and gut degenerate. The left hand side of the larva develops into the oral surface of the juvenile while the right side becomes the aboral surface. At this stage the bilateral symmetry is lost and radial symmetry develops.
+
+The planktotrophic larva is considered to be the ancestral larval type for echinoderms but after 500 million years of larval evolution, about 68% of species whose development is known have a lecithotrophic larval type. The provision of a yolk-sac means that smaller numbers of eggs are produced, the larvae have a shorter development period, smaller dispersal potential but a greater chance of survival. There seems to be an evolutionary trend towards a "lower-risk–lower-gain" strategy of direct development.
+
+Echinoderms are globally distributed in almost all depths, latitudes and environments in the ocean. They reach highest diversity in reef environments but are also widespread on shallow shores, around the poles – refugia where crinoids are at their most abundant – and throughout the deep ocean, where bottom-dwelling and burrowing sea cucumbers are common – sometimes accounting for up to 90% of organisms. While almost all echinoderms are benthic – that is, they live on the sea floor – some sea-lilies can swim at great velocity for brief periods of time, and a few deep-sea sea cucumbers are fully floating. Some crinoids are pseudo-planktonic, attaching themselves to floating logs and debris, although this behaviour was exercised most extensively in the Paleozoic, before competition from such organisms as barnacles restricted the extent of the behaviour.
+
+The larvae of echinoderms, especially starfish and sea urchins, are pelagic, and with the aid of ocean currents can be transported for great distances, reinforcing the global distribution of the phylum.
+
+## Hemichordata
+
+Hemichordata is a phylum of marine deuterostome animals, generally considered the sister group of the echinoderms. They appear in the Lower or Middle Cambrian and include two main classes: Enteropneusta (acorn worms), and Pterobranchia. A third class, Planctosphaeroidea, is known only from the larva of a single species, Planctosphaera pelagica. The extinct class Graptolithina is closely related to the pterobranchs.
+
+(ref:hemich) [Acorn worm, a hemichordate.](https://commons.wikimedia.org/wiki/File:Eichelwurm_(cropped).jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Eichelwurm_(cropped).jpg" alt="(ref:hemich)" width="70%" />
+<p class="caption">(\#fig:hemichordate)(ref:hemich)</p>
+</div>
+
+Acorn worms are solitary worm-shaped organisms. They generally live in burrows (the earliest secreted tubes) and are deposit feeders, but some species are pharyngeal filter feeders, while the family Torquaratoridae are free living detritivores. Many are well known for their production and accumulation of various halogenated phenols and pyrroles. Pterobranchs are filter-feeders, mostly colonial, living in a collagenous tubular structure called a coenecium.
+
+## Chordata
+
+A chordate is an animal of the phylum Chordata. During some period of their life cycle, chordates possess a notochord, a dorsal nerve cord, pharyngeal slits, and a post-anal tail: these four anatomical features define this phylum. Chordates are also bilaterally symmetric, and have a coelom, metameric segmentation, and circulatory system.
+
+The Chordata and Ambulacraria together form the superphylum Deuterostomia. Chordates are divided into three subphyla: Vertebrata (fish, amphibians, reptiles, birds, and mammals); Tunicata or Urochordata (sea squirts, salps); and Cephalochordata (which includes lancelets). There are also extinct taxa such as the Vetulicolia. Hemichordata (which includes the acorn worms) has been presented as a fourth chordate subphylum, but now is treated as a separate phylum: hemichordates and Echinodermata form the Ambulacraria, the sister phylum of the Chordates. Of the more than 65,000 living species of chordates, about half are bony fish that are members of the superclass Pisces, class Osteichthyes.
+
+Chordate fossils have been found from as early as the Cambrian explosion, 541 million years ago. Cladistically (phylogenetically), vertebrates – chordates with the notochord replaced by a vertebral column during development – are considered to be a subgroup of the clade Craniata, which consists of chordates with a skull. The Craniata and Tunicata compose the clade Olfactores. 
+
+Chordates form a phylum of animals that are defined by having at some stage in their lives all of the following anatomical features:
+
+* A notochord, a fairly stiff rod of cartilage that extends along the inside of the body. Among the vertebrate sub-group of chordates the notochord develops into the spine, and in wholly aquatic species this helps the animal to swim by flexing its tail.
+* A dorsal neural tube. In fish and other vertebrates, this develops into the spinal cord, the main communications trunk of the nervous system.
+* Pharyngeal slits. The pharynx is the part of the throat immediately behind the mouth. In fish, the slits are modified to form gills, but in some other chordates they are part of a filter-feeding system that extracts particles of food from the water in which the animals live.
+* Post-anal tail. A muscular tail that extends backwards behind the anus.
+* An endostyle. This is a groove in the ventral wall of the pharynx. In filter-feeding species it produces mucus to gather food particles, which helps in transporting food to the esophagus. It also stores iodine, and may be a precursor of the vertebrate thyroid gland.
+
+There are soft constraints that separate chordates from certain other biological lineages, but are not part of the formal definition:
+
+* All chordates are deuterostomes. This means that, during the embryo development stage, the anus forms before the mouth.
+* All chordates are based on a bilateral body plan.
+* All chordates are coelomates, and have a fluid-filled body cavity called a coelom with a complete lining called peritoneum derived from mesoderm (see Brusca and Brusca).
+
+Cephalochordates, one of the three subdivisions of chordates, are small, "vaguely fish-shaped" animals that lack brains, clearly defined heads and specialized sense organs. These burrowing filter-feeders compose the earliest-branching chordate sub-phylum.
+
+Most tunicates appear as adults in two major forms, known as "sea squirts" and salps, both of which are soft-bodied filter-feeders that lack the standard features of chordates. Sea squirts are sessile and consist mainly of water pumps and filter-feeding apparatus; salps float in mid-water, feeding on plankton, and have a two-generation cycle in which one generation is solitary and the next forms chain-like colonies. However, all tunicate larvae have the standard chordate features, including long, tadpole-like tails; they also have rudimentary brains, light sensors and tilt sensors. The third main group of tunicates, Appendicularia (also known as Larvacea), retain tadpole-like shapes and active swimming all their lives, and were for a long time regarded as larvae of sea squirts or salps. The etymology of the term Urochordata (Balfour 1881) is from the ancient Greek οὐρά (oura, "tail") + Latin chorda ("cord"), because the notochord is only found in the tail. The term Tunicata (Lamarck 1816) is recognised as having precedence and is now more commonly used.
+
+(ref:compchor) [A. Lancelet, B. Larval tunicate, C. Adult tunicate](https://commons.wikimedia.org/wiki/File:Comparison_of_Three_Invertebrate_Chordates.svg) 1. Notochord, 2. Nerve chord, 3. Buccal cirri, 4. Pharynx, 5. Gill slit, 6. Gonad, 7. Gut, 8. V-shaped muscles, 9. Anus, 10. Inhalant syphon, 11. Exhalant syphon, 12. Heart, 13. Stomach, 14. Esophagus, 15. Intestines, 16. Tail, 17. Atrium, 18. Tunic
+
+<div class="figure" style="text-align: center">
+<img src="./figures//" alt="(ref:)" width="70%" />
+<p class="caption">(\#fig:unnamed-chunk-1)(ref:)</p>
+</div>
+
+Craniates all have distinct skulls. They include the hagfish, which have no vertebrae. Michael J. Benton commented that "craniates are characterized by their heads, just as chordates, or possibly all deuterostomes, are by their tails".
+
+Most craniates are vertebrates, in which the notochord is replaced by the vertebral column. These consist of a series of bony or cartilaginous cylindrical vertebrae, generally with neural arches that protect the spinal cord, and with projections that link the vertebrae. However hagfish have incomplete braincases and no vertebrae, and are therefore not regarded as vertebrates, but as members of the craniates, the group from which vertebrates are thought to have evolved. However the cladistic exclusion of hagfish from the vertebrates is controversial, as they may be degenerate vertebrates who have lost their vertebral columns.
+
+The position of lampreys is ambiguous. They have complete braincases and rudimentary vertebrae, and therefore may be regarded as vertebrates and true fish. However, molecular phylogenetics, which uses biochemical features to classify organisms, has produced both results that group them with vertebrates and others that group them with hagfish. If lampreys are more closely related to the hagfish than the other vertebrates, this would suggest that they form a clade, which has been named the Cyclostomata.
 
 ### Fish
 
@@ -771,6 +903,66 @@ Nematodes have successfully adapted to nearly every ecosystem: from marine (salt
 ## Spiralia
 
 The Spiralia are a large group of protostomes that develop by spiral cleavage in the early embryo. The Spiralia's phylogeny has been disputed, but it contains a large clade, the superphylum Lophotrochozoa, and smaller groups of phyla such as the Rouphozoa which includes the gastrotrichs and the flatworms. All of these are grouped as the Platytrochozoa, which has a sister group, the Gnathifera, which includes the rotifers.
+
+### Rotifera
+
+The rotifers (from Latin rota "wheel" and -fer "bearing"), commonly called wheel animals or wheel animalcules, make up a phylum (Rotifera) of microscopic and near-microscopic pseudocoelomate animals.
+
+(ref:rotifer) [A Rotifera (wheel animal).](https://commons.wikimedia.org/wiki/File:Mikrofoto.de-Raedertier_Ptygura_pilula_2.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Mikrofoto.de-Raedertier_Ptygura_pilula_2.jpg" alt="(ref:rotifer)" width="70%" />
+<p class="caption">(\#fig:rotifera)(ref:rotifer)</p>
+</div>
+
+They were first described by Rev. John Harris in 1696, and other forms were described by Antonie van Leeuwenhoek in 1703. Most rotifers are around 0.1–0.5 mm long (although their size can range from 50 μm to over 2 mm), and are common in freshwater environments throughout the world with a few saltwater species.
+
+Some rotifers are free swimming and truly planktonic, others move by inchworming along a substrate, and some are sessile, living inside tubes or gelatinous holdfasts that are attached to a substrate. About 25 species are colonial (e.g., Sinantherina semibullata), either sessile or planktonic. Rotifers are an important part of the freshwater zooplankton, being a major foodsource and with many species also contributing to the decomposition of soil organic matter. Most species of the rotifers are cosmopolitan, but there are also some endemic species, like Cephalodella vittata to Lake Baikal. Recent barcoding evidence, however, suggests that some 'cosmopolitan' species, such as Brachionus plicatilis, B. calyciflorus, Lecane bulla, among others, are actually species complexes.
+
+Rotifers have bilateral symmetry and a variety of different shapes. The body of a rotifer is divided into a head, trunk, and foot, and is typically somewhat cylindrical. There is a well-developed cuticle, which may be thick and rigid, giving the animal a box-like shape, or flexible, giving the animal a worm-like shape; such rotifers are respectively called loricate and illoricate. Rigid cuticles are often composed of multiple plates, and may bear spines, ridges, or other ornamentation. Their cuticle is nonchitinous and is formed from sclerotized proteins.
+
+The most distinctive feature of rotifers is the presence of a ciliated structure, called the corona, on the head. In the more primitive species, this forms a simple ring of cilia around the mouth from which an additional band of cilia stretches over the back of the head. In the great majority of rotifers, however, this has evolved into a more complex structure.
+
+Modifications to the basic plan of the corona include alteration of the cilia into bristles or large tufts, and either expansion or loss of the ciliated band around the head. In genera such as Collotheca, the corona is modified to form a funnel surrounding the mouth. In many species, such as those in the genus Testudinella, the cilia around the mouth have disappeared, leaving just two small circular bands on the head. In the bdelloids, this plan is further modified, with the upper band splitting into two rotating wheels, raised up on a pedestal projecting from the upper surface of the head.
+
+The trunk forms the major part of the body, and encloses most of the internal organs. The foot projects from the rear of the trunk, and is usually much narrower, giving the appearance of a tail. The cuticle over the foot often forms rings, making it appear segmented, although the internal structure is uniform. Many rotifers can retract the foot partially or wholly into the trunk. The foot ends in from one to four toes, which, in sessile and crawling species, contain adhesive glands to attach the animal to the substratum. In many free-swimming species, the foot as a whole is reduced in size, and may even be absent.
+
+The coronal cilia create a current that sweeps food into the mouth. The mouth opens into a characteristic chewing pharynx (called the mastax), sometimes via a ciliated tube, and sometimes directly. The pharynx has a powerful muscular wall and contains tiny, calcified, jaw-like structures called trophi, which are the only fossilizable parts of a rotifer. The shape of the trophi varies between different species, depending partly on the nature of their diet. In suspension feeders, the trophi are covered in grinding ridges, while in more actively carnivorous species, they may be shaped like forceps to help bite into prey. In some ectoparasitic rotifers, the mastax is adapted to grip onto the host, although, in others, the foot performs this function instead.
+
+Behind the mastax lies an oesophagus, which opens into a stomach where most of the digestion and absorption occurs. The stomach opens into a short intestine that terminates in a cloaca on the posterior dorsal surface of the animal. Up to seven salivary glands are present in some species, emptying to the mouth in front of the oesophagus, while the stomach is associated with two gastric glands that produce digestive enzymes.
+
+A pair of protonephridia open into a bladder that drains into the cloaca. These organs expel water from the body, helping to maintain osmotic balance.
+
+Rotifers have a small brain, located just above the mastax, from which a number of nerves extend throughout the body. The number of nerves varies among species, although the nervous system usually has a simple layout. Close to the brain lies a retrocerebral organ, consisting of two glands either side of a medial sac. The sac drains into a duct that divides into two before opening through pores on the uppermost part of the head. The function of the retrocerebral organ is unclear.
+
+The nervous system comprises about 25% of the roughly 1,000 cells in a rotifer.
+
+Rotifers typically possess one or two pairs of short antennae and up to five eyes. The eyes are simple in structure, sometimes with just a single photoreceptor cell. In addition, the bristles of the corona are sensitive to touch, and there are also a pair of tiny sensory pits lined by cilia in the head region.
+
+The coronal cilia pull the animal, when unattached, through the water.
+
+Like many other microscopic animals, adult rotifers frequently exhibit eutely—they have a fixed number of cells within a species, usually on the order of 1,000.
+
+Bdelloid rotifer genomes contain two or more divergent copies of each gene, suggesting a long-term asexual evolutionary history. For example, four copies of hsp82 are found. Each is different and found on a different chromosome excluding the possibility of homozygous sexual reproduction.
+
+Rotifers eat particulate organic detritus, dead bacteria, algae, and protozoans. They eat particles up to 10 micrometres in size. Like crustaceans, rotifers contribute to nutrient recycling. For this reason, they are used in fish tanks to help clean the water, to prevent clouds of waste matter. Rotifers affect the species composition of algae in ecosystems through their choice in grazing. Rotifers may be in competition with cladocera and copepods for planktonic food sources.
+
+Rotifers are dioecious and reproduce sexually or parthenogenetically. They are sexually dimorphic, with the females always being larger than the males. In some species, this is relatively mild, but in others the female may be up to ten times the size of the male. In parthenogenetic species, males may be present only at certain times of the year, or absent altogether.
+
+The female reproductive system consists of one or two ovaries, each with a vitellarium gland that supplies the eggs with yolk. Together, each ovary and vitellarium form a single syncitial structure in the anterior part of the animal, opening through an oviduct into the cloaca.
+
+Males do not usually have a functional digestive system, and are therefore short-lived, often being sexually fertile at birth. They have a single testicle and sperm duct, associated with a pair of glandular structures referred to as prostates (unrelated to the vertebrate prostate). The sperm duct opens into a gonopore at the posterior end of the animal, which is usually modified to form a penis. The gonopore is homologous to the cloaca of females, but in most species has no connection to the vestigial digestive system, which lacks an anus.
+
+The phylum Rotifera encloses three classes that reproduce by three different mechanisms: Seisonidea only reproduce sexually; Bdelloidea reproduce exclusively by asexual parthenogenesis; Monogononta reproduce alternating these two mechanisms ("cyclical parthenogenesis" or "heterogony"). Parthenogenesis (amictic phase) dominates the monogonont life cycle, promoting fast population growth and colonization. In this phase males are absent and amictic females produce diploid eggs by mitosis which develop parthenogenetically into females that are clones of their mothers. Some amictic females can generate mictic females that will produce haploid eggs by meiosis. Mixis (meiosis) is induced by different types of stimulus depending on species. Haploid eggs develop into haploid dwarf males if they are not fertilized and into diploid "resting eggs" (or "diapausing eggs") if they are fertilized by males.
+
+Fertilization is internal. The male either inserts his penis into the female's cloaca or uses it to penetrate her skin, injecting the sperm into the body cavity. The egg secretes a shell, and is attached either to the substratum, nearby plants, or the female's own body. A few species, such as members of the Rotaria, are ovoviviparous, retaining the eggs inside their body until they hatch.
+
+Most species hatch as miniature versions of the adult. Sessile species, however, are born as free-swimming larvae, which closely resemble the adults of related free-swimming species. Females grow rapidly, reaching their adult size within a few days, while males typically do not grow in size at all.
+
+The life span of monogonont females varies from two days to about three weeks.
+
+
+
 
 The Lophotrochozoa includes the molluscs, annelids, brachiopods, nemerteans, bryozoa and entoprocts. The molluscs, the second-largest animal phylum by number of described species, includes snails, clams, and squids, while the annelids are the segmented worms, such as earthworms, lugworms, and leeches. These two groups have long been considered close relatives because they share trochophore larvae.
 

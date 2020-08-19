@@ -104,7 +104,7 @@ Since its primordial beginnings, life on Earth has changed its environment on a 
 
 ## Foundations of Modern Biology
 
-## Cell theory
+### Cell theory
 
 [Cell theory](https://en.wikipedia.org/wiki/Cell_theory) states that the cell is the fundamental unit of life, that all living things are composed of one or more cells, and that all cells arise from pre-existing cells through cell division. In multicellular organisms, every cell in the organism's body derives ultimately from a single cell in a fertilized egg. The cell is also considered to be the basic unit in many pathological processes. In addition, the phenomenon of energy flow occurs in cells in processes that are part of the function known as metabolism. Finally, cells contain hereditary information (DNA), which is passed from cell to cell during cell division. Research into the origin of life, abiogenesis, amounts to an attempt to discover the origin of the first cells.
 
@@ -129,7 +129,7 @@ Multicellular organisms may have first evolved through the formation of colonies
 
 Cells have evolved methods to perceive and respond to their microenvironment, thereby enhancing their adaptability. Cell signaling coordinates cellular activities, and hence governs the basic functions of multicellular organisms. Signaling between cells can occur through direct cell contact using juxtacrine signalling, or indirectly through the exchange of agents as in the endocrine system. In more complex organisms, coordination of activities can occur through a dedicated nervous system.
 
-## The Theory of Evolution
+### The Theory of Evolution
 
 A central organizing concept in biology is that life changes and develops through [evolution](https://en.wikipedia.org/wiki/Evolution), and that all life-forms known have a common origin. The theory of evolution postulates that all organisms on the Earth, both living and extinct, have descended from a common ancestor or an ancestral gene pool. This universal common ancestor of all organisms is believed to have appeared about 3.5 billion years ago. Biologists regard the ubiquity of the genetic code as definitive evidence in favor of the theory of universal common descent for all bacteria, archaea, and eukaryotes.
 
@@ -158,19 +158,19 @@ The earliest complex land plants date back to around 850 Ma, from carbon isotope
 
 Ediacara biota appear during the Ediacaran period, while vertebrates, along with most other modern phyla originated about 525 Ma during the Cambrian explosion. During the Permian period, synapsids, including the ancestors of mammals, dominated the land, but most of this group became extinct in the Permian–Triassic extinction event 252 Ma. During the recovery from this catastrophe, archosaurs became the most abundant land vertebrates; one archosaur group, the dinosaurs, dominated the Jurassic and Cretaceous periods. After the Cretaceous–Paleogene extinction event 66 Ma killed off the non-avian dinosaurs, mammals increased rapidly in size and diversity. Such mass extinctions may have accelerated evolution by providing opportunities for new groups of organisms to diversify.
 
-## Genetics
+### Genetics
 
 [Genes](https://en.wikipedia.org/wiki/Gene) are the primary units of inheritance in all organisms. A gene is a unit of heredity and corresponds to a region of DNA that influences the form or function of an organism in specific ways. All organisms, from bacteria to animals, share the same basic machinery that copies and translates DNA into proteins. Cells transcribe a DNA gene into an RNA version of the gene, and a ribosome then translates the RNA into a sequence of amino acids known as a protein. The translation code from RNA codon to amino acid is the same for most organisms. For example, a sequence of DNA that codes for insulin in humans also codes for insulin when inserted into other organisms, such as plants.
 
 DNA is found as linear chromosomes in eukaryotes, and circular chromosomes in prokaryotes. A chromosome is an organized structure consisting of DNA and histones. The set of chromosomes in a cell and any other hereditary information found in the mitochondria, chloroplasts, or other locations is collectively known as a cell's genome. In eukaryotes, genomic DNA is localized in the cell nucleus, or with small amounts in mitochondria and chloroplasts. In prokaryotes, the DNA is held within an irregularly shaped body in the cytoplasm called the nucleoid. The genetic information in a genome is held within genes, and the complete assemblage of this information in an organism is called its genotype.
 
-## Homeostasis
+### Homeostasis
 
 [Homeostasis](https://en.wikipedia.org/wiki/Homeostasis) is the ability of an open system to regulate its internal environment to maintain stable conditions by means of multiple dynamic equilibrium adjustments that are controlled by interrelated regulation mechanisms. All living organisms, whether unicellular or multicellular, exhibit homeostasis.
 
 To maintain dynamic equilibrium and effectively carry out certain functions, a system must detect and respond to perturbations. After the detection of a perturbation, a biological system normally responds through negative feedback that stabilize conditions by reducing or increasing the activity of an organ or system. One example is the release of glucagon when sugar levels are too low.
 
-## Energy
+### Energy
 
 The survival of a living organism depends on the continuous input of [energy](https://en.wikipedia.org/wiki/Energy). Chemical reactions that are responsible for its structure and function are tuned to extract energy from substances that act as its food and transform them to help form new cells and sustain them. In this process, molecules of chemical substances that constitute food play two roles; first, they contain energy that can be transformed and reused in that organism's biological, chemical reactions; second, food can be transformed into new molecular structures (biomolecules) that are of use to that organism.
 
@@ -279,7 +279,7 @@ Science is based on research, which is commonly conducted in academic and resear
 
 Natural science is concerned with the description, prediction, and understanding of natural phenomena based on empirical evidence from observation and experimentation. 
 
-## Scientific Terminology
+### Scientific Terminology
 
 Scientific terminology is the part of the language that is used by scientists in the context of their professional activities. While studying nature, scientists often encounter or create new material or immaterial objects and concepts and are compelled to name them. 
 
@@ -295,7 +295,7 @@ The application of binomial nomenclature is now governed by various internationa
 
 In modern usage, the first letter of the first part of the name, the genus, is always capitalized in writing, while that of the second part is not, even when derived from a proper noun such as the name of a person or place. Similarly, both parts are italicized when a binomial name occurs in normal text (or underlined in handwriting). Thus the binomial name of the annual phlox (named after botanist Thomas Drummond) is now written as [*Phlox drummondii*](https://en.wikipedia.org/wiki/Phlox_drummondii).
 
-## The Scientific Method
+### The Scientific Method
 
 Scientific research involves using the scientific method, which seeks to objectively explain the events of nature in a reproducible way. An explanatory thought experiment or hypothesis is put forward as explanation using principles such as parsimony (also known as "Occam's Razor") and are generally expected to seek consilience – fitting well with other accepted facts related to the phenomena. This new explanation is used to make falsifiable predictions that are testable by experiment or observation. The predictions are to be posted before a confirming experiment or observation is sought, as proof that no tampering has occurred. Disproof of a prediction is evidence of progress. This is done partly through observation of natural phenomena, but also through experimentation that tries to simulate natural events under controlled conditions as appropriate to the discipline (in the observational sciences, such as astronomy or geology, a predicted observation might take the place of a controlled experiment). Experimentation is especially important in science to help establish causal relationships (to avoid the correlation fallacy).
 
@@ -303,7 +303,7 @@ When a hypothesis proves unsatisfactory, it is either modified or discarded. If 
 
 While performing experiments to test hypotheses, scientists may have a preference for one outcome over another, and so it is important to ensure that science as a whole can eliminate this bias. This can be achieved by careful experimental design, transparency, and a thorough peer review process of the experimental results as well as any conclusions. After the results of an experiment are announced or published, it is normal practice for independent researchers to double-check how the research was performed, and to follow up by performing similar experiments to determine how dependable the results might be. Taken in its entirety, the scientific method allows for highly creative problem solving while minimizing any effects of subjective bias on the part of its users (especially the confirmation bias).
 
-## Dissemination of Scientific Knowledge
+### Dissemination of Scientific Knowledge
 
 Scientific research is published in an enormous range of scientific literature. Scientific journals communicate and document the results of research carried out in universities and various other research institutions, serving as an archival record of science. The first scientific journals, Journal des Sçavans followed by the Philosophical Transactions, began publication in 1665. Since that time the total number of active periodicals has steadily increased. In 1981, one estimate for the number of scientific and technical journals in publication was 11,500. The United States National Library of Medicine currently indexes 5,516 journals that contain articles on topics related to the life sciences. Although the journals are in 39 languages, 91 percent of the indexed articles are published in English.
 

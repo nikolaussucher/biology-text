@@ -26,7 +26,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 plantae <-  as_tibble(read.csv("data/plants.csv"))
 
-knitr::kable(plantae, col.names = c("Name", "Scope", "Distribution"), digits = 2, align = 'lll', booktabs = TRUE, caption = "Four commonly used concepts of plants.") %>% kable_styling(latex_options = c("striped", "hold_position")) %>% column_spec(1, width = "20em") %>% column_spec(2, width = "10em") %>% column_spec(3, width = "20em")
+knitr::kable(plantae, col.names = c("Name", "Scope", "Distribution"), digits = 2, align = 'lll', booktabs = TRUE, caption = "Four commonly used concepts of plants.") %>% kable_styling(bootstrap_options = c("striped", "condensed", "responsive"))
 ```
 
 The evolution of plants has resulted in increasing levels of complexity, from the earliest algal mats, through bryophytes, lycopods, ferns to the complex gymnosperms and angiosperms of today. Plants in all of these groups continue to thrive, especially in the environments in which they evolved.
@@ -235,7 +235,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 angi <-  as_tibble(read.csv("data/angiosperms.csv"))
 
-knitr::kable(angi, col.names = c("Feature", "Description"), digits = 2, align = 'll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position"))
+knitr::kable(angi, col.names = c("Feature", "Description"), digits = 2, align = 'll', booktabs = TRUE, caption = "Distinctive features of angiosperms.") %>% kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
 Angiosperm stems are made up of seven layers as shown on the right. The amount and complexity of tissue-formation in flowering plants exceeds that of gymnosperms. The vascular bundles of the stem are arranged such that the xylem and phloem form concentric rings.

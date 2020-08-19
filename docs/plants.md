@@ -19,7 +19,7 @@ The term "plant" generally implies the possession of the following traits: multi
 
 When the name Plantae or plant is applied to a specific group of organisms or taxon, it usually refers to one of four concepts. From least to most inclusive, these four groupings are:
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
+<table class="table table-striped table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
 <caption>(\#tab:plants)Four commonly used concepts of plants.</caption>
  <thead>
   <tr>
@@ -30,24 +30,24 @@ When the name Plantae or plant is applied to a specific group of organisms or ta
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;width: 20em; "> Land plants, also known as Embryophyta </td>
-   <td style="text-align:left;width: 10em; "> Plantae sensu strictissimo </td>
-   <td style="text-align:left;width: 20em; "> Plants in the strictest sense include the liverworts, hornworts, mosses, and vascular plants, as well as fossil plants similar to these surviving groups (e.g., Metaphyta Whittaker, 1969, Plantae Margulis, 1971). </td>
+   <td style="text-align:left;"> Land plants (Embryophyta) </td>
+   <td style="text-align:left;"> Plantae sensu strictissimo </td>
+   <td style="text-align:left;"> Plants in the strictest sense include the liverworts, hornworts, mosses, and vascular plants, as well as fossil plants similar to these surviving groups. </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 20em; "> Green plants, also known as Viridiplantae, Viridiphyta, Chlorobionta or Chloroplastida </td>
-   <td style="text-align:left;width: 10em; "> Plantae sensu stricto </td>
-   <td style="text-align:left;width: 20em; "> Plants in a strict sense include the green algae, and land plants that emerged within them, including stoneworts. The relationships between plant groups are still being worked out, and the names given to them vary considerably. The clade Viridiplantae encompasses a group of organisms that have cellulose in their cell walls, possess chlorophylls a and b and have plastids bound by only two membranes that are capable of photosynthesis and of storing starch. This clade is the main subject of this article (e.g., Plantae Copeland, 1956). </td>
+   <td style="text-align:left;"> Green plants (Viridiplantae or Viridiphyta or Chlorobionta or Chloroplastida) </td>
+   <td style="text-align:left;"> Plantae sensu stricto </td>
+   <td style="text-align:left;"> Plants in a strict sense include the green algae, and land plants that emerged within them, including stoneworts. The relationships between plant groups are still being worked out, and the names given to them vary considerably. The clade Viridiplantae encompasses a group of organisms that have cellulose in their cell walls, possess chlorophylls a and b and have plastids bound by only two membranes that are capable of photosynthesis and of storing starch. This clade is the main subject of this article. </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 20em; "> Archaeplastida, also known as Plastida or Primoplantae </td>
-   <td style="text-align:left;width: 10em; "> Plantae sensu lato </td>
-   <td style="text-align:left;width: 20em; "> Plants in a broad sense comprise the green plants listed above plus the red algae (Rhodophyta) and the glaucophyte algae (Glaucophyta) that store Floridean starch outside the plastids, in the cytoplasm. This clade includes all of the organisms that eons ago acquired their primary chloroplasts directly by engulfing cyanobacteria(e.g., Plantae Cavalier-Smith, 1981). </td>
+   <td style="text-align:left;"> Archaeplastida (Plastida or Primoplantae) </td>
+   <td style="text-align:left;"> Plantae sensu lato </td>
+   <td style="text-align:left;"> Plants in a broad sense comprise the green plants listed above plus the red algae (Rhodophyta) and the glaucophyte algae (Glaucophyta) that store Floridean starch outside the plastids, in the cytoplasm. This clade includes all of the organisms that eons ago acquired their primary chloroplasts directly by engulfing cyanobacteria(e.g., Plantae Cavalier-Smith, 1981). </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 20em; "> Old definitions of plant (obsolete) </td>
-   <td style="text-align:left;width: 10em; "> Plantae sensu amplo </td>
-   <td style="text-align:left;width: 20em; "> Plants in the widest sense refers to older, obsolete classifications that placed diverse algae, fungi or bacteria in Plantae (e.g., Plantae or Vegetabilia Linnaeus, Plantae Haeckel 1866, Metaphyta Haeckel, 1894, Plantae Whittaker, 1969). </td>
+   <td style="text-align:left;"> Old definitions of plant (obsolete) </td>
+   <td style="text-align:left;"> Plantae sensu amplo </td>
+   <td style="text-align:left;"> Plants in the widest sense refers to older, obsolete classifications that placed diverse algae, fungi or bacteria in Plantae . </td>
   </tr>
 </tbody>
 </table>
@@ -254,6 +254,7 @@ The ancestors of flowering plants diverged from gymnosperms in the Triassic Peri
 Angiosperms differ from other seed plants in several ways, described in the table below. These distinguishing characteristics taken together have made the angiosperms the most diverse and numerous land plants and the most commercially important group to humans.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:angiospermfeatures)Distinctive features of angiosperms.</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> Feature </th>

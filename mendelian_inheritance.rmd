@@ -73,7 +73,7 @@ Table: (\#tab:mendel) Mendel's Laws of Inheritance.
 |Law of segregation|During gamete formation, the alleles for each gene segregate from each other so that each gamete carries only one allele for each gene.|
 |Law of independent assortment|Genes for different traits can segregate independently during the formation of gametes.|
 
-## Law of Dominance and Uniformity
+### Law of Dominance and Uniformity
 
 If two parents are mated with each other who differ in one genetic characteristic for which they are both homozygous (each pure-bred), all offspring in the first generation (F1) are equal to the examined characteristic in genotype and phenotype showing the dominant trait. This uniformity rule or reciprocity rule applies to all individuals of the F1-generation.
 
@@ -95,7 +95,7 @@ But for some characteristics, the F1 hybrids have an appearance in between the p
 knitr::include_graphics("./figures/mendel/Intermediate_inheritance_P_-_F1_-_F2.png")
 ```
 
-## Law of Segregation of genes
+### Law of Segregation of genes
 
 The Law of Segregation of genes applies when two individuals, both heterozygous for a certain trait are crossed, for example hybrids of the F1-generation. The offspring in the F2-generation differ in genotype and phenotype, so that the characteristics of the grandparents (P-generation) regularly occur again. In a dominant-recessive inheritance an average of 25% are homozygous with the dominant trait, 50% are heterozygous showing the dominant trait in the phenotype (genetic carriers), 25% are homozygous with the recessive trait and therefore express the recessive trait in the phenotype. The genotypic ratio is 1 : 2 : 1, the phenotypic ratio is 3 : 1.
 
@@ -107,7 +107,7 @@ In some literature sources the principle of segregation is cited as "first law".
 
 Molecular proof of segregation of genes was subsequently found through observation of meiosis by two scientists independently, the German botanist Oscar Hertwig in 1876, and the Belgian zoologist Edouard Van Beneden in 1883. Most alleles are located in chromosomes in the cell nucleus. Paternal and maternal chromosomes get separated in meiosis, because during spermatogenesis the chromosomes are segregated on the four sperm cells that arise from one mother sperm cell, and during oogenesis the chromosomes are distributed between the polar bodys and the egg cell. Every individual organism contains two alleles for each trait. They segregate (separate) during meiosis such that each gamete contains only one of the alleles. When the gametes unite in the zygote the alleles - one from the mother one from the father - get passed on to the offspring. An offspring thus receives a pair of alleles for a trait by inheriting homologous chromosomes from the parent organisms: one allele for each trait from each parent. Heterozygous individuals with the dominant trait in the phenotype are genetic carriers of the recessive trait.
 
-## Law of Independent Assortment
+### Law of Independent Assortment
 
 The Law of Independent Assortment states that alleles for separate traits are passed independently of one another.  That is, the biological selection of an allele for one trait has nothing to do with the selection of an allele for any other trait. Mendel found support for this law in his dihybrid cross experiments. In his monohybrid crosses, an idealized 3:1 ratio between dominant and recessive phenotypes resulted. In dihybrid crosses, however, he found a 9:3:3:1 ratios. This shows that each of the two alleles is inherited independently from the other, with a 3:1 phenotypic ratio for each.
 
@@ -125,15 +125,15 @@ Of the 46 chromosomes in a normal diploid human cell, half are maternally derive
 
 In independent assortment, the chromosomes that result are randomly sorted from all possible maternal and paternal chromosomes. Because zygotes end up with a mix instead of a pre-defined "set" from either parent, chromosomes are therefore considered assorted independently. As such, the zygote can end up with any combination of paternal or maternal chromosomes. For human gametes, with 23 chromosomes, the number of possibilities is 2^23^ or 8,388,608 possible combinations. This contributes to the genetic variability of progeny. Generally the recombination of genes has important implications for many evolutionary processes.
 
-## Mendelian Trait
+### Mendelian Trait
 
 A Mendelian trait is one that is controlled by a single locus in an inheritance pattern. In such cases, a mutation in a single gene can cause a disease that is inherited according to Mendel's principles. Dominant diseases manifest in heterozygous individuals. Recessive ones are sometimes inherited unnoticeably by genetic carriers. Examples include sickle-cell anemia, Tay–Sachs disease, cystic fibrosis and xeroderma pigmentosa. A disease controlled by a single gene contrasts with a multi-factorial disease, like heart disease, which is affected by several loci (and the environment) as well as those diseases inherited in a non-Mendelian fashion.
 
-## Zygosity
+### Zygosity
 
 Zygosity refers to the grade of similarity between the alleles that determine one specific trait in an organism. In its simplest form, a pair of alleles can be either homozygous or heterozygous. Homozygosity, with homo relating to same while zygous pertains to a zygote, is seen when a combination of either two dominant or two recessive alleles code for the same trait. For example, using 'A' as the representative character for each allele, a homozygous dominant pair's genotype would be depicted as 'AA', while homozygous recessive is shown as 'aa'. Heterozygosity, with hetero associated with different, can only be 'Aa' (the capital letter is always presented first by convention). The phenotype of a homozygous dominant pair is 'A', or dominant, while the opposite is true for homozygous recessive. Heterozygous pairs always have a dominant phenotype. To a lesser degree, hemizygosity and nullizygosity can also be seen in gene pairs.
 
-## Monohybrid Cross
+### Monohybrid Cross
 
 "Mono" means "one"; this cross indicates that the examination of a single trait. For example, when a strain of corn producing pure purple kernels (RR) is crossed with a strain producing pure yellow kernels (rr). In this cross, both parents are homozygous, one carrying two copies of the dominant allele (R; purple), the other two copies of the recessive (r; yellow) allele. 
 
@@ -155,7 +155,7 @@ knitr::include_graphics("./figures/mendel/PunnettF1.svg")
 knitr::include_graphics("./figures/mendel/Monohybrid_cross.jpg")
 ```
 
-## Dihybrid Cross
+### Dihybrid Cross
 
 More complicated crosses can be made by looking at two or more genes. The Punnett square works, however, only if the genes are independent of each other, which means that having a particular allele of gene "A" does not alter the probability of possessing an allele of gene "B". This is equivalent to stating that the genes are not linked, so that the two genes do not tend to sort together during meiosis.
 

@@ -86,7 +86,7 @@ The roof of the mouth is termed the palate and it separates the oral cavity from
 
 At either side of the soft palate are the palatoglossus muscles which also reach into regions of the tongue. These muscles raise the back of the tongue and also close both sides of the fauces to enable food to be swallowed.:1208 Mucus helps in the mastication of food in its ability to soften and collect the food in the formation of the bolus.
 
-## The Salivary Glands
+### The Salivary Glands
 
 There are three pairs of main salivary glands and between 800 and 1,000 minor salivary glands, all of which mainly serve the digestive process, and also play an important role in the maintenance of dental health and general mouth lubrication, without which speech would be impossible. The main glands are all exocrine glands, secreting via ducts. All of these glands terminate in the mouth. The largest of these are the parotid glands—their secretion is mainly serous. The next pair are underneath the jaw, the submandibular glands, these produce both serous fluid and mucus. The serous fluid is produced by serous glands in these salivary glands which also produce lingual lipase. They produce about 70% of the oral cavity saliva. The third pair are the sublingual glands located underneath the tongue and their secretion is mainly mucous with a small percentage of saliva.
 
@@ -104,7 +104,7 @@ As well as its role in supplying digestive enzymes, saliva has a cleansing actio
 
 Saliva also contains a glycoprotein called haptocorrin which is a binding protein to vitamin B12. It binds with the vitamin in order to carry it safely through the acidic content of the stomach. When it reaches the duodenum, pancreatic enzymes break down the glycoprotein and free the vitamin which then binds with intrinsic factor.
 
-## The Tongue
+### The Tongue
 
 Food enters the mouth where the first stage in the digestive process takes place, with the action of the tongue and the secretion of saliva. The tongue is a fleshy and muscular sensory organ, and the very first sensory information is received via the taste buds in the papillae on its surface. If the taste is agreeable, the tongue will go into action, manipulating the food in the mouth which stimulates the secretion of saliva from the salivary glands. The liquid quality of the saliva will help in the softening of the food and its enzyme content will start to break down the food whilst it is still in the mouth. The first part of the food to be broken down is the starch of carbohydrates (by the enzyme amylase in the saliva).
 
@@ -112,19 +112,19 @@ The tongue is attached to the floor of the mouth by a ligamentous band called th
 
 Taste is a form of chemoreception that takes place in the specialised taste receptors, contained in structures called taste buds in the mouth. Taste buds are mainly on the upper surface (dorsum) of the tongue. The function of taste perception is vital to help prevent harmful or rotten foods from being consumed. There are also taste buds on the epiglottis and upper part of the esophagus. The taste buds are innervated by a branch of the facial nerve the chorda tympani, and the glossopharyngeal nerve. Taste messages are sent via these cranial nerves to the brain. The brain can distinguish between the chemical qualities of the food. The five basic tastes are referred to as those of saltiness, sourness, bitterness, sweetness, and umami. The detection of saltiness and sourness enables the control of salt and acid balance. The detection of bitterness warns of poisons—many of a plant's defences are of poisonous compounds that are bitter. Sweetness guides to those foods that will supply energy; the initial breakdown of the energy-giving carbohydrates by salivary amylase creates the taste of sweetness since simple sugars are the first result. The taste of umami is thought to signal protein-rich food. Sour tastes are acidic which is often found in bad food. The brain has to decide very quickly whether the food should be eaten or not. It was the findings in 1991, describing the first olfactory receptors that helped to prompt the research into taste. The olfactory receptors are located on cell surfaces in the nose which bind to chemicals enabling the detection of smells. It is assumed that signals from taste receptors work together with those from the nose, to form an idea of complex food flavours.
 
-## The Teeth
+### The Teeth
 
 Teeth are complex structures made of materials specific to them. They are made of a bone-like material called dentin, which is covered by the hardest tissue in the body—enamel. Teeth have different shapes to deal with different aspects of mastication employed in tearing and chewing pieces of food into smaller and smaller pieces. This results in a much larger surface area for the action of digestive enzymes. The teeth are named after their particular roles in the process of mastication—incisors are used for cutting or biting off pieces of food; canines, are used for tearing, premolars and molars are used for chewing and grinding. Mastication of the food with the help of saliva and mucus results in the formation of a soft bolus which can then be swallowed to make its way down the upper gastrointestinal tract to the stomach. The digestive enzymes in saliva also help in keeping the teeth clean by breaking down any lodged food particles.
 
-## The Epiglottis
+### The Epiglottis
 
 The epiglottis is a flap of elastic cartilage attached to the entrance of the larynx. It is covered with a mucous membrane and there are taste buds on its lingual surface which faces into the mouth. Its laryngeal surface faces into the larynx. The epiglottis functions to guard the entrance of the glottis, the opening between the vocal folds. It is normally pointed upward during breathing with its underside functioning as part of the pharynx, but during swallowing, the epiglottis folds down to a more horizontal position, with its upper side functioning as part of the pharynx. In this manner it prevents food from going into the trachea and instead directs it to the esophagus, which is behind. During swallowing, the backward motion of the tongue forces the epiglottis over the glottis' opening to prevent any food that is being swallowed from entering the larynx which leads to the lungs; the larynx is also pulled upwards to assist this process. Stimulation of the larynx by ingested matter produces a strong cough reflex in order to protect the lungs.
 
-## The Pharynx
+### The Pharynx
 
 The pharynx is a part of the conducting zone of the respiratory system and also a part of the digestive system. It is the part of the throat immediately behind the nasal cavity at the back of the mouth and above the esophagus and larynx. The pharynx is made up of three parts. The lower two parts—the oropharynx and the laryngopharynx are involved in the digestive system. The laryngopharynx connects to the esophagus and it serves as a passageway for both air and food. Air enters the larynx anteriorly but anything swallowed has priority and the passage of air is temporarily blocked. The pharynx is innervated by the pharyngeal plexus of the vagus nerve.:1465 Muscles in the pharynx push the food into the esophagus. The pharynx joins the esophagus at the oesophageal inlet which is located behind the cricoid cartilage.
 
-## The Esophagus
+### The Esophagus
 
 The esophagus, commonly known as the foodpipe or gullet, consists of a muscular tube through which food passes from the pharynx to the stomach. The esophagus is continuous with the laryngopharynx. It passes through the posterior mediastinum in the thorax and enters the stomach through a hole in the thoracic diaphragm—the esophageal hiatus, at the level of the tenth thoracic vertebra (T10). Its length averages 25 cm, varying with an individual's height. It is divided into cervical, thoracic and abdominal parts. The pharynx joins the esophagus at the esophageal inlet which is behind the cricoid cartilage.
 
@@ -132,11 +132,11 @@ At rest the esophagus is closed at both ends, by the upper and lower esophageal 
 
 Once in the esophagus, the bolus travels down to the stomach via rhythmic contraction and relaxation of muscles known as peristalsis. The lower esophageal sphincter is a muscular sphincter surrounding the lower part of the esophagus. The gastroesophageal junction between the esophagus and the stomach is controlled by the lower esophageal sphincter, which remains constricted at all times other than during swallowing and vomiting to prevent the contents of the stomach from entering the esophagus. As the esophagus does not have the same protection from acid as the stomach, any failure of this sphincter can lead to heartburn.
 
-## The Diaphragm
+### The Diaphragm
 
 The diaphragm is an important part of the body's digestive system. The muscular diaphragm separates the thoracic cavity from the abdominal cavity where most of the digestive organs are located. The suspensory muscle attaches the ascending duodenum to the diaphragm. This muscle is thought to be of help in the digestive system in that its attachment offers a wider angle to the duodenojejunal flexure for the easier passage of digesting material. The diaphragm also attaches to, and anchors the liver at its bare area. The esophagus enters the abdomen through a hole in the diaphragm at the level of T10.
 
-## The Stomach
+### The Stomach
 
 The stomach is a major organ of the gastrointestinal tract and digestive system. It is a consistently J-shaped organ joined to the esophagus at its upper end and to the duodenum at its lower end. Gastric acid (informally gastric juice), produced in the stomach plays a vital role in the digestive process, and mainly contains hydrochloric acid and sodium chloride. A peptide hormone, gastrin, produced by G cells in the gastric glands, stimulates the production of gastric juice which activates the digestive enzymes. Pepsinogen is a precursor enzyme (zymogen) produced by the gastric chief cells, and gastric acid activates this to the enzyme pepsin which begins the digestion of proteins. As these two chemicals would damage the stomach wall, mucus is secreted by innumerable gastric glands in the stomach, to provide a slimy protective layer against the damaging effects of the chemicals on the inner layers of the stomach.
 
@@ -154,11 +154,11 @@ The parietal cells in the fundus of the stomach, produce a glycoprotein called i
 
 The stomach is a distensible organ and can normally expand to hold about one litre of food. This expansion is enabled by a series of gastric folds in the inner walls of the stomach. The stomach of a newborn baby will only be able to expand to retain about 30 ml.
 
-## The Spleen
+### The Spleen
 
 The spleen is the largest lymphoid organ in the body but has other functions. It breaks down both red and white blood cells that are spent. This is why it is sometimes known as the 'graveyard of red blood cells'. A product of this digestion is the pigment bilirubin, which is sent to the liver and secreted in the bile. Another product is iron, which is used in the formation of new blood cells in the bone marrow. Medicine treats the spleen solely as belonging to the lymphatic system, though it is acknowledged that the full range of its important functions is not yet understood.:1751
 
-## The Liver, Bile And Gallbladder
+### The Liver, Bile And Gallbladder
 
 The liver is an organ only found in vertebrates. In humans, it is located in the right upper quadrant of the abdomen, below the diaphragm. The liver is the second largest organ (after the skin) and is an accessory digestive gland which plays a role in the body's metabolism. The liver has many functions some of which are important to digestion. The liver can detoxify various metabolites; synthesise proteins and produce biochemicals needed for digestion. It regulates the storage of glycogen which it can form from glucose (glycogenesis). The liver can also synthesise glucose from certain amino acids. Its digestive functions are largely involved with the breaking down of carbohydrates. It also maintains protein metabolism in its synthesis and degradation. In lipid metabolism it synthesises cholesterol. Fats are also produced in the process of lipogenesis. The liver synthesises the bulk of lipoproteins. The liver is located in the upper right quadrant of the abdomen and below the diaphragm to which it is attached at one part, the bare area of the liver. This is to the right of the stomach and it overlies the gall bladder. The liver synthesises bile acids and lecithin to promote the digestion of fat.
 
@@ -176,7 +176,7 @@ The gallbladder is a hollow part of the biliary tract that sits just beneath the
 
 It is divided into three sections, a fundus, body and neck. The neck tapers and connects to the biliary tract via the cystic duct, which then joins the common hepatic duct to form the common bile duct. At this junction is a mucosal fold called Hartmann's pouch, where gallstones commonly get stuck. The muscular layer of the body is of smooth muscle tissue that helps the gallbladder contract, so that it can discharge its bile into the bile duct. The gallbladder needs to store bile in a natural, semi-liquid form at all times. Hydrogen ions secreted from the inner lining of the gallbladder keep the bile acidic enough to prevent hardening. To dilute the bile, water and electrolytes from the digestion system are added. Also, salts attach themselves to cholesterol molecules in the bile to keep them from crystallising. If there is too much cholesterol or bilirubin in the bile, or if the gallbladder doesn't empty properly the systems can fail. This is how gallstones form when a small piece of calcium gets coated with either cholesterol or bilirubin and the bile crystallises and forms a gallstone. The main purpose of the gallbladder is to store and release bile, or gall. Bile is released into the small intestine in order to help in the digestion of fats by breaking down larger molecules into smaller ones. After the fat is absorbed, the bile is also absorbed and transported back to the liver for reuse.
 
-## The Pancreas
+### The Pancreas
 
 The pancreas is a major organ functioning as an accessory digestive gland in the digestive system. It is both an endocrine gland and an exocrine gland. The endocrine part secretes insulin when the blood sugar becomes high; insulin moves glucose from the blood into the muscles and other tissues for use as energy. The endocrine part releases glucagon when the blood sugar is low; glucagon allows stored sugar to be broken down into glucose by the liver in order to re-balance the sugar levels. The pancreas produces and releases important digestive enzymes in the pancreatic juice that it delivers to the duodenum. The pancreas lies below and at the back of the stomach. It connects to the duodenum via the pancreatic duct which it joins near to the bile duct's connection where both the bile and pancreatic juice can act on the chyme that is released from the stomach into the duodenum. Aqueous pancreatic secretions from pancreatic duct cells contain bicarbonate ions which are alkaline and help with the bile to neutralise the acidic chyme that is churned out by the stomach.
 
@@ -188,11 +188,11 @@ knitr::include_graphics("./figures/digestive/1820_The_Pancreas.jpg")
 
 The pancreas is also the main source of enzymes for the digestion of fats and proteins. Some of these are released in response to the production of CKK in the duodenum. (The enzymes that digest polysaccharides, by contrast, are primarily produced by the walls of the intestines.) The cells are filled with secretory granules containing the precursor digestive enzymes. The major proteases, the pancreatic enzymes which work on proteins, are trypsinogen and chymotrypsinogen. Elastase is also produced. Smaller amounts of lipase and amylase are secreted. The pancreas also secretes phospholipase A2, lysophospholipase, and cholesterol esterase. The precursor zymogens, are inactive variants of the enzymes; which avoids the onset of pancreatitis caused by autodegradation. Once released in the intestine, the enzyme enteropeptidase present in the intestinal mucosa activates trypsinogen by cleaving it to form trypsin; further cleavage results in chymotripsin.
 
-## Lower Gastrointestinal Tract
+### Lower Gastrointestinal Tract
 
 The lower gastrointestinal tract (GI), includes the small intestine and all of the large intestine. The intestine is also called the bowel or the gut. The lower GI starts at the pyloric sphincter of the stomach and finishes at the anus. The small intestine is subdivided into the duodenum, the jejunum and the ileum. The cecum marks the division between the small and large intestine. The large intestine includes the rectum and anal canal.
 
-## The Small Intestine
+### The Small Intestine
 
 Partially digested food starts to arrive in the small intestine as semi-liquid chyme, one hour after it is eaten.[citation needed] The stomach is half empty after an average of 1.2 hours. After four or five hours the stomach has emptied.
 
@@ -210,24 +210,24 @@ The last part of the small intestine is the ileum. This also contains villi and 
 
 Transit time through the small intestine is an average of 4 hours. Half of the food residues of a meal have emptied from the small intestine by an average of 5.4 hours after ingestion. Emptying of the small intestine is complete after an average of 8.6 hours.
 
-## The Cecum
+### The Cecum
 
 The cecum is a pouch marking the division between the small intestine and the large intestine. It lies below the ileocecal valve in the lower right quadrant of the abdomen. The cecum receives chyme from the last part of the small intestine, the ileum, and connects to the ascending colon of the large intestine. At this junction there is a sphincter or valve, the ileocecal valve which slows the passage of chyme from the ileum, allowing further digestion. It is also the site of the appendix attachment.
 
-## The Large Intestine
+### The Large Intestine
 
 In the large intestine, the passage of the digesting food in the colon is a lot slower, taking from 30 to 40 hours until it is removed by defecation. The colon mainly serves as a site for the fermentation of digestible matter by the gut flora. The time taken varies considerably between individuals. The remaining semi-solid waste is termed feces and is removed by the coordinated contractions of the intestinal walls, termed peristalsis, which propels the excreta forward to reach the rectum and exit via defecation from the anus. The wall has an outer layer of longitudinal muscles, the taeniae coli, and an inner layer of circular muscles. The circular muscle keeps the material moving forward and also prevents any back flow of waste. Also of help in the action of peristalsis is the basal electrical rhythm that determines the frequency of contractions. The taeniae coli can be seen and are responsible for the bulges (haustra) present in the colon. Most parts of the GI tract are covered with serous membranes and have a mesentery. Other more muscular parts are lined with adventitia.
 
 
-## Protein Digestion
+### Protein Digestion
 
 Protein digestion occurs in the stomach and duodenum in which 3 main enzymes, pepsin secreted by the stomach and trypsin and chymotrypsin secreted by the pancreas, break down food proteins into polypeptides that are then broken down by various exopeptidases and dipeptidases into amino acids. The digestive enzymes however are mostly secreted as their inactive precursors, the zymogens. For example, trypsin is secreted by pancreas in the form of trypsinogen, which is activated in the duodenum by enterokinase to form trypsin. Trypsin then cleaves proteins to smaller polypeptides.
 
-## Fat Digestion
+### Fat Digestion
 
 Digestion of some fats can begin in the mouth where lingual lipase breaks down some short chain lipids into diglycerides. However fats are mainly digested in the small intestine. The presence of fat in the small intestine produces hormones that stimulate the release of pancreatic lipase from the pancreas and bile from the liver which helps in the emulsification of fats for absorption of fatty acids. Complete digestion of one molecule of fat (a triglyceride) results a mixture of fatty acids, mono- and di-glycerides, as well as some undigested triglycerides, but no free glycerol molecules.
 
-## Carbohydrate Digestion
+### Carbohydrate Digestion
 
 In humans, dietary starches are composed of glucose units arranged in long chains called amylose, a polysaccharide. During digestion, bonds between glucose molecules are broken by salivary and pancreatic amylase, resulting in progressively smaller chains of glucose. This results in simple sugars glucose and maltose (2 glucose molecules) that can be absorbed by the small intestine.
 
@@ -235,17 +235,17 @@ Lactase is an enzyme that breaks down the disaccharide lactose to its component 
 
 Sucrase is an enzyme that breaks down the disaccharide sucrose, commonly known as table sugar, cane sugar, or beet sugar. Sucrose digestion yields the sugars fructose and glucose which are readily absorbed by the small intestine.
 
-## DNA And RNA Digestion
+### DNA And RNA Digestion
 
 DNA and RNA are broken down into mononucleotides by the nucleases deoxyribonuclease and ribonuclease (DNase and RNase) from the pancreas.
 
-## Non-destructive digestion
+### Non-destructive digestion
 
 Some nutrients are complex molecules (for example vitamin B12) which would be destroyed if they were broken down into their functional groups. To digest vitamin B12 non-destructively, haptocorrin in saliva strongly binds and protects the B12 molecules from stomach acid as they enter the stomach and are cleaved from their protein complexes.
 
 After the B12-haptocorrin complexes pass from the stomach via the pylorus to the duodenum, pancreatic proteases cleave haptocorrin from the B12 molecules which rebind to intrinsic factor (IF). These B12-IF complexes travel to the ileum portion of the small intestine where cubilin receptors enable assimilation and circulation of B12-IF complexes in the blood.
 
-## The Digestive System of Birds
+### The Digestive System of Birds
 
 Many birds possess a muscular pouch along the esophagus called a crop. The crop functions to both soften food and regulate its flow through the system by storing it temporarily. The size and shape of the crop is quite variable among the birds. Members of the family Columbidae, such as pigeons, produce a nutritious crop milk which is fed to their young by regurgitation.
 

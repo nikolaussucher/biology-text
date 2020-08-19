@@ -16,7 +16,7 @@ The skeleton is the body part that provides support, shape and protection to the
 
 There are two major types of skeletons: solid and fluid. Solid skeletons can be internal, called an endoskeleton, or external, called an exoskeleton, and may be further classified as pliant (elastic/movable) or rigid (hard/non-movable). Fluid skeletons are always internal.
 
-## Exoskeleton
+### Exoskeleton
 
 Exoskeletons are external, and are found in many invertebrates; they enclose and protect the soft tissues and organs of the body. Some kinds of exoskeletons undergo periodic moulting or ecdysis as the animal grows, as is the case in many arthropods including insects and crustaceans.
 
@@ -24,7 +24,7 @@ The exoskeleton of insects is not only a form of protection, but also serves as 
 
 An external skeleton can be quite heavy in relation to the overall mass of an animal, so on land, organisms that have an exoskeleton are mostly relatively small. Somewhat larger aquatic animals can support an exoskeleton because weight is less of a consideration underwater. The southern giant clam, a species of extremely large saltwater clam in the Pacific Ocean, has a shell that is massive in both size and weight. Syrinx aruanus is a species of sea snail with a very large shell.
 
-## Endoskeleton
+### Endoskeleton
 
 The endoskeleton is the internal support structure of an animal, composed of mineralized tissue and is typical of vertebrates. Endoskeletons vary in complexity from functioning purely for support (as in the case of sponges), to serving as an attachment site for muscles and a mechanism for transmitting muscular forces. A true endoskeleton is derived from mesodermal tissue. Such a skeleton is present in echinoderms and chordates.
 
@@ -38,11 +38,11 @@ Pliant skeletons are capable of movement; thus, when stress is applied to the sk
 
 Rigid skeletons are not capable of movement when stressed, creating a strong support system most common in terrestrial animals. Such a skeleton type used by animals that live in water are more for protection (such as barnacle and snail shells) or for fast-moving animals that require additional support of musculature needed for swimming through water. Rigid skeletons are formed from materials including chitin (in arthropods), calcium compounds such as calcium carbonate (in stony corals and mollusks) and silicate (for diatoms and radiolarians).
 
-## Hydrostatic Skeleton (Hydroskeleton)
+### Hydrostatic Skeleton (Hydroskeleton)
 
 A hydrostatic skeleton is a semi-rigid, soft tissue structure filled with liquid under pressure, surrounded by muscles. Longitudinal and circular muscles around their body sectors allow movement by alternate lengthening and contractions along their lengths. A common example of this is the earthworm.
 
-## Organisms With Skeletons
+### Organisms With Skeletons
 
 The endoskeletons of echinoderms and some other soft-bodied invertebrates such as jellyfish and earthworms are also termed hydrostatic; a body cavity the coelom is filled with coelomic fluid and the pressure from this fluid acts together with the surrounding muscles to change the organism's shape and produce movement.
 
@@ -106,7 +106,7 @@ Ligaments may also restrict some actions: movements such as hyper extension and 
 
 A bursa is a small fluid-filled sac made of white fibrous tissue and lined with synovial membrane. Bursa may also be formed by a synovial membrane that extends outside of the joint capsule. It provides a cushion between bones and tendons or muscles around a joint; bursa are filled with synovial fluid and are found around almost every major joint of the body.
 
-## The Human Skeleton
+### The Human Skeleton
 
 The human skeleton consists of both fused and individual bones supported and supplemented by ligaments, tendons, muscles and cartilage. It is composed of around 270 bones at birth – this total decreases to around 206 bones by adulthood after some bones get fused together. The biggest bone in the body is the femur in the upper leg, and the smallest is the stapes bone in the middle ear. In an adult, the skeleton comprises around 14% of the total body weight, and half of this weight is water. The bone mass in the skeleton reaches maximum density around age 21. The human skeleton can be divided into the axial skeleton and the appendicular skeleton. The axial skeleton is formed by the vertebral column, the rib cage, the skull and other associated bones. The appendicular skeleton, which is attached to the axial skeleton, is formed by the shoulder girdle, the pelvic girdle and the bones of the upper and lower limbs.
 
@@ -160,7 +160,7 @@ The appendicular skeleton (126 bones) is formed by the pectoral girdles, the upp
 knitr::include_graphics("./figures/locomotion/Appendicular_skeleton_diagram.svg")
 ```
 
-## Bone
+### Bone
 
 A bone is a rigid organ that constitutes part of the vertebrate skeleton in animals. Bones protect the various organs of the body, produce red and white blood cells, store minerals, provide structure and support for the body, and enable mobility. Bones come in a variety of shapes and sizes and have a complex internal and external structure. They are lightweight yet strong and hard, and serve multiple functions.
 
@@ -224,7 +224,7 @@ Osteoblasts are mononucleate bone-forming cells. They are located on the surface
 
 Osteocytes are mostly inactive osteoblasts. Osteocytes originate from osteoblasts that have migrated into and become trapped and surrounded by bone matrix that they themselves produced. The spaces they occupy are known as lacunae. Osteocytes have many processes that reach out to meet osteoblasts and other osteocytes probably for the purposes of communication. Osteocytes remain in contact with other cells in the bone through gap junctions—coupled cell processes—which pass through small channels in the bone matrix called the canaliculi.
 
-## Osteoclast
+### Osteoclast
 
 Osteoclasts are very large multinucleate cells that are responsible for the breakdown of bones by the process of bone resorption. New bone is then formed by the osteoblasts. Bone is constantly remodelled by the resorption of osteoclasts and created by osteoblasts. Osteoclasts are large cells with multiple nuclei located on bone surfaces in what are called Howship's lacunae (or resorption pits). These lacunae are the result of surrounding bone tissue that has been reabsorbed. Because the osteoclasts are derived from a monocyte stem-cell lineage, they are equipped with phagocytic-like mechanisms similar to circulating macrophages. Osteoclasts mature and/or migrate to discrete bone surfaces. Upon arrival, active enzymes, such as tartrate resistant acid phosphatase, are secreted against the mineral substrate.[citation needed] The reabsorption of bone by osteoclasts also plays a role in calcium homeostasis.
 
@@ -284,7 +284,7 @@ Heart muscles are distinct from skeletal muscles because the muscle fibers are l
 
 Smooth muscles are controlled directly by the autonomic nervous system and are involuntary, meaning that they are incapable of being moved by conscious thought. Functions such as heartbeat and lungs (which are capable of being willingly controlled, be it to a limited extent) are involuntary muscles but are not smooth muscles.
 
-## Muscle Contraction
+### Muscle Contraction
 
 Muscle contraction is the activation of tension-generating sites within muscle fibers. In physiology, muscle contraction does not necessarily mean muscle shortening because muscle tension can be produced without changes in muscle length, such as when holding a heavy book or a dumbbell at the same position. The termination of muscle contraction is followed by muscle relaxation, which is a return of the muscle fibers to their low tension-generating state.
 
@@ -304,7 +304,7 @@ An isometric contraction of a muscle generates tension without changing length. 
 In isotonic contraction, the tension in the muscle remains constant despite a change in muscle length. This occurs when a muscle's force of contraction matches the total load on the muscle.
 
 
-## Skeletal Muscle
+### Skeletal Muscle
 
 Excluding reflexes, all skeletal muscles contractions occur as a result of conscious effort originating in the brain. The brain sends electrochemical signals through the nervous system to the motor neuron that innervates several muscle fibers. In the case of some reflexes, the signal to contract can originate in the spinal cord through a feedback loop with the grey matter. Other actions such as locomotion, breathing, and chewing have a reflex aspect to them: the contractions can be initiated both consciously or unconsciously.
 
@@ -318,15 +318,15 @@ knitr::include_graphics("./figures/locomotion/1009_Motor_End_Plate_and_Innervati
 
 The sequence of events that results in the depolarization of the muscle fiber at the neuromuscular junction begins when an action potential is initiated in the cell body of a motor neuron, which is then propagated by saltatory conduction along its axon toward the neuromuscular junction. Once it reaches the terminal bouton, the action potential causes a Ca^2+^ ion influx into the terminal by way of the voltage-gated calcium channels. The Ca^2+^ influx causes synaptic vesicles containing the neurotransmitter acetylcholine to fuse with the plasma membrane, releasing acetylcholine into the synaptic cleft between the motor neuron terminal and the neuromuscular junction of the skeletal muscle fiber. Acetylcholine diffuses across the synapse and binds to and activates nicotinic acetylcholine receptors on the neuromuscular junction. Activation of the nicotinic receptor opens its intrinsic sodium/potassium channel, causing sodium to rush in and potassium to trickle out. As a result, the sarcolemma reverses polarity and its voltage quickly jumps from the resting membrane potential of -90mV to as high as +75mV as sodium enters. The membrane potential then becomes hyperpolarized when potassium exits and is then adjusted back to the resting membrane potential. This rapid fluctuation is called the end-plate potential The voltage-gated ion channels of the sarcolemma next to the end plate open in response to the end plate potential. These voltage-gated channels are sodium and potassium specific and only allow one through. This wave of ion movements creates the action potential that spreads from the motor end plate in all directions. If action potentials stop arriving, then acetylcholine ceases to be released from the terminal bouton. The remaining acetylcholine in the synaptic cleft is either degraded by active acetylcholine esterase or reabsorbed by the synaptic knob and none is left to replace the degraded acetylcholine.
 
-## Excitation-contraction Coupling
+### Excitation-contraction Coupling
 
 Excitation–contraction coupling is the process by which a muscular action potential in the muscle fiber causes the myofibrils to contract. In skeletal muscle, excitation–contraction coupling relies on a direct coupling between key proteins, the sarcoplasmic reticulum (SR) calcium release channel (identified as the ryanodine receptor, RyR) and voltage-gated L-type calcium channels (identified as dihydropyridine receptors, DHPRs). DHPRs are located on the sarcolemma (which includes the surface sarcolemma and the transverse tubules), while the RyRs reside across the SR membrane. The close apposition of a transverse tubule and two SR regions containing RyRs is described as a triad and is predominantly where excitation–contraction coupling takes place. Excitation–contraction coupling occurs when depolarization of skeletal muscle cell results in a muscle action potential, which spreads across the cell surface and into the muscle fiber's network of T-tubules, thereby depolarizing the inner portion of the muscle fiber. Depolarization of the inner portions activates dihydropyridine receptors in the terminal cisternae, which are in close proximity to ryanodine receptors in the adjacent sarcoplasmic reticulum. The activated dihydropyridine receptors physically interact with ryanodine receptors to activate them via foot processes (involving conformational changes that allosterically activates the ryanodine receptors). As the ryanodine receptors open, Ca^2+^ is released from the sarcoplasmic reticulum into the local junctional space, which then diffuses into the bulk cytoplasm to cause a calcium spark. Note that the sarcoplasmic reticulum has a large calcium buffering capacity partially due to a calcium-binding protein called calsequestrin. The near synchronous activation of thousands of calcium sparks by the action potential causes a cell-wide increase in calcium giving rise to the upstroke of the calcium transient. The Ca^2+^ released into the cytosol binds to Troponin C by the actin filaments, to allow crossbridge cycling, producing force and, in some situations, motion. The sarco/endoplasmic reticulum calcium-ATPase (SERCA) actively pumps Ca^2+^ back into the sarcoplasmic reticulum. As Ca^2+^ declines back to resting levels, the force declines and relaxation occurs.
 
-## The Sliding Filament Theory
+### The Sliding Filament Theory
 
 The sliding filament theory describes a process used by muscles to contract. It is a cycle of repetitive events that cause a thin filament to slide over a thick filament and generate tension in the muscle. It was independently developed by Andrew Huxley and Rolf Niedergerke and by Hugh Huxley and Jean Hanson in 1954. Physiologically, this contraction is not uniform across the sarcomere; the central position of the thick filaments becomes unstable and can shift during contraction. However the actions of elastic proteins such as titin are hypothesised to maintain uniform tension across the sarcomere and pull the thick filament into a central position.
 
-## Crossbridge Cycling
+### Crossbridge Cycling
 
 Crossbridge cycling is a sequence of molecular events that underlies the sliding filament theory. A crossbridge is a myosin projection, consisting of two myosin heads, that extends from the thick filaments. Each myosin head has two binding sites: one for ATP and another for actin. The binding of ATP to a myosin head detaches myosin from actin, thereby allowing myosin to bind to another actin molecule. Once attached, the ATP is hydrolyzed by myosin, which uses the released energy to move into the "cocked position" whereby it binds weakly to a part of the actin binding site. The remainder of the actin binding site is blocked by tropomyosin. With the ATP hydrolyzed, the cocked myosin head now contains ADP + P~i~. Two Ca^2+^
  ions bind to troponin C on the actin filaments. The troponin-Ca^2+^ complex causes tropomyosin to slide over and unblock the remainder of the actin binding site. Unblocking the rest of the actin binding sites allows the two myosin heads to close and myosin to bind strongly to actin. The myosin head then releases the inorganic phosphate and initiates a power stroke, which generates a force of 2 pN. The power stroke moves the actin filament inwards, thereby shortening the sarcomere. Myosin then releases ADP but still remains tightly bound to actin. At the end of the power stroke, ADP is released from the myosin head, leaving myosin attached to actin in a rigor state until another ATP binds to myosin. A lack of ATP would result in the rigor state characteristic of rigor mortis. Once another ATP binds to myosin, the myosin head will again detach from actin and another crossbridges cycle occurs.
@@ -349,7 +349,7 @@ Length-tension relationship relates the strength of an isometric contraction to 
 
 Force–velocity relationship relates the speed at which a muscle changes its length (usually regulated by external forces, such as load or other muscles) to the amount of force that it generates. Force declines in a hyperbolic fashion relative to the isometric force as the shortening velocity increases, eventually reaching zero at some maximum velocity. The reverse holds true for when the muscle is stretched – force increases above isometric maximum, until finally reaching an absolute maximum. This intrinsic property of active muscle tissue plays a role in the active damping of joints that are actuated by simultaneously-active opposing muscles. In such cases, the force-velocity profile enhances the force produced by the lengthening muscle at the expense of the shortening muscle. This favoring of whichever muscle returns the joint to equilibrium effectively increases the damping of the joint. Moreover, the strength of the damping increases with muscle force. The motor system can thus actively control joint damping via the simultaneous contraction (co-contraction) of opposing muscle groups.
 
-## Smooth Muscle
+### Smooth Muscle
 
 Smooth muscles can be divided into two subgroups: single-unit (unitary) and multi-unit. Single-unit smooth muscle cells can be found in the gut and blood vessels. Because these cells are linked together by gap junctions, they are able to contract as a syncytium. Single-unit smooth muscle cells contract myogenically, which can be modulated by the autonomic nervous system.
 
@@ -363,7 +363,7 @@ Termination of crossbridge cycling (and leaving the muscle in latch-state) occur
 
 Although smooth muscle contractions are myogenic, the rate and strength of their contractions can be modulated by the autonomic nervous system. Postganglionic nerve fibers of parasympathetic nervous system release the neurotransmitter acetylcholine, which binds to muscarinic acetylcholine receptors (mAChRs) on smooth muscle cells. These receptors are metabotropic, or G-protein coupled receptors that initiate a second messenger cascade. Conversely, postganglionic nerve fibers of the sympathetic nervous system release the neurotransmitters epinephrine and norepinephrine, which bind to adrenergic receptors that are also metabotropic. The exact effects on the smooth muscle depend on the specific characteristics of the receptor activated—both parasympathetic input and sympathetic input can be either excitatory (contractile) or inhibitory (relaxing).
 
-## Cardiac Muscle
+### Cardiac Muscle
 
 There are two types of cardiac muscle cells: autorhythmic and contractile. Autorhythmic cells do not contract, but instead set the pace of contraction for other cardiac muscle cells, which can be modulated by the autonomic nervous system. In contrast, contractile muscle cells (cardiomyocytes) constitute the majority of the heart muscle and are able to contract.
 
@@ -373,7 +373,7 @@ Excitation-contraction coupling in cardiac muscle cells occurs when an action po
 
 Following systole, intracellular calcium is taken up by the sarco/endoplasmic reticulum ATPase (SERCA) pump back into the sarcoplasmic reticulum ready for the next cycle to begin. Calcium is also ejected from the cell mainly by the sodium-calcium exchanger (NCX) and, to a lesser extent, a plasma membrane calcium ATPase. Some calcium is also taken up by the mitochondria. An enzyme, phospholamban, serves as a brake for SERCA. At low heart rates, phospholamban is active and slows down the activity of the ATPase so that Ca^2+^ does not have to leave the cell entirely. At high heart rates, phospholamban is phosphorylated and deactivated thus taking most Ca^2+^from the cytoplasm back into the sarcoplasmic reticulum. Once again, calcium buffers moderate this fall in Ca^2+^ concentration, permitting a relatively small decrease in free Ca^2+^ concentration in response to a large change in total calcium. The falling Ca^2+^ concentration allows the troponin complex to dissociate from the actin filament thereby ending contraction. The heart relaxes, allowing the ventricles to fill with blood and begin the cardiac cycle again.
 
-## The Muscular Systems of Invertebrates
+### The Muscular Systems of Invertebrates
 
 In annelids such as earthworms and leeches, circular and longitudinal muscles cells form the body wall of these animals and are responsible for their movement. In an earthworm that is moving through a soil, for example, contractions of circular and longitudinal muscles occur reciprocally while the coelomic fluid serves as a hydroskeleton by maintaining turgidity of the earthworm. When the circular muscles in the anterior segments contract, the anterior portion of animal's body begins to constrict radially, which pushes the incompressible coelomic fluid forward and increasing the length of the animal. As a result, the front end of the animal moves forward. As the front end of the earthworm becomes anchored and the circular muscles in the anterior segments become relaxed, a wave of longitudinal muscle contractions passes backwards, which pulls the rest of animal's trailing body forward. These alternating waves of circular and longitudinal contractions is called peristalsis, which underlies the creeping movement of earthworms.
 
