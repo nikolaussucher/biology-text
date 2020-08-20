@@ -52,28 +52,40 @@ The human female reproductive system is a series of organs primarily located ins
 
 (ref:femalerepsys) [Diagram of the female reproductive system.](https://commons.wikimedia.org/wiki/File:Female_anatomy_en.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/reproductive_system/Scheme_female_reproductive_system-en.svg" alt="(ref:femalerepsys)" width="70%" />
-<p class="caption">(\#fig:femalereproductivesystem)(ref:femalerepsys)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/reproductive_system/Scheme_female_reproductive_system-en} 
+
+}
+
+\caption{(ref:femalerepsys)}(\#fig:femalereproductivesystem)
+\end{figure}
 
 The vagina meets the outside at the vulva, which also includes the labia, clitoris and urethra; during intercourse this area is lubricated by mucus secreted by the Bartholin's glands. The vagina is attached to the uterus through the cervix, while the uterus is attached to the ovaries via the Fallopian tubes. Each ovary contains hundreds of egg cells or ova (singular ovum).
 
 (ref:vulva) [External and internal views of the vulva.](https://commons.wikimedia.org/wiki/File:Figure_28_02_02.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/reproductive_system/Figure_28_02_02.jpg" alt="(ref:vulva)" width="70%" />
-<p class="caption">(\#fig:vulvaview)(ref:vulva)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/reproductive_system/Figure_28_02_02} 
+
+}
+
+\caption{(ref:vulva)}(\#fig:vulvaview)
+\end{figure}
 
 Approximately every 28 days, the pituitary gland releases a hormone that stimulates some of the ova to develop and grow. One ovum is released and it passes through the Fallopian tube into the uterus. Hormones produced by the ovaries prepare the uterus to receive the ovum. The lining of the uterus, called the endometrium, and unfertilized ova are shed each cycle through the process of menstruation. If the ovum is fertilized by sperm, it attaches to the endometrium and the fetus develops.
 
 (ref:menscyc) [The progression of the menstrual cycle and the different hormones regulating it.](https://upload.wikimedia.org/wikipedia/commons/f/f3/Figure_28_02_07.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/reproductive_system/Figure_28_02_07.jpg" alt="(ref:menscyc)" width="70%" />
-<p class="caption">(\#fig:menstrualcycle)(ref:menscyc)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/reproductive_system/Figure_28_02_07} 
+
+}
+
+\caption{(ref:menscyc)}(\#fig:menstrualcycle)
+\end{figure}
 
 ## The Male Reproductive System
 
@@ -81,19 +93,27 @@ The male reproductive system is a series of organs located outside the body and 
 
 (ref:malerepsys) [Diagram of the male reproductive system.](https://commons.wikimedia.org/wiki/File:Male_anatomy_en.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/reproductive_system/male anatomy.svg" alt="(ref:malerepsys)" width="70%" />
-<p class="caption">(\#fig:malereproductivesystem)(ref:malerepsys)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/reproductive_system/male anatomy} 
+
+}
+
+\caption{(ref:malerepsys)}(\#fig:malereproductivesystem)
+\end{figure}
 
 The major reproductive organs of the male can be grouped into three categories. The first category produces and stores sperm (spermatozoa). These are produced in the testes, which are housed in the temperature-regulating scrotum; immature sperm then travel to the epididymis for development and storage. The second category are the ejaculatory fluid producing glands which include the Cowper's gland (also called bulbo-urethral gland), seminal vesicles, prostate, and vas deferens. The final category are those used for copulation and deposition of the sperm within the female; these include the penis, urethra, and vas deferens.
 
 (ref:testes) [Diagram of inner structures of testes.](https://commons.wikimedia.org/wiki/File:Figure_28_01_03.JPG) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/reproductive_system/Figure_28_01_03.jpg" alt="(ref:testes)" width="70%" />
-<p class="caption">(\#fig:testesdiagram)(ref:testes)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/reproductive_system/Figure_28_01_03} 
+
+}
+
+\caption{(ref:testes)}(\#fig:testesdiagram)
+\end{figure}
 
 Major secondary sexual characteristics include: larger, more muscular stature, deepened voice, facial and body hair, broad shoulders, and development of an Adam's apple. An important sexual hormone of males is androgen, and particularly testosterone.
 
@@ -103,10 +123,14 @@ The development of the reproductive system and the development of the urinary sy
 
 (ref:sexdif) [Differentiation of the male and female reproductive systems from a common origin.](https://commons.wikimedia.org/wiki/File:2915_Sexual_Differentation-02.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/reproductive_system/2915_Sexual_Differentation-02.jpg" alt="(ref:sexdif)" width="70%" />
-<p class="caption">(\#fig:differentiationrepsys)(ref:sexdif)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/reproductive_system/2915_Sexual_Differentation-02} 
+
+}
+
+\caption{(ref:sexdif)}(\#fig:differentiationrepsys)
+\end{figure}
 
 The Wolffian duct forms the epididymis, vas deferens, ductus deferens, ejaculatory duct, and seminal vesicle in the male reproductive system, but essentially disappears in the female reproductive system. The reverse is true for the Müllerian duct, as it essentially disappears in the male reproductive system and forms the Fallopian tubes, uterus, and vagina in the female system. In both sexes the gonads go on to form the testes and ovaries; because they are derived from the same undeveloped structure, they are considered homologous organs. There are a number of other homologous structures shared between male and female reproductive systems. However, despite the similarity in function of the female Fallopian tubes and the male epididymis and vas deferens, they are not homologous but rather analogous structures as they arise from different fetal structures.
 
@@ -114,35 +138,51 @@ Gametes are produced within the gonads through a process known as gametogenesis.
 
 (ref:testbio) [Normal spermatogenesis, testis biopsy.](https://commons.wikimedia.org/wiki/File:Normal_spermatogenesis,_intermed._mag.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/reproductive_system/Normal_spermatogenesis,_intermed._mag.jpg" alt="(ref:testbio)" width="70%" />
-<p class="caption">(\#fig:testesbiopsy)(ref:testbio)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/reproductive_system/Normal_spermatogenesis,_intermed._mag} 
+
+}
+
+\caption{(ref:testbio)}(\#fig:testesbiopsy)
+\end{figure}
 
 In males, this process is known as spermatogenesis, and takes place only after puberty in the seminiferous tubules of the testes. The immature spermatozoa or sperm are then sent to the epididymis, where they gain a tail, enabling motility. Each of the original diploid germ cells or primary spermatocytes forms four functional gametes. The production and survival of sperms require a temperature below the normal core body temperature. Since the scrotum, where the testes is present, is situated outside the body cavity, it provides a temperature about 3 °C below normal body temperature.
 
 (ref:spermgen) [The process of spermatogenesis as the cells progress from primary spermatocytes, to secondary spermatocytes, to spermatids, to Sperm.](https://commons.wikimedia.org/wiki/File:Figure_28_01_04.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/reproductive_system/Figure_28_01_04.jpg" alt="(ref:spermgen)" width="70%" />
-<p class="caption">(\#fig:spermatogenesis)(ref:spermgen)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/reproductive_system/Figure_28_01_04} 
+
+}
+
+\caption{(ref:spermgen)}(\#fig:spermatogenesis)
+\end{figure}
 
 In females, gametogenesis is known as oogenesis; this occurs in the ovarian follicles of the ovaries. This process does not produce mature ovum until puberty. In contrast with males, each of the original diploid germ cells or primary oocytes will form only one mature ovum, and three polar bodies which are not capable of fertilization. It has long been understood that in females, unlike males, all of the primary oocytes ever found in a female will be created prior to birth, and that the final stages of ova production will then not resume until puberty. However, recent scientific research has challenged that hypothesis. This new research indicates that in at least some species of mammal, oocytes continue to be replenished in females well after birth.
 
 
 (ref:ovcor) [Micrograph of the ovarian cortex from a rhesus monkey showing several round follicles embedded in a matrix of stromal cells. A secondary follicle sectioned through the nucleus of an oocyte is at the upper left, and earlier stage follicles are at the lower right. The tissue was stained with the dyes hematoxylin and eosin.](https://en.wikipedia.org/wiki/File:Ovarian_cortex_in_a_rhesus_monkey.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/reproductive_system/Ovarian_cortex_in_a_rhesus_monkey.jpg" alt="(ref:ovcor)" width="70%" />
-<p class="caption">(\#fig:ovariancortex)(ref:ovcor)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/reproductive_system/Ovarian_cortex_in_a_rhesus_monkey} 
+
+}
+
+\caption{(ref:ovcor)}(\#fig:ovariancortex)
+\end{figure}
 
 (ref:oogen) [The process of ovulation and gamete production, oogenesis, in a human ovary.](https://commons.wikimedia.org/wiki/File:Oogenesis_Labeled.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/reproductive_system/Oogenesis_Labeled.svg" alt="(ref:oogen)" width="70%" />
-<p class="caption">(\#fig:oogenesis)(ref:oogen)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/reproductive_system/Oogenesis_Labeled} 
+
+}
+
+\caption{(ref:oogen)}(\#fig:oogenesis)
+\end{figure}
 
 

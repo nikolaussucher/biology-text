@@ -10,10 +10,14 @@ The lymphatic system, or lymphoid system, is an organ system in vertebrates that
 
 (ref:lymph) [The human lymphatic system.](https://commons.wikimedia.org/wiki/File:Blausen_0623_LymphaticSystem_Female.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/Blausen_0623_LymphaticSystem_Female.png" alt="(ref:lymph)" width="70%" />
-<p class="caption">(\#fig:lymphaticsystem)(ref:lymph)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/Blausen_0623_LymphaticSystem_Female} 
+
+}
+
+\caption{(ref:lymph)}(\#fig:lymphaticsystem)
+\end{figure}
 
 The adjective used for the lymph-transporting system is lymphatic. The adjective used for the tissues where lymphocytes are formed is lymphoid. Lymphatic comes from the Latin word lymphaticus, meaning "connected to water."
 
@@ -41,10 +45,14 @@ The thymus increases in size from birth in response to postnatal antigen stimula
 
 (ref:thymus) [Location and microscopic anatomy of the human thymus](https://upload.wikimedia.org/wikipedia/commons/c/cf/Illu_thymus.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/Illu_thymus.jpg" alt="(ref:thymus)" width="70%" />
-<p class="caption">(\#fig:humanthymus)(ref:thymus)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/Illu_thymus} 
+
+}
+
+\caption{(ref:thymus)}(\#fig:humanthymus)
+\end{figure}
 
 The thymus provides an inductive environment for the development of T cells from hematopoietic progenitor cells. In addition, thymic stromal cells allow for the selection of a functional and self-tolerant T cell repertoire. Therefore, one of the most important roles of the thymus is the induction of central tolerance.
 
@@ -64,10 +72,14 @@ The spleen synthesizes antibodies in its white pulp and removes antibody-coated 
 
 (ref:spleen) [Location and microscopic anatomy of the human spleen.](https://commons.wikimedia.org/wiki/File:Illu_spleen.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/Illu_spleen.jpg" alt="(ref:spleen)" width="70%" />
-<p class="caption">(\#fig:humanspleen)(ref:spleen)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/Illu_spleen} 
+
+}
+
+\caption{(ref:spleen)}(\#fig:humanspleen)
+\end{figure}
 
 Like the thymus, the spleen has only efferent lymphatic vessels. Both the short gastric arteries and the splenic artery supply it with blood. The germinal centers are supplied by arterioles called penicilliary radicles.
 
@@ -79,10 +91,14 @@ A lymph node is an organized collection of lymphoid tissue, through which the ly
 
 (ref:lymphnod) [Schematic diagram of a lymph node showing flow of lymph through lymph sinuses](https://commons.wikimedia.org/wiki/File:Schematic_of_lymph_node_showing_lymph_sinuses.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/Schematic_of_lymph_node_showing_lymph_sinuses.svg" alt="(ref:lymphnod)" width="70%" />
-<p class="caption">(\#fig:lymphnode)(ref:lymphnod)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/Schematic_of_lymph_node_showing_lymph_sinuses} 
+
+}
+
+\caption{(ref:lymphnod)}(\#fig:lymphnode)
+\end{figure}
 
 The substance of a lymph node consists of lymphoid follicles in an outer portion called the cortex. The inner portion of the node is called the medulla, which is surrounded by the cortex on all sides except for a portion known as the hilum. The hilum presents as a depression on the surface of the lymph node, causing the otherwise spherical lymph node to be bean-shaped or ovoid. The efferent lymph vessel directly emerges from the lymph node at the hilum. The arteries and veins supplying the lymph node with blood enter and exit through the hilum. The region of the lymph node called the paracortex immediately surrounds the medulla. Unlike the cortex, which has mostly immature T cells, or thymocytes, the paracortex has a mixture of immature and mature T cells. Lymphocytes enter the lymph nodes through specialised high endothelial venules found in the paracortex.
 
@@ -102,10 +118,14 @@ The tissues of the lymphatic system are responsible for maintaining the balance 
 
 (ref:lymphcap) [Lymph capillaries in the tissue spaces.](https://commons.wikimedia.org/wiki/File:2202_Lymphatic_Capillaries_big.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/2202_Lymphatic_Capillaries_big.png" alt="(ref:lymphcap)" width="70%" />
-<p class="caption">(\#fig:lymphaticcapillaries)(ref:lymphcap)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/2202_Lymphatic_Capillaries_big} 
+
+}
+
+\caption{(ref:lymphcap)}(\#fig:lymphaticcapillaries)
+\end{figure}
 
 The lymphatic system has multiple interrelated functions:
 
@@ -119,10 +139,14 @@ Lymph vessels called lacteals are at the beginning of the gastrointestinal tract
 
 (ref:lymphnut) [Nutrients in food are absorbed via intestinal vili (greatly enlarged in the picture) to blood and lymph. Long-chain fatty acids (and other lipids with similar fat solubility like some medicines) are absorbed to the lymph and move in it enveloped inside chylomicrons. They move via the thoracic duct of the lymphatic system and finally enter the blood via the left subclavian vein, thus bypassing the liver's first-pass metabolism completely.](https://commons.wikimedia.org/wiki/File:Nutrient_absorbtion_to_blood_and_lymph.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/Nutrient_absorbtion_to_blood_and_lymph.png" alt="(ref:lymphnut)" width="70%" />
-<p class="caption">(\#fig:lymphnutrient)(ref:lymphnut)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/Nutrient_absorbtion_to_blood_and_lymph} 
+
+}
+
+\caption{(ref:lymphnut)}(\#fig:lymphnutrient)
+\end{figure}
 
 The lymphatic system plays a major role in the body's immune system, as the primary site for cells relating to adaptive immune system including T-cells and B-cells. Cells in the lymphatic system react to antigens presented or found by the cells directly or by other dendritic cells. When an antigen is recognized, an immunological cascade begins involving the activation and recruitment of more and more cells, the production of antibodies and cytokines and the recruitment of other immunological cells such as macrophages.
 
@@ -134,40 +158,22 @@ Disorders of the immune system can result in autoimmune diseases, inflammatory d
 
 The immune system protects its host from infection with layered defenses of increasing specificity. In simple terms, physical barriers prevent pathogens such as bacteria and viruses from entering the organism. If a pathogen breaches these barriers, the innate immune system provides an immediate, but non-specific response. Innate immune systems are found in all plants and animals. If pathogens successfully evade the innate response, vertebrates possess a second layer of protection, the adaptive immune system, which is activated by the innate response. Here, the immune system adapts its response during an infection to improve its recognition of the pathogen. This improved response is then retained after the pathogen has been eliminated, in the form of an immunological memory, and allows the adaptive immune system to mount faster and stronger attacks each time this pathogen is encountered.
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Innate immune system </th>
-   <th style="text-align:left;"> Adaptive immune system </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> Response is non-specific </td>
-   <td style="text-align:left;"> Pathogen and antigen specific response </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Composed of leukocytes </td>
-   <td style="text-align:left;"> Composed of antigens, B cells, T cells </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Exposure leads to immediate maximal response </td>
-   <td style="text-align:left;"> Lag time between exposure and maximal response </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Cell-mediated and humoral components </td>
-   <td style="text-align:left;"> Cell-mediated and humoral components </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> No immunological memory </td>
-   <td style="text-align:left;"> Exposure leads to immunological memory </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Found in nearly all forms of life </td>
-   <td style="text-align:left;"> Found only in jawed vertebrates </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[!h]
+\centering
+\begin{tabular}{ll}
+\toprule
+Innate immune system & Adaptive immune system\\
+\midrule
+\rowcolor{gray!6}  Response is non-specific & Pathogen and antigen specific response\\
+Composed of leukocytes & Composed of antigens, B cells, T cells\\
+\rowcolor{gray!6}  Exposure leads to immediate maximal response & Lag time between exposure and maximal response\\
+Cell-mediated and humoral components & Cell-mediated and humoral components\\
+\rowcolor{gray!6}  No immunological memory & Exposure leads to immunological memory\\
+\addlinespace
+Found in nearly all forms of life & Found only in jawed vertebrates\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 Both innate and adaptive immunity depend on the ability of the immune system to distinguish between self and non-self molecules. In immunology, self molecules are those components of an organism's body that can be distinguished from foreign substances by the immune system. Conversely, non-self molecules are those recognized as foreign molecules. One class of non-self molecules are called antigens (short for antibody generators) and are defined as substances that bind to specific immune receptors and elicit an immune response.
 
@@ -199,10 +205,14 @@ The innate leukocytes include: natural killer cells, mast cells, eosinophils, ba
 
 (ref:bloodcells) [A scanning electron microscope image of normal circulating human blood. ](https://commons.wikimedia.org/wiki/File:SEM_blood_cells.jpg) One can see red blood cells, several knobby white blood cells including lymphocytes, a monocyte, a neutrophil, and many small disc-shape platelets.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/SEM_blood_cells.jpg" alt="(ref:bloodcells)" width="70%" />
-<p class="caption">(\#fig:bloodcellsem)(ref:bloodcells)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/SEM_blood_cells} 
+
+}
+
+\caption{(ref:bloodcells)}(\#fig:bloodcellsem)
+\end{figure}
 
 Phagocytosis is an important feature of cellular innate immunity performed by cells called phagocytes that engulf, or eat, pathogens or particles. Phagocytes generally patrol the body searching for pathogens, but can be called to specific locations by cytokines. Once a pathogen has been engulfed by a phagocyte, it becomes trapped in an intracellular vesicle called a phagosome, which subsequently fuses with another vesicle called a lysosome to form a phagolysosome. The pathogen is killed by the activity of digestive enzymes or following a respiratory burst that releases free radicals into the phagolysosome. Phagocytosis evolved as a means of acquiring nutrients, but this role was extended in phagocytes to include engulfment of pathogens as a defense mechanism. Phagocytosis probably represents the oldest form of host defense, as phagocytes have been identified in both vertebrate and invertebrate animals.
 
@@ -218,19 +228,27 @@ Phagocytes of humans and other animals are called "professional" or "non-profess
 
 (ref:phago) [Scanning electron micrograph of a neutrophil phagocytosing anthrax bacilli (orange). Scale bar is 5 micrometers.](https://commons.wikimedia.org/wiki/File:Neutrophil_with_anthrax_copy.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/Neutrophil_with_anthrax_copy.jpg" alt="(ref:)" width="70%" />
-<p class="caption">(\#fig:unnamed-chunk-1)(ref:)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/Neutrophil_with_anthrax_copy} 
+
+}
+
+\caption{(ref:)}(\#fig:unnamed-chunk-1)
+\end{figure}
 
 During an infection, chemical signals attract phagocytes to places where the pathogen has invaded the body. These chemicals may come from bacteria or from other phagocytes already present. The phagocytes move by a method called chemotaxis. When phagocytes come into contact with bacteria, the receptors on the phagocyte's surface will bind to them. This binding will lead to the engulfing of the bacteria by the phagocyte. Some phagocytes kill the ingested pathogen with oxidants and nitric oxide. After phagocytosis, macrophages and dendritic cells can also participate in antigen presentation, a process in which a phagocyte moves parts of the ingested material back to its surface. This material is then displayed to other cells of the immune system. Some phagocytes then travel to the body's lymph nodes and display the material to white blood cells called lymphocytes. This process is important in building immunity, and many pathogens have evolved methods to evade attacks by phagocytes.
 
 (ref:phagdia) [Simplified diagram of the phagocytosis and destruction of a bacterial cell.](https://commons.wikimedia.org/wiki/File:Phagocytosis2.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/Phagocytosis2.png" alt="(ref:phagdia)" width="70%" />
-<p class="caption">(\#fig:phagocytosisdiagram)(ref:phagdia)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/Phagocytosis2} 
+
+}
+
+\caption{(ref:phagdia)}(\#fig:phagocytosisdiagram)
+\end{figure}
 
 ### Macrophages
 
@@ -242,10 +260,14 @@ Neutrophils, along with two other cell types (eosinophils and basophils; see bel
 
 (ref:neutro) [A neutrophil.](https://commons.wikimedia.org/wiki/File:PBNeutrophil.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/PBNeutrophil.jpg" alt="(ref:neutro)" width="70%" />
-<p class="caption">(\#fig:neutrophil)(ref:neutro)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/PBNeutrophil} 
+
+}
+
+\caption{(ref:neutro)}(\#fig:neutrophil)
+\end{figure}
 
 ### Dendritic Cells
 
@@ -257,10 +279,14 @@ Basophils and eosinophils are cells related to the neutrophil. When activated by
 
 (ref:eosin) [An eosinophil.](https://commons.wikimedia.org/wiki/File:Eosinophil_blood_smear.JPG) Red blood cells surround the eosinophil, two platelets at the top left corner.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/Eosinophil_blood_smear.jpg" alt="(ref:eosin)" width="70%" />
-<p class="caption">(\#fig:eosinophil)(ref:eosin)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/Eosinophil_blood_smear} 
+
+}
+
+\caption{(ref:eosin)}(\#fig:eosinophil)
+\end{figure}
 
 ### Innate Lymphoid Cells
 
@@ -291,10 +317,14 @@ The complement system is a biochemical cascade that attacks the surfaces of fore
 
 (ref:complement) [The complement system](https://commons.wikimedia.org/wiki/File:Complement_pathway.svg) is made up of about 25 proteins that work together to “complement” the action of antibodies in destroying bacteria. Complement proteins circulate in the blood in an inactive form. When the first protein in the complement series is activated— typically by antibody that has locked onto an antigen—it sets in motion a domino effect. Each component takes its turn in a precise chain of steps known as the complement cascade. The end product is a cylinder inserted into—and puncturing a hole in—the cell’s wall. With fluids and molecules flowing in and out, the cell swells and bursts.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/Complement_pathway.svg" alt="(ref:complement)" width="70%" />
-<p class="caption">(\#fig:complementsystem)(ref:complement)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/Complement_pathway} 
+
+}
+
+\caption{(ref:complement)}(\#fig:complementsystem)
+\end{figure}
 
 In humans, this response is activated by complement binding to antibodies that have attached to these microbes or the binding of complement proteins to carbohydrates on the surfaces of microbes. This recognition signal triggers a rapid killing response. The speed of the response is a result of signal amplification that occurs after sequential proteolytic activation of complement molecules, which are also proteases. After complement proteins initially bind to the microbe, they activate their protease activity, which in turn activates other complement proteases, and so on. This produces a catalytic cascade that amplifies the initial signal by controlled positive feedback. The cascade results in the production of peptides that attract immune cells, increase vascular permeability, and opsonize (coat) the surface of a pathogen, marking it for destruction. This deposition of complement can also kill cells directly by disrupting their plasma membrane.
 
@@ -334,10 +364,14 @@ The system is highly adaptable because of somatic hypermutation (a process of ac
 
 (ref:imov) [Overview of the processes involved in the primary immune response](https://commons.wikimedia.org/wiki/File:Primary_immune_response_1.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/Primary_immune_response_1.png" alt="(ref:imov)" width="70%" />
-<p class="caption">(\#fig:immuneoverview)(ref:imov)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/Primary_immune_response_1} 
+
+}
+
+\caption{(ref:imov)}(\#fig:immuneoverview)
+\end{figure}
 Acquired immunity is triggered in vertebrates when a pathogen evades the innate immune system and (1) generates a threshold level of antigen and (2) generates "stranger" or "danger" signals activating dendritic cells.
 
 The major functions of the acquired immune system include:
@@ -370,10 +404,14 @@ Several T cells subgroups can be activated by professional APCs, and each type o
 
 (ref:antpres) [Antigen presentation stimulates T cells to become either "cytotoxic" CD8+ cells or "helper" CD4+ cells.](https://commons.wikimedia.org/wiki/File:Antigen_presentation.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/Antigen_presentation.svg" alt="(ref:antpres)" width="70%" />
-<p class="caption">(\#fig:antigenpresentation)(ref:antpres)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/Antigen_presentation} 
+
+}
+
+\caption{(ref:antpres)}(\#fig:antigenpresentation)
+\end{figure}
 
 Dendritic cells engulf exogenous pathogens, such as bacteria, parasites or toxins in the tissues and then migrate, via chemotactic signals, to the T cell-enriched lymph nodes. During migration, dendritic cells undergo a process of maturation in which they lose most of their ability to engulf other pathogens, and develop an ability to communicate with T-cells. The dendritic cell uses enzymes to chop the pathogen into smaller pieces, called antigens. In the lymph node, the dendritic cell displays these non-self antigens on its surface by coupling them to a receptor called the major histocompatibility complex, or MHC (also known in humans as human leukocyte antigen (HLA)). This MHC: antigen complex is recognized by T-cells passing through the lymph node. Exogenous antigens are usually displayed on MHC class II molecules, which activate CD4+T helper cells.
 
@@ -381,10 +419,14 @@ Endogenous antigens are produced by intracellular bacteria and viruses replicati
 
 (ref:tactiv) [The T lymphocyte activation pathway.](https://commons.wikimedia.org/wiki/File:T_cell_activation.svg) The T lymphocyte activation pathway is triggered when a T cell encounters its cognate antigen, coupled to a MHC molecule, on the surface of an infected cell or a phagocyte. T cells contribute to immune defenses in two major ways: some direct and regulate immune responses; others directly attack infected or cancerous cells.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/T_cell_activation.svg" alt="(ref:tactiv)" width="70%" />
-<p class="caption">(\#fig:tcellactivation)(ref:tactiv)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/T_cell_activation} 
+
+}
+
+\caption{(ref:tactiv)}(\#fig:tcellactivation)
+\end{figure}
 
 ### Cytotoxic T lymphocytes
 
@@ -439,10 +481,14 @@ A B cell identifies pathogens when antibodies on its surface bind to a specific 
 
 (ref:bactiv) [The B lymphocyte activation pathway.](https://commons.wikimedia.org/wiki/File:B_cell_activation.svg) The B lymphocyte activation pathway. B cells function to protect the host by producing antibodies that identify and neutralize foreign objects like bacteria and viruses.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/B_cell_activation.svg" alt="(ref:bactiv)" width="70%" />
-<p class="caption">(\#fig:bcellactivation)(ref:bactiv)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/B_cell_activation} 
+
+}
+
+\caption{(ref:bactiv)}(\#fig:bcellactivation)
+\end{figure}
 
 ### Antibodies
 
@@ -464,10 +510,14 @@ The basic functional unit of each antibody is an immunoglobulin (Ig) monomer (co
 
 (ref:antibstruc) [An antibody is made up of two heavy chains and two light chains. The unique variable region allows an antibody to recognize its matching antigen.](https://commons.wikimedia.org/wiki/File:Antibody_chains.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/immune/Antibody_chains.svg" alt="(ref:antibstruc)" width="70%" />
-<p class="caption">(\#fig:antibodystructure)(ref:antibstruc)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/immune/Antibody_chains} 
+
+}
+
+\caption{(ref:antibstruc)}(\#fig:antibodystructure)
+\end{figure}
 
 The variable parts of an antibody are its V regions, and the constant part is its C region.
 

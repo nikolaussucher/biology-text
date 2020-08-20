@@ -15,10 +15,14 @@ The main processes involved in the embryonic development of animals are: tissue 
 
 (ref:gendev) [Generalized scheme of the embryonic development of animals.](https://commons.wikimedia.org/wiki/File:Slack_Essential_Dev_Biol_Fig_02-08.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/development/Slack_Essential_Dev_Biol_Fig_02-08.svg" alt="(ref:gendev)" width="70%" />
-<p class="caption">(\#fig:generaldevelopmentscheme)(ref:gendev)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/development/Slack_Essential_Dev_Biol_Fig_02-08} 
+
+}
+
+\caption{(ref:gendev)}(\#fig:generaldevelopmentscheme)
+\end{figure}
 
 The development of plants involves similar processes to that of animals. However plant cells are mostly immotile so morphogenesis is achieved by differential growth, without cell movements. Also, the inductive signals and the genes involved are different from those that control animal development.
 
@@ -28,10 +32,14 @@ Cellular differentiation is the process in which a cell changes from one cell ty
 
 (ref:celldif) [Stem cell differentiation into various tissue types.](https://commons.wikimedia.org/wiki/File:Final_stem_cell_differentiation_(1).svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/development/Final_stem_cell_differentiation_(1).svg" alt="(ref:celldif)" width="70%" />
-<p class="caption">(\#fig:cellulardifferentiation)(ref:celldif)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/development/Final_stem_cell_differentiation_(1)} 
+
+}
+
+\caption{(ref:celldif)}(\#fig:cellulardifferentiation)
+\end{figure}
 
 A specialized type of differentiation, known as 'terminal differentiation', is of importance in some tissues, for example vertebrate nervous system, striated muscle, epidermis and gut. During terminal differentiation, a precursor cell formerly capable of cell division, permanently leaves the cell cycle, dismantles the cell cycle machinery and often expresses a range of genes characteristic of the cell's final function (e.g. myosin and actin for a muscle cell). Differentiation may continue to occur after terminal differentiation if the capacity and functions of the cell undergo further changes.
 
@@ -61,10 +69,14 @@ A small fraction of the genes in an organism's genome control the organism's dev
 
 (ref:hoxg) [Homologous hox genes in such different animals as insects and vertebrates control embryonic development and hence the form of adult bodies. These genes have been highly conserved through hundreds of millions of years of evolution.](https://commons.wikimedia.org/wiki/File:Genes_hox.jpeg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/development/Genes_hox.jpg" alt="(ref:hoxg)" width="70%" />
-<p class="caption">(\#fig:hoxgenes)(ref:hoxg)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/development/Genes_hox} 
+
+}
+
+\caption{(ref:hoxg)}(\#fig:hoxgenes)
+\end{figure}
 
 The protein products of the regulatory toolkit are reused not by duplication and modification, but by a complex mosaic of pleiotropy, being applied unchanged in many independent developmental processes, giving pattern to many dissimilar body structures. The loci of these pleiotropic toolkit genes have large, complicated and modular cis-regulatory elements. For example, while a non-pleiotropic rhodopsin gene in the fruit fly has a cis-regulatory element just a few hundred base pairs long, the pleiotropic eyeless cis-regulatory region contains 6 cis-regulatory elements in over 7000 base pairs. The regulatory networks involved are often very large. Each regulatory protein controls "scores to hundreds" of cis-regulatory elements. For instance, 67 fruit fly transcription factors controlled on average 124 target genes each. All this complexity enables genes involved in the development of the embryo to be switched on and off at exactly the right times and in exactly the right places. Some of these genes are structural, directly forming enzymes, tissues and organs of the embryo. But many others are themselves regulatory genes, so what is switched on is often a precisely-timed cascade of switching, involving turning on one developmental process after another in the developing embryo.
 
@@ -81,28 +93,40 @@ Human embryonic development, or human embryogenesis, refers to the development a
 (ref:pregstag) [Stages during pregnancy. Embryonic development is marked in green. Weeks and months are numbered by gestation.](https://upload.wikimedia.org/wikipedia/commons/5/57/Prenatal_development_table.svg) 
 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/development/Prenatal_development_table.svg" alt="(ref:pregstag)" width="70%" />
-<p class="caption">(\#fig:pregnancystages)(ref:pregstag)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/development/Prenatal_development_table} 
+
+}
+
+\caption{(ref:pregstag)}(\#fig:pregnancystages)
+\end{figure}
 
 The germinal stage refers to the time from fertilization through the development of the early embryo until implantation is completed in the uterus. The germinal stage takes around 10 days. During this stage, the zygote begins to divide, in a process called cleavage. A blastocyst is then formed and implanted in the uterus. Embryogenesis continues with the next stage of gastrulation, when the three germ layers of the embryo form in a process called histogenesis, and the processes of neurulation and organogenesis follow.
 
 (ref:blastoc) [Blastocyst with an inner cell mass and trophoblast.](https://commons.wikimedia.org/wiki/File:Blastocyst_English.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/development/Blastocyst_English.svg" alt="(ref:blastoc)" width="70%" />
-<p class="caption">(\#fig:blastocyst)(ref:blastoc)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/development/Blastocyst_English} 
+
+}
+
+\caption{(ref:blastoc)}(\#fig:blastocyst)
+\end{figure}
 
 In comparison to the embryo, the fetus has more recognizable external features and a more complete set of developing organs. The entire process of embryogenesis involves coordinated spatial and temporal changes in gene expression, cell growth and cellular differentiation. A nearly identical process occurs in other species, especially among chordates.
 
 (ref:embdev) [The initial stages of human embryonic development.](https://commons.wikimedia.org/wiki/File:HumanEmbryogenesis.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/development/HumanEmbryogenesis.svg" alt="(ref:embdev)" width="70%" />
-<p class="caption">(\#fig:humanembryonicdevelopment)(ref:embdev)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/development/HumanEmbryogenesis} 
+
+}
+
+\caption{(ref:embdev)}(\#fig:humanembryonicdevelopment)
+\end{figure}
 
 Fertilization takes place when the spermatozoon has successfully entered the ovum and the two sets of genetic material carried by the gametes fuse together, resulting in the zygote (a single diploid cell). This usually takes place in the ampulla of one of the fallopian tubes. The zygote contains the combined genetic material carried by both the male and female gametes which consists of the 23 chromosomes from the nucleus of the ovum and the 23 chromosomes from the nucleus of the sperm. The 46 chromosomes undergo changes prior to the mitotic division which leads to the formation of the embryo having two cells.
 
@@ -110,10 +134,14 @@ Successful fertilization is enabled by three processes, which also act as contro
 
 (ref:eighcell) [An embryo at the 8-cell stage, at 3 days.](https://commons.wikimedia.org/wiki/File:Embryo,_8_cells.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/development/Embryo,_8_cells.jpg" alt="(ref:eighcell)" width="70%" />
-<p class="caption">(\#fig:eightcellembryo)(ref:eighcell)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/development/Embryo,_8_cells} 
+
+}
+
+\caption{(ref:eighcell)}(\#fig:eightcellembryo)
+\end{figure}
 
 The beginning of the cleavage process is marked when the zygote divides through mitosis into two cells. This mitosis continues and the first two cells divide into four cells, then into eight cells and so on. Each division takes from 12 to 24 hours. The zygote is large compared to any other cell and undergoes cleavage without any overall increase in size. This means that with each successive subdivision, the ratio of nuclear to cytoplasmic material increases. Initially the dividing cells, called blastomeres (blastos Greek for sprout), are undifferentiated and aggregated into a sphere enclosed within the membrane of glycoproteins (termed the zona pellucida) of the ovum. When eight blastomeres have formed they begin to develop gap junctions, enabling them to develop in an integrated way and co-ordinate their response to physiological signals and environmental cues.
 
@@ -138,19 +166,27 @@ The three germ layers are the ectoderm, mesoderm and endoderm, and are formed as
 
 (ref:germlay) [Histogenesis of the three germ layers.](https://commons.wikimedia.org/wiki/File:Germ_layers.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/development/Germ_layers.jpg" alt="(ref:germlay)" width="70%" />
-<p class="caption">(\#fig:germlayers)(ref:germlay)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/development/Germ_layers} 
+
+}
+
+\caption{(ref:germlay)}(\#fig:germlayers)
+\end{figure}
 
 Following ingression, a blastopore develops where the cells have ingressed, in one side of the embryo and it deepens to become the archenteron, the first formative stage of the gut. As in all deuterostomes, the blastopore becomes the anus whilst the gut tunnels through the embryo to the other side where the opening becomes the mouth. With a functioning digestive tube, gastrulation is now completed and the next stage of neurulation can begin.
 
 (ref:placen) [Embryo attached to the placenta in the amniotic cavity.](https://commons.wikimedia.org/wiki/File:2910_The_Placenta-02.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/development/2910_The_Placenta-02.jpg" alt="(ref:placen)" width="70%" />
-<p class="caption">(\#fig:embryoandplacenta)(ref:placen)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/development/2910_The_Placenta-02} 
+
+}
+
+\caption{(ref:placen)}(\#fig:embryoandplacenta)
+\end{figure}
 
 Following gastrulation, the ectoderm gives rise to epithelial and neural tissue, and the gastrula is now referred to as the neurula. The neural plate that has formed as a thickened plate from the ectoderm, continues to broaden and its ends start to fold upwards as neural folds. Neurulation refers to this folding process whereby the neural plate is transformed into the neural tube, and this takes place during the fourth week. They fold, along a shallow neural groove which has formed as a dividing median line in the neural plate. This deepens as the folds continue to gain height, when they will meet and close together at the neural crest. The cells that migrate through the most cranial part of the primitive line form the paraxial mesoderm, which will give rise to the somitomeres that in the process of somitogenesis will differentiate into somites that will form the sclerotomes, the syndetomes, the myotomes and the dermatomes to form cartilage and bone, tendons, dermis (skin), and muscle. The intermediate mesoderm gives rise to the urogenital tract and consists of cells that migrate from the middle region of the primitive line. Other cells migrate through the caudal part of the primitive line and form the lateral mesoderm, and those cells migrating by the most caudal part contribute to the extraembryonic mesoderm.
 
@@ -168,10 +204,14 @@ The heart is the first functional organ to develop and starts to beat and pump b
 
 (ref:heartdev) [Embryonic development of the heart.](https://commons.wikimedia.org/wiki/File:2037_Embryonic_Development_of_Heart.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/development/2037_Embryonic_Development_of_Heart.jpg" alt="(ref:heartdev)" width="70%" />
-<p class="caption">(\#fig:heartdevelopment)(ref:heartdev)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/development/2037_Embryonic_Development_of_Heart} 
+
+}
+
+\caption{(ref:heartdev)}(\#fig:heartdevelopment)
+\end{figure}
 
 Also at the same time that the endocardial tubes are forming, vasculogenesis (the development of the circulatory system) has begun. This starts on day 18 with cells in the splanchnopleuric mesoderm differentiating into angioblasts that develop into flattened endothelial cells. These join to form small vesicles called angiocysts which join up to form long vessels called angioblastic cords. These cords develop into a pervasive network of plexuses in the formation of the vascular network. This network grows by the additional budding and sprouting of new vessels in the process of angiogenesis. Following vasculogenesis and the development of an early vasculature, a stage of vascular remodelling takes place.
 
@@ -207,10 +247,14 @@ Late in the fourth week, the superior part of the neural tube bends ventrally as
 
 (ref:neurul) [A diagram of the stages of neural tube formation.](https://en.wikipedia.org/wiki/Neural_tube#/media/File:Neural_crest.svg)
         
-<div class="figure" style="text-align: center">
-<img src="./figures/development/neurulation.svg" alt="(ref:neurul)" width="70%" />
-<p class="caption">(\#fig:neurulation)(ref:neurul)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/development/neurulation} 
+
+}
+
+\caption{(ref:neurul)}(\#fig:neurulation)
+\end{figure}
 
 Cranial neural crest cells migrate to the pharyngeal arches as neural stem cells, where they develop in the process of neurogenesis into neurons.
 
@@ -218,10 +262,14 @@ The optical vesicle (which eventually becomes the optic nerve, retina and iris) 
 
 (ref:brainembryo) [An 8 week old human embryo.](https://commons.wikimedia.org/wiki/File:Human_embryo_8_weeks_4.JPG) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/development/Human_embryo_8_weeks_4.jpg" alt="(ref:brainembryo)" width="70%" />
-<p class="caption">(\#fig:humanembryo)(ref:brainembryo)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/development/Human_embryo_8_weeks_4} 
+
+}
+
+\caption{(ref:brainembryo)}(\#fig:humanembryo)
+\end{figure}
 
 Fetal development is the third of the three stages of prenatal development, following from the initial germinal stage (preembryonic stage), and stage of embryonic development. These stages are also referred to in pregnancy as terms or trimesters.
 

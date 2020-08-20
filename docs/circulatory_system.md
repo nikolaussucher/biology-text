@@ -47,17 +47,25 @@ The essential components of the human cardiovascular system are the heart, blood
 
 (ref:syscirc) [The systemic circulation and capillary networks shown and also as separate from the pulmonary circulation.](https://commons.wikimedia.org/wiki/File:2101_Blood_Flow_Through_the_Heart.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/circulation/2101_Blood_Flow_Through_the_Heart.jpg" alt="(ref:syscirc)" width="70%" />
-<p class="caption">(\#fig:systemiccirculation)(ref:syscirc)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/circulation/2101_Blood_Flow_Through_the_Heart} 
+
+}
+
+\caption{(ref:syscirc)}(\#fig:systemiccirculation)
+\end{figure}
 
 (ref:pulcirc) [The pulmonary circulation as it passes from the heart. Showing both the pulmonary and bronchial arteries.](https://commons.wikimedia.org/wiki/File:2119_Pulmonary_Circuit.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/circulation/2119_Pulmonary_Circuit.jpg" alt="(ref:pulcirc)" width="70%" />
-<p class="caption">(\#fig:pulmonarycirculation)(ref:pulcirc)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/circulation/2119_Pulmonary_Circuit} 
+
+}
+
+\caption{(ref:pulcirc)}(\#fig:pulmonarycirculation)
+\end{figure}
 
 The pulmonary circulation forms a"loop" through the lungs where blood is oxygenated; and the systemic circulation forms a "loop" through the rest of the body to provide oxygenated blood. The systemic circulation can also be seen to function in two parts – a macrocirculation and a microcirculation. An average adult contains five to six quarts (roughly 4.7 to 5.7 liters) of blood, accounting for approximately 7% of their total body weight. Blood consists of plasma, red blood cells, white blood cells, and platelets. Also, the digestive system works with the circulatory system to provide the nutrients the system needs to keep the heart pumping.
 
@@ -83,10 +91,14 @@ The heart has four chambers, two upper atria, the receiving chambers, and two lo
 
 (ref:heart) [Diagram of the human heart ](https://commons.wikimedia.org/wiki/File:Diagram_of_the_human_heart_(cropped).svg) 1. Superior vena cava 2. 4. Mitral valve 5. Aortic valve 6. Left ventricle 7. Right ventricle 8. Left atrium 9. Right atrium 10. Aorta 11. Pulmonary valve 12. Tricuspid valve 13. Inferior vena cava 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/circulation/Diagram_of_the_human_heart_(cropped).svg" alt="(ref:heart)" width="70%" />
-<p class="caption">(\#fig:heartdiagram)(ref:heart)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/circulation/Diagram_of_the_human_heart_(cropped)} 
+
+}
+
+\caption{(ref:heart)}(\#fig:heartdiagram)
+\end{figure}
 
 The cardiac skeleton is made of dense connective tissue and this gives structure to the heart. It forms the atrioventricular septum which separates the atria from the ventricles, and the fibrous rings which serve as bases for the four heart valves. The cardiac skeleton also provides an important boundary in the heart's electrical conduction system since collagen cannot conduct electricity. The interatrial septum separates the atria and the interventricular septum separates the ventricles. The interventricular septum is much thicker than the interatrial septum, since the ventricles need to generate greater pressure when they contract.
 
@@ -128,10 +140,14 @@ Heart tissue receives blood from two arteries which arise just above the aortic 
 
 (ref:coronary) [Arterial supply to the heart (red), with other areas labelled (blue).](https://en.wikipedia.org/wiki/Heart#/media/File:Coronary_arteries.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/circulation/Coronary_arteries.svg" alt="(ref:coronary)" width="70%" />
-<p class="caption">(\#fig:coronaryvessels)(ref:coronary)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/circulation/Coronary_arteries} 
+
+}
+
+\caption{(ref:coronary)}(\#fig:coronaryvessels)
+\end{figure}
 
 The coronary sinus is a large vein that drains into the right atrium, and receives most of the venous drainage of the heart. It receives blood from the great cardiac vein (receiving the left atrium and both ventricles), the posterior cardiac vein (draining the back of the left ventricle), the middle cardiac vein (draining the bottom of the left and right ventricles), and small cardiac veins. The anterior cardiac veins drain the front of the right ventricle and drain directly into the right atrium.
 
@@ -159,10 +175,14 @@ The normal resting heart rate is called the sinus rhythm, created and sustained 
 
 (ref:consys) [Conduction system of the heart.](https://commons.wikimedia.org/wiki/File:ConductionsystemoftheheartwithouttheHeart-en.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/circulation/ConductionsystemoftheheartwithouttheHeart-en.svg" alt="(ref:consys)" width="70%" />
-<p class="caption">(\#fig:conductionsystem)(ref:consys)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/circulation/ConductionsystemoftheheartwithouttheHeart-en} 
+
+}
+
+\caption{(ref:consys)}(\#fig:conductionsystem)
+\end{figure}
 
 When the sinoatrial cells are resting, they have a negative charge on their membranes. However a rapid influx of sodium ions causes the membrane's charge to become positive. This is called depolarisation and occurs spontaneously. Once the cell has a sufficiently high charge, the sodium channels close and calcium ions then begin to enter the cell, shortly after which potassium begins to leave it. All the ions travel through ion channels in the membrane of the sinoatrial cells. The potassium and calcium start to move out of and into the cell only once it has a sufficiently high charge, and so are called voltage-gated. Shortly after this, the calcium channels close and potassium channels open, allowing potassium to leave the cell. This causes the cell to have a negative resting charge and is called repolarization. When the membrane potential reaches approximately −60 mV, the potassium channels close and the process may begin again.
 
@@ -176,10 +196,14 @@ Using surface electrodes on the body, it is possible to record the electrical ac
 
 (ref:cardcy) [The cardiac cycle as correlated to the EKG](https://commons.wikimedia.org/wiki/File:2027_Phases_of_the_Cardiac_Cycle.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/circulation/2027_Phases_of_the_Cardiac_Cycle.jpg" alt="(ref:cardcy)" width="70%" />
-<p class="caption">(\#fig:cardiacekg)(ref:cardcy)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/circulation/2027_Phases_of_the_Cardiac_Cycle} 
+
+}
+
+\caption{(ref:cardcy)}(\#fig:cardiacekg)
+\end{figure}
 
 There are five prominent features on the ECG: the P wave (atrial depolarisation), the QRS complex (ventricular depolarisation) and the T wave (ventricular repolarisation). As the heart cells contract, they create a current that travels through the heart. A downward deflection on the ECG implies cells are becoming more positive in charge ("depolarising") in the direction of that lead, whereas an upward inflection implies cells are becoming more negative ("repolarising") in the direction of the lead. This depends on the position of the lead, so if a wave of depolarising moved from left to right, a lead on the left would show a negative deflection, and a lead on the right would show a positive deflection. The ECG is a useful tool in detecting rhythm disturbances and in detecting insufficient blood supply to the heart. Sometimes abnormalities are suspected, but not immediately visible on the ECG. Testing when exercising can be used to provoke an abnormality, or an ECG can be worn for a longer period such as a 24-hour Holter monitor if a suspected rhythm abnormality is not present at the time of assessment.
 
@@ -224,10 +248,14 @@ Many of these diseases are called "lifestyle diseases" because they develop over
 
 (ref:athero) [Atherosclerosis is a condition affecting the circulatory system. If the coronary arteries are affected, angina pectoris may result or at worse a heart attack.](https://commons.wikimedia.org/wiki/File:2113ab_Atherosclerosis.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/circulation/2113ab_Atherosclerosis.jpg" alt="(ref:athero)" width="70%" />
-<p class="caption">(\#fig:atherosclerosis)(ref:athero)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/circulation/2113ab_Atherosclerosis} 
+
+}
+
+\caption{(ref:athero)}(\#fig:atherosclerosis)
+\end{figure}
 
 Another major cardiovascular disease involves the creation of a clot, called a "thrombus". These can originate in veins or arteries. Deep venous thrombosis, which mostly occurs in the legs, is one cause of clots in the veins of the legs, particularly when a person has been stationary for a long time. These clots may embolise, meaning travel to another location in the body. The results of this may include pulmonary embolus, transient ischaemic attacks, or stroke.
 

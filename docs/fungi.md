@@ -4,10 +4,14 @@ Fungi (singular: fungus) are heterotrophic uni- or multicellular eukaryotic orga
 
 (ref:fungi) [A collage of five fungi (clockwise from top-left):](https://commons.wikimedia.org/wiki/File:Fungi_collage.jpg) a mushroom with a flat, red top with white-spots, and a white stem growing on the ground; a red cup-shaped fungus growing on wood; a stack of green and white moldy bread slices on a plate; a microscopic, spherical grey semitransparent cell, with a smaller spherical cell beside it; a microscopic view of an elongated cellular structure shaped like a microphone, attached to the larger end is a number of smaller roughly circular elements that collectively form a mass around sites.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/fungi/Fungi_collage.jpg" alt="(ref:fungi)" width="70%" />
-<p class="caption">(\#fig:fungidiversity)(ref:fungi)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/fungi/Fungi_collage} 
+
+}
+
+\caption{(ref:fungi)}(\#fig:fungidiversity)
+\end{figure}
 
 A characteristic that places fungi in a different kingdom from plants, bacteria, and some protists is chitin in their cell walls. Similar to animals, fungi are heterotrophs; they acquire their food by absorbing dissolved molecules, typically by secreting digestive enzymes into their environment. Fungi do not photosynthesize. Growth is their means of mobility, except for spores (a few of which are flagellated), which may travel through the air or water. Fungi are the principal decomposers in ecological systems. These and other differences place fungi in a single group of related organisms, named the Eumycota (true fungi or Eumycetes), which share a common ancestor (from a monophyletic group), an interpretation that is also strongly supported by molecular phylogenetics. This fungal group is distinct from the structurally similar myxomycetes (slime molds) and oomycetes (water molds). The discipline of biology devoted to the study of fungi is known as mycology (from the Greek μύκης mykes, mushroom). In the past, mycology was regarded as a branch of botany, although it is now known fungi are genetically more closely related to animals than to plants.
 
@@ -33,10 +37,14 @@ Shared features include:
 
 (ref:hyphae) [Fungal hyphae cells](https://commons.wikimedia.org/wiki/File:HYPHAE.png) 1. Hyphal wall 2. Septum 3. Mitochondrion 4. Vacuole 5. Ergosterol crystal 6. Ribosome 7. Nucleus 8. Endoplasmic reticulum 9. Lipid body 10. Plasma membrane 11. Spitzenkörper 12. Golgi apparatus
 
-<div class="figure" style="text-align: center">
-<img src="./figures/fungi/HYPHAE.png" alt="(ref:hyphae)" width="70%" />
-<p class="caption">(\#fig:hyphaecell)(ref:hyphae)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/fungi/HYPHAE} 
+
+}
+
+\caption{(ref:hyphae)}(\#fig:hyphaecell)
+\end{figure}
 
 Unique features of fungi:
 
@@ -119,10 +127,14 @@ The major phyla (sometimes called divisions) of fungi have been classified mainl
 
 (ref:funtax) [Six commonly recognized groups of fungi.](https://commons.wikimedia.org/wiki/File:02_01_groups_of_Fungi_(M._Piepenbring).png) Zygomycota, or zygote fungi, is a former division or phylum of the kingdom Fungi. The members are now part of two recently proposed phyla.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/fungi/02_01_groups_of_Fungi_(M._Piepenbring).png" alt="(ref:funtax)" width="70%" />
-<p class="caption">(\#fig:fungitaxonomy)(ref:funtax)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/fungi/02_01_groups_of_Fungi_(M._Piepenbring)} 
+
+}
+
+\caption{(ref:funtax)}(\#fig:fungitaxonomy)
+\end{figure}
 
 Phylogenetic analysis has demonstrated that the Microsporidia, unicellular parasites of animals and protists, are fairly recent and highly derived endobiotic fungi (living within the tissue of another species). One 2006 study concludes that the Microsporidia are a sister group to the true fungi; that is, they are each other's closest evolutionary relative. Hibbett and colleagues suggest that this analysis does not clash with their classification of the Fungi, and although the Microsporidia are elevated to phylum status, it is acknowledged that further analysis is required to clarify evolutionary relationships within this group.
 
@@ -138,10 +150,14 @@ The Ascomycota, commonly known as sac fungi or ascomycetes, constitute the large
 
 (ref:penicil) [An environmental isolate of Penicillium hypha conidiophore phialide conidia septa](https://commons.wikimedia.org/wiki/File:Penicillium_labeled_cropped.jpg) 1. hypha 2. conidiophore 3. phialide 4. conidia 5. septa
 
-<div class="figure" style="text-align: center">
-<img src="./figures/fungi/Penicillium_labeled_cropped.jpg" alt="(ref:penicil)" width="70%" />
-<p class="caption">(\#fig:penicillium)(ref:penicil)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/fungi/Penicillium_labeled_cropped} 
+
+}
+
+\caption{(ref:penicil)}(\#fig:penicillium)
+\end{figure}
 
 Members of the Basidiomycota, commonly known as the club fungi or basidiomycetes, produce meiospores called basidiospores on club-like stalks called basidia. Most common mushrooms belong to this group, as well as rust and smut fungi, which are major pathogens of grains. Other important basidiomycetes include the maize pathogen Ustilago maydis, human commensal species of the genus Malassezia, and the opportunistic human pathogen, Cryptococcus neoformans.
 
@@ -163,10 +179,14 @@ Mycorrhizal symbiosis between plants and fungi is one of the most well-known pla
 
 (ref:mycorh) [Nutrient exchanges and communication between a mycorrhizal fungus and plants.](https://commons.wikimedia.org/wiki/File:Mycorrhizal_network.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/fungi/Mycorrhizal_network.svg" alt="(ref:mycorh)" width="70%" />
-<p class="caption">(\#fig:mycorhiza)(ref:mycorh)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/fungi/Mycorrhizal_network} 
+
+}
+
+\caption{(ref:mycorh)}(\#fig:mycorhiza)
+\end{figure}
 
 The mycorrhizal symbiosis is ancient, dating to at least 400 million years ago. It often increases the plant's uptake of inorganic compounds, such as nitrate and phosphate from soils having low concentrations of these key plant nutrients. The fungal partners may also mediate plant-to-plant transfer of carbohydrates and other nutrients. Such mycorrhizal communities are called "common mycorrhizal networks". A special case of mycorrhiza is myco-heterotrophy, whereby the plant parasitizes the fungus, obtaining all of its nutrients from its fungal symbiont. Some fungal species inhabit the tissues inside roots, stems, and leaves, in which case they are called endophytes. Similar to mycorrhiza, endophytic colonization by fungi may benefit both symbionts; for example, endophytes of grasses impart to their host increased resistance to herbivores and other environmental stresses and receive food and shelter from the plant in return.
 
@@ -174,27 +194,39 @@ Lichens are a symbiotic relationship between fungi and photosynthetic algae or c
 
 (ref:lich)  Fruticose (light green) and crustose (yellow) lichens growing on a tree.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/fungi/lichen.jpeg" alt="(ref:lich)" width="70%" />
-<p class="caption">(\#fig:lichen)(ref:lich)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/fungi/lichen} 
+
+}
+
+\caption{(ref:lich)}(\#fig:lichen)
+\end{figure}
 
 (ref:lichcross) [Schematic cross section of foliose lichen:](https://commons.wikimedia.org/wiki/File:Lichen_cross_section_–_heteromeric_thallus.svg)  a) The cortex is the outer layer of tightly woven fungus filaments (hyphae) b) This photobiont layer has photosynthesizing green algae c) Loosely packed hyphae in the medulla d) A tightly woven lower cortex e) Anchoring hyphae called rhizines where the fungus attaches to the substrate.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/fungi/Lichen_cross_section_–_heteromeric_thallus.svg" alt="(ref:lichcross)" width="70%" />
-<p class="caption">(\#fig:lichencrossection)(ref:lichcross)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/fungi/Lichen_cross_section_–_heteromeric_thallus} 
+
+}
+
+\caption{(ref:lichcross)}(\#fig:lichencrossection)
+\end{figure}
 
 The fungal part of the relationship is composed mostly of various species of ascomycetes and a few basidiomycetes.
 
 
 (ref:lichap) Cup-shaped apothecia and thallus of a foliose lichen. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/fungi/lichen_apothecium.jpeg" alt="(ref:lichap)" width="70%" />
-<p class="caption">(\#fig:lichenapothecium)(ref:lichap)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/fungi/lichen_apothecium} 
+
+}
+
+\caption{(ref:lichap)}(\#fig:lichenapothecium)
+\end{figure}
 
 Lichens occur in every ecosystem on all continents, play a key role in soil formation and the initiation of biological succession, and are prominent in some extreme environments, including polar, alpine, and semiarid desert regions. They are able to grow on inhospitable surfaces, including bare soil, rocks, tree bark, wood, shells, barnacles and leaves. As in mycorrhizas, the photobiont provides sugars and other carbohydrates via photosynthesis to the fungus, while the fungus provides minerals and water to the photobiont. The functions of both symbiotic organisms are so closely intertwined that they function almost as a single organism; in most cases the resulting organism differs greatly from the individual components. Lichenization is a common mode of nutrition for fungi; around 20% of fungi—between 17,500 and 20,000 described species—are lichenized. Characteristics common to most lichens include obtaining organic carbon by photosynthesis, slow growth, small size, long life, long-lasting (seasonal) vegetative reproductive structures, mineral nutrition obtained largely from airborne sources, and greater tolerance of desiccation than most other photosynthetic organisms in the same habitat.
 

@@ -139,17 +139,25 @@ The evolution of the peppered moth is an evolutionary instance of directional co
 
 (ref:whitemoth) [Biston betularia f. typica, the white-bodied peppered moth.](https://commons.wikimedia.org/wiki/File:Biston.betularia.7200.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/evolution/Biston.betularia.7200.jpg" alt="(ref:whitemoth)" width="70%" />
-<p class="caption">(\#fig:whitepeppered)(ref:whitemoth)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/evolution/Biston.betularia.7200} 
+
+}
+
+\caption{(ref:whitemoth)}(\#fig:whitepeppered)
+\end{figure}
 
 (ref:blackmoth) [Biston betularia f. carbonaria, the black-bodied peppered moth.](https://commons.wikimedia.org/wiki/File:Biston.betularia.f.carbonaria.7209.jpg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/evolution/Biston.betularia.f.carbonaria.7209.jpg" alt="(ref:blackmoth)" width="70%" />
-<p class="caption">(\#fig:carbonaramoth)(ref:blackmoth)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/evolution/Biston.betularia.f.carbonaria.7209} 
+
+}
+
+\caption{(ref:blackmoth)}(\#fig:carbonaramoth)
+\end{figure}
 
 The dark-coloured or melanic form of the peppered moth (var. carbonaria) was not known before 1811. After field collection in 1848 from Manchester, an industrial city in England, the frequency of the variety was found to have increased drastically. By the end of the 19th century it almost completely outnumbered the original light-coloured type (var. typica), with a record of 98% in 1895. The evolutionary importance of the moth was only speculated upon during Darwin's lifetime. It was 14 years after Darwin's death, in 1896, that J.W. Tutt presented it as a case of natural selection. Due to this, the idea widely spread, and more people believed in Darwin's theory.
 
@@ -157,10 +165,14 @@ Bernard Kettlewell was the first to investigate the evolutionary mechanism behin
 
 (ref:moths) [Typica and carbonaria morphs on the same tree.](https://commons.wikimedia.org/wiki/File:Lichte_en_zwarte_versie_berkenspanner.jpg) The light-coloured typica (below the bark's scar) is nearly invisible on this pollution-free tree, camouflaging it from predators.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/evolution/Lichte_en_zwarte_versie_berkenspanner.jpg" alt="(ref:moths)" width="70%" />
-<p class="caption">(\#fig:mothstree)(ref:moths)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/evolution/Lichte_en_zwarte_versie_berkenspanner} 
+
+}
+
+\caption{(ref:moths)}(\#fig:mothstree)
+\end{figure}
 
 However, failure to replicate the experiment and criticism of Kettlewell's methods by Theodore David Sargent in the late 1960s led to general skepticism. When Judith Hooper's Of Moths and Men was published in 2002, Kettlewell's story was more sternly attacked, accused of fraud, and became widely disregarded. The criticism became a major argument for creationists. Michael Majerus was the principal defender. His seven-year experiment beginning in 2001, the most elaborate of its kind in population biology, the results of which were published posthumously in 2012, vindicated Kettlewell's work in great detail. This restored peppered moth evolution as "the most direct evidence", and "one of the clearest and most easily understood examples of Darwinian evolution in action".
 
@@ -191,10 +203,14 @@ Adaptation occurs through the gradual modification of existing structures. Conse
 
 (ref:hombone) [Homologous bones in the limbs of tetrapods. The bones of these animals have the same basic structure, but have been adapted for specific uses.](https://commons.wikimedia.org/wiki/File:Homology_vertebrates-en.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/evolution/Homology_vertebrates-en.svg" alt="(ref:hombone)" width="70%" />
-<p class="caption">(\#fig:homologousbones)(ref:hombone)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/evolution/Homology_vertebrates-en} 
+
+}
+
+\caption{(ref:hombone)}(\#fig:homologousbones)
+\end{figure}
 
 During evolution, some structures may lose their original function and become vestigial structures. Such structures may have little or no function in a current species, yet have a clear function in ancestral species, or other closely related species. Examples include pseudogenes, the non-functional remains of eyes in blind cave-dwelling fish, wings in flightless birds, the presence of hip bones in whales and snakes, and sexual traits in organisms that reproduce via asexual reproduction. Examples of vestigial structures in humans include wisdom teeth, the coccyx, the vermiform appendix, and other behavioural vestiges such as goose bumps and primitive reflexes.
 

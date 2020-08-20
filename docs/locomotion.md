@@ -30,10 +30,14 @@ The endoskeleton is the internal support structure of an animal, composed of min
 
 (ref:vertebrateskeletons) [Vertebrate skulls and skeletons](https://upload.wikimedia.org/wikipedia/commons/8/87/Skeletons.png): 1. [Homo sapiens](https://commons.wikimedia.org/wiki/File:S,keleton_diagram.svg), 2. [Human skull](https://commons.wikimedia.org/wiki/File:Gray188_skull_left_lateral_index.png), 3. [Australopithecus](https://commons.wikimedia.org/wiki/File:Australopithecus.jpg), 4. [Homo neanderthalensis](https://commons.wikimedia.org/wiki/File:Homo_sapiens_neanderthalensis.jpg), 5. [Pan troglodytes](https://commons.wikimedia.org/wiki/File:Pan_troglodytes01.jpg), 6. [Papio hamadryas](https://commons.wikimedia.org/wiki/File:Huxley_-_Mans_Place_in_Nature.jpg), 7. [Rhinopithecus roxellan](https://commons.wikimedia.org/wiki/File:Goldstumpfnasen_(Rhinopithecus_roxellana).jpg), 8. [Gorilla](https://commons.wikimedia.org/wiki/File:GorillaSkeleton.jpg), 9. [Sus scrofa](https://commons.wikimedia.org/wiki/File:PigSkelLyd2.png), 10. [Cattle](https://commons.wikimedia.org/wiki/File:Heubach_cattle_skull.jpg), 11. [Panthera leo](https://commons.wikimedia.org/wiki/File:Lion_anatomy_lateral_skeleton_view.jpg), 12. [Canis lupus](https://commons.wikimedia.org/wiki/File:WolfSkelLyd1.png), 13. [Equus caballus](https://commons.wikimedia.org/wiki/File:Horse_bones_ugglan.jpg), 14. [Elephantidae](https://commons.wikimedia.org/wiki/File:ElephantSkelLyd2.png), 15. [Capra](https://commons.wikimedia.org/wiki/File:Goat_anatomy_lateral_skeleton_view.jpg), 16. [Hippopotamus](https://commons.wikimedia.org/wiki/File:HippoSkelLyd2.png), 17. [Camelus](https://commons.wikimedia.org/wiki/File:CamelSkelLyd2.png), 18. [Macropus](https://commons.wikimedia.org/wiki/File:Macropodidae_skeleton.png), 19. [Damaliscus korrigum](https://commons.wikimedia.org/wiki/File:ChausinghaSkullLyd2.png), 20. [Odobenus rosmarus](https://commons.wikimedia.org/wiki/File:WalrusLyd2.png), 21. [Bat](https://commons.wikimedia.org/wiki/File:Fledermaus_(Nycteris_fuliginosis).png), 22. [Cetacea](https://commons.wikimedia.org/wiki/File:GreenlandWhaleLyd3.jpg), 23. [Accipitridae](https://commons.wikimedia.org/wiki/File:Baldeagle-06jul16.jpg), 24. [Psittacidae](https://commons.wikimedia.org/wiki/File:ParrotSkelLyd.jpg), 25. [Gallus gallus](https://commons.wikimedia.org/wiki/File:Furcula.png), 26. [Roosters](https://commons.wikimedia.org/wiki/File:Furcula.png), 27. [Ramphastos sulfuratus](https://commons.wikimedia.org/wiki/File:Toco_toucan_whipsnade.jpg), 28. [Casuariidae](https://commons.wikimedia.org/wiki/File:CassowarySkullLyd4.png), 29. [Spheniscidae](https://commons.wikimedia.org/wiki/File:Skull_alca_torda.jpg), 30. [Gruidae](https://commons.wikimedia.org/wiki/File:Grus_grus_skull.png), 32. [Sharovipteryx mirabilis](https://commons.wikimedia.org/wiki/File:Sharovipteryx_BW.jpg), 32. [Natrix natrix](https://commons.wikimedia.org/wiki/File:Python_gab_fbi.png), 33. [Crotalinae](), 34. [Boa constrictor](https://commons.wikimedia.org/wiki/File:Acrantophis_dumerili.jpg), 35. [Crocodile](https://commons.wikimedia.org/wiki/File:Crocodilelyd5.png), 36. [Lizard](https://commons.wikimedia.org/wiki/File:Pleurodont_jaw_Mivart.png), 37. [Testudines](https://commons.wikimedia.org/wiki/File:SmithTestudoSkeletonTagged.PNG), 38. [Frog](https://commons.wikimedia.org/wiki/File:Rana_skull.png), 39. [Salamandra salamandra](https://commons.wikimedia.org/wiki/File:Albanerpeton_BW.jpg), 40. [Perca fluviatilis](https://commons.wikimedia.org/wiki/File:Pesce_Persico.jpg), 41. [Acipenser](https://commons.wikimedia.org/wiki/File:Sturgeon2.jpg), 42. [Balistoides viridescens](https://commons.wikimedia.org/wiki/Category:Balistoides_viridescens), 43. [Rajidae](https://commons.wikimedia.org/wiki/File:Smooth_skate.jpg), 44. [Polypterus](https://commons.wikimedia.org/wiki/Category:Polypterus)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/Skeletons.png" alt="(ref:vertebrateskeletons)" width="70%" />
-<p class="caption">(\#fig:skullskeletons)(ref:vertebrateskeletons)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/Skeletons} 
+
+}
+
+\caption{(ref:vertebrateskeletons)}(\#fig:skullskeletons)
+\end{figure}
 
 Pliant skeletons are capable of movement; thus, when stress is applied to the skeletal structure, it deforms and then reverts to its original shape. This skeletal structure is used in some invertebrates, for instance in the hinge of bivalve shells or the mesoglea of cnidarians such as jellyfish. Pliant skeletons are beneficial because only muscle contractions are needed to bend the skeleton; upon muscle relaxation, the skeleton will return to its original shape. Cartilage is one material that a pliant skeleton may be composed of, but most pliant skeletons are formed from a mixture of proteins, polysaccharides, and water. For additional structure or protection, pliant skeletons may be supported by rigid skeletons. Organisms that have pliant skeletons typically live in water, which supports body structure in the absence of a rigid skeleton.
 
@@ -91,19 +95,27 @@ Joints are structures that connect individual bones and may allow bones to move 
 
 (ref:synjoint) [A synovial joint.](https://commons.wikimedia.org/wiki/File:Joint.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/Joint.svg" alt="(ref:synjoint)" width="70%" />
-<p class="caption">(\#fig:synovialjoint)(ref:synjoint)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/Joint} 
+
+}
+
+\caption{(ref:synjoint)}(\#fig:synovialjoint)
+\end{figure}
 
 A ligament is a small band of dense, white, fibrous elastic tissue. Ligaments connect the ends of bones together in order to form a joint. Most ligaments limit dislocation, or prevent certain movements that may cause breaks. Since they are only elastic they increasingly lengthen when under pressure. When this occurs the ligament may be susceptible to break resulting in an unstable joint.
 
 (ref:kneelig) [Diagram of the right knee. Anterior cruciate ligament labeled at center left.](https://commons.wikimedia.org/wiki/File:Knee_diagram.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/Knee_diagram.svg" alt="(ref:kneelig)" width="70%" />
-<p class="caption">(\#fig:kneeligaments)(ref:kneelig)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/Knee_diagram} 
+
+}
+
+\caption{(ref:kneelig)}(\#fig:kneeligaments)
+\end{figure}
 
 Ligaments may also restrict some actions: movements such as hyper extension and hyper flexion are restricted by ligaments to an extent. Also ligaments prevent certain directional movement.
 
@@ -115,10 +127,14 @@ The human skeleton consists of both fused and individual bones supported and sup
 
 (ref:skull) [Major bones of the human skull viewed from the side.](https://commons.wikimedia.org/wiki/File:Human_skull_side_simplified_(bones).svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/Human_skull_side_simplified_(bones).svg" alt="(ref:skull)" width="70%" />
-<p class="caption">(\#fig:humanskull)(ref:skull)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/Human_skull_side_simplified_(bones)} 
+
+}
+
+\caption{(ref:skull)}(\#fig:humanskull)
+\end{figure}
 
 The human skeleton performs six major functions; support, movement, protection, production of blood cells, storage of minerals, and endocrine regulation.It serves as a scaffold which supports organs, anchors muscles, and protects organs such as the brain, lungs, heart and spinal cord. Although the teeth do not consist of tissue commonly found in bones, the teeth are usually considered as members of the skeletal system. 
 
@@ -126,19 +142,27 @@ Fused bones include those of the pelvis and the cranium. Not all bones are inter
 
 (ref:humskelfr) [The human skeleton viewed from the front.](https://commons.wikimedia.org/wiki/File:Human_skeleton_front_en.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/Human_skeleton_front_en.svg" alt="(ref:humskelfr)" width="70%" />
-<p class="caption">(\#fig:humanskeletonfront)(ref:humskelfr)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/Human_skeleton_front_en} 
+
+}
+
+\caption{(ref:humskelfr)}(\#fig:humanskeletonfront)
+\end{figure}
 
 There are 206 bones in the adult human skeleton, although this number depends on whether the pelvic bones (the hip bones on each side) are counted as one or three bones on each side (ilium, ischium, and pubis), whether the coccyx or tail bone is counted as one or four separate bones, and does not count the variable wormian bones between skull sutures. Similarly, the sacrum is usually counted as a single bone, rather than five fused vertebrae. There is also a variable number of small sesamoid bones, commonly found in tendons. The patella or kneecap on each side is an example of a larger sesamoid bone. The patellae are counted in the total, as they are constant. The number of bones varies between individuals and with age – newborn babies have over 270 bones some of which fuse together. These bones are organized into a longitudinal axis, the axial skeleton, to which the appendicular skeleton is attached.
 
 (ref:humskelba) [The human skeleton viewed from the back.](https://commons.wikimedia.org/wiki/File:Human_skeleton_back_en.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/Human_skeleton_back_en.svg" alt="(ref:humskelba)" width="70%" />
-<p class="caption">(\#fig:humanskeletonback)(ref:humskelba)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/Human_skeleton_back_en} 
+
+}
+
+\caption{(ref:humskelba)}(\#fig:humanskeletonback)
+\end{figure}
 
 The human skeleton takes 20 years before it is fully developed, and the bones contain marrow, which produces blood cells.
 
@@ -150,10 +174,14 @@ The axial skeleton (80 bones) is formed by the vertebral column (32 bones), a pa
 
 (ref:axialsk) [The Axial skeleton](https://commons.wikimedia.org/wiki/File:Axial_skeleton_diagram.svg) consists of the bones in the head and trunk of the human body. It is composed of five parts; the human skull, the ossicles of the inner ear, the hyoid bone of the throat, the chest, and the vertebral column. The axial skeleton and the appendicular skeleton together form the complete skeleton.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/Axial_skeleton_diagram.svg" alt="(ref:axialsk)" width="70%" />
-<p class="caption">(\#fig:axialskeleton)(ref:axialsk)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/Axial_skeleton_diagram} 
+
+}
+
+\caption{(ref:axialsk)}(\#fig:axialskeleton)
+\end{figure}
 
 The upright posture of humans is maintained by the axial skeleton, which transmits the weight from the head, the trunk, and the upper extremities down to the lower extremities at the hip joints. The bones of the spine are supported by many ligaments. The erector spinae muscles are also supporting and are useful for balance.
 
@@ -163,10 +191,14 @@ The appendicular skeleton (126 bones) is formed by the pectoral girdles, the upp
 
 (ref:appendsk) [The appendicular skeleton (red) and the axial skeleton together form the complete skeleton.](https://commons.wikimedia.org/wiki/File:Appendicular_skeleton_diagram.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/Appendicular_skeleton_diagram.svg" alt="(ref:appendsk)" width="70%" />
-<p class="caption">(\#fig:appendicularskeleton)(ref:appendsk)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/Appendicular_skeleton_diagram} 
+
+}
+
+\caption{(ref:appendsk)}(\#fig:appendicularskeleton)
+\end{figure}
 
 ### Bone
 
@@ -174,26 +206,38 @@ A bone is a rigid organ that constitutes part of the vertebrate skeleton in anim
 
 (ref:longbo) [Structure of a long bone.](https://commons.wikimedia.org/wiki/File:603_Anatomy_of_Long_Bone.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/603_Anatomy_of_Long_Bone.jpg" alt="(ref:longbo)" width="70%" />
-<p class="caption">(\#fig:longbone)(ref:longbo)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/603_Anatomy_of_Long_Bone} 
+
+}
+
+\caption{(ref:longbo)}(\#fig:longbone)
+\end{figure}
 
 (ref:bonecross) [Cross-section of human bone.](https://commons.wikimedia.org/wiki/File:Human_skeleton_back_en.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/Bone_cross-section.svg" alt="(ref:bonecross)" width="70%" />
-<p class="caption">(\#fig:bonecrossection)(ref:bonecross)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/Bone_cross-section} 
+
+}
+
+\caption{(ref:bonecross)}(\#fig:bonecrossection)
+\end{figure}
 
 Bone tissue (osseous tissue) is a hard tissue, a type of dense connective tissue. It has a honeycomb-like matrix internally, which helps to give the bone rigidity. Bone tissue is made up of different types of bone cells. Osteoblasts and osteocytes are involved in the formation and mineralization of bone; osteoclasts are involved in the resorption of bone tissue. Modified (flattened) osteoblasts become the lining cells that form a protective layer on the bone surface. The mineralised matrix of bone tissue has an organic component of mainly collagen called ossein and an inorganic component of bone mineral made up of various salts. Bone tissue is a mineralized tissue of two types, cortical bone and cancellous bone. Other types of tissue found in bones include bone marrow, endosteum, periosteum, nerves, blood vessels and cartilage.
 
 (ref:anotherbonecross) [A cross section of a long bone, showing the internal structure.](https://commons.wikimedia.org/wiki/File:Illu_compact_spongy_bone.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/Illu_compact_spongy_bone.jpg" alt="(ref:anotherbonecross)" width="70%" />
-<p class="caption">(\#fig:anotherbonecrossection)(ref:anotherbonecross)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/Illu_compact_spongy_bone} 
+
+}
+
+\caption{(ref:anotherbonecross)}(\#fig:anotherbonecrossection)
+\end{figure}
 
 The Greek word for bone is ὀστέον ("osteon"), hence the many terms that use it as a prefix—such as osteopathy.
 
@@ -223,10 +267,14 @@ Bone is a metabolically active tissue composed of several types of cells. These 
 
 (ref:bocel) [Bone cells.](https://commons.wikimedia.org/wiki/File:604_Bone_cells.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/604_Bone_cells.jpg" alt="(ref:bocel)" width="70%" />
-<p class="caption">(\#fig:bonecells)(ref:bocel)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/604_Bone_cells} 
+
+}
+
+\caption{(ref:bocel)}(\#fig:bonecells)
+\end{figure}
 
 ### Osteoblast
 
@@ -260,26 +308,38 @@ There are three distinct types of muscles:
 
 Skeletal muscle is arranged in discrete muscles, an example of which is the biceps brachii (biceps). The tough, fibrous epimysium of skeletal muscle is both connected to and continuous with the tendons. In turn, the tendons connect to the periosteum layer surrounding the bones, permitting the transfer of force from the muscles to the skeleton. Together, these fibrous layers, along with tendons and ligaments, constitute the deep fascia of the body.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/414_Skeletal_Smooth_Cardiac.jpg" alt="(ref:threetypes)" width="70%" />
-<p class="caption">(\#fig:threetypesofmuscle)(ref:threetypes)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/414_Skeletal_Smooth_Cardiac} 
+
+}
+
+\caption{(ref:threetypes)}(\#fig:threetypesofmuscle)
+\end{figure}
 
 Skeletal muscles, like other striated muscles, are composed of myocytes, or muscle fibers, which are in turn composed of myofibrils, which are composed of sarcomeres, the basic building block of striated muscle tissue. Upon stimulation by an action potential, skeletal muscles perform a coordinated contraction by shortening each sarcomere. The best proposed model for understanding contraction is the sliding filament model of muscle contraction. Within the sarcomere, actin and myosin fibers overlap in a contractile motion towards each other. Myosin filaments have club-shaped heads that project toward the actin filaments.
 
 (ref:skelmus) [Bundles of muscle fibers, called fascicles, are covered by the perimysium. Muscle fibers are covered by the endomysium.](https://upload.wikimedia.org/wikipedia/commons/d/dd/1007_Muscle_Fibes_%28large%29.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/1007_Muscle_Fibes_(large).jpg" alt="(ref:skelmus)" width="70%" />
-<p class="caption">(\#fig:skeletalmuscle)(ref:skelmus)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/1007_Muscle_Fibes_(large)} 
+
+}
+
+\caption{(ref:skelmus)}(\#fig:skeletalmuscle)
+\end{figure}
 
 (ref:muscfib) [A skeletal muscle fiber is surrounded by a plasma membrane called the sarcolemma, which contains sarcoplasm, the cytoplasm of muscle cells. A muscle fiber is composed of many fibrils, which give the cell its striated appearance.](https://commons.wikimedia.org/wiki/File:1022_Muscle_Fibers_(small).jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/1022_Muscle_Fibers_(small).jpg" alt="(ref:muscfib)" width="70%" />
-<p class="caption">(\#fig:musclefibre)(ref:muscfib)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/1022_Muscle_Fibers_(small)} 
+
+}
+
+\caption{(ref:muscfib)}(\#fig:musclefibre)
+\end{figure}
 
 Larger structures along the myosin filament called myosin heads are used to provide attachment points on binding sites for the actin filaments. The myosin heads move in a coordinated style; they swivel toward the center of the sarcomere, detach and then reattach to the nearest active site of the actin filament. This is called a ratchet type drive system.
 
@@ -291,10 +351,14 @@ There are approximately 639 skeletal muscles in the human body.
 
 (ref:muscsys) [On the anterior and posterior views of the muscular system above, superficial muscles (those at the surface) are shown on the right side of the body while deep muscles (those underneath the superficial muscles) are shown on the left half of the body. For the legs, superficial muscles are shown in the anterior view while the posterior view shows both superficial and deep muscles.](https://commons.wikimedia.org/wiki/File:1105_Anterior_and_Posterior_Views_of_Muscles.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/1105_Anterior_and_Posterior_Views_of_Muscles.jpg" alt="(ref:muscsys)" width="70%" />
-<p class="caption">(\#fig:muscularsystem)(ref:muscsys)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/1105_Anterior_and_Posterior_Views_of_Muscles} 
+
+}
+
+\caption{(ref:muscsys)}(\#fig:muscularsystem)
+\end{figure}
 
 Heart muscles are distinct from skeletal muscles because the muscle fibers are laterally connected to each other. Furthermore, just as with smooth muscles, their movement is involuntary. Heart muscles are controlled by the sinus node influenced by the autonomic nervous system.
 
@@ -328,10 +392,14 @@ A neuromuscular junction is a chemical synapse formed by the contact between a m
 
 (ref:neuromusc) [Structure of neuromuscular junction.](https://upload.wikimedia.org/wikipedia/commons/5/57/1009_Motor_End_Plate_and_Innervation.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/1009_Motor_End_Plate_and_Innervation.jpg" alt="(ref:neuromusc)" width="70%" />
-<p class="caption">(\#fig:neuromuscularjunction)(ref:neuromusc)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/1009_Motor_End_Plate_and_Innervation} 
+
+}
+
+\caption{(ref:neuromusc)}(\#fig:neuromuscularjunction)
+\end{figure}
 
 The sequence of events that results in the depolarization of the muscle fiber at the neuromuscular junction begins when an action potential is initiated in the cell body of a motor neuron, which is then propagated by saltatory conduction along its axon toward the neuromuscular junction. Once it reaches the terminal bouton, the action potential causes a Ca^2+^ ion influx into the terminal by way of the voltage-gated calcium channels. The Ca^2+^ influx causes synaptic vesicles containing the neurotransmitter acetylcholine to fuse with the plasma membrane, releasing acetylcholine into the synaptic cleft between the motor neuron terminal and the neuromuscular junction of the skeletal muscle fiber. Acetylcholine diffuses across the synapse and binds to and activates nicotinic acetylcholine receptors on the neuromuscular junction. Activation of the nicotinic receptor opens its intrinsic sodium/potassium channel, causing sodium to rush in and potassium to trickle out. As a result, the sarcolemma reverses polarity and its voltage quickly jumps from the resting membrane potential of -90mV to as high as +75mV as sodium enters. The membrane potential then becomes hyperpolarized when potassium exits and is then adjusted back to the resting membrane potential. This rapid fluctuation is called the end-plate potential The voltage-gated ion channels of the sarcolemma next to the end plate open in response to the end plate potential. These voltage-gated channels are sodium and potassium specific and only allow one through. This wave of ion movements creates the action potential that spreads from the motor end plate in all directions. If action potentials stop arriving, then acetylcholine ceases to be released from the terminal bouton. The remaining acetylcholine in the synaptic cleft is either degraded by active acetylcholine esterase or reabsorbed by the synaptic knob and none is left to replace the degraded acetylcholine.
 
@@ -350,10 +418,14 @@ Crossbridge cycling is a sequence of molecular events that underlies the sliding
 
 (ref:crossbri) [Crossbridge cycling.](https://upload.wikimedia.org/wikipedia/commons/2/24/1008_Skeletal_Muscle_Contraction.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/locomotion/1008_Skeletal_Muscle_Contraction.jpg" alt="(ref:crossbri)" width="70%" />
-<p class="caption">(\#fig:crossbridge)(ref:crossbri)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/locomotion/1008_Skeletal_Muscle_Contraction} 
+
+}
+
+\caption{(ref:crossbri)}(\#fig:crossbridge)
+\end{figure}
 
 Crossbridge cycling is able to continue as long as there are sufficient amounts of ATP and Ca^2+^ in the cytoplasm. Termination of crossbridge cycling can occur when Ca^2+^ is actively pumped back into the sarcoplasmic reticulum. When Ca^2+^ is no longer present on the thin filament, the tropomyosin changes conformation back to its previous state so as to block the binding sites again. The myosin ceases binding to the thin filament, and the muscle relaxes. The Ca^2+^ ions leave the troponin molecule in order to maintain the Ca^2+^ ion concentration in the sarcoplasm. The active pumping of Ca^2+^ ions into the sarcoplasmic reticulum creates a deficiency in the fluid around the myofibrils. This causes the removal of Ca^2+^ ions from the troponin. Thus, the tropomyosin-troponin complex again covers the binding sites on the actin filaments and contraction ceases.
 

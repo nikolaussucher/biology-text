@@ -1,6 +1,6 @@
 # Animals
 
-Animals (from the Latin animalis, meaning having breath, having soul or living being) are heterotrophic multicellular eukaryotic organisms with internal digestion that form the biological kingdom Animalia. Animals consume organic material, breathe oxygen, are able to move, can reproduce sexually, and grow from a hollow sphere of cells, the blastula, during embryonic development. Over 1.5 million living animal species have been described—of which around 1 million are insects—but it has been estimated there are over 7 million animal species in total. Animals range in length from 8.5 micrometres (0.00033 in) to 33.6 metres (110 ft). They have complex interactions with each other and their environments, forming intricate food webs. The kingdom Animalia includes humans but in colloquial use the term animal often refers only to non-human animals. The scientific study of animals is known as zoology.
+[Animals](https://en.wikipedia.org/wiki/Animal) (from the Latin animalis, meaning having breath, having soul or living being) are heterotrophic multicellular eukaryotic organisms with internal digestion that form the biological kingdom Animalia. Animals consume organic material, breathe oxygen, are able to move, can reproduce sexually, and grow from a hollow sphere of cells, the blastula, during embryonic development. Over 1.5 million living animal species have been described—of which around 1 million are insects—but it has been estimated there are over 7 million animal species in total. Animals range in length from 8.5 micrometres (0.00033 in) to 33.6 metres (110 ft). They have complex interactions with each other and their environments, forming intricate food webs. The kingdom Animalia includes humans but in colloquial use the term animal often refers only to non-human animals. The scientific study of animals is known as zoology.
 
 (ref:animdiv) [Diversity of animals.](https://en.wikipedia.org/wiki/File:Animal_diversity.png)
 
@@ -94,7 +94,7 @@ The Ctenophora (comb jellies) and Cnidaria (which includes jellyfish, sea anemon
 
 ### Porifera
 
-Sponges, the members of the phylum Porifera (meaning "pore bearer"), are a basal Metazoa (animal) clade as a sister of the Diploblasts. They are multicellular organisms that have bodies full of pores and channels allowing water to circulate through them, consisting of jelly-like mesohyl sandwiched between two thin layers of cells.
+[Sponges](https://en.wikipedia.org/wiki/Sponge), the members of the phylum Porifera (meaning "pore bearer"), are a basal Metazoa (animal) clade as a sister of the Diploblasts. They are multicellular organisms that have bodies full of pores and channels allowing water to circulate through them, consisting of jelly-like mesohyl sandwiched between two thin layers of cells.
 
 Sponges have unspecialized cells that can transform into other types and that often migrate between the main cell layers and the mesohyl in the process. Sponges do not have nervous, digestive or circulatory systems. Instead, most rely on maintaining a constant water flow through their bodies to obtain food and oxygen and to remove wastes. Sponges were first to branch off the evolutionary tree from the common ancestor of all animals, making them the sister group of all other animals.
 
@@ -205,7 +205,7 @@ knitr::kable(sponges, col.names = c("", "Type of cells", "Spicules", "Spongin fi
 
 ### Ctenophora
 
-Ctenophora (from Ancient Greek: κτείς, romanized: kteis, lit. 'comb' and φέρω, pherō, 'to carry'; commonly known as comb jellies) comprise a phylum of invertebrate animals that live in marine waters worldwide. They are notable for the groups of cilia they use for swimming (commonly referred to as "combs"), and they are the largest animals to swim with the help of cilia. Depending on the species, adult ctenophores range from a few millimeters to 1.5 m (4 ft 11 in) in size. Only 100 to 150 species have been validated, and possibly another 25 have not been fully described and named. The textbook examples are cydippids with egg-shaped bodies and a pair of retractable tentacles fringed with tentilla ("little tentacles") that are covered with colloblasts, sticky cells that capture prey. Their bodies consist of a mass of jelly, with a layer two cells thick on the outside, and another lining the internal cavity. The phylum has a wide range of body forms, including the egg-shaped cydippids with retractable tentacles that capture prey, the flat generally combless platyctenids, and the large-mouthed beroids, which prey on other ctenophores.
+[Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (from Ancient Greek: κτείς, romanized: kteis, lit. 'comb' and φέρω, pherō, 'to carry'; commonly known as comb jellies) comprise a phylum of invertebrate animals that live in marine waters worldwide. They are notable for the groups of cilia they use for swimming (commonly referred to as "combs"), and they are the largest animals to swim with the help of cilia. Depending on the species, adult ctenophores range from a few millimeters to 1.5 m (4 ft 11 in) in size. Only 100 to 150 species have been validated, and possibly another 25 have not been fully described and named. The textbook examples are cydippids with egg-shaped bodies and a pair of retractable tentacles fringed with tentilla ("little tentacles") that are covered with colloblasts, sticky cells that capture prey. Their bodies consist of a mass of jelly, with a layer two cells thick on the outside, and another lining the internal cavity. The phylum has a wide range of body forms, including the egg-shaped cydippids with retractable tentacles that capture prey, the flat generally combless platyctenids, and the large-mouthed beroids, which prey on other ctenophores.
 
 (ref:cteno) [Pelagic (open ocean) ctenophores (a) Beroe ovata, (b) Euplokamis sp., (c) Nepheloctena sp., (d) Bathocyroe fosteri, (e) Mnemiopsis leidyi, and (f) Ocyropsis sp.](https://commons.wikimedia.org/wiki/File:Pelagic_ctenophores.png) 
 
@@ -231,7 +231,7 @@ Other researchers have argued that the placement of Ctenophora as sister to all 
 
 ### Cnidaria
 
-Cnidaria is a phylum under kingdom Animalia containing over 11,000 species of aquatic animals found both in freshwater and marine environments: they are predominantly marine.
+[Cnidaria](https://en.wikipedia.org/wiki/Cnidaria) is a phylum under kingdom Animalia containing over 11,000 species of aquatic animals found both in freshwater and marine environments: they are predominantly marine.
 
 Their distinguishing feature is cnidocytes, specialized cells that they use mainly for capturing prey. Their bodies consist of mesoglea, a non-living jelly-like substance, sandwiched between two layers of epithelium that are mostly one cell thick.
 
@@ -331,7 +331,14 @@ Having a front end means that this part of the body encounters stimuli, such as 
 knitr::include_graphics("./figures/animals/Bilaterian_body_plan.svg")
 ```
 
-Genetic studies have considerably changed zoologists' understanding of the relationships within the Bilateria. Most appear to belong to two major lineages, the protostomes and the deuterostomes. The basalmost bilaterians are the Xenacoelomorpha.
+Genetic studies have considerably changed zoologists' understanding of the relationships within the Bilateria. Most appear to belong to two major lineages, the protostomes and the deuterostomes that together form the Nephrozoa. Their sister clade are the Xenacoelomorpha, the basalmost bilaterian phylum of small and very simple animals. All xenacoelomorphs lack a typical stomatogastric system, i.e., they do not have a true gut and lack an excretory system, circulatory and respiratory system. The nervous system is a simple nerve net without a brain. 
+
+
+(ref:xena) [*Xenoturbella japonica*, a xenacoelomorph member (xenoturbellids).](https://commons.wikimedia.org/wiki/File:Xenoturbella_japonica.jpg) 
+
+```{r xenacoelomorpha, fig.cap='(ref:xena)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Xenoturbella_japonica.jpg")
+```
 
 ```{r anicomparison, out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
@@ -358,7 +365,7 @@ The main deuterostome phyla are the Echinodermata and the Chordata. Echinoderms 
 
 ### Echinoderms
 
-Echinoderm is the common name given to any member of the phylum Echinodermata (from Ancient Greek, ἐχῖνος, echinos – "hedgehog" and δέρμα, derma – "skin") of marine animals. The adults are recognizable by their (usually five-point) radial symmetry, and include starfish, sea urchins, sand dollars, and sea cucumbers, as well as the sea lilies or "stone lilies". Echinoderms are found at every ocean depth, from the intertidal zone to the abyssal zone. The phylum contains about 7000 living species, making it the second-largest grouping of deuterostomes (a superphylum), after the chordates (which include the vertebrates, such as birds, fishes, mammals, and reptiles). Echinoderms are also the largest phylum that has no freshwater or terrestrial (land-based) representatives.
+[Echinoderm](https://en.wikipedia.org/wiki/Echinoderm) is the common name given to any member of the phylum Echinodermata (from Ancient Greek, ἐχῖνος, echinos – "hedgehog" and δέρμα, derma – "skin") of marine animals. The adults are recognizable by their (usually five-point) radial symmetry, and include starfish, sea urchins, sand dollars, and sea cucumbers, as well as the sea lilies or "stone lilies". Echinoderms are found at every ocean depth, from the intertidal zone to the abyssal zone. The phylum contains about 7000 living species, making it the second-largest grouping of deuterostomes (a superphylum), after the chordates (which include the vertebrates, such as birds, fishes, mammals, and reptiles). Echinoderms are also the largest phylum that has no freshwater or terrestrial (land-based) representatives.
 
 (ref:seacucu) [A sea cucumber from Malaysia.](https://commons.wikimedia.org/wiki/File:Sea_cucumber_at_Pulau_Redang.jpg) 
 
@@ -432,7 +439,7 @@ The larvae of echinoderms, especially starfish and sea urchins, are pelagic, and
 
 ### Hemichordata
 
-Hemichordata is a phylum of marine deuterostome animals, generally considered the sister group of the echinoderms. They appear in the Lower or Middle Cambrian and include two main classes: Enteropneusta (acorn worms), and Pterobranchia. A third class, Planctosphaeroidea, is known only from the larva of a single species, Planctosphaera pelagica. The extinct class Graptolithina is closely related to the pterobranchs.
+[Hemichordata](https://en.wikipedia.org/wiki/Hemichordate) is a phylum of marine deuterostome animals, generally considered the sister group of the echinoderms. They appear in the Lower or Middle Cambrian and include two main classes: Enteropneusta (acorn worms), and Pterobranchia. A third class, Planctosphaeroidea, is known only from the larva of a single species, Planctosphaera pelagica. The extinct class Graptolithina is closely related to the pterobranchs.
 
 (ref:hemich) [Acorn worm, a hemichordate.](https://commons.wikimedia.org/wiki/File:Eichelwurm_(cropped).jpg) 
 
@@ -444,9 +451,15 @@ Acorn worms are solitary worm-shaped organisms. They generally live in burrows (
 
 ## Chordata
 
-A chordate is an animal of the phylum Chordata. During some period of their life cycle, chordates possess a notochord, a dorsal nerve cord, pharyngeal slits, and a post-anal tail: these four anatomical features define this phylum. Chordates are also bilaterally symmetric, and have a coelom, metameric segmentation, and circulatory system.
+A [chordate](https://en.wikipedia.org/wiki/Chordate) is an animal of the phylum Chordata. During some period of their life cycle, chordates possess a notochord, a dorsal nerve cord, pharyngeal slits, and a post-anal tail: these four anatomical features define this phylum. Chordates are also bilaterally symmetric, and have a coelom, metameric segmentation, and circulatory system.
 
-The Chordata and Ambulacraria together form the superphylum Deuterostomia. Chordates are divided into three subphyla: Vertebrata (fish, amphibians, reptiles, birds, and mammals); Tunicata or Urochordata (sea squirts, salps); and Cephalochordata (which includes lancelets). There are also extinct taxa such as the Vetulicolia. Hemichordata (which includes the acorn worms) has been presented as a fourth chordate subphylum, but now is treated as a separate phylum: hemichordates and Echinodermata form the Ambulacraria, the sister phylum of the Chordates. Of the more than 65,000 living species of chordates, about half are bony fish that are members of the superclass Pisces, class Osteichthyes.
+The Chordata and [Ambulacraria](https://en.wikipedia.org/wiki/Ambulacraria) together form the superphylum Deuterostomia. Chordates are divided into three subphyla: [Vertebrata](https://en.wikipedia.org/wiki/Vertebrate) (fish, amphibians, reptiles, birds, and mammals); [Tunicata](https://en.wikipedia.org/wiki/Tunicate) or Urochordata (sea squirts, salps); and [Cephalochordata](https://en.wikipedia.org/wiki/Cephalochordate) (which includes lancelets). There are also extinct taxa such as the Vetulicolia. [Hemichordata](https://en.wikipedia.org/wiki/Hemichordate) (which includes the acorn worms) has been presented as a fourth chordate subphylum, but now is treated as a separate phylum: hemichordates and Echinodermata form the Ambulacraria, the sister phylum of the Chordates. Of the more than 65,000 living species of chordates, about half are bony fish that are members of the superclass Pisces, class [Osteichthyes](https://en.wikipedia.org/wiki/Osteichthyes).
+
+(ref:lanc) [A Lancelet (*Branchiostoma lanceolatum*).](https://commons.wikimedia.org/wiki/File:Branchiostoma_lanceolatum.jpg)
+
+```{r lancelet, fig.cap='(ref:lanc)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Branchiostoma_lanceolatum.jpg")
+```
 
 Chordate fossils have been found from as early as the Cambrian explosion, 541 million years ago. Cladistically (phylogenetically), vertebrates – chordates with the notochord replaced by a vertebral column during development – are considered to be a subgroup of the clade Craniata, which consists of chordates with a skull. The Craniata and Tunicata compose the clade Olfactores. 
 
@@ -466,6 +479,12 @@ There are soft constraints that separate chordates from certain other biological
 
 Cephalochordates, one of the three subdivisions of chordates, are small, "vaguely fish-shaped" animals that lack brains, clearly defined heads and specialized sense organs. These burrowing filter-feeders compose the earliest-branching chordate sub-phylum.
 
+(ref:tunic) [Gold-mouth sea squirt (*Polycarpa aurata*), a tunicate.](https://commons.wikimedia.org/wiki/File:Tunicate_komodo.jpg) 
+
+```{r tunicate, fig.cap='(ref:tunic)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Tunicate_komodo.jpg")
+```
+
 Most tunicates appear as adults in two major forms, known as "sea squirts" and salps, both of which are soft-bodied filter-feeders that lack the standard features of chordates. Sea squirts are sessile and consist mainly of water pumps and filter-feeding apparatus; salps float in mid-water, feeding on plankton, and have a two-generation cycle in which one generation is solitary and the next forms chain-like colonies. However, all tunicate larvae have the standard chordate features, including long, tadpole-like tails; they also have rudimentary brains, light sensors and tilt sensors. The third main group of tunicates, Appendicularia (also known as Larvacea), retain tadpole-like shapes and active swimming all their lives, and were for a long time regarded as larvae of sea squirts or salps. The etymology of the term Urochordata (Balfour 1881) is from the ancient Greek οὐρά (oura, "tail") + Latin chorda ("cord"), because the notochord is only found in the tail. The term Tunicata (Lamarck 1816) is recognised as having precedence and is now more commonly used.
 
 (ref:compchor) [A. Lancelet, B. Larval tunicate, C. Adult tunicate](https://commons.wikimedia.org/wiki/File:Comparison_of_Three_Invertebrate_Chordates.svg) 1. Notochord, 2. Nerve chord, 3. Buccal cirri, 4. Pharynx, 5. Gill slit, 6. Gonad, 7. Gut, 8. V-shaped muscles, 9. Anus, 10. Inhalant syphon, 11. Exhalant syphon, 12. Heart, 13. Stomach, 14. Esophagus, 15. Intestines, 16. Tail, 17. Atrium, 18. Tunic
@@ -482,7 +501,13 @@ The position of lampreys is ambiguous. They have complete braincases and rudimen
 
 ### Fish
 
-Fish are gill-bearing aquatic craniate animals that lack limbs with digits. They form a sister group to the tunicates, together forming the olfactores. Included in this definition are the living hagfish, lampreys, and cartilaginous and bony fish as well as various extinct related groups.
+[Fish](https://en.wikipedia.org/wiki/Fish) are gill-bearing aquatic craniate animals that lack limbs with digits. They form a sister group to the tunicates, together forming the olfactores. Included in this definition are the living jawless ([Agnatha](https://en.wikipedia.org/wiki/Agnatha)), and cartilaginous ([Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes)) and bony ([Osteichthyes](https://en.wikipedia.org/wiki/Osteichthyes)) fish as well as various extinct related groups. The group Osteichthyes is divided into the ray-finned fish ([Actinopterygii](https://en.wikipedia.org/wiki/Actinopterygii)) and lobe-finned fish ([Sarcopterygii](https://en.wikipedia.org/wiki/Sarcopterygii)). 
+
+(ref:actino) [Actinopterygii - Rayed-Finned Fish](https://commons.wikimedia.org/wiki/File:Actinopterygii-0001.jpg) 
+
+```{r actinopterygii, fig.cap='(ref:actino)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Actinopterygii-0001.jpg")
+```
 
 The earliest organisms that can be classified as fish were soft-bodied chordates that first appeared during the Cambrian period. Although they lacked a true spine, they possessed notochords which allowed them to be more agile than their invertebrate counterparts. Fish would continue to evolve through the Paleozoic era, diversifying into a wide variety of forms. Many fish of the Paleozoic developed external armor that protected them from predators. The first fish with jaws appeared in the Silurian period, after which many (such as sharks) became formidable marine predators rather than just the prey of arthropods.
 
@@ -496,10 +521,15 @@ Fish are an important resource for humans worldwide, especially as food. Commerc
 
 Tetrapods emerged within lobe-finned fishes, so cladistically they are fish as well. However, traditionally fish are rendered paraphyletic by excluding the tetrapods (i.e., the amphibians, reptiles, birds and mammals which all descended from within the same ancestry). Because in this manner the term "fish" is defined negatively as a paraphyletic group, it is not considered a formal taxonomic grouping in systematic biology, unless it is used in the cladistic sense, including tetrapods. The traditional term pisces (also ichthyes) is considered a typological, but not a phylogenetic classification.
 
+(ref:ostei) [Example of Osteichthyes: Queensland lungfish and West Indian Ocean coelacanth (two Sarcopterygii), Iridescent shark and American black sturgeon (two Actinopterygii).](https://commons.wikimedia.org/wiki/File:Osteichthyes.jpg) 
+
+```{r osteichthyes, fig.cap='(ref:ostei)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Osteichthyes.jpg")
+```
 
 ### Amphibians
 
-Amphibians are ectothermic, tetrapod vertebrates of the class Amphibia. All living amphibians belong to the group Lissamphibia. They inhabit a wide variety of habitats, with most species living within terrestrial, fossorial, arboreal or freshwater aquatic ecosystems. Thus amphibians typically start out as larvae living in water, but some species have developed behavioural adaptations to bypass this.
+[Amphibians](https://en.wikipedia.org/wiki/Amphibian) are ectothermic, tetrapod vertebrates of the class Amphibia. All living amphibians belong to the group Lissamphibia. They inhabit a wide variety of habitats, with most species living within terrestrial, fossorial, arboreal or freshwater aquatic ecosystems. Thus amphibians typically start out as larvae living in water, but some species have developed behavioural adaptations to bypass this.
 
 (ref:amphibians) [Diversity of amphibians:](https://commons.wikimedia.org/wiki/File:Amphibians.png) Clockwise from top right: Seymouria, Mexican burrowing caecilian, eastern newt and leaf green tree frog.
 
@@ -510,7 +540,7 @@ Amphibians are ectothermic, tetrapod vertebrates of the class Amphibia. All livi
 
 ### Reptiles
 
-Reptiles are tetrapod animals in the class Reptilia, comprising today's turtles, crocodilians, snakes, amphisbaenians, lizards, tuatara, and their extinct relatives. The study of these traditional reptile orders, historically combined with that of modern amphibians, is called herpetology.
+[Reptiles](https://en.wikipedia.org/wiki/Reptile) are tetrapod animals in the class Reptilia, comprising today's turtles, crocodilians, snakes, amphisbaenians, lizards, tuatara, and their extinct relatives. The study of these traditional reptile orders, historically combined with that of modern amphibians, is called herpetology.
 
 (ref:reptiles) [Diversity of reptiles:](https://commons.wikimedia.org/wiki/File:Extant_reptilia.jpg) Clockwise from above left: Green sea turtle (*Chelonia mydas*), Tuatara (*Sphenodon punctatus*), Nile crocodile (*Crocodylus niloticus*), and Sinai agama (*Pseudotrapelus sinaitus*)
 
@@ -528,7 +558,7 @@ Reptiles are tetrapod vertebrates, creatures that either have four limbs or, lik
 
 ### Birds
 
-Birds are a group of warm-blooded vertebrates constituting the class Aves, characterized by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton. Birds live worldwide and range in size from the 5 cm (2 in) bee hummingbird to the 2.75 m (9 ft) ostrich. There are about ten thousand living species, more than half of which are passerine, or "perching" birds. Birds have wings whose development varies according to species; the only known groups without wings are the extinct moa and elephant birds. Wings, which evolved from forelimbs, gave birds the ability to fly, although further evolution has led to the loss of flight in some birds, including ratites, penguins, and diverse endemic island species. The digestive and respiratory systems of birds are also uniquely adapted for flight. Some bird species of aquatic environments, particularly seabirds and some waterbirds, have further evolved for swimming.
+[Birds](https://en.wikipedia.org/wiki/Bird) are a group of warm-blooded vertebrates constituting the class Aves, characterized by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton. Birds live worldwide and range in size from the 5 cm (2 in) bee hummingbird to the 2.75 m (9 ft) ostrich. There are about ten thousand living species, more than half of which are passerine, or "perching" birds. Birds have wings whose development varies according to species; the only known groups without wings are the extinct moa and elephant birds. Wings, which evolved from forelimbs, gave birds the ability to fly, although further evolution has led to the loss of flight in some birds, including ratites, penguins, and diverse endemic island species. The digestive and respiratory systems of birds are also uniquely adapted for flight. Some bird species of aquatic environments, particularly seabirds and some waterbirds, have further evolved for swimming.
 
 Birds are a group of feathered theropod dinosaurs, and constitute the only living dinosaurs. Likewise, birds are considered reptiles in the modern cladistic sense of the term, and their closest living relatives are the crocodilians. Birds are descendants of the primitive avialans (whose members include Archaeopteryx) which first appeared about 160 million years ago (mya) in China. According to DNA evidence, modern birds (Neornithes) evolved in the Middle to Late Cretaceous, and diversified dramatically around the time of the Cretaceous–Paleogene extinction event 66 mya, which killed off the pterosaurs and all non-avian dinosaurs.
 
@@ -544,7 +574,7 @@ Many species of birds are economically important as food for human consumption a
 
 ### Mammals
 
-Mammals (from Latin mamma "breast") are vertebrate animals constituting the class Mammalia, and characterized by the presence of mammary glands which in females produce milk for feeding (nursing) their young, a neocortex (a region of the brain), fur or hair, and three middle ear bones. These characteristics distinguish them from reptiles and birds, from which they diverged in the late Carboniferous, approximately 300 million years ago. Around 6,400 extant species of mammals have been described. The largest orders are the rodents, bats and Eulipotyphla (hedgehogs, moles, shrews, and others). The next three are the Primates (apes including humans, monkeys, and others), the Cetartiodactyla (cetaceans and even-toed ungulates), and the Carnivora (cats, dogs, seals, and others).
+[Mammals](https://en.wikipedia.org/wiki/Mammal) (from Latin mamma "breast") are vertebrate animals constituting the class Mammalia, and characterized by the presence of mammary glands which in females produce milk for feeding (nursing) their young, a neocortex (a region of the brain), fur or hair, and three middle ear bones. These characteristics distinguish them from reptiles and birds, from which they diverged in the late Carboniferous, approximately 300 million years ago. Around 6,400 extant species of mammals have been described. The largest orders are the rodents, bats and Eulipotyphla (hedgehogs, moles, shrews, and others). The next three are the Primates (apes including humans, monkeys, and others), the Cetartiodactyla (cetaceans and even-toed ungulates), and the Carnivora (cats, dogs, seals, and others).
 
 (ref:mammals) [Diversity of mammals.](https://en.wikipedia.org/wiki/File:Mammal_Diversity_2011.png) 
 
@@ -562,11 +592,11 @@ Domestication of many types of mammals by humans played a major role in the Neol
 
 ### Ecdysozoa
 
-The Ecdysozoa are protostomes, named after their shared trait of ecdysis, growth by moulting. They include the largest animal phylum, the Arthropoda, which contains insects, spiders, crabs, and their kin. All of these have a body divided into repeating segments, typically with paired appendages. Two smaller phyla, the Onychophora and Tardigrada, are close relatives of the arthropods and share these traits. The ecdysozoans also include the Nematoda or roundworms, perhaps the second largest animal phylum. Roundworms are typically microscopic, and occur in nearly every environment where there is water; some are important parasites. Smaller phyla related to them are the Nematomorpha or horsehair worms, and the Kinorhyncha, Priapulida, and Loricifera. These groups have a reduced coelom, called a pseudocoelom.
+The [Ecdysozoa]() are protostomes, named after their shared trait of ecdysis, growth by moulting. They include the largest animal phylum, the Arthropoda, which contains insects, spiders, crabs, and their kin. All of these have a body divided into repeating segments, typically with paired appendages. Two smaller phyla, the Onychophora and Tardigrada, are close relatives of the arthropods and share these traits. The ecdysozoans also include the Nematoda or roundworms, perhaps the second largest animal phylum. Roundworms are typically microscopic, and occur in nearly every environment where there is water; some are important parasites. Smaller phyla related to them are the Nematomorpha or horsehair worms, and the Kinorhyncha, Priapulida, and Loricifera. These groups have a reduced coelom, called a pseudocoelom.
 
 ### Arthropods
 
-An arthropod (from Greek ἄρθρον arthron, "joint" and πούς pous, "foot" (gen. ποδός)) is an invertebrate animal having an exoskeleton, a segmented body, and paired jointed appendages. Arthropods form the phylum Euarthropoda, which includes insects, arachnids, myriapods, and crustaceans. The term Arthropoda as originally proposed refers to a proposed grouping of Euarthropods and the phylum Onychophora.
+An [arthropod](https://en.wikipedia.org/wiki/Arthropod) (from Greek ἄρθρον arthron, "joint" and πούς pous, "foot" (gen. ποδός)) is an invertebrate animal having an exoskeleton, a segmented body, and paired jointed appendages. Arthropods form the phylum Euarthropoda, which includes insects, arachnids, myriapods, and crustaceans. The term Arthropoda as originally proposed refers to a proposed grouping of Euarthropods and the phylum Onychophora.
 
 (ref:arthropods) [Diversity of arthropods:](https://commons.wikimedia.org/wiki/File:Arthropoda.jpg) From left to right and from top to bottom: Kolihapeltis, Stylonurus, scorpion, crab, centipede, butterfly.
 
@@ -613,7 +643,7 @@ Some species are known to spread severe disease to humans, livestock, and crops.
 
 ### Nematodes
 
-The nematodes or roundworms constitute the phylum Nematoda (also called Nemathelminthes), with plant-parasitic nematodes being known as eelworms. The word nematode comes from the Modern Latin compound of nemat- "thread" (from Greek nema, genitive nematos "thread," from stem of nein "to spin"; see needle) + -odes "like, of the nature of" (see -oid). They are a diverse animal phylum inhabiting a broad range of environments. Taxonomically, they are classified along with insects and other moulting animals in the clade Ecdysozoa, and unlike flatworms, have tubular digestive systems with openings at both ends. Like tardigrades they have a reduced number of Hox genes, but as their sister phylum Nematomorpha has kept the ancestral protostome Hox genotype, it shows that the reduction has occurred within the nematode phylum.
+The [nematodes](https://en.wikipedia.org/wiki/Nematode) or roundworms constitute the phylum Nematoda (also called Nemathelminthes), with plant-parasitic nematodes being known as eelworms. The word nematode comes from the Modern Latin compound of nemat- "thread" (from Greek nema, genitive nematos "thread," from stem of nein "to spin"; see needle) + -odes "like, of the nature of" (see -oid). They are a diverse animal phylum inhabiting a broad range of environments. Taxonomically, they are classified along with insects and other moulting animals in the clade Ecdysozoa, and unlike flatworms, have tubular digestive systems with openings at both ends. Like tardigrades they have a reduced number of Hox genes, but as their sister phylum Nematomorpha has kept the ancestral protostome Hox genotype, it shows that the reduction has occurred within the nematode phylum.
 
 (ref:celeg) [*Caenorhabditis elegans*, a free-living transparent nematode about 1 mm in length that lives in temperate soil environments.](https://commons.wikimedia.org/wiki/File:Adult_Caenorhabditis_elegans.jpg) In 1963, Sydney Brenner proposed research into C. elegans, primarily in the area of neuronal development. In 1974, he began research into the molecular and developmental biology of C. elegans, which has since been extensively used as a model organism. It was the first multicellular organism to have its whole genome sequenced, and as of 2019, is the only organism to have its connectome (neuronal "wiring diagram") completed.
 
@@ -627,11 +657,11 @@ Nematodes have successfully adapted to nearly every ecosystem: from marine (salt
 
 ### Spiralia
 
-The Spiralia are a large group of protostomes that develop by spiral cleavage in the early embryo. The Spiralia's phylogeny has been disputed, but it contains a large clade, the superphylum Lophotrochozoa, and smaller groups of phyla such as the Rouphozoa which includes the gastrotrichs and the flatworms. All of these are grouped as the Platytrochozoa, which has a sister group, the Gnathifera, which includes the rotifers.
+The [Spiralia](https://en.wikipedia.org/wiki/Spiralia) are a large group of protostomes that develop by spiral cleavage in the early embryo. The Spiralia's phylogeny has been disputed, but it contains a large clade, the superphylum [Lophotrochozoa](https://en.wikipedia.org/wiki/Lophotrochozoa), and smaller groups of phyla such as the Rouphozoa which includes the gastrotrichs and the flatworms. All of these are grouped as the Platytrochozoa, which has a sister group, the [Gnathifera](https://en.wikipedia.org/wiki/Gnathifera_(clade)) (from the Greek gnáthos, “jaw”, and the Latin -fera, “bearing”), which includes the rotifers.
 
 ### Rotifera
 
-The rotifers (from Latin rota "wheel" and -fer "bearing"), commonly called wheel animals or wheel animalcules, make up a phylum (Rotifera) of microscopic and near-microscopic pseudocoelomate animals.
+The [rotifers](https://en.wikipedia.org/wiki/Rotifer) (from Latin rota "wheel" and -fer "bearing"), commonly called wheel animals or wheel animalcules, make up a phylum (Rotifera) of microscopic and near-microscopic pseudocoelomate animals.
 
 (ref:rotifer) [A Rotifera (wheel animal).](https://commons.wikimedia.org/wiki/File:Mikrofoto.de-Raedertier_Ptygura_pilula_2.jpg) 
 
@@ -688,7 +718,7 @@ The life span of monogonont females varies from two days to about three weeks.
 
 ### Flatworms
 
-The flatworms, flat worms, Platyhelminthes, Plathelminthes, or platyhelminths (from the Greek πλατύ, platy, meaning "flat" and ἕλμινς (root: ἑλμινθ-), helminth-, meaning "worm") are a phylum of relatively simple bilaterian, unsegmented, soft-bodied invertebrates. Unlike other bilaterians, they are acoelomates (having no body cavity), and have no specialized circulatory and respiratory organs, which restricts them to having flattened shapes that allow oxygen and nutrients to pass through their bodies by diffusion. The digestive cavity has only one opening for both ingestion (intake of nutrients) and egestion (removal of undigested wastes); as a result, the food cannot be processed continuously.
+The [flatworms](https://en.wikipedia.org/wiki/Flatworm), flat worms, Platyhelminthes, Plathelminthes, or platyhelminths (from the Greek πλατύ, platy, meaning "flat" and ἕλμινς (root: ἑλμινθ-), helminth-, meaning "worm") are a phylum of relatively simple bilaterian, unsegmented, soft-bodied invertebrates. Unlike other bilaterians, they are acoelomates (having no body cavity), and have no specialized circulatory and respiratory organs, which restricts them to having flattened shapes that allow oxygen and nutrients to pass through their bodies by diffusion. The digestive cavity has only one opening for both ingestion (intake of nutrients) and egestion (removal of undigested wastes); as a result, the food cannot be processed continuously.
 
 (ref:turb) [The turbellarian *Pseudoceros dimidiatus*.](https://commons.wikimedia.org/wiki/File:Pseudoceros_dimidiatus.jpg) 
 
@@ -717,9 +747,10 @@ These parasites' name refers to the cavities in their holdfasts (Greek τρῆμ
 
 ### Digenea
 
-These are often called flukes, as most have flat rhomboid shapes like that of a flounder (Old English flóc). There are about 11,000 species, more than all other platyhelminthes combined, and second only to roundworms among parasites on metazoans. Adults usually have two holdfasts: a ring around the mouth and a larger sucker midway along what would be the underside in a free-living flatworm. Although the name "Digeneans" means "two generations", most have very complex life cycles with up to seven stages, depending on what combinations of environments the early stages encounter – the most important factor being whether the eggs are deposited on land or in water. The intermediate stages transfer the parasites from one host to another. The definitive host in which adults develop is a land vertebrate; the earliest host of juvenile stages is usually a snail that may live on land or in water, whilst in many cases, a fish or arthropod is the second host. For example, the adjoining illustration shows the life cycle of the intestinal fluke metagonimus, which hatches in the intestine of a snail, then moves to a fish where it penetrates the body and encysts in the flesh, then migrating to the small intestine of a land animal that eats the fish raw, finally generating eggs that are excreted and ingested by snails, thereby completing the cycle. Schistosomes, which cause the devastating tropical disease bilharzia, belong to this group.
+These are often called flukes, as most have flat rhomboid shapes like that of a flounder (Old English flóc). There are about 11,000 species, more than all other platyhelminthes combined, and second only to roundworms among parasites on metazoans. Adults usually have two holdfasts: a ring around the mouth and a larger sucker midway along what would be the underside in a free-living flatworm. Although the name "Digeneans" means "two generations", most have very complex life cycles with up to seven stages, depending on what combinations of environments the early stages encounter – the most important factor being whether the eggs are deposited on land or in water. The intermediate stages transfer the parasites from one host to another. The definitive host in which adults develop is a land vertebrate; the earliest host of juvenile stages is usually a snail that may live on land or in water, whilst in many cases, a fish or arthropod is the second host. For example, (Figure \@ref(fig:schisto)) shows the life cycle of the fluke *Schistosoma mansoni*, which causes the devastating tropical disease bilharzia. Infected individuals release Schistosoma eggs into water via their fecal material or urine. After larvae hatch from these eggs, the larvae infect a very specific type of freshwater snail. For example, in *S. mansoni* it is snaill of the genus *Biomphalaria*. The Schistosoma larvae undergo the next phase of their lifecycles in these snails, spending their time reproducing and developing. Once this step has been completed, the parasite leaves the snail and enters the water. The parasite can live in the water for only 48 hours without a mammalian host. Humans encounter larvae of the Schistosoma parasite when they enter contaminated water while bathing, playing, swimming, washing, fishing, or walking through the water. Once a host has been found, the worm enters its blood vessels. For several weeks, the worm remains in the vessels, continuing its development into its adult phase. When maturity is reached, mating occurs and eggs are produced. Eggs enter the bladder/intestine and are excreted through urine and feces and the process repeats. If the eggs do not get excreted, they can become engrained in the body tissues and cause a variety of problems such as immune reactions and organ damage.
 
-(ref:schisto) [Schistosoma life cycle.](https://commons.wikimedia.org/wiki/File:Schistosoma_life_cycle.svg) 
+
+(ref:schisto) [Schistosoma life cycle.](https://commons.wikimedia.org/wiki/File:Schistosoma_life_cycle.svg) Schistosoma eggs are eliminated with feces or urine, depending on species (1). Under appropriate conditions the eggs hatch and release miracidia (2), which swim and penetrate specific snail intermediate hosts (3). The stages in the snail include two generations of sporocysts (4) and the production of cercariae (5). Upon release from the snail, the infective cercariae swim, penetrate the skin of the human host (6), and shed their forked tails, becoming schistosomulae (7). The schistosomulae migrate via venous circulation to lungs, then to the heart, and then develop in the liver, exiting the liver via the portal vein system when mature, (8)(9). Male and female adult worms copulate and reside in the mesenteric venules, the location of which varies by species (with some exceptions) (10). For instance, S. japonicum is more frequently found in the superior mesenteric veins draining the small intestine (A), and S. mansoni occurs more often in the inferior mesenteric veins draining the large intestine (B). However, both species can occupy either location and are capable of moving between sites. S. intercalatum and S. guineensis also inhabit the inferior mesenteric plexus but lower in the bowel than S. mansoni. S. haematobium most often inhabitsin the vesicular and pelvic venous plexus of the bladder (C), but it can also be found in the rectal venules. The females (size ranges from 7–28 mm, depending on species) deposit eggs in the small venules of the portal and perivesical systems. The eggs are moved progressively toward the lumen of the intestine (S. mansoni,S. japonicum, S. mekongi, S. intercalatum/guineensis) and of the bladder and ureters (S. haematobium), and are eliminated with feces or urine, respectively (1).
 
 ```{r schistosomalifecycle, fig.cap='(ref:schisto)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/animals/Schistosoma_life_cycle.svg")
@@ -731,9 +762,9 @@ Adults of different species infest different parts of the definitive host - for 
 
 ### Cestoda
 
-These are often called tapeworms because of their flat, slender but very long bodies – the name "cestode" is derived from the Latin word cestus, which means "tape". The adults of all 3,400 cestode species are internal parasites. Cestodes have no mouths or guts, and the syncitial skin absorbs nutrients – mainly carbohydrates and amino acids – from the host, and also disguises it chemically to avoid attacks by the host's immune system. Shortage of carbohydrates in the host's diet stunts the growth of parasites and may even kill them. Their metabolisms generally use simple but inefficient chemical processes, compensating for this inefficiency by consuming large amounts of food relative to their physical size.
+These are often called [tapeworms](https://en.wikipedia.org/wiki/Cestoda) because of their flat, slender but very long bodies – the name "cestode" is derived from the Latin word cestus, which means "tape". The adults of all 3,400 cestode species are internal parasites. Cestodes have no mouths or guts, and the syncitial skin absorbs nutrients – mainly carbohydrates and amino acids – from the host, and also disguises it chemically to avoid attacks by the host's immune system. Shortage of carbohydrates in the host's diet stunts the growth of parasites and may even kill them. Their metabolisms generally use simple but inefficient chemical processes, compensating for this inefficiency by consuming large amounts of food relative to their physical size.
 
-(ref:taenia) [Life cycle of the cestode Taenia: Inset 5 shows the scolex, which has four Taenia solium, a disk with hooks on the end. Inset 6 shows the tapeworm's whole body, in which the scolex is the tiny, round tip in the top left corner, and a mature proglottid has just detached.](https://commons.wikimedia.org/wiki/File:Taenia_solium_Life_cycle.tif) 
+(ref:taenia) [Life cycle of the cestode Taenia:](https://commons.wikimedia.org/wiki/File:Taenia_solium_Life_cycle.tif) Taeniasis is the infection of humans with the adult tapeworm of *Taenia saginata* or *Taenia solium*. Humans are the only definitive hosts for *T. saginata* and *T. solium*. Eggs or gravid proglottids are passed with feces (1); the eggs can survive for days to months in the environment. Cattle (*T. saginata*) and pigs (*T. solium*) become infected by ingesting vegetation contaminated with eggs or gravid proglottids (2). In the animal’s intestine, the oncospheres hatch (3), invade the intestinal wall, and migrate to the striated muscles, where they develop into cysticerci. A cysticercus can survive for several years in the animal. Humans become infected by ingesting raw or undercooked infected meat (4). In the human intestine, the cysticercus develops over 2 months into an adult tapeworm, which can survive for years. The adult tapeworms attach to the small intestine by their scolex (5) and reside in the small intestine (6). Length of adult worms is usually 5 m or less for *T. saginata* (however it may reach up to 25 m) and 2 to 7 m for T. solium. The adults produce proglottids which mature, become gravid, detach from the tapeworm, and migrate to the anus or are passed in the stool (approximately 6 per day). *T. saginata* adults usually have 1,000 to 2,000 proglottids, while *T. solium* adults have an average of 1,000 proglottids. The eggs contained in the gravid proglottids are released after the proglottids are passed with the feces. *T. saginata* may produce up to 100,000 and *T. solium* may produce 50,000 eggs per proglottid respectively.
 
 ```{r taenialifecycle, fig.cap='(ref:taenia)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/animals/Taenia_solium_Life_cycle.tif")
@@ -743,9 +774,11 @@ In the majority of species, known as eucestodes ("true tapeworms"), the neck pro
 
 ### Lophotrochozoa 
 
-The Lophotrochozoa includes the molluscs, annelids, brachiopods, nemerteans (ribbon worms or proboscis worms), bryozoa and entoprocts. The molluscs, the second-largest animal phylum by number of described species, includes snails, clams, and squids, while the annelids are the segmented worms, such as earthworms, lugworms, and leeches. These two groups have long been considered close relatives because they share trochophore larvae.
+The clade [Lophotrochozoa](https://en.wikipedia.org/wiki/Lophotrochozoa) is named after the two distinct characteristics of its members; the feeding structure lophophore, which is a ciliated crown of tentacles surrounding a mouth, and the developmental stage trochophore larvae. This clade includes the molluscs, annelids, brachiopods, nemerteans (ribbon worms or proboscis worms), bryozoa and entoprocts. The molluscs, the second-largest animal phylum by number of described species, includes snails, clams, and squids, while the annelids are the segmented worms, such as earthworms, lugworms, and leeches. These two groups have long been considered close relatives because they share trochophore larvae.
 
-Brachiopods (from the Ancient Greek words brachion ("arm") and podos ("foot") are a group of lophotrochozoan animals that have hard "valves" (shells) on the upper and lower surfaces, unlike the left and right arrangement in bivalve molluscs. They are often known as "lamp shells", since the curved shells of the class Terebratulida resemble pottery oil-lamps. Brachiopod valves are hinged at the rear end, while the front can be opened for feeding or closed for protection. Two major groups are recognized, articulate and inarticulate. The word "articulate" is used to describe the tooth-and-groove features of the valve-hinge which is present in the articulate group, and absent from the inarticulate group. This is the leading diagnostic feature (fossilizable), by which the two main groups can be readily distinguished. Articulate brachiopods have toothed hinges and simple opening and closing muscles, while inarticulate brachiopods have untoothed hinges and a more complex system of muscles used to keep the two valves aligned. In a typical brachiopod a stalk-like pedicle projects from an opening in one of the valves near the hinges, known as the pedicle valve, keeping the animal anchored to the seabed but clear of silt that would obstruct the opening.
+### Brachiopods
+
+[Brachiopods](https://en.wikipedia.org/wiki/Brachiopod) (from the Ancient Greek words brachion ("arm") and podos ("foot") are a group of lophotrochozoan animals that have hard "valves" (shells) on the upper and lower surfaces, unlike the left and right arrangement in bivalve molluscs. They are often known as "lamp shells", since the curved shells of the class Terebratulida resemble pottery oil-lamps. Brachiopod valves are hinged at the rear end, while the front can be opened for feeding or closed for protection. Two major groups are recognized, articulate and inarticulate. The word "articulate" is used to describe the tooth-and-groove features of the valve-hinge which is present in the articulate group, and absent from the inarticulate group. This is the leading diagnostic feature (fossilizable), by which the two main groups can be readily distinguished. Articulate brachiopods have toothed hinges and simple opening and closing muscles, while inarticulate brachiopods have untoothed hinges and a more complex system of muscles used to keep the two valves aligned. In a typical brachiopod a stalk-like pedicle projects from an opening in one of the valves near the hinges, known as the pedicle valve, keeping the animal anchored to the seabed but clear of silt that would obstruct the opening.
 
 (ref:brachio) [*Lingula anatina*, a brachipod, from Stradbroke Island, Australia.](https://commons.wikimedia.org/wiki/File:LingulaanatinaAA.JPG) 
 
@@ -753,11 +786,15 @@ Brachiopods (from the Ancient Greek words brachion ("arm") and podos ("foot") ar
 knitr::include_graphics("./figures/animals/LingulaanatinaAA.JPG")
 ```
 
-Bryozoa (also known as the Polyzoa, Ectoprocta or commonly as moss animals) are a phylum of aquatic invertebrate animals. Typically about 0.5 millimetres (1⁄64 inch) long, they are filter feeders that sieve food particles out of the water using a retractable lophophore, a "crown" of tentacles lined with cilia. Most marine species live in tropical waters, but a few occur in oceanic trenches, and others are found in polar waters. One class lives only in a variety of freshwater environments, and a few members of a mostly marine class prefer brackish water. 5869 living species are known. One genus is solitary and the rest are colonial.
+### Bryozoa 
 
-Nemertea is a phylum of invertebrate animals also known as ribbon worms or proboscis worms. Many have patterns of yellow, orange, red and green coloration. The foregut, stomach and intestine run a little below the midline of the body, the anus is at the tip of the tail, and the mouth is under the front. A little above the gut is the rhynchocoel, a cavity which mostly runs above the midline and ends a little short of the rear of the body. All species have a proboscis which lies in the rhynchocoel when inactive but everts (turns inside-out) to emerge just above the mouth and capture the animal's prey with venom. A highly extensible muscle in the back of the rhynchocoel pulls the proboscis in when an attack ends. A few species with stubby bodies filter feed and have suckers at the front and back ends, with which they attach to a host.
+[Bryozoa](https://en.wikipedia.org/wiki/Bryozoa) (also known as the Polyzoa, Ectoprocta or commonly as moss animals) are a phylum of aquatic invertebrate animals. Typically about 0.5 millimetres (1⁄64 inch) long, they are filter feeders that sieve food particles out of the water using a retractable lophophore, a "crown" of tentacles lined with cilia. Most marine species live in tropical waters, but a few occur in oceanic trenches, and others are found in polar waters. One class lives only in a variety of freshwater environments, and a few members of a mostly marine class prefer brackish water. 5869 living species are known. One genus is solitary and the rest are colonial.
 
-Entoprocta, whose name means "anus inside", or Kamptozoa /kæm(p)təˈzoʊə/, is a phylum of mostly sessile aquatic animals, ranging from 0.1 to 7 millimetres (0.004 to 0.3 in) long. Mature individuals are goblet-shaped, on relatively long stalks. They have a "crown" of solid tentacles whose cilia generate water currents that draw food particles towards the mouth, and both the mouth and anus lie inside the "crown". The superficially similar Bryozoa (Ectoprocta) have the anus outside a "crown" of hollow tentacles. Most families of entoprocts are colonial, and all but 2 of the 150 species are marine. A few solitary species can move slowly.
+### Nemertea 
+
+[Nemertea](https://en.wikipedia.org/wiki/Nemertea) is a phylum of invertebrate animals also known as ribbon worms or proboscis worms. Many have patterns of yellow, orange, red and green coloration. The foregut, stomach and intestine run a little below the midline of the body, the anus is at the tip of the tail, and the mouth is under the front. A little above the gut is the rhynchocoel, a cavity which mostly runs above the midline and ends a little short of the rear of the body. All species have a proboscis which lies in the rhynchocoel when inactive but everts (turns inside-out) to emerge just above the mouth and capture the animal's prey with venom. A highly extensible muscle in the back of the rhynchocoel pulls the proboscis in when an attack ends. A few species with stubby bodies filter feed and have suckers at the front and back ends, with which they attach to a host.
+
+Entoprocta, whose name means "anus inside", or Kamptozoa, is a phylum of mostly sessile aquatic animals, ranging from 0.1 to 7 millimetres (0.004 to 0.3 in) long. Mature individuals are goblet-shaped, on relatively long stalks. They have a "crown" of solid tentacles whose cilia generate water currents that draw food particles towards the mouth, and both the mouth and anus lie inside the "crown". The superficially similar Bryozoa (Ectoprocta) have the anus outside a "crown" of hollow tentacles. Most families of entoprocts are colonial, and all but 2 of the 150 species are marine. A few solitary species can move slowly.
 
 
 (ref:entoproct) [An entoproct: *Barentsia discreta*.](https://commons.wikimedia.org/wiki/File:Barentsa_discreta_suzukokemusi02.jpg) 
@@ -768,9 +805,9 @@ knitr::include_graphics("./figures/animals/Barentsa_discreta_suzukokemusi02.jpg"
 
 ### Molluscs
 
-Mollusca is the second-largest phylum of invertebrate animals after the Arthropoda. The members are known as molluscs or mollusks. Around 85,000 extant species of molluscs are recognized. The number of fossil species is estimated between 60,000 and 100,000 additional species. The proportion of undescribed species is very high. Many taxa remain poorly studied.
+[Mollusca](https://en.wikipedia.org/wiki/Mollusca) is the second-largest phylum of invertebrate animals after the Arthropoda. The members are known as molluscs or mollusks. Around 85,000 extant species of molluscs are recognized. The number of fossil species is estimated between 60,000 and 100,000 additional species. The proportion of undescribed species is very high. Many taxa remain poorly studied.
 
-(ref:snai) [*Cornu aspersum* (formerly *Helix aspersa*) – a common land snail.](https://commons.wikimedia.org/wiki/File:Snail-wiki-120-Zachi-Evenor.jpg) 
+(ref:snai) [*Cornu aspersum* (formerly *Helix aspersa*) – a common land snail, a gastropod.](https://commons.wikimedia.org/wiki/File:Snail-wiki-120-Zachi-Evenor.jpg) 
 
 ```{r snail, fig.cap='(ref:snai)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/animals/Snail-wiki-120-Zachi-Evenor.jpg")
@@ -778,19 +815,41 @@ knitr::include_graphics("./figures/animals/Snail-wiki-120-Zachi-Evenor.jpg")
 
 Molluscs are the largest marine phylum, comprising about 23% of all the named marine organisms. Numerous molluscs also live in freshwater and terrestrial habitats. They are highly diverse, not just in size and anatomical structure, but also in behaviour and habitat. The phylum is typically divided into 8 or 9 taxonomic classes, of which two are entirely extinct. Cephalopod molluscs, such as squid, cuttlefish, and octopuses, are among the most neurologically advanced of all invertebrates—and either the giant squid or the colossal squid is the largest known invertebrate species. The gastropods (snails and slugs) are by far the most numerous molluscs and account for 80% of the total classified species.
 
+(ref:cuttle) [The common cuttlefish *Sepia officinalis*, a cephalopod.](https://commons.wikimedia.org/wiki/File:Washington_DC_Zoo_-_Sepia_officinalis_2.jpg)
+
+```{r cuttlefish, fig.cap='(ref:cuttle)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Washington_DC_Zoo_-_Sepia_officinalis_2.jpg")
+```
+
 The three most universal features defining modern molluscs are a mantle with a significant cavity used for breathing and excretion, the presence of a radula (except for bivalves), and the structure of the nervous system. Other than these common elements, molluscs express great morphological diversity, so many textbooks base their descriptions on a "hypothetical ancestral mollusc" (see image below). This has a single, "limpet-like" shell on top, which is made of proteins and chitin reinforced with calcium carbonate, and is secreted by a mantle covering the whole upper surface. The underside of the animal consists of a single muscular "foot". Although molluscs are coelomates, the coelom tends to be small. The main body cavity is a hemocoel through which blood circulates; as such, their circulatory systems are mainly open. The "generalized" mollusc's feeding system consists of a rasping "tongue", the radula, and a complex digestive system in which exuded mucus and microscopic, muscle-powered "hairs" called cilia play various important roles. The generalized mollusc has two paired nerve cords, or three in bivalves. The brain, in species that have one, encircles the esophagus. Most molluscs have eyes, and all have sensors to detect chemicals, vibrations, and touch. The simplest type of molluscan reproductive system relies on external fertilization, but more complex variations occur. Nearly all produce eggs, from which may emerge trochophore larvae, more complex veliger larvae, or miniature adults. The coelomic cavity is reduced. They have an open circulatory system and kidney-like organs for excretion.
 
-Good evidence exists for the appearance of gastropods, cephalopods, and bivalves in the Cambrian period, 541–485.4 million years ago. However, the evolutionary history both of molluscs' emergence from the ancestral Lophotrochozoa and of their diversification into the well-known living and fossil forms are still subjects of vigorous debate among scientists.
+(ref:bivalv) [*Argopecten irradians*, the Atlantic bay scallop, a bivalve.](https://commons.wikimedia.org/wiki/File:Argopecten_irradians.jpg) 
 
+```{r bivalve, fig.cap='(ref:bivalv)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Argopecten_irradians.jpg")
+```
+
+Good evidence exists for the appearance of gastropods, cephalopods, and bivalves in the Cambrian period, 541–485.4 million years ago. However, the evolutionary history both of molluscs' emergence from the ancestral Lophotrochozoa and of their diversification into the well-known living and fossil forms are still subjects of vigorous debate among scientists.
 
 Fossilized ammonite displayed at the National Museum of the Philippines
 Molluscs have been and still are an important food source for anatomically modern humans. A risk of food poisoning exists from toxins that can accumulate in certain molluscs under specific conditions, however, and because of this, many countries have regulations to reduce this risk. Molluscs have, for centuries, also been the source of important luxury goods, notably pearls, mother of pearl, Tyrian purple dye, and sea silk. Their shells have also been used as money in some preindustrial societies.
 
 Mollusc species can also represent hazards or pests for human activities. The bite of the blue-ringed octopus is often fatal, and that of Octopus apollyon causes inflammation that can last over a month. Stings from a few species of large tropical cone shells can also kill, but their sophisticated, though easily produced, venoms have become important tools in neurological research. Schistosomiasis (also known as bilharzia, bilharziosis, or snail fever) is transmitted to humans by water snail hosts, and affects about 200 million people. Snails and slugs can also be serious agricultural pests, and accidental or deliberate introduction of some snail species into new environments has seriously damaged some ecosystems.
 
+```{r mollusca, out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(printr)        
+library(kableExtra)
+setwd("~/Dropbox/R/biology-text-master")
+
+moll <-  as_tibble(read.csv("data/mollusca.csv"))
+
+knitr::kable(moll, col.names = c("Class", "Major organisms", "Described living species","Distribution"), digits = 2, align = 'lll', booktabs = TRUE, caption = "The commonly recognized classes of living molluscs.") %>% kable_styling(latex_options = c("striped", "hold_position"))
+```
+
 ### Annelids
 
-The annelids (Annelida, from Latin anellus, "little ring"[a]), also known as the ringed worms or segmented worms, are a large phylum, with over 22,000 extant species including ragworms, earthworms, and leeches. The species exist in and have adapted to various ecologies – some in marine environments as distinct as tidal zones and hydrothermal vents, others in fresh water, and yet others in moist terrestrial environments.
+The [annelids](https://en.wikipedia.org/wiki/Annelid) (Annelida, from Latin anellus, "little ring"[a]), also known as the ringed worms or segmented worms, are a large phylum, with over 22,000 extant species including ragworms, earthworms, and leeches. The species exist in and have adapted to various ecologies – some in marine environments as distinct as tidal zones and hydrothermal vents, others in fresh water, and yet others in moist terrestrial environments.
 
 (ref:annelid) [The earthworm *Lumbricus terrestris* is a representative of the annelids.](https://commons.wikimedia.org/wiki/File:Nerr0328.jpg) 
 
@@ -800,9 +859,21 @@ knitr::include_graphics("./figures/animals/Earthworm.jpg")
 
 The Annelids are bilaterally symmetrical, triploblastic, coelomate, invertebrate organisms. They also have parapodia for locomotion. Most textbooks still use the traditional division into polychaetes (almost all marine), oligochaetes (which include earthworms) and leech-like species. Cladistic research since 1997 has radically changed this scheme, viewing leeches as a sub-group of oligochaetes and oligochaetes as a sub-group of polychaetes. In addition, the Pogonophora, Echiura and Sipuncula, previously regarded as separate phyla, are now regarded as sub-groups of polychaetes. Annelids are considered members of the Lophotrochozoa, a "super-phylum" of protostomes that also includes molluscs, brachiopods, and nemerteans.
 
+(ref:lee) [The leech *Hirudo medicinalis* sucking blood.](https://commons.wikimedia.org/wiki/File:Sucking_leech.jpg) Although blood-letting is used less frequently by doctors, some leech species are regarded as endangered species because they have been over-harvested for this purpose in the last few centuries. 
+
+```{r leech, fig.cap='(ref:lee)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Sucking_leech.jpg")
+```
+
 The basic annelid form consists of multiple segments. Each segment has the same sets of organs and, in most polychates, has a pair of parapodia that many species use for locomotion. Septa separate the segments of many species, but are poorly defined or absent in others, and Echiura and Sipuncula show no obvious signs of segmentation. In species with well-developed septa, the blood circulates entirely within blood vessels, and the vessels in segments near the front ends of these species are often built up with muscles that act as hearts. The septa of such species also enable them to change the shapes of individual segments, which facilitates movement by peristalsis ("ripples" that pass along the body) or by undulations that improve the effectiveness of the parapodia. In species with incomplete septa or none, the blood circulates through the main body cavity without any kind of pump, and there is a wide range of locomotory techniques – some burrowing species turn their pharynges inside out to drag themselves through the sediment.
 
-Earthworms are oligochaetes that support terrestrial food chains both as prey and in some regions are important in aeration and enriching of soil. The burrowing of marine polychaetes, which may constitute up to a third of all species in near-shore environments, encourages the development of ecosystems by enabling water and oxygen to penetrate the sea floor. In addition to improving soil fertility, annelids serve humans as food and as bait. Scientists observe annelids to monitor the quality of marine and fresh water. Although blood-letting is used less frequently by doctors, some leech species are regarded as endangered species because they have been over-harvested for this purpose in the last few centuries. Ragworms' jaws are now being studied by engineers as they offer an exceptional combination of lightness and strength.
+Earthworms are oligochaetes that support terrestrial food chains both as prey and in some regions are important in aeration and enriching of soil. Oligochaetes have few setae (chaetae) or "bristles" on their outer body surfaces, and lack parapodia, unlike polychaeta. The body segments of polychaetes or bristle worms have a pair of fleshy protrusions called parapodia that bear many bristles, called chaetae, which are made of chitin. More than 10,000 species are described in this class. The burrowing of marine polychaetes, which may constitute up to a third of all species in near-shore environments, encourages the development of ecosystems by enabling water and oxygen to penetrate the sea floor. 
+
+(ref:polychae) [*Nereis virens*, a polychaete annelid.](https://commons.wikimedia.org/wiki/File:Nereis_virens.jpg) These sandworms eat seaweed and microorganisms and can be longer than four feet.
+
+```{r , fig.cap='(ref:)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures//")
+```
 
 Since annelids are soft-bodied, their fossils are rare – mostly jaws and the mineralized tubes that some of the species secreted. Although some late Ediacaran fossils may represent annelids, the oldest known fossil that is identified with confidence comes from about 518 million years ago in the early Cambrian period. Fossils of most modern mobile polychaete groups appeared by the end of the Carboniferous, about 299 million years ago. Palaeontologists disagree about whether some body fossils from the mid Ordovician, about 472 to 461 million years ago, are the remains of oligochaetes, and the earliest indisputable fossils of the group appear in the Tertiary period, which began 66 million years ago.
 
@@ -841,6 +912,12 @@ There are many kinds of epithelium, and nomenclature is somewhat variable. Most 
 * Pseudostratified columnar epithelium (also known as ciliated columnar epithelium)
 * Columnar epithelium
 * Glandular epithelium
+
+(ref:epithelium) [Types of epithelia](https://commons.wikimedia.org/wiki/File:Illu_epithelium.jpg)
+
+```{r epithelium, fig.cap='(ref:epithelium)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/epithelium.png")
+```
 
 ### Connective tissue
 
@@ -896,11 +973,17 @@ knitr::include_graphics("./figures/animals/Internal_organs.svg")
 
 ### The Integumentary System
 
-The integumentary system comprises the skin and its appendages acting to protect the body from various kinds of damage, such as loss of water or damages from outside. The integumentary system includes hair, scales, feathers, hooves, and nails. It has a variety of additional functions; it may serve to waterproof, and protect the deeper tissues, excrete wastes, and regulate body temperature, and is the attachment site for sensory receptors to detect pain, sensation, pressure, and temperature. In most land vertebrates with significant exposure to sunlight, the integumentary system also provides for vitamin D synthesis.
+The [integumentary system](https://en.wikipedia.org/wiki/Integumentary_system) comprises the skin and its appendages acting to protect the body from various kinds of damage, such as loss of water or damages from outside. The integumentary system includes hair, scales, feathers, hooves, and nails. It has a variety of additional functions; it may serve to waterproof, and protect the deeper tissues, excrete wastes, and regulate body temperature, and is the attachment site for sensory receptors to detect pain, sensation, pressure, and temperature. In most land vertebrates with significant exposure to sunlight, the integumentary system also provides for vitamin D synthesis.
 
 The skin is the largest organ of the body. In humans, it accounts for about 12 to 15 percent of total body weight and covers 1.5-2m2 of surface area.
 
 The human skin (integument) is composed of at least two major layers of tissue: the epidermis and dermis. (The hypodermis or subcutaneous layer is not part of the skin[citation needed].) The epidermis is the outermost layer, providing the initial barrier to the external environment. It is separated from the dermis by the basement membrane. The epidermis contains melanocytes and gives color to the skin. The deepest layer of epidermis also contains nerve endings. Beneath this, the dermis comprises two sections, the papillary and reticular layers, and contains connective tissues, vessels, glands, follicles, hair roots, sensory nerve endings, and muscular tissue. The deepest layer, the hypodermis, is primarily made up of adipose tissue. Substantial collagen bundles anchor the dermis to the hypodermis in a way that permits most areas of the skin to move freely over the deeper tissue layers
+
+(ref:skin) [Anatomy of human skin.](https://commons.wikimedia.org/wiki/File:Skin.jpg)
+
+```{r skin, fig.cap='(ref:skin)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Skin.png")
+```
 
 The epidermis is the top layer of skin made up of epithelial cells. It contains blood vessels. Its main functions are protection, absorption of nutrients, and homeostasis. In structure, it consists of a keratinized stratified squamous epithelium; four types of cells: keratinocytes, melanocytes, Merkel cells, and Langerhans cells. The major cell of the epidermis is the keratinocyte, which produces keratin, a fibrous protein that aids in skin protection. An overwhelming amount of keratin can cause disease by giving rise to eruptions from the skin that will protrude outwards and lead to infection.[citation needed] Keratin is also a waterproofing protein. Millions of dead keratinocytes rub off daily. The majority of the skin on the body is keratinized. The only skin on the body that is non-keratinized is the lining of mucous membranes, such as the inside of the mouth. Non-keratinized cells allow water to "stay" atop the structure.
 
@@ -932,11 +1015,23 @@ It distinguishes, separates, and protects the organism from its surroundings. Sm
 
 ## Human evolution
 
-Human evolution is the evolutionary process that led to the emergence of anatomically modern humans, beginning with the evolutionary history of primates—in particular genus Homo—and leading to the emergence of *Homo sapiens* as a distinct species of the hominid family, which includes the great apes. This process involved the gradual development of traits such as human bipedalism and language, as well as interbreeding with other hominins, which indicate that human evolution was not linear but a web.
+[Human evolution](https://en.wikipedia.org/wiki/Human_evolution) is the evolutionary process that led to the emergence of anatomically modern humans, beginning with the evolutionary history of primates—in particular genus Homo—and leading to the emergence of *Homo sapiens* as a distinct species of the hominid family, which includes the great apes. This process involved the gradual development of traits such as human bipedalism and language, as well as interbreeding with other hominins, which indicate that human evolution was not linear but a web.
+
+(ref:hominidae) [All extant species of hominid:](https://commons.wikimedia.org/wiki/File:Hominidae_(extant_species).jpg) Top) Human, Middle) Common chimpanzee, bonobo, western gorilla & eastern gorilla, Bottom) Bornean, Sumatran & Tapanuli orangutan]
+
+```{r extanthomonidae, fig.cap='(ref:hominidae)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Hominidae_(extant_species).jpg")
+```
 
 The study of human evolution involves several scientific disciplines, including physical anthropology, primatology, archaeology, paleontology, neurobiology, ethology, linguistics, evolutionary psychology, embryology and genetics. Genetic studies show that primates diverged from other mammals about 85 million years ago, in the Late Cretaceous period, and the earliest fossils appear in the Paleocene, around 55 million years ago.
 
-Within the superfamily Hominoidea, the family Hominidae diverged from the family Hylobatidae some 15–20 million years ago; subfamily Homininae (African apes) diverged from Ponginae (orangutans) about 14 million years ago; the tribe Hominini (including humans, Australopithecus, and chimpanzees) parted from the tribe Gorillini (gorillas) between 8–9 million years ago; and, in turn, the subtribes Hominina (humans and extinct biped ancestors) and Panina (chimpanzees) separated 4–7 million years ago.
+Within the superfamily Hominoidea, the family [Hominidae](https://en.wikipedia.org/wiki/Hominidae) diverged from the family Hylobatidae some 15–20 million years ago; subfamily Homininae (African apes) diverged from Ponginae (orangutans) about 14 million years ago; the tribe Hominini (including humans, Australopithecus, and chimpanzees) parted from the tribe Gorillini (gorillas) between 8–9 million years ago; and, in turn, the subtribes Hominina (humans and extinct biped ancestors) and Panina (chimpanzees) separated 4–7 million years ago.
+
+(ref:homphylo) [Model of the phylogeny of Hominidae, with adjacent branches of Hominoidea, over the past 20 million years.](https://commons.wikimedia.org/wiki/File:Hominoidea_lineage.svg)
+
+```{r phylogenyhominidae, fig.cap='(ref:homphylo)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/animals/Hominoidea_lineage.svg")
+```
 
 Human evolution from its first separation from the last common ancestor of humans and chimpanzees is characterized by a number of morphological, developmental, physiological, and behavioral changes. The most significant of these adaptations are bipedalism, increased brain size, lengthened ontogeny (gestation and infancy), and decreased sexual dimorphism. The relationship between these changes is the subject of ongoing debate. Other significant morphological changes included the evolution of a power and precision grip, a change first occurring in H. erectus.
 
@@ -1010,7 +1105,7 @@ In the 1990s, several teams of paleoanthropologists were working throughout Afri
 
 In 2000, Martin Pickford and Brigitte Senut discovered, in the Tugen Hills of Kenya, a 6-million-year-old bipedal hominin which they named Orrorin tugenensis. And in 2001, a team led by Michel Brunet discovered the skull of Sahelanthropus tchadensis which was dated as 7.2 million years ago, and which Brunet argued was a bipedal, and therefore a hominid—that is, a hominin (cf Hominidae; terms "hominids" and hominins).
 
-### Human dispersal
+### Human Dispersal
 
 Anthropologists in the 1980s were divided regarding some details of reproductive barriers and migratory dispersals of the genus Homo. Subsequently, genetics has been used to investigate and resolve these issues. According to the Sahara pump theory evidence suggests that the genus Homo have migrated out of Africa at least three and possibly four times (e.g. Homo erectus, Homo heidelbergensis and two or three times for Homo sapiens). Recent evidence suggests these dispersals are closely related to fluctuating periods of climate change.
 

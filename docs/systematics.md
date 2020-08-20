@@ -6,10 +6,14 @@ Biological classification is a critical component of the taxonomic process. As a
 
 (ref:classification) [Biological classification.](https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo_vflip.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/systematics/biological_classification.svg" alt="(ref:classification)" width="70%" />
-<p class="caption">(\#fig:classification)(ref:classification)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/systematics/biological_classification} 
+
+}
+
+\caption{(ref:classification)}(\#fig:classification)
+\end{figure}
 
 The "definition" of a taxon is encapsulated by its description or its diagnosis or by both combined. There are no set rules governing the definition of taxa, but the naming and publication of new taxa is governed by sets of rules. In zoology, the nomenclature for the more commonly used ranks (superfamily to subspecies), is regulated by the International Code of Zoological Nomenclature (ICZN Code). In the fields of botany, phycology, and mycology, the naming of taxa is governed by the International Code of Nomenclature for algae, fungi, and plants (ICN).
 
@@ -27,10 +31,14 @@ An "authority" may be placed after a scientific name. The authority is the name 
 
 (ref:tree) [The tree of life.](https://commons.wikimedia.org/wiki/File:CollapsedtreeLabels-simplified.svg)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/systematics/tree_of_life.svg" alt="(ref:tree)" width="70%" />
-<p class="caption">(\#fig:tree)(ref:tree)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/systematics/tree_of_life} 
+
+}
+
+\caption{(ref:tree)}(\#fig:tree)
+\end{figure}
 
 ## The Concept of Species in Biology
 
@@ -48,10 +56,14 @@ The naming of a particular species, including which genus (and higher taxa) it i
 
 (ref:spec) [The butterfly genus Heliconius contains many similar species.](https://commons.wikimedia.org/wiki/File:Heliconius_mimicry.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/systematics/Heliconius_mimicry.png" alt="(ref:spec)" width="70%" />
-<p class="caption">(\#fig:species)(ref:spec)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/systematics/Heliconius_mimicry} 
+
+}
+
+\caption{(ref:spec)}(\#fig:species)
+\end{figure}
 
 It is difficult to define a species in a way that applies to all organisms. The debate about species delimitation is called the species problem. The problem was recognized even in 1859, when Darwin wrote in On the Origin of Species:
 
@@ -216,7 +228,11 @@ The cladogram shown in Figure \@ref(fig:cladogram) represents the current univer
 
 (ref:clado) [Cladogram of the primates](https://commons.wikimedia.org/wiki/File:Monophyly,_paraphyly,_polyphyly.png) showing a monophyletic taxon (a clade: the simians or Anthropoidea, in yellow), a paraphyletic taxon (the prosimians, in blue, including the red patch), and a polyphyletic taxon (the nocturnal primates – the lorises and the tarsiers – in red)]
 
-<div class="figure" style="text-align: center">
-<img src="./figures/systematics/Monophyly,_paraphyly,_polyphyly.png" alt="(ref:clado)" width="70%" />
-<p class="caption">(\#fig:cladogram)(ref:clado)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/systematics/Monophyly,_paraphyly,_polyphyly} 
+
+}
+
+\caption{(ref:clado)}(\#fig:cladogram)
+\end{figure}

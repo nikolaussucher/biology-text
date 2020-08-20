@@ -42,10 +42,14 @@ The gastrointestinal tract, (GI tract, GIT, digestive tract, digestion tract, al
 
 (ref:uplowgit) [Upper and lower human gastrointestinal tract.](https://en.wikipedia.org/wiki/File:Digestive_system_diagram_edit.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/digestive/Digestive_system_diagram_edit.svg" alt="(ref:uplowgit)" width="70%" />
-<p class="caption">(\#fig:upperlowergitract)(ref:uplowgit)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/digestive/Digestive_system_diagram_edit} 
+
+}
+
+\caption{(ref:uplowgit)}(\#fig:upperlowergitract)
+\end{figure}
 
 All vertebrates and most invertebrates have a digestive tract. The sponges, cnidarians, and ctenophores are the early invertebrates with an incomplete digestive tract having just one opening instead of two, where food is taken in and waste expelled.
 
@@ -59,10 +63,14 @@ The human digestive system consists of the gastrointestinal tract plus the acces
 
 (ref:humanab) [Location of the liver, gallbladder, spleen, stomach, colon, appendix, and small intestine in the human abdomen.](https://commons.wikimedia.org/wiki/File:Anatomy_Abdomen_Tiesworks.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/digestive/Anatomy_Abdomen_Tiesworks.jpg" alt="(ref:humanab)" width="70%" />
-<p class="caption">(\#fig:humanabdomen)(ref:humanab)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/digestive/Anatomy_Abdomen_Tiesworks} 
+
+}
+
+\caption{(ref:humanab)}(\#fig:humanabdomen)
+\end{figure}
 
 Saliva contains digestive enzymes called amylase, and lingual lipase, secreted by the salivary glands and serous glands on the tongue. The enzymes start to break down the food in the mouth. Chewing, in which the food is mixed with saliva, begins the mechanical process of digestion. This produces a bolus which can be swallowed down the esophagus to enter the stomach. In the stomach the gastric phase of digestion takes place. The food is further broken down by mixing with gastric acid until it passes into the duodenum, in the third intestinal phase of digestion, where it is mixed with a number of enzymes produced by the pancreas. Digestion is helped by the chewing of food carried out by the muscles of mastication, the tongue, and the teeth, and also by the contractions of peristalsis, and segmentation. Gastric acid, and the production of mucus in the stomach, are essential for the continuation of digestion.
 
@@ -94,10 +102,14 @@ There are three pairs of main salivary glands and between 800 and 1,000 minor sa
 
 (ref:saliva) [The main salivary glands.](https://en.wikipedia.org/wiki/Human_digestive_system#/media/File:Blausen_0780_SalivaryGlands.png)
 
-<div class="figure" style="text-align: center">
-<img src="./figures/digestive/Blausen_0780_SalivaryGlands.png" alt="(ref:saliva)" width="70%" />
-<p class="caption">(\#fig:salivaryglands)(ref:saliva)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/digestive/Blausen_0780_SalivaryGlands} 
+
+}
+
+\caption{(ref:saliva)}(\#fig:salivaryglands)
+\end{figure}
 
 Within the oral mucosa, and also on the tongue, palates, and floor of the mouth, are the minor salivary glands; their secretions are mainly mucous and they are innervated by the facial nerve (CN7). The glands also secrete amylase a first stage in the breakdown of food acting on the carbohydrate in the food to transform the starch content into maltose. There are other serous glands on the surface of the tongue that encircle taste buds on the back part of the tongue and these also produce lingual lipase. Lipase is a digestive enzyme that catalyses the hydrolysis of lipids (fats). These glands are termed Von Ebner's glands which have also been shown to have another function in the secretion of histatins which offer an early defense (outside of the immune system) against microbes in food, when it makes contact with these glands on the tongue tissue. Sensory information can stimulate the secretion of saliva providing the necessary fluid for the tongue to work with and also to ease swallowing of the food.
 
@@ -145,10 +157,14 @@ The stomach is a major organ of the gastrointestinal tract and digestive system.
 
 (ref:stom) [The human stomach.](https://commons.wikimedia.org/wiki/File:Illu_stomach.jpg) 1. Body of stomach 2. Fundus 3. Anterior wall 4. Greater curvature 5. Lesser curvature 6. Cardia 9. Pyloric sphincter 10. Pyloric antrum 11. Pyloric canal 12. Angular incisure 13. Gastric canal 14. Rugae
 
-<div class="figure" style="text-align: center">
-<img src="./figures/digestive/Illu_stomach.jpg" alt="(ref:stom)" width="70%" />
-<p class="caption">(\#fig:humanstomach)(ref:stom)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/digestive/Illu_stomach} 
+
+}
+
+\caption{(ref:stom)}(\#fig:humanstomach)
+\end{figure}
 
 At the same time that protein is being digested, mechanical churning occurs through the action of peristalsis, waves of muscular contractions that move along the stomach wall. This allows the mass of food to further mix with the digestive enzymes. Gastric lipase secreted by the chief cells in the fundic glands in the gastric mucosa of the stomach, is an acidic lipase, in contrast with the alkaline pancreatic lipase. This breaks down fats to some degree though is not as efficient as the pancreatic lipase.
 
@@ -170,10 +186,14 @@ The liver is grossly divided into two parts when viewed from above – a right a
 
 (ref:microliv) [Diagram of the microscopic structure of the liever.](https://commons.wikimedia.org/wiki/File:Hepatic_structure2.svg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/digestive/Hepatic_structure2.svg" alt="(ref:microliv)" width="70%" />
-<p class="caption">(\#fig:microliver)(ref:microliv)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/digestive/Hepatic_structure2} 
+
+}
+
+\caption{(ref:microliv)}(\#fig:microliver)
+\end{figure}
 
 Bile produced by the liver is made up of water (97%), bile salts, mucus and pigments, 1% fats and inorganic salts. Bilirubin is its major pigment. Bile acts partly as a surfactant which lowers the surface tension between either two liquids or a solid and a liquid and helps to emulsify the fats in the chyme. Food fat is dispersed by the action of bile into smaller units called micelles. The breaking down into micelles creates a much larger surface area for the pancreatic enzyme, lipase to work on. Lipase digests the triglycerides which are broken down into two fatty acids and a monoglyceride. These are then absorbed by villi on the intestinal wall. If fats are not absorbed in this way in the small intestine problems can arise later in the large intestine which is not equipped to absorb fats. Bile also helps in the absorption of vitamin K from the diet. Bile is collected and delivered through the common hepatic duct. This duct joins with the cystic duct to connect in a common bile duct with the gallbladder. Bile is stored in the gallbladder for release when food is discharged into the duodenum and also after a few hours.
 
@@ -187,10 +207,14 @@ The pancreas is a major organ functioning as an accessory digestive gland in the
 
 (ref:pancreas) [The pancreas has a role in digestion, highlighted here. Ducts in the pancreas (green) conduct digestive enzymes into the duodenum. This image also shows a pancreatic islet, part of the endocrine pancreas, which contains cells responsible for secretion of insulin and glucagon.](https://upload.wikimedia.org/wikipedia/commons/e/e0/1820_The_Pancreas.jpg) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/digestive/1820_The_Pancreas.jpg" alt="(ref:pancreas)" width="70%" />
-<p class="caption">(\#fig:humanpancreas)(ref:pancreas)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/digestive/1820_The_Pancreas} 
+
+}
+
+\caption{(ref:pancreas)}(\#fig:humanpancreas)
+\end{figure}
 
 The pancreas is also the main source of enzymes for the digestion of fats and proteins. Some of these are released in response to the production of CKK in the duodenum. (The enzymes that digest polysaccharides, by contrast, are primarily produced by the walls of the intestines.) The cells are filled with secretory granules containing the precursor digestive enzymes. The major proteases, the pancreatic enzymes which work on proteins, are trypsinogen and chymotrypsinogen. Elastase is also produced. Smaller amounts of lipase and amylase are secreted. The pancreas also secretes phospholipase A2, lysophospholipase, and cholesterol esterase. The precursor zymogens, are inactive variants of the enzymes; which avoids the onset of pancreatitis caused by autodegradation. Once released in the intestine, the enzyme enteropeptidase present in the intestinal mucosa activates trypsinogen by cleaving it to form trypsin; further cleavage results in chymotripsin.
 
