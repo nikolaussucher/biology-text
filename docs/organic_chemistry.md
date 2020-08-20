@@ -142,6 +142,7 @@ DNA, RNA, and proteins all consist of a repeating structure of related building 
 In most cases, the monomers within the chain have a strong propensity to interact with other amino acids or nucleotides. In DNA and RNA, this can take the form of Watson-Crick base pairs (G-C and A-T or A-U), although many more complicated interactions can and do occur.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:biomacromolecules)Comparison of the main classes of biological macromolecules.</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> Macromolecule (Polymer) </th>

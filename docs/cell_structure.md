@@ -124,6 +124,7 @@ Plants, animals, fungi, and protists are all eukaryotic. These cells are about f
 * Motile eukaryotes can move using motile cilia or flagella. Motile cells are absent in conifers and flowering plants. Eukaryotic flagella are more complex than those of prokaryotes.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:cellcomparison)Comparison of the main features of prokaryotes and eukaryotes.</caption>
  <thead>
   <tr>
    <th style="text-align:left;">  </th>
@@ -450,7 +451,7 @@ In addition to chlorophylls, another group of yellow–orange pigments called ca
 
 The chloroplasts of plant and algal cells can orient themselves to best suit the available light. In low-light conditions, they will spread out in a sheet—maximizing the surface area to absorb light. Under intense light, they will seek shelter by aligning in vertical columns along the plant cell's cell wall or turning sideways so that light strikes them edge-on. This reduces exposure and protects them from photooxidative damage. This ability to distribute chloroplasts so that they can take shelter behind each other or spread out may be the reason why land plants evolved to have many small chloroplasts instead of a few big ones. Chloroplast movement is considered one of the most closely regulated stimulus-response systems that can be found in plants.
 
-One of the main functions of the chloroplast is its role in photosynthesis, the process by which light is transformed into chemical energy, to subsequently produce food in the form of sugars. Water (H~2~O) and carbon dioxide (CO~2~) are used in photosynthesis, and sugar and oxygen (O2) is made, using light energy. Photosynthesis is divided into two stages—the light reactions, where water is split to produce oxygen, and the dark reactions, or Calvin cycle, which builds sugar molecules from carbon dioxide. The two phases are linked by the energy carriers adenosine triphosphate (ATP) and nicotinamide adenine dinucleotide phosphate (NADP+).
+One of the main functions of the chloroplast is its role in photosynthesis, the process by which light is transformed into chemical energy, to subsequently produce food in the form of sugars. Water (H~2~O) and carbon dioxide (CO~2~) are used in photosynthesis, and sugar and oxygen (O~2~) is made, using light energy. Photosynthesis is divided into two stages—the light reactions, where water is split to produce oxygen, and the dark reactions, or Calvin cycle, which builds sugar molecules from carbon dioxide. The two phases are linked by the energy carriers adenosine triphosphate (ATP) and nicotinamide adenine dinucleotide phosphate (NADP+).
 
 ### The Endoplasmic Reticulum
 

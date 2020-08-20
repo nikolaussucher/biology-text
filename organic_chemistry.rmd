@@ -69,7 +69,7 @@ macromolecules <-  as_tibble(read.csv("data/biomacromolecules.csv"))
 
 #lab_schedule <-  as.tibble(read_excel("data/bio115_fall_schedule.xlsx"))
 
-knitr::kable(macromolecules, col.names = c("Macromolecule (Polymer)", "Building Block (Monomer)", "Joining Bond"), digits = 2, align = 'lll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position")) %>% column_spec(1, width = "10em") %>% column_spec(2, width = "10em") %>% column_spec(3, width = "10em") 
+knitr::kable(macromolecules, col.names = c("Macromolecule (Polymer)", "Building Block (Monomer)", "Joining Bond"), digits = 2, align = 'lll', booktabs = TRUE, caption = "Comparison of the main classes of biological macromolecules.") %>% kable_styling(latex_options = c("striped", "hold_position")) %>% column_spec(1, width = "10em") %>% column_spec(2, width = "10em") %>% column_spec(3, width = "10em") 
 ```
 
 ## Proteins
