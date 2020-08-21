@@ -4,14 +4,10 @@
 
 (ref:animdiv) [Diversity of animals.](https://en.wikipedia.org/wiki/File:Animal_diversity.png)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Animal_diversity} 
-
-}
-
-\caption{(ref:animdiv)}(\#fig:animaldiversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Animal_diversity.png" alt="(ref:animdiv)" width="70%" />
+<p class="caption">(\#fig:animaldiversity)(ref:animdiv)</p>
+</div>
 
 Most living animal species are in Bilateria, a clade whose members have a bilaterally symmetric body plan. The Bilateria include the protostomes—in which many groups of invertebrates are found, such as nematodes, arthropods, and molluscs—and the deuterostomes, containing both the echinoderms as well as the chordates, the latter containing the vertebrates. Life forms interpreted as early animals were present in the Ediacaran biota of the late Precambrian. Many modern animal phyla became clearly established in the fossil record as marine species during the Cambrian explosion, which began around 542 million years ago. 6,331 groups of genes common to all living animals have been identified; these may have arisen from a single common ancestor that lived 650 million years ago.
 
@@ -23,14 +19,10 @@ Animals have several characteristics that set them apart from other living thing
 
 (ref:andev) [Animals are unique in having the ball of cells of the early embryo (1) develop into a hollow ball or blastula (2).](https://commons.wikimedia.org/wiki/File:Blastulation.png)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Blastulation} 
-
-}
-
-\caption{(ref:andev)}(\#fig:animaldev)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Blastulation.png" alt="(ref:andev)" width="70%" />
+<p class="caption">(\#fig:animaldev)(ref:andev)</p>
+</div>
 
 All animals are composed of cells, surrounded by a characteristic extracellular matrix composed of collagen and elastic glycoproteins. During development, the animal extracellular matrix forms a relatively flexible framework upon which cells can move about and be reorganised, making the formation of complex structures possible. This may be calcified, forming structures such as shells, bones, and spicules. In contrast, the cells of other multicellular organisms (primarily algae, plants, and fungi) are held in place by cell walls, and so develop by progressive growth. Animal cells uniquely possess the cell junctions called tight junctions, gap junctions, and desmosomes.
 
@@ -51,14 +43,10 @@ animals (mostly nematodes) inhabit the most extreme cold deserts of continental 
 
 (ref:tikta) [Tiktaalik, ≈375 Ma](https://commons.wikimedia.org/wiki/File:Tiktaalik_BW.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Tiktaalik_BW} 
-
-}
-
-\caption{(ref:tikta)}(\#fig:tiktaalik)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Tiktaalik_BW.jpg" alt="(ref:tikta)" width="70%" />
+<p class="caption">(\#fig:tiktaalik)(ref:tikta)</p>
+</div>
 
 The blue whale (*Balaenoptera musculus*) is the largest animal that has ever lived, weighing up to at least 190 tonnes and measuring up to 33.6 metres (110 ft) long. The largest extant terrestrial animal is the African bush elephant (*Loxodonta africana*), weighing up to 12.25 tonnes and measuring up to 10.67 metres (35.0 ft) long. The largest terrestrial animals that ever lived were titanosaur sauropod dinosaurs such as Argentinosaurus, which may have weighed as much as 73 tonnes. Several animals are microscopic; some Myxozoa (obligate parasites within the Cnidaria) never grow larger than 20 µm, and one of the smallest species (*Myxobolus shekel*) is no more than 8.5 µm when fully grown.
 
@@ -66,27 +54,19 @@ The oldest animals are found in the Ediacaran biota, towards the end of the Prec
 
 (ref:edia) [Dickinsonia costata from the Ediacaran biota (c. 635–542 MYA) is one of the earliest animal species known.](https://commons.wikimedia.org/wiki/File:DickinsoniaCostata.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/DickinsoniaCostata} 
-
-}
-
-\caption{(ref:edia)}(\#fig:ediacara)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/DickinsoniaCostata.jpg" alt="(ref:edia)" width="70%" />
+<p class="caption">(\#fig:ediacara)(ref:edia)</p>
+</div>
 
 Many animal phyla first appear in the fossil record during the Cambrian explosion, starting about 542 million years ago, in beds such as the Burgess shale. Extant phyla in these rocks include molluscs, brachiopods, onychophorans, tardigrades, arthropods, echinoderms and hemichordates, along with numerous now-extinct forms such as the predatory Anomalocaris. The apparent suddenness of the event may however be an artefact of the fossil record, rather than showing that all these animals appeared simultaneously.
 
 (ref:anoma) [Anomalocaris canadensis](https://commons.wikimedia.org/wiki/File:Anomalocaris2019.jpg) is one of the many animal species that emerged in the Cambrian explosion, starting some 542 million years ago, and found in the fossil beds of the Burgess shale.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Anomalocaris2019} 
-
-}
-
-\caption{(ref:anoma)}(\#fig:amomalocaris)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Anomalocaris2019.jpg" alt="(ref:anoma)" width="70%" />
+<p class="caption">(\#fig:amomalocaris)(ref:anoma)</p>
+</div>
 
 Some palaeontologists have suggested that animals appeared much earlier than the Cambrian explosion, possibly as early as 1 billion years ago. Trace fossils such as tracks and burrows found in the Tonian period may indicate the presence of triploblastic worm-like animals, roughly as large (about 5 mm wide) and complex as earthworms. However, similar tracks are produced today by the giant single-celled protist Gromia sphaerica, so the Tonian trace fossils may not indicate early animal evolution. Around the same time, the layered mats of microorganisms called stromatolites decreased in diversity, perhaps due to grazing by newly-evolved animals.
 
@@ -94,39 +74,126 @@ Animals are monophyletic, meaning they are derived from a common ancestor. Anima
 
 (ref:placo) The Placozoa are a basal form of free-living (non-parasitic) multicellular organism. They are the simplest in structure of all animals. Three genera have been found: the classical [Trichoplax adhaerens](https://commons.wikimedia.org/wiki/File:Trichoplax_adhaerens_photograph.png), Hoilungia hongkongensis, and Polyplacotoma mediterranea.
 
-\begin{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Trichoplax_adhaerens_photograph.png" alt="(ref:placo)" width="70%" />
+<p class="caption">(\#fig:trichoplax)(ref:placo)</p>
+</div>
 
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Trichoplax_adhaerens_photograph} 
-
-}
-
-\caption{(ref:placo)}(\#fig:trichoplax)
-\end{figure}
-
-\begin{table}[!h]
-
-\caption{(\#tab:animalphyla)Estimated numbers of described extant species for the animal groups with the largest numbers of species, along with their principal habitats (terrestrial, fresh water, and marine), and free-living or parasitic ways of life.}
-\centering
-\begin{tabular}[t]{lllllll}
-\toprule
-Phylum & No. of Species & Land & Sea & Freshwater & Free-living & Parasitic\\
-\midrule
-\rowcolor{gray!6}  Annelids & 17,000 & Yes (soil) & Yes & 1,750 & Yes & 400\\
-Arthropods & 1,257,000 & 1,000,000(insects) & >40,000(Malac-ostraca) & 94,000 & Yes & >45,000[b]\\
-\rowcolor{gray!6}  Bryozoa & 6,000 &  & Yes & 60–80 & Yes & \\
-Chordates & 65,00045,000 & 23,000 & 13,000 & 18,0009,000 & Yes & 40(catfish)\\
-\rowcolor{gray!6}  Cnidaria & 16,000 &  & Yes & Yes (few) & Yes & >1,350(Myxozoa)\\
-\addlinespace
-Echinoderms & 7,500 &  & 7,500 &  & Yes & \\
-\rowcolor{gray!6}  Molluscs & 85,000107,000 & 35,000 & 60,000 & 5,00012,000 & Yes & >5,600\\
-Nematodes & 25,000 & Yes (soil) & 4,000 & 2,000 & 11,000 & 14,000\\
-\rowcolor{gray!6}  Platyhelminthes & 29,500 & Yes & Yes & 1,300 & Yes 3,000–6,500 & >40,000 4,000–25,000\\
-Rotifers & 2,000 &  & >400 & 2,000 & Yes & \\
-\addlinespace
-\rowcolor{gray!6}  Sponges & 10,800 &  & Yes & 200-300 & Yes & Yes\\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:animalphyla)Estimated numbers of described extant species for the animal groups with the largest numbers of species, along with their principal habitats (terrestrial, fresh water, and marine), and free-living or parasitic ways of life.</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Phylum </th>
+   <th style="text-align:left;"> No. of Species </th>
+   <th style="text-align:left;"> Land </th>
+   <th style="text-align:left;"> Sea </th>
+   <th style="text-align:left;"> Freshwater </th>
+   <th style="text-align:left;"> Free-living </th>
+   <th style="text-align:left;"> Parasitic </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Annelids </td>
+   <td style="text-align:left;"> 17,000 </td>
+   <td style="text-align:left;"> Yes (soil) </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 1,750 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 400 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Arthropods </td>
+   <td style="text-align:left;"> 1,257,000 </td>
+   <td style="text-align:left;"> 1,000,000(insects) </td>
+   <td style="text-align:left;"> &gt;40,000(Malac-ostraca) </td>
+   <td style="text-align:left;"> 94,000 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> &gt;45,000[b] </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Bryozoa </td>
+   <td style="text-align:left;"> 6,000 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 60–80 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Chordates </td>
+   <td style="text-align:left;"> 65,00045,000 </td>
+   <td style="text-align:left;"> 23,000 </td>
+   <td style="text-align:left;"> 13,000 </td>
+   <td style="text-align:left;"> 18,0009,000 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 40(catfish) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cnidaria </td>
+   <td style="text-align:left;"> 16,000 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes (few) </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> &gt;1,350(Myxozoa) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Echinoderms </td>
+   <td style="text-align:left;"> 7,500 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 7,500 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Molluscs </td>
+   <td style="text-align:left;"> 85,000107,000 </td>
+   <td style="text-align:left;"> 35,000 </td>
+   <td style="text-align:left;"> 60,000 </td>
+   <td style="text-align:left;"> 5,00012,000 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> &gt;5,600 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Nematodes </td>
+   <td style="text-align:left;"> 25,000 </td>
+   <td style="text-align:left;"> Yes (soil) </td>
+   <td style="text-align:left;"> 4,000 </td>
+   <td style="text-align:left;"> 2,000 </td>
+   <td style="text-align:left;"> 11,000 </td>
+   <td style="text-align:left;"> 14,000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Platyhelminthes </td>
+   <td style="text-align:left;"> 29,500 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 1,300 </td>
+   <td style="text-align:left;"> Yes 3,000–6,500 </td>
+   <td style="text-align:left;"> &gt;40,000 4,000–25,000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Rotifers </td>
+   <td style="text-align:left;"> 2,000 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> &gt;400 </td>
+   <td style="text-align:left;"> 2,000 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Sponges </td>
+   <td style="text-align:left;"> 10,800 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> 200-300 </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+  </tr>
+</tbody>
+</table>
 
 These genes are found in the Placozoa and the higher animals, the Bilateria. 6,331 groups of genes common to all living animals have been identified; these may have arisen from a single common ancestor that lived 650 million years ago in the Precambrian. 25 of these are novel core gene groups, found only in animals; of those, 8 are for essential components of the Wnt and TGF-beta signalling pathways which may have enabled animals to become multicellular by providing a pattern for the body's system of axes (in three dimensions), and another 7 are for transcription factors including homeodomain proteins involved in the control of development.
 
@@ -144,14 +211,10 @@ Sponges have unspecialized cells that can transform into other types and that of
 
 (ref:sponges) [Sponge biodiversity and morphotypes at the lip of a wall site in 60 feet (20 m) of water. Included are the yellow tube sponge, Aplysina fistularis, the purple vase sponge, Niphates digitalis, the red encrusting sponge, Spirastrella coccinea [nl], and the gray rope sponge, Callyspongia sp.](https://commons.wikimedia.org/wiki/File:Reef3859_-_Flickr_-_NOAA_Photo_Library.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Reef3859_-_Flickr_-_NOAA_Photo_Library} 
-
-}
-
-\caption{(ref:sponges)}(\#fig:spongediversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Reef3859_-_Flickr_-_NOAA_Photo_Library.jpg" alt="(ref:sponges)" width="70%" />
+<p class="caption">(\#fig:spongediversity)(ref:sponges)</p>
+</div>
 
 Sponges are similar to other animals in that they are multicellular, heterotrophic, lack cell walls and produce sperm cells. Unlike other animals, they lack true tissues and organs. Some of them are radially symmetrical, but most are asymmetrical. The shapes of their bodies are adapted for maximal efficiency of water flow through the central cavity, where the water deposits nutrients and then leaves through a hole called the osculum. Many sponges have internal skeletons of spongin and/or spicules (skeletal-like fragments) of calcium carbonate or silicon dioxide. All sponges are sessile aquatic animals, meaning that they attach to an underwater surface and remain fixed in place (i.e., do not travel). Although there are freshwater species, the great majority are marine (salt-water) species, ranging in habitat from tidal zones to depths exceeding 8,800 m (5.5 mi).
 
@@ -192,27 +255,19 @@ Most sponges work rather like chimneys: they take in water at the bottom and eje
 
 (ref:spongedia) [Diagram of the structure of a sponge.](https://commons.wikimedia.org/wiki/File:Sea_sponge_diagram.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Sea_sponge_diagram} 
-
-}
-
-\caption{(ref:spongedia)}(\#fig:spongediagram)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Sea_sponge_diagram.svg" alt="(ref:spongedia)" width="70%" />
+<p class="caption">(\#fig:spongediagram)(ref:spongedia)</p>
+</div>
 
 Although the layers of pinacocytes and choanocytes resemble the epithelia of more complex animals, they are not bound tightly by cell-to-cell connections or a basal lamina (thin fibrous sheet underneath). The flexibility of these layers and re-modeling of the mesohyl by lophocytes allow the animals to adjust their shapes throughout their lives to take maximum advantage of local water currents.
 
 (ref:choano) [Cells of the protist choanoflagellate clade closely resemble sponge choanocyte cells. Beating of choanocyte flagella draws water through the sponge so that nutrients can be extracted and waste removed.](https://commons.wikimedia.org/wiki/File:Choanoflagellate_and_choanocyte.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Choanoflagellate_and_choanocyte} 
-
-}
-
-\caption{(ref:choano)}(\#fig:choanocomp)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Choanoflagellate_and_choanocyte.png" alt="(ref:choano)" width="70%" />
+<p class="caption">(\#fig:choanocomp)(ref:choano)</p>
+</div>
 
 The simplest body structure in sponges is a tube or vase shape known as "asconoid", but this severely limits the size of the animal. The body structure is characterized by a stalk-like spongocoel surrounded by a single layer of choanocytes. If it is simply scaled up, the ratio of its volume to surface area increases, because surface increases as the square of length or width while volume increases proportionally to the cube. The amount of tissue that needs food and oxygen is determined by the volume, but the pumping capacity that supplies food and oxygen depends on the area covered by choanocytes. Asconoid sponges seldom exceed 1 mm (0.039 in) in diameter.
 
@@ -251,21 +306,53 @@ Sponges are worldwide in their distribution, living in a wide range of ocean hab
 Sponges are more abundant but less diverse in temperate waters than in tropical waters, possibly because organisms that prey on sponges are more abundant in tropical waters. Glass sponges are the most common in polar waters and in the depths of temperate and tropical seas, as their very porous construction enables them to extract food from these resource-poor waters with the minimum of effort. Demosponges and calcareous sponges are abundant and diverse in shallower non-polar waters
 
 
-\begin{table}[!h]
-
-\caption{(\#tab:porifera)Comparison of 4 classes of sponges.}
-\centering
-\begin{tabular}[t]{llllll}
-\toprule
- & Type of cells & Spicules & Spongin fibers & Massive exoskeleton & Body form\\
-\midrule
-\rowcolor{gray!6}  Calcarea & Single nucleus, single external membrane & CalciteMay be individual or large masses & Never & Common.Made of calcite if present. & Asconoid, syconoid, leuconoid or solenoid\\
-Hexactinellida & Mostly syncytia in all species & SilicaMay be individual or fused & Never & Never & Leuconoid\\
-\rowcolor{gray!6}  Demospongiae & Single nucleus, single external membrane & Silica & In many species & In some species.Made of aragonite if present. & Leuconoid\\
-Homoscleromorpha & Single nucleus, single external membrane & Silica & In many species & Never & Sylleibid or leuconoid\\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:porifera)Comparison of 4 classes of sponges.</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> Type of cells </th>
+   <th style="text-align:left;"> Spicules </th>
+   <th style="text-align:left;"> Spongin fibers </th>
+   <th style="text-align:left;"> Massive exoskeleton </th>
+   <th style="text-align:left;"> Body form </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Calcarea </td>
+   <td style="text-align:left;"> Single nucleus, single external membrane </td>
+   <td style="text-align:left;"> CalciteMay be individual or large masses </td>
+   <td style="text-align:left;"> Never </td>
+   <td style="text-align:left;"> Common.Made of calcite if present. </td>
+   <td style="text-align:left;"> Asconoid, syconoid, leuconoid or solenoid </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Hexactinellida </td>
+   <td style="text-align:left;"> Mostly syncytia in all species </td>
+   <td style="text-align:left;"> SilicaMay be individual or fused </td>
+   <td style="text-align:left;"> Never </td>
+   <td style="text-align:left;"> Never </td>
+   <td style="text-align:left;"> Leuconoid </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Demospongiae </td>
+   <td style="text-align:left;"> Single nucleus, single external membrane </td>
+   <td style="text-align:left;"> Silica </td>
+   <td style="text-align:left;"> In many species </td>
+   <td style="text-align:left;"> In some species.Made of aragonite if present. </td>
+   <td style="text-align:left;"> Leuconoid </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Homoscleromorpha </td>
+   <td style="text-align:left;"> Single nucleus, single external membrane </td>
+   <td style="text-align:left;"> Silica </td>
+   <td style="text-align:left;"> In many species </td>
+   <td style="text-align:left;"> Never </td>
+   <td style="text-align:left;"> Sylleibid or leuconoid </td>
+  </tr>
+</tbody>
+</table>
 
 ### Ctenophora
 
@@ -273,14 +360,10 @@ Homoscleromorpha & Single nucleus, single external membrane & Silica & In many s
 
 (ref:cteno) [Pelagic (open ocean) ctenophores (a) Beroe ovata, (b) Euplokamis sp., (c) Nepheloctena sp., (d) Bathocyroe fosteri, (e) Mnemiopsis leidyi, and (f) Ocyropsis sp.](https://commons.wikimedia.org/wiki/File:Pelagic_ctenophores.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Pelagic_ctenophores} 
-
-}
-
-\caption{(ref:cteno)}(\#fig:ctenophora)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Pelagic_ctenophores.png" alt="(ref:cteno)" width="70%" />
+<p class="caption">(\#fig:ctenophora)(ref:cteno)</p>
+</div>
 
 Almost all ctenophores function as predators, taking prey ranging from microscopic larvae and rotifers to the adults of small crustaceans; the exceptions are juveniles of two species, which live as parasites on the salps on which adults of their species feed.
 
@@ -308,24 +391,69 @@ They have two basic body forms: swimming medusae and sessile polyps, both of whi
 
 Cnidarians are classified into four main groups: the almost wholly sessile Anthozoa (sea anemones, corals, sea pens); swimming Scyphozoa (jellyfish); Cubozoa (box jellies); and Hydrozoa (a diverse group that includes all the freshwater cnidarians as well as many marine forms, and has both sessile members, such as Hydra, and colonial swimmers, such as the Portuguese Man o' War). Staurozoa have recently been recognised as a class in their own right rather than a sub-group of Scyphozoa, and the parasitic Myxozoa and Polypodiozoa were firmly recognized as cnidarians in 2007.
 
-\begin{table}[!h]
-
-\caption{(\#tab:cnidariaclasses)Comparison of 4 classes of cnidaria.}
-\centering
-\begin{tabular}[t]{llllll}
-\toprule
- & Hydrozoa & Scyphozoa & Cubozoa & Anthozoa & Myxozoa\\
-\midrule
-\rowcolor{gray!6}  Number of species & 3,600 & 228 & 42 & 6,100 & 1300\\
-Examples & Hydra, siphonophores & Jellyfish & Box jellies & Sea anemones, corals, sea pens & Myxobolus cerebralis\\
-\rowcolor{gray!6}  Cells found in mesoglea & No & Yes & Yes & Yes & \\
-Nematocysts in exodermis & No & Yes & Yes & Yes & \\
-\rowcolor{gray!6}  Medusa phase in life cycle & In some species & Yes & Yes & No & \\
-\addlinespace
-Number of medusae produced per polyp & Many & Many & One & (not applicable) & \\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:cnidariaclasses)Comparison of 4 classes of cnidaria.</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> Hydrozoa </th>
+   <th style="text-align:left;"> Scyphozoa </th>
+   <th style="text-align:left;"> Cubozoa </th>
+   <th style="text-align:left;"> Anthozoa </th>
+   <th style="text-align:left;"> Myxozoa </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Number of species </td>
+   <td style="text-align:left;"> 3,600 </td>
+   <td style="text-align:left;"> 228 </td>
+   <td style="text-align:left;"> 42 </td>
+   <td style="text-align:left;"> 6,100 </td>
+   <td style="text-align:left;"> 1300 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Examples </td>
+   <td style="text-align:left;"> Hydra, siphonophores </td>
+   <td style="text-align:left;"> Jellyfish </td>
+   <td style="text-align:left;"> Box jellies </td>
+   <td style="text-align:left;"> Sea anemones, corals, sea pens </td>
+   <td style="text-align:left;"> Myxobolus cerebralis </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cells found in mesoglea </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Nematocysts in exodermis </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Medusa phase in life cycle </td>
+   <td style="text-align:left;"> In some species </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Number of medusae produced per polyp </td>
+   <td style="text-align:left;"> Many </td>
+   <td style="text-align:left;"> Many </td>
+   <td style="text-align:left;"> One </td>
+   <td style="text-align:left;"> (not applicable) </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+</tbody>
+</table>
 
 Most cnidarians prey on organisms ranging in size from plankton to animals several times larger than themselves, but many obtain much of their nutrition from dinoflagellates, and a few are parasites. Many are preyed on by other animals including starfish, sea slugs, fish, turtles, and even other cnidarians. Many scleractinian corals—which form the structural foundation for coral reefs—possess polyps that are filled with symbiotic photo-synthetic zooxanthellae. While reef-forming corals are almost entirely restricted to warm and shallow marine waters, other cnidarians can be found at great depths, in polar regions, and in freshwater.
 
@@ -333,14 +461,10 @@ Recent phylogenetic analyses support monophyly of cnidarians, as well as the pos
 
 (ref:cnida) [Four examples of Cnidaria:](https://commons.wikimedia.org/wiki/File:Cnidaria.png) A jellyfish Chrysaora melanaster,  a gorgonian Annella mollis, a rocky coral Acropora cervicornis, and a sea anemone Nemanthus annamensis.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Cnidaria} 
-
-}
-
-\caption{(ref:cnida)}(\#fig:cnidaria)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Cnidaria.png" alt="(ref:cnida)" width="70%" />
+<p class="caption">(\#fig:cnidaria)(ref:cnida)</p>
+</div>
 
 Cnidarians form a phylum of animal that are more complex than sponges, about as complex as ctenophores (comb jellies), and less complex than bilaterians, which include almost all other animals. Both cnidarians and ctenophores are more complex than sponges as they have: cells bound by inter-cell connections and carpet-like basement membranes; muscles; nervous systems; and some have sensory organs. Cnidarians are distinguished from all other animals by having cnidocytes that fire harpoon like structures and are usually used mainly to capture prey. In some species, cnidocytes can also be used as anchors. Cnidarians are also distinguished by the fact that they have only one opening in their body for ingestion and excretion i.e. they don't have a separate mouth and anus.
 
@@ -401,64 +525,114 @@ The remaining animals, the great majority—comprising some 29 phyla and over a 
 
 (ref:bilat) [Diversity of bilaterians.](https://commons.wikimedia.org/wiki/File:Animal_diversity_October_2007.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Animal_diversity_October_2007} 
-
-}
-
-\caption{(ref:bilat)}(\#fig:bilateriandiversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Animal_diversity_October_2007.jpg" alt="(ref:bilat)" width="70%" />
+<p class="caption">(\#fig:bilateriandiversity)(ref:bilat)</p>
+</div>
 
 Having a front end means that this part of the body encounters stimuli, such as food, favouring cephalisation, the development of a head with sense organs and a mouth. Many bilaterians have a combination of circular muscles that constrict the body, making it longer, and an opposing set of longitudinal muscles, that shorten the body; these enable soft-bodied animals with a hydrostatic skeleton to move by peristalsis. They also have a gut that extends through the basically cylindrical body from mouth to anus. Many bilaterian phyla have primary larvae which swim with cilia and have an apical organ containing sensory cells. However, there are exceptions to each of these characteristics; for example, adult echinoderms are radially symmetric (unlike their larvae), while some parasitic worms have extremely simplified body structures.
 
 (ref:bibod) [Idealised bilaterian body plan.](https://commons.wikimedia.org/wiki/File:Bilaterian_body_plan.svg) With an elongated body and a direction of movement the animal has head and tail ends. Sense organs and mouth form the basis of the head. Opposed circular and longitudinal muscles enable peristaltic motion.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Bilaterian_body_plan} 
-
-}
-
-\caption{(ref:bibod)}(\#fig:bilaterianbodyplan)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Bilaterian_body_plan.svg" alt="(ref:bibod)" width="70%" />
+<p class="caption">(\#fig:bilaterianbodyplan)(ref:bibod)</p>
+</div>
 
 Genetic studies have considerably changed zoologists' understanding of the relationships within the Bilateria. Most appear to belong to two major lineages, the protostomes and the deuterostomes that together form the Nephrozoa. Their sister clade are the Xenacoelomorpha, the basalmost bilaterian phylum of small and very simple animals. All xenacoelomorphs lack a typical stomatogastric system, i.e., they do not have a true gut and lack an excretory system, circulatory and respiratory system. The nervous system is a simple nerve net without a brain. 
 
 
 (ref:xena) [*Xenoturbella japonica*, a xenacoelomorph member (xenoturbellids).](https://commons.wikimedia.org/wiki/File:Xenoturbella_japonica.jpg) 
 
-\begin{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Xenoturbella_japonica.jpg" alt="(ref:xena)" width="70%" />
+<p class="caption">(\#fig:xenacoelomorpha)(ref:xena)</p>
+</div>
 
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Xenoturbella_japonica} 
-
-}
-
-\caption{(ref:xena)}(\#fig:xenacoelomorpha)
-\end{figure}
-
-\begin{table}[!h]
-
-\caption{(\#tab:anicomparison)Comparison of major characteristics of porifera, cnidaria, ctenophora and bilateria.}
-\centering
-\begin{tabular}[t]{lllll}
-\toprule
- & Sponges & Cnidarians & Ctenophores & Bilateria\\
-\midrule
-\rowcolor{gray!6}  Cnidocytes & No & Yes & No & No\\
-Colloblasts & No & No & Yes & No\\
-\rowcolor{gray!6}  Digestive and circulatory organs & No & No & No & Yes\\
-Number of main cell layers & Two, with jelly-like layer between them & Three & Two or Three & Three\\
-\rowcolor{gray!6}  Cells in each layer bound together & cell-adhesion molecules, but no basement membranes except Homoscleromorpha. & inter-cell connections; basement membranes & inter-cell connections; basement membranes & inter-cell connections; basement membranes\\
-\addlinespace
-Sensory organs & No & Yes & Yes & Yes\\
-\rowcolor{gray!6}  Number of cells in middle "jelly" layer & Many & Few & Few & (Not applicable)\\
-Cells in outer layers can move inwards and change functions & Yes & No & No & (Not applicable)\\
-\rowcolor{gray!6}  Nervous system & No & Yes, simple & Yes, simple & Simple to complex\\
-Muscles & None & Mostly epitheliomuscular & Mostly myoepithelial & Mostly myocytes\\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:anicomparison)Comparison of major characteristics of porifera, cnidaria, ctenophora and bilateria.</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> Sponges </th>
+   <th style="text-align:left;"> Cnidarians </th>
+   <th style="text-align:left;"> Ctenophores </th>
+   <th style="text-align:left;"> Bilateria </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Cnidocytes </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Colloblasts </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> No </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Digestive and circulatory organs </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Number of main cell layers </td>
+   <td style="text-align:left;"> Two, with jelly-like layer between them </td>
+   <td style="text-align:left;"> Three </td>
+   <td style="text-align:left;"> Two or Three </td>
+   <td style="text-align:left;"> Three </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cells in each layer bound together </td>
+   <td style="text-align:left;"> cell-adhesion molecules, but no basement membranes except Homoscleromorpha. </td>
+   <td style="text-align:left;"> inter-cell connections; basement membranes </td>
+   <td style="text-align:left;"> inter-cell connections; basement membranes </td>
+   <td style="text-align:left;"> inter-cell connections; basement membranes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Sensory organs </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> Yes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Number of cells in middle "jelly" layer </td>
+   <td style="text-align:left;"> Many </td>
+   <td style="text-align:left;"> Few </td>
+   <td style="text-align:left;"> Few </td>
+   <td style="text-align:left;"> (Not applicable) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cells in outer layers can move inwards and change functions </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> (Not applicable) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Nervous system </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:left;"> Yes, simple </td>
+   <td style="text-align:left;"> Yes, simple </td>
+   <td style="text-align:left;"> Simple to complex </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Muscles </td>
+   <td style="text-align:left;"> None </td>
+   <td style="text-align:left;"> Mostly epitheliomuscular </td>
+   <td style="text-align:left;"> Mostly myoepithelial </td>
+   <td style="text-align:left;"> Mostly myocytes </td>
+  </tr>
+</tbody>
+</table>
 
 ### Protostomes and deuterostomes
 
@@ -466,14 +640,10 @@ Protostomes and deuterostomes differ in several ways. Early in development, deut
 
 (ref:prodeu) [The bilaterian gut develops in two ways. In many protostomes, the blastopore develops into the mouth, while in deuterostomes it becomes the anus.](https://commons.wikimedia.org/wiki/File:Protovsdeuterostomes.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Protovsdeuterostomes} 
-
-}
-
-\caption{(ref:prodeu)}(\#fig:protovsdeutero)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Protovsdeuterostomes.svg" alt="(ref:prodeu)" width="70%" />
+<p class="caption">(\#fig:protovsdeutero)(ref:prodeu)</p>
+</div>
 
 The main deuterostome phyla are the Echinodermata and the Chordata. Echinoderms are exclusively marine and include starfish, sea urchins, and sea cucumbers. The chordates are dominated by the vertebrates (animals with backbones), which consist of fishes, amphibians, reptiles, birds, and mammals. The deuterostomes also include the Hemichordata (acorn worms).
 
@@ -483,14 +653,10 @@ The main deuterostome phyla are the Echinodermata and the Chordata. Echinoderms 
 
 (ref:seacucu) [A sea cucumber from Malaysia.](https://commons.wikimedia.org/wiki/File:Sea_cucumber_at_Pulau_Redang.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Sea_cucumber_at_Pulau_Redang} 
-
-}
-
-\caption{(ref:seacucu)}(\#fig:seacucumber)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Sea_cucumber_at_Pulau_Redang.jpg" alt="(ref:seacucu)" width="70%" />
+<p class="caption">(\#fig:seacucumber)(ref:seacucu)</p>
+</div>
 
 Aside from the hard-to-classify Arkarua (a Precambrian animal with echinoderm-like pentamerous radial symmetry), the first definitive members of the phylum appeared near the start of the Cambrian. One group of Cambrian echinoderms, the cinctans (Homalozoa), which are close to the base of the echinoderm origin, have been found to possess external gills used for filter feeding, similar to those possessed by chordates and hemichordates.
 
@@ -498,14 +664,10 @@ The echinoderms are important both ecologically and geologically. Ecologically, 
 
 (ref:starfi) [Starfish exhibit a wide range of colours.](https://commons.wikimedia.org/wiki/File:Nerr0878.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Nerr0878} 
-
-}
-
-\caption{(ref:starfi)}(\#fig:starfish)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Nerr0878.jpg" alt="(ref:starfi)" width="70%" />
+<p class="caption">(\#fig:starfish)(ref:starfi)</p>
+</div>
 
 Along with the chordates and hemichordates, echinoderms are deuterostomes, one of the two major divisions of the bilaterians, the other being the protostomes. During the early development of the embryo, in deuterostomes, the blastopore (the first opening to form) becomes the anus whereas in the protostomes, it becomes the mouth. In deuterostomes, the mouth develops at a later stage, at the opposite end of the blastula from the blastopore, and a gut forms connecting the two. The larvae of echinoderms have bilateral symmetry but this is lost during metamorphosis when their bodies are reorganised and develop the characteristic radial symmetry of the echinoderm, typically pentamerism. The characteristics of adult echinoderms are the possession of a water vascular system with external tube feet and a calcareous endoskeleton consisting of ossicles connected by a mesh of collagen fibres. A 2014 analysis of 219 genes from all classes of echinoderms gives the following phylogenetic tree.
 
@@ -513,14 +675,10 @@ There are a total of about 7,000 extant species of echinoderm as well as about 1
 
 (ref:seaurch) [Strongylocentrotus purpuratus, a well-armoured sea urchin.](https://commons.wikimedia.org/wiki/File:Strongylocentrotus_purpuratus_1.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Strongylocentrotus_purpuratus_1} 
-
-}
-
-\caption{(ref:seaurch)}(\#fig:seaurchin)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Strongylocentrotus_purpuratus_1.jpg" alt="(ref:seaurch)" width="70%" />
+<p class="caption">(\#fig:seaurchin)(ref:seaurch)</p>
+</div>
 
 Echinoderms evolved from animals with bilateral symmetry. Although adult echinoderms possess pentaradial, or five-sided, symmetry, echinoderm larvae are ciliated, free-swimming organisms that organize in bilateral symmetry which makes them look like embryonic chordates. Later, the left side of the body grows at the expense of the right side, which is eventually absorbed. The left side then grows in a pentaradially symmetric fashion, in which the body is arranged in five parts around a central axis. Within the Asterozoa, there can be a few exceptions from the rule. The starfish genus Leptasterias normally have six arms, although five-armed individuals can occur. Also the Brisingida have six armed species. Amongst the brittle stars, six-armed species such as Ophiothela danae, Ophiactis savignyi, and Ophionotus hexactis exists, and Ophiacantha vivipara often has more than six.
 
@@ -572,14 +730,10 @@ The larvae of echinoderms, especially starfish and sea urchins, are pelagic, and
 
 (ref:hemich) [Acorn worm, a hemichordate.](https://commons.wikimedia.org/wiki/File:Eichelwurm_(cropped).jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Eichelwurm_(cropped)} 
-
-}
-
-\caption{(ref:hemich)}(\#fig:hemichordate)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Eichelwurm_(cropped).jpg" alt="(ref:hemich)" width="70%" />
+<p class="caption">(\#fig:hemichordate)(ref:hemich)</p>
+</div>
 
 Acorn worms are solitary worm-shaped organisms. They generally live in burrows (the earliest secreted tubes) and are deposit feeders, but some species are pharyngeal filter feeders, while the family Torquaratoridae are free living detritivores. Many are well known for their production and accumulation of various halogenated phenols and pyrroles. Pterobranchs are filter-feeders, mostly colonial, living in a collagenous tubular structure called a coenecium.
 
@@ -591,14 +745,10 @@ The Chordata and [Ambulacraria](https://en.wikipedia.org/wiki/Ambulacraria) toge
 
 (ref:lanc) [A Lancelet (*Branchiostoma lanceolatum*).](https://commons.wikimedia.org/wiki/File:Branchiostoma_lanceolatum.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Branchiostoma_lanceolatum} 
-
-}
-
-\caption{(ref:lanc)}(\#fig:lancelet)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Branchiostoma_lanceolatum.jpg" alt="(ref:lanc)" width="70%" />
+<p class="caption">(\#fig:lancelet)(ref:lanc)</p>
+</div>
 
 Chordate fossils have been found from as early as the Cambrian explosion, 541 million years ago. Cladistically (phylogenetically), vertebrates – chordates with the notochord replaced by a vertebral column during development – are considered to be a subgroup of the clade Craniata, which consists of chordates with a skull. The Craniata and Tunicata compose the clade Olfactores. 
 
@@ -620,27 +770,19 @@ Cephalochordates, one of the three subdivisions of chordates, are small, "vaguel
 
 (ref:tunic) [Gold-mouth sea squirt (*Polycarpa aurata*), a tunicate.](https://commons.wikimedia.org/wiki/File:Tunicate_komodo.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Tunicate_komodo} 
-
-}
-
-\caption{(ref:tunic)}(\#fig:tunicate)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Tunicate_komodo.jpg" alt="(ref:tunic)" width="70%" />
+<p class="caption">(\#fig:tunicate)(ref:tunic)</p>
+</div>
 
 Most tunicates appear as adults in two major forms, known as "sea squirts" and salps, both of which are soft-bodied filter-feeders that lack the standard features of chordates. Sea squirts are sessile and consist mainly of water pumps and filter-feeding apparatus; salps float in mid-water, feeding on plankton, and have a two-generation cycle in which one generation is solitary and the next forms chain-like colonies. However, all tunicate larvae have the standard chordate features, including long, tadpole-like tails; they also have rudimentary brains, light sensors and tilt sensors. The third main group of tunicates, Appendicularia (also known as Larvacea), retain tadpole-like shapes and active swimming all their lives, and were for a long time regarded as larvae of sea squirts or salps. The etymology of the term Urochordata (Balfour 1881) is from the ancient Greek οὐρά (oura, "tail") + Latin chorda ("cord"), because the notochord is only found in the tail. The term Tunicata (Lamarck 1816) is recognised as having precedence and is now more commonly used.
 
 (ref:compchor) [A. Lancelet, B. Larval tunicate, C. Adult tunicate](https://commons.wikimedia.org/wiki/File:Comparison_of_Three_Invertebrate_Chordates.svg) 1. Notochord, 2. Nerve chord, 3. Buccal cirri, 4. Pharynx, 5. Gill slit, 6. Gonad, 7. Gut, 8. V-shaped muscles, 9. Anus, 10. Inhalant syphon, 11. Exhalant syphon, 12. Heart, 13. Stomach, 14. Esophagus, 15. Intestines, 16. Tail, 17. Atrium, 18. Tunic
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Comparison_of_Three_Invertebrate_Chordates} 
-
-}
-
-\caption{(ref:compchor)}(\#fig:chordatecomparison)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Comparison_of_Three_Invertebrate_Chordates.svg" alt="(ref:compchor)" width="70%" />
+<p class="caption">(\#fig:chordatecomparison)(ref:compchor)</p>
+</div>
 
 Craniates all have distinct skulls. They include the hagfish, which have no vertebrae. Michael J. Benton commented that "craniates are characterized by their heads, just as chordates, or possibly all deuterostomes, are by their tails".
 
@@ -654,14 +796,10 @@ The position of lampreys is ambiguous. They have complete braincases and rudimen
 
 (ref:actino) [Actinopterygii - Rayed-Finned Fish](https://commons.wikimedia.org/wiki/File:Actinopterygii-0001.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Actinopterygii-0001} 
-
-}
-
-\caption{(ref:actino)}(\#fig:actinopterygii)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Actinopterygii-0001.jpg" alt="(ref:actino)" width="70%" />
+<p class="caption">(\#fig:actinopterygii)(ref:actino)</p>
+</div>
 
 The earliest organisms that can be classified as fish were soft-bodied chordates that first appeared during the Cambrian period. Although they lacked a true spine, they possessed notochords which allowed them to be more agile than their invertebrate counterparts. Fish would continue to evolve through the Paleozoic era, diversifying into a wide variety of forms. Many fish of the Paleozoic developed external armor that protected them from predators. The first fish with jaws appeared in the Silurian period, after which many (such as sharks) became formidable marine predators rather than just the prey of arthropods.
 
@@ -677,14 +815,10 @@ Tetrapods emerged within lobe-finned fishes, so cladistically they are fish as w
 
 (ref:ostei) [Example of Osteichthyes: Queensland lungfish and West Indian Ocean coelacanth (two Sarcopterygii), Iridescent shark and American black sturgeon (two Actinopterygii).](https://commons.wikimedia.org/wiki/File:Osteichthyes.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Osteichthyes} 
-
-}
-
-\caption{(ref:ostei)}(\#fig:osteichthyes)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Osteichthyes.jpg" alt="(ref:ostei)" width="70%" />
+<p class="caption">(\#fig:osteichthyes)(ref:ostei)</p>
+</div>
 
 ### Amphibians
 
@@ -692,14 +826,10 @@ Tetrapods emerged within lobe-finned fishes, so cladistically they are fish as w
 
 (ref:amphibians) [Diversity of amphibians:](https://commons.wikimedia.org/wiki/File:Amphibians.png) Clockwise from top right: Seymouria, Mexican burrowing caecilian, eastern newt and leaf green tree frog.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Amphibians} 
-
-}
-
-\caption{(ref:amphibians)}(\#fig:amphibiandiversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Amphibians.png" alt="(ref:amphibians)" width="70%" />
+<p class="caption">(\#fig:amphibiandiversity)(ref:amphibians)</p>
+</div>
 Amphibians are ectothermic, tetrapod vertebrates of the class Amphibia. All living amphibians belong to the group Lissamphibia. They inhabit a wide variety of habitats, with most species living within terrestrial, fossorial, arboreal or freshwater aquatic ecosystems. Thus amphibians typically start out as larvae living in water, but some species have developed behavioural adaptations to bypass this.
 
 ### Reptiles
@@ -708,14 +838,10 @@ Amphibians are ectothermic, tetrapod vertebrates of the class Amphibia. All livi
 
 (ref:reptiles) [Diversity of reptiles:](https://commons.wikimedia.org/wiki/File:Extant_reptilia.jpg) Clockwise from above left: Green sea turtle (*Chelonia mydas*), Tuatara (*Sphenodon punctatus*), Nile crocodile (*Crocodylus niloticus*), and Sinai agama (*Pseudotrapelus sinaitus*)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Extant_reptilia} 
-
-}
-
-\caption{(ref:reptiles)}(\#fig:reptilediversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Extant_reptilia.jpg" alt="(ref:reptiles)" width="70%" />
+<p class="caption">(\#fig:reptilediversity)(ref:reptiles)</p>
+</div>
 
 Because some reptiles are more closely related to birds than they are to other reptiles (e.g., crocodiles are more closely related to birds than they are to lizards), the traditional groups of "reptiles" listed above do not together constitute a monophyletic grouping or clade (consisting of all descendants of a common ancestor). For this reason, many modern scientists prefer to consider the birds part of Reptilia as well, thereby making Reptilia a monophyletic class, including all living diapsids. The term reptiles is sometimes used as shorthand for 'non-avian Reptilia'.
 
@@ -733,14 +859,10 @@ Birds are a group of feathered theropod dinosaurs, and constitute the only livin
 
 (ref:birds) [The diversity of birds:](https://en.wikipedia.org/wiki/File:Bird_Diversity_2013.png) This image shows 17 biological orders of birds (from top, left to right): Musophagiformes, Pelecaniformes, Phaethontiformes, Accipitriformes, Gruiformes, Galliformes, Columbiformes, Apodiformes, Charadriiformes, Casuariiformes, Psittaciformes, Phoenicopteriformes, Sphenisciformes, Pelecaniformes, Suliformes, Passeriformes, Strigiformes, Piciformes.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Bird_Diversity_2013} 
-
-}
-
-\caption{(ref:birds)}(\#fig:birddiversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Bird_Diversity_2013.png" alt="(ref:birds)" width="70%" />
+<p class="caption">(\#fig:birddiversity)(ref:birds)</p>
+</div>
 
 Many social species pass on knowledge across generations, which is considered a form of culture. Birds are social, communicating with visual signals, calls, and songs, and participating in such behaviours as cooperative breeding and hunting, flocking, and mobbing of predators. The vast majority of bird species are socially (but not necessarily sexually) monogamous, usually for one breeding season at a time, sometimes for years, but rarely for life. Other species have breeding systems that are polygynous (one male with many females) or, rarely, polyandrous (one female with many males). Birds produce offspring by laying eggs which are fertilised through sexual reproduction. They are usually laid in a nest and incubated by the parents. Most birds have an extended period of parental care after hatching.
 
@@ -752,14 +874,10 @@ Many species of birds are economically important as food for human consumption a
 
 (ref:mammals) [Diversity of mammals.](https://en.wikipedia.org/wiki/File:Mammal_Diversity_2011.png) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Mammal_Diversity_2011} 
-
-}
-
-\caption{(ref:mammals)}(\#fig:mammaldiversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Mammal_Diversity_2011.png" alt="(ref:mammals)" width="70%" />
+<p class="caption">(\#fig:mammaldiversity)(ref:mammals)</p>
+</div>
 
 In terms of cladistics, which reflects evolutionary history, mammals are the only living members of the Synapsida; this clade, together with Sauropsida (reptiles and birds), constitutes the larger Amniota clade. The early synapsid mammalian ancestors were sphenacodont pelycosaurs, a group that included the non-mammalian Dimetrodon. At the end of the Carboniferous period around 300 million years ago, this group diverged from the sauropsid line that led to today's reptiles and birds. The line following the stem group Sphenacodontia split into several diverse groups of non-mammalian synapsids—sometimes incorrectly referred to as mammal-like reptiles—before giving rise to Therapsida in the Early Permian period. The modern mammalian orders arose in the Paleogene and Neogene periods of the Cenozoic era, after the extinction of non-avian dinosaurs, and have been the dominant terrestrial animal group from 66 million years ago to the present.
 
@@ -779,14 +897,10 @@ An [arthropod](https://en.wikipedia.org/wiki/Arthropod) (from Greek ἄρθρο�
 
 (ref:arthropods) [Diversity of arthropods:](https://commons.wikimedia.org/wiki/File:Arthropoda.jpg) From left to right and from top to bottom: Kolihapeltis, Stylonurus, scorpion, crab, centipede, butterfly.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Arthropoda} 
-
-}
-
-\caption{(ref:arthropods)}(\#fig:arthropoddiversity)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Arthropoda.jpg" alt="(ref:arthropods)" width="70%" />
+<p class="caption">(\#fig:arthropoddiversity)(ref:arthropods)</p>
+</div>
 
 Arthropods are characterized by their jointed limbs and cuticle made of chitin, often mineralised with calcium carbonate. The arthropod body plan consists of segments, each with a pair of appendages. The rigid cuticle inhibits growth, so arthropods replace it periodically by moulting. Arthropods are bilaterally symmetrical and their body possesses an external skeleton. Some species have wings.
 
@@ -819,14 +933,10 @@ Arthropods contribute to the human food supply both directly as food, and more i
 
 (ref:lobs) [A Maine Lobster served in Boston.](https://commons.wikimedia.org/wiki/File:Lobster_in_Boston.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Lobster_in_Boston} 
-
-}
-
-\caption{(ref:lobs)}(\#fig:lobster)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Lobster_in_Boston.jpg" alt="(ref:lobs)" width="70%" />
+<p class="caption">(\#fig:lobster)(ref:lobs)</p>
+</div>
 
 Some species are known to spread severe disease to humans, livestock, and crops.
 
@@ -836,14 +946,10 @@ The [nematodes](https://en.wikipedia.org/wiki/Nematode) or roundworms constitute
 
 (ref:celeg) [*Caenorhabditis elegans*, a free-living transparent nematode about 1 mm in length that lives in temperate soil environments.](https://commons.wikimedia.org/wiki/File:Adult_Caenorhabditis_elegans.jpg) In 1963, Sydney Brenner proposed research into C. elegans, primarily in the area of neuronal development. In 1974, he began research into the molecular and developmental biology of C. elegans, which has since been extensively used as a model organism. It was the first multicellular organism to have its whole genome sequenced, and as of 2019, is the only organism to have its connectome (neuronal "wiring diagram") completed.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Adult_Caenorhabditis_elegans} 
-
-}
-
-\caption{(ref:celeg)}(\#fig:celegans)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Adult_Caenorhabditis_elegans.jpg" alt="(ref:celeg)" width="70%" />
+<p class="caption">(\#fig:celegans)(ref:celeg)</p>
+</div>
 
 Nematode species can be difficult to distinguish from one another. Consequently, estimates of the number of nematode species described to date vary by author and may change rapidly over time. A 2013 survey of animal biodiversity published in the mega journal Zootaxa puts this figure at over 25,000. Estimates of the total number of extant species are subject to even greater variation. A widely referenced article published in 1993 estimated there may be over 1 million species of nematode, a claim which has since been repeated in numerous publications. Many other publications have since vigorously refuted this claim on the grounds that it is unsupported by fact. More recent, fact-based estimates have placed the true figure closer to 40,000 species worldwide.
 
@@ -859,14 +965,10 @@ The [rotifers](https://en.wikipedia.org/wiki/Rotifer) (from Latin rota "wheel" a
 
 (ref:rotifer) [A Rotifera (wheel animal).](https://commons.wikimedia.org/wiki/File:Mikrofoto.de-Raedertier_Ptygura_pilula_2.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Mikrofoto.de-Raedertier_Ptygura_pilula_2} 
-
-}
-
-\caption{(ref:rotifer)}(\#fig:rotifera)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Mikrofoto.de-Raedertier_Ptygura_pilula_2.jpg" alt="(ref:rotifer)" width="70%" />
+<p class="caption">(\#fig:rotifera)(ref:rotifer)</p>
+</div>
 
 They were first described by Rev. John Harris in 1696, and other forms were described by Antonie van Leeuwenhoek in 1703. Most rotifers are around 0.1–0.5 mm long (although their size can range from 50 μm to over 2 mm), and are common in freshwater environments throughout the world with a few saltwater species.
 
@@ -921,14 +1023,10 @@ The [flatworms](https://en.wikipedia.org/wiki/Flatworm), flat worms, Platyhelmin
 
 (ref:turb) [The turbellarian *Pseudoceros dimidiatus*.](https://commons.wikimedia.org/wiki/File:Pseudoceros_dimidiatus.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Pseudoceros_dimidiatus} 
-
-}
-
-\caption{(ref:turb)}(\#fig:turbellarian)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Pseudoceros_dimidiatus.jpg" alt="(ref:turb)" width="70%" />
+<p class="caption">(\#fig:turbellarian)(ref:turb)</p>
+</div>
 In traditional medicinal texts, Platyhelminthes are divided into Turbellaria, which are mostly non-parasitic animals such as planarians, and three entirely parasitic groups: Cestoda, Trematoda and Monogenea; however, since the turbellarians have since been proven not to be monophyletic, this classification is now deprecated. Free-living flatworms are mostly predators, and live in water or in shaded, humid terrestrial environments, such as leaf litter. Cestodes (tapeworms) and trematodes (flukes) have complex life-cycles, with mature stages that live as parasites in the digestive systems of fish or land vertebrates, and intermediate stages that infest secondary hosts. The eggs of trematodes are excreted from their main hosts, whereas adult cestodes generate vast numbers of hermaphroditic, segment-like proglottids that detach when mature, are excreted, and then release eggs. Unlike the other parasitic groups, the monogeneans are external parasites infesting aquatic animals, and their larvae metamorphose into the adult form after attaching to a suitable host.
 
 Platyhelminthes are bilaterally symmetrical animals: their left and right sides are mirror images of each other; this also implies they have distinct top and bottom surfaces and distinct head and tail ends. Like other bilaterians, they have three main cell layers (endoderm, mesoderm, and ectoderm), while the radially symmetrical cnidarians and ctenophores (comb jellies) have only two cell layers. Beyond that, they are "defined more by what they do not have than by any particular series of specializations." Unlike other bilaterians, Platyhelminthes have no internal body cavity, so are described as acoelomates. They also lack specialized circulatory and respiratory organs, both of these facts are defining features when classifying a flatworm's anatomy. Their bodies are soft and unsegmented.
@@ -956,14 +1054,10 @@ These are often called flukes, as most have flat rhomboid shapes like that of a 
 
 (ref:schisto) [Schistosoma life cycle.](https://commons.wikimedia.org/wiki/File:Schistosoma_life_cycle.svg) Schistosoma eggs are eliminated with feces or urine, depending on species (1). Under appropriate conditions the eggs hatch and release miracidia (2), which swim and penetrate specific snail intermediate hosts (3). The stages in the snail include two generations of sporocysts (4) and the production of cercariae (5). Upon release from the snail, the infective cercariae swim, penetrate the skin of the human host (6), and shed their forked tails, becoming schistosomulae (7). The schistosomulae migrate via venous circulation to lungs, then to the heart, and then develop in the liver, exiting the liver via the portal vein system when mature, (8)(9). Male and female adult worms copulate and reside in the mesenteric venules, the location of which varies by species (with some exceptions) (10). For instance, S. japonicum is more frequently found in the superior mesenteric veins draining the small intestine (A), and S. mansoni occurs more often in the inferior mesenteric veins draining the large intestine (B). However, both species can occupy either location and are capable of moving between sites. S. intercalatum and S. guineensis also inhabit the inferior mesenteric plexus but lower in the bowel than S. mansoni. S. haematobium most often inhabitsin the vesicular and pelvic venous plexus of the bladder (C), but it can also be found in the rectal venules. The females (size ranges from 7–28 mm, depending on species) deposit eggs in the small venules of the portal and perivesical systems. The eggs are moved progressively toward the lumen of the intestine (S. mansoni,S. japonicum, S. mekongi, S. intercalatum/guineensis) and of the bladder and ureters (S. haematobium), and are eliminated with feces or urine, respectively (1).
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Schistosoma_life_cycle} 
-
-}
-
-\caption{(ref:schisto)}(\#fig:schistosomalifecycle)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Schistosoma_life_cycle.svg" alt="(ref:schisto)" width="70%" />
+<p class="caption">(\#fig:schistosomalifecycle)(ref:schisto)</p>
+</div>
 
 Adults range between 0.2 mm (0.0079 in) and 6 mm (0.24 in) in length. Individual adult digeneans are of a single sex, and in some species slender females live in enclosed grooves that run along the bodies of the males, partially emerging to lay eggs. In all species the adults have complex reproductive systems, capable of producing between 10,000 and 100,000 times as many eggs as a free-living flatworm. In addition, the intermediate stages that live in snails reproduce asexually.
 
@@ -975,14 +1069,10 @@ These are often called [tapeworms](https://en.wikipedia.org/wiki/Cestoda) becaus
 
 (ref:taenia) [Life cycle of the cestode Taenia:](https://commons.wikimedia.org/wiki/File:Taenia_solium_Life_cycle.tif) Taeniasis is the infection of humans with the adult tapeworm of *Taenia saginata* or *Taenia solium*. Humans are the only definitive hosts for *T. saginata* and *T. solium*. Eggs or gravid proglottids are passed with feces (1); the eggs can survive for days to months in the environment. Cattle (*T. saginata*) and pigs (*T. solium*) become infected by ingesting vegetation contaminated with eggs or gravid proglottids (2). In the animal’s intestine, the oncospheres hatch (3), invade the intestinal wall, and migrate to the striated muscles, where they develop into cysticerci. A cysticercus can survive for several years in the animal. Humans become infected by ingesting raw or undercooked infected meat (4). In the human intestine, the cysticercus develops over 2 months into an adult tapeworm, which can survive for years. The adult tapeworms attach to the small intestine by their scolex (5) and reside in the small intestine (6). Length of adult worms is usually 5 m or less for *T. saginata* (however it may reach up to 25 m) and 2 to 7 m for T. solium. The adults produce proglottids which mature, become gravid, detach from the tapeworm, and migrate to the anus or are passed in the stool (approximately 6 per day). *T. saginata* adults usually have 1,000 to 2,000 proglottids, while *T. solium* adults have an average of 1,000 proglottids. The eggs contained in the gravid proglottids are released after the proglottids are passed with the feces. *T. saginata* may produce up to 100,000 and *T. solium* may produce 50,000 eggs per proglottid respectively.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Taenia_solium_Life_cycle} 
-
-}
-
-\caption{(ref:taenia)}(\#fig:taenialifecycle)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Taenia_solium_Life_cycle.tif" alt="(ref:taenia)" width="70%" />
+<p class="caption">(\#fig:taenialifecycle)(ref:taenia)</p>
+</div>
 
 In the majority of species, known as eucestodes ("true tapeworms"), the neck produces a chain of segments called proglottids via a process known as strobilation. As a result, the most mature proglottids are furthest from the scolex. Adults of Taenia saginata, which infests humans, can form proglottid chains over 20 metres (66 ft) long, although 4 metres (13 ft) is more typical. Each proglottid has both male and female reproductive organs. If the host's gut contains two or more adults of the same cestode species they generally fertilize each other, however, proglottids of the same worm can fertilize each other and even themselves. When the eggs are fully developed, the proglottids separate and are excreted by the host. 
 
@@ -996,14 +1086,10 @@ The clade [Lophotrochozoa](https://en.wikipedia.org/wiki/Lophotrochozoa) is name
 
 (ref:brachio) [*Lingula anatina*, a brachipod, from Stradbroke Island, Australia.](https://commons.wikimedia.org/wiki/File:LingulaanatinaAA.JPG) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/LingulaanatinaAA} 
-
-}
-
-\caption{(ref:brachio)}(\#fig:brachiopod)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/LingulaanatinaAA.JPG" alt="(ref:brachio)" width="70%" />
+<p class="caption">(\#fig:brachiopod)(ref:brachio)</p>
+</div>
 
 ### Bryozoa 
 
@@ -1018,14 +1104,10 @@ Entoprocta, whose name means "anus inside", or Kamptozoa, is a phylum of mostly 
 
 (ref:entoproct) [An entoproct: *Barentsia discreta*.](https://commons.wikimedia.org/wiki/File:Barentsa_discreta_suzukokemusi02.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Barentsa_discreta_suzukokemusi02} 
-
-}
-
-\caption{(ref:entoproct)}(\#fig:entoproctbarentsia)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Barentsa_discreta_suzukokemusi02.jpg" alt="(ref:entoproct)" width="70%" />
+<p class="caption">(\#fig:entoproctbarentsia)(ref:entoproct)</p>
+</div>
 
 ### Molluscs
 
@@ -1033,40 +1115,28 @@ Entoprocta, whose name means "anus inside", or Kamptozoa, is a phylum of mostly 
 
 (ref:snai) [*Cornu aspersum* (formerly *Helix aspersa*) – a common land snail, a gastropod.](https://commons.wikimedia.org/wiki/File:Snail-wiki-120-Zachi-Evenor.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Snail-wiki-120-Zachi-Evenor} 
-
-}
-
-\caption{(ref:snai)}(\#fig:snail)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Snail-wiki-120-Zachi-Evenor.jpg" alt="(ref:snai)" width="70%" />
+<p class="caption">(\#fig:snail)(ref:snai)</p>
+</div>
 
 Molluscs are the largest marine phylum, comprising about 23% of all the named marine organisms. Numerous molluscs also live in freshwater and terrestrial habitats. They are highly diverse, not just in size and anatomical structure, but also in behaviour and habitat. The phylum is typically divided into 8 or 9 taxonomic classes, of which two are entirely extinct. Cephalopod molluscs, such as squid, cuttlefish, and octopuses, are among the most neurologically advanced of all invertebrates—and either the giant squid or the colossal squid is the largest known invertebrate species. The gastropods (snails and slugs) are by far the most numerous molluscs and account for 80% of the total classified species.
 
 (ref:cuttle) [The common cuttlefish *Sepia officinalis*, a cephalopod.](https://commons.wikimedia.org/wiki/File:Washington_DC_Zoo_-_Sepia_officinalis_2.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Washington_DC_Zoo_-_Sepia_officinalis_2} 
-
-}
-
-\caption{(ref:cuttle)}(\#fig:cuttlefish)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Washington_DC_Zoo_-_Sepia_officinalis_2.jpg" alt="(ref:cuttle)" width="70%" />
+<p class="caption">(\#fig:cuttlefish)(ref:cuttle)</p>
+</div>
 
 The three most universal features defining modern molluscs are a mantle with a significant cavity used for breathing and excretion, the presence of a radula (except for bivalves), and the structure of the nervous system. Other than these common elements, molluscs express great morphological diversity, so many textbooks base their descriptions on a "hypothetical ancestral mollusc" (see image below). This has a single, "limpet-like" shell on top, which is made of proteins and chitin reinforced with calcium carbonate, and is secreted by a mantle covering the whole upper surface. The underside of the animal consists of a single muscular "foot". Although molluscs are coelomates, the coelom tends to be small. The main body cavity is a hemocoel through which blood circulates; as such, their circulatory systems are mainly open. The "generalized" mollusc's feeding system consists of a rasping "tongue", the radula, and a complex digestive system in which exuded mucus and microscopic, muscle-powered "hairs" called cilia play various important roles. The generalized mollusc has two paired nerve cords, or three in bivalves. The brain, in species that have one, encircles the esophagus. Most molluscs have eyes, and all have sensors to detect chemicals, vibrations, and touch. The simplest type of molluscan reproductive system relies on external fertilization, but more complex variations occur. Nearly all produce eggs, from which may emerge trochophore larvae, more complex veliger larvae, or miniature adults. The coelomic cavity is reduced. They have an open circulatory system and kidney-like organs for excretion.
 
 (ref:bivalv) [*Argopecten irradians*, the Atlantic bay scallop, a bivalve.](https://commons.wikimedia.org/wiki/File:Argopecten_irradians.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Argopecten_irradians} 
-
-}
-
-\caption{(ref:bivalv)}(\#fig:bivalve)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Argopecten_irradians.jpg" alt="(ref:bivalv)" width="70%" />
+<p class="caption">(\#fig:bivalve)(ref:bivalv)</p>
+</div>
 
 Good evidence exists for the appearance of gastropods, cephalopods, and bivalves in the Cambrian period, 541–485.4 million years ago. However, the evolutionary history both of molluscs' emergence from the ancestral Lophotrochozoa and of their diversification into the well-known living and fossil forms are still subjects of vigorous debate among scientists.
 
@@ -1075,25 +1145,61 @@ Molluscs have been and still are an important food source for anatomically moder
 
 Mollusc species can also represent hazards or pests for human activities. The bite of the blue-ringed octopus is often fatal, and that of Octopus apollyon causes inflammation that can last over a month. Stings from a few species of large tropical cone shells can also kill, but their sophisticated, though easily produced, venoms have become important tools in neurological research. Schistosomiasis (also known as bilharzia, bilharziosis, or snail fever) is transmitted to humans by water snail hosts, and affects about 200 million people. Snails and slugs can also be serious agricultural pests, and accidental or deliberate introduction of some snail species into new environments has seriously damaged some ecosystems.
 
-\begin{table}[!h]
-
-\caption{(\#tab:mollusca)The commonly recognized classes of living molluscs.}
-\centering
-\begin{tabular}[t]{llll}
-\toprule
-Class & Major organisms & Described living species & Distribution\\
-\midrule
-\rowcolor{gray!6}  Gastropoda (p300) & all snails and slugs including abalone, limpets, conch, nudibranchs, sea hares, sea butterflies & 70,000 & marine, freshwater, land\\
-Bivalvia (p367) & clams, oysters, scallops, geoducks, mussels, rudists† & 20,000 & marine, freshwater\\
-\rowcolor{gray!6}  Polyplacophora (pp292–298) & chitons & 1,000 & rocky tidal zone and seabed\\
-Cephalopoda (p343) & squid, octopuses, cuttlefish, nautiluses, Spirula, belemnites†, ammonites† & 900 & marine\\
-\rowcolor{gray!6}  Scaphopoda (pp403–407) & tusk shells & 500 & marine 6–7,000 metres (20–22,966 ft)\\
-\addlinespace
-Aplacophora (pp291–292) & worm-like molluscs & 320 & seabed 200–3,000 metres (660–9,840 ft)\\
-\rowcolor{gray!6}  Monoplacophora (pp298–300) & ancient lineage of molluscs with cap-like shells & 31 & seabed 1,800–7,000 metres (5,900–23,000 ft); one species 200 metres (660 ft)\\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:mollusca)The commonly recognized classes of living molluscs.</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Class </th>
+   <th style="text-align:left;"> Major organisms </th>
+   <th style="text-align:left;"> Described living species </th>
+   <th style="text-align:left;"> Distribution </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Gastropoda (p300) </td>
+   <td style="text-align:left;"> all snails and slugs including abalone, limpets, conch, nudibranchs, sea hares, sea butterflies </td>
+   <td style="text-align:left;"> 70,000 </td>
+   <td style="text-align:left;"> marine, freshwater, land </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Bivalvia (p367) </td>
+   <td style="text-align:left;"> clams, oysters, scallops, geoducks, mussels, rudists† </td>
+   <td style="text-align:left;"> 20,000 </td>
+   <td style="text-align:left;"> marine, freshwater </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Polyplacophora (pp292–298) </td>
+   <td style="text-align:left;"> chitons </td>
+   <td style="text-align:left;"> 1,000 </td>
+   <td style="text-align:left;"> rocky tidal zone and seabed </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cephalopoda (p343) </td>
+   <td style="text-align:left;"> squid, octopuses, cuttlefish, nautiluses, Spirula, belemnites†, ammonites† </td>
+   <td style="text-align:left;"> 900 </td>
+   <td style="text-align:left;"> marine </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Scaphopoda (pp403–407) </td>
+   <td style="text-align:left;"> tusk shells </td>
+   <td style="text-align:left;"> 500 </td>
+   <td style="text-align:left;"> marine 6–7,000 metres (20–22,966 ft) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Aplacophora (pp291–292) </td>
+   <td style="text-align:left;"> worm-like molluscs </td>
+   <td style="text-align:left;"> 320 </td>
+   <td style="text-align:left;"> seabed 200–3,000 metres (660–9,840 ft) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Monoplacophora (pp298–300) </td>
+   <td style="text-align:left;"> ancient lineage of molluscs with cap-like shells </td>
+   <td style="text-align:left;"> 31 </td>
+   <td style="text-align:left;"> seabed 1,800–7,000 metres (5,900–23,000 ft); one species 200 metres (660 ft) </td>
+  </tr>
+</tbody>
+</table>
 
 ### Annelids
 
@@ -1101,27 +1207,19 @@ The [annelids](https://en.wikipedia.org/wiki/Annelid) (Annelida, from Latin anel
 
 (ref:annelid) [The earthworm *Lumbricus terrestris* is a representative of the annelids.](https://commons.wikimedia.org/wiki/File:Nerr0328.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Earthworm} 
-
-}
-
-\caption{(ref:annelid)}(\#fig:annelidrep)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Earthworm.jpg" alt="(ref:annelid)" width="70%" />
+<p class="caption">(\#fig:annelidrep)(ref:annelid)</p>
+</div>
 
 The Annelids are bilaterally symmetrical, triploblastic, coelomate, invertebrate organisms. They also have parapodia for locomotion. Most textbooks still use the traditional division into polychaetes (almost all marine), oligochaetes (which include earthworms) and leech-like species. Cladistic research since 1997 has radically changed this scheme, viewing leeches as a sub-group of oligochaetes and oligochaetes as a sub-group of polychaetes. In addition, the Pogonophora, Echiura and Sipuncula, previously regarded as separate phyla, are now regarded as sub-groups of polychaetes. Annelids are considered members of the Lophotrochozoa, a "super-phylum" of protostomes that also includes molluscs, brachiopods, and nemerteans.
 
 (ref:lee) [The leech *Hirudo medicinalis* sucking blood.](https://commons.wikimedia.org/wiki/File:Sucking_leech.jpg) Although blood-letting is used less frequently by doctors, some leech species are regarded as endangered species because they have been over-harvested for this purpose in the last few centuries. 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Sucking_leech} 
-
-}
-
-\caption{(ref:lee)}(\#fig:leech)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Sucking_leech.jpg" alt="(ref:lee)" width="70%" />
+<p class="caption">(\#fig:leech)(ref:lee)</p>
+</div>
 
 The basic annelid form consists of multiple segments. Each segment has the same sets of organs and, in most polychates, has a pair of parapodia that many species use for locomotion. Septa separate the segments of many species, but are poorly defined or absent in others, and Echiura and Sipuncula show no obvious signs of segmentation. In species with well-developed septa, the blood circulates entirely within blood vessels, and the vessels in segments near the front ends of these species are often built up with muscles that act as hearts. The septa of such species also enable them to change the shapes of individual segments, which facilitates movement by peristalsis ("ripples" that pass along the body) or by undulations that improve the effectiveness of the parapodia. In species with incomplete septa or none, the blood circulates through the main body cavity without any kind of pump, and there is a wide range of locomotory techniques – some burrowing species turn their pharynges inside out to drag themselves through the sediment.
 
@@ -1129,14 +1227,10 @@ Earthworms are oligochaetes that support terrestrial food chains both as prey an
 
 (ref:polychae) [*Nereis virens*, a polychaete annelid.](https://commons.wikimedia.org/wiki/File:Nereis_virens.jpg) These sandworms eat seaweed and microorganisms and can be longer than four feet.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures//} 
-
-}
-
-\caption{(ref:)}(\#fig:unnamed-chunk-1)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Nereis_virens.jpg" alt="(ref:polychae)" width="70%" />
+<p class="caption">(\#fig:polychaete)(ref:polychae)</p>
+</div>
 
 Since annelids are soft-bodied, their fossils are rare – mostly jaws and the mineralized tubes that some of the species secreted. Although some late Ediacaran fossils may represent annelids, the oldest known fossil that is identified with confidence comes from about 518 million years ago in the early Cambrian period. Fossils of most modern mobile polychaete groups appeared by the end of the Carboniferous, about 299 million years ago. Palaeontologists disagree about whether some body fossils from the mid Ordovician, about 472 to 461 million years ago, are the remains of oligochaetes, and the earliest indisputable fossils of the group appear in the Tertiary period, which began 66 million years ago.
 
@@ -1178,14 +1272,10 @@ There are many kinds of epithelium, and nomenclature is somewhat variable. Most 
 
 (ref:epithelium) [Types of epithelia](https://commons.wikimedia.org/wiki/File:Illu_epithelium.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/epithelium} 
-
-}
-
-\caption{(ref:epithelium)}(\#fig:epithelium)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/epithelium.png" alt="(ref:epithelium)" width="70%" />
+<p class="caption">(\#fig:epithelium)(ref:epithelium)</p>
+</div>
 
 ### Connective tissue
 
@@ -1213,14 +1303,10 @@ More complex animals are composed of different organs, which have been evolving 
 
 (ref:orgev) [Relationship of major animal lineages with indication of how long ago these animals shared a common ancestor. On the left, important organs are shown, which allows us to determine how long ago these may have evolved.](https://commons.wikimedia.org/wiki/File:Origin_of_major_organs_on_the_animal_phylogeny.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Origin_of_major_organs_on_the_animal_phylogeny} 
-
-}
-
-\caption{(ref:orgev)}(\#fig:organevolution)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Origin_of_major_organs_on_the_animal_phylogeny.jpg" alt="(ref:orgev)" width="70%" />
+<p class="caption">(\#fig:organevolution)(ref:orgev)</p>
+</div>
 
 Given the ancient origin of most vertebrate organs, researchers have looked for model systems, where organs have evolved more recently, and ideally have evolved multiple times independently. An outstanding model for this kind of research is the placenta, which has evolved more than 100 times independently in vertebrates, has evolved relatively recently in some lineages, and exists in intermediate forms in extant taxa. Studies on the evolution of the placenta have identified a variety of genetic and physiological processes that contribute to the origin and evolution of organs, these include the re-purposing of existing animal tissues, the acquisition of new functional properties by these tissues, and novel interactions of distinct tissue types.
 
@@ -1240,14 +1326,10 @@ Bilateral animals have a variety of organ systems:
 
 (ref:humorg) [Selection of internal organs in human anatomy.](https://commons.wikimedia.org/wiki/File:Internal_organs.svg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Internal_organs} 
-
-}
-
-\caption{(ref:humorg)}(\#fig:humanorgans)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Internal_organs.svg" alt="(ref:humorg)" width="70%" />
+<p class="caption">(\#fig:humanorgans)(ref:humorg)</p>
+</div>
 
 ### The Integumentary System
 
@@ -1259,14 +1341,10 @@ The human skin (integument) is composed of at least two major layers of tissue: 
 
 (ref:skin) [Anatomy of human skin.](https://commons.wikimedia.org/wiki/File:Skin.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Skin} 
-
-}
-
-\caption{(ref:skin)}(\#fig:skin)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Skin.png" alt="(ref:skin)" width="70%" />
+<p class="caption">(\#fig:skin)(ref:skin)</p>
+</div>
 
 The epidermis is the top layer of skin made up of epithelial cells. It contains blood vessels. Its main functions are protection, absorption of nutrients, and homeostasis. In structure, it consists of a keratinized stratified squamous epithelium; four types of cells: keratinocytes, melanocytes, Merkel cells, and Langerhans cells. The major cell of the epidermis is the keratinocyte, which produces keratin, a fibrous protein that aids in skin protection. An overwhelming amount of keratin can cause disease by giving rise to eruptions from the skin that will protrude outwards and lead to infection.[citation needed] Keratin is also a waterproofing protein. Millions of dead keratinocytes rub off daily. The majority of the skin on the body is keratinized. The only skin on the body that is non-keratinized is the lining of mucous membranes, such as the inside of the mouth. Non-keratinized cells allow water to "stay" atop the structure.
 
@@ -1302,14 +1380,10 @@ It distinguishes, separates, and protects the organism from its surroundings. Sm
 
 (ref:hominidae) [All extant species of hominid:](https://commons.wikimedia.org/wiki/File:Hominidae_(extant_species).jpg) Top) Human, Middle) Common chimpanzee, bonobo, western gorilla & eastern gorilla, Bottom) Bornean, Sumatran & Tapanuli orangutan]
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Hominidae_(extant_species)} 
-
-}
-
-\caption{(ref:hominidae)}(\#fig:extanthomonidae)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Hominidae_(extant_species).jpg" alt="(ref:hominidae)" width="70%" />
+<p class="caption">(\#fig:extanthomonidae)(ref:hominidae)</p>
+</div>
 
 The study of human evolution involves several scientific disciplines, including physical anthropology, primatology, archaeology, paleontology, neurobiology, ethology, linguistics, evolutionary psychology, embryology and genetics. Genetic studies show that primates diverged from other mammals about 85 million years ago, in the Late Cretaceous period, and the earliest fossils appear in the Paleocene, around 55 million years ago.
 
@@ -1317,14 +1391,10 @@ Within the superfamily Hominoidea, the family [Hominidae](https://en.wikipedia.o
 
 (ref:homphylo) [Model of the phylogeny of Hominidae, with adjacent branches of Hominoidea, over the past 20 million years.](https://commons.wikimedia.org/wiki/File:Hominoidea_lineage.svg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Hominoidea_lineage} 
-
-}
-
-\caption{(ref:homphylo)}(\#fig:phylogenyhominidae)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Hominoidea_lineage.svg" alt="(ref:homphylo)" width="70%" />
+<p class="caption">(\#fig:phylogenyhominidae)(ref:homphylo)</p>
+</div>
 
 Human evolution from its first separation from the last common ancestor of humans and chimpanzees is characterized by a number of morphological, developmental, physiological, and behavioral changes. The most significant of these adaptations are bipedalism, increased brain size, lengthened ontogeny (gestation and infancy), and decreased sexual dimorphism. The relationship between these changes is the subject of ongoing debate. Other significant morphological changes included the evolution of a power and precision grip, a change first occurring in H. erectus.
 
@@ -1332,14 +1402,10 @@ Bipedalism is the basic adaptation of the hominid and is considered the main cau
 
 (ref:skelcomp) [From Thomas Huxley's 1863 Evidence as to Man's Place in Nature, the compared skeletons of apes to humans.](https://commons.wikimedia.org/wiki/File:Huxley_-_Mans_Place_in_Nature.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Huxley_-_Mans_Place_in_Nature} 
-
-}
-
-\caption{(ref:skelcomp)}(\#fig:skeletoncomparison)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Huxley_-_Mans_Place_in_Nature.jpg" alt="(ref:skelcomp)" width="70%" />
+<p class="caption">(\#fig:skeletoncomparison)(ref:skelcomp)</p>
+</div>
 
 The early bipeds eventually evolved into the australopithecines and still later into the genus Homo. There are several theories of the adaptation value of bipedalism. It is possible that bipedalism was favored because it freed the hands for reaching and carrying food, saved energy during locomotion, enabled long-distance running and hunting, provided an enhanced field of vision, and helped avoid hyperthermia by reducing the surface area exposed to direct sun; features all advantageous for thriving in the new savanna and woodland environment created as a result of the East African Rift Valley uplift versus the previous closed forest habitat. A 2007 study provides support for the hypothesis that walking on two legs, or bipedalism, evolved because it used less energy than quadrupedal knuckle-walking. However, recent studies suggest that bipedality without the ability to use fire would not have allowed global dispersal. This change in gait saw a lengthening of the legs proportionately when compared to the length of the arms, which were shortened through the removal of the need for brachiation. Another change is the shape of the big toe. Recent studies suggest that australopithecines still lived part of the time in trees as a result of maintaining a grasping big toe. This was progressively lost in habilines.
 
@@ -1409,14 +1475,10 @@ Anthropologists in the 1980s were divided regarding some details of reproductive
 
 (ref:humevo) [A model of the evolution of the genus Homo](https://en.wikipedia.org/wiki/Human_evolution#/media/File:Homo_lineage_2017update.svg) over the last 2 million years (vertical axis). The rapid "Out of Africa" expansion of H. sapiens is indicated at the top of the diagram, with admixture indicated with Neanderthals, Denisovans, and unspecified archaic African hominins. Late survival of robust australopithecines (Paranthropus) alongside Homo until 1.2 Mya is indicated in purple.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Homo_lineage_2017update} 
-
-}
-
-\caption{(ref:humevo)}(\#fig:humanevolution)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Homo_lineage_2017update.svg" alt="(ref:humevo)" width="70%" />
+<p class="caption">(\#fig:humanevolution)(ref:humevo)</p>
+</div>
 
 Recent evidence suggests that humans may have left Africa half a million years earlier than previously thought. A joint Franco-Indian team has found human artifacts in the Siwalk Hills north of New Delhi dating back at least 2.6 million years. This is earlier than the previous earliest finding of genus Homo at Dmanisi, in Georgia, dating to 1.85 million years. Although controversial, tools found at a Chinese cave strengthen the case that humans used tools as far back as 2.48 million years ago. This suggests that the Asian "Chopper" tool tradition, found in Java and northern China may have left Africa before the appearance of the Acheulian hand axe.
 
@@ -1432,14 +1494,10 @@ Recent sequencing of Neanderthal and Denisovan genomes shows that some admixture
 
 (ref:neander) [Dermoplastic reconstruction of a Neanderthal](https://commons.wikimedia.org/wiki/File:Neandertaler_reconst.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Neandertaler_reconst} 
-
-}
-
-\caption{(ref:neander)}(\#fig:neanderthal)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Neandertaler_reconst.jpg" alt="(ref:neander)" width="70%" />
+<p class="caption">(\#fig:neanderthal)(ref:neander)</p>
+</div>
 
 There are still differing theories on whether there was a single exodus from Africa or several. A multiple dispersal model involves the Southern Dispersal theory, which has gained support in recent years from genetic, linguistic and archaeological evidence. In this theory, there was a coastal dispersal of modern humans from the Horn of Africa crossing the Bab el Mandib to Yemen at a lower sea level around 70,000 years ago. This group helped to populate Southeast Asia and Oceania, explaining the discovery of early human sites in these areas much earlier than those in the Levant. This group seems to have been dependent upon marine resources for their survival.
 
@@ -1469,14 +1527,10 @@ During the next million years, a process of encephalization began and, by the ar
 
 (ref:ergaster) [Replica of fossil skull of Homo ergaster (African Homo erectus). Fossil number Khm-Heu 3733 discovered in 1975 in Kenya.](https://commons.wikimedia.org/wiki/File:Homo_ergaster.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Homo_ergaster} 
-
-}
-
-\caption{(ref:ergaster)}(\#fig:homoergaster)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Homo_ergaster.jpg" alt="(ref:ergaster)" width="70%" />
+<p class="caption">(\#fig:homoergaster)(ref:ergaster)</p>
+</div>
 
 The earliest transitional fossils between H. ergaster/erectus and archaic H. sapiens are from Africa, such as Homo rhodesiensis. These descendants of African H. erectus spread through Eurasia from ca. 500,000 years ago, evolving into H. antecessor, H. heidelbergensis and H. neanderthalensis. The earliest fossils of anatomically modern humans are from the Middle Paleolithic, about 300–200,000 years ago such as the Herto and Omo remains of Ethiopia, Jebel Irhoud remains of Morocco, and Florisbad remains of South Africa; later fossils from Es Skhul cave in Israel and Southern Europe begin around 90,000 years ago (0.09 million years ago).
 
@@ -1532,14 +1586,10 @@ The earliest documented representative of the genus Homo is Homo habilis, which 
 
 (ref:habilis) [Replica of fossil skull of Homo habilis. Fossil number KNM ER 1813, found at Koobi Fora, Kenya.](https://commons.wikimedia.org/wiki/File:Homo_habilis-KNM_ER_1813.jpg) 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Homo_habilis-KNM_ER_1813} 
-
-}
-
-\caption{(ref:habilis)}(\#fig:homohabilis)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Homo_habilis-KNM_ER_1813.jpg" alt="(ref:habilis)" width="70%" />
+<p class="caption">(\#fig:homohabilis)(ref:habilis)</p>
+</div>
 
 According to the recent African origin of modern humans theory, modern humans evolved in Africa possibly from Homo heidelbergensis, Homo rhodesiensis or Homo antecessor and migrated out of the continent some 50,000 to 100,000 years ago, gradually replacing local populations of Homo erectus, Denisova hominins, Homo floresiensis, Homo luzonensis and Homo neanderthalensis. Archaic Homo sapiens, the forerunner of anatomically modern humans, evolved in the Middle Paleolithic between 400,000 and 250,000 years ago. Recent DNA evidence suggests that several haplotypes of Neanderthal origin are present among all non-African populations, and Neanderthals and other hominins, such as Denisovans, may have contributed up to 6% of their genome to present-day humans, suggestive of a limited interbreeding between these species. The transition to behavioral modernity with the development of symbolic culture, language, and specialized lithic technology happened around 50,000 years ago, according to some anthropologists, although others point to evidence that suggests that a gradual change in behavior took place over a longer time span.
 
@@ -1633,14 +1683,10 @@ Many species make and use tools, but it is the human genus that dominates the ar
 
 (ref:oldo) [Oldowan-tradition stone chopper.](https://commons.wikimedia.org/wiki/File:Oldowan_tradition_chopper.jpg)
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Oldowan_tradition_chopper} 
-
-}
-
-\caption{(ref:oldo)}(\#fig:oldowan)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Oldowan_tradition_chopper.jpg" alt="(ref:oldo)" width="70%" />
+<p class="caption">(\#fig:oldowan)(ref:oldo)</p>
+</div>
 
 Bernard Wood noted that Paranthropus co-existed with the early Homo species in the area of the "Oldowan Industrial Complex" over roughly the same span of time. Although there is no direct evidence which identifies Paranthropus as the tool makers, their anatomy lends to indirect evidence of their capabilities in this area. Most paleoanthropologists agree that the early Homo species were indeed responsible for most of the Oldowan tools found. They argue that when most of the Oldowan tools were found in association with human fossils, Homo was always present, but Paranthropus was not.
 
@@ -1660,14 +1706,10 @@ Modern humans started burying their dead, using animal hides to make clothing, h
 
 (ref:aurignac) [Aurignacian Culture bone tools (needdle, points and tools for punching holes), Hayonim Cave, 30000 BP (Before Present).](https://commons.wikimedia.org/wiki/File:Aurignacian_Culture_Bone_Tools,_Hayonim_Cave,_30000_BP.jpg) HaYonim Cave (Hebrew: מערת היונים, Me'arat HaYonim, lit. Cave of the Pigeons) is a cave located in a limestone bluff about 250 meters above modern sea level, in the Upper Galilee, Israel.
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.7\linewidth]{./figures/animals/Aurignacian_Culture_Bone_Tools,_Hayonim_Cave,_30000_BP} 
-
-}
-
-\caption{(ref:aurignac)}(\#fig:aurignactools)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="./figures/animals/Aurignacian_Culture_Bone_Tools,_Hayonim_Cave,_30000_BP.jpg" alt="(ref:aurignac)" width="70%" />
+<p class="caption">(\#fig:aurignactools)(ref:aurignac)</p>
+</div>
 
 Among concrete examples of modern human behavior, anthropologists include specialization of tools, use of jewellery and images (such as cave drawings), organization of living space, rituals (for example, burials with grave gifts), specialized hunting techniques, exploration of less hospitable geographical areas, and barter trade networks. Debate continues as to whether a "revolution" led to modern humans ("the big bang of human consciousness"), or whether the evolution was more "gradual".
 
