@@ -36,7 +36,7 @@ The formation of adenosine triphosphate (ATP) by the movement of hydrogen ions (
 
 Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy that can later be released to fuel the organisms' activities. This chemical energy is stored in carbohydrate molecules, such as sugars, which are synthesized from carbon dioxide and water – hence the name photosynthesis, from the Greek phōs (φῶς), "light", and sunthesis (σύνθεσις), "putting together". In most cases, oxygen is also released as a waste product. Most plants, most algae, and cyanobacteria perform photosynthesis; such organisms are called photoautotrophs. Photosynthesis is largely responsible for producing and maintaining the oxygen content of the Earth's atmosphere, and supplies most of the energy necessary for life on Earth.
 
-(ref:simplephoto) [Photosynthesis changes sunlight into chemical energy, splits water to liberate O2, and fixes CO2 into sugar.](https://commons.wikimedia.org/wiki/File:Simple_photosynthesis_overview.svg) 
+(ref:simplephoto) [Photosynthesis changes sunlight into chemical energy, splits water to liberate O2, and fixes CO~2~ into sugar.](https://commons.wikimedia.org/wiki/File:Simple_photosynthesis_overview.svg) 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/photosynthesis/Simple_photosynthesis_overview.svg" alt="(ref:simplephoto)" width="70%" />
