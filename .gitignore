@@ -5,3 +5,4 @@
 *.pse
 *.pdf
 *.md
+!README.md
