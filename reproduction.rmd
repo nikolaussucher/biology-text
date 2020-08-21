@@ -143,7 +143,7 @@ library(tidyverse)
 library(printr)        
 library(kableExtra)
 
-setwd("~/Dropbox/R/genetics-textbook-master")
+setwd("~/Dropbox/R/biology-text-master")
 
 terminology <-  as.tibble(read.csv("data/heteroploidy.csv"))
 

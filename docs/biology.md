@@ -99,7 +99,7 @@ Since its primordial beginnings, life on Earth has changed its environment on a 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/life/Celltypes.svg" alt="(ref:celltypes)" width="70%" />
-<p class="caption">(\#fig:celltypecartoon )(ref:celltypes)</p>
+<p class="caption">(\#fig:celltypecartoon)(ref:celltypes)</p>
 </div>
 
 ## Foundations of Modern Biology

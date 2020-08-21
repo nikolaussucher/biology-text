@@ -414,25 +414,25 @@
 \contentsline {subsection}{\numberline {19.4.1}Epithelial tissue}{443}{subsection.19.4.1}%
 \contentsline {subsection}{\numberline {19.4.2}Connective tissue}{444}{subsection.19.4.2}%
 \contentsline {subsection}{\numberline {19.4.3}Muscular tissue}{444}{subsection.19.4.3}%
-\contentsline {subsection}{\numberline {19.4.4}Nervous tissue}{444}{subsection.19.4.4}%
-\contentsline {subsection}{\numberline {19.4.5}The Integumentary System}{446}{subsection.19.4.5}%
-\contentsline {section}{\numberline {19.5}Human evolution}{448}{section.19.5}%
-\contentsline {subsection}{\numberline {19.5.1}Human Dispersal}{454}{subsection.19.5.1}%
-\contentsline {subsection}{\numberline {19.5.2}Evidence of Human Evolution}{456}{subsection.19.5.2}%
-\contentsline {subsection}{\numberline {19.5.3}Early Evolution of Primates}{460}{subsection.19.5.3}%
-\contentsline {subsection}{\numberline {19.5.4}Divergence of The Human Clade From Other Great Apes}{460}{subsection.19.5.4}%
-\contentsline {subsection}{\numberline {19.5.5}Genus Australopithecus}{461}{subsection.19.5.5}%
-\contentsline {subsection}{\numberline {19.5.6}Evolution of Genus Homo}{461}{subsection.19.5.6}%
-\contentsline {subsection}{\numberline {19.5.7}H. habilis and H. gautengensis}{463}{subsection.19.5.7}%
-\contentsline {subsection}{\numberline {19.5.8}H. rudolfensis and H. georgicus}{463}{subsection.19.5.8}%
-\contentsline {subsection}{\numberline {19.5.9}H. ergaster and H. erectus}{463}{subsection.19.5.9}%
-\contentsline {subsection}{\numberline {19.5.10}H. cepranensis and H. antecessor}{464}{subsection.19.5.10}%
-\contentsline {subsection}{\numberline {19.5.11}H. heidelbergensis}{464}{subsection.19.5.11}%
-\contentsline {subsection}{\numberline {19.5.12}H. rhodesiensis, and the Gawis cranium}{464}{subsection.19.5.12}%
-\contentsline {subsection}{\numberline {19.5.13}Neanderthal and Denisovan}{464}{subsection.19.5.13}%
-\contentsline {subsection}{\numberline {19.5.14}H. floresiensis}{465}{subsection.19.5.14}%
-\contentsline {subsection}{\numberline {19.5.15}H. luzonensis}{466}{subsection.19.5.15}%
-\contentsline {subsection}{\numberline {19.5.16}H. sapiens}{466}{subsection.19.5.16}%
+\contentsline {subsection}{\numberline {19.4.4}Nervous tissue}{445}{subsection.19.4.4}%
+\contentsline {subsection}{\numberline {19.4.5}The Integumentary System}{447}{subsection.19.4.5}%
+\contentsline {section}{\numberline {19.5}Human evolution}{450}{section.19.5}%
+\contentsline {subsection}{\numberline {19.5.1}Human Dispersal}{455}{subsection.19.5.1}%
+\contentsline {subsection}{\numberline {19.5.2}Evidence of Human Evolution}{458}{subsection.19.5.2}%
+\contentsline {subsection}{\numberline {19.5.3}Early Evolution of Primates}{461}{subsection.19.5.3}%
+\contentsline {subsection}{\numberline {19.5.4}Divergence of The Human Clade From Other Great Apes}{461}{subsection.19.5.4}%
+\contentsline {subsection}{\numberline {19.5.5}Genus Australopithecus}{462}{subsection.19.5.5}%
+\contentsline {subsection}{\numberline {19.5.6}Evolution of Genus Homo}{462}{subsection.19.5.6}%
+\contentsline {subsection}{\numberline {19.5.7}H. habilis and H. gautengensis}{464}{subsection.19.5.7}%
+\contentsline {subsection}{\numberline {19.5.8}H. rudolfensis and H. georgicus}{464}{subsection.19.5.8}%
+\contentsline {subsection}{\numberline {19.5.9}H. ergaster and H. erectus}{464}{subsection.19.5.9}%
+\contentsline {subsection}{\numberline {19.5.10}H. cepranensis and H. antecessor}{465}{subsection.19.5.10}%
+\contentsline {subsection}{\numberline {19.5.11}H. heidelbergensis}{465}{subsection.19.5.11}%
+\contentsline {subsection}{\numberline {19.5.12}H. rhodesiensis, and the Gawis cranium}{465}{subsection.19.5.12}%
+\contentsline {subsection}{\numberline {19.5.13}Neanderthal and Denisovan}{465}{subsection.19.5.13}%
+\contentsline {subsection}{\numberline {19.5.14}H. floresiensis}{466}{subsection.19.5.14}%
+\contentsline {subsection}{\numberline {19.5.15}H. luzonensis}{467}{subsection.19.5.15}%
+\contentsline {subsection}{\numberline {19.5.16}H. sapiens}{467}{subsection.19.5.16}%
 \contentsline {chapter}{\numberline {20}Circulatory Systems}{471}{chapter.20}%
 \contentsline {section}{\numberline {20.1}Closed Circulatory System}{471}{section.20.1}%
 \contentsline {section}{\numberline {20.2}Open Circulatory Systems}{472}{section.20.2}%

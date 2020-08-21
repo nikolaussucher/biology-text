@@ -106,7 +106,7 @@ In the hypothalamic–adenohypophyseal axis, releasing hormones, also known as h
    <td style="text-align:left;"> Stimulate follicle-stimulating hormone (FSH) release from anterior pituitary Stimulate luteinizing hormone (LH) release from anterior pituitary </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Somatostatin[22] (growth-hormone-inhibiting hormone) </td>
+   <td style="text-align:left;"> Somatostatin (growth-hormone-inhibiting hormone) </td>
    <td style="text-align:left;"> SS, GHIH, or SRIF </td>
    <td style="text-align:left;"> Neuroendocrine cells of the Periventricular nucleus </td>
    <td style="text-align:left;"> Inhibit growth-hormone (GH) release from anterior pituitary Inhibit (moderately) thyroid-stimulating hormone (TSH) release from anterior pituitary </td>

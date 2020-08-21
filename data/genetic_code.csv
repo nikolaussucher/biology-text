@@ -1,0 +1,17 @@
+ ,U,C,A,G,
+U,UUU Phenylalanine (Phe),UCU Serine (Ser),UAU Tyrosine (Tyr),UGU Cysteine (Cys),U
+U,UUC Phe,UCC Ser,UAC Tyr,UGC Cys,C
+U,UUA Leucine (Leu),UCA Ser,UAA STOP,UGA STOP,A
+U,UUG Leu,UCG Ser,UAG STOP,UGG Tryptophan (Trp),G
+C,CUU Leucine (Leu),CCU Proline (Pro),CAU Histidine (His),CGU Arginine (Arg),U
+C,CUC Leu,CCC Pro,CAC His,CGC Arg,C
+C,CUA Leu,CCA Pro,CAA Glutamine (Gln),CGA Arg,A
+C,CUG Leu,CCG Pro,CAG Gln,CGG Arg,G
+A,AUU Isoleucine (Ile),ACU Threonine (Thr),AAU Asparagine (Asn),AGU Serine (Ser),U
+A,AUC Ile,ACC Thr,AAC Asn,AGC Ser,C
+A,AUA Ile,ACA Thr,AAA Lysine (Lys),AGA Arginine (Arg),A
+A,AUG Methionine (Met) or START,ACG Thr,AAG Lys,AGG Arg,G
+G,GUU Valine Val,GCU Alanine (Ala),GAU Aspartic acid (Asp),GGU Glycine (Gly),U
+G,GUC (Val),GCC Ala,GAC Asp,GGC Gly,C
+G,GUA Val,GCA Ala,GAA Glutamic acid (Glu),GGA Gly,A
+G,GUG Val,GCG Ala,GAG Glu,GGG Gly,G

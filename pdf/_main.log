@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  20 AUG 2020 20:41
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  20 AUG 2020 21:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1070,10 +1070,10 @@ Underfull \vbox (badness 1902) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
-[21] [22]
-Underfull \vbox (badness 1226) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23]
+ [21]
+[22] [23]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
@@ -1474,7 +1474,7 @@ Underfull \vbox (badness 3930) has occurred while \output is active []
 File: ./figures/reproduction/Meiosis_Stages.png Graphic file (type bmp)
 <./figures/reproduction/Meiosis_Stages.png>
  [176] [177] [178]
-Overfull \hbox (7.69218pt too wide) in paragraph at lines 3900--3900
+Overfull \hbox (7.69218pt too wide) in paragraph at lines 3911--3911
 []|\TU/LucidaGrande(0)/m/n/10 Tetrasomy/pentasomy|  
  []
 
@@ -1517,7 +1517,7 @@ File: ./figures/mendel/Monohybrid_cross.png Graphic file (type bmp)
 File: ./figures/mendel/Dihybrid_cross.png Graphic file (type bmp)
 <./figures/mendel/Dihybrid_cross.png>
 
-Underfull \hbox (badness 3701) in paragraph at lines 4315--4317
+Underfull \hbox (badness 3701) in paragraph at lines 4326--4328
 []\TU/LucidaGrande(0)/m/n/10 Colour blindness (monochromatism, dichromatism, an
 omalous trichromatism, tritanopia, deuteranopia,
  []
@@ -1557,7 +1557,7 @@ File: ./figures/replication/DNA_polymerase.jpg Graphic file (type bmp)
 <./figures/replication/DNA_polymerase.jpg>
 
 
-LaTeX Warning: Float too large for page by 45.99396pt on input line 4579.
+LaTeX Warning: Float too large for page by 45.99396pt on input line 4590.
 
 [206] [207] [208] [209] [210] [211] [212]
 Underfull \vbox (badness 1558) has occurred while \output is active []
@@ -1582,7 +1582,7 @@ File: ./figures/translation/Ribosome_mRNA_translation_en.jpg Graphic file (type
 <./figures/translation/Ribosome_mRNA_translation_en.jpg>
  [229] [230]
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
-(Font)              scaled to size 5.6484pt on input line 5199.
+(Font)              scaled to size 5.6484pt on input line 5210.
  [231] [232] [233] [234] [235] [236]
 File: ./figures/molecular_biology/Crispr.png Graphic file (type bmp)
 <./figures/molecular_biology/Crispr.png>
@@ -1592,7 +1592,7 @@ File: ./figures/molecular_biology/Crispr.png Graphic file (type bmp)
 ]
 Chapter 12.
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/it' will be
-(Font)              scaled to size 12.04958pt on input line 5421.
+(Font)              scaled to size 12.04958pt on input line 5432.
 [241]
 File: ./figures/regulation/Lac_operon1.png Graphic file (type bmp)
 <./figures/regulation/Lac_operon1.png>
@@ -1629,7 +1629,7 @@ File: ./figures/bacteria/Bacillus_subtilis_Spore.jpg Graphic file (type bmp)
 File: ./figures/bacteria/Endospore_Formation.png Graphic file (type bmp)
 <./figures/bacteria/Endospore_Formation.png>
 
-Overfull \hbox (326.06465pt too wide) in paragraph at lines 5812--5821
+Overfull \hbox (326.06465pt too wide) in paragraph at lines 5823--5832
  [][] 
  []
 
@@ -1641,7 +1641,7 @@ Underfull \vbox (badness 3229) has occurred while \output is active []
 
  [260]
 [261] [262] [263] [264]
-Overfull \hbox (742.2118pt too wide) in paragraph at lines 5949--5965
+Overfull \hbox (742.2118pt too wide) in paragraph at lines 5960--5976
  [][] 
  []
 
@@ -1649,7 +1649,7 @@ Overfull \hbox (742.2118pt too wide) in paragraph at lines 5949--5965
 File: ./figures/bacteria/Archaea_membrane.png Graphic file (type bmp)
 <./figures/bacteria/Archaea_membrane.png>
  [268] [269]
-Overfull \hbox (71.87971pt too wide) in paragraph at lines 6051--6060
+Overfull \hbox (71.87971pt too wide) in paragraph at lines 6062--6071
  [][] 
  []
 
@@ -1684,7 +1684,7 @@ File: ./figures/protista/Protist_collage_2.jpg Graphic file (type bmp)
 File: ./figures/protista/Haeckel_arbol_bn.png Graphic file (type bmp)
 <./figures/protista/Haeckel_arbol_bn.png>
 
-Overfull \hbox (222.80441pt too wide) in paragraph at lines 6385--6396
+Overfull \hbox (222.80441pt too wide) in paragraph at lines 6396--6407
  [][] 
  []
 
@@ -1692,7 +1692,7 @@ Overfull \hbox (222.80441pt too wide) in paragraph at lines 6385--6396
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [287] [288] [289] [290]
-Overfull \hbox (71.24634pt too wide) in paragraph at lines 6428--6436
+Overfull \hbox (71.24634pt too wide) in paragraph at lines 6439--6447
  [][] 
  []
 
@@ -1725,7 +1725,7 @@ File: ./figures/protista/Dictyostelium_Fruiting_Bodies.jpg Graphic file (type b
 mp)
 <./figures/protista/Dictyostelium_Fruiting_Bodies.jpg>
 
-Underfull \hbox (badness 1163) in paragraph at lines 6772--6772
+Underfull \hbox (badness 1163) in paragraph at lines 6783--6783
 []\TU/LucidaGrande(0)/b/n/10 Figure 14.11: |\TU/LucidaGrande(0)/m/n/10 Dictyost
 elium Fruiting Body[][][] Dictyostelium is a genus of single- and multi-celled 
 eukaryotic,
@@ -1806,7 +1806,7 @@ File: ./figures/plants/Diversity_of_plants_image_version_5.png Graphic file (ty
 pe bmp)
 <./figures/plants/Diversity_of_plants_image_version_5.png>
 
-Overfull \hbox (1980.68515pt too wide) in paragraph at lines 7693--7703
+Overfull \hbox (1980.68515pt too wide) in paragraph at lines 7704--7714
  [][] 
  []
 
@@ -1820,7 +1820,7 @@ File: ./figures/plants/seeds_diversity.jpg Graphic file (type bmp)
 File: ./figures/plants/Flower_poster_2.jpg Graphic file (type bmp)
 <./figures/plants/Flower_poster_2.jpg>
 
-Overfull \hbox (2384.07146pt too wide) in paragraph at lines 7959--7972
+Overfull \hbox (2384.07146pt too wide) in paragraph at lines 7970--7983
  [][] 
  []
 
@@ -1870,7 +1870,7 @@ File: ./figures/animals/Trichoplax_adhaerens_photograph.png Graphic file (type
 bmp)
 <./figures/animals/Trichoplax_adhaerens_photograph.png>
 
-Overfull \hbox (120.54735pt too wide) in paragraph at lines 8623--8642
+Overfull \hbox (120.54735pt too wide) in paragraph at lines 8634--8653
  [][] 
  []
 
@@ -1892,7 +1892,7 @@ File: ./figures/animals/Choanoflagellate_and_choanocyte.png Graphic file (type
 bmp)
 <./figures/animals/Choanoflagellate_and_choanocyte.png>
  [397] [398] [399]
-Overfull \hbox (417.9201pt too wide) in paragraph at lines 8784--8794
+Overfull \hbox (417.9201pt too wide) in paragraph at lines 8795--8805
  [][] 
  []
 
@@ -1904,7 +1904,7 @@ File: ./figures/animals/Pelagic_ctenophores.png Graphic file (type bmp)
 <./figures/animals/Pelagic_ctenophores.png>
 
 [401] [402]
-Overfull \hbox (141.87357pt too wide) in paragraph at lines 8843--8856
+Overfull \hbox (141.87357pt too wide) in paragraph at lines 8854--8867
  [][] 
  []
 
@@ -1920,7 +1920,7 @@ File: ./figures/animals/Bilaterian_body_plan.png Graphic file (type bmp)
 File: ./figures/animals/Xenoturbella_japonica.jpg Graphic file (type bmp)
 <./figures/animals/Xenoturbella_japonica.jpg>
 
-Overfull \hbox (699.11569pt too wide) in paragraph at lines 8979--8996
+Overfull \hbox (699.11569pt too wide) in paragraph at lines 8990--9007
  [][] 
  []
 
@@ -1982,7 +1982,7 @@ File: ./figures/animals/Pseudoceros_dimidiatus.jpg Graphic file (type bmp)
 
 [431] [432]
 
-LaTeX Warning: Reference `fig:schisto' on page 433 undefined on input line 9528
+LaTeX Warning: Reference `fig:schisto' on page 433 undefined on input line 9539
 .
 
 [433]
@@ -2011,7 +2011,7 @@ e (type bmp)
 File: ./figures/animals/Argopecten_irradians.jpg Graphic file (type bmp)
 <./figures/animals/Argopecten_irradians.jpg>
  [437] [438] [439]
-Overfull \hbox (476.81734pt too wide) in paragraph at lines 9660--9674
+Overfull \hbox (476.81734pt too wide) in paragraph at lines 9671--9685
  [][] 
  []
 
@@ -2020,6 +2020,8 @@ File: ./figures/animals/Earthworm.jpg Graphic file (type bmp)
 [440] [441]
 File: ./figures/animals/Sucking_leech.jpg Graphic file (type bmp)
 <./figures/animals/Sucking_leech.jpg>
+File: ./figures/animals/Nereis_virens.jpg Graphic file (type bmp)
+<./figures/animals/Nereis_virens.jpg>
 
 Underfull \vbox (badness 1997) has occurred while \output is active []
 
@@ -2031,43 +2033,45 @@ File: ./figures/animals/epithelium.png Graphic file (type bmp)
 File: ./figures/animals/Origin_of_major_organs_on_the_animal_phylogeny.jpg Grap
 hic file (type bmp)
 <./figures/animals/Origin_of_major_organs_on_the_animal_phylogeny.jpg>
- [445]
+ [445] [446]
 File: ./figures/animals/Internal_organs.png Graphic file (type bmp)
 <./figures/animals/Internal_organs.png>
- [446]
 File: ./figures/animals/Skin.png Graphic file (type bmp)
 <./figures/animals/Skin.png>
- [447]
+ [447] [448]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [449]
 File: ./figures/animals/Hominidae_(extant_species).jpg Graphic file (type bmp)
 <./figures/animals/Hominidae_(extant_species).jpg>
- [448] [449]
 File: ./figures/animals/Hominoidea_lineage.png Graphic file (type bmp)
 <./figures/animals/Hominoidea_lineage.png>
+
+[450]
 File: ./figures/animals/Huxley_-_Mans_Place_in_Nature.jpg Graphic file (type bm
 p)
 <./figures/animals/Huxley_-_Mans_Place_in_Nature.jpg>
- [450] [451] [452] [453]
+ [451] [452] [453] [454]
 File: ./figures/animals/Homo_lineage_2017update.png Graphic file (type bmp)
 <./figures/animals/Homo_lineage_2017update.png>
- [454]
-[455]
+ [455]
 File: ./figures/animals/Neandertaler_reconst.jpg Graphic file (type bmp)
 <./figures/animals/Neandertaler_reconst.jpg>
- [456] [457]
+ [456] [457] [458]
 File: ./figures/animals/Homo_ergaster.jpg Graphic file (type bmp)
 <./figures/animals/Homo_ergaster.jpg>
- [458] [459] [460] [461]
+ [459] [460] [461]
 File: ./figures/animals/Homo_habilis-KNM_ER_1813.jpg Graphic file (type bmp)
 <./figures/animals/Homo_habilis-KNM_ER_1813.jpg>
- [462] [463] [464] [465]
+
+[462] [463] [464] [465] [466]
 File: ./figures/animals/Oldowan_tradition_chopper.jpg Graphic file (type bmp)
 <./figures/animals/Oldowan_tradition_chopper.jpg>
- [466]
-[467]
+ [467] [468]
 File: ./figures/animals/Aurignacian_Culture_Bone_Tools,_Hayonim_Cave,_30000_BP.
 jpg Graphic file (type bmp)
 <./figures/animals/Aurignacian_Culture_Bone_Tools,_Hayonim_Cave,_30000_BP.jpg>
- [468] [469] [470]
+ [469] [470]
 Chapter 20.
 [471
 
@@ -2148,7 +2152,7 @@ File: ./figures/immune/Antigen_presentation.png Graphic file (type bmp)
 File: ./figures/immune/T_cell_activation.png Graphic file (type bmp)
 <./figures/immune/T_cell_activation.png>
  [505] [506]
-Underfull \hbox (badness 1360) in paragraph at lines 11186--11188
+Underfull \hbox (badness 1360) in paragraph at lines 11207--11209
 []\TU/LucidaGrande(0)/m/n/10 Antibody-dependent cell-mediated cytotoxicity: Ant
 ibodies attached to target cell cause destruction by
  []
@@ -2253,7 +2257,7 @@ Chapter 25.
 File: ./figures/nervoussystem/NervousSystem.jpg Graphic file (type bmp)
 <./figures/nervoussystem/NervousSystem.jpg>
 
-LaTeX Warning: Float too large for page by 21.99594pt on input line 12065.
+LaTeX Warning: Float too large for page by 21.99594pt on input line 12086.
 
 File: ./figures/nervoussystem/CajalNerve.jpg Graphic file (type bmp)
 <./figures/nervoussystem/CajalNerve.jpg>
@@ -2265,7 +2269,7 @@ File: ./figures/nervoussystem/RabbitPyramidalCellCajalMetodos.jpg Graphic file
 <./figures/nervoussystem/RabbitPyramidalCellCajalMetodos.jpg>
 
 
-LaTeX Warning: Float too large for page by 45.99838pt on input line 12111.
+LaTeX Warning: Float too large for page by 45.99838pt on input line 12132.
 
 [558] [559]
 File: ./figures/nervoussystem/invertebrate_nervoussystems.png Graphic file (typ
@@ -2317,10 +2321,10 @@ File: ./figures/potential/ligand_gated_ion_channels.png Graphic file (type bmp)
 
 <./figures/potential/ligand_gated_ion_channels.png>
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
-(Font)              scaled to size 4.07913pt on input line 12764.
+(Font)              scaled to size 4.07913pt on input line 12785.
  [591] [592]
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/it' will be
-(Font)              scaled to size 5.6484pt on input line 12798.
+(Font)              scaled to size 5.6484pt on input line 12819.
  [593]
 File: ./figures/potential/ActionPotential.png Graphic file (type bmp)
 <./figures/potential/ActionPotential.png>
@@ -2354,7 +2358,7 @@ File: ./figures/sensation/PhotorecptorsCajalManual.jpg Graphic file (type bmp)
 <./figures/sensation/PhotorecptorsCajalManual.jpg>
 
 
-LaTeX Warning: Float too large for page by 33.98257pt on input line 13343.
+LaTeX Warning: Float too large for page by 33.98257pt on input line 13364.
 
 [615] [616] [617]
 File: ./figures/sensation/Visual_cycle.png Graphic file (type bmp)
@@ -2386,19 +2390,19 @@ File: ./figures/sensation/TRPV1.png Graphic file (type bmp)
 <./figures/sensation/TRPV1.png>
 
 
-LaTeX Warning: Float too large for page by 20.46864pt on input line 13890.
+LaTeX Warning: Float too large for page by 20.46864pt on input line 13911.
 
 [636] [637]
 File: ./figures/sensation/CajalMuscleSpindle.jpg Graphic file (type bmp)
 <./figures/sensation/CajalMuscleSpindle.jpg>
 
 
-LaTeX Warning: Float too large for page by 45.97235pt on input line 13919.
+LaTeX Warning: Float too large for page by 45.97235pt on input line 13940.
 
 File: ./figures/sensation/CajalGolgiTendon.jpg Graphic file (type bmp)
 <./figures/sensation/CajalGolgiTendon.jpg>
 
-LaTeX Warning: Float too large for page by 45.9998pt on input line 13937.
+LaTeX Warning: Float too large for page by 45.9998pt on input line 13958.
 
 [638] [639] [640] [641]
 File: ./figures/sensation/GrayP572.jpg Graphic file (type bmp)
@@ -2440,17 +2444,17 @@ File: ./figures/locomotion/Human_skull_side_simplified_(bones).png Graphic file
 <./figures/locomotion/Human_skull_side_simplified_(bones).png>
 
 
-LaTeX Warning: Float too large for page by 6.48914pt on input line 14374.
+LaTeX Warning: Float too large for page by 6.48914pt on input line 14395.
 
 File: ./figures/locomotion/Human_skeleton_front_en.png Graphic file (type bmp)
 <./figures/locomotion/Human_skeleton_front_en.png>
 
-LaTeX Warning: Float too large for page by 6.48914pt on input line 14389.
+LaTeX Warning: Float too large for page by 6.48914pt on input line 14410.
 
 File: ./figures/locomotion/Human_skeleton_back_en.png Graphic file (type bmp)
 <./figures/locomotion/Human_skeleton_back_en.png>
 
-LaTeX Warning: Float too large for page by 6.48914pt on input line 14402.
+LaTeX Warning: Float too large for page by 6.48914pt on input line 14423.
 
 File: ./figures/locomotion/Axial_skeleton_diagram.png Graphic file (type bmp)
 <./figures/locomotion/Axial_skeleton_diagram.png>
@@ -2484,7 +2488,7 @@ phic file (type bmp)
 <./figures/locomotion/1105_Anterior_and_Posterior_Views_of_Muscles.jpg>
 
 
-LaTeX Warning: Float too large for page by 58.01343pt on input line 14616.
+LaTeX Warning: Float too large for page by 58.01343pt on input line 14637.
 
 [672] [673] [674] [675] [676]
 File: ./figures/locomotion/1009_Motor_End_Plate_and_Innervation.jpg Graphic fil
@@ -2514,7 +2518,7 @@ File: ./figures/endocrine/1806_The_Hypothalamus-Pituitary_Complex.jpg Graphic f
 ile (type bmp)
 <./figures/endocrine/1806_The_Hypothalamus-Pituitary_Complex.jpg>
 
-Overfull \hbox (727.73576pt too wide) in paragraph at lines 14838--14851
+Overfull \hbox (727.73576pt too wide) in paragraph at lines 14859--14872
  [][] 
  []
 
@@ -2522,7 +2526,7 @@ Overfull \hbox (727.73576pt too wide) in paragraph at lines 14838--14851
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (937.66776pt too wide) in paragraph at lines 14859--14867
+Overfull \hbox (937.66776pt too wide) in paragraph at lines 14880--14888
  [][] 
  []
 
@@ -2554,7 +2558,7 @@ File: ./figures/reproductive_system/Figure_28_02_07.jpg Graphic file (type bmp)
 <./figures/reproductive_system/Figure_28_02_07.jpg>
 
 
-LaTeX Warning: Float too large for page by 22.03136pt on input line 15089.
+LaTeX Warning: Float too large for page by 22.03136pt on input line 15110.
 
 [697]
 File: ./figures/reproductive_system/male anatomy.png Graphic file (type bmp)
@@ -2619,12 +2623,12 @@ File: ./figures/development/Human_embryo_8_weeks_4.jpg Graphic file (type bmp)
 <./figures/development/Human_embryo_8_weeks_4.jpg>
 
 [717] [718] [719]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 15579.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 15600.
  [720]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 15579.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 15600.
  (./_main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 15579.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 15579
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 15600.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 15600
 .
 Package rerunfilecheck Info: File `_main.out' has not changed.
 (rerunfilecheck)             Checksum: 498F6CAF095378EA93D5CC549303D38B;16312.
@@ -2637,10 +2641,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 26773 strings out of 479418
- 620602 string characters out of 5884586
- 1017208 words of memory out of 5000000
- 43481 multiletter control sequences out of 15000+600000
+ 26787 strings out of 479418
+ 621061 string characters out of 5884586
+ 1017479 words of memory out of 5000000
+ 43494 multiletter control sequences out of 15000+600000
  568343 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,19n,121p,5032b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
