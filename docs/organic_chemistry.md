@@ -350,7 +350,7 @@ In biology and biochemistry, a [lipid](https://en.wikipedia.org/wiki/Lipid) is a
 (ref:comlip) [Structures of some common lipids.](https://commons.wikimedia.org/wiki/File:Common_lipids_lmaps.png) At the top are cholesterol and oleic acid. The middle structure is a triglyceride composed of oleoyl, stearoyl, and palmitoyl chains attached to a glycerol backbone. At the bottom is the common phospholipid phosphatidylcholine.
 
 <div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Common_lipids_lmaps.png" alt="(ref:comlip)" width="70%" />
+<img src="./figures/chemistry/Lipids.svg" alt="(ref:comlip)" width="70%" />
 <p class="caption">(\#fig:commonlipids)(ref:comlip)</p>
 </div>
 

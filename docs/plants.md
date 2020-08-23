@@ -194,7 +194,7 @@ In addition to the taxa listed above, the fossil record contains evidence of man
 
 The gymnosperms, also known as Acrogymnospermae, are a group of seed-producing plants that includes conifers, cycads, Ginkgo, and gnetophytes. The term "gymnosperm" comes from the composite word in Greek: γυμνόσπερμος (γυμνός, gymnos, 'naked' and σπέρμα, sperma, 'seed'), literally meaning "naked seeds". The name is based on the unenclosed condition of their seeds (called ovules in their unfertilized state). The non-encased condition of their seeds contrasts with the seeds and ovules of flowering plants (angiosperms), which are enclosed within an ovary. Gymnosperm seeds develop either on the surface of scales or leaves, which are often modified to form cones, or solitary as in yew, Torreya, Ginkgo.
 
-(ref:gymno) [Various gymnosperms Left 1-i*Welwitschia mirabilis* 2-*Cycas revoluta* 3-*Taxus baccata* 4-*Gingko biloba* RIGHT 1-*Cupressus sempervirens* 2-*Sequoiadendron giganteum* 3-*Dammara orientalis* 4-*Araucaria heterophylla*](https://commons.wikimedia.org/wiki/File:Gymnospermae.jpg) 
+(ref:gymno) [Various gymnosperms Left 1 *Welwitschia mirabilis* 2 *Cycas revoluta* 3 *Taxus baccata* 4 *Gingko biloba* RIGHT 1 *Cupressus sempervirens* 2 *Sequoiadendron giganteum* 3 *Dammara orientalis* 4 *Araucaria heterophylla*](https://commons.wikimedia.org/wiki/File:Gymnospermae.jpg) 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/plants/Gymnospermae.jpg" alt="(ref:gymno)" width="70%" />
