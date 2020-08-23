@@ -2,7 +2,7 @@
 
 [Biology](https://en.wikipedia.org/wiki/Biology) is the natural science that studies life and living organisms, including their physical structure, chemical processes, molecular interactions, physiological mechanisms, development and evolution. Despite the complexity of the science, certain unifying concepts consolidate it into a single, coherent field. Biology recognizes the cell as the basic unit of life, genes as the basic unit of heredity, and evolution as the engine that propels the creation and extinction of species. Living organisms (from Greek: ὀργανισμός, organismos) are open systems that survive by transforming energy and decreasing their local entropy to maintain a stable and vital condition defined as homeostasis.
 
-(ref:bumble) A Common Eastern Bumble Bee (*Bombus impatiens*) picking up nectr and pollen from a spear cistle (*Cirsium vulgare*) on Winter Island in Salem, Massachusetts. 
+(ref:bumble) A Common Eastern Bumble Bee (*Bombus impatiens*) picking up nectar and pollen from a spear cistle (*Cirsium vulgare*) on Winter Island in Salem, Massachusetts. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/life/IMG_1024.jpg" alt="(ref:bumble)" width="70%" />

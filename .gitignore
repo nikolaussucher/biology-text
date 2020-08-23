@@ -5,4 +5,5 @@
 *.pse
 *.pdf
 *.md
+_bookdown_files
 !README.md

@@ -83,24 +83,6 @@ Bryophytes exist in a wide variety of habitats. They can be found growing in a r
 
 Bryophytes can grow where vascularized plants cannot because they do not depend on roots for an uptake of nutrients from soil. Bryophytes can survive on rocks and bare soil.
 
-### The Life Cycle of Plants
-
-Like all land plants (embryophytes), bryophytes have life cycles with alternation of generations. In each cycle, a haploid gametophyte, each of whose cells contains a fixed number of unpaired chromosomes, alternates with a diploid sporophyte, whose cell contain two sets of paired chromosomes. Gametophytes produce haploid sperm and eggs which fuse to form diploid zygotes that grow into sporophytes. Sporophytes produce haploid spores by meiosis, that grow into gametophytes.
-
-Bryophytes are gametophyte dominant, meaning that the more prominent, longer-lived plant is the haploid gametophyte. The diploid sporophytes appear only occasionally and remain attached to and nutritionally dependent on the gametophyte. In bryophytes, the sporophytes are always unbranched and produce a single sporangium (spore producing capsule), but each gametophyte can give rise to several sporophytes at once.
-
-The sporophyte develops differently in the three groups. Both mosses and hornworts have a meristem zone where cell division occur. In hornworts, the meristem starts at the base where the foot ends, and the division of cells is pushing the sporophyte body upwards. In mosses, the meristem is located between the capsule and the top of the stalk (seta), and produce cells downward, elongating the stalk and elevates the capsule. In liverworts the meristem is absent and the elongation of the sporophyte is caused almost exclusively by cell expansion.
-
-Liverworts, mosses and hornworts spend most of their lives as gametophytes. Gametangia (gamete-producing organs), archegonia and antheridia, are produced on the gametophytes, sometimes at the tips of shoots, in the axils of leaves or hidden under thalli. Some bryophytes, such as the liverwort Marchantia, create elaborate structures to bear the gametangia that are called gametangiophores. Sperm are flagellated and must swim from the antheridia that produce them to archegonia which may be on a different plant. Arthropods can assist in transfer of sperm.
-
-Fertilized eggs become zygotes, which develop into sporophyte embryos inside the archegonia. Mature sporophytes remain attached to the gametophyte. They consist of a stalk called a seta and a single sporangium or capsule. Inside the sporangium, haploid spores are produced by meiosis. These are dispersed, most commonly by wind, and if they land in a suitable environment can develop into a new gametophyte. Thus bryophytes disperse by a combination of swimming sperm and spores, in a manner similar to lycophytes, ferns and other cryptogams.
-
-The arrangement of antheridia and archegonia on an individual bryophyte plant is usually constant within a species, although in some species it may depend on environmental conditions. The main division is between species in which the antheridia and archegonia occur on the same plant and those in which they occur on different plants. The term monoicous may be used where antheridia and archegonia occur on the same gametophyte and the term dioicous where they occur on different gametophytes.
-
-In seed plants, "monoecious" is used where flowers with anthers (microsporangia) and flowers with ovules (megasporangia) occur on the same sporophyte and "dioecious" where they occur on different sporophytes. These terms occasionally may be used instead of "monoicous" and "dioicous" to describe bryophyte gametophytes. "Monoecious" and "monoicous" are both derived from the Greek for "one house", "dioecious" and "dioicous" from the Greek for two houses. The use of the "oicy" terminology refers to the gametophyte sexuality of bryophytes as distinct from the sporophyte sexuality of seed plants.
-
-Monoicous plants are necessarily hermaphroditic, meaning that the same plant has both sexes. The exact arrangement of the antheridia and archegonia in monoicous plants varies. They may be borne on different shoots (autoicous or autoecious), on the same shoot but not together in a common structure (paroicous or paroecious), or together in a common "inflorescence" (synoicous or synoecious). Dioicous plants are unisexual, meaning that the same plant has only one sex. All four patterns (autoicous, paroicous, synoicous and dioicous) occur in species of the moss genus Bryum.
-
 Traditionally, all living land plants without vascular tissues were classified in a single taxonomic group, often a division (or phylum). More recently, phylogenetic research has questioned whether the bryophytes form a monophyletic group and thus whether they should form a single taxon. Although a 2005 study supported the traditional view that the bryophytes form a monophyletic group, by 2010 a broad consensus had emerged among systematists that bryophytes as a whole are not a natural group (i.e., are paraphyletic), although each of the three extant (living) groups is monophyletic.
 
 The three bryophyte clades (which may be treated as divisions) are the Marchantiophyta (liverworts), Bryophyta (mosses) and Anthocerotophyta (hornworts). The vascular plants or tracheophytes form a fourth, unranked clade of land plants called the "Polysporangiophyta". In this analysis, hornworts are sister to vascular plants and liverworts are sister to all other land plants, including the hornworts and mosses. Phylogenetic studies continue to produce conflicting results. In particular those based on gene sequences suggest the bryophytes are paraphyletic, whereas those based on the amino acid translations of the same genes suggest they are monophyletic. A 2014 study concluded that composition biases were responsible for these differences and that the bryophytes are monophyletic. The issue remains unresolved.
@@ -162,18 +144,6 @@ Many ferns depend on associations with mycorrhizal fungi. Many ferns grow only w
 
 The spores are rich in lipids, protein and calories, so some vertebrates eat these. The European woodmouse (Apodemus sylvaticus) has been found to eat the spores of Culcita macrocarpa and the bullfinch (Pyrrhula murina) and the New Zealand lesser short-tailed bat (Mystacina tuberculata) also eat fern spores.
 
-### The Life Cycle of Ferns
-
-Ferns are vascular plants differing from lycophytes by having true leaves (megaphylls), which are often pinnate. They differ from seed plants (gymnosperms and angiosperms) in reproducing by means of spores and they lack flowers and seeds. Like all land plants, they have a life cycle referred to as alternation of generations, characterized by alternating diploid sporophytic and haploid gametophytic phases. The diploid sporophyte has 2n paired chromosomes, where n varies from species to species. The haploid gametophyte has n unpaired chromosomes, i.e. half the number of the sporophyte. The gametophyte of ferns is a free-living organism, whereas the gametophyte of the gymnosperms and angiosperms is dependent on the sporophyte.
-
-The life cycle of a typical fern proceeds as follows:
-
-1. A diploid sporophyte phase produces haploid spores by meiosis (a process of cell division which reduces the number of chromosomes by a half).
-1. A spore grows into a free-living haploid gametophyte by mitosis (a process of cell division which maintains the number of chromosomes). The gametophyte typically consists of a photosynthetic prothallus.
-1. The gametophyte produces gametes (often both sperm and eggs on the same prothallus) by mitosis.
-1. A mobile, flagellate sperm fertilizes an egg that remains attached to the prothallus.
-1. The fertilized egg is now a diploid zygote and grows by mitosis into a diploid sporophyte (the typical fern plant).
-
 ## Seed Plants
 
 The spermatophytes, also known as phanerogams (taxon Phanerogamae) or phaenogams (taxon Phaenogamae), comprise those plants that produce seeds, hence the alternative name seed plants. They are a subset of the embryophytes or land plants. The term phanerogams or phanerogamae is derived from the Greek φανερός, phanerós meaning "visible", in contrast to the cryptogamae from Greek κρυπτός kryptós = "hidden" together with the suffix γαμέω, gameo, "to marry". These terms distinguished those plants with hidden sexual organs (cryptogamae) from those with visible sexual organs (phanerogamae).
@@ -198,6 +168,12 @@ In addition to the taxa listed above, the fossil record contains evidence of man
 ## Gymnosperms
 
 The gymnosperms, also known as Acrogymnospermae, are a group of seed-producing plants that includes conifers, cycads, Ginkgo, and gnetophytes. The term "gymnosperm" comes from the composite word in Greek: γυμνόσπερμος (γυμνός, gymnos, 'naked' and σπέρμα, sperma, 'seed'), literally meaning "naked seeds". The name is based on the unenclosed condition of their seeds (called ovules in their unfertilized state). The non-encased condition of their seeds contrasts with the seeds and ovules of flowering plants (angiosperms), which are enclosed within an ovary. Gymnosperm seeds develop either on the surface of scales or leaves, which are often modified to form cones, or solitary as in yew, Torreya, Ginkgo.
+
+(ref:gymno) [Various gymnosperms Left 1-i*Welwitschia mirabilis* 2-*Cycas revoluta* 3-*Taxus baccata* 4-*Gingko biloba* RIGHT 1-*Cupressus sempervirens* 2-*Sequoiadendron giganteum* 3-*Dammara orientalis* 4-*Araucaria heterophylla*](https://commons.wikimedia.org/wiki/File:Gymnospermae.jpg) 
+
+```{r varioousgymnosperms, fig.cap='(ref:gymno)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/plants/Gymnospermae.jpg")
+```
 
 The gymnosperms and angiosperms together compose the spermatophytes or seed plants. The gymnosperms are divided into six phyla. Organisms that belong to the Cycadophyta, Ginkgophyta, Gnetophyta, and Pinophyta (also known as Coniferophyta) phyla are still in existence while those in the Pteridospermales and Cordaitales phyla are now extinct.
 
@@ -339,7 +315,7 @@ Pollen is also produced by meiosis in the male anther (microsporangium). During 
 
 (ref:pollen) [Scanning electron microscope image (500x magnification) of pollen grains from a variety of common plants:](https://commons.wikimedia.org/wiki/File:Misc_pollen_colorized.jpg) sunflower (*Helianthus annuus*), morning glory (*Ipomoea purpurea*), prairie hollyhock (*Sidalcea malviflora*), oriental lily (*Lilium auratum*), evening primrose (*Oenothera fruticosa*), and castor bean (*Ricinus communis*).The image is magnified some x500, so the bean shaped grain in the bottom left corner is about 50 μm long. The colors are computer-generated.
 
-```{r , fig.cap='(ref:)', echo=FALSE, message=FALSE, warning=FALSE}
+```{r miscpollen, fig.cap='(ref:pollen)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/plants/Misc_pollen_colorized.jpg")
 ```
 
@@ -502,8 +478,6 @@ The most studied of the photoreceptors in plants is phytochrome. It is sensitive
 
 ### Photoperiodism
 
-The poinsettia is a short-day plant, requiring two months of long nights prior to blooming.
-Main article: Photoperiodism
 Many flowering plants use the pigment phytochrome to sense seasonal changes in day length, which they take as signals to flower. This sensitivity to day length is termed photoperiodism. Broadly speaking, flowering plants can be classified as long day plants, short day plants, or day neutral plants, depending on their particular response to changes in day length. Long day plants require a certain minimum length of daylight to starts flowering, so these plants flower in the spring or summer. Conversely, short day plants flower when the length of daylight falls below a certain critical level. Day neutral plants do not initiate flowering based on photoperiodism, though some may use temperature sensitivity (vernalization) instead.
 
 Although a short day plant cannot flower during the long days of summer, it is not actually the period of light exposure that limits flowering. Rather, a short day plant requires a minimal length of uninterrupted darkness in each 24-hour period (a short daylength) before floral development can begin. It has been determined experimentally that a short day plant (long night) does not flower if a flash of phytochrome activating light is used on the plant during the night.
@@ -525,6 +499,25 @@ Nastic movements results from differential cell growth (e.g. epinasty and hipona
 ## Plant Reproduction
 
 Plant reproduction is the production of new offspring in plants, which can be accomplished by sexual or asexual reproduction. Sexual reproduction produces offspring by the fusion of gametes, resulting in offspring genetically different from the parent or parents. Asexual reproduction produces new individuals without the fusion of gametes, genetically identical to the parent plants and each other, except when mutations occur.
+
+### The Life Cycle of Plants
+
+Like all land plants (embryophytes), bryophytes have life cycles with alternation of generations. In each cycle, a haploid gametophyte, each of whose cells contains a fixed number of unpaired chromosomes, alternates with a diploid sporophyte, whose cell contain two sets of paired chromosomes. Gametophytes produce haploid sperm and eggs which fuse to form diploid zygotes that grow into sporophytes. Sporophytes produce haploid spores by meiosis, that grow into gametophytes.
+
+Bryophytes are gametophyte dominant, meaning that the more prominent, longer-lived plant is the haploid gametophyte. The diploid sporophytes appear only occasionally and remain attached to and nutritionally dependent on the gametophyte. In bryophytes, the sporophytes are always unbranched and produce a single sporangium (spore producing capsule), but each gametophyte can give rise to several sporophytes at once.
+
+The sporophyte develops differently in the three groups. Both mosses and hornworts have a meristem zone where cell division occur. In hornworts, the meristem starts at the base where the foot ends, and the division of cells is pushing the sporophyte body upwards. In mosses, the meristem is located between the capsule and the top of the stalk (seta), and produce cells downward, elongating the stalk and elevates the capsule. In liverworts the meristem is absent and the elongation of the sporophyte is caused almost exclusively by cell expansion.
+
+Liverworts, mosses and hornworts spend most of their lives as gametophytes. Gametangia (gamete-producing organs), archegonia and antheridia, are produced on the gametophytes, sometimes at the tips of shoots, in the axils of leaves or hidden under thalli. Some bryophytes, such as the liverwort Marchantia, create elaborate structures to bear the gametangia that are called gametangiophores. Sperm are flagellated and must swim from the antheridia that produce them to archegonia which may be on a different plant. Arthropods can assist in transfer of sperm.
+
+Fertilized eggs become zygotes, which develop into sporophyte embryos inside the archegonia. Mature sporophytes remain attached to the gametophyte. They consist of a stalk called a seta and a single sporangium or capsule. Inside the sporangium, haploid spores are produced by meiosis. These are dispersed, most commonly by wind, and if they land in a suitable environment can develop into a new gametophyte. Thus bryophytes disperse by a combination of swimming sperm and spores, in a manner similar to lycophytes, ferns and other cryptogams.
+
+The arrangement of antheridia and archegonia on an individual bryophyte plant is usually constant within a species, although in some species it may depend on environmental conditions. The main division is between species in which the antheridia and archegonia occur on the same plant and those in which they occur on different plants. The term monoicous may be used where antheridia and archegonia occur on the same gametophyte and the term dioicous where they occur on different gametophytes.
+
+In seed plants, "monoecious" is used where flowers with anthers (microsporangia) and flowers with ovules (megasporangia) occur on the same sporophyte and "dioecious" where they occur on different sporophytes. These terms occasionally may be used instead of "monoicous" and "dioicous" to describe bryophyte gametophytes. "Monoecious" and "monoicous" are both derived from the Greek for "one house", "dioecious" and "dioicous" from the Greek for two houses. The use of the "oicy" terminology refers to the gametophyte sexuality of bryophytes as distinct from the sporophyte sexuality of seed plants.
+
+Monoicous plants are necessarily hermaphroditic, meaning that the same plant has both sexes. The exact arrangement of the antheridia and archegonia in monoicous plants varies. They may be borne on different shoots (autoicous or autoecious), on the same shoot but not together in a common structure (paroicous or paroecious), or together in a common "inflorescence" (synoicous or synoecious). Dioicous plants are unisexual, meaning that the same plant has only one sex. All four patterns (autoicous, paroicous, synoicous and dioicous) occur in species of the moss genus Bryum.
+
 
 ### Asexual Reproduction
 
@@ -631,6 +624,17 @@ There are three general modes of fruit development:
 Plant scientists have grouped fruits into three main groups, simple fruits, aggregate fruits, and composite or multiple fruits. The groupings are not evolutionarily relevant, since many diverse plant taxa may be in the same group, but reflect how the flower organs are arranged and how the fruits develop.
 
 ### Reproductin of Ferns
+
+Ferns are vascular plants differing from lycophytes by having true leaves (megaphylls), which are often pinnate. They differ from seed plants (gymnosperms and angiosperms) in reproducing by means of spores and they lack flowers and seeds. Like all land plants, they have a life cycle referred to as alternation of generations, characterized by alternating diploid sporophytic and haploid gametophytic phases. The diploid sporophyte has 2n paired chromosomes, where n varies from species to species. The haploid gametophyte has n unpaired chromosomes, i.e. half the number of the sporophyte. The gametophyte of ferns is a free-living organism, whereas the gametophyte of the gymnosperms and angiosperms is dependent on the sporophyte.
+
+The life cycle of a typical fern proceeds as follows:
+
+1. A diploid sporophyte phase produces haploid spores by meiosis (a process of cell division which reduces the number of chromosomes by a half).
+1. A spore grows into a free-living haploid gametophyte by mitosis (a process of cell division which maintains the number of chromosomes). The gametophyte typically consists of a photosynthetic prothallus.
+1. The gametophyte produces gametes (often both sperm and eggs on the same prothallus) by mitosis.
+1. A mobile, flagellate sperm fertilizes an egg that remains attached to the prothallus.
+1. The fertilized egg is now a diploid zygote and grows by mitosis into a diploid sporophyte (the typical fern plant).
+
 
 Ferns typically produce large diploids with stem, roots, and leaves; and on fertile leaves called sporangium, spores are produced. The spores are released and germinate to produce short, thin gametophytes that are typically heart-shaped, small and green in color. The gametophytes or thallus, produce both motile sperm in the antheridia and egg cells in separate archegonia. After rains or when dew deposits a film of water, the motile sperm are splashed away from the antheridia, which are normally produced on the top side of the thallus, and swim in the film of water to the antheridia where they fertilize the egg. To promote out crossing or cross-fertilization the sperm is released before the eggs are receptive of the sperm, making it more likely that the sperm will fertilize the eggs of the different thallus. A zygote is formed after fertilization, which grows into a new sporophytic plant. The condition of having separate sporophyte and gametophyte plants is called alternation of the generations. Other plants with similar reproductive means include the Psilotum, Lycopodium, Selaginella and Equisetum.
 

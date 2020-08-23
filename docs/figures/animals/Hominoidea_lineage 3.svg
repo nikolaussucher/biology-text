@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1245.6144 857.42366"
+   sodipodi:docname="Hominoidea_lineage.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   version="1.1"
+   id="svg5287"
+   height="914.58527"
+   width="1328.6553">
+  <defs
+     id="defs5289" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:object-paths="true"
+     inkscape:bbox-nodes="true"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     fit-margin-top="10"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="962"
+     inkscape:window-width="1280"
+     inkscape:object-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:guide-bbox="true"
+     showguides="false"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="225.47304"
+     inkscape:cx="-51.886011"
+     inkscape:zoom="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5292">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(3.851881,1266.0648)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       transform="matrix(0,-1.1211368,0.89195177,0,0,0)"
+       id="text136-5"
+       y="85.434441"
+       x="412.74438"
+       style="font-style:normal;font-weight:normal;font-size:67.0565px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.67641"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.0565px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#e6e6e6;stroke-width:1.67641"
+         y="85.434441"
+         x="412.74438"
+         id="tspan134-3"
+         sodipodi:role="line">M I O C E N E</tspan></text>
+    <path
+       sodipodi:nodetypes="cssscssssssssssssssssssscssssssssssssssssscsssssssssssssccscccssccsssccsccssssssssssssssscscscscsscssssccsssc"
+       id="path3003-4-2-7-5-5-4"
+       d="m 848.17064,-436.24463 c 14.2527,-6.09001 43.49228,-195.31326 52.19269,-231.99335 8.76155,-36.93785 22.7843,-76.7096 36.10526,-120.67736 13.81907,-45.61183 26.94401,-115.94551 40.37202,-156.02963 5.44675,-16.25916 7.40979,-23.73668 37.66099,-41.44267 54.5196,-30.80636 142.1095,-76.07786 159.7337,-140.92366 15.3551,-56.4972 32.4409,-117.7069 26.8314,-118.2427 -7.6383,-0.7296 -17.0321,79.8375 -38.8564,128.4194 -25.8978,57.6499 -84.8819,86.9377 -97.1066,94.1982 -12.0442,7.1533 -66.72369,32.56613 -44.656,4.5959 6.7989,-8.6174 27.4258,-45.3876 34.5757,-50.7622 25.4136,-19.1037 71.3395,-55.1999 90.4264,-94.8314 19.0869,-39.6315 24.8973,-76.3548 24.3761,-82.1275 -0.5214,-5.7743 -9.0916,41.0108 -26.3913,76.2897 -17.2997,35.2788 -38.0186,54.4532 -35.6565,48.335 2.3621,-6.1182 1.902,-7.4268 4.2898,-13.6544 2.3878,-6.2277 4.8111,-12.4526 7.315,-18.5598 1.487,-3.627 14.1671,-23.7856 23.2352,-44.1937 9.068,-20.408 14.5239,-41.0654 16.5626,-46.6276 2.0387,-5.5622 -12.1219,28.7586 -16.4941,38.613 -9.3153,20.9956 -20.0869,39.0238 -19.7645,34.4975 0.3802,-5.3388 -1.5584,-3.9958 6.6237,-22.3101 8.1821,-18.3143 20.9233,-51.5737 18.5095,-52.2153 -3.3905,-0.9013 -4.3558,9.2142 -9.5984,21.8373 -5.7579,13.864 -12.1357,34.4392 -13.3191,34.4392 -0.4071,0.6402 -0.2922,-10.0105 1.6753,-24.8119 1.9674,-14.8014 4.1468,-33.7536 2.7121,-30.9666 -1.4346,2.787 -4.8082,27.9572 -9.7304,52.9078 -4.9222,24.9505 -9.7523,49.6814 -15.5065,51.5897 -4.5918,1.5228 0.8762,-27.3245 6.8368,-55.241 5.9606,-27.9164 12.4138,-54.902 9.7922,-49.6556 -2.6215,5.2463 -10.5264,40.0318 -17.939,74.2072 -7.4126,34.1754 -8.0048,33.2877 -8.6572,36.0938 -1.4075,6.0543 -5.2821,1.763 1.2602,-36.6832 6.5422,-38.4463 17.1733,-76.5943 12.4333,-73.0972 -4.4997,3.3198 -10.4789,39.0888 -16.5539,74.1211 -6.0749,35.0323 -8.4955,52.9217 -13.378,53.2946 -4.8749,0.3723 -3.5764,-23.9609 4.5464,-60.4585 8.1228,-36.4975 19.3199,-68.7532 16.4298,-67.3509 -4.6776,2.2696 -14.1895,41.1021 -23.8642,79.8727 -9.6747,38.7706 -8.0246,54.7199 -12.8885,71.7671 -3.7386,13.1033 -11.4641,15.4889 -19.501,18.6292 -7.0463,2.7533 -1.0046,-36.0313 -0.3072,-46.729 0.2255,-4.0437 13.3209,-30.8787 23.7928,-59.6208 10.472,-28.742 19.961,-57.7506 16.2552,-62.8602 -2.402,-3.3119 -7.0836,16.5511 -12.3544,37.2897 -5.2707,20.7386 -13.0057,42.3528 -17.7645,42.5432 -4.7626,0.1906 -2.3229,-20.0126 -0.5675,-40.2635 1.7554,-20.2509 4.7014,-40.5495 4.7014,-40.5495 -7.4573,-0.4187 -9.4241,25.3914 -10.6717,50.5485 -1.2476,25.1572 -1.776,42.3957 -6.3568,39.3649 -4.6601,-3.0833 -4.1087,-18.9115 -3.0209,-41.663 1.0877,-22.7516 2.7118,-45.1608 0.197,-46.8748 -7.5416,-5.1401 -3.5074,162.1602 -7.2868,194.4287 -1.455,12.4233 -11.4275,13.05 -21.9233,4.2601 -10.49574,-8.7899 -21.51481,-26.9964 -25.06308,-37.2396 -1.4736,-4.254 3.16222,-30.2794 9.1331,-59.0769 4.6867,-29.3255 4.94215,-40.7149 6.55251,-68.993 0.3764,-6.6619 8.40817,-35.6515 1.3049,-34.8561 0,0 -3.2542,22.4776 -6.77393,41.9042 -0.59042,16.8551 -1.29925,28.3412 -7.61984,50.8828 -2.26791,7.9465 -4.31366,26.9937 -7.54184,27.8255 -3.00636,-3.2091 -2.39779,-8.1723 -2.72429,-20.5651 -0.3265,-12.3927 -0.57105,-14.0138 0.17334,-25.5089 0.50748,-7.8366 2.85793,-15.618 4.45397,-32.9585 0.42983,-5.9371 2.89511,-38.4133 -1.41531,-41.5415 -0.84575,-0.2934 -1.66771,8.4776 -2.09056,9.5978 -0.42285,1.1202 -0.70594,20.2508 -2.60105,41.8664 -1.89512,21.6157 -4.46475,43.8415 -4.7732,44.5897 -0.30845,0.7483 -0.93744,6.7272 -1.76739,12.362 -2.15915,9.7852 -3.58322,7.0313 -4.74503,-0.4372 1.54973,-17.0622 2.71527,-30.6252 4.22864,-48.1119 1.51337,-17.4868 0.79646,-15.9285 -0.0125,-32.7483 0.18933,-1.8077 -0.35214,-29.163 -5.43741,-29.163 -0.32156,-1.2966 3.14076,22.0752 1.66377,45.7866 -1.477,23.7114 -4.67172,54.5278 -5.70651,53.3196 -2.31571,-2.7038 -1.37826,-14.8933 -2.37886,-28.2909 -1.00059,-13.3976 -2.01487,-26.8413 -2.46092,-28.5681 -0.44603,-1.7267 -0.50495,-10.9616 -1.51127,-19.0556 -1.00632,-8.0941 -0.0896,-18.6939 -2.50819,-21.1169 -1.35184,-1.3544 0.42811,29.3759 0.63262,50.9776 0.20452,21.6016 5.56084,27.3529 -3.38853,27.6792 -1.98,0.072 -0.70991,-13.9472 -2.55262,-34.1837 -1.84271,-20.2365 -3.9904,-42.6483 -6.08257,-45.2037 -1.25854,-1.5372 1.15343,20.8737 0.95303,40.8668 -0.20041,19.9931 0.60448,39.3319 -0.91363,38.1407 -3.35202,-2.6302 -6.19116,-20.3251 -8.87988,-38.7609 -2.68872,-18.4357 -0.19251,-35.972 -4.79114,-40.0466 -1.35488,-1.2004 -0.8736,13.9983 -0.16987,28.7885 0.70374,14.7902 0.70737,34.2461 0.70737,34.2461 -3.59666,-6.0575 -9.49805,-18.8589 -12.72984,-32.4091 -3.23179,-13.5502 -7.78879,-32.1696 -7.78879,-32.1696 -4.63982,-2.4398 -0.2218,10.9742 0.95783,21.5698 1.17963,10.5957 9.71454,45.4407 9.71454,45.4407 -9.23971,2.4547 -19.87407,-35.829 -22.41813,-45.2022 -2.54407,-9.3732 -0.94974,-19.5611 -5.51051,-21.8083 -7.30797,9.9826 11.75459,63.339 27.45918,80.0809 15.65158,16.6854 23.20126,20.8147 35.74206,36.1732 12.5408,15.3585 21.66965,45.1445 29.59082,66.8368 15.44999,25.1231 29.57961,40.673 11.77228,61.5198 -31.54198,36.92573 -42.16102,102.21457 -53.16569,149.47216 -22.00934,94.5152 -78.88563,233.43044 -97.4623,302.24765 -18.57667,68.8172 -33.32517,113.94026 -40.02185,113.67884 -19.75526,-0.77118 -54.67134,-27.09889 -118.21361,-82.24628 -57.73169,-43.4293 -80.2535,-114.96058 -134.38848,-94.26743 -14.81958,8.38613 7.99307,8.78229 9.61174,22.13058 1.61867,13.34829 -17.3092,14.52467 18.51151,49.30789 14.31732,13.90264 29.92478,35.70159 45.12238,52.70787 15.19761,17.00627 47.01183,38.69083 66.81824,53.80349"
+       style="fill:#d4aa00;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.6997937;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3787-8"
+       d="m 1230.8875,-1247.6898 v 811.44517 H 90.41132 v -811.44517 z"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3881-8"
+       d="m 70.36882,-1247.6898 h 20.0425 v 162.2891 h -20.0425 20.0425 v 162.28899 h -20.0425 20.0425 v 162.28902 h -20.0425 20.0425 v 162.28904 h -20.0425 20.0425 v 162.28902 h -20.0425"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text3891-2"
+       y="-1229.9711"
+       x="32.980152"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2"
+       xml:space="preserve"><tspan
+         style="font-size:36px;line-height:1.25;stroke-width:2"
+         y="-1229.9711"
+         x="32.980152"
+         id="tspan3893-4"
+         sodipodi:role="line">0</tspan></text>
+    <text
+       id="text3895-5"
+       y="-1067.6819"
+       x="5.523119"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2"
+       xml:space="preserve"><tspan
+         style="font-size:36px;line-height:1.25;stroke-width:2"
+         y="-1067.6819"
+         x="5.523119"
+         id="tspan3897-5"
+         sodipodi:role="line">  4</tspan></text>
+    <text
+       id="text3899-1"
+       y="-905.39276"
+       x="5.7692127"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2"
+       xml:space="preserve"><tspan
+         style="font-size:36px;line-height:1.25;stroke-width:2"
+         y="-905.39276"
+         x="5.7692127"
+         id="tspan3901-7"
+         sodipodi:role="line">  8</tspan></text>
+    <text
+       id="text3903-1"
+       y="-743.00714"
+       x="-16.273758"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2"
+       xml:space="preserve"><tspan
+         style="font-size:36px;line-height:1.25;stroke-width:2"
+         y="-743.00714"
+         x="-16.273758"
+         id="tspan3905-1"
+         sodipodi:role="line">  12</tspan></text>
+    <text
+       id="text3907-5"
+       y="-580.74445"
+       x="-14.890944"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2"
+       xml:space="preserve"><tspan
+         style="font-size:36px;line-height:1.25;stroke-width:2"
+         y="-580.74445"
+         x="-14.890944"
+         id="tspan3909-2"
+         sodipodi:role="line">  16</tspan></text>
+    <text
+       id="text3911-7"
+       y="-418.52585"
+       x="5.7692127"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2"
+       xml:space="preserve"><tspan
+         style="font-size:36px;line-height:1.25;stroke-width:2"
+         y="-418.52585"
+         x="5.7692127"
+         id="tspan3913-6"
+         sodipodi:role="line">20</tspan></text>
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccssscccssssssscccscszcccscccccccsscccscccsccccccccccccc"
+       id="path3003-4"
+       d="m 188.49677,-1249.0111 -67.01552,0.8887 c 2.21797,8.5223 2.02135,6.1701 6.2505,11.1304 1.50634,5.1573 10.13757,4.3207 12.50868,7.5176 5.24986,4.5476 2.14782,2.0095 7.1609,6.1698 2.63485,4.0733 1.93151,1.0482 4.40556,9.0524 2.44742,8.155 -2.55054,8.3387 -3.74145,17.7759 -2.86892,4.8327 -4.95423,7.7942 -7.16298,4.9234 -1.29318,-4.5642 -5.40378,-2.6764 -4.83977,-8.797 1.30025,-12.6148 -4.31961,-4.1137 -5.44109,-10.2227 -0.60368,-4.8899 -2.46938,-3.2734 -0.92826,3.101 -0.85392,4.2606 -1.83469,5.2802 -1.44017,11.8857 4.28959,2.9593 2.36091,4.6773 -2.57804,7.4819 -5.25759,-0.7896 -6.6729,-0.026 -6.8654,-7.2891 0.11486,-8.8982 -0.21259,-2.2363 0.80708,-11.0163 2.28959,-8.0196 -4.50284,-5.6443 -0.29774,-13.4948 1.47976,-6.8191 -0.2439,-7.2551 -2.51983,-7.3378 -1.08203,1.02 -1.71967,4.1415 -1.98717,5.1635 -0.45832,5.5535 0.0117,5.1211 1.1501,9.5597 -1.32405,3.0057 -1.63793,3.3929 -3.65213,0.8483 -1.93672,-4.702 -2.86119,-14.4624 -1.84151,-16.4533 0.89471,-7.2329 -2.43968,-4.0209 -3.72813,-3.3674 -1.4851,2.0961 -0.76015,2.5284 -1.1184,3.0139 -0.3504,7.6429 5.44146,15.6147 3.46875,21.633 0.8521,5.928 -8.35552,-4.0306 -10.99896,-9.7451 -1.13314,-5.0897 -1.15531,-7.1497 -1.28262,-12.8746 -0.15553,-4.4277 0.69536,-3.3828 0.22111,-6.7227 l 0.18375,-5.1789 c 0.70577,-1.79 -0.92085,-2.0225 -2.61943,-1.4348 -0.59143,3.6556 -1.35482,7.4462 -2.21245,13.7356 0.29247,4.4692 0.49583,8.3058 0.66554,13.1384 1.3294,4.0701 1.76844,6.2528 5.52259,12.0473 2.59421,4.8694 11.24291,15.4159 11.24291,15.4159 10.01586,6.9945 16.09388,9.3649 22.93982,16.5666 6.35475,6.1255 8.48998,6.2821 10.62205,8.234 10.49922,0.061 5.6039,14.6373 13.36013,17.3844 l 5.95955,-5.1774 c 0.50999,-0.8248 10.06312,-8.3325 9.28104,-14.1912 -0.77754,-5.8247 1.56972,-4.6502 2.66832,-6.8909 1.89284,-3.8606 -3.24337,-8.9658 -5.06844,-4.6597 -5.96597,14.0759 -9.8073,12.0597 -10.21317,10.9304 -3.02348,-7.1455 -1.17854,-9.8222 1.45289,-15.6921 4.59614,-6.6121 -0.0933,-0.4443 5.59696,-10.0652 4.75767,-2.9492 10.58191,-6.7939 12.99956,-10.068 1.13932,-1.5429 5.92043,-5.6245 5.15632,-12.2843 -0.56676,-4.9398 2.09672,-7.5672 2.37858,-9.1316 1.86247,-10.337 -1.17414,-11.2465 -1.48424,-10.2885 -1.58606,4.9 -5.36672,22.7665 -5.99944,23.0503 -1.27025,0.5698 -2.59538,-1.7594 -2.35292,-4.3711 0.98822,-10.6449 8.79828,-27.8426 9.31363,-28.944 0.34285,-0.7328 2.07294,-2.7495 2.07294,-2.7495 z m -4.58648,4.5415 c 0.83591,1.0792 -2.21232,4.7976 -7.91497,19.2249 -0.63879,1.6161 -6.14223,24.3825 -7.15038,24.1273 -3.23892,-0.8199 -0.34907,-10.3643 1.70733,-18.0333 0.9006,-2.9971 1.61062,-6.2627 2.52183,-8.8513 1.1688,-3.3203 6.6026,-16.1258 8.316,-16.4109 1.71339,-0.2851 2.52019,-0.057 2.52019,-0.057 z m -58.61842,-0.6818 c 3.49707,0.5004 9.7333,-0.3286 13.12037,0.5239 -1.08806,2.2321 -2.744,-0.4087 -2.79417,3.6049 -0.01,2.6333 6.26021,1.128 4.5488,4.0991 -1.5747,2.5282 4.1117,3.857 0.35612,3.8496 -4.64839,0.064 -2.00823,-2.8421 -4.8281,-2.5521 -3.01553,0.2768 -4.29992,-1.5034 -3.63964,-2.0246 0.8989,-0.3774 1.78818,-3.0759 -0.30184,-2.823 -3.11627,1.1652 -7.13698,-2.3153 -6.46154,-4.6778 z m 53.28747,0.671 c 1.71243,-0.6248 -3.69191,4.5624 -4.43171,7.673 -0.8702,3.659 -3.28304,8.852 -3.28304,8.852 -0.91115,2.9099 -0.74021,3.7485 -2.39019,7.2099 -0.94918,3.2892 -7.09218,5.2732 -6.83331,0.5502 0.0388,-2.7858 -0.47575,2.2618 1.56868,-3.6027 0.1053,-0.5696 5.62076,-8.7591 5.84717,-9.0949 l 7.71934,-11.4461 z m -5.43042,2.0331 c -1.50855,2.1254 -1.36342,2.8251 -3.17725,5.2175 -2.11079,2.7841 -6.77644,7.8741 -6.42862,7.2532 0.34781,-0.621 2.33392,-6.8921 2.99205,-7.8515 0.21812,-1.6702 6.39514,-5.9441 8.10757,-6.5688 z m -30.81037,-2.5764 c 2.52141,0.01 6.51622,-1.1778 10.89947,0.3643 3.0744,0.536 3.29686,0.4952 8.28885,6.4084 3.67275,4.8178 -8.01881,10.7831 -12.94733,6.4318 -4.13734,-2.4296 1.89578,-3.8736 -2.45783,-5.1043 -5.81491,-1.3502 0.8111,-2.6051 -2.90737,-4.3058 -2.59432,-1.1189 -3.3972,-3.7977 -0.87579,-3.7944 z"
+       style="fill:#98d5f8;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3789-2-5-1-2"
+       y="-1165.8555"
+       x="134.37671"
+       style="font-style:normal;font-weight:normal;font-size:18.75px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000"
+         y="-1165.8555"
+         x="134.37671"
+         id="tspan3791-4-5-7-7"
+         sodipodi:role="line">Homo</tspan></text>
+    <path
+       sodipodi:nodetypes="cssssssscscsssscsscscccscssssssssssssssscssccsccccc"
+       id="path3003-4-2"
+       d="m 353.97597,-984.97399 c -0.68197,-3.71709 -41.09162,-41.40571 -51.00901,-44.77481 -9.8227,-3.337 -10.66545,-4.0772 -18.51839,-15.2099 -1.77026,-2.5096 -4.2031,-9.2257 -5.1615,-12.0991 -0.9584,-2.8734 7.45398,-38.7374 0.0921,-24.3316 -2.96388,5.7996 -6.06512,12.6087 -6.06512,12.6087 -5.75508,20.7869 -1.57895,-14.6388 -3.52388,-14.547 -8.07483,0.3814 -7.43539,29.7867 -14.01778,18.8741 -5.71018,-9.4666 -12.14926,-16.2182 -12.60487,-25.3894 -0.13351,-8.9845 30.28264,-35.4056 31.49473,-47.8308 1.13895,-11.6754 -14.03505,20.569 -21.79475,16.0799 0,0 4.18437,-26.0063 3.09094,-29.2471 -3.3683,-9.983 -10.2908,19.4847 -12.30997,30.3927 -2.3613,12.7563 -6.6549,-14.5898 -7.18766,-4.9107 -0.80647,14.6519 -0.89911,20.3372 -2.16277,29.952 -1.77154,13.479 -10.65774,14.8179 -11.00806,10.0727 -3.99449,-38.8384 12.38236,-90.94 10.25686,-109.4325 -1.19885,-10.4304 -4.71393,-3.0269 -6.36789,8.7126 -1.65397,11.7396 -1.11535,31.9584 -4.48194,30.9175 -1.286,-3.2944 -4.95752,-43.5041 -6.20482,-44.5322 -1.2473,-1.0282 -3.37807,-0.9269 -4.5145,4.068 0.0937,6.2156 -0.40732,7.8931 2.45981,17.5036 2.40266,14.3543 0.48003,12.2869 1.94354,30.4467 -2.23628,30.3149 -8.35726,5.5549 -12.27145,-1.3306 -3.91419,-6.8855 -6.78167,-0.2053 -1.35084,20.8985 7.46333,19.8588 9.07504,30.3026 8.27465,41.4014 -0.13669,1.8954 -3.22224,3.2914 -4.02553,3.1909 -0.80329,-0.1005 -4.1998,-0.6957 -7.40287,-6.6618 -6.011,-11.1964 0.13244,-24.8801 -3.84727,-23.7143 -2.85111,0.8351 -5.11709,15.4655 -7.50165,15.0949 -7.39172,-1.1487 -2.84875,-28.9169 -5.08704,-30.2961 -2.2383,-1.3791 -4.49747,17.2398 -3.7818,8.7724 0.2281,-2.6988 -1.57204,19.7013 -3.39862,17.7342 -1.82659,-1.9671 -3.45616,-4.077 -4.79459,-6.3253 -10.70748,-17.9866 -8.49481,-44.5918 -8.49031,-42.4473 0.002,1.0723 -2.80341,-1.0684 -7.36369,0.1094 -4.56028,1.1778 0.2101,11.6794 -5.93826,10.8796 -3.67006,-0.4774 -6.90094,-2.6662 -8.52662,-5.58 -4.35126,-7.7992 -4.46328,-10.7891 -6.61079,-14.0329 -3.28975,-4.969 -8.83376,7.5158 -1.28566,16.4324 5.54484,6.5502 13.50362,18.0056 13.5218,22.3029 -9.54424,1.6944 -19.87432,-2.0238 -27.87261,-6.4276 -7.39287,-4.0705 -4.94641,-16.6594 -8.76422,-17.2242 0,0 -0.84427,6.4581 -0.37815,12.6768 4.52696,9.1085 5.40633,11.6337 17.45875,17.0021 9.20272,3.117 13.53799,4.8114 27.52995,12.3745 13.99195,7.563 14.01208,7.9623 20.41199,12.3477 11.01528,8.311 16.5168,11.1818 25.40786,18.5663 23.76746,14.4695 50.81778,36.9569 53.6206,38.7518 17.88261,11.7192 43.68778,41.6826 44.95973,50.53689 3.99531,34.68442 -0.12866,8.46622 6.21151,50.82228"
+       style="fill:#007ee4;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="csssssssccsccssscsssscsc"
+       id="path3003-4-2-7"
+       d="m 374.11358,-925.55662 c -0.68197,-3.71709 27.41828,32.92119 25.22385,7.24704 -1.09722,-12.83707 -47.54563,-10.94199 -32.87474,-40.91221 7.0664,-14.43549 15.8673,-26.64651 14.36597,-43.48531 -3.00266,-33.6776 -21.9113,53.95178 -27.51181,26.61878 -1.0674,-5.20939 7.44845,-41.45158 6.47288,-55.90588 -0.97557,-14.4543 -11.18767,29.9397 -15.90286,14.4781 -9.92312,-32.5387 10.47837,-88.0541 14.41241,-110.7195 1.96869,-11.3422 -0.0629,-29.7635 -0.68949,-31.7194 -0.13483,-18.0006 -1.51955,-10.0225 1.48488,-30.5475 4.11398,-31.8855 3.17041,-69.3677 -0.80306,-53.8877 -2.39315,9.3232 1.72605,43.5221 -7.97486,44.4276 -7.30882,-7.0661 -5.36436,-4.337 -10.02312,-17.4567 -1.80683,-1.9435 2.15261,-25.5463 0.71573,-29.4058 -1.43687,-3.8595 -4.74526,21.1476 -5.85257,17.4767 -1.10731,-3.6709 -3.95305,-16.2681 -4.77118,-17.6458 -0.81813,-1.3778 -1.26738,0.7922 -1.83671,3.8121 2.36215,13.9974 -8.96214,-12.4933 -5.99841,-0.8974 2.96372,11.596 7.36022,10.8945 10.04473,20.6324 2.68451,9.7379 23.24844,55.6677 18.68584,79.8337 -4.12532,21.8498 -10.44007,56.9762 -24.01487,80.9881 -13.5748,24.0119 -23.13975,24.6634 -30.38073,31.7684 -13.88331,25.1083 34.99926,24.6801 34.67373,49.51285 -0.11219,8.55843 -26.15202,31.48889 -26.47328,49.54832"
+       style="fill:#ba34ff;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccssscsssssssssccc"
+       id="path3003-4-2-7-5"
+       d="m 441.84851,-842.39979 c -1.75148,-29.73678 -12.09673,-45.21432 14.10022,-79.36713 7.97647,-11.41393 33.29432,-33.11939 35.34237,-44.20181 1.95906,-10.60088 3.90791,-29.32483 0.43889,-35.40417 -4.09731,-7.1804 -13.62179,56.99295 -38.18925,51.74685 -8.21214,-1.75361 -34.23856,-91.97825 -23.11931,-143.36185 7.42194,-29.9821 13.99058,-62.3199 33.78503,-85.1943 4.59601,-5.3111 4.83332,-5.4853 11.53463,-17.7229 8.6806,-15.8522 8.79105,-22.1026 16.15038,-45.3109 6.60946,-20.8435 -6.79513,11.5375 -9.74188,9.7509 -1.94047,-1.1765 -1.73191,-26.0261 -3.83209,-10.9799 -2.11081,15.1224 -5.51362,54.0547 -12.08333,48.3229 -5.20263,-4.5392 1.47052,-46.0286 0.76702,-52.3216 -0.70356,-6.293 -5.3816,20.6688 -7.13829,12.9767 -6.64854,-29.1125 -5.04454,-6.5849 -1.45546,19.6269 4.23804,30.9514 -22.11556,49.587 -37.87463,113.8245 -6.71226,37.406 -7.4286,90.1449 -9.23223,135.88886 -5.40672,48.06135 -40.10306,23.03298 -52.02803,55.47404"
+       style="fill:#ff349c;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.6997937;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3789-2-5-1-2-3-5-6"
+       y="-1155.1057"
+       x="897.36359"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1155.1057"
+         x="897.36359"
+         id="tspan3791-4-5-7-7-6-3-2"
+         sodipodi:role="line">Hylobates</tspan></text>
+    <text
+       transform="rotate(-80)"
+       id="text107"
+       y="20.540567"
+       x="1138.5204"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.9375"
+         y="20.540567"
+         x="1138.5204"
+         id="tspan105"
+         sodipodi:role="line">Paranthropus</tspan></text>
+    <text
+       transform="rotate(10)"
+       id="text3789-2-5-1-2-3-3"
+       y="-1106.3881"
+       x="-85.766052"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1106.3881"
+         x="-85.766052"
+         id="tspan3791-4-5-7-7-6-6"
+         sodipodi:role="line">Australopithecus</tspan></text>
+    <text
+       transform="rotate(-70)"
+       id="text107-7"
+       y="15.881573"
+       x="1033.2355"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.9375"
+         y="15.881573"
+         x="1033.2355"
+         id="tspan105-5"
+         sodipodi:role="line">Sahelanthropus</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-2"
+       y="-945.65234"
+       x="294.99442"
+       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:0%;font-family:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-font-specification:'Segoe UI';font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1;"
+         y="-945.65234"
+         x="294.99442"
+         id="tspan3791-4-5-7-7-6-9"
+         sodipodi:role="line">Hominini</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-2-1"
+       y="-935.05359"
+       x="397.41995"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-font-specification:'Segoe UI';font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1;"
+         y="-935.05359"
+         x="397.41995"
+         id="tspan3791-4-5-7-7-6-9-2"
+         sodipodi:role="line">Gorillini</tspan></text>
+    <text
+       transform="rotate(-70)"
+       id="text3789-2-5-1-2-3-5-6-7"
+       y="134.21573"
+       x="1035.1239"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="134.21573"
+         x="1035.1239"
+         id="tspan3791-4-5-7-7-6-3-2-0"
+         sodipodi:role="line">Chororapithecus</tspan></text>
+    <path
+       sodipodi:nodetypes="csssssccccscsssscscccsc"
+       id="path3003-4-2-6"
+       d="m 556.91739,-563.72661 c 0,0 -44.55553,-100.3667 -73.80376,-124.29122 -29.24823,-23.92451 -47.13035,-35.69122 -97.69289,-56.71464 -41.49088,-17.25151 -63.8621,-43.66945 -94.82583,-65.22143 -26.73258,-18.60692 -62.47497,-62.90182 -62.35503,-63.85959 0.47975,-3.83105 5.82638,-3.31186 11.99912,6.30557 9.76868,15.22008 1.71047,-37.98587 9.05774,-21.92182 12.17417,36.11855 22.72581,-22.37722 24.38392,-41.58381 1.79575,-6.39971 10.55681,-34.85196 9.0508,12.83039 -2.77383,26.21584 -13.75132,23.61931 -11.68618,54.2258 2.56776,12.83565 16.35088,30.68598 26.59049,34.22048 19.39097,6.69335 24.48364,13.40546 59.46735,24.34525 4.40136,-5.97464 -2.74475,-21.52307 -8.71577,-36.00143 -4.0604,-9.84554 -13.66218,-45.21393 -10.46625,-46.26795 13.79227,-4.54869 29.06784,49.73867 42.88389,65.3391 13.95863,15.76143 28.346,59.98606 39.39763,63.26595 35.54511,10.54904 4.80927,-45.9154 -7.41787,-79.25742 -14.58335,-23.65197 -39.41813,-57.29266 -66.9759,-68.59423 -21.42513,-8.78654 -39.33603,-11.78017 -40.72294,-24.88812 27.27658,-1.74714 37.38394,1.0379 80.12363,2.11733 8.39645,13.47859 13.30912,8.94091 27.47691,30.6364 3.98196,7.78454 8.12684,13.87346 13.92629,22.05207 5.79944,8.1786 148.15397,248.27822 158.75416,264.42148"
+       style="fill:#ff0000;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text252"
+       y="-797.32556"
+       x="290.23392"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.9375;"
+         y="-797.32556"
+         x="290.23392"
+         id="tspan250"
+         sodipodi:role="line">Dryopithecini</tspan></text>
+    <text
+       transform="rotate(-70)"
+       id="text107-7-0"
+       y="-10.163462"
+       x="1068.5825"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.9375"
+         y="-10.163462"
+         x="1068.5825"
+         id="tspan105-5-6"
+         sodipodi:role="line">Orrorin</tspan></text>
+    <text
+       id="text107-2"
+       y="-1073.7529"
+       x="252.32315"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.9375"
+         y="-1073.7529"
+         x="252.32315"
+         id="tspan105-6"
+         sodipodi:role="line">Ardipithecus</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccsssssssssssssccsssssssccsssssssssccccsssscccsccccssssccc"
+       id="path3003-4-2-7-5-5"
+       d="m 655.20508,-543.29413 c -11.82235,-11.87789 -66.68659,-78.39766 -72.14132,-106.49136 16.25772,-17.88837 12.95637,-65.54588 58.67613,-86.0413 11.26637,-4.87777 50.83471,-21.99501 57.90482,-24.64605 12.10881,-7.67 36.01211,-5.36781 56.22449,-30.12713 17.89545,-21.92117 37.41436,-73.50583 57.59189,-122.60412 18.3908,-44.7506 18.34696,-48.02051 29.83757,-85.79487 2.87265,-9.44364 26.2877,-67.45184 28.60042,-75.23544 2.31273,-7.7836 3.4613,-19.9846 1.07122,-25.497 -3.72198,-8.5843 -22.00052,70.4063 -28.04437,71.3741 -5.88821,0.9428 3.26635,-90.4933 -3.29822,-91.083 -6.37596,-0.5728 1.30276,67.0677 -12.57057,78.613 -5.45829,4.5424 -28.75961,-106.4314 -37.48436,-120.9556 -11.6707,-19.4284 24.8724,110.5197 34.47878,144.1589 4.43929,15.5453 -10.67559,57.95804 -20.95735,78.70794 -41.12703,82.99961 -32.44994,120.94121 -66.15143,141.49353 -0.88228,0.53804 -9.91887,9.50136 -26.26772,15.7307 -9.12937,3.47853 -51.21302,23.80285 -51.4414,20.01627 -0.47577,-15.04117 1.6928,-17.63204 7.35923,-35.07841 0.1874,-2.44593 56.79678,-74.07108 59.88403,-85.20831 3.93338,-14.1896 6.25407,-95.68842 9.40277,-183.96072 3.14871,-88.2723 4.96624,-174.6279 1.41575,-172.4609 -8.03262,4.9026 -8.51145,154.0311 -8.37836,142.896 0.23849,-19.9539 -8.71707,110.11786 -8.90471,128.7049 -0.18764,18.58704 -27.94019,-105.588 -28.86796,-78.6376 -0.92776,26.9505 30.59426,105.93984 28.95577,128.30758 -1.63849,22.36774 -3.62499,39.2076 -5.94481,44.04651 -17.38387,22.87375 -42.38272,55.99326 -46.36638,54.16705 -10.33573,-12.64603 20.57198,-69.89694 18.40709,-66.77484 -3.07514,4.4348 -17.01816,24.7411 -19.47795,30.27544 -2.45979,5.5343 5.93406,-52.53404 3.75286,-47.54164 -2.1812,4.9925 -7.54144,41.4435 -9.78083,44.2527 -2.23938,2.80925 -0.36354,-36.30972 -2.99786,-37.32502 -1.85341,-0.7143 -5.48994,34.08642 -7.41177,29.10042 -1.92184,-4.986 -1.09154,-41.45834 -2.80948,-47.64744 -1.71794,-6.189 -4.69109,46.29878 -6.61981,38.57848 -2.28531,-9.1476 -8.1004,-33.81677 -8.59358,-33.20597 -11.03034,13.6609 28.10679,91.76468 20.66609,110.8882 -5.66966,10.25442 0,0 -13.25288,39.80158 -24.63697,9.85077 -35.86781,-2.79658 -42.03133,-32.0704 -21.0729,-84.71372 -22.16113,-74.62398 -19.00415,-121.6083 4.20144,-30.27675 30.82655,-69.17327 36.70944,-144.59555 2.31603,-29.6929 -6.78971,-26.6166 -6.47165,-72.7891 0.10801,-15.6795 30.04693,-61.3164 37.25348,-88.8301 4.17073,-15.9232 4.60875,-27.5248 4.60875,-27.5248 -8.72392,-0.7286 -9.86777,31.801 -24.87703,57.8663 -2.68282,11.94 -25.93043,35.848 -25.28244,29.5333 -12.05959,-40.3789 4.32303,-91.0613 -4.38319,-89.1736 -7.15901,0 0.37649,33.5798 -8.58368,34.5514 -8.96018,0.9716 -3.92205,-26.1467 -6.46357,-34.5514 -6.22663,0 -2.48391,18.1846 -6.82573,19.4006 -2.14266,-7.7007 -0.74171,-19.4006 -4.16731,-19.4006 -1.35805,4.0684 -2.00168,17.8618 -2.00168,17.8618 -3.72055,2.6565 -8.74038,-15.548 -8.74038,-15.548 -3.07466,-0.6112 -9.92248,18.0403 23.94774,39.4388 11.8018,7.4561 -5.50229,28.1076 12.76621,94.1646 4.2269,15.284 3.78485,28.8672 4.81483,35.5007 5.02406,32.3568 -23.79353,94.52043 -39.5526,158.7579 -0.25087,57.34703 23.32044,204.13302 -11.11161,250.23969 -15.03617,30.4227 29.69234,80.9504 4.64238,103.5477"
+       style="fill:#ff6600;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.6997937;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3789-2-5-1-2-3-2-9"
+       y="-733.27142"
+       x="372.51678"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-font-specification:'Segoe UI';font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1;"
+         y="-733.27142"
+         x="372.51678"
+         id="tspan3791-4-5-7-7-6-9-3"
+         sodipodi:role="line">Homininae</tspan></text>
+    <text
+       transform="rotate(20)"
+       id="text107-2-9"
+       y="-973.40369"
+       x="12.571591"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.9375"
+         y="-973.40369"
+         x="12.571591"
+         id="tspan105-6-2"
+         sodipodi:role="line">Ouranopithecus</tspan></text>
+    <text
+       id="text3789-2-5-1-2-0"
+       y="-1240.9631"
+       x="136.29474"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1240.9631"
+         x="136.29474"
+         id="tspan3791-4-5-7-7-2"
+         sodipodi:role="line">H. sapiens</tspan></text>
+    <text
+       id="text3789-2-5-1-2-0-3"
+       y="-1194.0272"
+       x="113.91586"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1194.0272"
+         x="113.91586"
+         id="tspan3791-4-5-7-7-2-7"
+         sodipodi:role="line">H. erectus</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3"
+       y="-1051.0758"
+       x="170.24362"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-font-specification:'Segoe UI';font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1;"
+         y="-1051.0758"
+         x="170.24362"
+         id="tspan3791-4-5-7-7-6"
+         sodipodi:role="line">Australopithecina</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text65"
+       y="368.82376"
+       x="1209.2095"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.9375"
+         y="368.82376"
+         x="1209.2095"
+         id="tspan63"
+         sodipodi:role="line">P. Paniscus</tspan></text>
+    <text
+       transform="rotate(-110)"
+       id="text65-3"
+       y="725.51056"
+       x="1012.4821"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.9375"
+         y="725.51056"
+         x="1012.4821"
+         id="tspan63-6"
+         sodipodi:role="line">P. troglodytes</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-5"
+       y="-1157.2037"
+       x="339.5502"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1157.2037"
+         x="339.5502"
+         id="tspan3791-4-5-7-7-6-3"
+         sodipodi:role="line">Pan</tspan></text>
+    <text
+       transform="rotate(-70)"
+       id="text65-3-7"
+       y="44.795628"
+       x="1291.0914"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.9375"
+         y="44.795628"
+         x="1291.0914"
+         id="tspan63-6-5"
+         sodipodi:role="line">G. beringei</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text65-3-7-3"
+       y="453.79514"
+       x="1206.5946"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.9375"
+         y="453.79514"
+         x="1206.5946"
+         id="tspan63-6-5-5"
+         sodipodi:role="line">G. gorilla</tspan></text>
+    <text
+       transform="rotate(30)"
+       id="text252-2"
+       y="-930.02795"
+       x="-261.20999"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.9375"
+         y="-930.02795"
+         x="-261.20999"
+         id="tspan250-9"
+         sodipodi:role="line">Oreopithecus</tspan></text>
+    <text
+       transform="rotate(-70)"
+       id="text107-2-1"
+       y="-147.47292"
+       x="1115.0001"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.9375"
+         y="-147.47292"
+         x="1115.0001"
+         id="tspan105-6-27"
+         sodipodi:role="line">Praeanthropus</tspan></text>
+    <text
+       transform="rotate(20)"
+       id="text3789-2-5-1-2-0-3-3"
+       y="-1113.6379"
+       x="-272.7951"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="-1113.6379"
+         x="-272.7951"
+         id="tspan3791-4-5-7-7-2-7-6"
+         sodipodi:role="line">A. africanus</tspan></text>
+    <text
+       transform="rotate(20)"
+       id="text3789-2-5-1-2-0-3-3-0"
+       y="-1103.4811"
+       x="-223.94322"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1103.4811"
+         x="-223.94322"
+         id="tspan3791-4-5-7-7-2-7-6-6"
+         sodipodi:role="line">A. deyiremeda </tspan></text>
+    <text
+       id="text3789-2-5-1-2-0-3-3-9"
+       y="-1131.4407"
+       x="94.907776"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1131.4407"
+         x="94.907776"
+         id="tspan3791-4-5-7-7-2-7-6-2"
+         sodipodi:role="line">A. garhi</tspan></text>
+    <text
+       id="text3789-2-5-1-2-0-3-0"
+       y="-1150.6052"
+       x="113.56006"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1150.6052"
+         x="113.56006"
+         id="tspan3791-4-5-7-7-2-7-2"
+         sodipodi:role="line">A. sediba</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-2-9-3"
+       y="-587.07806"
+       x="487.08612"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-font-specification:'Segoe UI';font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1;"
+         y="-587.07806"
+         x="487.08612"
+         id="tspan3791-4-5-7-7-6-9-3-7"
+         sodipodi:role="line">Hominidae</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-2-9-3-5"
+       y="-451.32117"
+       x="638.80542"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-font-specification:'Segoe UI';font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.75px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1;"
+         y="-451.32117"
+         x="638.80542"
+         id="tspan3791-4-5-7-7-6-9-3-7-9"
+         sodipodi:role="line">Hominoidea</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-2-9-2"
+       y="-725.70148"
+       x="556.10699"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-font-specification:'Segoe UI';font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1;"
+         y="-725.70148"
+         x="556.10699"
+         id="tspan3791-4-5-7-7-6-9-3-2"
+         sodipodi:role="line">Ponginae</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-2-9-3-7"
+       y="-651.18793"
+       x="806.24506"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-font-specification:'Segoe UI';font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1;"
+         y="-651.18793"
+         x="806.24506"
+         id="tspan3791-4-5-7-7-6-9-3-7-3"
+         sodipodi:role="line">Hylobatidae</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-5-6-6"
+       y="-1155.724"
+       x="428.11292"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1155.724"
+         x="428.11292"
+         id="tspan3791-4-5-7-7-6-3-2-1"
+         sodipodi:role="line">Gorilla</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-2-1-2"
+       y="-853.99084"
+       x="541.55847"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-font-specification:'Segoe UI';font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1;"
+         y="-853.99084"
+         x="541.55847"
+         id="tspan3791-4-5-7-7-6-9-2-9"
+         sodipodi:role="line">Pongini</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-5-6-6-3"
+       y="-1130.647"
+       x="575.13959"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1130.647"
+         x="575.13959"
+         id="tspan3791-4-5-7-7-6-3-2-1-1"
+         sodipodi:role="line">Pongo</tspan></text>
+    <text
+       transform="rotate(-40)"
+       id="text3789-2-5-1-2-3-5-6-6-3-9"
+       y="-354.92349"
+       x="1019.0355"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-354.92349"
+         x="1019.0355"
+         id="tspan3791-4-5-7-7-6-3-2-1-1-4"
+         sodipodi:role="line">Khorapithecus</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-2-1-2-7"
+       y="-804.16425"
+       x="604.37073"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-font-specification:'Segoe UI';font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1;"
+         y="-804.16425"
+         x="604.37073"
+         id="tspan3791-4-5-7-7-6-9-2-9-8"
+         sodipodi:role="line">Sivapithecini</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-5-6-6-3-9-4"
+       y="-883.17212"
+       x="617.5509"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-883.17212"
+         x="617.5509"
+         id="tspan3791-4-5-7-7-6-3-2-1-1-4-5"
+         sodipodi:role="line">Sivapithecus</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-5-6-61"
+       y="-1154.2585"
+       x="1010.8726"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1154.2585"
+         x="1010.8726"
+         id="tspan3791-4-5-7-7-6-3-2-06"
+         sodipodi:role="line">Hoolock</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-5-6-61-0"
+       y="-1083.6686"
+       x="1108.006"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1083.6686"
+         x="1108.006"
+         id="tspan3791-4-5-7-7-6-3-2-06-6"
+         sodipodi:role="line">Symphalangus</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-5-6-61-0-1"
+       y="-1124.3439"
+       x="1060.8602"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1124.3439"
+         x="1060.8602"
+         id="tspan3791-4-5-7-7-6-3-2-06-6-5"
+         sodipodi:role="line">Nomascus</tspan></text>
+    <text
+       transform="rotate(20)"
+       id="text107-2-9-3"
+       y="-916.05023"
+       x="-5.1583047"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.9375"
+         y="-916.05023"
+         x="-5.1583047"
+         id="tspan105-6-2-6"
+         sodipodi:role="line">Udabnopithecus</tspan></text>
+    <path
+       sodipodi:nodetypes="ccsssssc"
+       id="path3003-4-2-7-5-5-4-3"
+       d="m 962.36391,-436.24463 c 11.85965,-22.21155 19.09369,-40.47095 29.92123,-60.43967 0,0 19.67626,-47.88769 24.99486,-62.11831 4.8335,-12.93248 21.7308,-53.6344 15.1611,-59.3662 -5.2027,-4.5392 -29.504,67.69013 -35.776,68.56074 -11.97305,1.66195 -4.41563,-88.4609 -11.8648,-85.33088 -7.44917,3.13002 -2.58202,73.69797 -9.20706,102.56255 -8.93384,38.92375 -31.73172,54.7062 -70.05946,96.13177"
+       style="fill:#d4aa00;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.6997937;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="rotate(-70)"
+       id="text3789-2-5-1-2-3-2-9-3-7-5"
+       y="717.6546"
+       x="860.53082"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="717.6546"
+         x="860.53082"
+         id="tspan3791-4-5-7-7-6-9-3-7-3-6"
+         sodipodi:role="line">Afropithecus</tspan></text>
+    <text
+       id="text107-2-9-36"
+       y="-509.6792"
+       x="601.00543"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.9375"
+         y="-509.6792"
+         x="601.00543"
+         id="tspan105-6-2-7"
+         sodipodi:role="line">Morotopithecus</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text136"
+       y="64.571945"
+       x="1018.7605"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#cccccc;stroke-width:0.9375"
+         y="64.571945"
+         x="1018.7605"
+         id="tspan134"
+         sodipodi:role="line">Pliocene</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text136-56"
+       y="62.065605"
+       x="1150.3131"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#cccccc;stroke-width:0.9375"
+         y="62.065605"
+         x="1150.3131"
+         id="tspan134-2"
+         sodipodi:role="line">Pleistocene</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path3003-4-2-7-5-5-4-3-9"
+       d="m 831.1407,-513.16015 c -19.64395,-16.174 -11.14562,-10.33434 -31.52583,-31.36851 -29.76506,-33.81489 -21.11503,-17.93899 -15.27959,8.52779 3.82059,11.25025 10.90158,12.88367 40.25378,44.24057"
+       style="fill:#d4aa00;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.35418856;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3789-2-5-1-2-3-2-9-3-7-5-1"
+       y="-536.49634"
+       x="740.57257"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-536.49634"
+         x="740.57257"
+         id="tspan3791-4-5-7-7-6-9-3-7-3-6-2"
+         sodipodi:role="line">Pliobates</tspan></text>
+    <text
+       id="text249"
+       y="-281.36179"
+       x="28.630836"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve" />
+    <path
+       sodipodi:nodetypes="ccssscc"
+       id="path3003-4-2-7-5-5-4-3-9-9"
+       d="m 644.11488,-436.24463 c -74.81923,-44.4101 -127.30385,-90.57326 -207.00077,-178.20698 -6.3226,-12.01688 -50.90728,-97.27447 -51.55408,-95.4131 -0.64679,1.86138 12.6443,54.74797 15.19825,64.957 2.55395,10.20902 -97.0355,-82.25952 -93.75586,-69.23345 3.27963,13.02608 87.39709,81.39052 88.92735,91.70305 31.31969,24.9482 126.35255,161.45718 162.06415,186.19348"
+       style="fill:#d4aa00;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.35418844;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3789-2-5-1-2-3-2-9-3-7-5-1-3"
+       y="-524.04492"
+       x="394.43469"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-font-specification:'Segoe UI';font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1;"
+         y="-524.04492"
+         x="394.43469"
+         id="tspan3791-4-5-7-7-6-9-3-7-3-6-2-6"
+         sodipodi:role="line">Proconsulidae</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-2-9-3-7-5-1-3-0"
+       y="-680.56555"
+       x="373.71161"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-680.56555"
+         x="373.71161"
+         id="tspan3791-4-5-7-7-6-9-3-7-3-6-2-6-6"
+         sodipodi:role="line">Proconsul</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-2-9-3-7-5-1-3-0-2"
+       y="-697.41858"
+       x="274.55511"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-697.41858"
+         x="274.55511"
+         id="tspan3791-4-5-7-7-6-9-3-7-3-6-2-6-6-6"
+         sodipodi:role="line">Nyanzapithecus</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-5-6-6-3-9-4-0"
+       y="-1068.6382"
+       x="788.94739"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1068.6382"
+         x="788.94739"
+         id="tspan3791-4-5-7-7-6-3-2-1-1-4-5-3"
+         sodipodi:role="line">Lufengopithecus</tspan></text>
+    <text
+       id="text107-2-9-36-3"
+       y="-449.25513"
+       x="520.40411"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         id="tspan153"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.9375"
+         y="-449.25513"
+         x="520.40411"
+         sodipodi:role="line">Ugandapithecus</tspan></text>
+    <text
+       transform="rotate(-40)"
+       id="text3789-2-5-1-2-3-5-6-6-3-9-4-7"
+       y="-200.35928"
+       x="1058.5999"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-200.35928"
+         x="1058.5999"
+         id="tspan3791-4-5-7-7-6-3-2-1-1-4-5-5"
+         sodipodi:role="line">Gigantopithecus</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-2-9-3-7-5-3"
+       y="-492.27798"
+       x="916.13757"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-font-specification:'Segoe UI';font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1;"
+         y="-492.27798"
+         x="916.13757"
+         id="tspan3791-4-5-7-7-6-9-3-7-3-6-5"
+         sodipodi:role="line">Afropithecidae</tspan></text>
+    <text
+       transform="rotate(-60)"
+       id="text3789-2-5-1-2-3-2-9-3-7-5-6"
+       y="611.20917"
+       x="955.19519"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="611.20917"
+         x="955.19519"
+         id="tspan3791-4-5-7-7-6-9-3-7-3-6-29"
+         sodipodi:role="line">Griphopithecus</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-5-6-6-3-9-4-0-1"
+       y="-1216.8397"
+       x="711.67108"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1216.8397"
+         x="711.67108"
+         id="tspan3791-4-5-7-7-6-3-2-1-1-4-5-3-2"
+         sodipodi:role="line">G. blacki</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-5-6-6-3-9-4-0-1-7"
+       y="-1037.7311"
+       x="702.79669"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1037.7311"
+         x="702.79669"
+         id="tspan3791-4-5-7-7-6-3-2-1-1-4-5-3-2-0"
+         sodipodi:role="line">G. bilaspurensis</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-5-6-6-3-9-4-0-1-7-9"
+       y="-1003.3176"
+       x="649.19989"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-1003.3176"
+         x="649.19989"
+         id="tspan3791-4-5-7-7-6-3-2-1-1-4-5-3-2-0-3"
+         sodipodi:role="line">G. giganteus</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-2-1-2-7-3"
+       y="-769.26434"
+       x="676.3916"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-font-specification:'Segoe UI';font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1;"
+         y="-769.26434"
+         x="676.3916"
+         id="tspan3791-4-5-7-7-6-9-2-9-8-6"
+         sodipodi:role="line">Lufengopithecini</tspan></text>
+    <text
+       id="text3789-2-5-1-2-3-2-9-3-7-5-1-3-0-3"
+       y="-630.55585"
+       x="503.68005"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000;stroke-width:1"
+         y="-630.55585"
+         x="503.68005"
+         id="tspan3791-4-5-7-7-6-9-3-7-3-6-2-6-6-67"
+         sodipodi:role="line">Kenyapithecus</tspan></text>
+  </g>
+</svg>
