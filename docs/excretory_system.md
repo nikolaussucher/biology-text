@@ -15,7 +15,7 @@ Osmoregulators tightly regulate their body osmolarity, maintaining constant inte
 
 A marine fish has an internal osmotic concentration lower than that of the surrounding seawater, so it tends to lose water and gain salt. It actively excretes salt out from the gills. Most fish are stenohaline, which means they are restricted to either salt or fresh water and cannot survive in water with a different salt concentration than they are adapted to. 
 
-(ref:salthwfish) [Movement of water and ions in saltwater fish.](https://en.wikipedia.org/wiki/File:Osmoseragulation_Carangoides_bartholomaei_bw_en2.png) 
+(ref:saltwfish) [Movement of water and ions in saltwater fish.](https://en.wikipedia.org/wiki/File:Osmoseragulation_Carangoides_bartholomaei_bw_en2.png) 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/excretory/Osmoseragulation_Carangoides_bartholomaei_bw_en2.png" alt="(ref:saltwfish)" width="70%" />
@@ -72,7 +72,6 @@ Urine is formed in the kidneys through a filtration of blood. The urine is then 
 The urinary system refers to the structures that produce and transport urine to the point of excretion. In the human urinary system there are two kidneys that are located between the dorsal body wall and parietal peritoneum on both the left and right sides.
 
 The formation of urine begins within the functional unit of the kidney, the nephrons. Urine then flows through the nephrons, through a system of converging tubules called collecting ducts. These collecting ducts then join together to form the minor calyces, followed by the major calyces that ultimately join the renal pelvis. From here, urine continues its flow from the renal pelvis into the ureter, transporting urine into the urinary bladder. The anatomy of the human urinary system differs between males and females at the level of the urinary bladder. In males, the urethra begins at the internal urethral orifice in the trigone of the bladder, continues through the external urethral orifice, and then becomes the prostatic, membranous, bulbar, and penile urethra. Urine exits through the external urethral meatus. The female urethra is much shorter, beginning at the bladder neck and terminating in the vaginal vestibule.
-
 
 The main functions of the urinary system and its components are to
 

@@ -422,7 +422,7 @@ Water (H~2~O) is a polar inorganic compound that is at room temperature a tastel
 
 Water is one of the two official names for the chemical compound H~2~O; it is also the liquid phase of H~2~O. The other two common states of matter of water are the solid phase, ice, and the gaseous phase, water vapor or steam. The addition or removal of heat can cause phase transitions: freezing (water to ice), melting (ice to water), vaporization (water to vapor), condensation (vapor to water), sublimation (ice to vapor) and deposition (vapor to ice).
 
-Water differs from most liquids in that it becomes less dense as it freezes. In 1 atm pressure, it reaches its maximum density of 1,000 kg/m^3^ (62.43 lb/cu ft) at 3.98 °C (39.16 °F). The density of ice is 917 kg/m3 (57.25 lb/cu ft), an expansion of 9%. This expansion can exert enormous pressure, bursting pipes and cracking rocks.
+Water differs from most liquids in that it becomes less dense as it freezes. In 1 atm pressure, it reaches its maximum density of 1,000 kg/m^3^ (62.43 lb/cu ft) at 3.98 °C (39.16 °F). The density of ice is 917 kg/m^3^ (57.25 lb/cu ft), an expansion of 9%. This expansion can exert enormous pressure, bursting pipes and cracking rocks.
 
 In a lake or ocean, water at 4 °C sinks to the bottom and ice forms on the surface, floating on the liquid water. This ice insulates the water below, preventing it from freezing solid. Without this protection, most aquatic organisms would perish during the winter.
 
@@ -457,7 +457,7 @@ Water (H~2~O) is a polar inorganic compound that is at room temperature a tastel
 
 Water is one of the two official names for the chemical compound H~2~O; it is also the liquid phase of H~2~O. The other two common states of matter of water are the solid phase, ice, and the gaseous phase, water vapor or steam. The addition or removal of heat can cause phase transitions: freezing (water to ice), melting (ice to water), vaporization (water to vapor), condensation (vapor to water), sublimation (ice to vapor) and deposition (vapor to ice).
 
-Water differs from most liquids in that it becomes less dense as it freezes. In 1 atm pressure, it reaches its maximum density of 1,000 kg/m^3^ (62.43 lb/cu ft) at 3.98 °C (39.16 °F). The density of ice is 917 kg/m3 (57.25 lb/cu ft), an expansion of 9%. This expansion can exert enormous pressure, bursting pipes and cracking rocks.
+Water differs from most liquids in that it becomes less dense as it freezes. In 1 atm pressure, it reaches its maximum density of 1,000 kg/m^3^ (62.43 lb/cu ft) at 3.98 °C (39.16 °F). The density of ice is 917 kg/^m^3^ (57.25 lb/cu ft), an expansion of 9%. This expansion can exert enormous pressure, bursting pipes and cracking rocks.
 
 In a lake or ocean, water at 4 °C sinks to the bottom and ice forms on the surface, floating on the liquid water. This ice insulates the water below, preventing it from freezing solid. Without this protection, most aquatic organisms would perish during the winter.
 

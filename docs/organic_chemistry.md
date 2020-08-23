@@ -29,6 +29,13 @@ The majority of chemical compounds occurring in biological organisms are carbon 
 
 The concept of functional groups is central in organic chemistry, both as a means to classify structures and for predicting properties. A functional group is a molecular module, and the reactivity of that functional group is assumed, within limits, to be the same in a variety of molecules. Functional groups can have a decisive influence on the chemical and physical properties of organic compounds. Molecules are classified based on their functional groups. Alcohols, for example, all have the subunit C-O-H. All alcohols tend to be somewhat hydrophilic, usually form esters, and usually can be converted to the corresponding halides. Most functional groups feature heteroatoms (atoms other than C and H). Organic compounds are classified according to functional groups, alcohols, carboxylic acids, amines, etc.
 
+(ref:fgr) Biologically important functional groups. 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/chemistry/functional_groups.svg" alt="(ref:fgr)" width="70%" />
+<p class="caption">(\#fig:fgroups)(ref:fgr)</p>
+</div>
+
 Combining the names of functional groups with the names of the parent alkanes generates what is termed a systematic nomenclature for naming organic compounds. In traditional nomenclature, the first carbon atom after the carbon that attaches to the functional group is called the alpha carbon; the second, beta carbon, the third, gamma carbon, etc. If there is another functional group at a carbon, it may be named with the Greek letter, e.g., the gamma-amine in gamma-aminobutyric acid is on the third carbon of the carbon chain attached to the carboxylic acid group. IUPAC conventions call for numeric labeling of the position, e.g. 4-aminobutanoic acid. In traditional names various qualifiers are used to label isomers, for example, isopropanol (IUPAC name: propan-2-ol) is an isomer of n-propanol (propan-1-ol). The term moiety has some overlap with the term "functional group". However, a moiety is an entire "half" of a molecule, which can be not only a single functional group, but also a larger unit consisting of multiple functional groups. For example, an "aryl moiety" may be any group containing an aromatic ring, regardless of how many functional groups the said aryl has.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
@@ -67,7 +74,7 @@ Combining the names of functional groups with the names of the parent alkanes ge
   <tr>
    <td style="text-align:center;"> Carboxylate </td>
    <td style="text-align:center;"> Carboxylate </td>
-   <td style="text-align:center;"> RCOO− </td>
+   <td style="text-align:center;"> RCOO- </td>
    <td style="text-align:center;"> carboxy- </td>
    <td style="text-align:center;"> Sodium acetate(Sodium ethanoate) </td>
   </tr>
@@ -115,7 +122,7 @@ Combining the names of functional groups with the names of the parent alkanes ge
   </tr>
   <tr>
    <td style="text-align:center;"> Amines </td>
-   <td style="text-align:center;"> 4° ammonium ion </td>
+   <td style="text-align:center;"> Quaternary ammonium ion </td>
    <td style="text-align:center;"> R4N+ </td>
    <td style="text-align:center;"> ammonio- </td>
    <td style="text-align:center;"> Choline </td>

@@ -2,11 +2,11 @@ Chemical class,Group,Formula,Prefix,Example
 Alcohol,Hydroxyl,ROH,hydroxy-,Methanol
 Ketone,Carbonyl,RCOR',-oyl- (-COR')oroxo- (=O),Butanone(Methyl ethyl ketone)
 Aldehyde,Aldehyde,RCHO,formyl- (-COH)oroxo- (=O),Acetaldehyde(Ethanal)
-Carboxylate,Carboxylate,RCOO−,carboxy-,Sodium acetate(Sodium ethanoate)
+Carboxylate,Carboxylate,RCOO-,carboxy-,Sodium acetate(Sodium ethanoate)
 Carboxylic acid,Carboxyl,RCOOH,carboxy-,Acetic acid(Ethanoic acid)
 Ester,Carboalkoxy,RCOOR',alkanoyloxy-oralkoxycarbonyl,Ethyl butyrate(Ethyl butanoate)
 Amide,Carboxamide,"RCONR'R""",carboxamido-orcarbamoyl-,Acetamide(Ethanamide)
 Amines,Primary amine,RNH2,amino-,Methylamine(Methanamine)
 Amines,Secondary amine,"R'R""NH",amino-,Dimethylamine
 Amines,Tertiary amine,R3N,amino-,Trimethylamine
-Amines,4° ammonium ion,R4N+,ammonio-,Choline
+Amines,Quaternary ammonium ion,R4N+,ammonio-,Choline
