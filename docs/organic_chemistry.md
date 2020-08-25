@@ -391,7 +391,7 @@ Triglycerides, stored in adipose tissue, are a major form of energy storage both
 (ref:triglyceride) [Example of an unsaturated fat triglyceride](https://commons.wikimedia.org/wiki/File:Fat_triglyceride_shorthand_formula.PNG) (C~55~H~98~O~6~). Left part: glycerol; right part, from top to bottom: palmitic acid, oleic acid, alpha-linolenic acid.
 
 <div class="figure" style="text-align: center">
-<img src="./figures/chemistry/Fat_triglyceride_shorthand_formula.PNG" alt="(ref:triglyceride)" width="70%" />
+<img src="./figures/chemistry/simple_triglyceride.svg" alt="(ref:triglyceride)" width="70%" />
 <p class="caption">(\#fig:simpletriglyceride)(ref:triglyceride)</p>
 </div>
 

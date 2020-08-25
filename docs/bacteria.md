@@ -54,7 +54,7 @@ Bacteria display a wide diversity of shapes and sizes, called morphologies. Bact
 (ref:bacshape) [Bacteria display various cell morphologies and arrangements](https://commons.wikimedia.org/wiki/File:Bacterial_morphology_diagram.svg) 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/bacteria/Bacterial_morphology_diagram.svg" alt="(ref:bacshape)" width="70%" />
+<img src="./figures/bacteria/bacterial_shapes.svg" alt="(ref:bacshape)" width="70%" />
 <p class="caption">(\#fig:bacteriashape)(ref:bacshape)</p>
 </div>
 

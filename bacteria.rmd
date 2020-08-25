@@ -51,7 +51,7 @@ Bacteria display a wide diversity of shapes and sizes, called morphologies. Bact
 (ref:bacshape) [Bacteria display various cell morphologies and arrangements](https://commons.wikimedia.org/wiki/File:Bacterial_morphology_diagram.svg) 
 
 ```{r bacteriashape, fig.cap='(ref:bacshape)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/bacteria/Bacterial_morphology_diagram.svg")
+knitr::include_graphics("./figures/bacteria/bacterial_shapes.svg")
 ```
 
 Most bacterial species are either spherical, called cocci (singular coccus, from Greek kókkos, grain, seed), or rod-shaped, called bacilli (sing. bacillus, from Latin baculus, stick). Some bacteria, called vibrio, are shaped like slightly curved rods or comma-shaped; others can be spiral-shaped, called spirilla, or tightly coiled, called spirochaetes. A small number of other unusual shapes have been described, such as star-shaped bacteria. This wide variety of shapes is determined by the bacterial cell wall and cytoskeleton, and is important because it can influence the ability of bacteria to acquire nutrients, attach to surfaces, swim through liquids and escape predators.
