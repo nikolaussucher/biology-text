@@ -97,6 +97,28 @@ Fossils of seed ferns such as Glossopteris are widely distributed throughout sev
 
 Bryophytes are an informal group consisting of three divisions of non-vascular land plants (embryophytes): the liverworts, hornworts and mosses. They are characteristically limited in size and prefer moist habitats although they can survive in drier environments. The bryophytes consist of about 20,000 plant species. Bryophytes produce enclosed reproductive structures (gametangia and sporangia), but they do not produce flowers or seeds. They reproduce via spores. Bryophytes are usually considered to be a paraphyletic group and not a monophyletic group, although some studies have produced contrary results. Regardless of their status, the name is convenient and remains in use as an informal collective term. The term "bryophyte" comes from Greek βρύον, bryon "tree-moss, oyster-green" and φυτόν, phyton "plant".
 
+
+(ref:march)[Marchantia polymorpha, with antheridial and archegonial stalks.](https://upload.wikimedia.org/wikipedia/commons/d/dc/Marchantia.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/plants/Marchantia.jpg" alt="(ref:march)" width="70%" />
+<p class="caption">(\#fig:marchantia)(ref:march)</p>
+</div>
+
+(ref:horn)[Hornworts are bryophytes that are believed to the closest living relatives of the vascular plants.](https://commons.wikimedia.org/wiki/File:Hornwort_(3144429129).jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/plants/Hornwort_(3144429129).jpg" alt="(ref:)" width="70%" />
+<p class="caption">(\#fig:hornwort)(ref:)</p>
+</div>
+
+(ref:moss) A moss showing both gametophytes (the low, leaf-like forms) and sporophytes (the tall, stalk-like forms). 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/plants/IMG_1227.jpg" alt="(ref:moss)" width="70%" />
+<p class="caption">(\#fig:sporophytemoss)(ref:moss)</p>
+</div>
+
 The defining features of bryophytes are:
 
 * Their life cycles are dominated by the gametophyte stage

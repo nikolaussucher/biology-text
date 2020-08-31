@@ -334,7 +334,7 @@ Because of its polarity, a molecule of water in the liquid or solid state can fo
 These bonds are the cause of water's high surface tension and capillary forces. The capillary action refers to the tendency of water to move up a narrow tube against the force of gravity. This property is relied upon by all vascular plants, such as trees.
 
 Water is a weak solution of hydronium hydroxide - there is an equilibrium 2H~2~O  ⇆
-H~3~O^+^ + OH^−^) to form water. Water is considered to be neutral, with a pH  of 7. Acids have pH values less than 7 while bases have values greater than 7.
+H~3~O^+^ + OH^-^) to form water. Water is considered to be neutral, with a pH  of 7. Acids have pH values less than 7 while bases have values greater than 7.
 
 Earth surface waters are filled with life. The earliest life forms appeared in water; nearly all fish live exclusively in water, and there are many types of marine mammals, such as dolphins and whales. Some kinds of animals, such as amphibians, spend portions of their lives in water and portions on land. Plants such as kelp and algae grow in the water and are the basis for some underwater ecosystems. Plankton is generally the foundation of the ocean food chain.
 

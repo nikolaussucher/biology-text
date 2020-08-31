@@ -23,7 +23,7 @@ The generally accepted parts of modern cell theory include:
 
 1. All living cells arise from pre-existing cells by division.
 1. The cell is the fundamental unit of structure and function in all living organisms.
-1. The activity of an organism depends on the total activity of independent cells.[citation needed]
+1. The activity of an organism depends on the total activity of independent cells.
 1. Energy flow (metabolism and biochemistry) occurs within cells.
 1. Cells contain DNA which is found specifically in the chromosome and RNA found in the cell nucleus and cytoplasm.
 1. All cells are basically the same in chemical composition in organisms of similar species.
@@ -393,7 +393,7 @@ knitr::include_graphics("./figures/cells/Endomembrane_system_diagram_en.svg")
 
 ### The Ribosomes
 
-* Ribosomes: The ribosome is a large complex of RNA and protein molecules. They each consist of two subunits, and act as an assembly line where RNA from the nucleus is used to synthesise proteins from amino acids. Ribosomes can be found either floating freely or bound to a membrane (the rough endoplasmatic reticulum in eukaryotes, or the cell membrane in prokaryotes).
+The ribosome is a large complex of RNA and protein molecules. They each consist of two subunits, and act as an assembly line where RNA from the nucleus is used to synthesise proteins from amino acids. Ribosomes can be found either floating freely or bound to a membrane (the rough endoplasmatic reticulum in eukaryotes, or the cell membrane in prokaryotes).
 
 (ref:ribosome) Crystal structure of the human 80S ribosome (based on atomic coordinates of [PDB 4V6X](https://www.rcsb.org/structure/4v6x) rendered with open source molecular visualization tool PyMol). The 40S (small) ribosomal subunit proteins are shown in lightblue, the 60S (large) subunit proteins in palegreen, the ribosomal RNA in orange.
 

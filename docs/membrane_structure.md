@@ -211,7 +211,6 @@ Anchoring-type junctions not only hold cells together but provide tissues with s
 
 ### Desmosomes
 
-This image shows a desmosome junction between cells of the epidermal layer of the skin.
 Desmosomes, also termed as maculae adherentes, can be visualized as rivets through the plasma membrane of adjacent cells. Intermediate filaments composed of keratin or desmin are attached to membrane-associated attachment proteins that form a dense plaque on the cytoplasmic face of the membrane. Cadherin molecules form the actual anchor by attaching to the cytoplasmic plaque, extending through the membrane and binding strongly to cadherins coming through the membrane of the adjacent cell.
 
 ### Hemidesmosomes
