@@ -108,8 +108,8 @@ Bryophytes are an informal group consisting of three divisions of non-vascular l
 (ref:horn)[Hornworts are bryophytes that are believed to the closest living relatives of the vascular plants.](https://commons.wikimedia.org/wiki/File:Hornwort_(3144429129).jpg) 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/plants/Hornwort_(3144429129).jpg" alt="(ref:)" width="70%" />
-<p class="caption">(\#fig:hornwort)(ref:)</p>
+<img src="./figures/plants/Hornwort_(3144429129).jpg" alt="(ref:horn)" width="70%" />
+<p class="caption">(\#fig:hornwort)(ref:horn)</p>
 </div>
 
 (ref:moss) A moss showing both gametophytes (the low, leaf-like forms) and sporophytes (the tall, stalk-like forms). 

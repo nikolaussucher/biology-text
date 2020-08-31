@@ -82,7 +82,7 @@ knitr::include_graphics("./figures/plants/Marchantia.jpg")
 
 (ref:horn)[Hornworts are bryophytes that are believed to the closest living relatives of the vascular plants.](https://commons.wikimedia.org/wiki/File:Hornwort_(3144429129).jpg) 
 
-```{r hornwort, fig.cap='(ref:)', echo=FALSE, message=FALSE, warning=FALSE}
+```{r hornwort, fig.cap='(ref:horn)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/plants/Hornwort_(3144429129).jpg")
 ```
 
