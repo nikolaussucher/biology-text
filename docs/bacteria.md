@@ -1,6 +1,6 @@
 # Bacteria, Archaea And Viruses
 
-Bacteria (singular bacterium) and Archaea (singular archaeon) constitute two domains of single-celled organisms. These microorganisms lack cell nuclei and are therefore prokaryotes. 
+[Bacteria](https://en.wikipedia.org/wiki/Bacteria) (singular bacterium) and [Archaea](https://en.wikipedia.org/wiki/Archaea) (singular archaeon) constitute two domains of single-celled organisms. These microorganisms lack cell nuclei and are therefore prokaryotes. 
 
 (ref:ecoli) [Scanning electron micrograph of Escherichia coli bacteria.](https://commons.wikimedia.org/wiki/File:EscherichiaColi_NIAID.jpg) 
 
@@ -20,7 +20,7 @@ Archaea – at that time only the methanogens were known – were first classifi
 <p class="caption">(\#fig:haloarchaea)(ref:archaea)</p>
 </div>
 
-A virus is a submicroscopic infectious agent that replicates only inside the living cells of an organism. Viruses infect all types of life forms, from animals and plants to microorganisms, including bacteria and archaea. Since Dmitri Ivanovsky's 1892 article describing a non-bacterial pathogen infecting tobacco plants, and the discovery of the tobacco mosaic virus by Martinus Beijerinck in 1898, more than 6,000 virus species have been described in detail, of the millions of types of viruses in the environment. Viruses are found in almost every ecosystem on Earth and are the most numerous type of biological entity. The study of viruses is known as virology, a subspeciality of microbiology.
+A [virus](https://en.wikipedia.org/wiki/Virus) is a submicroscopic infectious agent that replicates only inside the living cells of an organism. Viruses infect all types of life forms, from animals and plants to microorganisms, including bacteria and archaea. Since Dmitri Ivanovsky's 1892 article describing a non-bacterial pathogen infecting tobacco plants, and the discovery of the tobacco mosaic virus by Martinus Beijerinck in 1898, more than 6,000 virus species have been described in detail, of the millions of types of viruses in the environment. Viruses are found in almost every ecosystem on Earth and are the most numerous type of biological entity. The study of viruses is known as virology, a subspeciality of microbiology.
 
 (ref:sarscov) [Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the strain of coronavirus that causes coronavirus disease 2019 (COVID-19), the respiratory illness responsible for the COVID-19 pandemic.](https://commons.wikimedia.org/wiki/File:SARS-CoV-2_without_background.png) 
 
@@ -129,6 +129,7 @@ Many bacteria get their carbon from other organic carbon, called heterotrophy. O
 
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:bacteriametabo)Nutritional types in bacterial metabolism</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> Nutritional Type </th>
@@ -404,6 +405,7 @@ Archaea exhibit a great variety of chemical reactions in their metabolism and us
 Other groups of archaea use sunlight as a source of energy (they are phototrophs), but oxygen–generating photosynthesis does not occur in any of these organisms. Many basic metabolic pathways are shared among all forms of life; for example, archaea use a modified form of glycolysis (the Entner–Doudoroff pathway) and either a complete or partial citric acid cycle. These similarities to other organisms probably reflect both early origins in the history of life and their high level of efficiency.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:archaeametabo)Nutritional types in archaeal metabolism</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> Nutritional Type </th>

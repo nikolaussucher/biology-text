@@ -94,7 +94,7 @@ The cell membrane is selectively permeable and able to regulate what enters and 
 
 ### The Fluid Mosaic Model of The Cell Membrane
 
-According to the fluid mosaic model of S. J. Singer and G. L. Nicolson (1972), which replaced the earlier model of Davson and Danielli, biological membranes can be considered as a two-dimensional liquid in which lipid and protein molecules diffuse more or less easily. Although the lipid bilayers that form the basis of the membranes do indeed form two-dimensional liquids by themselves, the plasma membrane also contains a large quantity of proteins, which provide more structure. Examples of such structures are protein-protein complexes, pickets and fences formed by the actin-based cytoskeleton, and potentially lipid rafts.
+According to the fluid mosaic model of [S. J. Singer](https://en.wikipedia.org/wiki/Seymour_Jonathan_Singer) and [G. L. Nicolson](https://en.wikipedia.org/wiki/Garth_L._Nicolson) (1972), which replaced the earlier model of Davson and Danielli, biological membranes can be considered as a two-dimensional liquid in which lipid and protein molecules diffuse more or less easily. Although the lipid bilayers that form the basis of the membranes do indeed form two-dimensional liquids by themselves, the plasma membrane also contains a large quantity of proteins, which provide more structure. Examples of such structures are protein-protein complexes, pickets and fences formed by the actin-based cytoskeleton, and potentially lipid rafts.
 
 ### Lipid bilayer
 

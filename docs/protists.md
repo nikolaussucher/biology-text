@@ -1,6 +1,6 @@
 # Protists
 
-A protist is any eukaryotic organism (one with cells containing a nucleus) that is not an animal, plant, or fungus. While it is likely that protists share a common ancestor (the last eukaryotic common ancestor), the exclusion of other eukaryotes means that protists do not form a natural group, or clade. So some protists may be more closely related to animals, plants, or fungi than they are to other protists; however, like algae, invertebrates, or protozoans, the grouping is used for convenience.
+A [protist](https://en.wikipedia.org/wiki/Protist) is any eukaryotic organism (one with cells containing a nucleus) that is not an animal, plant, or fungus. While it is likely that protists share a common ancestor (the last eukaryotic common ancestor), the exclusion of other eukaryotes means that protists do not form a natural group, or clade. So some protists may be more closely related to animals, plants, or fungi than they are to other protists; however, like algae, invertebrates, or protozoans, the grouping is used for convenience.
 
 (ref:prot) [A sampling of protists:](https://commons.wikimedia.org/wiki/File:Protist_collage_2.jpg) red algae (Chondrus crispus); brown algae (Giant Kelp); ciliate (Frontonia); golden algae (Dinobryon); Foraminifera (Radiolaria); parasitic flagellate (Giardia muris); pathogenic amoeba (Acanthamoeba); amoebozoan slime mold (Fuligo septica)
 
@@ -85,6 +85,7 @@ Systematists today do not treat Protista as a formal taxon, but the term "protis
 The taxonomy of protists is still changing. Newer classifications attempt to present monophyletic groups based on morphological (especially ultrastructural), biochemical (chemotaxonomy) and DNA sequence (molecular research) information. Because the protists as a whole are paraphyletic, new systems often split up or abandon the kingdom, instead treating the protist groups as separate lines of eukaryotes.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:protistmetabo)Nutritional types in protist metabolism</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> Nutritional Type </th>
