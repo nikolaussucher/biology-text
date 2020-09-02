@@ -1,6 +1,6 @@
 # The Cell Cycle And Cell Division
 
-The cell cycle, or cell-division cycle, is the series of events that take place in a cell that cause it to divide into two daughter cells. These events include the duplication of its DNA (DNA replication) and some of its organelles, and subsequently the partitioning of its cytoplasm and other components into two daughter cells in a process called cell division.
+The [cell cycle](https://en.wikipedia.org/wiki/Cell_cycle), or cell-division cycle, is the series of events that take place in a cell that cause it to divide into two daughter cells. These events include the duplication of its DNA (DNA replication) and some of its organelles, and subsequently the partitioning of its cytoplasm and other components into two daughter cells in a process called cell division.
 
 In cells with nuclei (eukaryotes), (i.e., animal, plant, fungal, and protist cells), the cell cycle is divided into two main stages: interphase and the mitotic (M) phase (including mitosis and cytokinesis). During interphase, the cell grows, accumulating nutrients needed for mitosis, and replicates its DNA and some of its organelles. During the mitotic phase, the replicated chromosomes, organelles, and cytoplasm separate into two new daughter cells. To ensure the proper replication of cellular components and division, there are control mechanisms known as cell cycle checkpoints after each of the key steps of the cycle that determine if the cell can progress to the next phase.
 
@@ -46,7 +46,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 cellcyc <-  as_tibble(read.csv("data/cell_cycle.csv"))
 
-knitr::kable(cellcyc, col.names = c("State", "Phase", "Abbreviation", "Description"), digits = 2, align = 'llll', booktabs = TRUE) %>% collapse_rows(columns = 1, valign = "middle")
+knitr::kable(cellcyc, col.names = c("State", "Phase", "Abbreviation", "Description"), digits = 2, align = 'llll', booktabs = TRUE, caption = "Phases of the eukaryotic cell cycle") %>% collapse_rows(columns = 1, valign = "middle")
 ```
 
 After cell division, each of the daughter cells begin the interphase of a new cycle. Although the various stages of interphase are not usually morphologically distinguishable, each phase of the cell cycle has a distinct set of specialized biochemical processes that prepare the cell for initiation of cell division.
@@ -345,6 +345,8 @@ knitr::include_graphics("./figures/reproduction/TelophaseIF.jpg")
 
 ### Cytokinesis 
 
+Mitosis is immediately followed by cytokinesis, which divides the nuclei, cytoplasm, organelles and cell membrane into two cells containing roughly equal shares of these cellular components. Mitosis and cytokinesis together define the division of the mother cell into two daughter cells, genetically identical to each other and to their parent cell. This accounts for approximately 10% of the cell cycle.
+
 Cytokinesis is not a phase of mitosis but rather a separate process, necessary for completing cell division. In animal cells, a cleavage furrow (pinch) containing a contractile ring develops where the metaphase plate used to be, pinching off the separated nuclei. In both animal and plant cells, cell division is also driven by vesicles derived from the Golgi apparatus, which move along microtubules to the middle of the cell. In plants, this structure coalesces into a cell plate at the center of the phragmoplast and develops into a cell wall, separating the two nuclei. Each daughter cell has a complete copy of the genome of its parent cell. The end of cytokinesis marks the end of the M-phase.
 
 There are many cells where mitosis and cytokinesis occur separately, forming single cells with multiple nuclei. The most notable occurrence of this is among the fungi, slime molds, and coenocytic algae, but the phenomenon is found in various other organisms. Even in animals, cytokinesis and mitosis may occur independently, for instance during certain stages of fruit fly embryonic development.
@@ -355,12 +357,6 @@ Mitosis occurs in the following circumstances:
 * Cell replacement: In some parts of the body, e.g. skin and digestive tract, cells are constantly sloughed off and replaced by new ones. New cells are formed by mitosis and so are exact copies of the cells being replaced. 
 * Regeneration: Some organisms can regenerate body parts. The production of new cells in such instances is achieved by mitosis. For example, starfish regenerate lost arms through mitosis.
 * Asexual reproduction: Some organisms produce genetically similar offspring through asexual reproduction. For example, the hydra reproduces asexually by budding. The cells at the surface of hydra undergo mitosis and form a mass called a bud. Mitosis continues in the cells of the bud and this grows into a new individual. The same division happens during asexual reproduction or vegetative propagation in plants.
-
-### Cytokinesis phase (separation of all cell components)
-
-Mitosis is immediately followed by cytokinesis, which divides the nuclei, cytoplasm, organelles and cell membrane into two cells containing roughly equal shares of these cellular components. Mitosis and cytokinesis together define the division of the mother cell into two daughter cells, genetically identical to each other and to their parent cell. This accounts for approximately 10% of the cell cycle.
-
-Because cytokinesis usually occurs in conjunction with mitosis, "mitosis" is often used interchangeably with "M phase". However, there are many cells where mitosis and cytokinesis occur separately, forming single cells with multiple nuclei in a process called endoreplication. This occurs most notably among the fungi and slime molds, but is found in various groups. Even in animals, cytokinesis and mitosis may occur independently, for instance during certain stages of fruit fly embryonic development. Errors in mitosis can result in cell death through apoptosis or cause mutations that may lead to cancer.
 
 ## Regulation of The Eukaryotic Cell Cycle
 
