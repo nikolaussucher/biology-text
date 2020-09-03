@@ -219,7 +219,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 solutionspH <-  as_tibble(read.csv("data/pH_common_solutions.csv"))
 
-knitr::kable(solutionspH, col.names = c("Substance", "pH Range", "Type"), digits = 2, align = 'lcl', booktabs = "true", caption = "Average values of pH in common solutions") %>% kable_styling(latex_options = c("striped", "hold_position"))
+knitr::kable(solutionspH, col.names = c("Substance", "pH Range", "Type"), digits = 2, align = 'lcl', booktabs = TRUE, caption = "Average values of pH in common solutions") %>% kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
 The pH of different cellular compartments, body fluids, and organs is usually tightly regulated in a process called acid-base homeostasis. The most common disorder in acid-base homeostasis is acidosis, which means an acid overload in the body, generally defined by pH falling below 7.35. Alkalosis is the opposite condition, with blood pH being excessively high.
@@ -234,7 +234,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 systemspH <-  as_tibble(read.csv("data/pH_living_systems.csv"))
 
-knitr::kable(systemspH, col.names = c("Compartment", "ph"), digits = 2, align = 'lc', booktabs = "true", caption = "Values of pH in living systems") %>% kable_styling(latex_options = c("striped", "hold_position"))
+knitr::kable(systemspH, col.names = c("Compartment", "ph"), digits = 2, align = 'lc', booktabs = TRUE, caption = "Values of pH in living systems") %>% kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
 Many biologically important molecules are acids. Nucleic acids, which contain acidic phosphate groups, include DNA and RNA. Nucleic acids contain the genetic code that determines many of an organism's characteristics, and is passed from parents to offspring. DNA contains the chemical blueprint for the synthesis of proteins which are made up of amino acid subunits. Cell membranes contain fatty acid esters such as phospholipids.

@@ -56,14 +56,9 @@ Most membrane proteins must be inserted in some way into the membrane. For this 
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> Integral proteins </td>
+   <td style="text-align:left;"> Integral proteins or transmembrane proteins </td>
    <td style="text-align:left;"> Span the membrane and have a hydrophilic cytosolic domain, which interacts with internal molecules, a hydrophobic membrane-spanning domain that anchors it within the cell membrane, and a hydrophilic extracellular domain that interacts with external molecules. The hydrophobic domain consists of one, multiple, or a combination of α-helices and β sheet protein motifs. </td>
    <td style="text-align:left;"> Ion channels, proton pumps, G protein-coupled receptor </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> or transmembrane proteins </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Lipid anchored proteins </td>
