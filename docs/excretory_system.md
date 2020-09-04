@@ -124,8 +124,8 @@ In the first part of the nephron, Bowman's capsule filters blood from the circul
 (ref:nephphys) [The four main processes involved in the creation of urine: Excretion = Filtration - Reabsorption + Secretion](https://commons.wikimedia.org/wiki/File:Physiology_of_Nephron.svg) 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/excretory/Physiology_of_Nephron.svg" alt="(ref:)" width="70%" />
-<p class="caption">(\#fig:unnamed-chunk-1)(ref:)</p>
+<img src="./figures/excretory/Physiology_of_Nephron.svg" alt="(ref:nephphys)" width="70%" />
+<p class="caption">(\#fig:urinecreation)(ref:nephphys)</p>
 </div>
 
 (ref:secreabs) [Secretion and reabsorption of water, ions and various substances throughout the nephron.](https://upload.wikimedia.org/wikipedia/commons/2/26/2618_Nephron_Secretion_Reabsorption.jpg) 

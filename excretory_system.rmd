@@ -117,7 +117,7 @@ In the first part of the nephron, Bowman's capsule filters blood from the circul
 
 (ref:nephphys) [The four main processes involved in the creation of urine: Excretion = Filtration - Reabsorption + Secretion](https://commons.wikimedia.org/wiki/File:Physiology_of_Nephron.svg) 
 
-```{r , fig.cap='(ref:)', echo=FALSE, message=FALSE, warning=FALSE}
+```{r urinecreation, fig.cap='(ref:nephphys)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/excretory/Physiology_of_Nephron.svg")
 ```
 

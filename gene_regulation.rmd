@@ -18,7 +18,7 @@ Although glucose is the preferred carbon source for most bacteria, the *lac* ope
 
 Bacterial operons are polycistronic transcripts that are able to produce multiple proteins from one mRNA transcript. In this case, when lactose is required as a sugar source for the bacterium, the three genes of the *lac* operon can be expressed and their subsequent proteins translated: lacZ, lacY, and lacA. The gene product of lacZ is β-galactosidase which cleaves lactose, a disaccharide, into glucose and galactose. lacY encodes Beta-galactoside permease, a membrane protein which becomes embedded in the cytoplasmic membrane to enable the cellular transport of lactose into the cell. Finally, lacA encodes Galactoside acetyltransferase.
 
-(ref:lac) [](https://commons.wikimedia.org/wiki/File:Lac_operon1.png)
+(ref:lac) [Layout of the lac operon.](https://commons.wikimedia.org/wiki/File:Lac_operon1.png)
 
 ```{r lacoper, fig.cap='(ref:lac)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/regulation/Lac_operon1.png")

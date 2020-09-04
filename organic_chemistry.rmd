@@ -138,7 +138,7 @@ Most proteins fold into unique 3D structures. The shape into which a protein nat
 
 (ref:protstruc) [The amino-acid sequence, the primary structure of a protein, determines the secondary (α-helix and β-sheet), tertiary and quaternary protein structures](https://commons.wikimedia.org/wiki/File:Protein_structure.png)
 
-```{r proteinstructure , fig.cap='(ref:protstuc)', echo=FALSE, message=FALSE, warning=FALSE}
+```{r proteinstructure, fig.cap='(ref:protstuc)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/chemistry/Protein_structure.png")
 ```
 

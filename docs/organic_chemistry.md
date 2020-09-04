@@ -249,7 +249,7 @@ Most proteins fold into unique 3D structures. The shape into which a protein nat
 
 <div class="figure" style="text-align: center">
 <img src="./figures/chemistry/Protein_structure.png" alt="(ref:protstuc)" width="70%" />
-<p class="caption">(\#fig:proteinstructure )(ref:protstuc)</p>
+<p class="caption">(\#fig:proteinstructure)(ref:protstuc)</p>
 </div>
 
 Proteins are not entirely rigid molecules. In addition to these levels of structure, proteins may shift between several related structures while they perform their functions. In the context of these functional rearrangements, these tertiary or quaternary structures are usually referred to as "conformations", and transitions between them are called conformational changes. Such changes are often induced by the binding of a substrate molecule to an enzyme's active site, or the physical region of the protein that participates in chemical catalysis. In solution proteins also undergo variation in structure through thermal vibration and the collision with other molecules.

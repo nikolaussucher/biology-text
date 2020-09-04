@@ -219,8 +219,8 @@ Phagocytes of humans and other animals are called "professional" or "non-profess
 (ref:phago) [Scanning electron micrograph of a neutrophil phagocytosing anthrax bacilli (orange). Scale bar is 5 micrometers.](https://commons.wikimedia.org/wiki/File:Neutrophil_with_anthrax_copy.jpg) 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/immune/Neutrophil_with_anthrax_copy.jpg" alt="(ref:)" width="70%" />
-<p class="caption">(\#fig:unnamed-chunk-1)(ref:)</p>
+<img src="./figures/immune/Neutrophil_with_anthrax_copy.jpg" alt="(ref:phago)" width="70%" />
+<p class="caption">(\#fig:neutrophago)(ref:phago)</p>
 </div>
 
 During an infection, chemical signals attract phagocytes to places where the pathogen has invaded the body. These chemicals may come from bacteria or from other phagocytes already present. The phagocytes move by a method called chemotaxis. When phagocytes come into contact with bacteria, the receptors on the phagocyte's surface will bind to them. This binding will lead to the engulfing of the bacteria by the phagocyte. Some phagocytes kill the ingested pathogen with oxidants and nitric oxide. After phagocytosis, macrophages and dendritic cells can also participate in antigen presentation, a process in which a phagocyte moves parts of the ingested material back to its surface. This material is then displayed to other cells of the immune system. Some phagocytes then travel to the body's lymph nodes and display the material to white blood cells called lymphocytes. This process is important in building immunity, and many pathogens have evolved methods to evade attacks by phagocytes.

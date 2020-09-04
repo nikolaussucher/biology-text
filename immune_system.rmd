@@ -187,7 +187,7 @@ Phagocytes of humans and other animals are called "professional" or "non-profess
 
 (ref:phago) [Scanning electron micrograph of a neutrophil phagocytosing anthrax bacilli (orange). Scale bar is 5 micrometers.](https://commons.wikimedia.org/wiki/File:Neutrophil_with_anthrax_copy.jpg) 
 
-```{r , fig.cap='(ref:)', echo=FALSE, message=FALSE, warning=FALSE}
+```{r neutrophago, fig.cap='(ref:phago)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/immune/Neutrophil_with_anthrax_copy.jpg")
 ```
 
