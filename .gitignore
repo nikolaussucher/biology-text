@@ -7,3 +7,4 @@
 *.md
 _bookdown_files
 !README.md
+!docs/_main.pdf
