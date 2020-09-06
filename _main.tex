@@ -181,6 +181,20 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
+\usepackage{xcolor}
 
 \title{Text For Biology at Roxbury Community College}
 \author{Assembled by Nikolaus Sucher}
@@ -231,15 +245,15 @@ Sub-disciplines of biology are defined by the research methods employed and the 
 
 Biology derives from the Ancient Greek words of βίος; romanized bíos meaning ``life'' and -λογία; romanized logía (-logy) meaning ``branch of study'' or ``to speak''. Those combined make the Greek word βιολογία; romanized biología meaning biology. Despite this, the term βιολογία as a whole didn't exist in Ancient Greek. The first to borrow it was the English and French (biologie). Since the advent of the scientific era, reanalyzable as a compound using the combining forms bio + logy.
 
-The Latin-language form of the term first appeared in 1736 when Swedish scientist \href{https://en.wikipedia.org/wiki/Carl_Linnaeus}{Carl Linnaeus} (Carl von Linné) used biologi in his Bibliotheca Botanica. It was used again in 1766 in a work entitled Philosophiae naturalis sive physicae: tomus III, continens geologian, biologian, phytologian generalis, by Michael Christoph Hanov, a disciple of Christian Wolff. The first German use, Biologie, was in a 1771 translation of Linnaeus' work. In 1797, Theodor Georg August Roose used the term in the preface of a book, Grundzüge der Lehre van der Lebenskraft. Karl Friedrich Burdach used the term in 1800 in a more restricted sense of the study of human beings from a morphological, physiological and psychological perspective (Propädeutik zum Studien der gesammten Heilkunst). The term came into its modern usage with the six-volume treatise Biologie, oder Philosophie der lebenden Natur (1802--22) by Gottfried Reinhold Treviranus, who announced:
+The Latin-language form of the term first appeared in 1736 when Swedish scientist \href{https://en.wikipedia.org/wiki/Carl_Linnaeus}{Carl Linnaeus} (Carl von Linné) used biologi in his Bibliotheca Botanica. It was used again in 1766 in a work entitled Philosophiae naturalis sive physicae: tomus III, continens geologian, biologian, phytologian generalis, by \href{https://en.wikipedia.org/wiki/Michael_Christoph_Hanow}{Michael Christoph Hanov}, a disciple of \href{https://en.wikipedia.org/wiki/Christian_Wolff_(philosopher)}{Christian Wolff}. The first German use, Biologie, was in a 1771 translation of Linnaeus' work. In 1797, Theodor Georg August Roose used the term in the preface of a book, Grundzüge der Lehre van der Lebenskraft. \href{https://en.wikipedia.org/wiki/Karl_Friedrich_Burdach}{Karl Friedrich Burdach} used the term in 1800 in a more restricted sense of the study of human beings from a morphological, physiological and psychological perspective (Propädeutik zum Studien der gesammten Heilkunst). The term came into its modern usage with the six-volume treatise Biologie, oder Philosophie der lebenden Natur (1802--22) by \href{https://en.wikipedia.org/wiki/Gottfried_Reinhold_Treviranus}{Gottfried Reinhold Treviranus}, who announced:
 
 \begin{quote}
 The objects of our research will be the different forms and manifestations of life, the conditions and laws under which these phenomena occur, and the causes through which they have been effected. The science that concerns itself with these objects we will indicate by the name biology {[}Biologie{]} or the doctrine of life {[}Lebenslehre{]}.
 \end{quote}
 
-Although modern biology is a relatively recent development, sciences related to and included within it have been studied since ancient times. Natural philosophy was studied as early as the ancient civilizations of Mesopotamia, Egypt, the Indian subcontinent, and China. However, the origins of modern biology and its approach to the study of nature are most often traced back to ancient Greece. While the formal study of medicine dates back to Pharaonic Egypt, it was Aristotle (384--322 BC) who contributed most extensively to the development of biology. Especially important are his History of Animals and other works where he showed naturalist leanings, and later more empirical works that focused on biological causation and the diversity of life. Aristotle's successor at the Lyceum, Theophrastus, wrote a series of books on botany that survived as the most important contribution of antiquity to the plant sciences, even into the Middle Ages.
+Although modern biology is a relatively recent development, sciences related to and included within it have been studied since ancient times. Natural philosophy was studied as early as the ancient civilizations of Mesopotamia, Egypt, the Indian subcontinent, and China. However, the origins of modern biology and its approach to the study of nature are most often traced back to ancient Greece. While the formal study of medicine dates back to Pharaonic Egypt, it was \href{https://en.wikipedia.org/wiki/Aristotle}{Aristotle} (384--322 BC) who contributed most extensively to the development of biology. Especially important are his History of Animals and other works where he showed naturalist leanings, and later more empirical works that focused on biological causation and the diversity of life. Aristotle's successor at the Lyceum, \href{https://en.wikipedia.org/wiki/Theophrastus}{Theophrastus}, wrote a series of books on botany that survived as the most important contribution of antiquity to the plant sciences, even into the Middle Ages.
 
-Scholars of the medieval Islamic world who wrote on biology included al-Jahiz (781--869), Al-Dīnawarī (828--896), who wrote on botany, and Rhazes (865--925) who wrote on anatomy and physiology. Medicine was especially well studied by Islamic scholars working in Greek philosopher traditions, while natural history drew heavily on Aristotelian thought, especially in upholding a fixed hierarchy of life.
+Scholars of the medieval Islamic world who wrote on biology included \href{https://en.wikipedia.org/wiki/Al-Jahiz}{Al-Jahiz} (781--869), \href{https://en.wikipedia.org/wiki/Abu_Hanifa_Dinawari}{Al-Dīnawarī} (828--896), who wrote on botany, and Rhazes (865--925) who wrote on anatomy and physiology. Medicine was especially well studied by Islamic scholars working in Greek philosopher traditions, while natural history drew heavily on Aristotelian thought, especially in upholding a fixed hierarchy of life.
 
 Biology began to quickly develop and grow with \href{https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek}{Anton van Leeuwenhoek's} dramatic improvement of the microscope. It was then that scholars discovered spermatozoa, bacteria, infusoria and the diversity of microscopic life. Investigations by Jan Swammerdam led to new interest in entomology and helped to develop the basic techniques of microscopic dissection and staining.
 
@@ -249,7 +263,7 @@ Meanwhile, taxonomy and classification became the focus of natural historians. C
 
 Serious evolutionary thinking originated with the works of \href{https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck}{Jean-Baptiste Lamarck}, who was the first to present a coherent theory of evolution. He posited that evolution was the result of environmental stress on properties of animals, meaning that the more frequently and rigorously an organ was used, the more complex and efficient it would become, thus adapting the animal to its environment. Lamarck believed that these acquired traits could then be passed on to the animal's offspring, who would further develop and perfect them. However, it was the British naturalist \href{https://en.wikipedia.org/wiki/Charles_Darwin}{Charles Darwin}, combining the biogeographical approach of Humboldt, the uniformitarian geology of Lyell, Malthus's writings on population growth, and his own morphological expertise and extensive natural observations, who forged a more successful evolutionary theory based on natural selection; similar reasoning and evidence led \href{https://en.wikipedia.org/wiki/Alfred_Russel_Wallace}{Alfred Russel Wallace} to independently reach the same conclusions. Although it was the subject of controversy (which continues to this day), Darwin's theory quickly spread through the scientific community and soon became a central axiom of the rapidly developing science of biology.
 
-The discovery of the physical representation of heredity came along with evolutionary principles and population genetics. In the 1940s and early 1950s, experiments pointed to DNA as the component of chromosomes that held the trait-carrying units that had become known as genes. A focus on new kinds of model organisms such as viruses and bacteria, along with the discovery of the double-helical structure of DNA in 1953, marked the transition to the era of molecular genetics. From the 1950s to the present times, biology has been vastly extended in the molecular domain. The genetic code was cracked by Har Gobind Khorana, Robert W. Holley and Marshall Warren Nirenberg after DNA was understood to contain codons. Finally, the Human Genome Project was launched in 1990 with the goal of mapping the general human genome. This project was essentially completed in 2003, with further analysis still being published. The Human Genome Project was the first step in a globalized effort to incorporate accumulated knowledge of biology into a functional, molecular definition of the human body and the bodies of other organisms.
+The discovery of the physical representation of heredity came along with evolutionary principles and population genetics. In the 1940s and early 1950s, experiments pointed to DNA as the component of chromosomes that held the trait-carrying units that had become known as genes. A focus on new kinds of model organisms such as viruses and bacteria, along with the discovery of the double-helical structure of DNA in 1953, marked the transition to the era of molecular genetics. From the 1950s to the present times, biology has been vastly extended in the molecular domain. The genetic code was cracked by \href{https://en.wikipedia.org/wiki/Har_Gobind_Khorana}{Har Gobind Khorana}, \href{https://en.wikipedia.org/wiki/Robert_W._Holley}{Robert W. Holley} and \href{https://en.wikipedia.org/wiki/Marshall_Warren_Nirenberg}{Marshall Warren Nirenberg} after DNA was understood to contain codons. Finally, the Human Genome Project was launched in 1990 with the goal of mapping the general human genome. This project was essentially completed in 2003, with further analysis still being published. The Human Genome Project was the first step in a globalized effort to incorporate accumulated knowledge of biology into a functional, molecular definition of the human body and the bodies of other organisms.
 
 \hypertarget{characteristics-of-life}{%
 \section{Characteristics of Life}\label{characteristics-of-life}}
@@ -301,7 +315,7 @@ Life on Earth is based on carbon and water. Carbon provides stable frameworks fo
 
 \href{https://en.wikipedia.org/wiki/Abiogenesis}{Abiogenesis}, or informally the origin of life, is the natural process of life arising from non-living matter, such as simple organic compounds. The prevailing scientific hypothesis is that the transition from non-living to living entities was not a single event, but a gradual process of increasing complexity. Although the occurrence of abiogenesis is uncontroversial among scientists, its possible mechanisms are poorly understood. There are several principles and hypotheses for how abiogenesis could have occurred. Life on Earth first appeared as early as 4.28 billion years ago, soon after ocean formation 4.41 billion years ago, and not long after the formation of the Earth 4.54 billion years ago. The earliest known life forms are microfossils of bacteria.
 
-There is no current scientific consensus as to how life originated. However, many accepted scientific models build on the Miller--Urey experiment and the work of Sidney Fox, which show that conditions on the primitive Earth favored chemical reactions that synthesize amino acids and other organic compounds from inorganic precursors, and phospholipids spontaneously form lipid bilayers, the basic structure of a cell membrane.
+There is no current scientific consensus as to how life originated. However, many accepted scientific models build on the \href{https://en.wikipedia.org/wiki/Miller–Urey_experiment}{Miller--Urey experiment} and the work of \href{https://en.wikipedia.org/wiki/Sidney_W._Fox}{Sidney Fox}, which show that conditions on the primitive Earth favored chemical reactions that synthesize amino acids and other organic compounds from inorganic precursors, and phospholipids spontaneously form lipid bilayers, the basic structure of a cell membrane.
 
 The classic 1952 Miller--Urey experiment (Figure \ref{fig:millerurey}) demonstrated that most amino acids, the chemical constituents of the proteins used in all living organisms, can be synthesized from inorganic compounds under conditions intended to replicate those of the early Earth. The experiment used water (H\textsubscript{2}O), methane (CH\textsubscript{4}), ammonia (NH\textsubscript{3}), and hydrogen (H\textsubscript{2}). The chemicals were all sealed inside a sterile 5-liter glass flask connected to a 500 ml flask half-full of water. The water in the smaller flask was heated to induce evaporation, and the water vapour was allowed to enter the larger flask. Continuous electrical sparks were fired between the electrodes to simulate lightning in the water vapour and gaseous mixture, and then the simulated atmosphere was cooled again so that the water condensed and trickled into a U-shaped trap at the bottom of the apparatus.
 
@@ -322,7 +336,7 @@ Living organisms synthesize proteins, which are polymers of amino acids using in
 
 However, because genes and proteins are both required to produce the other, the problem of considering which came first is like that of the chicken or the egg. Most scientists have adopted the hypothesis that because of this, it is unlikely that genes and proteins arose independently.
 
-Therefore, a possibility, first suggested by Francis Crick, is that the first life was based on RNA, which has the DNA-like properties of information storage and the catalytic properties of some proteins. This is called the RNA world hypothesis, and it is supported by the observation that many of the most critical components of cells (those that evolve the slowest) are composed mostly or entirely of RNA. Also, many critical cofactors (ATP, Acetyl-CoA, NADH, etc.) are either nucleotides or substances clearly related to them. The catalytic properties of RNA had not yet been demonstrated when the hypothesis was first proposed, but they were confirmed by Thomas Cech in 1986.
+Therefore, a possibility, first suggested by \href{https://en.wikipedia.org/wiki/Francis_Crick}{Francis Crick}, is that the first life was based on RNA, which has the DNA-like properties of information storage and the catalytic properties of some proteins. This is called the RNA world hypothesis, and it is supported by the observation that many of the most critical components of cells (those that evolve the slowest) are composed mostly or entirely of RNA. Also, many critical cofactors (ATP, Acetyl-CoA, NADH, etc.) are either nucleotides or substances clearly related to them. The catalytic properties of RNA had not yet been demonstrated when the hypothesis was first proposed, but they were confirmed by \href{https://en.wikipedia.org/wiki/Thomas_Cech}{Thomas Cech} in 1986.
 
 One issue with the RNA world hypothesis is that synthesis of RNA from simple inorganic precursors is more difficult than for other organic molecules. One reason for this is that RNA precursors are very stable and react with each other very slowly under ambient conditions, and it has also been proposed that living organisms consisted of other molecules before RNA. However, the successful synthesis of certain RNA molecules under the conditions that existed prior to life on Earth has been achieved by adding alternative precursors in a specified order with the precursor phosphate present throughout the reaction. This study makes the RNA world hypothesis more plausible.
 
@@ -357,7 +371,7 @@ Since its primordial beginnings, life on Earth has changed its environment on a 
 
 \href{https://en.wikipedia.org/wiki/Cell_theory}{Cell theory} states that the cell is the fundamental unit of life, that all living things are composed of one or more cells, and that all cells arise from pre-existing cells through cell division. In multicellular organisms, every cell in the organism's body derives ultimately from a single cell in a fertilized egg. The cell is also considered to be the basic unit in many pathological processes. In addition, the phenomenon of energy flow occurs in cells in processes that are part of the function known as metabolism. Finally, cells contain hereditary information (DNA), which is passed from cell to cell during cell division. Research into the origin of life, abiogenesis, amounts to an attempt to discover the origin of the first cells.
 
-Cells are the basic unit of structure in every living thing, and all cells arise from pre-existing cells by division. Cell theory was formulated by Henri Dutrochet, Theodor Schwann, Rudolf Virchow and others during the early nineteenth century, and subsequently became widely accepted. The activity of an organism depends on the total activity of its cells, with energy flow occurring within and between them. Cells contain hereditary information that is carried forward as a genetic code during cell division.
+Cells are the basic unit of structure in every living thing, and all cells arise from pre-existing cells by division. Cell theory was formulated by \href{https://en.wikipedia.org/wiki/Henri_Dutrochet}{Henri Dutrochet}, \href{https://en.wikipedia.org/wiki/Theodor_Schwann}{Theodor Schwann}, \href{https://en.wikipedia.org/wiki/Matthias_Jakob_Schleiden}{Matthias Jakob Schleiden}, \href{https://en.wikipedia.org/wiki/Rudolf_Virchow}{Rudolf Virchow} and others during the early nineteenth century, and subsequently became widely accepted. The activity of an organism depends on the total activity of its cells, with energy flow occurring within and between them. Cells contain hereditary information that is carried forward as a genetic code during cell division.
 
 There are two primary types of cells. \href{https://en.wikipedia.org/wiki/Prokaryote}{Prokaryotes} lack a nucleus and other membrane-bound organelles, although they have circular DNA and ribosomes. \href{https://en.wikipedia.org/wiki/Bacteria}{Bacteria} and \href{https://en.wikipedia.org/wiki/Archaea}{Archaea} are two domains of prokaryotes. The other primary type of cells are the \href{https://en.wikipedia.org/wiki/Eukaryote}{eukaryotes}, which have distinct nuclei bound by a nuclear membrane and membrane-bound organelles, including mitochondria, chloroplasts, lysosomes, rough and smooth endoplasmic reticulum, and vacuoles. In addition, they possess organized chromosomes that store genetic material. All species of large complex organisms are eukaryotes, including animals, plants and fungi, though most species of eukaryote are protist microorganisms. The conventional model is that eukaryotes evolved from prokaryotes, with the main organelles of the eukaryotes forming through endosymbiosis between bacteria and the progenitor eukaryotic cell.
 
@@ -1164,7 +1178,7 @@ H\textsubscript{3}O\textsuperscript{+} + OH\textsuperscript{-} to form water. Wa
 
 Earth surface waters are filled with life. The earliest life forms appeared in water; nearly all fish live exclusively in water, and there are many types of marine mammals, such as dolphins and whales. Some kinds of animals, such as amphibians, spend portions of their lives in water and portions on land. Plants such as kelp and algae grow in the water and are the basis for some underwater ecosystems. Plankton is generally the foundation of the ocean food chain.
 
-Aquatic vertebrates must obtain oxygen to survive, and they do so in various ways. Fish have gills instead of lungs, although some species of fish, such as the lungfish, have both. Marine mammals, such as dolphins, whales, otters, and seals need to surface periodically to breathe air. Some amphibians are able to absorb oxygen through their skin. Invertebrates exhibit a wide range of modifications to survive in poorly oxygenated waters including breathing tubes (see insect and mollusc siphons) and gills (Carcinus). However as invertebrate life evolved in an aquatic habitat most have little or no specialization for respiration in water.
+Aquatic vertebrates must obtain oxygen to survive, and they do so in various ways. Fish have gills instead of lungs, although some species of fish, such as the lungfish, have both. Marine mammals, such as dolphins, whales, otters, and seals need to surface periodically to breathe air. Some amphibians are able to absorb oxygen through their skin. Invertebrates exhibit a wide range of modifications to survive in poorly oxygenated waters including breathing tubes and gills. However as invertebrate life evolved in an aquatic habitat most have little or no specialization for respiration in water.
 
 ``Water'' is the name of the liquid state of H\textsubscript{2}O at standard ambient temperature and pressure. It forms precipitation in the form of rain and aerosols in the form of fog. Clouds are formed from suspended droplets of water and ice, its solid state. When finely divided, crystalline ice may precipitate in the form of snow. The gaseous state of water is steam or water vapor. Water moves continually through the water cycle of evaporation, transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea.
 
@@ -1404,7 +1418,7 @@ Most proteins fold into unique 3D structures. The shape into which a protein nat
 
 }
 
-\caption{(ref:protstuc)}(\#fig:proteinstructure )
+\caption{(ref:protstuc)}\label{fig:proteinstructure}
 \end{figure}
 
 Proteins are not entirely rigid molecules. In addition to these levels of structure, proteins may shift between several related structures while they perform their functions. In the context of these functional rearrangements, these tertiary or quaternary structures are usually referred to as ``conformations'', and transitions between them are called conformational changes. Such changes are often induced by the binding of a substrate molecule to an enzyme's active site, or the physical region of the protein that participates in chemical catalysis. In solution proteins also undergo variation in structure through thermal vibration and the collision with other molecules.
@@ -3592,47 +3606,53 @@ During mitosis, microtubules grow from centrosomes located at opposite ends of t
 \hypertarget{human-chromosomes}{%
 \subsection{Human chromosomes}\label{human-chromosomes}}
 
-Chromosomes in humans can be divided into two types: autosomes (body chromosome(s)) and allosomes (sex chromosome(s)). Certain genetic traits are linked to a person's sex and are passed on through the sex chromosomes. The autosomes contain the rest of the genetic hereditary information. All act in the same way during cell division. Human cells have 23 pairs of chromosomes (22 pairs of autosomes and one pair of sex chromosomes), giving a total of 46 per cell (Figure \ref{fig:karyotype}). In addition to these, human cells have many hundreds of copies of the mitochondrial genome. Sequencing of the human genome has provided a great deal of information about each of the chromosomes (Table \ref{tab:chr}).
+Chromosomes in humans can be divided into two types: autosomes (body chromosome(s)) and allosomes (sex chromosome(s)). Certain genetic traits are linked to a person's sex and are passed on through the sex chromosomes. The autosomes contain the rest of the genetic hereditary information. All act in the same way during cell division. Human cells have 23 pairs of chromosomes (22 pairs of autosomes and one pair of sex chromosomes), giving a total of 46 per cell (Figure \ref{fig:karyotype}). In addition to these, human cells have many hundreds of copies of the mitochondrial genome. Sequencing of the human genome has provided a great deal of information about each of the chromosomes (Table \ref{tab:humanchromosomes}).
 
-\begin{longtable}[]{@{}crr@{}}
-\caption{\label{tab:chr} \href{https://www.ncbi.nlm.nih.gov/grc/human/data}{Human Genome Assembly GRCh38.p12 (nucleotides) and GRCh38.p13 (coding genes)}. Length of DNA sequence and number of coding genes of each human chromosome. Total lengths are calculated by summing the length of the sequenced bases and estimated gaps.}\tabularnewline
+
+
+\begin{table}[!h]
+
+\caption{\label{tab:humanchromosomes}\href{https://www.ncbi.nlm.nih.gov/grc/human/data}{Human Genome Assembly GRCh38.p12 (nucleotides) and GRCh38.p13 (coding genes)}. Length of DNA sequence and number of coding genes of each human chromosome. Total lengths are calculated by summing the length of the sequenced bases and estimated gaps.}
+\centering
+\begin{tabular}[t]{ccc}
 \toprule
-Chromosome & Total length & Coding genes\tabularnewline
+Chromosome & Total Length & Coding Genes\\
 \midrule
-\endfirsthead
-\toprule
-Chromosome & Total length & Coding genes\tabularnewline
-\midrule
-\endhead
-1 & 248,956,422 & 2,057\tabularnewline
-2 & 242,193,529 & 1,303\tabularnewline
-3 & 198,295,559 & 1,078\tabularnewline
-4 & 190,214,555 & 753\tabularnewline
-5 & 181,538,259 & 885\tabularnewline
-6 & 170,805,979 & 1,048\tabularnewline
-7 & 159,345,973 & 999\tabularnewline
-8 & 145,138,636 & 685\tabularnewline
-9 & 138,394,717 & 780\tabularnewline
-10 & 133,797,422 & 733\tabularnewline
-11 & 135,086,622 & 1,317\tabularnewline
-12 & 133,275,309 & 1,034\tabularnewline
-13 & 114,364,328 & 321\tabularnewline
-14 & 107,043,718 & 819\tabularnewline
-15 & 101,991,189 & 613\tabularnewline
-16 & 90,338,345 & 859\tabularnewline
-17 & 83,257,441 & 1,186\tabularnewline
-18 & 80,373,285 & 268\tabularnewline
-19 & 58,617,616 & 1,473\tabularnewline
-20 & 64,444,167 & 546\tabularnewline
-21 & 46,709,983 & 233\tabularnewline
-22 & 50,818,468 & 494\tabularnewline
-X & 156,040,895 & 852\tabularnewline
-Y & 57,227,415 & 66\tabularnewline
-MT & 16,569 & 13\tabularnewline
-Unplaced & 4,485,509 &\tabularnewline
-Genome & 3,099,734,149 & 20,415\tabularnewline
+\rowcolor{gray!6}  1 & 248,956,422 & 2,057\\
+2 & 242,193,529 & 1,303\\
+\rowcolor{gray!6}  3 & 198,295,559 & 1,078\\
+4 & 190,214,555 & 753\\
+\rowcolor{gray!6}  5 & 181,538,259 & 885\\
+\addlinespace
+6 & 170,805,979 & 1,048\\
+\rowcolor{gray!6}  7 & 159,345,973 & 999\\
+8 & 145,138,636 & 685\\
+\rowcolor{gray!6}  9 & 138,394,717 & 780\\
+10 & 133,797,422 & 733\\
+\addlinespace
+\rowcolor{gray!6}  11 & 135,086,622 & 1,317\\
+12 & 133,275,309 & 1,034\\
+\rowcolor{gray!6}  13 & 114,364,328 & 32\\
+14 & 107,043,718 & 81\\
+\rowcolor{gray!6}  15 & 101,991,189 & 61\\
+\addlinespace
+16 & 90,338,345 & 859\\
+\rowcolor{gray!6}  17 & 83,257,441 & 1,186\\
+18 & 80,373,285 & 268\\
+\rowcolor{gray!6}  19 & 58,617,616 & 1,473\\
+20 & 64,444,167 & 546\\
+\addlinespace
+\rowcolor{gray!6}  21 & 46,709,983 & 233\\
+22 & 50,818,468 & 494\\
+\rowcolor{gray!6}  X & 156,040,895 & 852\\
+Y & 57,227,415 & 66\\
+\rowcolor{gray!6}  MT & 16,569 & 13\\
+\addlinespace
+Unplaced & 4,485,509 & \\
+\rowcolor{gray!6}  Genome & 3,099,734,149 & 20,415\\
 \bottomrule
-\end{longtable}
+\end{tabular}
+\end{table}
 
 \hypertarget{number-of-chromosomes-in-various-organisms}{%
 \subsection{Number of Chromosomes in Various Organisms}\label{number-of-chromosomes-in-various-organisms}}
@@ -3641,66 +3661,51 @@ The following tables (Tables \ref{tab:numplants} and \ref{tab:numanimals}) give 
 
 Normal members of a particular eukaryotic species all have the same number of nuclear chromosomes. Other eukaryotic chromosomes, i.e., mitochondrial and plasmid-like small chromosomes, are much more variable in number, and there may be thousands of copies per cell.
 
-\begin{longtable}[]{@{}lc@{}}
-\caption{\label{tab:numplants} Chromosome numbers in some plants.}\tabularnewline
-\toprule
-Plant Species & \#\tabularnewline
-\midrule
-\endfirsthead
-\toprule
-Plant Species & \#\tabularnewline
-\midrule
-\endhead
-Adder's tongue fern (polyploid) & approx. 1,200\tabularnewline
-Arabidopsis thaliana (diploid) & 10\tabularnewline
-Einkorn wheat (diploid) & 14\tabularnewline
-Rye (diploid) & 14\tabularnewline
-Maize (diploid or palaeotetraploid) & 20\tabularnewline
-Durum wheat (tetraploid) & 28\tabularnewline
-Bread wheat (hexaploid) & 42\tabularnewline
-Cultivated tobacco (tetraploid) & 48\tabularnewline
-\bottomrule
-\end{longtable}
 
-\begin{longtable}[]{@{}lc@{}}
-\caption{\label{tab:numanimals} Chromosome numbers (2n) in some animals.}\tabularnewline
+
+\begin{table}[!h]
+
+\caption{\label{tab:numplants}Chromosome numbers in some plants.}
+\centering
+\begin{tabular}[t]{lr}
 \toprule
-Species & \#\tabularnewline
+Plant & Number of Chromosomes\\
 \midrule
-\endfirsthead
-\toprule
-Species & \#\tabularnewline
-\midrule
-\endhead
-Indian muntjac & 7\tabularnewline
-Common fruit fly & 8\tabularnewline
-Pill millipede (\emph{Arthrosphaera fumosa}) & 30\tabularnewline
-Earthworm (\emph{Octodrilus complanatus}) & 36\tabularnewline
-Tibetan fox & 36\tabularnewline
-Domestic cat & 38\tabularnewline
-Domestic pig & 38\tabularnewline
-Laboratory mouse & 40\tabularnewline
-Laboratory rat & 42\tabularnewline
-Rabbit (\emph{Oryctolagus cuniculus}) & 44\tabularnewline
-Syrian hamster & 44\tabularnewline
-Guppy (\emph{Poecilia reticulata}) & 46\tabularnewline
-Human & 46\tabularnewline
-Hares & 48\tabularnewline
-Gorillas, chimpanzees & 48\tabularnewline
-Domestic sheep & 54\tabularnewline
-Garden snail & 54\tabularnewline
-Silkworm & 56\tabularnewline
-Elephants & 56\tabularnewline
-Cow & 60\tabularnewline
-Donkey & 62\tabularnewline
-Guinea pig & 64\tabularnewline
-Horse & 64\tabularnewline
-Dog & 78\tabularnewline
-Hedgehog & 90\tabularnewline
-Goldfish & 100--104\tabularnewline
-Kingfisher & 132\tabularnewline
+\rowcolor{gray!6}  Adder's tongue fern (polyploid) & approx. 1,200\\
+Arabidopsis thaliana (diploid) & 10\\
+\rowcolor{gray!6}  Einkorn wheat (diploid) & 14\\
+Rye (diploid) & 14\\
+\rowcolor{gray!6}  Maize (diploid or palaeotetraploid) & 20\\
+\addlinespace
+Durum wheat (tetraploid) & 28\\
+\rowcolor{gray!6}  Bread wheat (hexaploid) & 42\\
+Cultivated tobacco (tetraploid) & 48\\
 \bottomrule
-\end{longtable}
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}[!h]
+
+\caption{\label{tab:numanimals}Chromosome numbers (2n) in some animals.}
+\centering
+\begin{tabular}[t]{lr}
+\toprule
+Animal & Number of Chromosomes\\
+\midrule
+\rowcolor{gray!6}  Adder's tongue fern (polyploid) & approx. 1,200\\
+Arabidopsis thaliana (diploid) & 10\\
+\rowcolor{gray!6}  Einkorn wheat (diploid) & 14\\
+Rye (diploid) & 14\\
+\rowcolor{gray!6}  Maize (diploid or palaeotetraploid) & 20\\
+\addlinespace
+Durum wheat (tetraploid) & 28\\
+\rowcolor{gray!6}  Bread wheat (hexaploid) & 42\\
+Cultivated tobacco (tetraploid) & 48\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 Asexually reproducing species have one set of chromosomes that are the same in all body cells. However, asexual species can be either haploid or diploid.
 
@@ -4329,41 +4334,20 @@ Mendel hypothesized that allele pairs separate randomly, or segregate, from each
 
 The genotype of an individual is made up of the many alleles it possesses. The phenotype is the result of the expression of all characteristics that are genetically determined by its alleles as well as by its environment. The presence of an allele does not mean that the trait will be expressed in the individual that possesses it. If the two alleles of an inherited pair differ (the heterozygous condition), then one determines the organism's appearance and is called the dominant allele; the other has no noticeable effect on the organism's appearance and is called the recessive allele.
 
-\begin{longtable}[]{@{}ll@{}}
-\caption{\label{tab:mendel} Mendel's Laws of Inheritance.}\tabularnewline
+\begin{table}[!h]
+
+\caption{\label{tab:laws}Mendel's Laws of Inheritance.}
+\centering
+\begin{tabular}[t]{ll}
 \toprule
-\begin{minipage}[b]{0.22\columnwidth}\raggedright
-Law\strut
-\end{minipage} & \begin{minipage}[b]{0.72\columnwidth}\raggedright
-Definition\strut
-\end{minipage}\tabularnewline
+Law & Definition\\
 \midrule
-\endfirsthead
-\toprule
-\begin{minipage}[b]{0.22\columnwidth}\raggedright
-Law\strut
-\end{minipage} & \begin{minipage}[b]{0.72\columnwidth}\raggedright
-Definition\strut
-\end{minipage}\tabularnewline
-\midrule
-\endhead
-\begin{minipage}[t]{0.22\columnwidth}\raggedright
-Law of dominance\strut
-\end{minipage} & \begin{minipage}[t]{0.72\columnwidth}\raggedright
-Some alleles are dominant while others are recessive; an organism with at least one dominant allele will display the effect of the dominant allele.\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.22\columnwidth}\raggedright
-Law of segregation\strut
-\end{minipage} & \begin{minipage}[t]{0.72\columnwidth}\raggedright
-During gamete formation, the alleles for each gene segregate from each other so that each gamete carries only one allele for each gene.\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.22\columnwidth}\raggedright
-Law of independent assortment\strut
-\end{minipage} & \begin{minipage}[t]{0.72\columnwidth}\raggedright
-Genes for different traits can segregate independently during the formation of gametes.\strut
-\end{minipage}\tabularnewline
+\rowcolor{gray!6}  Law of dominance & Some alleles are dominant while others are recessive; an organism with at least one dominant allele will display the effect of the dominant allele.\\
+Law of segregation & During gamete formation, the alleles for each gene segregate from each other so that each gamete carries only one allele for each gene.\\
+\rowcolor{gray!6}  Law of independent assortment & Genes for different traits can segregate independently during the formation of gametes.\\
 \bottomrule
-\end{longtable}
+\end{tabular}
+\end{table}
 
 \hypertarget{law-of-dominance-and-uniformity}{%
 \subsection{Law of Dominance and Uniformity}\label{law-of-dominance-and-uniformity}}
@@ -4500,7 +4484,7 @@ A dihybrid cross is a cross between two different lines (varieties, strains) tha
 \caption{Dihybrid cross}\label{fig:dihybrid}
 \end{figure}
 
-The rules of meiosis, as they apply to the dihybrid, are codified in Mendel's first law and Mendel's second law, which are also called the Law of Segregation and the Law of Independent Assortment, respectively (Table \ref{tab:mendel}). For genes on separate chromosomes, each allele pair showed independent segregation. If the first filial generation (F1 generation) produces four identical offspring, the second filial generation, which occurs by crossing the members of the first filial generation, shows a phenotypic (appearance) ratio of \textbf{9:3:3:1}, where:
+The rules of meiosis, as they apply to the dihybrid, are codified in Mendel's first law and Mendel's second law, which are also called the Law of Segregation and the Law of Independent Assortment, respectively (Table \ref{tab:laws}). For genes on separate chromosomes, each allele pair showed independent segregation. If the first filial generation (F1 generation) produces four identical offspring, the second filial generation, which occurs by crossing the members of the first filial generation, shows a phenotypic (appearance) ratio of \textbf{9:3:3:1}, where:
 
 \begin{itemize}
 \tightlist
@@ -5663,7 +5647,7 @@ Bacterial operons are polycistronic transcripts that are able to produce multipl
 
 }
 
-\caption{\href{https://commons.wikimedia.org/wiki/File:Lac_operon1.png}{}}\label{fig:lacoper}
+\caption{\href{https://commons.wikimedia.org/wiki/File:Lac_operon1.png}{Layout of the lac operon.}}\label{fig:lacoper}
 \end{figure}
 
 It would be wasteful to produce enzymes when no lactose were available or if a preferable energy source such as glucose were available. The \emph{lac} operon uses a two-part control mechanism to ensure that the cell expends energy producing the enzymes encoded by the \emph{lac} operon only when necessary. In the absence of lactose, the \emph{lac} repressor, lacI, halts production of the enzymes encoded by the \emph{lac} operon. The \emph{lac} repressor is always expressed unless a co-inducer binds to it. In other words, it is transcribed only in the presence of small molecule co-inducer. In the presence of glucose, the catabolite activator protein (CAP), required for production of the enzymes, remains inactive, and EIIAGlc shuts down lactose permease to prevent transport of lactose into the cell. This dual control mechanism causes the sequential utilization of glucose and lactose in two distinct growth phases, known as diauxie.
@@ -7091,22 +7075,22 @@ In terms of practical application, an understanding of evolution has been instru
 \hypertarget{history-of-evolutionary-thought}{%
 \section{History of Evolutionary Thought}\label{history-of-evolutionary-thought}}
 
-The proposal that one type of organism could descend from another type goes back to some of the first pre-Socratic Greek philosophers, such as Anaximander and Empedocles. Such proposals survived into Roman times.
+The proposal that one type of organism could descend from another type goes back to some of the first pre-Socratic Greek philosophers, such as \href{https://en.wikipedia.org/wiki/Anaximander}{Anaximander} and \href{https://en.wikipedia.org/wiki/Empedocles}{Empedocles}. Such proposals survived into Roman times.
 
 In contrast to these materialistic views, Aristotelianism considered all natural things as actualisations of fixed natural possibilities, known as forms. This was part of a medieval teleological understanding of nature in which all things have an intended role to play in a divine cosmic order. Variations of this idea became the standard understanding of the Middle Ages and were integrated into Christian learning, but Aristotle did not demand that real types of organisms always correspond one-for-one with exact metaphysical forms and specifically gave examples of how new types of living things could come to be.
 
-In the 17th century, the new method of modern science rejected the Aristotelian approach. It sought explanations of natural phenomena in terms of physical laws that were the same for all visible things and that did not require the existence of any fixed natural categories or divine cosmic order. However, this new approach was slow to take root in the biological sciences, the last bastion of the concept of fixed natural types. John Ray applied one of the previously more general terms for fixed natural types, ``species'', to plant and animal types, but he strictly identified each type of living thing as a species and proposed that each species could be defined by the features that perpetuated themselves generation after generation. The biological classification introduced by Carl Linnaeus in 1735 explicitly recognised the hierarchical nature of species relationships, but still viewed species as fixed according to a divine plan.
+In the 17th century, the new method of modern science rejected the Aristotelian approach. It sought explanations of natural phenomena in terms of physical laws that were the same for all visible things and that did not require the existence of any fixed natural categories or divine cosmic order. However, this new approach was slow to take root in the biological sciences, the last bastion of the concept of fixed natural types. John Ray applied one of the previously more general terms for fixed natural types, ``species'', to plant and animal types, but he strictly identified each type of living thing as a species and proposed that each species could be defined by the features that perpetuated themselves generation after generation. The biological classification introduced by \href{https://en.wikipedia.org/wiki/Carl_Linnaeus}{Carl Linnaeus} in 1735 explicitly recognised the hierarchical nature of species relationships, but still viewed species as fixed according to a divine plan.
 
-Other naturalists of this time speculated on the evolutionary change of species over time according to natural laws. In 1751, Pierre Louis Maupertuis wrote of natural modifications occurring during reproduction and accumulating over many generations to produce new species. Georges-Louis Leclerc, Comte de Buffon suggested that species could degenerate into different organisms, and Erasmus Darwin proposed that all warm-blooded animals could have descended from a single microorganism (or ``filament''). The first full-fledged evolutionary scheme was Jean-Baptiste Lamarck's ``transmutation'' theory of 1809, which envisaged spontaneous generation continually producing simple forms of life that developed greater complexity in parallel lineages with an inherent progressive tendency, and postulated that on a local level, these lineages adapted to the environment by inheriting changes caused by their use or disuse in parents. (The latter process was later called Lamarckism.) These ideas were condemned by established naturalists as speculation lacking empirical support. In particular, Georges Cuvier insisted that species were unrelated and fixed, their similarities reflecting divine design for functional needs. In the meantime, Ray's ideas of benevolent design had been developed by William Paley into the Natural Theology or Evidences of the Existence and Attributes of the Deity (1802), which proposed complex adaptations as evidence of divine design and which was admired by Charles Darwin.
+Other naturalists of this time speculated on the evolutionary change of species over time according to natural laws. In 1751, \href{https://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis}{Pierre Louis Maupertuis} wrote of natural modifications occurring during reproduction and accumulating over many generations to produce new species. \href{https://en.wikipedia.org/wiki/Georges-Louis_Leclerc,_Comte_de_Buffon}{Georges-Louis Leclerc}, Comte de Buffon suggested that species could degenerate into different organisms, and Erasmus Darwin proposed that all warm-blooded animals could have descended from a single microorganism (or ``filament''). The first full-fledged evolutionary scheme was \href{https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck}{Jean-Baptiste Lamarck's} ``transmutation'' theory of 1809, which envisaged spontaneous generation continually producing simple forms of life that developed greater complexity in parallel lineages with an inherent progressive tendency, and postulated that on a local level, these lineages adapted to the environment by inheriting changes caused by their use or disuse in parents. (The latter process was later called Lamarckism.) These ideas were condemned by established naturalists as speculation lacking empirical support. In particular, \href{https://en.wikipedia.org/wiki/Georges_Cuvier}{Georges Cuvier} insisted that species were unrelated and fixed, their similarities reflecting divine design for functional needs. In the meantime, \href{https://en.wikipedia.org/wiki/John_Ray}{John Ray's} ideas of benevolent design had been developed by \href{https://en.wikipedia.org/wiki/William_Paley}{William Paley} into the Natural Theology or Evidences of the Existence and Attributes of the Deity (1802), which proposed complex adaptations as evidence of divine design and which was admired by Charles Darwin.
 
-The crucial break from the concept of constant typological classes or types in biology came with the theory of evolution through natural selection, which was formulated by Charles Darwin in terms of variable populations. Darwin used the expression ``descent with modification'' rather than ``evolution''. Partly influenced by An Essay on the Principle of Population (1798) by Thomas Robert Malthus, Darwin noted that population growth would lead to a ``struggle for existence'' in which favourable variations prevailed as others perished. In each generation, many offspring fail to survive to an age of reproduction because of limited resources. This could explain the diversity of plants and animals from a common ancestry through the working of natural laws in the same way for all types of organism. Darwin developed his theory of ``natural selection'' from 1838 onwards and was writing up his ``big book'' on the subject when Alfred Russel Wallace sent him a version of virtually the same theory in 1858. Their separate papers were presented together at an 1858 meeting of the Linnean Society of London. At the end of 1859, Darwin's publication of his ``abstract'' as On the Origin of Species explained natural selection in detail and in a way that led to an increasingly wide acceptance of Darwin's concepts of evolution at the expense of alternative theories. Thomas Henry Huxley applied Darwin's ideas to humans, using paleontology and comparative anatomy to provide strong evidence that humans and apes shared a common ancestry. Some were disturbed by this since it implied that humans did not have a special place in the universe.
+The crucial break from the concept of constant typological classes or types in biology came with the theory of evolution through natural selection, which was formulated by Charles Darwin in terms of variable populations. Darwin used the expression ``descent with modification'' rather than ``evolution''. Partly influenced by An Essay on the Principle of Population (1798) by \href{https://en.wikipedia.org/wiki/Thomas_Robert_Malthus}{Thomas Robert Malthus}, Darwin noted that population growth would lead to a ``struggle for existence'' in which favourable variations prevailed as others perished. In each generation, many offspring fail to survive to an age of reproduction because of limited resources. This could explain the diversity of plants and animals from a common ancestry through the working of natural laws in the same way for all types of organism. Darwin developed his theory of ``natural selection'' from 1838 onwards and was writing up his ``big book'' on the subject when Alfred Russel Wallace sent him a version of virtually the same theory in 1858. Their separate papers were presented together at an 1858 meeting of the Linnean Society of London. At the end of 1859, Darwin's publication of his ``abstract'' as On the Origin of Species explained natural selection in detail and in a way that led to an increasingly wide acceptance of Darwin's concepts of evolution at the expense of alternative theories. Thomas Henry Huxley applied Darwin's ideas to humans, using paleontology and comparative anatomy to provide strong evidence that humans and apes shared a common ancestry. Some were disturbed by this since it implied that humans did not have a special place in the universe.
 
-The mechanisms of reproductive heritability and the origin of new traits remained a mystery. Towards this end, Darwin developed his provisional theory of pangenesis. In 1865, Gregor Mendel reported that traits were inherited in a predictable manner through the independent assortment and segregation of elements (later known as genes). Mendel's laws of inheritance eventually supplanted most of Darwin's pangenesis theory. August Weismann made the important distinction between germ cells that give rise to gametes (such as sperm and egg cells) and the somatic cells of the body, demonstrating that heredity passes through the germ line only. Hugo de Vries connected Darwin's pangenesis theory to Weismann's germ/soma cell distinction and proposed that Darwin's pangenes were concentrated in the cell nucleus and when expressed they could move into the cytoplasm to change the cell's structure. De Vries was also one of the researchers who made Mendel's work well known, believing that Mendelian traits corresponded to the transfer of heritable variations along the germline. To explain how new variants originate, de Vries developed a mutation theory that led to a temporary rift between those who accepted Darwinian evolution and biometricians who allied with de Vries. In the 1930s, pioneers in the field of population genetics, such as Ronald Fisher, Sewall Wright and J. B. S. Haldane set the foundations of evolution onto a robust statistical philosophy. The false contradiction between Darwin's theory, genetic mutations, and Mendelian inheritance was thus reconciled.
+The mechanisms of reproductive heritability and the origin of new traits remained a mystery. Towards this end, Darwin developed his provisional theory of pangenesis. In 1865, \href{https://en.wikipedia.org/wiki/Gregor_Mendel}{Gregor Mendel} reported that traits were inherited in a predictable manner through the independent assortment and segregation of elements (later known as genes). Mendel's laws of inheritance eventually supplanted most of Darwin's pangenesis theory. \href{https://en.wikipedia.org/wiki/August_Weismann}{August Weismann} made the important distinction between germ cells that give rise to gametes (such as sperm and egg cells) and the somatic cells of the body, demonstrating that heredity passes through the germ line only. \href{https://en.wikipedia.org/wiki/Hugo_de_Vries}{Hugo de Vries} connected Darwin's pangenesis theory to Weismann's germ/soma cell distinction and proposed that Darwin's pangenes were concentrated in the cell nucleus and when expressed they could move into the cytoplasm to change the cell's structure. De Vries was also one of the researchers who made Mendel's work well known, believing that Mendelian traits corresponded to the transfer of heritable variations along the germline. To explain how new variants originate, de Vries developed a mutation theory that led to a temporary rift between those who accepted Darwinian evolution and biometricians who allied with de Vries. In the 1930s, pioneers in the field of population genetics, such as \href{https://en.wikipedia.org/wiki/Ronald_Fisher}{Ronald Fisher}, \href{https://en.wikipedia.org/wiki/Sewall_Wright}{Sewall Wright} and \href{https://en.wikipedia.org/wiki/J._B._S._Haldane}{J. B. S. Haldane} set the foundations of evolution onto a robust statistical philosophy. The false contradiction between Darwin's theory, genetic mutations, and Mendelian inheritance was thus reconciled.
 
 \hypertarget{the-modern-synthesis}{%
 \section{The Modern Synthesis}\label{the-modern-synthesis}}
 
-In the 1920s and 1930s the so-called modern synthesis connected natural selection and population genetics, based on Mendelian inheritance, into a unified theory that applied generally to any branch of biology. The modern synthesis explained patterns observed across species in populations, through fossil transitions in palaeontology, and complex cellular mechanisms in developmental biology. The publication of the structure of DNA by James Watson and Francis Crick with contribution of Rosalind Franklin in 1953 demonstrated a physical mechanism for inheritance. Molecular biology improved understanding of the relationship between genotype and phenotype. Advancements were also made in phylogenetic systematics, mapping the transition of traits into a comparative and testable framework through the publication and use of evolutionary trees. In 1973, evolutionary biologist Theodosius Dobzhansky penned that ``nothing in biology makes sense except in the light of evolution,'' because it has brought to light the relations of what first seemed disjointed facts in natural history into a coherent explanatory body of knowledge that describes and predicts many observable facts about life on this planet.
+In the 1920s and 1930s the so-called modern synthesis connected natural selection and population genetics, based on Mendelian inheritance, into a unified theory that applied generally to any branch of biology. The modern synthesis explained patterns observed across species in populations, through fossil transitions in palaeontology, and complex cellular mechanisms in developmental biology. The publication of the structure of DNA by James Watson and Francis Crick with contribution of Rosalind Franklin in 1953 demonstrated a physical mechanism for inheritance. Molecular biology improved understanding of the relationship between genotype and phenotype. Advancements were also made in phylogenetic systematics, mapping the transition of traits into a comparative and testable framework through the publication and use of evolutionary trees. In 1973, evolutionary biologist \href{https://en.wikipedia.org/wiki/Theodosius_Dobzhansky}{Theodosius Dobzhansky} penned that ``nothing in biology makes sense except in the light of evolution,'' because it has brought to light the relations of what first seemed disjointed facts in natural history into a coherent explanatory body of knowledge that describes and predicts many observable facts about life on this planet.
 
 Since then, the modern synthesis has been further extended to explain biological phenomena across the full and integrative scale of the biological hierarchy, from genes to species. One extension, known as evolutionary developmental biology and informally called ``evo-devo,'' emphasises how changes between generations (evolution) acts on patterns of change within individual organisms (development). Since the beginning of the 21st century and in light of discoveries made in recent decades, some biologists have argued for an extended evolutionary synthesis, which would account for the effects of non-genetic inheritance modes, such as epigenetics, parental effects, ecological inheritance and cultural inheritance, and evolvability.
 
@@ -7139,7 +7123,7 @@ The generation of new genes can also involve small parts of several genes being 
 
 In asexual organisms, genes are inherited together, or linked, as they cannot mix with genes of other organisms during reproduction. In contrast, the offspring of sexual organisms contain random mixtures of their parents' chromosomes that are produced through independent assortment. In a related process called homologous recombination, sexual organisms exchange DNA between two matching chromosomes. Recombination and reassortment do not alter allele frequencies, but instead change which alleles are associated with each other, producing offspring with new combinations of alleles. Sex usually increases genetic variation and may increase the rate of evolution.
 
-The two-fold cost of sex was first described by John Maynard Smith. The first cost is that in sexually dimorphic species only one of the two sexes can bear young. (This cost does not apply to hermaphroditic species, like most plants and many invertebrates.) The second cost is that any individual who reproduces sexually can only pass on 50\% of its genes to any individual offspring, with even less passed on as each new generation passes. Yet sexual reproduction is the more common means of reproduction among eukaryotes and multicellular organisms. The Red Queen hypothesis has been used to explain the significance of sexual reproduction as a means to enable continual evolution and adaptation in response to coevolution with other species in an ever-changing environment.
+The two-fold cost of sex was first described by \href{https://en.wikipedia.org/wiki/John_Maynard_Smith}{John Maynard Smith}. The first cost is that in sexually dimorphic species only one of the two sexes can bear young. (This cost does not apply to hermaphroditic species, like most plants and many invertebrates.) The second cost is that any individual who reproduces sexually can only pass on 50\% of its genes to any individual offspring, with even less passed on as each new generation passes. Yet sexual reproduction is the more common means of reproduction among eukaryotes and multicellular organisms. The Red Queen hypothesis has been used to explain the significance of sexual reproduction as a means to enable continual evolution and adaptation in response to coevolution with other species in an ever-changing environment.
 
 Gene flow is the exchange of genes between populations and between species. It can therefore be a source of variation that is new to a population or to a species. Gene flow can be caused by the movement of individuals between separate populations of organisms, as might be caused by the movement of mice between inland and coastal populations, or the movement of pollen between heavy-metal-tolerant and heavy-metal-sensitive populations of grasses.
 
@@ -7161,10 +7145,6 @@ The central concept of natural selection is the evolutionary fitness of an organ
 
 If an allele increases fitness more than the other alleles of that gene, then with each generation this allele will become more common within the population. These traits are said to be ``selected for.'' Examples of traits that can increase fitness are enhanced survival and increased fecundity. Conversely, the lower fitness caused by having a less beneficial or deleterious allele results in this allele becoming rarer---they are ``selected against.'' Importantly, the fitness of an allele is not a fixed characteristic; if the environment changes, previously neutral or harmful traits may become beneficial and previously beneficial traits become harmful. However, even if the direction of selection does reverse in this way, traits that were lost in the past may not re-evolve in an identical form (see Dollo's law). However, a re-activation of dormant genes, as long as they have not been eliminated from the genome and were only suppressed perhaps for hundreds of generations, can lead to the re-occurrence of traits thought to be lost like hindlegs in dolphins, teeth in chickens, wings in wingless stick insects, tails and additional nipples in humans etc. ``Throwbacks'' such as these are known as atavisms.
 
-These charts depict the different types of genetic selection. On each graph, the x-axis variable is the type of phenotypic trait and the y-axis variable is the number of organisms. Group A is the original population and Group B is the population after selection.
-· Graph 1 shows directional selection, in which a single extreme phenotype is favoured.
-· Graph 2 depicts stabilizing selection, where the intermediate phenotype is favoured over the extreme traits.
-· Graph 3 shows disruptive selection, in which the extreme phenotypes are favoured over the intermediate.
 Natural selection within a population for a trait that can vary across a range of values, such as height, can be categorised into three different types. The first is directional selection, which is a shift in the average value of a trait over time---for example, organisms slowly getting taller. Secondly, disruptive selection is selection for extreme trait values and often results in two different values becoming most common, with selection against the average value. This would be when either short or tall organisms had an advantage, but not those of medium height. Finally, in stabilising selection there is selection against extreme trait values on both ends, which causes a decrease in variance around the average value and less diversity. This would, for example, cause organisms to eventually have a similar height.
 
 A special case of natural selection is sexual selection, which is selection for any trait that increases mating success by increasing the attractiveness of an organism to potential mates. Traits that evolved through sexual selection are particularly prominent among males of several animal species. Although sexually favoured, traits such as cumbersome antlers, mating calls, large body size and bright colours often attract predation, which compromises the survival of individual males. This survival disadvantage is balanced by higher reproductive success in males that show these hard-to-fake, sexually selected traits.
@@ -7247,7 +7227,7 @@ Before the Industrial Revolution, the black peppered moth was rare. The first bl
 
 During the early decades of the Industrial Revolution in England, the countryside between London and Manchester became blanketed with soot from the new coal-burning factories. Many of the light-bodied lichens died from sulphur dioxide emissions, and the trees became darkened. This led to an increase in bird predation for light-coloured moths, as they no longer blended in as well in their polluted ecosystem: indeed, their bodies now dramatically contrasted with the colour of the bark. Dark-coloured moths, on the other hand, were camouflaged very well by the blackened trees. The population of dark-coloured moth rapidly increased. By the mid-19th century, the number of dark-coloured moths had risen noticeably, and by 1895, the percentage of dark-coloured moths in Manchester was reported at 98\%, a dramatic change (of almost 100\%) from the original frequency. This effect of industrialization in body colour led to the coining of the term ``industrial melanism''.
 
-The implication that industrial melanism could be evidence supporting Charles Darwin's theory of natural selection was noticed during his lifetime. Albert Brydges Farn (1841--1921), a British entomologist, wrote to Darwin on 18 November 1878 to discuss his observation of colour variations in the Annulet moth (then Gnophos obscurata, now Charissa obscurata). He noted the existence of dark moths in peat in the New Forest, brown moths on clay and red soil in Herefordshire, and white moths on chalk cliffs in Lewes, then suggested this variation was an example of ``survival of the fittest''. He told Darwin that he had found dark moths on a chalk slope where the foliage had been blackened by smoke from lime kilns, and he had also heard that white moths had become less common at Lewes after lime kilns had been in operation for a few years. Darwin does not seem to have responded to this information, possibly because he thought natural selection would be a much slower process. A scientific explanation of moth colouration was only published in 1896, 14 years after Darwin's death, when J.W. Tutt explicitly linked peppered moth melanism to natural selection.
+The implication that industrial melanism could be evidence supporting Charles Darwin's theory of natural selection was noticed during his lifetime. \href{https://en.wikipedia.org/wiki/Albert_Brydges_Farn}{Albert Brydges Farn} (1841--1921), a British entomologist, wrote to Darwin on 18 November 1878 to discuss his observation of colour variations in the Annulet moth (then \emph{Gnophos obscurata}, now \emph{Charissa obscurata}). He noted the existence of dark moths in peat in the New Forest, brown moths on clay and red soil in Herefordshire, and white moths on chalk cliffs in Lewes, then suggested this variation was an example of ``survival of the fittest''. He told Darwin that he had found dark moths on a chalk slope where the foliage had been blackened by smoke from lime kilns, and he had also heard that white moths had become less common at Lewes after lime kilns had been in operation for a few years. Darwin does not seem to have responded to this information, possibly because he thought natural selection would be a much slower process. A scientific explanation of moth colouration was only published in 1896, 14 years after Darwin's death, when \href{https://en.wikipedia.org/wiki/J._W._Tutt}{J.W. Tutt} explicitly linked peppered moth melanism to natural selection.
 
 \hypertarget{outcomes-of-evolution}{%
 \section{Outcomes of Evolution}\label{outcomes-of-evolution}}
@@ -7295,7 +7275,7 @@ Interactions between organisms can produce both conflict and cooperation. When t
 \hypertarget{taxonomy-binomial-nomenclature-and-systematics}{%
 \chapter{Taxonomy, Binomial Nomenclature And Systematics}\label{taxonomy-binomial-nomenclature-and-systematics}}
 
-Taxonomy is the identification, naming and classification of organisms. Binomial nomenclature is a formal system of naming species of living things by giving each a name composed of two parts. Systematics is the branch of science that deals with unique properties of species and groups to recognise, describe name and arrange the diverse organisms according to an organised plan. In biology, phylogenetics (Greek: φυλή, φῦλον -- phylé, phylon = tribe, clan, race + γενετικός -- genetikós = origin, source, birth) is a part of systematics that addresses the inference of the evolutionary history and relationships among or within groups of organisms (e.g.~species, or more inclusive taxa). Classifications are now usually based on phylogenetic data. The degree to which classification depends on inferred evolutionary history differs depending on the school of taxonomy: phenetics ignores phylogenetic speculation altogether, trying to represent the similarity between organisms instead; cladistics (phylogenetic systematics) tries to reflect phylogeny in its classifications by only recognizing groups based on shared, derived characters (synapomorphies); evolutionary taxonomy tries to take into account both the branching pattern and ``degree of difference'' to find a compromise between them.
+\href{https://en.wikipedia.org/wiki/Taxonomy_(biology)}{Taxonomy} is the identification, naming and classification of organisms. \href{https://en.wikipedia.org/wiki/Binomial_nomenclature}{Binomial nomenclature} is a formal system of naming species of living things by giving each a name composed of two parts. \href{https://en.wikipedia.org/wiki/Systematics}{Systematics} is the branch of science that deals with unique properties of species and groups to recognise, describe name and arrange the diverse organisms according to an organised plan. In biology, phylogenetics (Greek: φυλή, φῦλον -- phylé, phylon = tribe, clan, race + γενετικός -- genetikós = origin, source, birth) is a part of systematics that addresses the inference of the evolutionary history and relationships among or within groups of organisms (e.g.~species, or more inclusive taxa). Classifications are now usually based on phylogenetic data. The degree to which classification depends on inferred evolutionary history differs depending on the school of taxonomy: phenetics ignores phylogenetic speculation altogether, trying to represent the similarity between organisms instead; cladistics (phylogenetic systematics) tries to reflect phylogeny in its classifications by only recognizing groups based on shared, derived characters (synapomorphies); evolutionary taxonomy tries to take into account both the branching pattern and ``degree of difference'' to find a compromise between them.
 
 Biological classification is a critical component of the taxonomic process. As a result, it informs the user as to what the relatives of the taxon are hypothesized to be. Biological classification uses taxonomic ranks, including among others (in order from most inclusive to least inclusive): Domain, Kingdom, Phylum, Class, Order, Family, Genus, and Species
 
@@ -7331,7 +7311,7 @@ The initial description of a taxon involves five main requirements:
 
 However, often much more information is included, like the geographic range of the taxon, ecological notes, chemistry, behavior, etc. How researchers arrive at their taxa varies: depending on the available data, and resources, methods vary from simple quantitative or qualitative comparisons of striking features, to elaborate computer analyses of large amounts of DNA sequence data.
 
-An ``authority'' may be placed after a scientific name. The authority is the name of the scientist or scientists who first validly published the name. For example, in 1758 Linnaeus gave the Asian elephant the scientific name Elephas maximus, so the name is sometimes written as ``Elephas maximus Linnaeus, 1758''. The names of authors are frequently abbreviated: the abbreviation L., for Linnaeus, is commonly used. In botany, there is, in fact, a regulated list of standard abbreviations (see list of botanists by author abbreviation). The system for assigning authorities differs slightly between botany and zoology. However, it is standard that if a species' name or placement has been changed since the original description, the original authority's name is placed in parentheses.
+An ``authority'' may be placed after a scientific name. The authority is the name of the scientist or scientists who first validly published the name. For example, in 1758 Linnaeus gave the Asian elephant the scientific name \emph{Elephas maximus}, so the name is sometimes written as ``\emph{Elephas maximus} Linnaeus, 1758''. The names of authors are frequently abbreviated: the abbreviation L., for Linnaeus, is commonly used. In botany, there is, in fact, a regulated list of standard abbreviations (see list of botanists by author abbreviation). The system for assigning authorities differs slightly between botany and zoology. However, it is standard that if a species' name or placement has been changed since the original description, the original authority's name is placed in parentheses.
 
 
 
@@ -7385,7 +7365,7 @@ The commonly used names for kinds of organisms are often ambiguous: ``cat'' coul
 
 Binomial nomenclature (``two-term naming system''), also called binominal nomenclature (``two-name naming system'') or binary nomenclature, is a formal system of naming species of living things by giving each a name composed of two parts, both of which use Latin grammatical forms, although they can be based on words from other languages. Such a name is called a binomial name (which may be shortened to just ``binomial''), a binomen, binominal name or a scientific name; more informally it is also called a Latin name.
 
-The first part of the name -- the generic name -- identifies the genus to which the species belongs, while the second part -- the specific name or specific epithet -- identifies the species within the genus. For example, humans belong to the genus Homo and within this genus to the species \emph{Homo sapiens}. \emph{Tyrannosaurus rex} is probably the most widely known binomial. The formal introduction of this system of naming species is credited to Carl Linnaeus, effectively beginning with his work Species Plantarum in 1753. But Gaspard Bauhin, in as early as 1622, had introduced in his book Pinax theatri botanici (English, Illustrated exposition of plants) many names of genera that were later adopted by Linnaeus.
+The first part of the name -- the generic name -- identifies the genus to which the species belongs, while the second part -- the specific name or specific epithet -- identifies the species within the genus. For example, humans belong to the genus \emph{Homo} and within this genus to the species \emph{Homo sapiens}. \emph{Tyrannosaurus rex} is probably the most widely known binomial. The formal introduction of this system of naming species is credited to Carl Linnaeus, effectively beginning with his work Species Plantarum in 1753. But Gaspard Bauhin, in as early as 1622, had introduced in his book Pinax theatri botanici (English, Illustrated exposition of plants) many names of genera that were later adopted by Linnaeus.
 
 The application of binomial nomenclature is now governed by various internationally agreed codes of rules, of which the two most important are the International Code of Zoological Nomenclature (ICZN) for animals and the International Code of Nomenclature for algae, fungi, and plants (ICNafp). Although the general principles underlying binomial nomenclature are common to these two codes, there are some differences, both in the terminology they use and in their precise rules.
 
@@ -7421,9 +7401,9 @@ Prior to the adoption of the modern binomial system of naming species, a scienti
 
 Such ``polynomial names'' may sometimes look like binomials, but are significantly different. For example, Gerard's herbal (as amended by Johnson) describes various kinds of spiderwort: ``The first is called \emph{Phalangium ramosum}, Branched Spiderwort; the second, \emph{Phalangium non ramosum}, Unbranched Spiderwort. The other \ldots{} is aptly termed Phalangium Ephemerum Virginianum, Soon-Fading Spiderwort of Virginia''. The Latin phrases are short descriptions, rather than identifying labels.
 
-The Bauhins, in particular Caspar Bauhin (1560--1624), took some important steps towards the binomial system, by pruning the Latin descriptions, in many cases to two words. The adoption by biologists of a system of strictly binomial nomenclature is due to Swedish botanist and physician Carl Linnaeus (1707--1778). It was in Linnaeus's 1753 Species Plantarum that he began consistently using a one-word ``trivial name'' (nomen triviale) after a generic name (genus name) in a system of binomial nomenclature. Trivial names had already appeared in his Critica Botanica (1737) and Philosophia Botanica (1751). This trivial name is what is now known as a specific epithet (ICNafp) or specific name (ICZN). The Bauhins' genus names were retained in many of these, but the descriptive part was reduced to a single word.
+The Bauhins, in particular \href{https://en.wikipedia.org/wiki/Gaspard_Bauhin}{Caspar Bauhin} (1560--1624), took some important steps towards the binomial system, by pruning the Latin descriptions, in many cases to two words. The adoption by biologists of a system of strictly binomial nomenclature is due to Swedish botanist and physician Carl Linnaeus (1707--1778). It was in Linnaeus's 1753 Species Plantarum that he began consistently using a one-word ``trivial name'' (nomen triviale) after a generic name (genus name) in a system of binomial nomenclature. Trivial names had already appeared in his Critica Botanica (1737) and Philosophia Botanica (1751). This trivial name is what is now known as a specific epithet (ICNafp) or specific name (ICZN). The Bauhins' genus names were retained in many of these, but the descriptive part was reduced to a single word.
 
-Linnaeus's trivial names introduced an important new idea, namely that the function of a name could simply be to give a species a unique label. This meant that the name no longer need be descriptive; for example both parts could be derived from the names of people. Thus Gerard's Phalangium ephemerum virginianum became Tradescantia virginiana, where the genus name honoured John Tradescant the Younger,{[}note 1{]} an English botanist and gardener. A bird in the parrot family was named Psittacus alexandri, meaning ``Alexander's parrot'', after Alexander the Great, whose armies introduced eastern parakeets to Greece. Linnaeus's trivial names were much easier to remember and use than the parallel polynomial names and eventually replaced them.
+Linnaeus's trivial names introduced an important new idea, namely that the function of a name could simply be to give a species a unique label. This meant that the name no longer need be descriptive; for example both parts could be derived from the names of people. Thus Gerard's \emph{Phalangium ephemerum virginianum} became \emph{Tradescantia virginiana}, where the genus name honoured \href{https://en.wikipedia.org/wiki/John_Tradescant_the_Younger}{John Tradescant the Younger}, an English botanist and gardener. A bird in the parrot family was named \emph{Psittacus alexandri}, meaning ``Alexander's parrot'', after Alexander the Great, whose armies introduced eastern parakeets to Greece. Linnaeus's trivial names were much easier to remember and use than the parallel polynomial names and eventually replaced them.
 
 The value of the binomial nomenclature system derives primarily from its economy, its widespread use, and the uniqueness and stability of names it generally favors:
 
@@ -7454,14 +7434,14 @@ A complete binomial name is always treated grammatically as if it were a phrase 
 \item
   Other languages. The second part of the name \emph{Erythroxylum coca} is derived from kuka, the name of the plant in Aymara and Quechua. Since many dinosaur fossils were found in Mongolia, their names often use Mongolian words, e.g.~Tarchia from tarkhi, meaning ``brain'', or Saichania meaning ``beautiful one''.
 \item
-  Names of people (often naturalists or biologists). The name \emph{Magnolia campbellii} commemorates two people: Pierre Magnol, a French botanist, and Archibald Campbell, a doctor in British India.
+  Names of people (often naturalists or biologists). The name \emph{Magnolia campbellii} commemorates two people: \href{https://en.wikipedia.org/wiki/Pierre_Magnol}{Pierre Magnol}, a French botanist, and \href{https://en.wikipedia.org/wiki/Archibald_Campbell_(doctor)}{Archibald Campbell}, a doctor in British India.
 \item
   Names of places. The lone star tick, \emph{Amblyomma americanum}, is widespread in the United States.
 \item
   Other sources. Some binominal names have been constructed from taxonomic anagrams or other re-orderings of existing names. Thus the name of the genus \emph{Muilla} is derived by reversing the name \emph{Allium}. Names may also be derived from jokes or puns. For example, Ratcliffe described a number of species of rhinoceros beetle, including \emph{Cyclocephala nodanotherwon}.
 \end{itemize}
 
-The first part of the name, which identifies the genus, must be a word which can be treated as a Latin singular noun in the nominative case. It must be unique within each kingdom, but can be repeated between kingdoms. Thus Huia recurvata is an extinct species of plant, found as fossils in Yunnan, China, whereas Huia masonii is a species of frog found in Java, Indonesia.
+The first part of the name, which identifies the genus, must be a word which can be treated as a Latin singular noun in the nominative case. It must be unique within each kingdom, but can be repeated between kingdoms. Thus \emph{Huia recurvata} is an extinct species of plant, found as fossils in Yunnan, China, whereas \emph{Huia masonii} is a species of frog found in Java, Indonesia.
 
 The second part of the name, which identifies the species within the genus, is also treated grammatically as a Latin word. It can have one of a number of forms:
 
@@ -7483,7 +7463,7 @@ Whereas the first part of a binomial name must be unique within a kingdom, the s
 
 Systematics is the branch of science that deals with unique properties of species and groups to recognise, describe name and arrange the diverse organisms according to an organised plan. The word systematics is derived from Latin word systema which means systematic arrangement of organisms.linneous used `systema naturae' as the title of his book.
 
-The term ``taxonomy'' was coined by Augustin Pyramus de Candolle while the term ``systematic'' was coined by Carl Linnaeus the father of taxonomy.
+The term ``taxonomy'' was coined by \href{https://en.wikipedia.org/wiki/Augustin_Pyramus_de_Candolle}{Augustin Pyramus de Candolle} while the term ``systematic'' was coined by Carl Linnaeus the father of taxonomy.
 
 Biological systematics is the study of the diversification of living forms, both past and present, and the relationships among living things through time. Relationships are visualized as evolutionary trees (synonyms: cladograms, phylogenetic trees, phylogenies). Phylogenies have two components: branching order (showing group relationships) and branch length (showing amount of evolution). Phylogenetic trees of species and higher taxa are used to study the evolution of traits (e.g., anatomical or molecular characteristics) and the distribution of organisms (biogeography). Systematics, in other words, is used to understand the evolutionary history of life on Earth.
 
@@ -7522,11 +7502,11 @@ Prefixes can be added so subkingdom (subregnum) and infrakingdom (also known as 
 
 Some recent classifications based on modern cladistics have explicitly abandoned the term ``kingdom'', noting that the traditional kingdoms are not monophyletic, i.e., do not consist of all the descendants of a common ancestor.
 
-By tradition, the binomial names of species are usually typeset in italics; for example, Homo sapiens. Generally, the binomial should be printed in a font style different from that used in the normal text; for example, ``Several more \emph{Homo sapiens} fossils were discovered.'' When handwritten, a binomial name should be underlined; for example, Homo sapiens.
+By tradition, the binomial names of species are usually typeset in italics; for example, \emph{Homo sapiens}. Generally, the binomial should be printed in a font style different from that used in the normal text; for example, ``Several more \emph{Homo sapiens} fossils were discovered.'' When handwritten, a binomial name should be underlined; for example, \emph{Homo sapiens}.
 
-The first part of the binomial, the genus name, is always written with an initial capital letter. In current usage, the second part is never written with an initial capital. Older sources, particularly botanical works published before the 1950s, use a different convention. If the second part of the name is derived from a proper noun, e.g.~the name of a person or place, a capital letter was used. Thus the modern form Berberis darwinii was written as Berberis Darwinii. A capital was also used when the name is formed by two nouns in apposition, e.g.~Panthera Leo or Centaurea Cyanus.{[}note 3{]}
+The first part of the binomial, the genus name, is always written with an initial capital letter. In current usage, the second part is never written with an initial capital. Older sources, particularly botanical works published before the 1950s, use a different convention. If the second part of the name is derived from a proper noun, e.g.~the name of a person or place, a capital letter was used. Thus the modern form Berberis darwinii was written as Berberis Darwinii. A capital was also used when the name is formed by two nouns in apposition, e.g.~\emph{Panthera Leo} or \emph{Centaurea Cyanus}.
 
-When used with a common name, the scientific name often follows in parentheses, although this varies with publication. For example, ``The house sparrow (Passer domesticus) is decreasing in Europe.''
+When used with a common name, the scientific name often follows in parentheses, although this varies with publication. For example, ``The house sparrow (\emph{Passer domesticus}) is decreasing in Europe.''
 
 The binomial name should generally be written in full. The exception to this is when several species from the same genus are being listed or discussed in the same paper or report, or the same species is mentioned repeatedly; in which case the genus is written in full when it is first used, but may then be abbreviated to an initial (and a period/full stop). For example, a list of members of the genus Canis might be written as ``Canis lupus, C. aureus, C. simensis''. In rare cases, this abbreviated form has spread to more general use; for example, the bacterium Escherichia coli is often referred to as just E. coli, and Tyrannosaurus rex is perhaps even better known simply as T. rex, these two both often appearing in this form in popular writing even where the full genus name has not already been given.
 
@@ -11189,7 +11169,7 @@ Phagocytes of humans and other animals are called ``professional'' or ``non-prof
 
 }
 
-\caption{(ref:)}\label{fig:unnamed-chunk-1}
+\caption{\href{https://commons.wikimedia.org/wiki/File:Neutrophil_with_anthrax_copy.jpg}{Scanning electron micrograph of a neutrophil phagocytosing anthrax bacilli (orange). Scale bar is 5 micrometers.}}\label{fig:neutrophago}
 \end{figure}
 
 During an infection, chemical signals attract phagocytes to places where the pathogen has invaded the body. These chemicals may come from bacteria or from other phagocytes already present. The phagocytes move by a method called chemotaxis. When phagocytes come into contact with bacteria, the receptors on the phagocyte's surface will bind to them. This binding will lead to the engulfing of the bacteria by the phagocyte. Some phagocytes kill the ingested pathogen with oxidants and nitric oxide. After phagocytosis, macrophages and dendritic cells can also participate in antigen presentation, a process in which a phagocyte moves parts of the ingested material back to its surface. This material is then displayed to other cells of the immune system. Some phagocytes then travel to the body's lymph nodes and display the material to white blood cells called lymphocytes. This process is important in building immunity, and many pathogens have evolved methods to evade attacks by phagocytes.
@@ -12300,7 +12280,7 @@ In the first part of the nephron, Bowman's capsule filters blood from the circul
 
 }
 
-\caption{(ref:)}\label{fig:unnamed-chunk-1}
+\caption{\href{https://commons.wikimedia.org/wiki/File:Physiology_of_Nephron.svg}{The four main processes involved in the creation of urine: Excretion = Filtration - Reabsorption + Secretion}}\label{fig:urinecreation}
 \end{figure}
 
 

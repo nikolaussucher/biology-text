@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # The Cell Cycle And Cell Division
 
 The [cell cycle](https://en.wikipedia.org/wiki/Cell_cycle), or cell-division cycle, is the series of events that take place in a cell that cause it to divide into two daughter cells. These events include the duplication of its DNA (DNA replication) and some of its organelles, and subsequently the partitioning of its cytoplasm and other components into two daughter cells in a process called cell division.
@@ -189,39 +194,157 @@ During mitosis, microtubules grow from centrosomes located at opposite ends of t
 
 ### Human chromosomes
 
-Chromosomes in humans can be divided into two types: autosomes (body chromosome(s)) and allosomes (sex chromosome(s)). Certain genetic traits are linked to a person's sex and are passed on through the sex chromosomes. The autosomes contain the rest of the genetic hereditary information. All act in the same way during cell division. Human cells have 23 pairs of chromosomes (22 pairs of autosomes and one pair of sex chromosomes), giving a total of 46 per cell (Figure \@ref(fig:karyotype)). In addition to these, human cells have many hundreds of copies of the mitochondrial genome. Sequencing of the human genome has provided a great deal of information about each of the chromosomes (Table \@ref(tab:chr)). 
+Chromosomes in humans can be divided into two types: autosomes (body chromosome(s)) and allosomes (sex chromosome(s)). Certain genetic traits are linked to a person's sex and are passed on through the sex chromosomes. The autosomes contain the rest of the genetic hereditary information. All act in the same way during cell division. Human cells have 23 pairs of chromosomes (22 pairs of autosomes and one pair of sex chromosomes), giving a total of 46 per cell (Figure \@ref(fig:karyotype)). In addition to these, human cells have many hundreds of copies of the mitochondrial genome. Sequencing of the human genome has provided a great deal of information about each of the chromosomes (Table \@ref(tab:humanchromosomes)). 
 
-Table: (\#tab:chr) [Human Genome Assembly GRCh38.p12 (nucleotides) and GRCh38.p13 (coding genes)](https://www.ncbi.nlm.nih.gov/grc/human/data). Length of DNA sequence and number of coding genes of each human chromosome. Total lengths are calculated by summing the length of the sequenced bases and estimated gaps.
+(ref:chr) [Human Genome Assembly GRCh38.p12 (nucleotides) and GRCh38.p13 (coding genes)](https://www.ncbi.nlm.nih.gov/grc/human/data). Length of DNA sequence and number of coding genes of each human chromosome. Total lengths are calculated by summing the length of the sequenced bases and estimated gaps.
 
-|Chromosome|Total length |Coding genes|
-|:--------:|------------:|-----------:|
-|1	   | 248,956,422 |2,057| 		
-|2	   | 242,193,529 |1,303|     
-|3	   | 198,295,559 |1,078|     
-|4	   | 190,214,555 |753  |     
-|5	   | 181,538,259 |885  |     
-|6	   | 170,805,979 |1,048|     
-|7	   | 159,345,973 |999  |     
-|8	   | 145,138,636 |685  |     
-|9	   | 138,394,717 |780  |     
-|10	   | 133,797,422 |733  |     
-|11	   | 135,086,622 |1,317|     
-|12	   | 133,275,309 |1,034|     
-|13	   | 114,364,328 |321  |     
-|14	   | 107,043,718 |819  |     
-|15	   | 101,991,189 |613  |     
-|16	   | 90,338,345  |859  |
-|17	   | 83,257,441  |1,186|
-|18	   | 80,373,285  |268  |
-|19	   | 58,617,616  |1,473|
-|20	   | 64,444,167  |546  |
-|21	   | 46,709,983  |233  |
-|22	   | 50,818,468  |494  |
-|X	   | 156,040,895 |852  |	     
-|Y	   | 57,227,415  |66   |
-|MT        | 16,569      |13   |
-|Unplaced  | 4,485,509   |
-|Genome    |3,099,734,149|20,415|
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:humanchromosomes)(ref:chr)</caption>
+ <thead>
+  <tr>
+   <th style="text-align:center;"> Chromosome </th>
+   <th style="text-align:center;"> Total Length </th>
+   <th style="text-align:center;"> Coding Genes </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 248,956,422 </td>
+   <td style="text-align:center;"> 2,057 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 242,193,529 </td>
+   <td style="text-align:center;"> 1,303 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 198,295,559 </td>
+   <td style="text-align:center;"> 1,078 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 190,214,555 </td>
+   <td style="text-align:center;"> 753 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 181,538,259 </td>
+   <td style="text-align:center;"> 885 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 170,805,979 </td>
+   <td style="text-align:center;"> 1,048 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 159,345,973 </td>
+   <td style="text-align:center;"> 999 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 145,138,636 </td>
+   <td style="text-align:center;"> 685 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 138,394,717 </td>
+   <td style="text-align:center;"> 780 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 133,797,422 </td>
+   <td style="text-align:center;"> 733 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 135,086,622 </td>
+   <td style="text-align:center;"> 1,317 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> 133,275,309 </td>
+   <td style="text-align:center;"> 1,034 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 114,364,328 </td>
+   <td style="text-align:center;"> 32 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 14 </td>
+   <td style="text-align:center;"> 107,043,718 </td>
+   <td style="text-align:center;"> 81 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 15 </td>
+   <td style="text-align:center;"> 101,991,189 </td>
+   <td style="text-align:center;"> 61 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 16 </td>
+   <td style="text-align:center;"> 90,338,345 </td>
+   <td style="text-align:center;"> 859 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 17 </td>
+   <td style="text-align:center;"> 83,257,441 </td>
+   <td style="text-align:center;"> 1,186 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 18 </td>
+   <td style="text-align:center;"> 80,373,285 </td>
+   <td style="text-align:center;"> 268 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 19 </td>
+   <td style="text-align:center;"> 58,617,616 </td>
+   <td style="text-align:center;"> 1,473 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 20 </td>
+   <td style="text-align:center;"> 64,444,167 </td>
+   <td style="text-align:center;"> 546 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 21 </td>
+   <td style="text-align:center;"> 46,709,983 </td>
+   <td style="text-align:center;"> 233 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 22 </td>
+   <td style="text-align:center;"> 50,818,468 </td>
+   <td style="text-align:center;"> 494 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> X </td>
+   <td style="text-align:center;"> 156,040,895 </td>
+   <td style="text-align:center;"> 852 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Y </td>
+   <td style="text-align:center;"> 57,227,415 </td>
+   <td style="text-align:center;"> 66 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MT </td>
+   <td style="text-align:center;"> 16,569 </td>
+   <td style="text-align:center;"> 13 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Unplaced </td>
+   <td style="text-align:center;"> 4,485,509 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Genome </td>
+   <td style="text-align:center;"> 3,099,734,149 </td>
+   <td style="text-align:center;"> 20,415 </td>
+  </tr>
+</tbody>
+</table>
 
 ### Number of Chromosomes in Various Organisms
 
@@ -229,50 +352,97 @@ The following tables (Tables \@ref(tab:numplants) and \@ref(tab:numanimals)) giv
 
 Normal members of a particular eukaryotic species all have the same number of nuclear chromosomes. Other eukaryotic chromosomes, i.e., mitochondrial and plasmid-like small chromosomes, are much more variable in number, and there may be thousands of copies per cell.
 
-Table: (\#tab:numplants) Chromosome numbers in some plants.
+(ref:numplants) Chromosome numbers in some plants.
 
-|Plant Species| # |
-|:------------|:-:|
-|Adder's tongue fern (polyploid)|approx. 1,200
-|Arabidopsis thaliana (diploid)|10
-|Einkorn wheat (diploid)|14
-|Rye (diploid)|14
-|Maize (diploid or palaeotetraploid)|20
-|Durum wheat (tetraploid)|28
-|Bread wheat (hexaploid)|42
-|Cultivated tobacco (tetraploid)|48
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:numplants)(ref:numplants)</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Plant </th>
+   <th style="text-align:right;"> Number of Chromosomes </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Adder's tongue fern (polyploid) </td>
+   <td style="text-align:right;"> approx. 1,200 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Arabidopsis thaliana (diploid) </td>
+   <td style="text-align:right;"> 10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Einkorn wheat (diploid) </td>
+   <td style="text-align:right;"> 14 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Rye (diploid) </td>
+   <td style="text-align:right;"> 14 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Maize (diploid or palaeotetraploid) </td>
+   <td style="text-align:right;"> 20 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Durum wheat (tetraploid) </td>
+   <td style="text-align:right;"> 28 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Bread wheat (hexaploid) </td>
+   <td style="text-align:right;"> 42 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cultivated tobacco (tetraploid) </td>
+   <td style="text-align:right;"> 48 </td>
+  </tr>
+</tbody>
+</table>
 
-Table: (\#tab:numanimals) Chromosome numbers (2n) in some animals.
+(ref:numanimals) Chromosome numbers (2n) in some animals.
 
-|Species|#|
-|:------------|:-:|
-|Indian muntjac|	7|
-|Common fruit fly|	8|
-|Pill millipede (*Arthrosphaera fumosa*)|	30|
-|Earthworm (*Octodrilus complanatus*)|	36|
-|Tibetan fox|	36|
-|Domestic cat|	38|
-|Domestic pig|	38|
-|Laboratory mouse|	40|
-|Laboratory rat|	42|
-|Rabbit (*Oryctolagus cuniculus*)|	44|
-|Syrian hamster|	44|
-|Guppy (*Poecilia reticulata*)|	46|
-|Human|	46|
-|Hares|	48|
-|Gorillas, chimpanzees|	48|
-|Domestic sheep|	54|
-|Garden snail|	54|
-|Silkworm|	56|
-|Elephants|	56|
-|Cow|	60|
-|Donkey|	62|
-|Guinea pig|	64|
-|Horse|	64|
-|Dog|	78|
-|Hedgehog|	90|
-|Goldfish|	100–104|
-|Kingfisher|	132|
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:numanimals)(ref:numanimals)</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Animal </th>
+   <th style="text-align:right;"> Number of Chromosomes </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Adder's tongue fern (polyploid) </td>
+   <td style="text-align:right;"> approx. 1,200 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Arabidopsis thaliana (diploid) </td>
+   <td style="text-align:right;"> 10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Einkorn wheat (diploid) </td>
+   <td style="text-align:right;"> 14 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Rye (diploid) </td>
+   <td style="text-align:right;"> 14 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Maize (diploid or palaeotetraploid) </td>
+   <td style="text-align:right;"> 20 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Durum wheat (tetraploid) </td>
+   <td style="text-align:right;"> 28 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Bread wheat (hexaploid) </td>
+   <td style="text-align:right;"> 42 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cultivated tobacco (tetraploid) </td>
+   <td style="text-align:right;"> 48 </td>
+  </tr>
+</tbody>
+</table>
 
 Asexually reproducing species have one set of chromosomes that are the same in all body cells. However, asexual species can be either haploid or diploid.
 

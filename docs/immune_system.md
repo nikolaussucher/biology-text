@@ -135,6 +135,7 @@ Disorders of the immune system can result in autoimmune diseases, inflammatory d
 The immune system protects its host from infection with layered defenses of increasing specificity. In simple terms, physical barriers prevent pathogens such as bacteria and viruses from entering the organism. If a pathogen breaches these barriers, the innate immune system provides an immediate, but non-specific response. Innate immune systems are found in all plants and animals. If pathogens successfully evade the innate response, vertebrates possess a second layer of protection, the adaptive immune system, which is activated by the innate response. Here, the immune system adapts its response during an infection to improve its recognition of the pathogen. This improved response is then retained after the pathogen has been eliminated, in the form of an immunological memory, and allows the adaptive immune system to mount faster and stronger attacks each time this pathogen is encountered.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:immunesystem)Comparison of major characteristics of the innate and adaptive immune systems.</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> Innate immune system </th>

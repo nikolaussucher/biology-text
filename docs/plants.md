@@ -271,7 +271,7 @@ Angiosperms differ from other seed plants in several ways, described in the tabl
   </tr>
   <tr>
    <td style="text-align:left;"> Reduced male parts, three cells </td>
-   <td style="text-align:left;"> The male gametophyte in angiosperms is significantly reduced in size compared to those of gymnosperm seed plants.[10] The smaller size of the pollen reduces the amount of time between pollination — the pollen grain reaching the female plant — and fertilization. In gymnosperms, fertilization can occur up to a year after pollination, whereas in angiosperms, fertilization begins very soon after pollination.[11] The shorter amount of time between pollination and fertilization allows angiosperms to produce seeds earlier after pollination than gymnosperms, providing angiosperms a distinct evolutionary advantage. </td>
+   <td style="text-align:left;"> The male gametophyte in angiosperms is significantly reduced in size compared to those of gymnosperm seed plants. The smaller size of the pollen reduces the amount of time between pollination — the pollen grain reaching the female plant — and fertilization. In gymnosperms, fertilization can occur up to a year after pollination, whereas in angiosperms, fertilization begins very soon after pollination. The shorter amount of time between pollination and fertilization allows angiosperms to produce seeds earlier after pollination than gymnosperms, providing angiosperms a distinct evolutionary advantage. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Closed carpelenclosing the ovules (carpel or carpels and accessory parts may become the fruit) </td>

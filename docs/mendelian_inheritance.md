@@ -68,13 +68,29 @@ Mendel hypothesized that allele pairs separate randomly, or segregate, from each
 
 The genotype of an individual is made up of the many alleles it possesses. The phenotype is the result of the expression of all characteristics that are genetically determined by its alleles as well as by its environment. The presence of an allele does not mean that the trait will be expressed in the individual that possesses it. If the two alleles of an inherited pair differ (the heterozygous condition), then one determines the organism’s appearance and is called the dominant allele; the other has no noticeable effect on the organism’s appearance and is called the recessive allele.
 
-Table: (\#tab:mendel) Mendel's Laws of Inheritance.
-
-|Law|Definition|
-|:--|:---------|
-|Law of dominance|Some alleles are dominant while others are recessive; an organism with at least one dominant allele will display the effect of the dominant allele.|
-|Law of segregation|During gamete formation, the alleles for each gene segregate from each other so that each gamete carries only one allele for each gene.|
-|Law of independent assortment|Genes for different traits can segregate independently during the formation of gametes.|
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:laws)Mendel's Laws of Inheritance.</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Law </th>
+   <th style="text-align:left;"> Definition </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Law of dominance </td>
+   <td style="text-align:left;"> Some alleles are dominant while others are recessive; an organism with at least one dominant allele will display the effect of the dominant allele. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Law of segregation </td>
+   <td style="text-align:left;"> During gamete formation, the alleles for each gene segregate from each other so that each gamete carries only one allele for each gene. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Law of independent assortment </td>
+   <td style="text-align:left;"> Genes for different traits can segregate independently during the formation of gametes. </td>
+  </tr>
+</tbody>
+</table>
 
 ### Law of Dominance and Uniformity
 
@@ -175,7 +191,7 @@ A dihybrid cross is a cross between two different lines (varieties, strains) tha
 <p class="caption">(\#fig:dihybrid)Dihybrid cross</p>
 </div>
 
-The rules of meiosis, as they apply to the dihybrid, are codified in Mendel's first law and Mendel's second law, which are also called the Law of Segregation and the Law of Independent Assortment, respectively (Table \@ref(tab:mendel)). For genes on separate chromosomes, each allele pair showed independent segregation. If the first filial generation (F1 generation) produces four identical offspring, the second filial generation, which occurs by crossing the members of the first filial generation, shows a phenotypic (appearance) ratio of **9:3:3:1**, where:
+The rules of meiosis, as they apply to the dihybrid, are codified in Mendel's first law and Mendel's second law, which are also called the Law of Segregation and the Law of Independent Assortment, respectively (Table \@ref(tab:laws)). For genes on separate chromosomes, each allele pair showed independent segregation. If the first filial generation (F1 generation) produces four identical offspring, the second filial generation, which occurs by crossing the members of the first filial generation, shows a phenotypic (appearance) ratio of **9:3:3:1**, where:
 
 *   the **9** represents the proportion of individuals displaying both dominant traits
 *   the first **3** represents the individuals displaying the first dominant trait and the second recessive trait

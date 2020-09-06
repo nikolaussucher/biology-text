@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # The Cell Cycle And Cell Division
 
 The [cell cycle](https://en.wikipedia.org/wiki/Cell_cycle), or cell-division cycle, is the series of events that take place in a cell that cause it to divide into two daughter cells. These events include the duplication of its DNA (DNA replication) and some of its organelles, and subsequently the partitioning of its cytoplasm and other components into two daughter cells in a process called cell division.
@@ -152,39 +157,20 @@ During mitosis, microtubules grow from centrosomes located at opposite ends of t
 
 ### Human chromosomes
 
-Chromosomes in humans can be divided into two types: autosomes (body chromosome(s)) and allosomes (sex chromosome(s)). Certain genetic traits are linked to a person's sex and are passed on through the sex chromosomes. The autosomes contain the rest of the genetic hereditary information. All act in the same way during cell division. Human cells have 23 pairs of chromosomes (22 pairs of autosomes and one pair of sex chromosomes), giving a total of 46 per cell (Figure \@ref(fig:karyotype)). In addition to these, human cells have many hundreds of copies of the mitochondrial genome. Sequencing of the human genome has provided a great deal of information about each of the chromosomes (Table \@ref(tab:chr)). 
+Chromosomes in humans can be divided into two types: autosomes (body chromosome(s)) and allosomes (sex chromosome(s)). Certain genetic traits are linked to a person's sex and are passed on through the sex chromosomes. The autosomes contain the rest of the genetic hereditary information. All act in the same way during cell division. Human cells have 23 pairs of chromosomes (22 pairs of autosomes and one pair of sex chromosomes), giving a total of 46 per cell (Figure \@ref(fig:karyotype)). In addition to these, human cells have many hundreds of copies of the mitochondrial genome. Sequencing of the human genome has provided a great deal of information about each of the chromosomes (Table \@ref(tab:humanchromosomes)). 
 
-Table: (\#tab:chr) [Human Genome Assembly GRCh38.p12 (nucleotides) and GRCh38.p13 (coding genes)](https://www.ncbi.nlm.nih.gov/grc/human/data). Length of DNA sequence and number of coding genes of each human chromosome. Total lengths are calculated by summing the length of the sequenced bases and estimated gaps.
+(ref:chr) [Human Genome Assembly GRCh38.p12 (nucleotides) and GRCh38.p13 (coding genes)](https://www.ncbi.nlm.nih.gov/grc/human/data). Length of DNA sequence and number of coding genes of each human chromosome. Total lengths are calculated by summing the length of the sequenced bases and estimated gaps.
 
-|Chromosome|Total length |Coding genes|
-|:--------:|------------:|-----------:|
-|1	   | 248,956,422 |2,057| 		
-|2	   | 242,193,529 |1,303|     
-|3	   | 198,295,559 |1,078|     
-|4	   | 190,214,555 |753  |     
-|5	   | 181,538,259 |885  |     
-|6	   | 170,805,979 |1,048|     
-|7	   | 159,345,973 |999  |     
-|8	   | 145,138,636 |685  |     
-|9	   | 138,394,717 |780  |     
-|10	   | 133,797,422 |733  |     
-|11	   | 135,086,622 |1,317|     
-|12	   | 133,275,309 |1,034|     
-|13	   | 114,364,328 |321  |     
-|14	   | 107,043,718 |819  |     
-|15	   | 101,991,189 |613  |     
-|16	   | 90,338,345  |859  |
-|17	   | 83,257,441  |1,186|
-|18	   | 80,373,285  |268  |
-|19	   | 58,617,616  |1,473|
-|20	   | 64,444,167  |546  |
-|21	   | 46,709,983  |233  |
-|22	   | 50,818,468  |494  |
-|X	   | 156,040,895 |852  |	     
-|Y	   | 57,227,415  |66   |
-|MT        | 16,569      |13   |
-|Unplaced  | 4,485,509   |
-|Genome    |3,099,734,149|20,415|
+```{r humanchromosomes, fig.cap = 'ref:chr', out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(printr)        
+library(kableExtra)
+setwd("~/Dropbox/R/biology-text-master")
+
+humchrom <-  as_tibble(read.csv("data/human_chromosomes.csv"))
+
+knitr::kable(humchrom, col.names = c("Chromosome", "Total Length", "Coding Genes"), digits = 2, align = 'ccc', booktabs = TRUE, caption = "(ref:chr)") %>% kable_styling(latex_options = c("striped", "hold_position"))
+```
 
 ### Number of Chromosomes in Various Organisms
 
@@ -192,50 +178,31 @@ The following tables (Tables \@ref(tab:numplants) and \@ref(tab:numanimals)) giv
 
 Normal members of a particular eukaryotic species all have the same number of nuclear chromosomes. Other eukaryotic chromosomes, i.e., mitochondrial and plasmid-like small chromosomes, are much more variable in number, and there may be thousands of copies per cell.
 
-Table: (\#tab:numplants) Chromosome numbers in some plants.
+(ref:numplants) Chromosome numbers in some plants.
 
-|Plant Species| # |
-|:------------|:-:|
-|Adder's tongue fern (polyploid)|approx. 1,200
-|Arabidopsis thaliana (diploid)|10
-|Einkorn wheat (diploid)|14
-|Rye (diploid)|14
-|Maize (diploid or palaeotetraploid)|20
-|Durum wheat (tetraploid)|28
-|Bread wheat (hexaploid)|42
-|Cultivated tobacco (tetraploid)|48
+```{r numplants, out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(printr)        
+library(kableExtra)
+setwd("~/Dropbox/R/biology-text-master")
 
-Table: (\#tab:numanimals) Chromosome numbers (2n) in some animals.
+plantchrom <-  as_tibble(read.csv("data/plant_chromosomes.csv"))
 
-|Species|#|
-|:------------|:-:|
-|Indian muntjac|	7|
-|Common fruit fly|	8|
-|Pill millipede (*Arthrosphaera fumosa*)|	30|
-|Earthworm (*Octodrilus complanatus*)|	36|
-|Tibetan fox|	36|
-|Domestic cat|	38|
-|Domestic pig|	38|
-|Laboratory mouse|	40|
-|Laboratory rat|	42|
-|Rabbit (*Oryctolagus cuniculus*)|	44|
-|Syrian hamster|	44|
-|Guppy (*Poecilia reticulata*)|	46|
-|Human|	46|
-|Hares|	48|
-|Gorillas, chimpanzees|	48|
-|Domestic sheep|	54|
-|Garden snail|	54|
-|Silkworm|	56|
-|Elephants|	56|
-|Cow|	60|
-|Donkey|	62|
-|Guinea pig|	64|
-|Horse|	64|
-|Dog|	78|
-|Hedgehog|	90|
-|Goldfish|	100–104|
-|Kingfisher|	132|
+knitr::kable(plantchrom, col.names = c("Plant", "Number of Chromosomes"), digits = 2, align = 'lr', booktabs = TRUE, caption = "(ref:numplants)" ) %>% kable_styling(latex_options = c("striped", "hold_position"))
+```
+
+(ref:numanimals) Chromosome numbers (2n) in some animals.
+
+```{r numanimals, out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(printr)        
+library(kableExtra)
+setwd("~/Dropbox/R/biology-text-master")
+
+animalchrom <-  as_tibble(read.csv("data/animal_chromosomes.csv"))
+
+knitr::kable(plantchrom, col.names = c("Animal", "Number of Chromosomes"), digits = 2, align = 'lr', booktabs = TRUE, caption = "(ref:numanimals)") %>% kable_styling(latex_options = c("striped", "hold_position"))
+```
 
 Asexually reproducing species have one set of chromosomes that are the same in all body cells. However, asexual species can be either haploid or diploid.
 

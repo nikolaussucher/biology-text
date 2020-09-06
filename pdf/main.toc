@@ -1,0 +1,663 @@
+\babel@toc {english}{}
+\contentsline {chapter}{Acknowledgements}{xxxv}{chapter*.1}%
+\contentsline {chapter}{\numberline {1}Biology: The Science of Life}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Characteristics of Life}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Origin of Life}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Foundations of Modern Biology}{6}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Cell theory}{6}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}The Theory of Evolution}{7}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Genetics}{9}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Homeostasis}{9}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Energy}{9}{subsection.1.3.5}%
+\contentsline {section}{\numberline {1.4}Areas And Levels of Study And Research in Biology}{9}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Science}{12}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Scientific Terminology}{14}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}The Scientific Method}{15}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Dissemination of Scientific Knowledge}{16}{subsection.1.5.3}%
+\contentsline {section}{\numberline {1.6}Philosophy of Science}{16}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Science And Religion}{19}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Basic General Chemistry For Biology}{23}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Matter}{23}{section.2.1}%
+\contentsline {section}{\numberline {2.2}The Atom}{24}{section.2.2}%
+\contentsline {section}{\numberline {2.3}The Periodic Table of The Elements}{27}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Compound}{27}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Molecule And Chemical Bonds}{27}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Energy}{28}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Chemical Reactions}{31}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Ions And Salts}{31}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Acids And Bases}{31}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Redox}{33}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Water}{34}{section.2.11}%
+\contentsline {chapter}{\numberline {3}Basic Organic Chemistry For Biology}{39}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Functional groups}{40}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Biomolecules}{42}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Proteins}{44}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Structure}{46}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Cellular Functions of Proteins}{47}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Cell Signaling And Ligand Binding}{48}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Structural Proteins}{48}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Carbohydrates}{49}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Lipids}{50}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Nucleic Acids}{53}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Deoxyribonucleic Acid (DNA)}{54}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Ribonucleic Acid (RNA)}{55}{subsection.3.6.2}%
+\contentsline {chapter}{\numberline {4}The Cell}{57}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Prokaryotic Cells}{60}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Eukaryotic Cells}{61}{section.4.2}%
+\contentsline {section}{\numberline {4.3}The Cell Membrane}{64}{section.4.3}%
+\contentsline {section}{\numberline {4.4}The Cytoskeleton}{64}{section.4.4}%
+\contentsline {section}{\numberline {4.5}The Genetic Material}{66}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Organelles of Eukaryotic Cells}{66}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}The Cell Nucleus}{67}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}The Mitochondria}{70}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}The Chloroplasts}{71}{subsection.4.6.3}%
+\contentsline {subsection}{\numberline {4.6.4}The Endoplasmic Reticulum}{72}{subsection.4.6.4}%
+\contentsline {subsection}{\numberline {4.6.5}The Golgi Apparatus}{73}{subsection.4.6.5}%
+\contentsline {subsection}{\numberline {4.6.6}The Ribosomes}{74}{subsection.4.6.6}%
+\contentsline {section}{\numberline {4.7}Structures Outside The Cell Membrane}{74}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Cellular Replication}{74}{section.4.8}%
+\contentsline {section}{\numberline {4.9}DNA Repair}{75}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Cellular Growth And Metabolism}{75}{section.4.10}%
+\contentsline {section}{\numberline {4.11}Protein Synthesis}{75}{section.4.11}%
+\contentsline {section}{\numberline {4.12}Cell Motility}{75}{section.4.12}%
+\contentsline {section}{\numberline {4.13}Origin of The First Cell}{76}{section.4.13}%
+\contentsline {section}{\numberline {4.14}Origin of Eukaryotic Cells}{76}{section.4.14}%
+\contentsline {chapter}{\numberline {5}The Cell Membrane}{77}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Structure And Function of The Cell Membrane}{82}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}The Fluid Mosaic Model of The Cell Membrane}{83}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Lipid bilayer}{83}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Membrane Polarity}{83}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}The Cytoskeleton}{83}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}Intracellular Membranes In Eukaryotic Cells}{84}{subsection.5.1.5}%
+\contentsline {section}{\numberline {5.2}Membrane Permeability}{84}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Diffusion}{84}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Facilitated Diffusion}{85}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Osmosis}{85}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Active Transport}{85}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Bulk transport}{85}{subsection.5.2.5}%
+\contentsline {section}{\numberline {5.3}The Extracellular Matrix}{86}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Cell Junctions}{87}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Anchoring Junctions}{87}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Desmosomes}{87}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Hemidesmosomes}{87}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}Adherens Junctions}{87}{subsection.5.4.4}%
+\contentsline {subsection}{\numberline {5.4.5}Communicating (gap) Junctions}{88}{subsection.5.4.5}%
+\contentsline {subsection}{\numberline {5.4.6}Tight Junctions}{88}{subsection.5.4.6}%
+\contentsline {subsection}{\numberline {5.4.7}Cell Junction Molecules}{88}{subsection.5.4.7}%
+\contentsline {chapter}{\numberline {6}Bioenergetics}{89}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Thermodynamics of Living Organisms}{90}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Metabolism}{92}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Catabolism}{93}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Digestion}{94}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Energy From Organic Compounds}{94}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Energy Transformations}{95}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Oxidative Phosphorylation}{95}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Energy From Inorganic Compounds}{95}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Energy From Light}{95}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.4}Anabolism}{95}{subsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.3.5}Carbon Fixation}{95}{subsection.6.3.5}%
+\contentsline {subsection}{\numberline {6.3.6}Carbohydrates And Glycans}{96}{subsection.6.3.6}%
+\contentsline {subsection}{\numberline {6.3.7}Fatty Acids, Isoprenoids and Sterol}{96}{subsection.6.3.7}%
+\contentsline {subsection}{\numberline {6.3.8}Proteins}{96}{subsection.6.3.8}%
+\contentsline {subsection}{\numberline {6.3.9}Nucleotide Synthesis And Salvage}{97}{subsection.6.3.9}%
+\contentsline {section}{\numberline {6.4}Enzymes}{97}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Allosteric Modulation}{100}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Cofactors of Enzymes and Coenzymes}{100}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Inhibition of Enzymes}{100}{subsection.6.4.3}%
+\contentsline {subsection}{\numberline {6.4.4}Factors Affecting Enzyme Activity}{101}{subsection.6.4.4}%
+\contentsline {subsection}{\numberline {6.4.5}Control of activity}{101}{subsection.6.4.5}%
+\contentsline {subsection}{\numberline {6.4.6}Post-translational Modification}{102}{subsection.6.4.6}%
+\contentsline {subsection}{\numberline {6.4.7}Quantity}{102}{subsection.6.4.7}%
+\contentsline {subsection}{\numberline {6.4.8}Subcellular Distribution}{102}{subsection.6.4.8}%
+\contentsline {subsection}{\numberline {6.4.9}Organ Specialization}{102}{subsection.6.4.9}%
+\contentsline {subsection}{\numberline {6.4.10}Coenzymes}{102}{subsection.6.4.10}%
+\contentsline {subsection}{\numberline {6.4.11}Mineral Cofactors}{103}{subsection.6.4.11}%
+\contentsline {chapter}{\numberline {7}Photosynthesis And Cellular Respiration}{105}{chapter.7}%
+\contentsline {section}{\numberline {7.1}The Electron Transport Chain And Chemiosmosis}{105}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Photosynthesis}{106}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Photosynthetic Membranes And Organelles}{107}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Z Scheme}{108}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Water Photolysis}{109}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Calvin Cycle}{109}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.5}Carbon Dioxide Levels And Photorespiration}{110}{subsection.7.2.5}%
+\contentsline {subsection}{\numberline {7.2.6}C4 Carbon Fixation}{110}{subsection.7.2.6}%
+\contentsline {subsection}{\numberline {7.2.7}CAM Photosynthesis}{111}{subsection.7.2.7}%
+\contentsline {section}{\numberline {7.3}Symbiosis And The Origin of Chloroplasts}{111}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Cyanobacteria And The Evolution of Photosynthesis}{112}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Cellular Respiration}{112}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Aerobic Respiration}{112}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}Glycolysis}{113}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}Oxidative Decarboxylation of Pyruvate}{113}{subsection.7.5.3}%
+\contentsline {subsection}{\numberline {7.5.4}The Citric Acid Cycle}{114}{subsection.7.5.4}%
+\contentsline {subsection}{\numberline {7.5.5}Oxidative Phosphorylation}{114}{subsection.7.5.5}%
+\contentsline {section}{\numberline {7.6}Fermentation}{114}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Anaerobic Respiration}{115}{section.7.7}%
+\contentsline {chapter}{\numberline {8}The Cell Cycle And Cell Division}{117}{chapter.8}%
+\contentsline {section}{\numberline {8.1}The Prokaryotic Cell Cycle}{117}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Binary Fission}{117}{section.8.2}%
+\contentsline {section}{\numberline {8.3}The Eukaryotic Cell Cycle}{118}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}G0 phase (quiescence)}{120}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}Interphase}{120}{subsection.8.3.2}%
+\contentsline {subsection}{\numberline {8.3.3}G1 phase (First growth phase or Post mitotic gap phase)}{120}{subsection.8.3.3}%
+\contentsline {subsection}{\numberline {8.3.4}S phase (DNA Replication)}{120}{subsection.8.3.4}%
+\contentsline {subsection}{\numberline {8.3.5}G2 phase (growth)}{120}{subsection.8.3.5}%
+\contentsline {subsection}{\numberline {8.3.6}Mitotic Phase (Chromosome Separation)}{120}{subsection.8.3.6}%
+\contentsline {section}{\numberline {8.4}Chromosomes: The Vectors of Heredity}{121}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}Interphase Chromatin}{122}{subsection.8.4.1}%
+\contentsline {subsection}{\numberline {8.4.2}Metaphase chromatin and division}{122}{subsection.8.4.2}%
+\contentsline {subsection}{\numberline {8.4.3}Human chromosomes}{122}{subsection.8.4.3}%
+\contentsline {subsection}{\numberline {8.4.4}Number of Chromosomes in Various Organisms}{123}{subsection.8.4.4}%
+\contentsline {subsection}{\numberline {8.4.5}Prokaryotic Chromosomes}{124}{subsection.8.4.5}%
+\contentsline {section}{\numberline {8.5}Mitosis}{124}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}Interphase}{125}{subsection.8.5.1}%
+\contentsline {subsection}{\numberline {8.5.2}Preprophase (plant cells)}{125}{subsection.8.5.2}%
+\contentsline {subsection}{\numberline {8.5.3}Prophase}{125}{subsection.8.5.3}%
+\contentsline {subsection}{\numberline {8.5.4}Prometaphase}{126}{subsection.8.5.4}%
+\contentsline {subsection}{\numberline {8.5.5}Metaphase}{126}{subsection.8.5.5}%
+\contentsline {subsection}{\numberline {8.5.6}Anaphase}{127}{subsection.8.5.6}%
+\contentsline {subsection}{\numberline {8.5.7}Telophase}{127}{subsection.8.5.7}%
+\contentsline {subsection}{\numberline {8.5.8}Cytokinesis}{128}{subsection.8.5.8}%
+\contentsline {section}{\numberline {8.6}Regulation of The Eukaryotic Cell Cycle}{128}{section.8.6}%
+\contentsline {subsection}{\numberline {8.6.1}Role of cyclins and CDKs}{128}{subsection.8.6.1}%
+\contentsline {subsection}{\numberline {8.6.2}Cell Cycle Checkpoints}{130}{subsection.8.6.2}%
+\contentsline {subsection}{\numberline {8.6.3}Role in Tumor Formation}{130}{subsection.8.6.3}%
+\contentsline {chapter}{\numberline {9}Sexual Reproduction And Meiosis}{133}{chapter.9}%
+\contentsline {subsection}{\numberline {9.0.1}Sexual reproduction}{133}{subsection.9.0.1}%
+\contentsline {section}{\numberline {9.1}Meiosis}{133}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Meiosis I}{135}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}Prophase I}{135}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.1.3}Metaphase I}{136}{subsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.1.4}Anaphase I}{137}{subsection.9.1.4}%
+\contentsline {subsection}{\numberline {9.1.5}Telophase I}{137}{subsection.9.1.5}%
+\contentsline {subsection}{\numberline {9.1.6}Meiosis II}{137}{subsection.9.1.6}%
+\contentsline {subsection}{\numberline {9.1.7}Nondisjunction}{138}{subsection.9.1.7}%
+\contentsline {section}{\numberline {9.2}Chromosomal Disorders}{138}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}Aberrations}{138}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}Numerical abnormalities}{138}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}Mechanisms}{141}{subsection.9.2.3}%
+\contentsline {subsection}{\numberline {9.2.4}Diagnosis}{141}{subsection.9.2.4}%
+\contentsline {subsection}{\numberline {9.2.5}Structural abnormalities}{141}{subsection.9.2.5}%
+\contentsline {subsection}{\numberline {9.2.6}Acquired Chromosomal Abnormalities}{142}{subsection.9.2.6}%
+\contentsline {chapter}{\numberline {10}Classical Genetics}{143}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Mendelian Inheritance}{143}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}Mendel's Genetic Discoveries}{144}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}Law of Dominance and Uniformity}{145}{subsection.10.1.2}%
+\contentsline {subsection}{\numberline {10.1.3}Law of Segregation of genes}{146}{subsection.10.1.3}%
+\contentsline {subsection}{\numberline {10.1.4}Law of Independent Assortment}{147}{subsection.10.1.4}%
+\contentsline {subsection}{\numberline {10.1.5}Mendelian Trait}{147}{subsection.10.1.5}%
+\contentsline {subsection}{\numberline {10.1.6}Zygosity}{148}{subsection.10.1.6}%
+\contentsline {subsection}{\numberline {10.1.7}Monohybrid Cross}{148}{subsection.10.1.7}%
+\contentsline {subsection}{\numberline {10.1.8}Punnett Square}{148}{subsection.10.1.8}%
+\contentsline {subsection}{\numberline {10.1.9}Dihybrid Cross}{149}{subsection.10.1.9}%
+\contentsline {section}{\numberline {10.2}Mendelian Traits in Humans}{149}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Non-Mendelian Inheritance}{150}{section.10.3}%
+\contentsline {chapter}{\numberline {11}Molecular Biology of The Gene}{151}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Structure And Function of Deoxyribonucleic Acid}{152}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}DNA Damage}{156}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}Genes And Genomes}{156}{subsection.11.1.2}%
+\contentsline {subsection}{\numberline {11.1.3}Transcription And Translation}{156}{subsection.11.1.3}%
+\contentsline {subsection}{\numberline {11.1.4}DNA Replication}{157}{subsection.11.1.4}%
+\contentsline {subsection}{\numberline {11.1.5}Eukaryotic DNA Replication}{158}{subsection.11.1.5}%
+\contentsline {subsection}{\numberline {11.1.6}Initiation}{159}{subsection.11.1.6}%
+\contentsline {subsection}{\numberline {11.1.7}Pre-replication complex}{159}{subsection.11.1.7}%
+\contentsline {subsection}{\numberline {11.1.8}Preinitiation complex}{160}{subsection.11.1.8}%
+\contentsline {subsection}{\numberline {11.1.9}Elongation}{160}{subsection.11.1.9}%
+\contentsline {subsection}{\numberline {11.1.10}Replication Fork}{161}{subsection.11.1.10}%
+\contentsline {subsection}{\numberline {11.1.11}Replication of The Leading Strand}{161}{subsection.11.1.11}%
+\contentsline {subsection}{\numberline {11.1.12}Replication of The Lagging Strand}{161}{subsection.11.1.12}%
+\contentsline {subsection}{\numberline {11.1.13}DNA Replication Proteins}{161}{subsection.11.1.13}%
+\contentsline {subsection}{\numberline {11.1.14}Termination}{163}{subsection.11.1.14}%
+\contentsline {subsection}{\numberline {11.1.15}Regulation of DNA Replication}{163}{subsection.11.1.15}%
+\contentsline {subsection}{\numberline {11.1.16}Interactions of DNA with Proteins}{163}{subsection.11.1.16}%
+\contentsline {subsection}{\numberline {11.1.17}DNA-binding proteins}{163}{subsection.11.1.17}%
+\contentsline {subsection}{\numberline {11.1.18}DNA-modifying Enzymes}{164}{subsection.11.1.18}%
+\contentsline {subsection}{\numberline {11.1.19}Nucleases And Ligases}{164}{subsection.11.1.19}%
+\contentsline {subsection}{\numberline {11.1.20}Topoisomerases And Helicases}{164}{subsection.11.1.20}%
+\contentsline {subsection}{\numberline {11.1.21}Polymerases}{164}{subsection.11.1.21}%
+\contentsline {subsection}{\numberline {11.1.22}DNA Recombination}{165}{subsection.11.1.22}%
+\contentsline {subsection}{\numberline {11.1.23}Evolutionary History of DNA}{165}{subsection.11.1.23}%
+\contentsline {subsection}{\numberline {11.1.24}Genetic engineering}{166}{subsection.11.1.24}%
+\contentsline {subsection}{\numberline {11.1.25}DNA profiling}{166}{subsection.11.1.25}%
+\contentsline {section}{\numberline {11.2}Structure And Function of Ribonucleic Acid}{166}{section.11.2}%
+\contentsline {subsection}{\numberline {11.2.1}Comparison with DNA}{166}{subsection.11.2.1}%
+\contentsline {subsection}{\numberline {11.2.2}Structure of RNA}{167}{subsection.11.2.2}%
+\contentsline {subsection}{\numberline {11.2.3}Synthesis of RNA}{167}{subsection.11.2.3}%
+\contentsline {subsection}{\numberline {11.2.4}Coding and non-coding RNA}{167}{subsection.11.2.4}%
+\contentsline {subsection}{\numberline {11.2.5}Regulatory RNA}{168}{subsection.11.2.5}%
+\contentsline {subsection}{\numberline {11.2.6}RNA interference by miRNAs}{168}{subsection.11.2.6}%
+\contentsline {section}{\numberline {11.3}Gene Expression}{170}{section.11.3}%
+\contentsline {subsection}{\numberline {11.3.1}Transcription And RNA Processing}{170}{subsection.11.3.1}%
+\contentsline {subsection}{\numberline {11.3.2}Initiation}{171}{subsection.11.3.2}%
+\contentsline {subsection}{\numberline {11.3.3}Elongation}{171}{subsection.11.3.3}%
+\contentsline {subsection}{\numberline {11.3.4}Termination}{172}{subsection.11.3.4}%
+\contentsline {subsection}{\numberline {11.3.5}Inhibitors of Transcription}{172}{subsection.11.3.5}%
+\contentsline {subsection}{\numberline {11.3.6}Transcription Factors}{172}{subsection.11.3.6}%
+\contentsline {subsection}{\numberline {11.3.7}RNA Processing}{173}{subsection.11.3.7}%
+\contentsline {subsection}{\numberline {11.3.8}mRNA processing}{173}{subsection.11.3.8}%
+\contentsline {subsection}{\numberline {11.3.9}5' processing}{173}{subsection.11.3.9}%
+\contentsline {subsection}{\numberline {11.3.10}3' processing}{173}{subsection.11.3.10}%
+\contentsline {subsection}{\numberline {11.3.11}Intron Splicing}{173}{subsection.11.3.11}%
+\contentsline {subsection}{\numberline {11.3.12}Reverse Transcription}{174}{subsection.11.3.12}%
+\contentsline {subsection}{\numberline {11.3.13}RNA Export}{174}{subsection.11.3.13}%
+\contentsline {subsection}{\numberline {11.3.14}Translation And The Genetic Code}{174}{subsection.11.3.14}%
+\contentsline {subsection}{\numberline {11.3.15}Ribosomes}{174}{subsection.11.3.15}%
+\contentsline {subsection}{\numberline {11.3.16}Bacterial Ribosomes}{175}{subsection.11.3.16}%
+\contentsline {subsection}{\numberline {11.3.17}Eukaryotic Ribosomes}{175}{subsection.11.3.17}%
+\contentsline {subsection}{\numberline {11.3.18}Translation}{177}{subsection.11.3.18}%
+\contentsline {subsection}{\numberline {11.3.19}Eukaryotic Translation}{177}{subsection.11.3.19}%
+\contentsline {subsection}{\numberline {11.3.20}Initiation}{177}{subsection.11.3.20}%
+\contentsline {subsection}{\numberline {11.3.21}Elongation}{178}{subsection.11.3.21}%
+\contentsline {subsection}{\numberline {11.3.22}Termination}{178}{subsection.11.3.22}%
+\contentsline {subsection}{\numberline {11.3.23}The Genetic Code}{178}{subsection.11.3.23}%
+\contentsline {subsection}{\numberline {11.3.24}Protein Folding}{180}{subsection.11.3.24}%
+\contentsline {subsection}{\numberline {11.3.25}Protein Translocation}{180}{subsection.11.3.25}%
+\contentsline {subsection}{\numberline {11.3.26}Protein Transport}{180}{subsection.11.3.26}%
+\contentsline {section}{\numberline {11.4}Techniques of Molecular Genetics}{180}{section.11.4}%
+\contentsline {subsection}{\numberline {11.4.1}Polymerase chain reaction}{180}{subsection.11.4.1}%
+\contentsline {subsection}{\numberline {11.4.2}DNA Sequencing}{181}{subsection.11.4.2}%
+\contentsline {subsection}{\numberline {11.4.3}DNA Microarray}{182}{subsection.11.4.3}%
+\contentsline {subsection}{\numberline {11.4.4}Recombinant DNA}{182}{subsection.11.4.4}%
+\contentsline {subsection}{\numberline {11.4.5}Gene Synthesis}{184}{subsection.11.4.5}%
+\contentsline {subsection}{\numberline {11.4.6}Gene Knockout}{185}{subsection.11.4.6}%
+\contentsline {subsection}{\numberline {11.4.7}CRISPR Gene Editing}{185}{subsection.11.4.7}%
+\contentsline {subsection}{\numberline {11.4.8}Human Germline Modification}{186}{subsection.11.4.8}%
+\contentsline {chapter}{\numberline {12}Regulation of Gene Expression}{189}{chapter.12}%
+\contentsline {section}{\numberline {12.1}The \emph {lac} operon}{189}{section.12.1}%
+\contentsline {section}{\numberline {12.2}The \emph {trp} operon}{194}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Regulated stages of gene expression}{195}{section.12.3}%
+\contentsline {subsection}{\numberline {12.3.1}Regulation of transciption by DNA packing}{195}{subsection.12.3.1}%
+\contentsline {subsection}{\numberline {12.3.2}Regulation of transciption by DNA modification}{195}{subsection.12.3.2}%
+\contentsline {subsection}{\numberline {12.3.3}Regulation of RNA polymerase}{195}{subsection.12.3.3}%
+\contentsline {section}{\numberline {12.4}Post-transcriptional regulation}{195}{section.12.4}%
+\contentsline {subsection}{\numberline {12.4.1}Three prime untranslated regions and microRNAs}{196}{subsection.12.4.1}%
+\contentsline {section}{\numberline {12.5}Regulation of translation}{196}{section.12.5}%
+\contentsline {chapter}{\numberline {13}Bacteria, Archaea And Viruses}{197}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Bacteria}{198}{section.13.1}%
+\contentsline {subsection}{\numberline {13.1.1}Intracellular Structure}{200}{subsection.13.1.1}%
+\contentsline {subsection}{\numberline {13.1.2}Extracellular Structures}{200}{subsection.13.1.2}%
+\contentsline {subsection}{\numberline {13.1.3}Endospores}{201}{subsection.13.1.3}%
+\contentsline {subsection}{\numberline {13.1.4}Metabolism}{201}{subsection.13.1.4}%
+\contentsline {subsection}{\numberline {13.1.5}Growth and reproduction}{204}{subsection.13.1.5}%
+\contentsline {subsection}{\numberline {13.1.6}Genetics}{204}{subsection.13.1.6}%
+\contentsline {subsection}{\numberline {13.1.7}Movement}{205}{subsection.13.1.7}%
+\contentsline {subsection}{\numberline {13.1.8}Communication}{205}{subsection.13.1.8}%
+\contentsline {subsection}{\numberline {13.1.9}Classification and identification}{206}{subsection.13.1.9}%
+\contentsline {subsection}{\numberline {13.1.10}Interactions With Other Organisms}{207}{subsection.13.1.10}%
+\contentsline {subsection}{\numberline {13.1.11}Bacteria as Pathogens}{207}{subsection.13.1.11}%
+\contentsline {subsection}{\numberline {13.1.12}Significance in Technology And Industry}{208}{subsection.13.1.12}%
+\contentsline {section}{\numberline {13.2}Archaea}{208}{section.13.2}%
+\contentsline {subsection}{\numberline {13.2.1}Origin and evolution}{209}{subsection.13.2.1}%
+\contentsline {subsection}{\numberline {13.2.2}Relationship to Bacteria}{211}{subsection.13.2.2}%
+\contentsline {subsection}{\numberline {13.2.3}Relation to Eukaryotes}{211}{subsection.13.2.3}%
+\contentsline {subsection}{\numberline {13.2.4}Morphology}{212}{subsection.13.2.4}%
+\contentsline {subsection}{\numberline {13.2.5}Structure, Composition Development, And Operation}{212}{subsection.13.2.5}%
+\contentsline {subsection}{\numberline {13.2.6}Cell Wall And Flagella}{212}{subsection.13.2.6}%
+\contentsline {subsection}{\numberline {13.2.7}Membranes}{213}{subsection.13.2.7}%
+\contentsline {subsection}{\numberline {13.2.8}Metabolism}{213}{subsection.13.2.8}%
+\contentsline {subsection}{\numberline {13.2.9}Genetics}{216}{subsection.13.2.9}%
+\contentsline {subsection}{\numberline {13.2.10}Ecology}{216}{subsection.13.2.10}%
+\contentsline {subsection}{\numberline {13.2.11}Significance in Technology And Industry}{217}{subsection.13.2.11}%
+\contentsline {section}{\numberline {13.3}Viruses}{217}{section.13.3}%
+\contentsline {subsection}{\numberline {13.3.1}Role in human disease}{223}{subsection.13.3.1}%
+\contentsline {subsection}{\numberline {13.3.2}Animal viruses}{225}{subsection.13.3.2}%
+\contentsline {subsection}{\numberline {13.3.3}Plant viruses}{225}{subsection.13.3.3}%
+\contentsline {subsection}{\numberline {13.3.4}Bacterial viruses}{226}{subsection.13.3.4}%
+\contentsline {chapter}{\numberline {14}Protists}{229}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Protozoa}{233}{section.14.1}%
+\contentsline {section}{\numberline {14.2}Flagellates}{236}{section.14.2}%
+\contentsline {section}{\numberline {14.3}Ciliates}{237}{section.14.3}%
+\contentsline {section}{\numberline {14.4}Amoebozoa}{239}{section.14.4}%
+\contentsline {section}{\numberline {14.5}Algae}{240}{section.14.5}%
+\contentsline {section}{\numberline {14.6}Slime Molds}{242}{section.14.6}%
+\contentsline {subsection}{\numberline {14.6.1}Reproduction of Protists}{243}{subsection.14.6.1}%
+\contentsline {chapter}{\numberline {15}The Theory of Evolution}{245}{chapter.15}%
+\contentsline {section}{\numberline {15.1}History of Evolutionary Thought}{246}{section.15.1}%
+\contentsline {section}{\numberline {15.2}The Modern Synthesis}{247}{section.15.2}%
+\contentsline {section}{\numberline {15.3}Mechanisms of Evolution}{248}{section.15.3}%
+\contentsline {subsection}{\numberline {15.3.1}Natural selection}{250}{subsection.15.3.1}%
+\contentsline {subsection}{\numberline {15.3.2}Genetic Hitchhiking}{251}{subsection.15.3.2}%
+\contentsline {subsection}{\numberline {15.3.3}Genetic Drift}{251}{subsection.15.3.3}%
+\contentsline {subsection}{\numberline {15.3.4}Gene Flow}{252}{subsection.15.3.4}%
+\contentsline {subsection}{\numberline {15.3.5}A Classic Example: Evolution of The Peppered Moth}{252}{subsection.15.3.5}%
+\contentsline {section}{\numberline {15.4}Outcomes of Evolution}{253}{section.15.4}%
+\contentsline {subsection}{\numberline {15.4.1}Adaptation}{254}{subsection.15.4.1}%
+\contentsline {subsection}{\numberline {15.4.2}Coevolution}{255}{subsection.15.4.2}%
+\contentsline {chapter}{\numberline {16}Taxonomy, Binomial Nomenclature And Systematics}{257}{chapter.16}%
+\contentsline {section}{\numberline {16.1}The Concept of Species in Biology}{258}{section.16.1}%
+\contentsline {section}{\numberline {16.2}Binomial Nomenclature}{259}{section.16.2}%
+\contentsline {section}{\numberline {16.3}Taxonomy And Systematics}{262}{section.16.3}%
+\contentsline {section}{\numberline {16.4}Kingdoms And Domains}{264}{section.16.4}%
+\contentsline {subsection}{\numberline {16.4.1}The Three-Domain System}{265}{subsection.16.4.1}%
+\contentsline {section}{\numberline {16.5}Cladistics}{265}{section.16.5}%
+\contentsline {chapter}{\numberline {17}Fungi}{269}{chapter.17}%
+\contentsline {section}{\numberline {17.1}Morphology of Fungi}{271}{section.17.1}%
+\contentsline {section}{\numberline {17.2}Growth And Physiology of Fungi}{272}{section.17.2}%
+\contentsline {section}{\numberline {17.3}Reproduction of Fungi}{272}{section.17.3}%
+\contentsline {subsection}{\numberline {17.3.1}Asexual reproduction}{272}{subsection.17.3.1}%
+\contentsline {subsection}{\numberline {17.3.2}Sexual reproduction}{272}{subsection.17.3.2}%
+\contentsline {subsection}{\numberline {17.3.3}Spore dispersal}{273}{subsection.17.3.3}%
+\contentsline {section}{\numberline {17.4}Evolution of Fungi}{273}{section.17.4}%
+\contentsline {section}{\numberline {17.5}Fungus-like organisms}{276}{section.17.5}%
+\contentsline {section}{\numberline {17.6}Ecology of Fungi}{276}{section.17.6}%
+\contentsline {subsection}{\numberline {17.6.1}Symbiosis}{276}{subsection.17.6.1}%
+\contentsline {section}{\numberline {17.7}Fungi as Pathogens And Parasites}{278}{section.17.7}%
+\contentsline {section}{\numberline {17.8}Mycotoxins}{278}{section.17.8}%
+\contentsline {chapter}{\numberline {18}Plants}{281}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Embryophytes}{283}{section.18.1}%
+\contentsline {section}{\numberline {18.2}Non-vascular Plants}{284}{section.18.2}%
+\contentsline {section}{\numberline {18.3}Vascular Plants}{285}{section.18.3}%
+\contentsline {subsection}{\numberline {18.3.1}Ferns}{286}{subsection.18.3.1}%
+\contentsline {section}{\numberline {18.4}Seed Plants}{288}{section.18.4}%
+\contentsline {section}{\numberline {18.5}Gymnosperms}{288}{section.18.5}%
+\contentsline {section}{\numberline {18.6}Angiosperms}{290}{section.18.6}%
+\contentsline {subsection}{\numberline {18.6.1}Fertilization and Embryogenesis}{296}{subsection.18.6.1}%
+\contentsline {section}{\numberline {18.7}Plant Anatomy}{297}{section.18.7}%
+\contentsline {section}{\numberline {18.8}Plant Tissues}{297}{section.18.8}%
+\contentsline {subsection}{\numberline {18.8.1}Meristematic Tissues}{297}{subsection.18.8.1}%
+\contentsline {subsection}{\numberline {18.8.2}Permanent Tissues}{298}{subsection.18.8.2}%
+\contentsline {subsection}{\numberline {18.8.3}Parenchyma}{298}{subsection.18.8.3}%
+\contentsline {subsection}{\numberline {18.8.4}Collenchyma}{298}{subsection.18.8.4}%
+\contentsline {subsection}{\numberline {18.8.5}Sclerenchyma}{298}{subsection.18.8.5}%
+\contentsline {subsection}{\numberline {18.8.6}Epidermis}{299}{subsection.18.8.6}%
+\contentsline {subsection}{\numberline {18.8.7}Complex Permanent Tissue}{299}{subsection.18.8.7}%
+\contentsline {subsection}{\numberline {18.8.8}Xylem}{299}{subsection.18.8.8}%
+\contentsline {subsection}{\numberline {18.8.9}Phloem}{299}{subsection.18.8.9}%
+\contentsline {subsection}{\numberline {18.8.10}Plant cells}{299}{subsection.18.8.10}%
+\contentsline {section}{\numberline {18.9}Biochemistry of Plants}{300}{section.18.9}%
+\contentsline {subsection}{\numberline {18.9.1}Pigments}{300}{subsection.18.9.1}%
+\contentsline {subsection}{\numberline {18.9.2}Plant Hormones}{300}{subsection.18.9.2}%
+\contentsline {subsection}{\numberline {18.9.3}Photomorphogenesis}{301}{subsection.18.9.3}%
+\contentsline {subsection}{\numberline {18.9.4}Photoperiodism}{301}{subsection.18.9.4}%
+\contentsline {section}{\numberline {18.10}Plant Secondary Metabolism}{301}{section.18.10}%
+\contentsline {section}{\numberline {18.11}Tropisms And Nastic Movements}{302}{section.18.11}%
+\contentsline {section}{\numberline {18.12}Plant Reproduction}{302}{section.18.12}%
+\contentsline {subsection}{\numberline {18.12.1}The Life Cycle of Plants}{302}{subsection.18.12.1}%
+\contentsline {subsection}{\numberline {18.12.2}Asexual Reproduction}{303}{subsection.18.12.2}%
+\contentsline {subsection}{\numberline {18.12.3}Sexual Reproduction}{304}{subsection.18.12.3}%
+\contentsline {subsection}{\numberline {18.12.4}Reproduction of Flowering Plants}{305}{subsection.18.12.4}%
+\contentsline {subsection}{\numberline {18.12.5}Pollination}{305}{subsection.18.12.5}%
+\contentsline {section}{\numberline {18.13}The Fruit}{305}{section.18.13}%
+\contentsline {subsection}{\numberline {18.13.1}Reproductin of Ferns}{307}{subsection.18.13.1}%
+\contentsline {subsection}{\numberline {18.13.2}Reproductin of Bryophytes}{308}{subsection.18.13.2}%
+\contentsline {chapter}{\numberline {19}Animals}{309}{chapter.19}%
+\contentsline {section}{\numberline {19.1}Non-bilaterian animals}{314}{section.19.1}%
+\contentsline {subsection}{\numberline {19.1.1}Porifera}{314}{subsection.19.1.1}%
+\contentsline {subsection}{\numberline {19.1.2}Ctenophora}{320}{subsection.19.1.2}%
+\contentsline {subsection}{\numberline {19.1.3}Cnidaria}{321}{subsection.19.1.3}%
+\contentsline {section}{\numberline {19.2}Bilaterian animals}{325}{section.19.2}%
+\contentsline {subsection}{\numberline {19.2.1}Protostomes and deuterostomes}{328}{subsection.19.2.1}%
+\contentsline {subsection}{\numberline {19.2.2}Echinoderms}{328}{subsection.19.2.2}%
+\contentsline {subsection}{\numberline {19.2.3}Hemichordata}{332}{subsection.19.2.3}%
+\contentsline {section}{\numberline {19.3}Chordata}{333}{section.19.3}%
+\contentsline {subsection}{\numberline {19.3.1}Fish}{334}{subsection.19.3.1}%
+\contentsline {subsection}{\numberline {19.3.2}Amphibians}{335}{subsection.19.3.2}%
+\contentsline {subsection}{\numberline {19.3.3}Reptiles}{335}{subsection.19.3.3}%
+\contentsline {subsection}{\numberline {19.3.4}Birds}{336}{subsection.19.3.4}%
+\contentsline {subsection}{\numberline {19.3.5}Mammals}{337}{subsection.19.3.5}%
+\contentsline {subsection}{\numberline {19.3.6}Ecdysozoa}{338}{subsection.19.3.6}%
+\contentsline {subsection}{\numberline {19.3.7}Arthropods}{338}{subsection.19.3.7}%
+\contentsline {subsection}{\numberline {19.3.8}Nematodes}{340}{subsection.19.3.8}%
+\contentsline {subsection}{\numberline {19.3.9}Spiralia}{341}{subsection.19.3.9}%
+\contentsline {subsection}{\numberline {19.3.10}Rotifera}{341}{subsection.19.3.10}%
+\contentsline {subsection}{\numberline {19.3.11}Flatworms}{343}{subsection.19.3.11}%
+\contentsline {subsection}{\numberline {19.3.12}Trematoda}{344}{subsection.19.3.12}%
+\contentsline {subsection}{\numberline {19.3.13}Digenea}{344}{subsection.19.3.13}%
+\contentsline {subsection}{\numberline {19.3.14}Cestoda}{345}{subsection.19.3.14}%
+\contentsline {subsection}{\numberline {19.3.15}Lophotrochozoa}{346}{subsection.19.3.15}%
+\contentsline {subsection}{\numberline {19.3.16}Brachiopods}{346}{subsection.19.3.16}%
+\contentsline {subsection}{\numberline {19.3.17}Bryozoa}{346}{subsection.19.3.17}%
+\contentsline {subsection}{\numberline {19.3.18}Nemertea}{347}{subsection.19.3.18}%
+\contentsline {subsection}{\numberline {19.3.19}Molluscs}{347}{subsection.19.3.19}%
+\contentsline {subsection}{\numberline {19.3.20}Annelids}{350}{subsection.19.3.20}%
+\contentsline {section}{\numberline {19.4}Tissues, Organs And Organ Systems}{351}{section.19.4}%
+\contentsline {subsection}{\numberline {19.4.1}Epithelial tissue}{351}{subsection.19.4.1}%
+\contentsline {subsection}{\numberline {19.4.2}Connective tissue}{352}{subsection.19.4.2}%
+\contentsline {subsection}{\numberline {19.4.3}Muscular tissue}{352}{subsection.19.4.3}%
+\contentsline {subsection}{\numberline {19.4.4}Nervous tissue}{352}{subsection.19.4.4}%
+\contentsline {subsection}{\numberline {19.4.5}The Integumentary System}{353}{subsection.19.4.5}%
+\contentsline {section}{\numberline {19.5}Human evolution}{355}{section.19.5}%
+\contentsline {subsection}{\numberline {19.5.1}Human Dispersal}{359}{subsection.19.5.1}%
+\contentsline {subsection}{\numberline {19.5.2}Evidence of Human Evolution}{361}{subsection.19.5.2}%
+\contentsline {subsection}{\numberline {19.5.3}Early Evolution of Primates}{363}{subsection.19.5.3}%
+\contentsline {subsection}{\numberline {19.5.4}Divergence of The Human Clade From Other Great Apes}{363}{subsection.19.5.4}%
+\contentsline {subsection}{\numberline {19.5.5}Genus Australopithecus}{364}{subsection.19.5.5}%
+\contentsline {subsection}{\numberline {19.5.6}Evolution of Genus Homo}{364}{subsection.19.5.6}%
+\contentsline {subsection}{\numberline {19.5.7}H. habilis and H. gautengensis}{365}{subsection.19.5.7}%
+\contentsline {subsection}{\numberline {19.5.8}H. rudolfensis and H. georgicus}{365}{subsection.19.5.8}%
+\contentsline {subsection}{\numberline {19.5.9}H. ergaster and H. erectus}{365}{subsection.19.5.9}%
+\contentsline {subsection}{\numberline {19.5.10}H. cepranensis and H. antecessor}{366}{subsection.19.5.10}%
+\contentsline {subsection}{\numberline {19.5.11}H. heidelbergensis}{366}{subsection.19.5.11}%
+\contentsline {subsection}{\numberline {19.5.12}H. rhodesiensis, and the Gawis cranium}{366}{subsection.19.5.12}%
+\contentsline {subsection}{\numberline {19.5.13}Neanderthal and Denisovan}{366}{subsection.19.5.13}%
+\contentsline {subsection}{\numberline {19.5.14}H. floresiensis}{367}{subsection.19.5.14}%
+\contentsline {subsection}{\numberline {19.5.15}H. luzonensis}{367}{subsection.19.5.15}%
+\contentsline {subsection}{\numberline {19.5.16}H. sapiens}{367}{subsection.19.5.16}%
+\contentsline {chapter}{\numberline {20}Circulatory Systems}{371}{chapter.20}%
+\contentsline {section}{\numberline {20.1}Closed Circulatory System}{371}{section.20.1}%
+\contentsline {section}{\numberline {20.2}Open Circulatory Systems}{372}{section.20.2}%
+\contentsline {section}{\numberline {20.3}No Circulatory System}{372}{section.20.3}%
+\contentsline {section}{\numberline {20.4}The Human Cardiovascular System}{372}{section.20.4}%
+\contentsline {section}{\numberline {20.5}The Heart}{373}{section.20.5}%
+\contentsline {subsection}{\numberline {20.5.1}Structure of The Heart}{373}{subsection.20.5.1}%
+\contentsline {subsection}{\numberline {20.5.2}The Pericardium}{375}{subsection.20.5.2}%
+\contentsline {section}{\numberline {20.6}The Blood Flow}{376}{section.20.6}%
+\contentsline {subsection}{\numberline {20.6.1}The Cardiac Cycle}{376}{subsection.20.6.1}%
+\contentsline {subsection}{\numberline {20.6.2}Control of The Heart Rate}{377}{subsection.20.6.2}%
+\contentsline {subsection}{\numberline {20.6.3}The Electrocardiogram (EKG)}{377}{subsection.20.6.3}%
+\contentsline {section}{\numberline {20.7}Arteries}{378}{section.20.7}%
+\contentsline {section}{\numberline {20.8}Capillaries}{378}{section.20.8}%
+\contentsline {section}{\numberline {20.9}Veins}{378}{section.20.9}%
+\contentsline {subsection}{\numberline {20.9.1}Portal veins}{378}{subsection.20.9.1}%
+\contentsline {section}{\numberline {20.10}The Systemic Circulation}{378}{section.20.10}%
+\contentsline {section}{\numberline {20.11}The Pulmonary Circulation}{378}{section.20.11}%
+\contentsline {section}{\numberline {20.12}Cardiovascular Disease}{379}{section.20.12}%
+\contentsline {section}{\numberline {20.13}History}{379}{section.20.13}%
+\contentsline {chapter}{\numberline {21}The Lymphatic And Immune Systems}{381}{chapter.21}%
+\contentsline {section}{\numberline {21.1}The Lymphatic System}{381}{section.21.1}%
+\contentsline {subsection}{\numberline {21.1.1}Primary lymphoid organs}{382}{subsection.21.1.1}%
+\contentsline {subsection}{\numberline {21.1.2}The Bone Marrow}{382}{subsection.21.1.2}%
+\contentsline {subsection}{\numberline {21.1.3}The Thymus}{382}{subsection.21.1.3}%
+\contentsline {subsection}{\numberline {21.1.4}The Secondary Lymphoid Organs}{382}{subsection.21.1.4}%
+\contentsline {subsection}{\numberline {21.1.5}The Spleen}{382}{subsection.21.1.5}%
+\contentsline {subsection}{\numberline {21.1.6}The Lymph Nodes}{383}{subsection.21.1.6}%
+\contentsline {subsection}{\numberline {21.1.7}The Lymphatic Vessels}{384}{subsection.21.1.7}%
+\contentsline {section}{\numberline {21.2}The Immune System}{385}{section.21.2}%
+\contentsline {section}{\numberline {21.3}The Innate Immune System}{386}{section.21.3}%
+\contentsline {subsection}{\numberline {21.3.1}Surface Barriers}{386}{subsection.21.3.1}%
+\contentsline {section}{\numberline {21.4}Cellular Components of The Innate Immune System}{387}{section.21.4}%
+\contentsline {subsection}{\numberline {21.4.1}Mast cells}{387}{subsection.21.4.1}%
+\contentsline {subsection}{\numberline {21.4.2}Phagocytes}{387}{subsection.21.4.2}%
+\contentsline {subsection}{\numberline {21.4.3}Macrophages}{388}{subsection.21.4.3}%
+\contentsline {subsection}{\numberline {21.4.4}Neutrophils}{388}{subsection.21.4.4}%
+\contentsline {subsection}{\numberline {21.4.5}Dendritic Cells}{388}{subsection.21.4.5}%
+\contentsline {subsection}{\numberline {21.4.6}Basophils And Eosinophils}{389}{subsection.21.4.6}%
+\contentsline {subsection}{\numberline {21.4.7}Innate Lymphoid Cells}{389}{subsection.21.4.7}%
+\contentsline {section}{\numberline {21.5}Inflammation}{389}{section.21.5}%
+\contentsline {section}{\numberline {21.6}The Complement System}{390}{section.21.6}%
+\contentsline {section}{\numberline {21.7}The Adaptive Immune System}{392}{section.21.7}%
+\contentsline {subsection}{\numberline {21.7.1}The Lymphocytes}{392}{subsection.21.7.1}%
+\contentsline {subsection}{\numberline {21.7.2}Antigen Presentation to T Lymphocytes}{393}{subsection.21.7.2}%
+\contentsline {subsection}{\numberline {21.7.3}Cytotoxic T lymphocytes}{393}{subsection.21.7.3}%
+\contentsline {subsection}{\numberline {21.7.4}T Helper Cells}{394}{subsection.21.7.4}%
+\contentsline {subsection}{\numberline {21.7.5}Gamma delta T cells}{395}{subsection.21.7.5}%
+\contentsline {subsection}{\numberline {21.7.6}B Lymphocytes And Antibody Production}{395}{subsection.21.7.6}%
+\contentsline {section}{\numberline {21.8}The humoral Immune Response}{396}{section.21.8}%
+\contentsline {subsection}{\numberline {21.8.1}Antibodies}{396}{subsection.21.8.1}%
+\contentsline {subsection}{\numberline {21.8.2}The Immunological Memory}{397}{subsection.21.8.2}%
+\contentsline {chapter}{\numberline {22}Respiratory Systems}{399}{chapter.22}%
+\contentsline {section}{\numberline {22.1}The Mammalian Respiratory System}{399}{section.22.1}%
+\contentsline {section}{\numberline {22.2}Gas Exchange}{401}{section.22.2}%
+\contentsline {section}{\numberline {22.3}Control of Ventilation}{403}{section.22.3}%
+\contentsline {section}{\numberline {22.4}The Respiratory System of Birds}{405}{section.22.4}%
+\contentsline {section}{\numberline {22.5}The Respiratory System of Reptiles}{406}{section.22.5}%
+\contentsline {section}{\numberline {22.6}The Respiratory System of Amphibians}{406}{section.22.6}%
+\contentsline {section}{\numberline {22.7}The Respiratory System of Fish}{407}{section.22.7}%
+\contentsline {section}{\numberline {22.8}The Respiratory System of Arthropods}{408}{section.22.8}%
+\contentsline {section}{\numberline {22.9}The Respiratory System of Molluscs}{408}{section.22.9}%
+\contentsline {section}{\numberline {22.10}The Respiratory System of Plants}{408}{section.22.10}%
+\contentsline {chapter}{\numberline {23}Digestive Systems}{411}{chapter.23}%
+\contentsline {section}{\numberline {23.1}The Human Digestive System}{412}{section.23.1}%
+\contentsline {subsection}{\numberline {23.1.1}The Salivary Glands}{414}{subsection.23.1.1}%
+\contentsline {subsection}{\numberline {23.1.2}The Tongue}{415}{subsection.23.1.2}%
+\contentsline {subsection}{\numberline {23.1.3}The Teeth}{416}{subsection.23.1.3}%
+\contentsline {subsection}{\numberline {23.1.4}The Epiglottis}{416}{subsection.23.1.4}%
+\contentsline {subsection}{\numberline {23.1.5}The Pharynx}{416}{subsection.23.1.5}%
+\contentsline {subsection}{\numberline {23.1.6}The Esophagus}{416}{subsection.23.1.6}%
+\contentsline {subsection}{\numberline {23.1.7}The Diaphragm}{416}{subsection.23.1.7}%
+\contentsline {subsection}{\numberline {23.1.8}The Stomach}{417}{subsection.23.1.8}%
+\contentsline {subsection}{\numberline {23.1.9}The Spleen}{417}{subsection.23.1.9}%
+\contentsline {subsection}{\numberline {23.1.10}The Liver, Bile And Gallbladder}{417}{subsection.23.1.10}%
+\contentsline {subsection}{\numberline {23.1.11}The Pancreas}{418}{subsection.23.1.11}%
+\contentsline {subsection}{\numberline {23.1.12}Lower Gastrointestinal Tract}{419}{subsection.23.1.12}%
+\contentsline {subsection}{\numberline {23.1.13}The Small Intestine}{419}{subsection.23.1.13}%
+\contentsline {subsection}{\numberline {23.1.14}The Cecum}{420}{subsection.23.1.14}%
+\contentsline {subsection}{\numberline {23.1.15}The Large Intestine}{420}{subsection.23.1.15}%
+\contentsline {subsection}{\numberline {23.1.16}Protein Digestion}{420}{subsection.23.1.16}%
+\contentsline {subsection}{\numberline {23.1.17}Fat Digestion}{420}{subsection.23.1.17}%
+\contentsline {subsection}{\numberline {23.1.18}Carbohydrate Digestion}{420}{subsection.23.1.18}%
+\contentsline {subsection}{\numberline {23.1.19}DNA And RNA Digestion}{421}{subsection.23.1.19}%
+\contentsline {subsection}{\numberline {23.1.20}Non-destructive digestion}{421}{subsection.23.1.20}%
+\contentsline {subsection}{\numberline {23.1.21}The Digestive System of Birds}{421}{subsection.23.1.21}%
+\contentsline {section}{\numberline {23.2}The Digestive System of Fish}{421}{section.23.2}%
+\contentsline {section}{\numberline {23.3}The Digestive System of Annelids}{422}{section.23.3}%
+\contentsline {chapter}{\numberline {24}Osmoregulation And Excretory Systems}{423}{chapter.24}%
+\contentsline {section}{\numberline {24.1}Nitrogenous Waste}{424}{section.24.1}%
+\contentsline {section}{\numberline {24.2}Excretory Systems}{424}{section.24.2}%
+\contentsline {section}{\numberline {24.3}The Human Urinary System}{425}{section.24.3}%
+\contentsline {chapter}{\numberline {25}Nervous Systems}{429}{chapter.25}%
+\contentsline {section}{\numberline {25.1}The Cells Of The Nervous System}{430}{section.25.1}%
+\contentsline {section}{\numberline {25.2}Comparative Anatomy And Evolution Of Nervous Systems}{431}{section.25.2}%
+\contentsline {section}{\numberline {25.3}The Human Brain}{436}{section.25.3}%
+\contentsline {section}{\numberline {25.4}Development Of The Nervous System}{438}{section.25.4}%
+\contentsline {section}{\numberline {25.5}The Function Of The Nervous System}{439}{section.25.5}%
+\contentsline {section}{\numberline {25.6}The Sensory System}{439}{section.25.6}%
+\contentsline {section}{\numberline {25.7}The Motor System}{440}{section.25.7}%
+\contentsline {section}{\numberline {25.8}Neuronal Signalling}{440}{section.25.8}%
+\contentsline {section}{\numberline {25.9}Neurons And Glial Cells}{442}{section.25.9}%
+\contentsline {subsection}{\numberline {25.9.1}Neurons}{442}{subsection.25.9.1}%
+\contentsline {subsection}{\numberline {25.9.2}Glia}{446}{subsection.25.9.2}%
+\contentsline {section}{\numberline {25.10}Electrical Basis Of Neuronal Function}{447}{section.25.10}%
+\contentsline {subsection}{\numberline {25.10.1}The Membrane Potential}{447}{subsection.25.10.1}%
+\contentsline {subsection}{\numberline {25.10.2}Ions And The Forces Driving Their Motion}{448}{subsection.25.10.2}%
+\contentsline {subsection}{\numberline {25.10.3}The Plasma Membrane}{449}{subsection.25.10.3}%
+\contentsline {subsection}{\numberline {25.10.4}Ion Pumps}{450}{subsection.25.10.4}%
+\contentsline {subsection}{\numberline {25.10.5}Ion Channels}{451}{subsection.25.10.5}%
+\contentsline {subsection}{\numberline {25.10.6}The Reversal Potential}{456}{subsection.25.10.6}%
+\contentsline {subsection}{\numberline {25.10.7}The Resting Potential}{456}{subsection.25.10.7}%
+\contentsline {subsection}{\numberline {25.10.8}The Action Potential}{457}{subsection.25.10.8}%
+\contentsline {subsection}{\numberline {25.10.9}Graded Potentials}{458}{subsection.25.10.9}%
+\contentsline {section}{\numberline {25.11}Neurotransmission}{459}{section.25.11}%
+\contentsline {subsection}{\numberline {25.11.1}The Synapse}{460}{subsection.25.11.1}%
+\contentsline {subsection}{\numberline {25.11.2}Neurotransmitters}{464}{subsection.25.11.2}%
+\contentsline {subsection}{\numberline {25.11.3}Modulatory Neurotransmitter Systems}{465}{subsection.25.11.3}%
+\contentsline {subsection}{\numberline {25.11.4}Neurotransmitter Receptors}{465}{subsection.25.11.4}%
+\contentsline {subsection}{\numberline {25.11.5}Ionotropic Receptors: Neurotransmitter-Gated Ion Channels}{465}{subsection.25.11.5}%
+\contentsline {subsection}{\numberline {25.11.6}Metabotropic Receptors: G-Protein Coupled Receptors}{466}{subsection.25.11.6}%
+\contentsline {chapter}{\numberline {26}Sensation: Receptors, Organs And Systems}{467}{chapter.26}%
+\contentsline {section}{\numberline {26.1}Sensory Receptors}{468}{section.26.1}%
+\contentsline {subsection}{\numberline {26.1.1}Chemoreceptors}{469}{subsection.26.1.1}%
+\contentsline {subsection}{\numberline {26.1.2}Photoreceptors}{469}{subsection.26.1.2}%
+\contentsline {subsection}{\numberline {26.1.3}Mechanoreceptors}{469}{subsection.26.1.3}%
+\contentsline {subsection}{\numberline {26.1.4}Thermoreceptors}{470}{subsection.26.1.4}%
+\contentsline {subsection}{\numberline {26.1.5}Nociceptors}{470}{subsection.26.1.5}%
+\contentsline {section}{\numberline {26.2}The Visual System}{470}{section.26.2}%
+\contentsline {subsection}{\numberline {26.2.1}The Eye}{470}{subsection.26.2.1}%
+\contentsline {subsection}{\numberline {26.2.2}The Retina}{471}{subsection.26.2.2}%
+\contentsline {subsection}{\numberline {26.2.3}The Photoreceptors}{474}{subsection.26.2.3}%
+\contentsline {subsection}{\numberline {26.2.4}Visual Phototransduction}{475}{subsection.26.2.4}%
+\contentsline {subsection}{\numberline {26.2.5}The Visual Pathways}{477}{subsection.26.2.5}%
+\contentsline {subsection}{\numberline {26.2.6}The Optic Nerve And Optic Tract}{477}{subsection.26.2.6}%
+\contentsline {subsection}{\numberline {26.2.7}The Superior Colliculus}{477}{subsection.26.2.7}%
+\contentsline {subsection}{\numberline {26.2.8}The Lateral Geniculate Nucleus (LGN)}{478}{subsection.26.2.8}%
+\contentsline {subsection}{\numberline {26.2.9}The Visual Cortex}{479}{subsection.26.2.9}%
+\contentsline {section}{\numberline {26.3}The Auditory And Vestibular Systems}{480}{section.26.3}%
+\contentsline {subsection}{\numberline {26.3.1}The Ear}{480}{subsection.26.3.1}%
+\contentsline {section}{\numberline {26.4}The Auditory System}{481}{section.26.4}%
+\contentsline {subsection}{\numberline {26.4.1}Organ Of Corti}{481}{subsection.26.4.1}%
+\contentsline {subsection}{\numberline {26.4.2}Auditory Transduction}{481}{subsection.26.4.2}%
+\contentsline {subsection}{\numberline {26.4.3}Auditory Pathways}{482}{subsection.26.4.3}%
+\contentsline {subsection}{\numberline {26.4.4}The Cochlear Nucleus}{482}{subsection.26.4.4}%
+\contentsline {subsection}{\numberline {26.4.5}The Trapezoid Body}{482}{subsection.26.4.5}%
+\contentsline {subsection}{\numberline {26.4.6}The superior olivary complex}{482}{subsection.26.4.6}%
+\contentsline {subsection}{\numberline {26.4.7}The Lateral Lemniscus}{483}{subsection.26.4.7}%
+\contentsline {subsection}{\numberline {26.4.8}The Inferior Colliculi}{483}{subsection.26.4.8}%
+\contentsline {subsection}{\numberline {26.4.9}The Medial Geniculate Nucleus (MGN)}{483}{subsection.26.4.9}%
+\contentsline {subsection}{\numberline {26.4.10}The Primary Auditory Cortex}{483}{subsection.26.4.10}%
+\contentsline {subsection}{\numberline {26.4.11}The Auditory Ventral And Dorsal Streams}{483}{subsection.26.4.11}%
+\contentsline {section}{\numberline {26.5}The Vestibular System}{483}{section.26.5}%
+\contentsline {subsection}{\numberline {26.5.1}The Semicircular Canals}{483}{subsection.26.5.1}%
+\contentsline {subsection}{\numberline {26.5.2}The Otolithic Organs}{484}{subsection.26.5.2}%
+\contentsline {subsection}{\numberline {26.5.3}Vestibular Pathways}{485}{subsection.26.5.3}%
+\contentsline {section}{\numberline {26.6}The Somatic Sensory System}{485}{section.26.6}%
+\contentsline {subsection}{\numberline {26.6.1}Touch}{486}{subsection.26.6.1}%
+\contentsline {subsection}{\numberline {26.6.2}Cutaneous Mechanoreceptors}{486}{subsection.26.6.2}%
+\contentsline {subsection}{\numberline {26.6.3}Nociception}{488}{subsection.26.6.3}%
+\contentsline {subsection}{\numberline {26.6.4}Proprioception}{489}{subsection.26.6.4}%
+\contentsline {subsection}{\numberline {26.6.5}Muscle Spindles}{489}{subsection.26.6.5}%
+\contentsline {subsection}{\numberline {26.6.6}Golgi Tendon Organ}{490}{subsection.26.6.6}%
+\contentsline {subsection}{\numberline {26.6.7}The Somatosensory Pathways}{490}{subsection.26.6.7}%
+\contentsline {subsection}{\numberline {26.6.8}The Primary Somatosensory Cortex}{491}{subsection.26.6.8}%
+\contentsline {section}{\numberline {26.7}The Olfactory System}{492}{section.26.7}%
+\contentsline {subsection}{\numberline {26.7.1}The Nose}{492}{subsection.26.7.1}%
+\contentsline {subsection}{\numberline {26.7.2}Olfactory Sensory Neurons}{493}{subsection.26.7.2}%
+\contentsline {subsection}{\numberline {26.7.3}The Olfactory Bulb}{493}{subsection.26.7.3}%
+\contentsline {subsection}{\numberline {26.7.4}The Olfactory Cortex}{494}{subsection.26.7.4}%
+\contentsline {subsection}{\numberline {26.7.5}Olfactory Pathways}{494}{subsection.26.7.5}%
+\contentsline {section}{\numberline {26.8}The Gustatory System}{495}{section.26.8}%
+\contentsline {subsection}{\numberline {26.8.1}The Tongue}{495}{subsection.26.8.1}%
+\contentsline {subsection}{\numberline {26.8.2}The Five Basic Tastes}{496}{subsection.26.8.2}%
+\contentsline {subsection}{\numberline {26.8.3}Sweetness}{497}{subsection.26.8.3}%
+\contentsline {subsection}{\numberline {26.8.4}Sourness}{497}{subsection.26.8.4}%
+\contentsline {subsection}{\numberline {26.8.5}Saltiness}{497}{subsection.26.8.5}%
+\contentsline {subsection}{\numberline {26.8.6}Bitterness}{498}{subsection.26.8.6}%
+\contentsline {subsection}{\numberline {26.8.7}Savoriness (Umami)}{498}{subsection.26.8.7}%
+\contentsline {subsection}{\numberline {26.8.8}The Taste Receptors}{498}{subsection.26.8.8}%
+\contentsline {subsection}{\numberline {26.8.9}The Gustatory Cortex}{499}{subsection.26.8.9}%
+\contentsline {chapter}{\numberline {27}Animal Locomotion And Support Systems}{501}{chapter.27}%
+\contentsline {section}{\numberline {27.1}The Skeleton}{501}{section.27.1}%
+\contentsline {subsection}{\numberline {27.1.1}Exoskeleton}{501}{subsection.27.1.1}%
+\contentsline {subsection}{\numberline {27.1.2}Endoskeleton}{502}{subsection.27.1.2}%
+\contentsline {subsection}{\numberline {27.1.3}Hydrostatic Skeleton (Hydroskeleton)}{502}{subsection.27.1.3}%
+\contentsline {subsection}{\numberline {27.1.4}Organisms With Skeletons}{502}{subsection.27.1.4}%
+\contentsline {section}{\numberline {27.2}The Human Musculoskeletal System}{503}{section.27.2}%
+\contentsline {subsection}{\numberline {27.2.1}Tendons}{504}{subsection.27.2.1}%
+\contentsline {subsection}{\numberline {27.2.2}Joints, Ligaments And Bursae}{504}{subsection.27.2.2}%
+\contentsline {subsection}{\numberline {27.2.3}The Human Skeleton}{505}{subsection.27.2.3}%
+\contentsline {subsection}{\numberline {27.2.4}The Axial Skeleton}{507}{subsection.27.2.4}%
+\contentsline {subsection}{\numberline {27.2.5}The Appendicular Skeleton}{507}{subsection.27.2.5}%
+\contentsline {subsection}{\numberline {27.2.6}Bone}{508}{subsection.27.2.6}%
+\contentsline {subsection}{\numberline {27.2.7}Cortical Bone}{508}{subsection.27.2.7}%
+\contentsline {subsection}{\numberline {27.2.8}Cancellous Bone}{509}{subsection.27.2.8}%
+\contentsline {subsection}{\numberline {27.2.9}The Bone Marrow}{509}{subsection.27.2.9}%
+\contentsline {subsection}{\numberline {27.2.10}Bone cells}{509}{subsection.27.2.10}%
+\contentsline {subsection}{\numberline {27.2.11}Osteoblast}{509}{subsection.27.2.11}%
+\contentsline {subsection}{\numberline {27.2.12}Osteocyte}{510}{subsection.27.2.12}%
+\contentsline {subsection}{\numberline {27.2.13}Osteoclast}{510}{subsection.27.2.13}%
+\contentsline {subsection}{\numberline {27.2.14}Extracellular Matrix}{510}{subsection.27.2.14}%
+\contentsline {section}{\numberline {27.3}The Muscular System}{510}{section.27.3}%
+\contentsline {subsection}{\numberline {27.3.1}Muscle Contraction}{512}{subsection.27.3.1}%
+\contentsline {subsection}{\numberline {27.3.2}Skeletal Muscle}{513}{subsection.27.3.2}%
+\contentsline {subsection}{\numberline {27.3.3}Excitation-contraction Coupling}{514}{subsection.27.3.3}%
+\contentsline {subsection}{\numberline {27.3.4}The Sliding Filament Theory}{514}{subsection.27.3.4}%
+\contentsline {subsection}{\numberline {27.3.5}Crossbridge Cycling}{514}{subsection.27.3.5}%
+\contentsline {subsection}{\numberline {27.3.6}Smooth Muscle}{516}{subsection.27.3.6}%
+\contentsline {subsection}{\numberline {27.3.7}Cardiac Muscle}{517}{subsection.27.3.7}%
+\contentsline {subsection}{\numberline {27.3.8}The Muscular Systems of Invertebrates}{517}{subsection.27.3.8}%
+\contentsline {chapter}{\numberline {28}Endocrine Systems}{519}{chapter.28}%
+\contentsline {section}{\numberline {28.1}The Hypothalamus}{520}{section.28.1}%
+\contentsline {section}{\numberline {28.2}Hypothalamic--pituitary--thyroid axis}{525}{section.28.2}%
+\contentsline {section}{\numberline {28.3}Hypothalamic--pituitary--gonadal axis}{525}{section.28.3}%
+\contentsline {section}{\numberline {28.4}Hypothalamic--pituitary--adrenal axis}{527}{section.28.4}%
+\contentsline {section}{\numberline {28.5}The Renin--angiotensin System}{528}{section.28.5}%
+\contentsline {chapter}{\numberline {29}Reproductive Systems}{531}{chapter.29}%
+\contentsline {section}{\numberline {29.1}The Human Reproductive System}{533}{section.29.1}%
+\contentsline {section}{\numberline {29.2}The Female Reproductive System}{533}{section.29.2}%
+\contentsline {section}{\numberline {29.3}The Male Reproductive System}{533}{section.29.3}%
+\contentsline {chapter}{\numberline {30}Development And Aging}{537}{chapter.30}%
+\contentsline {section}{\numberline {30.1}Animal Development}{537}{section.30.1}%
+\contentsline {subsection}{\numberline {30.1.1}Cellular differentiation}{538}{subsection.30.1.1}%
+\contentsline {subsection}{\numberline {30.1.2}Morphogenesis}{538}{subsection.30.1.2}%
+\contentsline {section}{\numberline {30.2}Genetic Control of Development}{539}{section.30.2}%
+\contentsline {section}{\numberline {30.3}Human Embryonic Development}{540}{section.30.3}%
+\contentsline {subsection}{\numberline {30.3.1}Development of Organs And Organ Systems}{544}{subsection.30.3.1}%
+\contentsline {section}{\numberline {30.4}Aging}{546}{section.30.4}%

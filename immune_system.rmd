@@ -136,7 +136,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 immune <-  as_tibble(read.csv("data/immune_system.csv"))
 
-knitr::kable(immune, col.names = c("Innate immune system", "Adaptive immune system"), digits = 2, align = 'll', booktabs = TRUE) %>% kable_styling(latex_options = c("striped", "hold_position"))
+knitr::kable(immune, col.names = c("Innate immune system", "Adaptive immune system"), digits = 2, align = 'll', booktabs = TRUE, caption = "Comparison of major characteristics of the innate and adaptive immune systems.") %>% kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
 Both innate and adaptive immunity depend on the ability of the immune system to distinguish between self and non-self molecules. In immunology, self molecules are those components of an organism's body that can be distinguished from foreign substances by the immune system. Conversely, non-self molecules are those recognized as foreign molecules. One class of non-self molecules are called antigens (short for antibody generators) and are defined as substances that bind to specific immune receptors and elicit an immune response.
