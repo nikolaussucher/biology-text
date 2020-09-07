@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  6 SEP 2020 18:05
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  7 SEP 2020 10:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1027,7 +1027,7 @@ LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
 
 (./main.toc
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
-(Font)              scaled to size 8.06915pt on input line 2.
+(Font)              scaled to size 8.06915pt on input line 3.
  [2] [3] [4] [5])
 \tf@toc=\write4
 \openout4 = `main.toc'.
@@ -1115,18 +1115,17 @@ Underfull \vbox (badness 1817) has occurred while \output is active []
  [33]
 \openout2 = `acknowledgements.aux'.
 
- (./acknowledgements.tex [34
-
-
-]) [35] [36
-
-
+ (./acknowledgements.tex
+LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
+(Font)              scaled to size 11.7479pt on input line 2.
+LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
+(Font)              scaled to size 11.61957pt on input line 2.
+) [34
 
 ]
 \openout2 = `biology.aux'.
 
-
-(./biology.tex
+ (./biology.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
 (Font)              scaled to size 16.73541pt on input line 2.
@@ -1146,6 +1145,9 @@ Underfull \hbox (badness 1383) in paragraph at lines 21--22
 [1
 
 
+
+
+
 ]
 Underfull \hbox (badness 1019) in paragraph at lines 29--30
 []\TU/LucidaGrande(0)/m/n/10 Scholars of the medieval Islamic world who wrote
@@ -1162,10 +1164,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--35
 ] [][][][][][][][][][][][][][] [] [][][][][][][] [][] [][][][][][] [] [][] []
  []
 
-LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
-(Font)              scaled to size 11.7479pt on input line 42.
-LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
-(Font)              scaled to size 11.61957pt on input line 42.
 
 Underfull \vbox (badness 5592) has occurred while \output is active []
 
@@ -4640,12 +4638,12 @@ Underfull \vbox (badness 7613) has occurred while \output is active []
  (./molecular_biology.tex
 Chapter 11.
 
-Underfull \hbox (badness 1509) in paragraph at lines 12--13
+Underfull \hbox (badness 1509) in paragraph at lines 10--11
 []\TU/LucidaGrande(0)/m/n/10 Although genes were known to exist on chromo-
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 12--13
+Underfull \hbox (badness 1648) in paragraph at lines 10--11
 \TU/LucidaGrande(0)/m/n/10 discovered the phenomenon of transformation: dead
  []
 
@@ -4659,14 +4657,15 @@ File: ./figures/molecular_biology/DNA_cartoon.png Graphic file (type bmp)
 File: ./figures/dna/dna_licorice.png Graphic file (type bmp)
 <./figures/dna/dna_licorice.png>
 
-Underfull \hbox (badness 1484) in paragraph at lines 47--48
+Underfull \hbox (badness 1484) in paragraph at lines 45--46
 []\TU/LucidaGrande(0)/m/n/10 The two DNA strands are also known as polynu-
  []
 
+[152]
 File: ./figures/dna/bases_hydrogen.png Graphic file (type bmp)
 <./figures/dna/bases_hydrogen.png>
-[152]
-Underfull \hbox (badness 1424) in paragraph at lines 64--65
+
+Underfull \hbox (badness 1424) in paragraph at lines 62--63
 \TU/LucidaGrande(0)/m/n/10 Its molecular structure was first identified by Fran
 cis
  []
@@ -4679,59 +4678,59 @@ File: ./figures/dna/Base_pair_GC.jpg Graphic file (type bmp)
 File: ./figures/dna/Base_pair_AT.jpg Graphic file (type bmp)
 <./figures/dna/Base_pair_AT.jpg>
  [154]
-Underfull \hbox (badness 1028) in paragraph at lines 110--111
+Underfull \hbox (badness 1028) in paragraph at lines 108--109
 \TU/LucidaGrande(0)/m/n/10 core around which DNA is wrapped in the chromatin
  []
 
 
-Underfull \hbox (badness 3536) in paragraph at lines 112--113
+Underfull \hbox (badness 3536) in paragraph at lines 110--111
 []\TU/LucidaGrande(0)/m/n/10 For one example, cytosine methylation produces
  []
 
-[155]
-Underfull \hbox (badness 1024) in paragraph at lines 117--118
+
+Underfull \hbox (badness 1024) in paragraph at lines 115--116
 \TU/LucidaGrande(0)/m/n/10 cell contains about 150,000 bases that have suffered
 
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 117--118
+Underfull \hbox (badness 1609) in paragraph at lines 115--116
 \TU/LucidaGrande(0)/m/n/10 deletions from the DNA sequence, and chromosomal
  []
 
 
-Underfull \hbox (badness 2326) in paragraph at lines 117--118
+Underfull \hbox (badness 2326) in paragraph at lines 115--116
 \TU/LucidaGrande(0)/m/n/10 processes that produce reactive oxygen species, the
  []
 
-
-Underfull \hbox (badness 3792) in paragraph at lines 119--120
+[155]
+Underfull \hbox (badness 3792) in paragraph at lines 117--118
 []\TU/LucidaGrande(0)/m/n/10 Many mutagens fit into the space between two
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 119--120
+Underfull \hbox (badness 1024) in paragraph at lines 117--118
 \TU/LucidaGrande(0)/m/n/10 doxorubicin. For an intercalator to fit between base
 
  []
 
 
-Underfull \hbox (badness 2837) in paragraph at lines 119--120
+Underfull \hbox (badness 2837) in paragraph at lines 117--118
 \TU/LucidaGrande(0)/m/n/10 pairs, the bases must separate, distorting the DNA
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 128--129
+Underfull \hbox (badness 1466) in paragraph at lines 126--127
 \TU/LucidaGrande(0)/m/n/10 protein-coding exons, with over 50% of human DNA
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 128--129
+Underfull \hbox (badness 2119) in paragraph at lines 126--127
 \TU/LucidaGrande(0)/m/n/10 consisting of non-coding repetitive sequences. The
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 128--129
+Underfull \hbox (badness 1365) in paragraph at lines 126--127
 \TU/LucidaGrande(0)/m/n/10 eukaryotic genomes and the extraordinary differences
 
  []
@@ -4740,103 +4739,106 @@ Underfull \hbox (badness 1365) in paragraph at lines 128--129
 File: ./figures/replication/DNA_replication_split.jpg Graphic file (type bmp)
 <./figures/replication/DNA_replication_split.jpg>
 
-Underfull \hbox (badness 3690) in paragraph at lines 161--162
+Underfull \hbox (badness 3690) in paragraph at lines 159--160
 []\TU/LucidaGrande(0)/m/n/10 DNA replication (DNA amplification) can also be
  []
 
-[157]
-Underfull \hbox (badness 1173) in paragraph at lines 165--166
+
+Underfull \hbox (badness 1173) in paragraph at lines 163--164
 []\TU/LucidaGrande(0)/m/n/10 In terms of structure, the replisome is composed
  []
 
+[157]
 File: ./figures/replication/Eukaryotic_DNA_replication.jpg Graphic file (type b
 mp)
 <./figures/replication/Eukaryotic_DNA_replication.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--181
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 193--194
+Underfull \hbox (badness 1024) in paragraph at lines 191--192
 \TU/LucidaGrande(0)/m/n/10 DNA duplex, exposing two single-stranded DNA tem-
  []
 
-[158]
 File: ./figures/replication/DNA_polymerase.jpg Graphic file (type bmp)
 <./figures/replication/DNA_polymerase.jpg>
 
-Underfull \hbox (badness 2856) in paragraph at lines 208--209
+Underfull \hbox (badness 2856) in paragraph at lines 206--207
 \TU/LucidaGrande(0)/m/n/10 constantly loaded, for generating Okazaki fragments
  []
 
-[159]
-Underfull \hbox (badness 1264) in paragraph at lines 232--233
+[158] [159]
+Underfull \hbox (badness 1264) in paragraph at lines 230--231
 \TU/LucidaGrande(0)/m/n/10 ponents of the DNA synthetic machinery. G1/S-Cdk
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 239--240
+Underfull \hbox (badness 1210) in paragraph at lines 237--238
 \TU/LucidaGrande(0)/m/n/10 In early S phase, S-Cdk and Cdc7 activation lead to
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 239--240
+Underfull \hbox (badness 1132) in paragraph at lines 237--238
 \TU/LucidaGrande(0)/m/n/10 the assembly of the preinitiation complex, a massive
 
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 241--242
+Underfull \hbox (badness 1028) in paragraph at lines 239--240
 []\TU/LucidaGrande(0)/m/n/10 After α-primase synthesizes the first primers, the
 
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 248--250
+Underfull \vbox (badness 3323) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 246--248
 \TU/LucidaGrande(0)/m/n/10 strand is extended discontinuously from each primer
  []
 
 [160]
-Underfull \hbox (badness 4303) in paragraph at lines 282--283
+Underfull \hbox (badness 4303) in paragraph at lines 280--281
 \TU/LucidaGrande(0)/m/n/10 or detects double-stranded DNA, the sliding clamp
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 282--283
+Underfull \hbox (badness 1460) in paragraph at lines 280--281
 \TU/LucidaGrande(0)/m/n/10 undergoes a conformational change that releases the
  []
 
 [161] [162]
-Underfull \hbox (badness 1817) in paragraph at lines 318--319
+Underfull \hbox (badness 1817) in paragraph at lines 316--317
 \TU/LucidaGrande(0)/m/n/10 species, this is named the DNA replication terminus
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 325--326
+Underfull \hbox (badness 6477) in paragraph at lines 323--324
 \TU/LucidaGrande(0)/m/n/10 through checkpoints is controlled through complex
  []
 
 
-Underfull \hbox (badness 2809) in paragraph at lines 331--332
+Underfull \hbox (badness 2809) in paragraph at lines 329--330
 \TU/LucidaGrande(0)/m/n/10 destruction or inhibition of individual pre-replicat
 ion
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 331--332
+Underfull \hbox (badness 1442) in paragraph at lines 329--330
 \TU/LucidaGrande(0)/m/n/10 assembly cannot occur again until all Cdk activity i
 s
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--344
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
 \TU/LucidaGrande(0)/m/n/10 examples of non-specific DNA-protein interactions.
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 343--344
+Underfull \hbox (badness 1107) in paragraph at lines 341--342
 \TU/LucidaGrande(0)/m/n/10 Within chromosomes, DNA is held in complexes with
  []
 
@@ -4844,167 +4846,167 @@ Underfull \hbox (badness 1107) in paragraph at lines 343--344
 
 
 ]
-Underfull \hbox (badness 2285) in paragraph at lines 345--346
+Underfull \hbox (badness 2285) in paragraph at lines 343--344
 []\TU/LucidaGrande(0)/m/n/10 A distinct group of DNA-binding proteins is the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--346
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
 \TU/LucidaGrande(0)/m/n/10 DNA-binding proteins that specifically bind single-
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 347--348
+Underfull \hbox (badness 1019) in paragraph at lines 345--346
 \TU/LucidaGrande(0)/m/n/10 changes the accessibility of the DNA template to the
 
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 349--350
+Underfull \hbox (badness 1237) in paragraph at lines 347--348
 \TU/LucidaGrande(0)/m/n/10 of transcription factor can affect thousands of gene
 s.
  []
 
 
-Underfull \hbox (badness 6825) in paragraph at lines 349--350
+Underfull \hbox (badness 6825) in paragraph at lines 347--348
 \TU/LucidaGrande(0)/m/n/10 to environmental changes or cellular differentiation
 
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 373--374
+Underfull \hbox (badness 1005) in paragraph at lines 371--372
 \TU/LucidaGrande(0)/m/n/10 polymerase recognizes the occasional mistakes in the
 
  []
 
 [164]
-Underfull \hbox (badness 3049) in paragraph at lines 375--376
+Underfull \hbox (badness 3049) in paragraph at lines 373--374
 \TU/LucidaGrande(0)/m/n/10 strand into DNA. They include reverse transcriptase,
 
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 375--376
+Underfull \hbox (badness 1436) in paragraph at lines 373--374
 \TU/LucidaGrande(0)/m/n/10 transcriptase is an enzyme for AIDS virus replicatio
 n.
  []
 
 
-Underfull \hbox (badness 5022) in paragraph at lines 384--385
+Underfull \hbox (badness 5022) in paragraph at lines 382--383
 []\TU/LucidaGrande(0)/m/n/10 Recombination allows chromosomes to exchange
  []
 
 
-Underfull \hbox (badness 3428) in paragraph at lines 393--394
+Underfull \hbox (badness 3428) in paragraph at lines 391--392
 \TU/LucidaGrande(0)/m/n/10 chemicals, such as pyrimidine, found in meteorites.
  []
 
 [165]
-Underfull \hbox (badness 2837) in paragraph at lines 422--424
+Underfull \hbox (badness 2837) in paragraph at lines 420--422
 []\TU/LucidaGrande(0)/m/n/10 Unlike double-stranded DNA, RNA is a single-
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 422--424
+Underfull \hbox (badness 2990) in paragraph at lines 420--422
 \TU/LucidaGrande(0)/m/n/10 mentary base pairing, form intrastrand double
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 426--427
+Underfull \hbox (badness 1342) in paragraph at lines 424--425
 []\TU/LucidaGrande(0)/m/n/10 The complementary base to adenine in DNA is
  []
 
 [166]
-Underfull \hbox (badness 2126) in paragraph at lines 440--441
+Underfull \hbox (badness 2126) in paragraph at lines 438--439
 \TU/LucidaGrande(0)/m/n/10 the post-transcriptional modifications occur in high
 ly
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 442--443
+Underfull \hbox (badness 3872) in paragraph at lines 440--441
 \TU/LucidaGrande(0)/m/n/10 “domains” of secondary structure like hairpin loops,
 
  []
 
 
-Underfull \hbox (badness 2057) in paragraph at lines 462--463
+Underfull \hbox (badness 2057) in paragraph at lines 460--461
 \TU/LucidaGrande(0)/m/n/10 RNAs mainly include 5.8S ribosomal RNA (rRNA), 5S
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 462--463
+Underfull \hbox (badness 2020) in paragraph at lines 460--461
 \TU/LucidaGrande(0)/m/n/10 rRNA, transfer RNA (tRNA), microRNA (miRNA), small
  []
 
 [167]
-Underfull \hbox (badness 1077) in paragraph at lines 464--465
+Underfull \hbox (badness 1077) in paragraph at lines 462--463
 \TU/LucidaGrande(0)/m/n/10 for the synthesis of protein by ribosomes, a process
 
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 464--465
+Underfull \hbox (badness 1622) in paragraph at lines 462--463
 \TU/LucidaGrande(0)/m/n/10 In prokaryotic cells, which do not have nucleus and
  []
 
 File: ./figures/translation/trna.png Graphic file (type bmp)
 <./figures/translation/trna.png>
 [168]
-Underfull \hbox (badness 2253) in paragraph at lines 511--512
+Underfull \hbox (badness 2253) in paragraph at lines 509--510
 []\TU/LucidaGrande(0)/m/n/10 During the early 1970s, retroviruses and reverse
  []
 
 [169]
-Underfull \hbox (badness 10000) in paragraph at lines 524--525
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
 \TU/LucidaGrande(0)/m/n/10 life—eukaryotes (including multicellular organisms),
 
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 524--525
+Underfull \hbox (badness 4634) in paragraph at lines 522--523
 \TU/LucidaGrande(0)/m/n/10 prokaryotes (bacteria and archaea), and utilized by
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 543--545
+Underfull \hbox (badness 2020) in paragraph at lines 541--543
 []\TU/LucidaGrande(0)/m/n/10 RNA polymerase creates a transcription bubble,
  []
 
 
-Underfull \hbox (badness 2165) in paragraph at lines 543--545
+Underfull \hbox (badness 2165) in paragraph at lines 541--543
 \TU/LucidaGrande(0)/m/n/10 This is done by breaking the hydrogen bonds
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 545--547
+Underfull \hbox (badness 2245) in paragraph at lines 543--545
 \TU/LucidaGrande(0)/m/n/10 complementary to the nucleotides of one DNA
  []
 
 [170]
-Underfull \hbox (badness 2134) in paragraph at lines 575--576
+Underfull \hbox (badness 2134) in paragraph at lines 573--574
 \TU/LucidaGrande(0)/m/n/10 transcription factors, then unwinds approximately 14
 
  []
 
 
-Underfull \hbox (badness 3078) in paragraph at lines 581--582
+Underfull \hbox (badness 3078) in paragraph at lines 579--580
 \TU/LucidaGrande(0)/m/n/10 general transcription factor sigma are performed by
  []
 
 
-Underfull \hbox (badness 4060) in paragraph at lines 581--582
+Underfull \hbox (badness 4060) in paragraph at lines 579--580
 \TU/LucidaGrande(0)/m/n/10 complex is usually referred to as the “preinitiation
 
  []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 594--595
+Underfull \hbox (badness 1552) in paragraph at lines 592--593
 \TU/LucidaGrande(0)/m/n/10 transcription proceeds, RNA polymerase traverses the
 
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 594--595
+Underfull \hbox (badness 1189) in paragraph at lines 592--593
 \TU/LucidaGrande(0)/m/n/10 be used as reference points, so transcription can be
 
  []
@@ -5014,111 +5016,111 @@ File: ./figures/transcription/Simple_transcription_elongation1.png Graphic file
  (type bmp)
 <./figures/transcription/Simple_transcription_elongation1.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 604--604
+Underfull \hbox (badness 10000) in paragraph at lines 602--602
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 609--610
+Underfull \hbox (badness 1052) in paragraph at lines 607--608
 \TU/LucidaGrande(0)/m/n/10 to bind. These pauses may be intrinsic to the RNA
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 614--615
+Underfull \hbox (badness 1867) in paragraph at lines 612--613
 \TU/LucidaGrande(0)/m/n/10 Bacteria use two different strategies for transcript
 ion
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 614--615
+Underfull \hbox (badness 2573) in paragraph at lines 612--613
 \TU/LucidaGrande(0)/m/n/10 termination – Rho-independent termination and Rho-
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 614--615
+Underfull \hbox (badness 1755) in paragraph at lines 612--613
 \TU/LucidaGrande(0)/m/n/10 termination, RNA transcription stops when the newly
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 614--615
+Underfull \hbox (badness 2790) in paragraph at lines 612--613
 \TU/LucidaGrande(0)/m/n/10 synthesized RNA molecule forms a G-C-rich hairpin
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 614--615
+Underfull \hbox (badness 1418) in paragraph at lines 612--613
 \TU/LucidaGrande(0)/m/n/10 the mechanical stress breaks the weak rU-dA bonds,
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 628--629
+Underfull \hbox (badness 1102) in paragraph at lines 626--627
 \TU/LucidaGrande(0)/m/n/10 transcription units. These units might be associated
 
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 637--638
+Underfull \hbox (badness 2735) in paragraph at lines 635--636
 \TU/LucidaGrande(0)/m/n/10 post-transcriptional modifications achieved through 
 a
  []
 
 [172]
-Underfull \hbox (badness 1092) in paragraph at lines 651--652
+Underfull \hbox (badness 1092) in paragraph at lines 649--650
 \TU/LucidaGrande(0)/m/n/10 the terminal 5’ phosphate requires removal, which is
 
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 656--657
+Underfull \hbox (badness 1259) in paragraph at lines 654--655
 \TU/LucidaGrande(0)/m/n/10 The pre-mRNA processing at the 3’ end of the RNA
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 656--657
+Underfull \hbox (badness 1281) in paragraph at lines 654--655
 \TU/LucidaGrande(0)/m/n/10 I (CF I) and cleavage stimulation factor (CStF) occu
 rs
  []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 661--662
+Underfull \hbox (badness 1552) in paragraph at lines 659--660
 \TU/LucidaGrande(0)/m/n/10 splicing, and allows production of a large variety o
 f
  []
 
 [173]
-Underfull \hbox (badness 2111) in paragraph at lines 677--678
+Underfull \hbox (badness 2111) in paragraph at lines 675--676
 \TU/LucidaGrande(0)/m/n/10 in the nucleus, many RNAs are transported through
  []
 
 
-Underfull \hbox (badness 2772) in paragraph at lines 677--678
+Underfull \hbox (badness 2772) in paragraph at lines 675--676
 \TU/LucidaGrande(0)/m/n/10 requires association with specific proteins known as
 
  []
 
 
-Underfull \hbox (badness 5832) in paragraph at lines 687--688
+Underfull \hbox (badness 5832) in paragraph at lines 685--686
 \TU/LucidaGrande(0)/m/n/10 Ribosomes[][][] are complex macromolecular machines,
 
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 687--688
+Underfull \hbox (badness 1515) in paragraph at lines 685--686
 \TU/LucidaGrande(0)/m/n/10 the small ribosomal subunits, which read the mRNA,
  []
 
 
-Underfull \hbox (badness 1968) in paragraph at lines 687--688
+Underfull \hbox (badness 1968) in paragraph at lines 685--686
 \TU/LucidaGrande(0)/m/n/10 more ribosomal RNA (rRNA) molecules and a variety
  []
 
 [174]
-Underfull \hbox (badness 2237) in paragraph at lines 708--709
+Underfull \hbox (badness 2237) in paragraph at lines 706--707
 \TU/LucidaGrande(0)/m/n/10 using an electron microscope, as dense particles or
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 710--711
+Underfull \hbox (badness 1917) in paragraph at lines 708--709
 \TU/LucidaGrande(0)/m/n/10 The Nobel Prize in Chemistry 2009 was awarded to
  []
 
@@ -5128,48 +5130,48 @@ File: ./figures/translation/ttribosome.png Graphic file (type bmp)
 File: ./figures/translation/human_ribosome.png Graphic file (type bmp)
 <./figures/translation/human_ribosome.png>
 
-Underfull \hbox (badness 1033) in paragraph at lines 752--753
+Underfull \hbox (badness 1033) in paragraph at lines 750--751
 \TU/LucidaGrande(0)/m/n/10 bonding between specific tRNAs and the amino acids
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 752--753
+Underfull \hbox (badness 1275) in paragraph at lines 750--751
 \TU/LucidaGrande(0)/m/n/10 aminoacyl-tRNA is carried to the ribosome by EF-Tu,
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 758--759
+Underfull \hbox (badness 1237) in paragraph at lines 756--757
 \TU/LucidaGrande(0)/m/n/10 has been estimated to be between 1/10$[]$ and 1/10$[
 ]$
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 758--759
+Underfull \hbox (badness 1253) in paragraph at lines 756--757
 \TU/LucidaGrande(0)/m/n/10 the mRNA called the Shine-Dalgarno sequence. The
  []
 
 
-Underfull \hbox (badness 4048) in paragraph at lines 758--759
+Underfull \hbox (badness 4048) in paragraph at lines 756--757
 \TU/LucidaGrande(0)/m/n/10 Shine-Dalgarno sequence binds to a complementary
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 758--759
+Underfull \hbox (badness 1019) in paragraph at lines 756--757
 \TU/LucidaGrande(0)/m/n/10 phase is completed once a 50S subunit joins the 30
  []
 
 [176]
-Underfull \hbox (badness 2189) in paragraph at lines 760--761
+Underfull \hbox (badness 2189) in paragraph at lines 758--759
 []\TU/LucidaGrande(0)/m/n/10 The process of translation is highly regulated in
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 760--761
+Underfull \hbox (badness 1303) in paragraph at lines 758--759
 \TU/LucidaGrande(0)/m/n/10 prokaryotic and eukaryotic organisms. Regulation of
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 765--766
+Underfull \hbox (badness 1789) in paragraph at lines 763--764
 \TU/LucidaGrande(0)/m/n/10 binding of complementary tRNA anticodon sequences
  []
 
@@ -5177,25 +5179,25 @@ File: ./figures/translation/Ribosome_mRNA_translation_en.jpg Graphic file (type
  bmp)
 <./figures/translation/Ribosome_mRNA_translation_en.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 788--788
+Underfull \hbox (badness 10000) in paragraph at lines 786--786
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][][][][] [] [][][][] []
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 791--792
+Underfull \hbox (badness 1117) in paragraph at lines 789--790
 \TU/LucidaGrande(0)/m/n/10 in a process called co-translational translocation. 
 In
  []
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 795--796
+Underfull \hbox (badness 1097) in paragraph at lines 793--794
 \TU/LucidaGrande(0)/m/n/10 These include clindamycin, anisomycin, cycloheximide
 ,
  []
 
 
-Underfull \hbox (badness 4144) in paragraph at lines 795--796
+Underfull \hbox (badness 4144) in paragraph at lines 793--794
 \TU/LucidaGrande(0)/m/n/10 antibiotics can specifically target bacterial infect
 ions
  []
@@ -5204,64 +5206,64 @@ ions
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 818--819
+Underfull \hbox (badness 1365) in paragraph at lines 816--817
 \TU/LucidaGrande(0)/m/n/10 termination, but unlike prokaryotic termination, the
 re
  []
 
 [178]
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
-(Font)              scaled to size 7.34244pt on input line 827.
+(Font)              scaled to size 7.34244pt on input line 825.
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
-(Font)              scaled to size 7.26224pt on input line 832.
+(Font)              scaled to size 7.26224pt on input line 830.
  [179
 
 ]
-Underfull \hbox (badness 5878) in paragraph at lines 902--903
+Underfull \hbox (badness 5878) in paragraph at lines 900--901
 \TU/LucidaGrande(0)/m/n/10 suppliers; deoxynucleoside triphosphates, or dNTPs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 902--903
+Underfull \hbox (badness 10000) in paragraph at lines 900--901
 \TU/LucidaGrande(0)/m/n/10 (sometimes called “deoxynucleotide triphosphates”;
  []
 
 [180
 
 ]
-Underfull \hbox (badness 1033) in paragraph at lines 908--909
+Underfull \hbox (badness 1033) in paragraph at lines 906--907
 \TU/LucidaGrande(0)/m/n/10 for sequencing, gene cloning and manipulation, gene
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 923--924
+Underfull \hbox (badness 1648) in paragraph at lines 921--922
 []\TU/LucidaGrande(0)/m/n/10 The first method for determining DNA sequences
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 923--924
+Underfull \hbox (badness 1688) in paragraph at lines 921--922
 \TU/LucidaGrande(0)/m/n/10 involved a location-specific primer extension strate
 gy
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 923--924
+Underfull \hbox (badness 2726) in paragraph at lines 921--922
 \TU/LucidaGrande(0)/m/n/10 polymerase catalysis and specific nucleotide labelin
 g,
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 923--924
+Underfull \hbox (badness 1072) in paragraph at lines 921--922
 \TU/LucidaGrande(0)/m/n/10 lambda phage DNA. Between 1970 and 1973, Wu, R
  []
 
 
-Underfull \hbox (badness 2707) in paragraph at lines 923--924
+Underfull \hbox (badness 2707) in paragraph at lines 921--922
 \TU/LucidaGrande(0)/m/n/10 Padmanabhan and colleagues demonstrated that this
  []
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 923--924
+Underfull \hbox (badness 3668) in paragraph at lines 921--922
 \TU/LucidaGrande(0)/m/n/10 using synthetic location-specific primers. Frederick
 
  []
@@ -5270,136 +5272,136 @@ Underfull \hbox (badness 3668) in paragraph at lines 923--924
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [181]
-Underfull \hbox (badness 1117) in paragraph at lines 937--938
+Underfull \hbox (badness 1117) in paragraph at lines 935--936
 \TU/LucidaGrande(0)/m/n/10 strands. Recombinant DNA is possible because DNA
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 937--938
+Underfull \hbox (badness 1348) in paragraph at lines 935--936
 \TU/LucidaGrande(0)/m/n/10 structure, and differ only in the nucleotide sequenc
 e
  []
 
 [182]
-Underfull \hbox (badness 1014) in paragraph at lines 957--958
+Underfull \hbox (badness 1014) in paragraph at lines 955--956
 \TU/LucidaGrande(0)/m/n/10 out” genes to determine their biological function an
 d
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 957--958
+Underfull \hbox (badness 1057) in paragraph at lines 955--956
 \TU/LucidaGrande(0)/m/n/10 into chromosomal DNA can affect gene expression is
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 957--958
+Underfull \hbox (badness 1708) in paragraph at lines 955--956
 \TU/LucidaGrande(0)/m/n/10 by inappropriate activation of previously unexpresse
 d
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 957--958
+Underfull \hbox (badness 1005) in paragraph at lines 955--956
 \TU/LucidaGrande(0)/m/n/10 becomes located next to a previously silent host cel
 l
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 957--958
+Underfull \hbox (badness 1448) in paragraph at lines 955--956
 \TU/LucidaGrande(0)/m/n/10 gene expression undergoes insertional inactivation b
 y
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 959--960
+Underfull \hbox (badness 1158) in paragraph at lines 957--958
 \TU/LucidaGrande(0)/m/n/10 or veterinarian office, medical testing laboratory, 
 and
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 961--962
+Underfull \hbox (badness 1215) in paragraph at lines 959--960
 \TU/LucidaGrande(0)/m/n/10 within individual cells, and throughout the tissues 
 of
  []
 
 
-Underfull \hbox (badness 5161) in paragraph at lines 963--964
+Underfull \hbox (badness 5161) in paragraph at lines 961--962
 \TU/LucidaGrande(0)/m/n/10 veterinary medicine, agriculture, and bioengineering
 .
  []
 
 
-Underfull \hbox (badness 1558) in paragraph at lines 968--970
+Underfull \hbox (badness 1558) in paragraph at lines 966--968
 []\TU/LucidaGrande(0)/m/n/10 Recombinant human insulin: almost completely
  []
 
 
-Underfull \hbox (badness 3525) in paragraph at lines 968--970
+Underfull \hbox (badness 3525) in paragraph at lines 966--968
 \TU/LucidaGrande(0)/m/n/10 replaced insulin obtained from animal sources
  []
 
 
-Underfull \hbox (badness 8132) in paragraph at lines 968--970
+Underfull \hbox (badness 8132) in paragraph at lines 966--968
 \TU/LucidaGrande(0)/m/n/10 dependent diabetes. A variety of different
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 968--970
+Underfull \hbox (badness 1817) in paragraph at lines 966--968
 \TU/LucidaGrande(0)/m/n/10 (Saccharomyces cerevisiae) which then produces
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 968--970
+Underfull \hbox (badness 10000) in paragraph at lines 966--968
 \TU/LucidaGrande(0)/m/n/10 patients developing Creutzfeldt–Jakob disease.
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 970--972
+Underfull \hbox (badness 1117) in paragraph at lines 968--970
 []\TU/LucidaGrande(0)/m/n/10 Recombinant blood clotting factor VIII: a blood-
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 970--972
+Underfull \hbox (badness 1817) in paragraph at lines 968--970
 \TU/LucidaGrande(0)/m/n/10 was obtained by processing large quantities of
  []
 
 [183]
-Underfull \hbox (badness 1448) in paragraph at lines 976--978
+Underfull \hbox (badness 1448) in paragraph at lines 974--976
 \TU/LucidaGrande(0)/m/n/10 rice holds substantial promise for reducing the
  []
 
 
-Underfull \hbox (badness 3281) in paragraph at lines 978--980
+Underfull \hbox (badness 3281) in paragraph at lines 976--978
 []\TU/LucidaGrande(0)/m/n/10 Herbicide-resistant crops: commercial varieties
  []
 
 
-Underfull \hbox (badness 4981) in paragraph at lines 978--980
+Underfull \hbox (badness 4981) in paragraph at lines 976--978
 \TU/LucidaGrande(0)/m/n/10 of important agricultural crops (including soy,
  []
 
 
-Underfull \hbox (badness 1184) in paragraph at lines 978--980
+Underfull \hbox (badness 1184) in paragraph at lines 976--978
 \TU/LucidaGrande(0)/m/n/10 weed control by glyphosate application. These
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 980--981
+Underfull \hbox (badness 1052) in paragraph at lines 978--979
 []\TU/LucidaGrande(0)/m/n/10 Insect-resistant crops: bacillus thuringeiensis is
 
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 980--981
+Underfull \hbox (badness 1152) in paragraph at lines 978--979
 \TU/LucidaGrande(0)/m/n/10 has been applied to crops as an insect-control
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 980--981
+Underfull \hbox (badness 1742) in paragraph at lines 978--979
 \TU/LucidaGrande(0)/m/n/10 strategy for many years, and this practice has
  []
 
 
-Underfull \hbox (badness 5189) in paragraph at lines 980--981
+Underfull \hbox (badness 5189) in paragraph at lines 978--979
 \TU/LucidaGrande(0)/m/n/10 may effectively control some insect predators.
  []
 
@@ -5407,102 +5409,102 @@ Underfull \hbox (badness 5189) in paragraph at lines 980--981
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 987--987
+Underfull \hbox (badness 10000) in paragraph at lines 985--985
 [][][][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [
 ] [][][][][][][][] [] [][][][][][][][][][] [] [][] []
  []
 
 [184]
-Underfull \hbox (badness 1888) in paragraph at lines 1001--1002
+Underfull \hbox (badness 1888) in paragraph at lines 999--1000
 []\TU/LucidaGrande(0)/m/n/10 Knockouts are accomplished through a variety of
  []
 
 File: ./figures/molecular_biology/Crispr.png Graphic file (type bmp)
 <./figures/molecular_biology/Crispr.png>
 [185]
-Underfull \hbox (badness 2772) in paragraph at lines 1032--1033
+Underfull \hbox (badness 2772) in paragraph at lines 1030--1031
 \TU/LucidaGrande(0)/m/n/10 As of March 2015, multiple groups had announced
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 1032--1033
+Underfull \hbox (badness 1590) in paragraph at lines 1030--1031
 \TU/LucidaGrande(0)/m/n/10 Scientists, including a CRISPR co-discoverer, urged 
 a
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 1032--1033
+Underfull \hbox (badness 2269) in paragraph at lines 1030--1031
 \TU/LucidaGrande(0)/m/n/10 germline genome modification for clinical applicatio
 n
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 1032--1033
+Underfull \hbox (badness 1789) in paragraph at lines 1030--1031
 \TU/LucidaGrande(0)/m/n/10 in humans” until the full implications “are discusse
 d
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 1034--1035
+Underfull \hbox (badness 1688) in paragraph at lines 1032--1033
 []\TU/LucidaGrande(0)/m/n/10 In April 2015, Chinese scientists reported results
 
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 1034--1035
+Underfull \hbox (badness 1590) in paragraph at lines 1032--1033
 \TU/LucidaGrande(0)/m/n/10 application in reproductive medicine. In April 2016,
 
  []
 
 
-Underfull \hbox (badness 1558) in paragraph at lines 1034--1035
+Underfull \hbox (badness 1558) in paragraph at lines 1032--1033
 \TU/LucidaGrande(0)/m/n/10 unsuccessful attempt to alter the DNA of non-viable
  []
 
 
-Underfull \hbox (badness 4518) in paragraph at lines 1036--1037
+Underfull \hbox (badness 4518) in paragraph at lines 1034--1035
 []\TU/LucidaGrande(0)/m/n/10 In December 2015, an International Summit on
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 1036--1037
+Underfull \hbox (badness 1205) in paragraph at lines 1034--1035
 \TU/LucidaGrande(0)/m/n/10 Human Gene Editing took place in Washington under
  []
 
 
-Underfull \hbox (badness 2547) in paragraph at lines 1036--1037
+Underfull \hbox (badness 2547) in paragraph at lines 1034--1035
 \TU/LucidaGrande(0)/m/n/10 to support basic and clinical research under certain
 
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 1036--1037
+Underfull \hbox (badness 3098) in paragraph at lines 1034--1035
 \TU/LucidaGrande(0)/m/n/10 and far-reaching consequences for human evolution,
  []
 
 
-Underfull \hbox (badness 8113) in paragraph at lines 1036--1037
+Underfull \hbox (badness 8113) in paragraph at lines 1034--1035
 \TU/LucidaGrande(0)/m/n/10 genetically (e.g. gene/environment interactions) and
 
  []
 
 
-Underfull \hbox (badness 4872) in paragraph at lines 1040--1041
+Underfull \hbox (badness 4872) in paragraph at lines 1038--1039
 \TU/LucidaGrande(0)/m/n/10 human embryos by using CRISPR-Cas9 and related
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 1042--1043
+Underfull \hbox (badness 2443) in paragraph at lines 1040--1041
 \TU/LucidaGrande(0)/m/n/10 button mushroom was the first organism genetically
  []
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 1042--1043
+Underfull \hbox (badness 1097) in paragraph at lines 1040--1041
 \TU/LucidaGrande(0)/m/n/10 interests groups met on April 15 to contemplate the
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 1042--1043
+Underfull \hbox (badness 2495) in paragraph at lines 1040--1041
 \TU/LucidaGrande(0)/m/n/10 that would classify genetic engineering modification
 s
  []
@@ -13265,7 +13267,6 @@ Underfull \hbox (badness 1540) in paragraph at lines 149--150
 \TU/LucidaGrande(0)/m/n/10 and protects organs such as the brain, lungs, heart
  []
 
-[505]
 File: ./figures/locomotion/Human_skeleton_front_en.png Graphic file (type bmp)
 <./figures/locomotion/Human_skeleton_front_en.png>
 
@@ -13297,7 +13298,7 @@ Underfull \hbox (badness 1484) in paragraph at lines 179--180
 \TU/LucidaGrande(0)/m/n/10 male and female skeletons. The male skeleton, for
  []
 
-[506]
+[505] [506]
 File: ./figures/locomotion/Axial_skeleton_diagram.png Graphic file (type bmp)
 <./figures/locomotion/Axial_skeleton_diagram.png>
 
@@ -13305,6 +13306,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--194
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][] [] [][][][][][][][] [] [][][][][][][] []
  []
+
+
+Underfull \vbox (badness 5175) has occurred while \output is active []
 
 File: ./figures/locomotion/Appendicular_skeleton_diagram.png Graphic file (type
  bmp)
@@ -13315,10 +13319,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 212--212
 [][][][] [] [][][][] [] [][][][][][][][][][][][] [] [][][][][][][][] []
  []
 
-
-Underfull \vbox (badness 3679) has occurred while \output is active []
-
- [507]
 File: ./figures/locomotion/603_Anatomy_of_Long_Bone.jpg Graphic file (type bmp)
 
 <./figures/locomotion/603_Anatomy_of_Long_Bone.jpg>
@@ -13336,6 +13336,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 239--239
 [][][][] [] [][][][] [] [][][][][] [] [][][][][][][][] [] [][][][] [] [][] []
  []
 
+[507]
 File: ./figures/locomotion/Illu_compact_spongy_bone.jpg Graphic file (type bmp)
 
 <./figures/locomotion/Illu_compact_spongy_bone.jpg>
@@ -13363,10 +13364,7 @@ Underfull \hbox (badness 1184) in paragraph at lines 304--305
 \TU/LucidaGrande(0)/m/n/10 known as lacunae. Osteocytes have many processes
  []
 
-
-Underfull \vbox (badness 4647) has occurred while \output is active []
-
- [509]
+[509]
 Underfull \hbox (badness 1371) in paragraph at lines 309--310
 \TU/LucidaGrande(0)/m/n/10 derived from a monocyte stem-cell lineage, they are
  []
@@ -14344,7 +14342,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 56.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 56.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 56.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0901838C2DAAD6443A286649F4C9DADF;16392.
+(rerunfilecheck)             Checksum: 56766878F4246EDE3F8394B753930BB9;16392.
 
 
 LaTeX Warning: There were undefined references.
@@ -14356,10 +14354,10 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  27341 strings out of 479418
  631984 string characters out of 5884586
- 1045441 words of memory out of 5000000
+ 1043442 words of memory out of 5000000
  43817 multiletter control sequences out of 15000+600000
  568351 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,19n,121p,5055b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (586 pages).
+Output written on main.pdf (584 pages).

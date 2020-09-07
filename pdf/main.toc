@@ -1,5 +1,5 @@
 \babel@toc {english}{}
-\contentsline {chapter}{Acknowledgements}{xxxv}{chapter*.1}%
+\contentsline {section}{Acknowledgements}{xxxiv}{section*.1}%
 \contentsline {chapter}{\numberline {1}Biology: The Science of Life}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Characteristics of Life}{3}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Origin of Life}{3}{section.1.2}%
@@ -193,10 +193,10 @@
 \contentsline {section}{\numberline {10.3}Non-Mendelian Inheritance}{150}{section.10.3}%
 \contentsline {chapter}{\numberline {11}Molecular Biology of The Gene}{151}{chapter.11}%
 \contentsline {section}{\numberline {11.1}Structure And Function of Deoxyribonucleic Acid}{152}{section.11.1}%
-\contentsline {subsection}{\numberline {11.1.1}DNA Damage}{156}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.1}DNA Damage}{155}{subsection.11.1.1}%
 \contentsline {subsection}{\numberline {11.1.2}Genes And Genomes}{156}{subsection.11.1.2}%
 \contentsline {subsection}{\numberline {11.1.3}Transcription And Translation}{156}{subsection.11.1.3}%
-\contentsline {subsection}{\numberline {11.1.4}DNA Replication}{157}{subsection.11.1.4}%
+\contentsline {subsection}{\numberline {11.1.4}DNA Replication}{156}{subsection.11.1.4}%
 \contentsline {subsection}{\numberline {11.1.5}Eukaryotic DNA Replication}{158}{subsection.11.1.5}%
 \contentsline {subsection}{\numberline {11.1.6}Initiation}{159}{subsection.11.1.6}%
 \contentsline {subsection}{\numberline {11.1.7}Pre-replication complex}{159}{subsection.11.1.7}%
@@ -625,7 +625,7 @@
 \contentsline {subsection}{\numberline {27.2.3}The Human Skeleton}{505}{subsection.27.2.3}%
 \contentsline {subsection}{\numberline {27.2.4}The Axial Skeleton}{507}{subsection.27.2.4}%
 \contentsline {subsection}{\numberline {27.2.5}The Appendicular Skeleton}{507}{subsection.27.2.5}%
-\contentsline {subsection}{\numberline {27.2.6}Bone}{508}{subsection.27.2.6}%
+\contentsline {subsection}{\numberline {27.2.6}Bone}{507}{subsection.27.2.6}%
 \contentsline {subsection}{\numberline {27.2.7}Cortical Bone}{508}{subsection.27.2.7}%
 \contentsline {subsection}{\numberline {27.2.8}Cancellous Bone}{509}{subsection.27.2.8}%
 \contentsline {subsection}{\numberline {27.2.9}The Bone Marrow}{509}{subsection.27.2.9}%
