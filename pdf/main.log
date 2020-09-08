@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  7 SEP 2020 18:08
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  8 SEP 2020 14:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4110,17 +4110,7 @@ Underfull \hbox (badness 1158) in paragraph at lines 281--281
 []\TU/LucidaGrande(0)/b/n/12 Number of Chromosomes in Various
  []
 
-[124]
-Overfull \hbox (32.74776pt too wide) in paragraph at lines 291--306
- [][] 
- []
-
-
-Overfull \hbox (32.74776pt too wide) in paragraph at lines 313--328
- [][] 
- []
-
-[125]
+[124] [125]
 
 LaTeX Warning: Reference `fig:cellcycle' on page 126 undefined on input line 34
 4.
@@ -4162,10 +4152,7 @@ Underfull \hbox (badness 5147) in paragraph at lines 449--450
 \TU/LucidaGrande(0)/m/n/10 matids together are cleaved, forming two identical
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [128]
+[128]
 File: ./figures/reproduction/Anaphase_IF.jpg Graphic file (type bmp)
 <./figures/reproduction/Anaphase_IF.jpg>
 
@@ -4181,10 +4168,7 @@ Underfull \hbox (badness 2547) in paragraph at lines 475--475
 : Reversal of prophase and
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [129]
+[129]
 Underfull \hbox (badness 1092) in paragraph at lines 492--494
 []\TU/LucidaGrande(0)/m/n/10 Development and growth: The number of cells
  []
@@ -4247,7 +4231,7 @@ Underfull \hbox (badness 1735) in paragraph at lines 527--528
 
  []
 
-
+[131]
 Underfull \hbox (badness 2005) in paragraph at lines 529--530
 []\TU/LucidaGrande(0)/m/n/10 The hyperphosphorylated Rb dissociates from the
  []
@@ -4262,10 +4246,6 @@ Underfull \hbox (badness 2173) in paragraph at lines 529--530
 \TU/LucidaGrande(0)/m/n/10 causes breakdown of nuclear envelope and initiation
  []
 
-
-Underfull \vbox (badness 6910) has occurred while \output is active []
-
- [131]
 [132]) [133
 
 ]
@@ -14344,7 +14324,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  27342 strings out of 479418
  631990 string characters out of 5884586
- 1045446 words of memory out of 5000000
+ 1044446 words of memory out of 5000000
  43818 multiletter control sequences out of 15000+600000
  568351 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

@@ -151,12 +151,12 @@
 \contentsline {section}{\numberline {8.5}Mitosis}{126}{section.8.5}%
 \contentsline {subsection}{\numberline {8.5.1}Interphase}{127}{subsection.8.5.1}%
 \contentsline {subsection}{\numberline {8.5.2}Preprophase (plant cells)}{127}{subsection.8.5.2}%
-\contentsline {subsection}{\numberline {8.5.3}Prophase}{127}{subsection.8.5.3}%
+\contentsline {subsection}{\numberline {8.5.3}Prophase}{128}{subsection.8.5.3}%
 \contentsline {subsection}{\numberline {8.5.4}Prometaphase}{128}{subsection.8.5.4}%
 \contentsline {subsection}{\numberline {8.5.5}Metaphase}{128}{subsection.8.5.5}%
-\contentsline {subsection}{\numberline {8.5.6}Anaphase}{129}{subsection.8.5.6}%
+\contentsline {subsection}{\numberline {8.5.6}Anaphase}{128}{subsection.8.5.6}%
 \contentsline {subsection}{\numberline {8.5.7}Telophase}{129}{subsection.8.5.7}%
-\contentsline {subsection}{\numberline {8.5.8}Cytokinesis}{130}{subsection.8.5.8}%
+\contentsline {subsection}{\numberline {8.5.8}Cytokinesis}{129}{subsection.8.5.8}%
 \contentsline {section}{\numberline {8.6}Regulation of The Eukaryotic Cell Cycle}{130}{section.8.6}%
 \contentsline {subsection}{\numberline {8.6.1}Role of cyclins and CDKs}{130}{subsection.8.6.1}%
 \contentsline {subsection}{\numberline {8.6.2}Cell Cycle Checkpoints}{132}{subsection.8.6.2}%
