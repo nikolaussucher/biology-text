@@ -410,36 +410,112 @@ Normal members of a particular eukaryotic species all have the same number of nu
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> Adder's tongue fern (polyploid) </td>
-   <td style="text-align:right;"> approx. 1,200 </td>
+   <td style="text-align:left;"> Indian muntjac </td>
+   <td style="text-align:right;"> 7 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Arabidopsis thaliana (diploid) </td>
-   <td style="text-align:right;"> 10 </td>
+   <td style="text-align:left;"> Common fruit fly </td>
+   <td style="text-align:right;"> 8 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Einkorn wheat (diploid) </td>
-   <td style="text-align:right;"> 14 </td>
+   <td style="text-align:left;"> Pill millipede (*Arthrosphaera fumosa*) </td>
+   <td style="text-align:right;"> 30 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Rye (diploid) </td>
-   <td style="text-align:right;"> 14 </td>
+   <td style="text-align:left;"> Earthworm (*Octodrilus complanatus*) </td>
+   <td style="text-align:right;"> 36 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Maize (diploid or palaeotetraploid) </td>
-   <td style="text-align:right;"> 20 </td>
+   <td style="text-align:left;"> Tibetan fox </td>
+   <td style="text-align:right;"> 36 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Durum wheat (tetraploid) </td>
-   <td style="text-align:right;"> 28 </td>
+   <td style="text-align:left;"> Domestic cat </td>
+   <td style="text-align:right;"> 38 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Bread wheat (hexaploid) </td>
+   <td style="text-align:left;"> Domestic pig </td>
+   <td style="text-align:right;"> 38 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Laboratory mouse </td>
+   <td style="text-align:right;"> 40 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Laboratory rat </td>
    <td style="text-align:right;"> 42 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Cultivated tobacco (tetraploid) </td>
+   <td style="text-align:left;"> Rabbit (*Oryctolagus cuniculus*) </td>
+   <td style="text-align:right;"> 44 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Syrian hamster </td>
+   <td style="text-align:right;"> 44 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Guppy (*Poecilia reticulata*) </td>
+   <td style="text-align:right;"> 46 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Human </td>
+   <td style="text-align:right;"> 46 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Hares </td>
    <td style="text-align:right;"> 48 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Gorillas, chimpanzees </td>
+   <td style="text-align:right;"> 48 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Domestic sheep </td>
+   <td style="text-align:right;"> 54 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Garden snail </td>
+   <td style="text-align:right;"> 54 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Silkworm </td>
+   <td style="text-align:right;"> 56 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Elephants </td>
+   <td style="text-align:right;"> 56 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cow </td>
+   <td style="text-align:right;"> 60 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Donkey </td>
+   <td style="text-align:right;"> 62 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Guinea pig </td>
+   <td style="text-align:right;"> 64 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Horse </td>
+   <td style="text-align:right;"> 64 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Dog </td>
+   <td style="text-align:right;"> 78 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Hedgehog </td>
+   <td style="text-align:right;"> 90 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Goldfish </td>
+   <td style="text-align:right;"> 100–104 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kingfisher </td>
+   <td style="text-align:right;"> 132 </td>
   </tr>
 </tbody>
 </table>

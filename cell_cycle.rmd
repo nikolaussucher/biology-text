@@ -201,7 +201,7 @@ setwd("~/Dropbox/R/biology-text-master")
 
 animalchrom <-  as_tibble(read.csv("data/animal_chromosomes.csv"))
 
-knitr::kable(plantchrom, col.names = c("Animal", "Number of Chromosomes"), digits = 2, align = 'lr', booktabs = TRUE, caption = "(ref:numanimals)") %>% kable_styling(latex_options = c("striped", "hold_position"))
+knitr::kable(animalchrom, col.names = c("Animal", "Number of Chromosomes"), digits = 2, align = 'lr', booktabs = TRUE, caption = "(ref:numanimals)") %>% kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
 Asexually reproducing species have one set of chromosomes that are the same in all body cells. However, asexual species can be either haploid or diploid.
