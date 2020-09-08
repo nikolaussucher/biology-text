@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  8 SEP 2020 14:15
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  8 SEP 2020 15:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4110,22 +4110,32 @@ Underfull \hbox (badness 1158) in paragraph at lines 281--281
 []\TU/LucidaGrande(0)/b/n/12 Number of Chromosomes in Various
  []
 
-[124] [125]
+[124]
 
-LaTeX Warning: Reference `fig:cellcycle' on page 126 undefined on input line 34
-4.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 3536) has occurred while \output is active []
+
+ [125]
+
+LaTeX Warning: Reference `fig:cellcycle' on page 126 undefined on input line 36
+2.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: ./figures/reproduction/Animal_cell_cycle-en.png Graphic file (type bmp)
 <./figures/reproduction/Animal_cell_cycle-en.png>
 
-Underfull \hbox (badness 3861) in paragraph at lines 357--358
+Underfull \hbox (badness 3861) in paragraph at lines 375--376
 \TU/LucidaGrande(0)/m/n/10 prometaphase, metaphase, anaphase, and telophase.
  []
 
 File: ./figures/reproduction/Wilson1900Fig2.jpg Graphic file (type bmp)
 <./figures/reproduction/Wilson1900Fig2.jpg>
 [126]
-Underfull \hbox (badness 10000) in paragraph at lines 380--381
+Underfull \hbox (badness 10000) in paragraph at lines 398--399
 []\TU/LucidaGrande(0)/m/n/10 During mitotic progression, typically after the
  []
 
@@ -4135,120 +4145,119 @@ File: ./figures/reproduction/ProphaseIF.jpg Graphic file (type bmp)
 File: ./figures/reproduction/Prometaphase.jpg Graphic file (type bmp)
 <./figures/reproduction/Prometaphase.jpg>
 
-Underfull \hbox (badness 1831) in paragraph at lines 427--427
+Underfull \hbox (badness 1831) in paragraph at lines 445--445
 []\TU/LucidaGrande(0)/b/n/10 Figure 8.8: |\TU/LucidaGrande(0)/m/n/10 Early prom
 etaphase: The nuclear mem-
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 433--434
+Underfull \hbox (badness 3219) in paragraph at lines 451--452
 \TU/LucidaGrande(0)/m/n/10 kinetochores in prometaphase, the two centrosomes
  []
 
+[128]
 File: ./figures/reproduction/MetaphaseIF.jpg Graphic file (type bmp)
 <./figures/reproduction/MetaphaseIF.jpg>
 
-Underfull \hbox (badness 5147) in paragraph at lines 449--450
+Underfull \hbox (badness 5147) in paragraph at lines 467--468
 \TU/LucidaGrande(0)/m/n/10 matids together are cleaved, forming two identical
  []
 
-[128]
 File: ./figures/reproduction/Anaphase_IF.jpg Graphic file (type bmp)
 <./figures/reproduction/Anaphase_IF.jpg>
 
-Underfull \hbox (badness 1648) in paragraph at lines 465--466
+Underfull \hbox (badness 1648) in paragraph at lines 483--484
 \TU/LucidaGrande(0)/m/n/10 Mitosis is complete. Each daughter nucleus has an
  []
 
+[129]
 File: ./figures/reproduction/TelophaseIF.jpg Graphic file (type bmp)
 <./figures/reproduction/TelophaseIF.jpg>
 
-Underfull \hbox (badness 2547) in paragraph at lines 475--475
+Underfull \hbox (badness 2547) in paragraph at lines 493--493
 []\TU/LucidaGrande(0)/b/n/10 Figure 8.11: |\TU/LucidaGrande(0)/m/n/10 Telophase
 : Reversal of prophase and
  []
 
-[129]
-Underfull \hbox (badness 1092) in paragraph at lines 492--494
+
+Underfull \hbox (badness 1092) in paragraph at lines 510--512
 []\TU/LucidaGrande(0)/m/n/10 Development and growth: The number of cells
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 494--496
+Underfull \hbox (badness 2245) in paragraph at lines 512--514
 []\TU/LucidaGrande(0)/m/n/10 Cell replacement: In some parts of the body,
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 509--510
+Underfull \hbox (badness 1248) in paragraph at lines 527--528
 \TU/LucidaGrande(0)/m/n/10 Two key classes of regulatory molecules, cyclins and
 
  []
 
 
-Underfull \hbox (badness 4467) in paragraph at lines 509--510
+Underfull \hbox (badness 4467) in paragraph at lines 527--528
 \TU/LucidaGrande(0)/m/n/10 cyclin-dependent kinases (CDKs), determine a cell’s
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 509--510
+Underfull \hbox (badness 1466) in paragraph at lines 527--528
 \TU/LucidaGrande(0)/m/n/10 components. Many of the relevant genes were first
  []
 
-
-Underfull \hbox (badness 1960) in paragraph at lines 513--515
+[130]
+Underfull \hbox (badness 1960) in paragraph at lines 531--533
 \TU/LucidaGrande(0)/m/n/10 in turn promote the expression of S cyclins and of
  []
 
-[130]
-Underfull \hbox (badness 2961) in paragraph at lines 516--517
+
+Underfull \hbox (badness 2961) in paragraph at lines 534--535
 \TU/LucidaGrande(0)/m/n/10 during G1 phase on DNA replication origins. The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--517
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
 \TU/LucidaGrande(0)/m/n/10 already-assembled pre-replication complex, and to
  []
 
 
-Underfull \hbox (badness 2197) in paragraph at lines 518--519
+Underfull \hbox (badness 2197) in paragraph at lines 536--537
 \TU/LucidaGrande(0)/m/n/10 APC also targets the mitotic cyclins for degradation
 ,
  []
 
 
-Underfull \hbox (badness 3792) in paragraph at lines 523--524
+Underfull \hbox (badness 3792) in paragraph at lines 541--542
 \TU/LucidaGrande(0)/m/n/10 triggers dissociation of pRB–E2F complexes, thereby
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 527--528
+Underfull \hbox (badness 1048) in paragraph at lines 545--546
 \TU/LucidaGrande(0)/m/n/10 Cyclin-Cdk complexes. This also makes feasible the
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 527--528
+Underfull \hbox (badness 1735) in paragraph at lines 545--546
 \TU/LucidaGrande(0)/m/n/10 Rb C-terminal helix shows that disruptions of cyclin
 
  []
 
 [131]
-Underfull \hbox (badness 2005) in paragraph at lines 529--530
+Underfull \hbox (badness 2005) in paragraph at lines 547--548
 []\TU/LucidaGrande(0)/m/n/10 The hyperphosphorylated Rb dissociates from the
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 529--530
+Underfull \hbox (badness 1112) in paragraph at lines 547--548
 \TU/LucidaGrande(0)/m/n/10 to CDK2, forming the cyclin E-CDK2 complex, which
  []
 
 
-Underfull \hbox (badness 2173) in paragraph at lines 529--530
+Underfull \hbox (badness 2173) in paragraph at lines 547--548
 \TU/LucidaGrande(0)/m/n/10 causes breakdown of nuclear envelope and initiation
  []
 
-[132]) [133
-
-]
+[132]) [133]
 \openout2 = `reproduction.aux'.
 
  (./reproduction.tex [134
@@ -14324,7 +14333,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  27342 strings out of 479418
  631990 string characters out of 5884586
- 1044446 words of memory out of 5000000
+ 1045446 words of memory out of 5000000
  43818 multiletter control sequences out of 15000+600000
  568351 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
