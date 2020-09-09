@@ -22,7 +22,7 @@ else {
       cp $output ../docs/_main.pdf
       echo "Low-res-PDF generated and copied to the docs directory as _main.pdf!"
       rm main.pdf
-      echo "Low-res-PDF generated and copied to the docs directory as _main.pdf!"
+      echo "Uncompressed PDF file was removed!"
     fi
   }
 fi

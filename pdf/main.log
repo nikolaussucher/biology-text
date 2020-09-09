@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  8 SEP 2020 15:26
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  9 SEP 2020 14:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1779,7 +1779,7 @@ Underfull \hbox (badness 1122) in paragraph at lines 42--43
 \TU/LucidaGrande(0)/m/n/10 positively charged protons from one another. Under
  []
 
-
+[24]
 Underfull \hbox (badness 2521) in paragraph at lines 46--47
 \TU/LucidaGrande(0)/m/n/10 so-called particulate theory of matter, independentl
 y
@@ -1791,9 +1791,6 @@ Underfull \hbox (badness 1354) in paragraph at lines 46--47
  []
 
 
-Underfull \vbox (badness 2285) has occurred while \output is active []
-
- [24]
 Underfull \hbox (badness 1394) in paragraph at lines 52--53
 \TU/LucidaGrande(0)/m/n/10 physicist Jean Perrin[][][] used Einstein’s work to 
 experi-
@@ -1820,7 +1817,7 @@ Underfull \hbox (badness 2865) in paragraph at lines 77--78
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3965) has occurred while \output is active []
 
  [26]
 File: ./figures/chemistry/Simple_Periodic_Table_Chart-en.png Graphic file (type
