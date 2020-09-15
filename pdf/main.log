@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  14 SEP 2020 10:52
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  14 SEP 2020 20:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4644,10 +4644,10 @@ cis
 [153]
 File: ./figures/dna/dna_solid.png Graphic file (type bmp)
 <./figures/dna/dna_solid.png>
-File: ./figures/dna/Base_pair_GC.jpg Graphic file (type bmp)
-<./figures/dna/Base_pair_GC.jpg>
-File: ./figures/dna/Base_pair_AT.jpg Graphic file (type bmp)
-<./figures/dna/Base_pair_AT.jpg>
+File: ./figures/dna/Base_pair_GC.png Graphic file (type bmp)
+<./figures/dna/Base_pair_GC.png>
+File: ./figures/dna/Base_pair_AT.png Graphic file (type bmp)
+<./figures/dna/Base_pair_AT.png>
  [154]
 Underfull \hbox (badness 1028) in paragraph at lines 108--109
 \TU/LucidaGrande(0)/m/n/10 core around which DNA is wrapped in the chromatin
@@ -4707,8 +4707,8 @@ Underfull \hbox (badness 1365) in paragraph at lines 126--127
  []
 
 [156]
-File: ./figures/replication/DNA_replication_split.jpg Graphic file (type bmp)
-<./figures/replication/DNA_replication_split.jpg>
+File: ./figures/replication/DNA_replication_split.png Graphic file (type bmp)
+<./figures/replication/DNA_replication_split.png>
 
 Underfull \hbox (badness 3690) in paragraph at lines 159--160
 []\TU/LucidaGrande(0)/m/n/10 DNA replication (DNA amplification) can also be
@@ -4720,9 +4720,9 @@ Underfull \hbox (badness 1173) in paragraph at lines 163--164
  []
 
 [157]
-File: ./figures/replication/Eukaryotic_DNA_replication.jpg Graphic file (type b
+File: ./figures/replication/Eukaryotic_DNA_replication.png Graphic file (type b
 mp)
-<./figures/replication/Eukaryotic_DNA_replication.jpg>
+<./figures/replication/Eukaryotic_DNA_replication.png>
 
 Underfull \hbox (badness 10000) in paragraph at lines 179--179
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
@@ -4734,8 +4734,8 @@ Underfull \hbox (badness 1024) in paragraph at lines 191--192
 \TU/LucidaGrande(0)/m/n/10 DNA duplex, exposing two single-stranded DNA tem-
  []
 
-File: ./figures/replication/DNA_polymerase.jpg Graphic file (type bmp)
-<./figures/replication/DNA_polymerase.jpg>
+File: ./figures/replication/DNA_polymerase.png Graphic file (type bmp)
+<./figures/replication/DNA_polymerase.png>
 
 Underfull \hbox (badness 2856) in paragraph at lines 206--207
 \TU/LucidaGrande(0)/m/n/10 constantly loaded, for generating Okazaki fragments
@@ -14330,10 +14330,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 27368 strings out of 479418
- 633017 string characters out of 5884586
- 1046893 words of memory out of 5000000
- 43842 multiletter control sequences out of 15000+600000
+ 27358 strings out of 479418
+ 632619 string characters out of 5884586
+ 1046899 words of memory out of 5000000
+ 43832 multiletter control sequences out of 15000+600000
  568351 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,19n,121p,5055b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
