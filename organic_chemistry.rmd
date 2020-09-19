@@ -138,7 +138,7 @@ Most proteins fold into unique 3D structures. The shape into which a protein nat
 
 (ref:protstruc) [The amino-acid sequence, the primary structure of a protein, determines the secondary (α-helix and β-sheet), tertiary and quaternary protein structures](https://commons.wikimedia.org/wiki/File:Protein_structure.png)
 
-```{r proteinstructure, fig.cap='(ref:protstuc)', echo=FALSE, message=FALSE, warning=FALSE}
+```{r proteinstructure, fig.cap='(ref:protstruc)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/chemistry/Protein_structure.png")
 ```
 
@@ -186,7 +186,7 @@ Other proteins that serve structural functions are motor proteins such as myosin
 
 ## Carbohydrates
 
-A [carbohydrate](https://en.wikipedia.org/wiki/Carbohydrate) is a biomolecule consisting of carbon (C), hydrogen (H) and oxygen (O) atoms, usually with a hydrogen–oxygen atom ratio of 2:1 (as in water) and thus with the empirical formula C~m~(H~2~O))~n~ (where m may be different from n). This formula holds true for monosaccharides. Some exceptions exist; for example, deoxyribose, a sugar component of DNA, has the empirical formula C~5~H~10~O~4~. The carbohydrates are technically hydrates of carbon; structurally it is more accurate to view them asaldoses and ketoses.
+A [carbohydrate](https://en.wikipedia.org/wiki/Carbohydrate) is a biomolecule consisting of carbon (C), hydrogen (H) and oxygen (O) atoms, usually with a hydrogen–oxygen atom ratio of 2:1 (as in water) and thus with the empirical formula C~m~(H~2~O)~n~ (where m may be different from n). This formula holds true for monosaccharides. Some exceptions exist; for example, deoxyribose, a sugar component of DNA, has the empirical formula C~5~H~10~O~4~. The carbohydrates are technically hydrates of carbon; structurally it is more accurate to view them asaldoses and ketoses.
 
 The term is most common in biochemistry, where it is a synonym of saccharide, a group that includes sugars, starch, and cellulose. The saccharides are divided into four chemical groups: monosaccharides, disaccharides, oligosaccharides, and polysaccharides. Monosaccharides and disaccharides, the smallest (lower molecular weight) carbohydrates, are commonly referred to as sugars. The word saccharide comes from the Greek word σάκχαρον (sákkharon), meaning "sugar". While the scientific nomenclature of carbohydrates is complex, the names of the monosaccharides and disaccharides very often end in the suffix -ose, as in the monosaccharides fructose (fruit sugar) and glucose (starch sugar) and the disaccharides sucrose (cane or beet sugar) and lactose (milk sugar).
 
@@ -216,7 +216,7 @@ Monosaccharides are the simplest carbohydrates in that they cannot be hydrolyzed
 
 Monosaccharides are the major fuel source for metabolism, being used both as an energy source (glucose being the most important in nature) and in biosynthesis. When monosaccharides are not immediately needed by many cells, they are often converted to more space-efficient forms, often polysaccharides. In many animals, including humans, this storage form is glycogen, especially in liver and muscle cells. In plants, starch is used for the same purpose. The most abundant carbohydrate, cellulose, is a structural component of the cell wall of plants and many forms of algae. Ribose is a component of RNA. Deoxyribose is a component of DNA. Lyxose is a component of lyxoflavin found in the human heart. Ribulose and xylulose occur in the pentose phosphate pahway. Galactose, a component of milk sugar lactose, is found in galactolipids in plant cell membranes and in glycoproteins in many tissues. Mannose occurs in human metabolism, especially in the glycosylation of certain proteins. Fructose, or fruit sugar, is found in many plants and humans, it is metabolized in the liver, absorbed directly into the intestines during digestion, and found in semen. Trehalose, a major sugar of insects, is rapidly hydrolyzed into two glucose molecules to support continuous flight.
 
-Two joined monosaccharides are called a disaccharide and these are the simplest polysaccharides. Examples include sucrose and lactose. They are composed of two monosaccharide units bound together by a covalent bond known as a glycosidic linkage formed via a dehydration reaction, resulting in the loss of a hydrogen atom from one monosaccharide and a hydroxyl group from the other. The formula of unmodified disaccharides is C12H22O11. Although there are numerous kinds of disaccharides, a handful of disaccharides are particularly notable.
+Two joined monosaccharides are called a disaccharide and these are the simplest polysaccharides. Examples include sucrose and lactose. They are composed of two monosaccharide units bound together by a covalent bond known as a glycosidic linkage formed via a dehydration reaction, resulting in the loss of a hydrogen atom from one monosaccharide and a hydroxyl group from the other. The formula of unmodified disaccharides is C~12~H~22~O~11. Although there are numerous kinds of disaccharides, a handful of disaccharides are particularly notable.
 
 * Its monosaccharides: glucose and fructose
 * Their ring types: glucose is a pyranose and fructose is a furanose

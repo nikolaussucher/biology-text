@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  14 SEP 2020 20:58
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  19 SEP 2020 12:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -788,8 +788,14 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \rot@float@box=\box64
 \rot@mess@toks=\toks36
 ))
-(./main.aux (./acknowledgements.aux) (./biology.aux) (./basic_chemistry.aux)
-(./organic_chemistry.aux) (./cell_structure.aux) (./membrane_structure.aux
+(./main.aux (./acknowledgements.aux) (./biology.aux) (./basic_chemistry.aux
+
+LaTeX Warning: Label `the-periodic-table-of-the-elements' multiply defined.
+
+
+LaTeX Warning: Label `fig:periodictable' multiply defined.
+
+) (./organic_chemistry.aux) (./cell_structure.aux) (./membrane_structure.aux
 
 LaTeX Warning: Label `fig:cellmembrane' multiply defined.
 
@@ -1045,40 +1051,30 @@ LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
 (Font)              scaled to size 4.89496pt on input line 4.
  [7
 
-] [8] [9]
+] [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
 Missing character: There is no ◄ in font Lucida Grande/AAT:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-Underfull \vbox (badness 5548) has occurred while \output is active []
-
- [11]
-Underfull \vbox (badness 5374) has occurred while \output is active []
-
- [12]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[11] [12] [13]
+Underfull \vbox (badness 1137) has occurred while \output is active []
 
  [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
-Underfull \hbox (badness 2573) in paragraph at lines 154--154
+[15]
+Underfull \hbox (badness 2573) in paragraph at lines 158--158
  [][] [][]\TU/LucidaGrande(0)/m/n/10 Dictyostelium Fruiting Body[] Dictyosteliu
 m is a genus of single- and multi-celled eukaryotic, 
  []
 
 
-Underfull \vbox (badness 1902) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
-Underfull \vbox (badness 4144) has occurred while \output is active []
-
- [17]
-[18]
+[17] [18]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [19]
@@ -1132,13 +1128,13 @@ LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
 File: ./figures/life/IMG_1024.jpg Graphic file (type bmp)
 <./figures/life/IMG_1024.jpg>
 
-Underfull \hbox (badness 1960) in paragraph at lines 21--22
+Underfull \hbox (badness 1960) in paragraph at lines 31--32
 \TU/LucidaGrande(0)/m/n/10 in 1736 when Swedish scientist Carl Linnaeus[][][] (
 Carl
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 21--22
+Underfull \hbox (badness 1383) in paragraph at lines 31--32
 \TU/LucidaGrande(0)/m/n/10 perspective (Propädeutik zum Studien der gesammten
  []
 
@@ -1149,83 +1145,75 @@ Underfull \hbox (badness 1383) in paragraph at lines 21--22
 
 
 ]
-Underfull \hbox (badness 1019) in paragraph at lines 29--30
+Underfull \hbox (badness 1019) in paragraph at lines 39--40
 []\TU/LucidaGrande(0)/m/n/10 Scholars of the medieval Islamic world who wrote
  []
 
 
-Underfull \hbox (badness 3884) in paragraph at lines 29--30
+Underfull \hbox (badness 3884) in paragraph at lines 39--40
 \TU/LucidaGrande(0)/m/n/10 on biology included al-Jahiz (781–869), Al-Dīnawarī
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
 [][][][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [
 ] [][][][][][][][][][][][][][] [] [][][][][][][] [][] [][][][][][] [] [][] []
  []
 
-
-Underfull \vbox (badness 5592) has occurred while \output is active []
-
- [2]
-Underfull \hbox (badness 10000) in paragraph at lines 59--61
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
 \TU/LucidaGrande(0)/m/n/10 (anabolism) and decomposing organic matter
  []
 
 
-Underfull \hbox (badness 3354) in paragraph at lines 59--61
+Underfull \hbox (badness 3354) in paragraph at lines 69--71
 \TU/LucidaGrande(0)/m/n/10 (catabolism). Living things require energy to
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 65--67
+Underfull \hbox (badness 2042) in paragraph at lines 75--77
 \TU/LucidaGrande(0)/m/n/10 A response is often expressed by motion; for
  []
 
 [3]
-Underfull \hbox (badness 2035) in paragraph at lines 81--82
-\TU/LucidaGrande(0)/m/n/10 as 1668 that higher forms of life did not originate
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 81--82
+Underfull \hbox (badness 1264) in paragraph at lines 91--92
 \TU/LucidaGrande(0)/m/n/10 generation. In 1768, Lazzaro Spallanzani[][][] repea
 ted
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 81--82
+Underfull \hbox (badness 1803) in paragraph at lines 91--92
 \TU/LucidaGrande(0)/m/n/10 Needham’s experiment but removed all the air from
  []
 
 
-Underfull \hbox (badness 2828) in paragraph at lines 81--82
+Underfull \hbox (badness 2828) in paragraph at lines 91--92
 \TU/LucidaGrande(0)/m/n/10 experiment and showed that living particles can be
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 85--86
+Underfull \hbox (badness 1082) in paragraph at lines 95--96
 []\TU/LucidaGrande(0)/m/n/10 All known life forms share fundamental molecular
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 85--86
+Underfull \hbox (badness 1442) in paragraph at lines 95--96
 \TU/LucidaGrande(0)/m/n/10 mechanisms, reflecting their common descent; based
  []
 
 
-Underfull \hbox (badness 2753) in paragraph at lines 85--86
+Underfull \hbox (badness 2753) in paragraph at lines 95--96
 \TU/LucidaGrande(0)/m/n/10 on these observations, hypotheses on the origin of
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 85--86
+Underfull \hbox (badness 1424) in paragraph at lines 95--96
 \TU/LucidaGrande(0)/m/n/10 life attempt to find a mechanism explaining the for-
 
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 85--86
+Underfull \hbox (badness 1377) in paragraph at lines 95--96
 \TU/LucidaGrande(0)/m/n/10 and “metabolism-first” categories, but a recent tren
 d
  []
@@ -1234,188 +1222,188 @@ d
 File: ./figures/life/Miller-Urey_experiment-en.png Graphic file (type bmp)
 <./figures/life/Miller-Urey_experiment-en.png>
 
-Underfull \hbox (badness 1701) in paragraph at lines 110--111
+Underfull \hbox (badness 1701) in paragraph at lines 120--121
 \TU/LucidaGrande(0)/m/n/10 of this, it is unlikely that genes and proteins aros
 e
  []
 
 
-Underfull \hbox (badness 2970) in paragraph at lines 116--117
+Underfull \hbox (badness 2970) in paragraph at lines 126--127
 \TU/LucidaGrande(0)/m/n/10 3-phosphate. It is hypothesized that Schreibersite-
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 116--117
+Underfull \hbox (badness 1472) in paragraph at lines 126--127
 \TU/LucidaGrande(0)/m/n/10 could react with prebiotic organic molecules to form
 
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 118--119
+Underfull \hbox (badness 2158) in paragraph at lines 128--129
 \TU/LucidaGrande(0)/m/n/10 lution of a two-component system of RNA enzymes
  []
 
 [5]
-Underfull \hbox (badness 1406) in paragraph at lines 126--127
+Underfull \hbox (badness 1406) in paragraph at lines 136--137
 []\TU/LucidaGrande(0)/m/n/10 Since its primordial beginnings, life on Earth has
 
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 126--127
+Underfull \hbox (badness 1019) in paragraph at lines 136--137
 \TU/LucidaGrande(0)/m/n/10 and contain many biomolecules such as proteins and
  []
 
 File: ./figures/life/Celltypes.png Graphic file (type bmp)
 <./figures/life/Celltypes.png>
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
-(Font)              scaled to size 9.68298pt on input line 143.
+(Font)              scaled to size 9.68298pt on input line 153.
 
-Underfull \hbox (badness 2582) in paragraph at lines 147--148
+Underfull \hbox (badness 2582) in paragraph at lines 157--158
 \TU/LucidaGrande(0)/m/n/10 nineteenth century, and subsequently became widely
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 147--148
+Underfull \hbox (badness 1132) in paragraph at lines 157--158
 \TU/LucidaGrande(0)/m/n/10 that is carried forward as a genetic code during cel
 l
  []
 
 
-Underfull \hbox (badness 4981) in paragraph at lines 149--150
+Underfull \hbox (badness 4981) in paragraph at lines 159--160
 \TU/LucidaGrande(0)/m/n/10 membrane-bound organelles, including mitochondria,
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 149--150
+Underfull \hbox (badness 2293) in paragraph at lines 159--160
 \TU/LucidaGrande(0)/m/n/10 reticulum, and vacuoles. In addition, they possess
  []
 
 
-Underfull \hbox (badness 5175) in paragraph at lines 149--150
+Underfull \hbox (badness 5175) in paragraph at lines 159--160
 \TU/LucidaGrande(0)/m/n/10 endosymbiosis between bacteria and the progenitor
  []
 
 File: ./figures/life/Tree_of_Living_Organisms_2.png Graphic file (type bmp)
 <./figures/life/Tree_of_Living_Organisms_2.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--159
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][] [] [][] [] [][][][][][] []
  []
 
 
-Underfull \hbox (badness 1184) in paragraph at lines 162--163
+Underfull \hbox (badness 1184) in paragraph at lines 172--173
 \TU/LucidaGrande(0)/m/n/10 replicates only inside the living cells of an organi
 sm.
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 162--163
+Underfull \hbox (badness 1226) in paragraph at lines 172--173
 \TU/LucidaGrande(0)/m/n/10 of life, or organic structures that interact with li
 ving
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 162--163
+Underfull \hbox (badness 1515) in paragraph at lines 172--173
 \TU/LucidaGrande(0)/m/n/10 that they possess genes, evolve by natural selection
 ,
  []
 
 
-Underfull \hbox (badness 3428) in paragraph at lines 162--163
+Underfull \hbox (badness 3428) in paragraph at lines 172--173
 \TU/LucidaGrande(0)/m/n/10 therefore cannot naturally reproduce outside a host
  []
 
 [6]
-Underfull \hbox (badness 1715) in paragraph at lines 164--165
+Underfull \hbox (badness 1715) in paragraph at lines 174--175
 \TU/LucidaGrande(0)/m/n/10 on proteins which are synthesized by the ribosomes
  []
 
 
-Underfull \hbox (badness 3428) in paragraph at lines 164--165
+Underfull \hbox (badness 3428) in paragraph at lines 174--175
 \TU/LucidaGrande(0)/m/n/10 through an enzyme-catalyzed process called protein
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 181--182
+Underfull \hbox (badness 1253) in paragraph at lines 191--192
 \TU/LucidaGrande(0)/m/n/10 about phylogeny. These include the comparisons of
  []
 
 
-Underfull \hbox (badness 2213) in paragraph at lines 181--182
+Underfull \hbox (badness 2213) in paragraph at lines 191--192
 \TU/LucidaGrande(0)/m/n/10 Biologists organize and analyze evolutionary relatio
 n-
  []
 
 [7]
-Underfull \hbox (badness 1097) in paragraph at lines 187--188
+Underfull \hbox (badness 1097) in paragraph at lines 197--198
 []\TU/LucidaGrande(0)/m/n/10 The earliest evidence of life comes from biogenic
  []
 
 File: ./figures/life/Stromatolites_in_Sharkbay.jpg Graphic file (type bmp)
 <./figures/life/Stromatolites_in_Sharkbay.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--197
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][][][][][][][][][] [] [][] []
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 200--201
+Underfull \hbox (badness 1253) in paragraph at lines 210--211
 []\TU/LucidaGrande(0)/m/n/10 Microbial mats of coexisting bacteria and archaea
  []
 
 
-Underfull \hbox (badness 2285) in paragraph at lines 204--205
+Underfull \hbox (badness 2285) in paragraph at lines 214--215
 \TU/LucidaGrande(0)/m/n/10 During the Permian period, synapsids, including the
  []
 
 
-Underfull \hbox (badness 1331) in paragraph at lines 204--205
+Underfull \hbox (badness 1331) in paragraph at lines 214--215
 \TU/LucidaGrande(0)/m/n/10 of this group became extinct in the Permian–Triassic
 
  []
 
 
-Underfull \hbox (badness 4429) in paragraph at lines 204--205
+Underfull \hbox (badness 4429) in paragraph at lines 214--215
 \TU/LucidaGrande(0)/m/n/10 catastrophe, archosaurs became the most abundant
  []
 
 [8]
-Underfull \hbox (badness 1019) in paragraph at lines 225--226
+Underfull \hbox (badness 1019) in paragraph at lines 235--236
 []\TU/LucidaGrande(0)/m/n/10 The organisms responsible for the introduction of
  []
 
 [9]
-Underfull \hbox (badness 3954) in paragraph at lines 240--241
+Underfull \hbox (badness 3954) in paragraph at lines 250--251
 \TU/LucidaGrande(0)/m/n/10 of cell growth, cellular differentiation, and “cellu
 lar
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 240--241
+Underfull \hbox (badness 1210) in paragraph at lines 250--251
 \TU/LucidaGrande(0)/m/n/10 ganisms for developmental biology include the round
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 240--241
+Underfull \hbox (badness 1048) in paragraph at lines 250--251
 \TU/LucidaGrande(0)/m/n/10 worm Caenorhabditis elegans, the fruit fly Drosophil
 a
  []
 
 
-Underfull \hbox (badness 2772) in paragraph at lines 240--241
+Underfull \hbox (badness 2772) in paragraph at lines 250--251
 \TU/LucidaGrande(0)/m/n/10 melanogaster, the zebrafish Danio rerio, the mouse
  []
 
 
-Underfull \hbox (badness 3312) in paragraph at lines 240--241
+Underfull \hbox (badness 3312) in paragraph at lines 250--251
 \TU/LucidaGrande(0)/m/n/10 to understand particular biological phenomena, with
  []
 
 
-Underfull \hbox (badness 5817) in paragraph at lines 250--251
+Underfull \hbox (badness 5817) in paragraph at lines 260--261
 \TU/LucidaGrande(0)/m/n/10 system outdated. Modern alternative classification
  []
 
@@ -1425,19 +1413,19 @@ File: ./figures/life/Biological_classification_L_Pengo.png Graphic file (type b
 mp)
 <./figures/life/Biological_classification_L_Pengo.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 273--273
+Underfull \hbox (badness 10000) in paragraph at lines 283--283
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][][][][][][] [] [][][][][][][][][][][][][][] []
 
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 280--281
+Underfull \hbox (badness 3612) in paragraph at lines 290--291
 []\TU/LucidaGrande(0)/m/n/10 The dominant classification system is called the
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 280--281
+Underfull \hbox (badness 1728) in paragraph at lines 290--291
 \TU/LucidaGrande(0)/m/n/10 International Code of Zoological Nomenclature (ICZN)
 ,
  []
@@ -1446,7 +1434,7 @@ Underfull \hbox (badness 1728) in paragraph at lines 280--281
 File: ./figures/life/Ethology_diversity_2.jpg Graphic file (type bmp)
 <./figures/life/Ethology_diversity_2.jpg>
 
-Underfull \hbox (badness 6808) in paragraph at lines 306--307
+Underfull \hbox (badness 6808) in paragraph at lines 316--317
 []\TU/LucidaGrande(0)/m/n/10 Scientists are individuals who conduct scientific
  []
 
@@ -1454,7 +1442,7 @@ File: ./figures/life/Researcher_looking_through_microscope.jpg Graphic file (ty
 pe bmp)
 <./figures/life/Researcher_looking_through_microscope.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
+Underfull \hbox (badness 10000) in paragraph at lines 326--326
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][][][][][][] [] [][][][][][][] []
  []
@@ -1466,13 +1454,13 @@ Underfull \vbox (badness 1112) has occurred while \output is active []
 File: ./figures/life/1911_Solvay_conference.jpg Graphic file (type bmp)
 <./figures/life/1911_Solvay_conference.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--335
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--338
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
 [][][][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [
 ] [][][][] [] [][] [] [][][][][][][][][][][][][][][][][] [] [][][][][][][][][] 
 []
@@ -1482,229 +1470,229 @@ File: ./figures/life/George_Washington_Carver_c1910_-_Restoration.jpg Graphic f
 ile (type bmp)
 <./figures/life/George_Washington_Carver_c1910_-_Restoration.jpg>
 
-Underfull \hbox (badness 2318) in paragraph at lines 351--352
+Underfull \hbox (badness 2318) in paragraph at lines 361--362
 []\TU/LucidaGrande(0)/m/n/10 Scientists exhibit a strong curiosity about realit
 y,
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 351--352
+Underfull \hbox (badness 1742) in paragraph at lines 361--362
 \TU/LucidaGrande(0)/m/n/10 or industries. Other motivations include recognition
 
  []
 
 [13]
-Underfull \hbox (badness 1946) in paragraph at lines 368--369
+Underfull \hbox (badness 1946) in paragraph at lines 378--379
 \TU/LucidaGrande(0)/m/n/10 descriptive Latin, or occasionally Greek. Descriptiv
 e
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 368--369
+Underfull \hbox (badness 1024) in paragraph at lines 378--379
 \TU/LucidaGrande(0)/m/n/10 an increasing tendency to modernise the terminology,
 
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 368--369
+Underfull \hbox (badness 1142) in paragraph at lines 378--379
 \TU/LucidaGrande(0)/m/n/10 in vertebrates or invertebrates, a frenum (a structu
 re
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 370--371
+Underfull \hbox (badness 1231) in paragraph at lines 380--381
 \TU/LucidaGrande(0)/m/n/10 naming system”) or binary nomenclature, is a formal
  []
 
 [14] [15]
-Underfull \hbox (badness 1122) in paragraph at lines 415--416
+Underfull \hbox (badness 1122) in paragraph at lines 425--426
 []\TU/LucidaGrande(0)/m/n/10 There is no consensus among philosophers about
  []
 
 [16]
-Underfull \hbox (badness 1147) in paragraph at lines 447--448
+Underfull \hbox (badness 1147) in paragraph at lines 457--458
 \TU/LucidaGrande(0)/m/n/10 the negative method of criticism, trial and error. I
 t
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--450
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
 []\TU/LucidaGrande(0)/m/n/10 Another approach, instrumentalism, colloquially
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 449--450
+Underfull \hbox (badness 3590) in paragraph at lines 459--460
 \TU/LucidaGrande(0)/m/n/10 with only their input (initial conditions) and outpu
 t
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 449--450
+Underfull \hbox (badness 1147) in paragraph at lines 459--460
 \TU/LucidaGrande(0)/m/n/10 mechanics). Close to instrumentalism is constructive
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 451--451
+Underfull \hbox (badness 10000) in paragraph at lines 461--461
 [][][][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [
 ] [][][] [] [][][][][][][][][] [] [][] [] [][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 451--452
+Underfull \hbox (badness 1789) in paragraph at lines 461--462
 \TU/LucidaGrande(0)/m/n/10 the American philosopher of science Thomas Samuel
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 451--452
+Underfull \hbox (badness 1769) in paragraph at lines 461--462
 \TU/LucidaGrande(0)/m/n/10 Kuhn[][][] made several claims concerning the progre
 ss
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 451--452
+Underfull \hbox (badness 1383) in paragraph at lines 461--462
 \TU/LucidaGrande(0)/m/n/10 cannot be established solely by objective criteria b
 ut
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 451--452
+Underfull \hbox (badness 1424) in paragraph at lines 461--462
 \TU/LucidaGrande(0)/m/n/10 is defined by a consensus of a scientific community.
 
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 451--452
+Underfull \hbox (badness 1377) in paragraph at lines 461--462
 \TU/LucidaGrande(0)/m/n/10 of reality. Thus, our comprehension of science can
  []
 
 
-Underfull \hbox (badness 1681) in paragraph at lines 451--452
+Underfull \hbox (badness 1681) in paragraph at lines 461--462
 \TU/LucidaGrande(0)/m/n/10 account for subjective perspectives as well, since a
 ll
  []
 
 [17]
-Underfull \hbox (badness 2865) in paragraph at lines 457--458
+Underfull \hbox (badness 2865) in paragraph at lines 467--468
 \TU/LucidaGrande(0)/m/n/10 “Entstehung und Entwicklung einer wissenschaftlichen
 
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 457--458
+Underfull \hbox (badness 1715) in paragraph at lines 467--468
 \TU/LucidaGrande(0)/m/n/10 Tatsache; Einführung in die Lehre vom Denkstil und
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 457--458
+Underfull \hbox (badness 2671) in paragraph at lines 467--468
 \TU/LucidaGrande(0)/m/n/10 it a blindness to alternative ways of observing and
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 457--458
+Underfull \hbox (badness 1881) in paragraph at lines 467--468
 \TU/LucidaGrande(0)/m/n/10 advocated comparative epistemology. This approach
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 462--463
+Underfull \hbox (badness 1314) in paragraph at lines 472--473
 []\TU/LucidaGrande(0)/m/n/10 For is it not possible that science as we
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 462--463
+Underfull \hbox (badness 1052) in paragraph at lines 472--473
 \TU/LucidaGrande(0)/m/n/10 in the style of traditional philosophy, will
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 462--463
+Underfull \hbox (badness 1466) in paragraph at lines 472--473
 \TU/LucidaGrande(0)/m/n/10 asks Kierkegaard, “that my activity as an
  []
 
 
-Underfull \hbox (badness 4726) in paragraph at lines 462--463
+Underfull \hbox (badness 4726) in paragraph at lines 472--473
 \TU/LucidaGrande(0)/m/n/10 objective [or critico-rational] observer of
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 462--463
+Underfull \hbox (badness 1028) in paragraph at lines 472--473
 \TU/LucidaGrande(0)/m/n/10 that a reform of the sciences that makes
  []
 
 [18]
-Underfull \hbox (badness 2564) in paragraph at lines 473--474
+Underfull \hbox (badness 2564) in paragraph at lines 483--484
 \TU/LucidaGrande(0)/m/n/10 accepted not because of their accord with scientific
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 478--478
+Underfull \hbox (badness 10000) in paragraph at lines 488--488
 [][][][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [
 ] [][][][][][][][][][][][] [] [][][][][][][] [] [][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 484--485
+Underfull \hbox (badness 1097) in paragraph at lines 494--495
 \TU/LucidaGrande(0)/m/n/10 17th century, associated with the scientific revolut
 ion
  []
 
 
-Underfull \hbox (badness 3724) in paragraph at lines 484--485
+Underfull \hbox (badness 3724) in paragraph at lines 494--495
 \TU/LucidaGrande(0)/m/n/10 methodologically, factually and politically througho
 ut
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 484--485
+Underfull \hbox (badness 1635) in paragraph at lines 494--495
 \TU/LucidaGrande(0)/m/n/10 Dawkins, Lawrence Krauss, Peter Atkins, and Donald
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--487
+Underfull \hbox (badness 10000) in paragraph at lines 496--497
 []\TU/LucidaGrande(0)/m/n/10 Many scientists, philosophers, and theologians
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 486--487
+Underfull \hbox (badness 1152) in paragraph at lines 496--497
 \TU/LucidaGrande(0)/m/n/10 throughout history, such as Francisco Ayala, Kenneth
 
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 486--487
+Underfull \hbox (badness 1303) in paragraph at lines 496--497
 \TU/LucidaGrande(0)/m/n/10 R. Miller and Francis Collins, have seen compatibili
 ty
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 486--487
+Underfull \hbox (badness 2119) in paragraph at lines 496--497
 \TU/LucidaGrande(0)/m/n/10 non-overlapping magisteria, addressing fundamentally
 
  []
 
 
-Underfull \hbox (badness 3657) in paragraph at lines 486--487
+Underfull \hbox (badness 3657) in paragraph at lines 496--497
 \TU/LucidaGrande(0)/m/n/10 theologians or historians of science, including John
 
  []
 
 [19]
-Underfull \hbox (badness 1163) in paragraph at lines 511--512
+Underfull \hbox (badness 1163) in paragraph at lines 521--522
 \TU/LucidaGrande(0)/m/n/10 are capable of rational foundation. They
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 511--512
+Underfull \hbox (badness 1199) in paragraph at lines 521--522
 \TU/LucidaGrande(0)/m/n/10 of-factness as he himself. In this sense
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 511--512
+Underfull \hbox (badness 1297) in paragraph at lines 521--522
 \TU/LucidaGrande(0)/m/n/10 well-known conflicts between religion and
  []
 
 [20]
-Underfull \hbox (badness 2626) in paragraph at lines 516--517
+Underfull \hbox (badness 2626) in paragraph at lines 526--527
 \TU/LucidaGrande(0)/m/n/10 “non-overlapping magisteria” (NOMA), is that science
 
  []
@@ -1746,52 +1734,40 @@ Underfull \hbox (badness 1371) in paragraph at lines 17--18
  []
 
 [23]
-Underfull \hbox (badness 2205) in paragraph at lines 26--27
+Underfull \hbox (badness 1122) in paragraph at lines 44--52
+\TU/LucidaGrande(0)/m/n/10 positively charged protons from one another. Under
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 62--76
 []\TU/LucidaGrande(0)/m/n/10 Atoms are extremely small, typically around 100
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 28--30
-\TU/LucidaGrande(0)/m/n/10 the behavior of systems at atomic length scales and
+Underfull \hbox (badness 1158) in paragraph at lines 87--95
+\TU/LucidaGrande(0)/m/n/10 which others and the magnitudes of the energies in-
  []
 
 
-Underfull \hbox (badness 4242) in paragraph at lines 28--30
-\TU/LucidaGrande(0)/m/n/10 electrons remain in an uncertain, non-deterministic,
-
- []
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 28--30
-\TU/LucidaGrande(0)/m/n/10 smeared, probabilistic wave–particle orbital about t
-he
- []
-
-
-Underfull \hbox (badness 3323) in paragraph at lines 28--30
-\TU/LucidaGrande(0)/m/n/10 are energetically favorable to which others and the
+Underfull \hbox (badness 1902) in paragraph at lines 87--95
+\TU/LucidaGrande(0)/m/n/10 in modern computational chemistry rely on quantum
  []
 
 File: ./figures/chemistry/Helium_atom_QM.png Graphic file (type bmp)
 <./figures/chemistry/Helium_atom_QM.png>
 
-Underfull \hbox (badness 1122) in paragraph at lines 42--43
-\TU/LucidaGrande(0)/m/n/10 positively charged protons from one another. Under
- []
-
-[24]
-Underfull \hbox (badness 2521) in paragraph at lines 46--47
+Underfull \hbox (badness 2521) in paragraph at lines 105--113
 \TU/LucidaGrande(0)/m/n/10 so-called particulate theory of matter, independentl
 y
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 46--47
+Underfull \hbox (badness 1354) in paragraph at lines 105--113
 \TU/LucidaGrande(0)/m/n/10 appeared in ancient Greece and ancient India among
  []
 
-
-Underfull \hbox (badness 1394) in paragraph at lines 52--53
+[24]
+Underfull \hbox (badness 1394) in paragraph at lines 146--158
 \TU/LucidaGrande(0)/m/n/10 physicist Jean Perrin[][][] used Einstein’s work to 
 experi-
  []
@@ -1800,98 +1776,166 @@ experi-
 File: ./figures/chemistry/Bohr_atom_model.png Graphic file (type bmp)
 <./figures/chemistry/Bohr_atom_model.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 [][][][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [
 ] [][][][] [] [][][][][] [] [][][][][][] [] [][][][] [] [][][][] [] [][][][] []
 
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 77--78
+Underfull \hbox (badness 1448) in paragraph at lines 244--256
 \TU/LucidaGrande(0)/m/n/10 than the wavelengths of light (400–700 nm) so they
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 77--78
+Underfull \hbox (badness 2865) in paragraph at lines 244--256
 \TU/LucidaGrande(0)/m/n/10 individual atoms can be observed using a scanning
  []
 
+[26]
+Underfull \hbox (badness 4634) in paragraph at lines 278--284
+[]\TU/LucidaGrande(0)/m/n/10 Neutrons have no electrical charge and have a
+ []
 
-Underfull \vbox (badness 3965) has occurred while \output is active []
+Missing character: There is no − in font rm-lmr10!
 
- [26]
+Underfull \vbox (badness 3557) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 325--331
+\TU/LucidaGrande(0)/m/n/10 hence its chemical identity. Neutrons are electrical
+ly
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 332--340
+\TU/LucidaGrande(0)/m/n/10 positively charged protons from one another. Under
+ []
+
+
+Underfull \vbox (badness 6758) has occurred while \output is active []
+
+ [27]
+Missing character: There is no ℓ in font Lucida Grande/AAT:mapping=tex-text;!
+Missing character: There is no ℓ in font Lucida Grande/AAT:mapping=tex-text;!
+Missing character: There is no ℓ in font Lucida Grande/AAT:mapping=tex-text;!
+File: ./figures/chemistry/S-p-Orbitals.png Graphic file (type bmp)
+<./figures/chemistry/S-p-Orbitals.png>
+
+[28]
 File: ./figures/chemistry/Simple_Periodic_Table_Chart-en.png Graphic file (type
  bmp)
 <./figures/chemistry/Simple_Periodic_Table_Chart-en.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+[][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
+[][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][] [] [][][][][] []
+ []
+
+Missing character: There is no ℓ in font Lucida Grande/AAT:mapping=tex-text;!
+Missing character: There is no ℓ in font Lucida Grande/AAT:mapping=tex-text;!
+[29]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 515.
+
+[30] [31
+
+
+]
+File: ./figures/chemistry/Simple_Periodic_Table_Chart-en.png Graphic file (type
+ bmp)
+<./figures/chemistry/Simple_Periodic_Table_Chart-en.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--606
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][] [] [][][][][] []
  []
 
 
-Underfull \hbox (badness 3302) in paragraph at lines 101--102
+Underfull \hbox (badness 3302) in paragraph at lines 614--615
 \TU/LucidaGrande(0)/m/n/10 to derive relationships between the various element
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 113--114
+Underfull \vbox (badness 5893) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 626--627
 []\TU/LucidaGrande(0)/m/n/10 Thus, molecules exist as electrically neutral unit
 s,
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 113--114
+Underfull \hbox (badness 1005) in paragraph at lines 626--627
 \TU/LucidaGrande(0)/m/n/10 nature of the molecular concept usually requires tha
 t
  []
 
-[27]
-Underfull \hbox (badness 2418) in paragraph at lines 123--124
+[32]
+Underfull \hbox (badness 2418) in paragraph at lines 636--637
 \TU/LucidaGrande(0)/m/n/10 Gilbert Newton Lewis[][][] in 1916, as the interacti
 ons
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 123--124
+Underfull \hbox (badness 1173) in paragraph at lines 636--637
 \TU/LucidaGrande(0)/m/n/10 could be explained if the electrons in an atom were
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 123--124
+Underfull \hbox (badness 1303) in paragraph at lines 636--637
 \TU/LucidaGrande(0)/m/n/10 connected or clustered in some manner. Groups of
  []
 
 File: ./figures/chemistry/Electron_dot.png Graphic file (type bmp)
 <./figures/chemistry/Electron_dot.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
+Underfull \hbox (badness 10000) in paragraph at lines 646--646
 [][][][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [
 ] [][][][][][][][] [] [][][][] [] [][][][][][] [] [][][][] []
  []
 
-[28]
+
+Underfull \hbox (badness 1430) in paragraph at lines 649--650
+\TU/LucidaGrande(0)/m/n/10 bonds can be explained by quantum theory, but, in
+ []
+
+File: ./figures/chemistry/NaF.png Graphic file (type bmp)
+<./figures/chemistry/NaF.png>
+File: ./figures/chemistry/Covalent_bond_hydrogen.png Graphic file (type bmp)
+<./figures/chemistry/Covalent_bond_hydrogen.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 674--674
+[][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
+[][][][] [] [][][][] [] [][][][][][][][] [] [][][][] [] [][][][][][][][] []
+ []
+
+[33]
 File: ./figures/chemistry/Energy_and_life.png Graphic file (type bmp)
 <./figures/chemistry/Energy_and_life.png>
 File: ./figures/chemistry/Joules_Apparatus_Harpers_Scan.png Graphic file (type 
 bmp)
 <./figures/chemistry/Joules_Apparatus_Harpers_Scan.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--184
+Underfull \hbox (badness 10000) in paragraph at lines 719--719
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][] [] [][][] [] [][][][][][][][][] []
  []
 
-[29]
+[34]
 File: ./figures/bioenergetics/Activation2_updated.png Graphic file (type bmp)
 <./figures/bioenergetics/Activation2_updated.png>
- [30]
-Underfull \hbox (badness 1946) in paragraph at lines 225--226
+
+Underfull \vbox (badness 2020) has occurred while \output is active []
+
+ [35]
+Underfull \hbox (badness 1946) in paragraph at lines 760--761
 []\TU/LucidaGrande(0)/m/n/10 A chemical reaction can be symbolically depicted
  []
 
 
-Underfull \hbox (badness 3417) in paragraph at lines 225--226
+Underfull \hbox (badness 3417) in paragraph at lines 760--761
 \TU/LucidaGrande(0)/m/n/10 Thus, during any chemical reaction and low-energy
  []
 
@@ -1900,56 +1944,63 @@ File: ./figures/chemistry/Hydroxonium-cation.png Graphic file (type bmp)
 File: ./figures/chemistry/Hydroxide_lone_pairs-2D.png Graphic file (type bmp)
 <./figures/chemistry/Hydroxide_lone_pairs-2D.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--258
+Underfull \hbox (badness 10000) in paragraph at lines 793--793
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][][][][][] [] [][][][] [] [][][][][][][][][] []
 
  []
 
-[31]
-Underfull \hbox (badness 1342) in paragraph at lines 263--264
+[36]
+Underfull \hbox (badness 1342) in paragraph at lines 798--799
 \TU/LucidaGrande(0)/m/n/10 One measurement, based on the Arrhenius definition
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 263--264
+Underfull \hbox (badness 1424) in paragraph at lines 798--799
 \TU/LucidaGrande(0)/m/n/10 of acidity, is pH. The other measurement, based on
  []
 
-[32]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[37]
 Missing character: There is no ⇌ in font Lucida Grande/AAT:mapping=tex-text;!
 Missing character: There is no ⇌ in font Lucida Grande/AAT:mapping=tex-text;!
 
-Underfull \hbox (badness 2781) in paragraph at lines 344--345
+Underfull \hbox (badness 2781) in paragraph at lines 879--880
 \TU/LucidaGrande(0)/m/n/10 reactions in which atoms have their oxidation state
  []
 
-[33]
-Underfull \hbox (badness 4156) in paragraph at lines 360--361
+[38]
+Underfull \hbox (badness 4156) in paragraph at lines 895--896
 \TU/LucidaGrande(0)/m/n/10 gaining electrons, while the carbon atoms undergo
  []
 
-[34] [35]
+[39] [40]
 File: ./figures/chemistry/3D_model_hydrogen_bonds_in_water.png Graphic file (ty
 pe bmp)
 <./figures/chemistry/3D_model_hydrogen_bonds_in_water.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 430--430
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][] [] [][][][][] [] [][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 430--430
-[]\TU/LucidaGrande(0)/b/n/10 Figure 2.10: |\TU/LucidaGrande(0)/m/n/10 Model of 
+Underfull \hbox (badness 1688) in paragraph at lines 967--967
+[]\TU/LucidaGrande(0)/b/n/10 Figure 2.14: |\TU/LucidaGrande(0)/m/n/10 Model of 
 hydrogen bonds (1) between
  []
 
 Missing character: There is no ⇆ in font Lucida Grande/AAT:mapping=tex-text;!
-) [36]
+) [41]
 \openout2 = `organic_chemistry.aux'.
 
- (./organic_chemistry.tex
+ (./organic_chemistry.tex [42
+
+
+
+]
 Chapter 3.
 
 Underfull \hbox (badness 1082) in paragraph at lines 6--7
@@ -2022,11 +2073,7 @@ Underfull \hbox (badness 1394) in paragraph at lines 27--28
 by
  []
 
-[37
-
-
-
-]
+[43]
 Underfull \hbox (badness 1609) in paragraph at lines 36--37
 \TU/LucidaGrande(0)/m/n/10 assumed, within limits, to be the same in a variety
  []
@@ -2045,238 +2092,238 @@ Underfull \hbox (badness 1924) in paragraph at lines 36--37
 
 File: ./figures/chemistry/functional_groups.png Graphic file (type bmp)
 <./figures/chemistry/functional_groups.png>
-[38] [39]
-Underfull \hbox (badness 1184) in paragraph at lines 81--82
+[44] [45]
+Underfull \hbox (badness 1184) in paragraph at lines 82--83
 \TU/LucidaGrande(0)/m/n/10 include large macromolecules (or polyanions) such as
 
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 81--82
+Underfull \hbox (badness 1043) in paragraph at lines 82--83
 \TU/LucidaGrande(0)/m/n/10 as small molecules such as primary metabolites, sec-
 
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 81--82
+Underfull \hbox (badness 1590) in paragraph at lines 82--83
 \TU/LucidaGrande(0)/m/n/10 the organism but organisms usually need exogenous
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 83--84
+Underfull \hbox (badness 3138) in paragraph at lines 84--85
 \TU/LucidaGrande(0)/m/n/10 biomolecules are organic compounds, and just four
  []
 
 
-Underfull \hbox (badness 2922) in paragraph at lines 83--84
+Underfull \hbox (badness 2922) in paragraph at lines 84--85
 \TU/LucidaGrande(0)/m/n/10 elements—oxygen, carbon, hydrogen, and nitrogen—
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 89--90
+Underfull \hbox (badness 1895) in paragraph at lines 90--91
 []\TU/LucidaGrande(0)/m/n/10 Macromolecules are large molecules composed of
  []
 
-[40
+[46
 
 
-] [41]
-Underfull \hbox (badness 1189) in paragraph at lines 121--122
+] [47]
+Underfull \hbox (badness 1189) in paragraph at lines 122--123
 []\TU/LucidaGrande(0)/m/n/10 A linear chain of amino acid residues is called a
  []
 
 
-Underfull \hbox (badness 3838) in paragraph at lines 121--122
+Underfull \hbox (badness 3838) in paragraph at lines 122--123
 \TU/LucidaGrande(0)/m/n/10 can include selenocysteine and—in certain archaea—
  []
 
 File: ./figures/chemistry/Peptide-Figure-Revised.png Graphic file (type bmp)
 <./figures/chemistry/Peptide-Figure-Revised.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 1360) in paragraph at lines 136--137
+Underfull \hbox (badness 1360) in paragraph at lines 137--138
 \TU/LucidaGrande(0)/m/n/10 cell signaling, immune responses, cell adhesion, and
 
  []
 
-[42
+[48
 
 
 ]
-Underfull \hbox (badness 3942) in paragraph at lines 144--145
+Underfull \hbox (badness 3942) in paragraph at lines 145--146
 \TU/LucidaGrande(0)/m/n/10 Agricultural Experiment Station a detailed review of
 
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 144--145
+Underfull \hbox (badness 1087) in paragraph at lines 145--146
 \TU/LucidaGrande(0)/m/n/10 the vegetable proteins was compiled by Thomas Burr
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 144--145
+Underfull \hbox (badness 1264) in paragraph at lines 145--146
 \TU/LucidaGrande(0)/m/n/10 Justus von Liebig’s[][][] law of the minimum in feed
 ing
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 148--149
+Underfull \hbox (badness 1442) in paragraph at lines 149--150
 \TU/LucidaGrande(0)/m/n/10 diction of regular protein secondary structures base
 d
  []
 
 
-Underfull \hbox (badness 2707) in paragraph at lines 148--149
+Underfull \hbox (badness 2707) in paragraph at lines 149--150
 \TU/LucidaGrande(0)/m/n/10 Linderstrøm-Lang[][][], contributed an understanding
  of
  []
 
 
-Underfull \hbox (badness 6268) in paragraph at lines 152--153
+Underfull \hbox (badness 6268) in paragraph at lines 153--154
 []\TU/LucidaGrande(0)/m/n/10 The first protein structures to be solved were
  []
 
-[43]
-Underfull \hbox (badness 1024) in paragraph at lines 168--169
+[49]
+Underfull \hbox (badness 1024) in paragraph at lines 169--170
 \TU/LucidaGrande(0)/m/n/10 daltons (synonymous with atomic mass units), or the
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 173--174
+Underfull \hbox (badness 1735) in paragraph at lines 174--175
 \TU/LucidaGrande(0)/m/n/10 into which a protein naturally folds is known as its
 
  []
 
 
-Underfull \hbox (badness 5133) in paragraph at lines 180--182
+Underfull \hbox (badness 5133) in paragraph at lines 181--183
 []\TU/LucidaGrande(0)/m/n/10 Secondary structure: regularly repeating local
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 180--182
+Underfull \hbox (badness 1389) in paragraph at lines 181--183
 \TU/LucidaGrande(0)/m/n/10 regions of different secondary structure can be
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 182--184
+Underfull \hbox (badness 2600) in paragraph at lines 183--185
 \TU/LucidaGrande(0)/m/n/10 core, but also through salt bridges, hydrogen
  []
 
-[44]
+[50]
 File: ./figures/chemistry/Protein_structure.png Graphic file (type bmp)
 <./figures/chemistry/Protein_structure.png>
 
-Underfull \hbox (badness 6526) in paragraph at lines 202--203
+Underfull \hbox (badness 6526) in paragraph at lines 203--204
 \TU/LucidaGrande(0)/m/n/10 globular proteins, fibrous proteins, and membrane
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 206--207
+Underfull \hbox (badness 1661) in paragraph at lines 207--208
 \TU/LucidaGrande(0)/m/n/10 structural units. Domains usually also have specific
 
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 213--214
+Underfull \hbox (badness 2334) in paragraph at lines 214--215
 \TU/LucidaGrande(0)/m/n/10 carrying out the duties specified by the information
 
  []
 
-[45]
-Underfull \hbox (badness 1331) in paragraph at lines 234--235
+[51]
+Underfull \hbox (badness 1331) in paragraph at lines 235--236
 []\TU/LucidaGrande(0)/m/n/10 Transmembrane proteins can also serve as ligand
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
 \TU/LucidaGrande(0)/m/n/10 Structural proteins confer stiffness and rigidity to
 
  []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 239--240
+Underfull \hbox (badness 1552) in paragraph at lines 240--241
 \TU/LucidaGrande(0)/m/n/10 structures such as hair, nails, feathers, hooves, an
 d
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 246--247
+Underfull \hbox (badness 1122) in paragraph at lines 247--248
 \TU/LucidaGrande(0)/m/n/10 C$[]$H$[]$O$[]$. The carbohydrates are technically h
 ydrates
  []
 
 
-Underfull \vbox (badness 7888) has occurred while \output is active []
+Underfull \vbox (badness 3323) has occurred while \output is active []
 
- [46]
+ [52]
 File: ./figures/chemistry/Saccharose2.png Graphic file (type bmp)
 <./figures/chemistry/Saccharose2.png>
 
-Underfull \hbox (badness 5231) in paragraph at lines 261--262
+Underfull \hbox (badness 5231) in paragraph at lines 262--263
 []\TU/LucidaGrande(0)/m/n/10 Carbohydrates perform numerous roles in living
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 261--262
+Underfull \hbox (badness 1394) in paragraph at lines 262--263
 \TU/LucidaGrande(0)/m/n/10 organisms. Polysaccharides serve for the storage of
  []
 
 
-Underfull \hbox (badness 1325) in paragraph at lines 261--262
+Underfull \hbox (badness 1325) in paragraph at lines 262--263
 \TU/LucidaGrande(0)/m/n/10 The 5-carbon monosaccharide ribose is an important
  []
 
 
-Underfull \hbox (badness 5022) in paragraph at lines 261--262
+Underfull \hbox (badness 5022) in paragraph at lines 262--263
 \TU/LucidaGrande(0)/m/n/10 and their derivatives include many other important
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 271--272
+Underfull \hbox (badness 1565) in paragraph at lines 272--273
 \TU/LucidaGrande(0)/m/n/10 charide has the structure H–(CHOH)$[]$(C=O)–(CHOH)$[
 ]$–H,
  []
 
 
-Underfull \hbox (badness 1960) in paragraph at lines 271--272
+Underfull \hbox (badness 1960) in paragraph at lines 272--273
 \TU/LucidaGrande(0)/m/n/10 (e.g. uronic acids and deoxy-sugars such as fucose)
  []
 
-[47]
-Underfull \hbox (badness 6220) in paragraph at lines 279--280
+[53]
+Underfull \hbox (badness 6220) in paragraph at lines 280--281
 []\TU/LucidaGrande(0)/m/n/10 Monosaccharides are the major fuel source for
  []
 
 
-Underfull \hbox (badness 4048) in paragraph at lines 279--280
+Underfull \hbox (badness 4048) in paragraph at lines 280--281
 \TU/LucidaGrande(0)/m/n/10 metabolism, being used both as an energy source
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 279--280
+Underfull \hbox (badness 1394) in paragraph at lines 280--281
 \TU/LucidaGrande(0)/m/n/10 (glucose being the most important in nature) and in
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 279--280
+Underfull \hbox (badness 1383) in paragraph at lines 280--281
 \TU/LucidaGrande(0)/m/n/10 is used for the same purpose. The most abundant
  []
 
 File: ./figures/chemistry/Beta-D-Lactose.png Graphic file (type bmp)
 <./figures/chemistry/Beta-D-Lactose.png>
 
-Underfull \hbox (badness 4060) in paragraph at lines 311--312
+Underfull \hbox (badness 4060) in paragraph at lines 312--313
 \TU/LucidaGrande(0)/m/n/10 In biology and biochemistry, a lipid[][][] is a macr
 o-
  []
 
 
-Underfull \hbox (badness 1701) in paragraph at lines 311--312
+Underfull \hbox (badness 1701) in paragraph at lines 312--313
 \TU/LucidaGrande(0)/m/n/10 other naturally occurring hydrocarbon lipid molecule
 s
  []
@@ -2284,108 +2331,108 @@ s
 File: ./figures/chemistry/Lipids.png Graphic file (type bmp)
 <./figures/chemistry/Lipids.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--321
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][][] [] [][][][][][] [] [][][][][] []
  []
 
 
-Underfull \hbox (badness 2903) in paragraph at lines 324--325
+Underfull \hbox (badness 2903) in paragraph at lines 325--326
 \TU/LucidaGrande(0)/m/n/10 naling, and acting as structural components of cell
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 326--327
+Underfull \hbox (badness 1776) in paragraph at lines 327--328
 \TU/LucidaGrande(0)/m/n/10 subunits or “building-blocks”: ketoacyl and isoprene
 
  []
 
-[48]
-Underfull \hbox (badness 1565) in paragraph at lines 328--329
+[54]
+Underfull \hbox (badness 1565) in paragraph at lines 329--330
 \TU/LucidaGrande(0)/m/n/10 triglycerides. Lipids also encompass molecules such
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 328--329
+Underfull \hbox (badness 5985) in paragraph at lines 329--330
 \TU/LucidaGrande(0)/m/n/10 as fatty acids and their derivatives (including tri-
 ,
  []
 
 
-Underfull \hbox (badness 2486) in paragraph at lines 328--329
+Underfull \hbox (badness 2486) in paragraph at lines 329--330
 \TU/LucidaGrande(0)/m/n/10 di-, monoglycerides, and phospholipids), as well as
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 340--341
+Underfull \hbox (badness 3872) in paragraph at lines 341--342
 \TU/LucidaGrande(0)/m/n/10 acid, the most abundant fatty-acyl chains of plant
  []
 
-[49]
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 []\TU/LucidaGrande(0)/m/n/10 Eukaryotic cells feature the compartmentalized
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 348--349
+Underfull \hbox (badness 1199) in paragraph at lines 349--350
 \TU/LucidaGrande(0)/m/n/10 of organelles; in animal cells, the plasma membrane
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 348--349
+Underfull \hbox (badness 2418) in paragraph at lines 349--350
 \TU/LucidaGrande(0)/m/n/10 sulfoquinovosyldiacylglycerol, which lack a phosphat
 e
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 348--349
+Underfull \hbox (badness 3068) in paragraph at lines 349--350
 \TU/LucidaGrande(0)/m/n/10 group, are important components of membranes of
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 348--349
+Underfull \hbox (badness 1205) in paragraph at lines 349--350
 \TU/LucidaGrande(0)/m/n/10 chloroplasts and related organelles and are the most
 
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 356--357
+Underfull \hbox (badness 1371) in paragraph at lines 357--358
 \TU/LucidaGrande(0)/m/n/10 in animals, with breakdown controlled mainly by the
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 356--357
+Underfull \hbox (badness 1831) in paragraph at lines 357--358
 \TU/LucidaGrande(0)/m/n/10 activation of hormone-sensitive enzyme lipase. The
  []
 
 File: ./figures/chemistry/simple_triglyceride.png Graphic file (type bmp)
 <./figures/chemistry/simple_triglyceride.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 366--366
+Underfull \hbox (badness 10000) in paragraph at lines 367--367
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][] [] [][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 369--370
+Underfull \hbox (badness 2302) in paragraph at lines 370--371
 \TU/LucidaGrande(0)/m/n/10 (DAG) and the phosphatidylinositol phosphates (PIPs)
 ,
  []
 
-[50]
-Underfull \hbox (badness 1314) in paragraph at lines 371--372
+[56]
+Underfull \hbox (badness 1314) in paragraph at lines 372--373
 \TU/LucidaGrande(0)/m/n/10 diphosphate sugars function in extra-cytoplasmic gly
 -
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
 \TU/LucidaGrande(0)/m/n/10 cosylation reactions, in extracellular polysaccharid
 e
  []
 
 
-Underfull \hbox (badness 6575) in paragraph at lines 371--372
+Underfull \hbox (badness 6575) in paragraph at lines 372--373
 \TU/LucidaGrande(0)/m/n/10 Cardiolipins are a subclass of glycerophospholipids
  []
 
@@ -2393,52 +2440,52 @@ Underfull \hbox (badness 6575) in paragraph at lines 371--372
 Underfull \vbox (badness 1436) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
 []\TU/LucidaGrande(0)/m/n/10 Nucleic acids are the most important of all
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 378--379
+Underfull \hbox (badness 1655) in paragraph at lines 379--380
 \TU/LucidaGrande(0)/m/n/10 biomolecules. These are found in abundance in all
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 380--381
+Underfull \hbox (badness 1264) in paragraph at lines 381--382
 []\TU/LucidaGrande(0)/m/n/10 Strings of nucleotides are bonded to form helical
  []
 
-[51]
-Underfull \hbox (badness 3386) in paragraph at lines 384--385
+[57]
+Underfull \hbox (badness 3386) in paragraph at lines 385--386
 []\TU/LucidaGrande(0)/m/n/10 Nucleic acids are generally very large molecules.
  []
 
 
-Underfull \hbox (badness 2285) in paragraph at lines 388--389
+Underfull \hbox (badness 2285) in paragraph at lines 389--390
 []\TU/LucidaGrande(0)/m/n/10 Nucleic acids are linear polymers (chains) of nu-
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 388--389
+Underfull \hbox (badness 6477) in paragraph at lines 389--390
 \TU/LucidaGrande(0)/m/n/10 nucleotides–DNA contains 2’-deoxyribose while RNA
  []
 
 
-Underfull \hbox (badness 2753) in paragraph at lines 390--391
+Underfull \hbox (badness 2753) in paragraph at lines 391--392
 []\TU/LucidaGrande(0)/m/n/10 The sugars and phosphates in nucleic acids are
  []
 
 
-Underfull \hbox (badness 2818) in paragraph at lines 390--391
+Underfull \hbox (badness 2818) in paragraph at lines 391--392
 \TU/LucidaGrande(0)/m/n/10 In conventional nomenclature, the carbons to which
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 390--391
+Underfull \hbox (badness 1122) in paragraph at lines 391--392
 \TU/LucidaGrande(0)/m/n/10 the phosphate groups attach are the 3’-end and the
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 395--396
+Underfull \hbox (badness 1412) in paragraph at lines 396--397
 \TU/LucidaGrande(0)/m/n/10 segments carrying this genetic information are calle
 d
  []
@@ -2448,13 +2495,13 @@ File: ./figures/dna/dna_licorice.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [52])
-[53
+ [58])
+[59
 
 ]
 \openout2 = `cell_structure.aux'.
 
- (./cell_structure.tex [54
+ (./cell_structure.tex [60
 
 
 
@@ -2471,7 +2518,7 @@ Underfull \hbox (badness 2359) in paragraph at lines 23--24
 []\TU/LucidaGrande(0)/m/n/10 Schleiden’s theory of free cell formation through
  []
 
-[55]
+[61]
 Underfull \hbox (badness 2253) in paragraph at lines 54--55
 \TU/LucidaGrande(0)/m/n/10 simple microscopes (magnifying glasses) with limited
 
@@ -2506,12 +2553,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--86
 [][][][] [] [][][][] []
  []
 
-[56]
+[62]
 Underfull \hbox (badness 2903) in paragraph at lines 107--109
 \TU/LucidaGrande(0)/m/n/10 region that appears as fibrous deposits under
  []
 
-[57]
+[63]
 Underfull \hbox (badness 3815) in paragraph at lines 109--111
 \TU/LucidaGrande(0)/m/n/10 they have distinct nuclei bound by a nuclear
  []
@@ -2558,7 +2605,7 @@ Underfull \hbox (badness 4084) in paragraph at lines 120--121
 
 File: ./figures/cells/Prokaryote_cell.png Graphic file (type bmp)
 <./figures/cells/Prokaryote_cell.png>
-[58]
+[64]
 Underfull \hbox (badness 1052) in paragraph at lines 144--146
 \TU/LucidaGrande(0)/m/n/10 found in the cytoplasm. Prokaryotes can carry
  []
@@ -2597,9 +2644,9 @@ Underfull \hbox (badness 1412) in paragraph at lines 180--181
 ce.
  []
 
-[59] [60
+[65] [66
 
-] [61]
+] [67]
 Underfull \hbox (badness 1019) in paragraph at lines 222--223
 \TU/LucidaGrande(0)/m/n/10 in and out (selectively permeable), and maintains th
 e
@@ -2635,7 +2682,7 @@ Underfull \hbox (badness 1354) in paragraph at lines 247--248
 \TU/LucidaGrande(0)/m/n/10 a muscle, within each muscle cell, myosin molecular
  []
 
-[62
+[68
 
 
 ]
@@ -2659,7 +2706,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 285--285
 
 File: ./figures/cells/Microtubule_Structure.png Graphic file (type bmp)
 <./figures/cells/Microtubule_Structure.png>
-[63] [64]
+[69] [70]
 Underfull \hbox (badness 2680) in paragraph at lines 331--333
 []\TU/LucidaGrande(0)/m/n/10 Golgi apparatus: The primary function of the
  []
@@ -2696,7 +2743,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 366--366
 [][][][] [] [][][][] []
  []
 
-[65]
+[71]
 File: ./figures/cells/Micrograph_of_a_cell_nucleus.png Graphic file (type bmp)
 <./figures/cells/Micrograph_of_a_cell_nucleus.png>
 
@@ -2736,7 +2783,7 @@ Underfull \hbox (badness 3536) in paragraph at lines 406--407
 \TU/LucidaGrande(0)/m/n/10 membrane, consists of two cellular membranes, an
  []
 
-[66]
+[72]
 Underfull \hbox (badness 5681) in paragraph at lines 408--409
 []\TU/LucidaGrande(0)/m/n/10 Nuclear pores, which provide aqueous channels
  []
@@ -2766,7 +2813,7 @@ Underfull \hbox (badness 1859) in paragraph at lines 425--426
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [67]
+ [73]
 File: ./figures/cells/Mitochondria_mammalian_lung_TEM.jpg Graphic file (type bm
 p)
 <./figures/cells/Mitochondria_mammalian_lung_TEM.jpg>
@@ -2818,7 +2865,7 @@ Underfull \hbox (badness 2213) in paragraph at lines 504--505
 \TU/LucidaGrande(0)/m/n/10 the energy-storage molecules ATP and NADPH while
  []
 
-[68]
+[74]
 File: ./figures/cells/Chloroplast_mini.png Graphic file (type bmp)
 <./figures/cells/Chloroplast_mini.png>
 Missing character: There is no ◄ in font Lucida Grande/AAT:mapping=tex-text;!
@@ -2853,7 +2900,7 @@ Underfull \hbox (badness 1331) in paragraph at lines 529--530
 \TU/LucidaGrande(0)/m/n/10 though the most common and important is RuBisCO,
  []
 
-[69]
+[75]
 Underfull \hbox (badness 1062) in paragraph at lines 535--536
 \TU/LucidaGrande(0)/m/n/10 electrons. Molecules in the thylakoid membrane use
  []
@@ -2886,7 +2933,7 @@ Underfull \hbox (badness 1132) in paragraph at lines 553--554
 s
  []
 
-[70]
+[76]
 Underfull \hbox (badness 4765) in paragraph at lines 562--563
 \TU/LucidaGrande(0)/m/n/10 smooth endoplasmic reticulum lacks ribosomes and
  []
@@ -2903,7 +2950,7 @@ Underfull \hbox (badness 1596) in paragraph at lines 577--578
 
  []
 
-[71]
+[77]
 File: ./figures/cells/Endomembrane_system_diagram_en.png Graphic file (type bmp
 )
 <./figures/cells/Endomembrane_system_diagram_en.png>
@@ -2920,7 +2967,7 @@ Underfull \hbox (badness 1715) in paragraph at lines 615--616
 []\TU/LucidaGrande(0)/m/n/10 A gelatinous capsule is present in some bacteria
  []
 
-[72]
+[78]
 Underfull \hbox (badness 1577) in paragraph at lines 638--639
 \TU/LucidaGrande(0)/m/n/10 Between successive cell divisions, cells grow throug
 h
@@ -2945,7 +2992,7 @@ y
 
 Underfull \vbox (badness 1917) has occurred while \output is active []
 
- [73]
+ [79]
 Underfull \hbox (badness 1796) in paragraph at lines 663--664
 \TU/LucidaGrande(0)/m/n/10 There are several theories about the origin of small
 
@@ -2974,7 +3021,7 @@ Underfull \hbox (badness 2818) in paragraph at lines 670--671
 h
  []
 
-) [74
+) [80
 
 ]
 \openout2 = `membrane_structure.aux'.
@@ -3018,7 +3065,7 @@ Underfull \hbox (badness 2717) in paragraph at lines 14--14
 e (1-
  []
 
-[75
+[81
 
 
 
@@ -3055,7 +3102,7 @@ Underfull \hbox (badness 6758) in paragraph at lines 27--28
 []\TU/LucidaGrande(0)/m/n/10 Cell membranes contain a variety of biological
  []
 
-[76]
+[82]
 Underfull \hbox (badness 3364) in paragraph at lines 41--42
 \TU/LucidaGrande(0)/m/n/10 membrane lipids, where it confers a stiffening and
  []
@@ -3082,9 +3129,9 @@ Underfull \hbox (badness 1210) in paragraph at lines 45--46
 []\TU/LucidaGrande(0)/m/n/10 The cell membrane has large content of proteins,
  []
 
-[77] [78
+[83] [84
 
-] [79]
+] [85]
 Underfull \hbox (badness 1675) in paragraph at lines 71--71
 []\TU/LucidaGrande(0)/b/n/14.4 Structure And Function of The
  []
@@ -3137,7 +3184,7 @@ Underfull \hbox (badness 1102) in paragraph at lines 90--90
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [80
+ [86
 
 
 ]
@@ -3162,7 +3209,7 @@ Underfull \hbox (badness 1509) in paragraph at lines 113--114
 ll
  []
 
-[81]
+[87]
 Underfull \hbox (badness 3049) in paragraph at lines 118--119
 \TU/LucidaGrande(0)/m/n/10 composed of numerous membrane-bound organelles,
  []
@@ -3197,7 +3244,7 @@ Underfull \hbox (badness 2080) in paragraph at lines 135--136
 \TU/LucidaGrande(0)/m/n/10 cell membrane results in pH partition of substances
  []
 
-[82]
+[88]
 Underfull \hbox (badness 1189) in paragraph at lines 164--165
 \TU/LucidaGrande(0)/m/n/10 enter the cell via signal mediated electrolysis incl
 ude
@@ -3226,7 +3273,7 @@ Underfull \hbox (badness 2005) in paragraph at lines 180--181
 ll
  []
 
-[83]
+[89]
 Underfull \hbox (badness 2012) in paragraph at lines 196--197
 []\TU/LucidaGrande(0)/m/n/10 Glycosaminoglycans (GAGs) are carbohydrate poly-
  []
@@ -3241,7 +3288,7 @@ Underfull \hbox (badness 2970) in paragraph at lines 200--201
 \TU/LucidaGrande(0)/m/n/10 and these tissues contain high amounts of elastins.
  []
 
-[84] [85]
+[90] [91]
 File: ./figures/membrane/Cell_junction_simplified_en.png Graphic file (type bmp
 )
 <./figures/membrane/Cell_junction_simplified_en.png>
@@ -3280,7 +3327,7 @@ Underfull \hbox (badness 1546) in paragraph at lines 289--290
 \TU/LucidaGrande(0)/m/n/10 to the immunoglobulin-like domains on an opposing
  []
 
-) [86]
+) [92]
 \openout2 = `bioenergetics.aux'.
 
  (./bioenergetics.tex
@@ -3323,7 +3370,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--20
 
 Underfull \vbox (badness 1292) has occurred while \output is active []
 
- [87
+ [93
 
 
 
@@ -3352,7 +3399,7 @@ Underfull \hbox (badness 2707) in paragraph at lines 34--35
 \TU/LucidaGrande(0)/m/n/10 function of the chemical processes underlying these
  []
 
-[88]
+[94]
 Underfull \hbox (badness 2035) in paragraph at lines 46--47
 \TU/LucidaGrande(0)/m/n/10 reaction pathway. The relative importance of these
  []
@@ -3387,7 +3434,7 @@ Underfull \hbox (badness 1838) in paragraph at lines 74--76
 \TU/LucidaGrande(0)/m/n/10 is far greater in warm-blooded animals, which
  []
 
-[89]
+[95]
 File: ./figures/bioenergetics/Metabolism.png Graphic file (type bmp)
 <./figures/bioenergetics/Metabolism.png>
 
@@ -3401,13 +3448,13 @@ Underfull \hbox (badness 2393) in paragraph at lines 107--108
 .
  []
 
-[90] [91
+[96] [97
 
 ]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[92]
+[98]
 Underfull \hbox (badness 2310) in paragraph at lines 132--133
 []\TU/LucidaGrande(0)/m/n/10 In these early studies, the mechanisms of these
  []
@@ -3432,7 +3479,7 @@ Underfull \hbox (badness 1005) in paragraph at lines 157--158
 .
  []
 
-[93
+[99
 
 
 ]
@@ -3456,7 +3503,7 @@ Underfull \hbox (badness 2772) in paragraph at lines 183--184
 are
  []
 
-[94]
+[100]
 Underfull \hbox (badness 2302) in paragraph at lines 192--193
 []\TU/LucidaGrande(0)/m/n/10 In plants, algae, and cyanobacteria, photosystem
  []
@@ -3493,7 +3540,7 @@ Underfull \hbox (badness 1715) in paragraph at lines 199--200
 \TU/LucidaGrande(0)/m/n/10 and chemoheterotrophs obtain energy from inorganic
  []
 
-[95]
+[101]
 Underfull \hbox (badness 1163) in paragraph at lines 223--224
 \TU/LucidaGrande(0)/m/n/10 be made in different ways. In animals and archaea,
  []
@@ -3503,7 +3550,7 @@ Underfull \hbox (badness 3838) in paragraph at lines 223--224
 \TU/LucidaGrande(0)/m/n/10 the mevalonate pathway produces these compounds
  []
 
-[96]
+[102]
 Underfull \hbox (badness 1783) in paragraph at lines 244--245
 []\TU/LucidaGrande(0)/m/n/10 The molecules upon which enzymes may act are
  []
@@ -3537,13 +3584,13 @@ Underfull \hbox (badness 1082) in paragraph at lines 267--268
 \TU/LucidaGrande(0)/m/n/10 who worked on the digestive enzymes pepsin (1930),
  []
 
-[97]
+[103]
 Underfull \hbox (badness 1052) in paragraph at lines 285--286
 \TU/LucidaGrande(0)/m/n/10 of different physiologically relevant substrates. Ma
 ny
  []
 
-[98]
+[104]
 Underfull \hbox (badness 5077) in paragraph at lines 308--309
 []\TU/LucidaGrande(0)/m/n/10 By orienting the substrates into a productive
  []
@@ -3573,13 +3620,13 @@ Underfull \hbox (badness 1043) in paragraph at lines 331--332
 \TU/LucidaGrande(0)/m/n/10 are derived from vitamins. These coenzymes cannot
  []
 
-[99]
+[105]
 Underfull \hbox (badness 2512) in paragraph at lines 364--365
 \TU/LucidaGrande(0)/m/n/10 these types of inhibitors are most effective at high
 
  []
 
-[100]
+[106]
 Underfull \hbox (badness 2846) in paragraph at lines 385--386
 \TU/LucidaGrande(0)/m/n/10 ways. Without enzymes, metabolism would neither
  []
@@ -3620,7 +3667,7 @@ Underfull \hbox (badness 2671) in paragraph at lines 407--408
 \TU/LucidaGrande(0)/m/n/10 activity. In contrast to partitioning into membrane
  []
 
-[101]
+[107]
 Underfull \hbox (badness 1762) in paragraph at lines 417--418
 \TU/LucidaGrande(0)/m/n/10 to carry chemical groups between different reactions
 .
@@ -3649,12 +3696,12 @@ Underfull \hbox (badness 1577) in paragraph at lines 421--422
 
  []
 
-[102]) [103
+[108]) [109
 
 ]
 \openout2 = `photosynthesis_respiration.aux'.
 
- (./photosynthesis_respiration.tex [104
+ (./photosynthesis_respiration.tex [110
 
 
 
@@ -3671,7 +3718,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--36
 [][][][] [] [][][][] [] [][][][][][][][][][][][][] [] [][][][][][][][] []
  []
 
-[105]
+[111]
 Underfull \hbox (badness 1067) in paragraph at lines 43--44
 []\TU/LucidaGrande(0)/m/n/10 The formation of adenosine triphosphate (ATP) by
  []
@@ -3709,7 +3756,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--71
 [][][][] [] [][][][] [] [][][][][][][][][][][] [] [][] []
  []
 
-[106]
+[112]
 Underfull \hbox (badness 1365) in paragraph at lines 78--79
 \TU/LucidaGrande(0)/m/n/10 means that they are able to synthesize food directly
 
@@ -3741,7 +3788,7 @@ Underfull \hbox (badness 3780) in paragraph at lines 89--89
 []\TU/LucidaGrande(0)/b/n/12 Photosynthetic Membranes And Or-
  []
 
-[107]
+[113]
 File: ./figures/photosynthesis/Chloroplast.png Graphic file (type bmp)
 <./figures/photosynthesis/Chloroplast.png>
 
@@ -3757,7 +3804,7 @@ Underfull \hbox (badness 1072) in paragraph at lines 118--119
 
 File: ./figures/photosynthesis/Z-scheme.png Graphic file (type bmp)
 <./figures/photosynthesis/Z-scheme.png>
-[108]
+[114]
 File: ./figures/photosynthesis/Thylakoid_membrane_3.png Graphic file (type bmp)
 
 <./figures/photosynthesis/Thylakoid_membrane_3.png>
@@ -3833,7 +3880,7 @@ Underfull \hbox (badness 1675) in paragraph at lines 176--177
 \TU/LucidaGrande(0)/m/n/10 the glyceraldehyde 3-phosphate produced is used to
  []
 
-[109]
+[115]
 Underfull \hbox (badness 1924) in paragraph at lines 183--184
 []\TU/LucidaGrande(0)/m/n/10 RuBisCO oxygenase activity is disadvantageous to
  []
@@ -3884,7 +3931,7 @@ Underfull \hbox (badness 1552) in paragraph at lines 228--229
 \TU/LucidaGrande(0)/m/n/10 are C4 plants, including maize, sorghum, sugarcane,
  []
 
-[110]
+[116]
 Underfull \hbox (badness 4859) in paragraph at lines 243--243
 []\TU/LucidaGrande(0)/b/n/14.4 Symbiosis And The Origin of
  []
@@ -3906,14 +3953,14 @@ Underfull \hbox (badness 2856) in paragraph at lines 247--248
 \TU/LucidaGrande(0)/m/n/10 chromosome, prokaryotic-type ribosome, and similar
  []
 
-[111]
+[117]
 Underfull \hbox (badness 1831) in paragraph at lines 252--253
 \TU/LucidaGrande(0)/m/n/10 joined cyanobacteria as the major primary producers
  []
 
 File: ./figures/photosynthesis/CellRespiration.png Graphic file (type bmp)
 <./figures/photosynthesis/CellRespiration.png>
-[112]
+[118]
 File: ./figures/photosynthesis/Cellular_respiration.png Graphic file (type bmp)
 
 <./figures/photosynthesis/Cellular_respiration.png>
@@ -3952,7 +3999,7 @@ Underfull \hbox (badness 1184) in paragraph at lines 309--310
 
  []
 
-[113]
+[119]
 Underfull \hbox (badness 1377) in paragraph at lines 321--322
 \TU/LucidaGrande(0)/m/n/10 to become α-ketoglutarate (5 carbons), succinyl-CoA,
 
@@ -3964,12 +4011,12 @@ Underfull \hbox (badness 1028) in paragraph at lines 337--338
 
  []
 
-[114]) [115
+[120]) [121
 
 ]
 \openout2 = `cell_cycle.aux'.
 
- (./cell_cycle.tex [116
+ (./cell_cycle.tex [122
 
 
 
@@ -3989,18 +4036,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--23
 
  []
 
-[117]
+[123]
 Underfull \hbox (badness 1158) in paragraph at lines 58--59
 \TU/LucidaGrande(0)/m/n/10 G1 phase, S phase (synthesis), G2 phase (collectivel
 y
  []
 
-[118]
+[124]
 Overfull \hbox (9.56047pt too wide) in paragraph at lines 66--66
 []|\TU/LucidaGrande(0)/m/n/10 Abbreviation|  
  []
 
-[119]
+[125]
 Underfull \hbox (badness 2181) in paragraph at lines 123--124
 \TU/LucidaGrande(0)/m/n/10 proceeding to mitotic phase, cells must be checked
  []
@@ -4010,7 +4057,7 @@ Underfull \hbox (badness 1163) in paragraph at lines 123--124
 \TU/LucidaGrande(0)/m/n/10 at the G2checkpoint for any DNA damage within the
  []
 
-[120
+[126
 
 
 ]
@@ -4075,7 +4122,7 @@ Underfull \hbox (badness 1755) in paragraph at lines 179--180
 \TU/LucidaGrande(0)/m/n/10 Chromatin contains the vast majority of DNA, but a
  []
 
-[121]
+[127]
 File: ./figures/chromosomes/Chromatin_Structures.png Graphic file (type bmp)
 <./figures/chromosomes/Chromatin_Structures.png>
 
@@ -4102,16 +4149,16 @@ Underfull \hbox (badness 1158) in paragraph at lines 281--281
 []\TU/LucidaGrande(0)/b/n/12 Number of Chromosomes in Various
  []
 
-[122]
+[128]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Underfull \vbox (badness 3536) has occurred while \output is active []
 
- [123]
+ [129]
 
-LaTeX Warning: Reference `fig:cellcycle' on page 124 undefined on input line 36
+LaTeX Warning: Reference `fig:cellcycle' on page 130 undefined on input line 36
 2.
 
 
@@ -4126,12 +4173,12 @@ Underfull \hbox (badness 3861) in paragraph at lines 375--376
 
 File: ./figures/reproduction/Wilson1900Fig2.jpg Graphic file (type bmp)
 <./figures/reproduction/Wilson1900Fig2.jpg>
-[124]
+[130]
 Underfull \hbox (badness 10000) in paragraph at lines 398--399
 []\TU/LucidaGrande(0)/m/n/10 During mitotic progression, typically after the
  []
 
-[125]
+[131]
 File: ./figures/reproduction/ProphaseIF.jpg Graphic file (type bmp)
 <./figures/reproduction/ProphaseIF.jpg>
 File: ./figures/reproduction/Prometaphase.jpg Graphic file (type bmp)
@@ -4147,7 +4194,7 @@ Underfull \hbox (badness 3219) in paragraph at lines 451--452
 \TU/LucidaGrande(0)/m/n/10 kinetochores in prometaphase, the two centrosomes
  []
 
-[126]
+[132]
 File: ./figures/reproduction/MetaphaseIF.jpg Graphic file (type bmp)
 <./figures/reproduction/MetaphaseIF.jpg>
 
@@ -4162,7 +4209,7 @@ Underfull \hbox (badness 1648) in paragraph at lines 483--484
 \TU/LucidaGrande(0)/m/n/10 Mitosis is complete. Each daughter nucleus has an
  []
 
-[127]
+[133]
 File: ./figures/reproduction/TelophaseIF.jpg Graphic file (type bmp)
 <./figures/reproduction/TelophaseIF.jpg>
 
@@ -4197,7 +4244,7 @@ Underfull \hbox (badness 1466) in paragraph at lines 527--528
 \TU/LucidaGrande(0)/m/n/10 components. Many of the relevant genes were first
  []
 
-[128]
+[134]
 Underfull \hbox (badness 1960) in paragraph at lines 531--533
 \TU/LucidaGrande(0)/m/n/10 in turn promote the expression of S cyclins and of
  []
@@ -4234,7 +4281,7 @@ Underfull \hbox (badness 1735) in paragraph at lines 545--546
 
  []
 
-[129]
+[135]
 Underfull \hbox (badness 2005) in paragraph at lines 547--548
 []\TU/LucidaGrande(0)/m/n/10 The hyperphosphorylated Rb dissociates from the
  []
@@ -4249,10 +4296,10 @@ Underfull \hbox (badness 2173) in paragraph at lines 547--548
 \TU/LucidaGrande(0)/m/n/10 causes breakdown of nuclear envelope and initiation
  []
 
-[130]) [131]
+[136]) [137]
 \openout2 = `reproduction.aux'.
 
- (./reproduction.tex [132
+ (./reproduction.tex [138
 
 
 
@@ -4276,7 +4323,7 @@ Underfull \hbox (badness 1163) in paragraph at lines 37--37
 \TU/LucidaGrande(0)/m/n/10 mosomes exchange genetic information (chromosomal
  []
 
-[133]
+[139]
 Underfull \vbox (badness 2197) has occurred while \output is active []
 
 
@@ -4291,7 +4338,7 @@ Underfull \hbox (badness 2970) in paragraph at lines 50--51
 re
  []
 
-[134]
+[140]
 Underfull \hbox (badness 2359) in paragraph at lines 74--75
 []\TU/LucidaGrande(0)/m/n/10 Meiosis I and II are each divided into prophase,
  []
@@ -4323,7 +4370,7 @@ Underfull \hbox (badness 2556) in paragraph at lines 76--77
 
 File: ./figures/reproduction/Meiosis_Stages.png Graphic file (type bmp)
 <./figures/reproduction/Meiosis_Stages.png>
-[135]
+[141]
 Underfull \hbox (badness 3460) in paragraph at lines 101--102
 \TU/LucidaGrande(0)/m/n/10 and are visually indistinguishable from one another.
 
@@ -4355,12 +4402,12 @@ Underfull \hbox (badness 1057) in paragraph at lines 118--119
 ts
  []
 
-[136] [137] [138]
+[142] [143] [144]
 Overfull \hbox (7.69218pt too wide) in paragraph at lines 187--187
 []|\TU/LucidaGrande(0)/m/n/10 Tetrasomy/pentasomy|  
  []
 
-[139]
+[145]
 Underfull \hbox (badness 6141) in paragraph at lines 205--207
 \TU/LucidaGrande(0)/m/n/10 was so-named because affected babies make
  []
@@ -4405,7 +4452,7 @@ Underfull \hbox (badness 3439) in paragraph at lines 226--227
 []\TU/LucidaGrande(0)/m/n/10 Chromosome abnormalities are detected in 1 of
  []
 
-[140
+[146
 
 
 ]
@@ -4447,8 +4494,8 @@ Underfull \hbox (badness 2735) in paragraph at lines 280--281
 
 Underfull \vbox (badness 1259) has occurred while \output is active []
 
- [141])
-[142
+ [147])
+[148
 
 ]
 \openout2 = `mendelian_inheritance.aux'.
@@ -4473,7 +4520,7 @@ Underfull \hbox (badness 1776) in paragraph at lines 24--25
 \TU/LucidaGrande(0)/m/n/10 became known as Mendel’s Principles of Heredity or
  []
 
-[143
+[149
 
 
 
@@ -4498,7 +4545,7 @@ Underfull \hbox (badness 1383) in paragraph at lines 46--48
 \TU/LucidaGrande(0)/m/n/10 erozygotic individuals produce gametes with an
  []
 
-[144]
+[150]
 File: ./figures/mendel/Gregor_Mendel_-_characteristics_of_pea_plants_-_english.
 png Graphic file (type bmp)
 <./figures/mendel/Gregor_Mendel_-_characteristics_of_pea_plants_-_english.png>
@@ -4533,7 +4580,7 @@ Underfull \hbox (badness 1755) in paragraph at lines 101--102
 \TU/LucidaGrande(0)/m/n/10 randomly, or segregate, from each other during the
  []
 
-[145]
+[151]
 File: ./figures/mendel/Dominant-recessive_inheritance_P_-_F1_-_F2.png Graphic f
 ile (type bmp)
 <./figures/mendel/Dominant-recessive_inheritance_P_-_F1_-_F2.png>
@@ -4552,7 +4599,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--152
 [][][][] [] [][][][] [] [][][][][][][][][][][][] [] [][][][][][][][][][][] []
  []
 
-[146]
+[152]
 Underfull \hbox (badness 3769) in paragraph at lines 166--167
 \TU/LucidaGrande(0)/m/n/10 scientists independently, the German botanist Oscar
  []
@@ -4580,7 +4627,7 @@ Underfull \hbox (badness 2735) in paragraph at lines 190--191
 
 Underfull \vbox (badness 4013) has occurred while \output is active []
 
- [147]
+ [153]
 File: ./figures/mendel/Punnett.png Graphic file (type bmp)
 <./figures/mendel/Punnett.png>
 File: ./figures/mendel/PunnettF1.png Graphic file (type bmp)
@@ -4590,18 +4637,18 @@ File: ./figures/mendel/Monohybrid_cross.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [148]
+ [154]
 File: ./figures/mendel/Dihybrid_cross.png Graphic file (type bmp)
 <./figures/mendel/Dihybrid_cross.png>
 
 
-LaTeX Warning: Reference `tab:mendel' on page 149 undefined on input line 257.
+LaTeX Warning: Reference `tab:mendel' on page 155 undefined on input line 257.
 
 
 Underfull \vbox (badness 7613) has occurred while \output is active []
 
- [149])
-[150
+ [155])
+[156
 
 ]
 \openout2 = `molecular_biology.aux'.
@@ -4618,7 +4665,7 @@ Underfull \hbox (badness 1648) in paragraph at lines 10--11
 \TU/LucidaGrande(0)/m/n/10 discovered the phenomenon of transformation: dead
  []
 
-[151
+[157
 
 
 
@@ -4632,7 +4679,7 @@ Underfull \hbox (badness 1484) in paragraph at lines 45--46
 []\TU/LucidaGrande(0)/m/n/10 The two DNA strands are also known as polynu-
  []
 
-[152]
+[158]
 File: ./figures/dna/bases_hydrogen.png Graphic file (type bmp)
 <./figures/dna/bases_hydrogen.png>
 
@@ -4641,14 +4688,14 @@ Underfull \hbox (badness 1424) in paragraph at lines 62--63
 cis
  []
 
-[153]
+[159]
 File: ./figures/dna/dna_solid.png Graphic file (type bmp)
 <./figures/dna/dna_solid.png>
 File: ./figures/dna/Base_pair_GC.png Graphic file (type bmp)
 <./figures/dna/Base_pair_GC.png>
 File: ./figures/dna/Base_pair_AT.png Graphic file (type bmp)
 <./figures/dna/Base_pair_AT.png>
- [154]
+ [160]
 Underfull \hbox (badness 1028) in paragraph at lines 108--109
 \TU/LucidaGrande(0)/m/n/10 core around which DNA is wrapped in the chromatin
  []
@@ -4674,7 +4721,7 @@ Underfull \hbox (badness 2326) in paragraph at lines 115--116
 \TU/LucidaGrande(0)/m/n/10 processes that produce reactive oxygen species, the
  []
 
-[155]
+[161]
 Underfull \hbox (badness 3792) in paragraph at lines 117--118
 []\TU/LucidaGrande(0)/m/n/10 Many mutagens fit into the space between two
  []
@@ -4706,7 +4753,7 @@ Underfull \hbox (badness 1365) in paragraph at lines 126--127
 
  []
 
-[156]
+[162]
 File: ./figures/replication/DNA_replication_split.png Graphic file (type bmp)
 <./figures/replication/DNA_replication_split.png>
 
@@ -4719,7 +4766,7 @@ Underfull \hbox (badness 1173) in paragraph at lines 163--164
 []\TU/LucidaGrande(0)/m/n/10 In terms of structure, the replisome is composed
  []
 
-[157]
+[163]
 File: ./figures/replication/Eukaryotic_DNA_replication.png Graphic file (type b
 mp)
 <./figures/replication/Eukaryotic_DNA_replication.png>
@@ -4741,7 +4788,7 @@ Underfull \hbox (badness 2856) in paragraph at lines 206--207
 \TU/LucidaGrande(0)/m/n/10 constantly loaded, for generating Okazaki fragments
  []
 
-[158] [159]
+[164] [165]
 Underfull \hbox (badness 1264) in paragraph at lines 230--231
 \TU/LucidaGrande(0)/m/n/10 ponents of the DNA synthetic machinery. G1/S-Cdk
  []
@@ -4771,7 +4818,7 @@ Underfull \hbox (badness 1688) in paragraph at lines 246--248
 \TU/LucidaGrande(0)/m/n/10 strand is extended discontinuously from each primer
  []
 
-[160]
+[166]
 Underfull \hbox (badness 4303) in paragraph at lines 280--281
 \TU/LucidaGrande(0)/m/n/10 or detects double-stranded DNA, the sliding clamp
  []
@@ -4781,7 +4828,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 280--281
 \TU/LucidaGrande(0)/m/n/10 undergoes a conformational change that releases the
  []
 
-[161] [162]
+[167] [168]
 Underfull \hbox (badness 1817) in paragraph at lines 316--317
 \TU/LucidaGrande(0)/m/n/10 species, this is named the DNA replication terminus
  []
@@ -4813,7 +4860,7 @@ Underfull \hbox (badness 1107) in paragraph at lines 341--342
 \TU/LucidaGrande(0)/m/n/10 Within chromosomes, DNA is held in complexes with
  []
 
-[163
+[169
 
 
 ]
@@ -4850,7 +4897,7 @@ Underfull \hbox (badness 1005) in paragraph at lines 371--372
 
  []
 
-[164]
+[170]
 Underfull \hbox (badness 3049) in paragraph at lines 373--374
 \TU/LucidaGrande(0)/m/n/10 strand into DNA. They include reverse transcriptase,
 
@@ -4872,7 +4919,7 @@ Underfull \hbox (badness 3428) in paragraph at lines 391--392
 \TU/LucidaGrande(0)/m/n/10 chemicals, such as pyrimidine, found in meteorites.
  []
 
-[165]
+[171]
 Underfull \hbox (badness 2837) in paragraph at lines 420--422
 []\TU/LucidaGrande(0)/m/n/10 Unlike double-stranded DNA, RNA is a single-
  []
@@ -4887,7 +4934,7 @@ Underfull \hbox (badness 1342) in paragraph at lines 424--425
 []\TU/LucidaGrande(0)/m/n/10 The complementary base to adenine in DNA is
  []
 
-[166]
+[172]
 Underfull \hbox (badness 2126) in paragraph at lines 438--439
 \TU/LucidaGrande(0)/m/n/10 the post-transcriptional modifications occur in high
 ly
@@ -4909,7 +4956,7 @@ Underfull \hbox (badness 2020) in paragraph at lines 460--461
 \TU/LucidaGrande(0)/m/n/10 rRNA, transfer RNA (tRNA), microRNA (miRNA), small
  []
 
-[167]
+[173]
 Underfull \hbox (badness 1077) in paragraph at lines 462--463
 \TU/LucidaGrande(0)/m/n/10 for the synthesis of protein by ribosomes, a process
 
@@ -4922,12 +4969,12 @@ Underfull \hbox (badness 1622) in paragraph at lines 462--463
 
 File: ./figures/translation/trna.png Graphic file (type bmp)
 <./figures/translation/trna.png>
-[168]
+[174]
 Underfull \hbox (badness 2253) in paragraph at lines 509--510
 []\TU/LucidaGrande(0)/m/n/10 During the early 1970s, retroviruses and reverse
  []
 
-[169]
+[175]
 Underfull \hbox (badness 10000) in paragraph at lines 522--523
 \TU/LucidaGrande(0)/m/n/10 life—eukaryotes (including multicellular organisms),
 
@@ -4953,7 +5000,7 @@ Underfull \hbox (badness 2245) in paragraph at lines 543--545
 \TU/LucidaGrande(0)/m/n/10 complementary to the nucleotides of one DNA
  []
 
-[170]
+[176]
 Underfull \hbox (badness 2134) in paragraph at lines 573--574
 \TU/LucidaGrande(0)/m/n/10 transcription factors, then unwinds approximately 14
 
@@ -4982,7 +5029,7 @@ Underfull \hbox (badness 1189) in paragraph at lines 592--593
 
  []
 
-[171]
+[177]
 File: ./figures/transcription/Simple_transcription_elongation1.png Graphic file
  (type bmp)
 <./figures/transcription/Simple_transcription_elongation1.png>
@@ -5035,7 +5082,7 @@ Underfull \hbox (badness 2735) in paragraph at lines 635--636
 a
  []
 
-[172]
+[178]
 Underfull \hbox (badness 1092) in paragraph at lines 649--650
 \TU/LucidaGrande(0)/m/n/10 the terminal 5’ phosphate requires removal, which is
 
@@ -5058,7 +5105,7 @@ Underfull \hbox (badness 1552) in paragraph at lines 659--660
 f
  []
 
-[173]
+[179]
 Underfull \hbox (badness 2111) in paragraph at lines 675--676
 \TU/LucidaGrande(0)/m/n/10 in the nucleus, many RNAs are transported through
  []
@@ -5085,7 +5132,7 @@ Underfull \hbox (badness 1968) in paragraph at lines 685--686
 \TU/LucidaGrande(0)/m/n/10 more ribosomal RNA (rRNA) molecules and a variety
  []
 
-[174]
+[180]
 Underfull \hbox (badness 2237) in paragraph at lines 706--707
 \TU/LucidaGrande(0)/m/n/10 using an electron microscope, as dense particles or
  []
@@ -5097,7 +5144,7 @@ Underfull \hbox (badness 1917) in paragraph at lines 708--709
 
 File: ./figures/translation/ttribosome.png Graphic file (type bmp)
 <./figures/translation/ttribosome.png>
-[175]
+[181]
 File: ./figures/translation/human_ribosome.png Graphic file (type bmp)
 <./figures/translation/human_ribosome.png>
 
@@ -5131,7 +5178,7 @@ Underfull \hbox (badness 1019) in paragraph at lines 756--757
 \TU/LucidaGrande(0)/m/n/10 phase is completed once a 50S subunit joins the 30
  []
 
-[176]
+[182]
 Underfull \hbox (badness 2189) in paragraph at lines 758--759
 []\TU/LucidaGrande(0)/m/n/10 The process of translation is highly regulated in
  []
@@ -5173,7 +5220,7 @@ Underfull \hbox (badness 4144) in paragraph at lines 793--794
 ions
  []
 
-[177]
+[183]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -5182,12 +5229,12 @@ Underfull \hbox (badness 1365) in paragraph at lines 816--817
 re
  []
 
-[178]
+[184]
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
 (Font)              scaled to size 7.34244pt on input line 825.
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
 (Font)              scaled to size 7.26224pt on input line 830.
- [179
+ [185
 
 ]
 Underfull \hbox (badness 5878) in paragraph at lines 900--901
@@ -5199,7 +5246,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 900--901
 \TU/LucidaGrande(0)/m/n/10 (sometimes called “deoxynucleotide triphosphates”;
  []
 
-[180
+[186
 
 ]
 Underfull \hbox (badness 1033) in paragraph at lines 906--907
@@ -5242,7 +5289,7 @@ Underfull \hbox (badness 3668) in paragraph at lines 921--922
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [181]
+ [187]
 Underfull \hbox (badness 1117) in paragraph at lines 935--936
 \TU/LucidaGrande(0)/m/n/10 strands. Recombinant DNA is possible because DNA
  []
@@ -5253,7 +5300,7 @@ Underfull \hbox (badness 1348) in paragraph at lines 935--936
 e
  []
 
-[182]
+[188]
 Underfull \hbox (badness 1014) in paragraph at lines 955--956
 \TU/LucidaGrande(0)/m/n/10 out” genes to determine their biological function an
 d
@@ -5335,7 +5382,7 @@ Underfull \hbox (badness 1817) in paragraph at lines 968--970
 \TU/LucidaGrande(0)/m/n/10 was obtained by processing large quantities of
  []
 
-[183]
+[189]
 Underfull \hbox (badness 1448) in paragraph at lines 974--976
 \TU/LucidaGrande(0)/m/n/10 rice holds substantial promise for reducing the
  []
@@ -5385,14 +5432,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 985--985
 ] [][][][][][][][] [] [][][][][][][][][][] [] [][] []
  []
 
-[184]
+[190]
 Underfull \hbox (badness 1888) in paragraph at lines 999--1000
 []\TU/LucidaGrande(0)/m/n/10 Knockouts are accomplished through a variety of
  []
 
 File: ./figures/molecular_biology/Crispr.png Graphic file (type bmp)
 <./figures/molecular_biology/Crispr.png>
-[185]
+[191]
 Underfull \hbox (badness 2772) in paragraph at lines 1030--1031
 \TU/LucidaGrande(0)/m/n/10 As of March 2015, multiple groups had announced
  []
@@ -5480,12 +5527,12 @@ Underfull \hbox (badness 2495) in paragraph at lines 1040--1041
 s
  []
 
-[186]) [187
+[192]) [193
 
 ]
 \openout2 = `gene_regulation.aux'.
 
- (./gene_regulation.tex [188
+ (./gene_regulation.tex [194
 
 
 
@@ -5527,7 +5574,7 @@ Underfull \hbox (badness 2698) in paragraph at lines 21--22
 
 File: ./figures/regulation/Lac_operon1.png Graphic file (type bmp)
 <./figures/regulation/Lac_operon1.png>
-[189]
+[195]
 Underfull \hbox (badness 3128) in paragraph at lines 63--65
 []\TU/LucidaGrande(0)/m/n/10 lacY encodes Beta-galactoside permease (LacY),
  []
@@ -5570,10 +5617,10 @@ Underfull \hbox (badness 2318) in paragraph at lines 72--73
 
  []
 
-[190]
+[196]
 File: ./figures/regulation/lac_repressor_model.png Graphic file (type bmp)
 <./figures/regulation/lac_repressor_model.png>
- [191]
+ [197]
 Underfull \hbox (badness 2573) in paragraph at lines 97--98
 \TU/LucidaGrande(0)/m/n/10 mediated mainly by charge-charge interactions while
  []
@@ -5614,7 +5661,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--109
  of isopropyl β-D-
  []
 
-[192]
+[198]
 File: ./figures/regulation/Lac_complementation.png Graphic file (type bmp)
 <./figures/regulation/Lac_complementation.png>
 
@@ -5623,7 +5670,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--130
 [][][][] [] [][][][] [] [][][] [] [][][][][][][][][][][][][][][] []
  []
 
-[193]
+[199]
 Underfull \hbox (badness 6428) in paragraph at lines 161--162
 \TU/LucidaGrande(0)/m/n/10 needed to produce sufficient quantities of lactose-
  []
@@ -5658,7 +5705,7 @@ Underfull \hbox (badness 1033) in paragraph at lines 165--166
 s
  []
 
-[194]
+[200]
 Underfull \hbox (badness 2564) in paragraph at lines 198--198
 []\TU/LucidaGrande(0)/b/n/12 Regulation of transciption by DNA
  []
@@ -5668,7 +5715,7 @@ Underfull \hbox (badness 2564) in paragraph at lines 203--203
 []\TU/LucidaGrande(0)/b/n/12 Regulation of transciption by DNA
  []
 
-[195]) [196]
+[201]) [202]
 \openout2 = `bacteria.aux'.
 
  (./bacteria.tex
@@ -5698,11 +5745,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--42
 [][][][] [] [][][][] [] [][][][][][][][][][][][] [] [][][][][][][] []
  []
 
-[197
+[203
 
 
 
-] [198]
+] [204]
 Underfull \hbox (badness 6526) in paragraph at lines 60--61
 []\TU/LucidaGrande(0)/m/n/10 Once regarded as plants constituting the class
  []
@@ -5769,7 +5816,7 @@ Underfull \hbox (badness 1635) in paragraph at lines 83--84
 \TU/LucidaGrande(0)/m/n/10 to half a metre in depth, and may contain multiple
  []
 
-[199]
+[205]
 Underfull \hbox (badness 1297) in paragraph at lines 90--91
 \TU/LucidaGrande(0)/m/n/10 membranes, creating a potential difference analogous
 
@@ -5810,7 +5857,7 @@ ly
 
 File: ./figures/bacteria/EMpylori.jpg Graphic file (type bmp)
 <./figures/bacteria/EMpylori.jpg>
-[200]
+[206]
 Underfull \hbox (badness 2717) in paragraph at lines 129--130
 \TU/LucidaGrande(0)/m/n/10 lus, Clostridium, Sporohalobacter, Anaerobacter, and
 
@@ -5842,13 +5889,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--152
 [][][][] [] [][][][] [] [][][][][][][][][] [] [][][][][][][][][] []
  []
 
-[201]
+[207]
 Underfull \hbox (badness 1796) in paragraph at lines 160--161
 \TU/LucidaGrande(0)/m/n/10 electrons are also used to classify bacteria: aerobi
 c
  []
 
-[202
+[208
 
 ]
 Overfull \hbox (1.39424pt too wide) in paragraph at lines 172--172
@@ -5870,7 +5917,7 @@ Overfull \hbox (16.89015pt too wide) in paragraph at lines 176--176
 []|\TU/LucidaGrande(0)/m/n/10  Organotrophs|  
  []
 
-[203]
+[209]
 Underfull \hbox (badness 1325) in paragraph at lines 197--198
 \TU/LucidaGrande(0)/m/n/10 repair, antioxidant metabolism and nutrient transpor
 t.
@@ -5886,7 +5933,7 @@ Underfull \hbox (badness 2538) in paragraph at lines 202--203
 \TU/LucidaGrande(0)/m/n/10 can also contain plasmids, small extra-chromosomal
  []
 
-[204
+[210
 
 
 ]
@@ -5897,7 +5944,7 @@ Underfull \hbox (badness 1024) in paragraph at lines 206--207
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [205]
+ [211]
 Underfull \hbox (badness 4713) in paragraph at lines 237--238
 \TU/LucidaGrande(0)/m/n/10 modern bacterial classification emphasises molecular
 
@@ -5920,7 +5967,7 @@ Underfull \hbox (badness 1005) in paragraph at lines 245--246
 ;
  []
 
-[206]
+[212]
 Underfull \hbox (badness 2073) in paragraph at lines 258--259
 \TU/LucidaGrande(0)/m/n/10 as well as fermenting complex undigestible carbohy-
  []
@@ -5936,7 +5983,7 @@ Underfull \hbox (badness 2080) in paragraph at lines 267--268
 \TU/LucidaGrande(0)/m/n/10 human disease and in intensive farming to promote
  []
 
-[207]
+[213]
 Underfull \hbox (badness 10000) in paragraph at lines 270--270
 []\TU/LucidaGrande(0)/b/n/12 Significance in Technology And
  []
@@ -5962,7 +6009,7 @@ Underfull \hbox (badness 1622) in paragraph at lines 285--286
 \TU/LucidaGrande(0)/m/n/10 came from using polymerase chain reaction (PCR) to
  []
 
-[208]
+[214]
 Underfull \hbox (badness 2057) in paragraph at lines 293--294
 \TU/LucidaGrande(0)/m/n/10 and ruminants, where their vast numbers aid diges-
  []
@@ -5985,7 +6032,7 @@ Underfull \hbox (badness 1571) in paragraph at lines 300--301
 id
  []
 
-[209]
+[215]
 Overfull \hbox (3.08325pt too wide) in paragraph at lines 317--317
 []|\TU/LucidaGrande(0)/m/n/10 Internal cell structure|  
  []
@@ -5998,7 +6045,7 @@ Overfull \hbox (45.54765pt too wide) in paragraph at lines 318--318
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[210]
+[216]
 Underfull \hbox (badness 1931) in paragraph at lines 330--331
 \TU/LucidaGrande(0)/m/n/10 absolute) stability in the structure of this nucleot
 ide
@@ -6044,7 +6091,7 @@ Underfull \hbox (badness 1838) in paragraph at lines 348--349
 
  []
 
-[211
+[217
 
 
 ]
@@ -6080,7 +6127,7 @@ Underfull \hbox (badness 2644) in paragraph at lines 371--372
 \TU/LucidaGrande(0)/m/n/10 peptidoglycan in morphology, function, and physical
  []
 
-[212]
+[218]
 Underfull \hbox (badness 6708) in paragraph at lines 385--387
 \TU/LucidaGrande(0)/m/n/10 lipids, whereas bacteria and eukaryotes have
  []
@@ -6092,7 +6139,7 @@ Underfull \hbox (badness 4036) in paragraph at lines 385--387
 
 File: ./figures/bacteria/Archaea_membrane.png Graphic file (type bmp)
 <./figures/bacteria/Archaea_membrane.png>
-[213] [214
+[219] [220
 
 ]
 Overfull \hbox (1.39424pt too wide) in paragraph at lines 419--419
@@ -6117,7 +6164,7 @@ Overfull \hbox (16.89015pt too wide) in paragraph at lines 423--423
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[215]
+[221]
 Underfull \hbox (badness 1281) in paragraph at lines 430--431
 \TU/LucidaGrande(0)/m/n/10 These reactions are common in gut-dwelling archaea.
  []
@@ -6159,7 +6206,7 @@ Underfull \hbox (badness 2608) in paragraph at lines 450--451
 []\TU/LucidaGrande(0)/m/n/10 Extremophile archaea are members of four main
  []
 
-[216
+[222
 
 
 ]
@@ -6191,7 +6238,7 @@ Underfull \hbox (badness 1163) in paragraph at lines 465--466
 
 Underfull \vbox (badness 4072) has occurred while \output is active []
 
- [217]
+ [223]
 Underfull \hbox (badness 1515) in paragraph at lines 478--479
 \TU/LucidaGrande(0)/m/n/10 that they possess genes, evolve by natural selection
 ,
@@ -6216,7 +6263,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 494--494
 [][][][] [] [][][][] [] [][][] [] [][][][][][][][][] [] [][][][][][] []
  []
 
-[218]
+[224]
 File: ./figures/bacteria/CowpeaMosaicVirus3D.png Graphic file (type bmp)
 <./figures/bacteria/CowpeaMosaicVirus3D.png>
 
@@ -6245,7 +6292,7 @@ Underfull \hbox (badness 4254) in paragraph at lines 519--520
 []\TU/LucidaGrande(0)/m/n/10 An enormous variety of genomic structures can
  []
 
-[219]
+[225]
 Underfull \hbox (badness 1082) in paragraph at lines 527--528
 \TU/LucidaGrande(0)/m/n/10 on if they are complementary to the viral messenger
  []
@@ -6284,7 +6331,7 @@ Underfull \hbox (badness 1728) in paragraph at lines 548--549
 
 File: ./figures/bacteria/HepC_replication.png Graphic file (type bmp)
 <./figures/bacteria/HepC_replication.png>
-[220]
+[226]
 Underfull \hbox (badness 4060) in paragraph at lines 571--572
 \TU/LucidaGrande(0)/m/n/10 genome replication mediated by early or regulatory
  []
@@ -6345,7 +6392,7 @@ Underfull \hbox (badness 3803) in paragraph at lines 583--584
 se
  []
 
-[221]
+[227]
 File: ./figures/bacteria/rna_virus.png Graphic file (type bmp)
 <./figures/bacteria/rna_virus.png>
 
@@ -6376,7 +6423,7 @@ Underfull \hbox (badness 1033) in paragraph at lines 600--601
 
  []
 
-[222]
+[228]
 Underfull \hbox (badness 3209) in paragraph at lines 619--620
 \TU/LucidaGrande(0)/m/n/10 20th century there were four pandemics caused by
  []
@@ -6393,7 +6440,7 @@ Underfull \hbox (badness 1097) in paragraph at lines 619--620
 .
  []
 
-[223]
+[229]
 Underfull \hbox (badness 1152) in paragraph at lines 627--628
 \TU/LucidaGrande(0)/m/n/10 Thought to have originated in bats and subsequently
  []
@@ -6428,7 +6475,7 @@ Underfull \hbox (badness 2809) in paragraph at lines 633--634
 \TU/LucidaGrande(0)/m/n/10 biochemical pathway—the RISC complex—is activated,
  []
 
-[224]
+[230]
 Underfull \hbox (badness 2142) in paragraph at lines 645--646
 \TU/LucidaGrande(0)/m/n/10 Smallpox infections have been eradicated. Vaccines
  []
@@ -6455,7 +6502,7 @@ Underfull \hbox (badness 1675) in paragraph at lines 654--655
 \TU/LucidaGrande(0)/m/n/10 such as foot-and-mouth disease and bluetongue are
  []
 
-[225]
+[231]
 Underfull \hbox (badness 1199) in paragraph at lines 663--664
 []\TU/LucidaGrande(0)/m/n/10 Plants have elaborate and effective defence mech-
  []
@@ -6483,12 +6530,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 693--693
 [][][][] [] [][][][] [] [][][][][] [] [][][][][][][][][] [] [][][] []
  []
 
-[226]) [227
+[232]) [233
 
 ]
 \openout2 = `protists.aux'.
 
- (./protists.tex [228
+ (./protists.tex [234
 
 
 
@@ -6498,7 +6545,7 @@ File: ./figures/protista/Protist_collage_2.jpg Graphic file (type bmp)
 <./figures/protista/Protist_collage_2.jpg>
 File: ./figures/protista/Haeckel_arbol_bn.png Graphic file (type bmp)
 <./figures/protista/Haeckel_arbol_bn.png>
-[229]
+[235]
 Overfull \hbox (6.62079pt too wide) in paragraph at lines 56--56
 []|\TU/LucidaGrande(0)/m/n/10 Archaeplastida (or 
  []
@@ -6518,7 +6565,7 @@ Underfull \hbox (badness 3128) in paragraph at lines 78--80
 []\TU/LucidaGrande(0)/m/n/10 Protophyta: plant-like” (autotrophic) organisms
  []
 
-[230] [231
+[236] [237
 
 ]
 Overfull \hbox (7.09865pt too wide) in paragraph at lines 102--103
@@ -6528,7 +6575,7 @@ Overfull \hbox (7.09865pt too wide) in paragraph at lines 102--103
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[232]
+[238]
 Underfull \hbox (badness 3590) in paragraph at lines 112--113
 \TU/LucidaGrande(0)/m/n/10 Protozoa[][][] (also protozoan, plural protozoans) i
 s an
@@ -6561,7 +6608,7 @@ Underfull \hbox (badness 3199) in paragraph at lines 122--123
 \TU/LucidaGrande(0)/m/n/10 synthetic microorganisms and microscopic fungi—the
  []
 
-[233
+[239
 
 
 ]
@@ -6603,7 +6650,7 @@ Underfull \hbox (badness 2368) in paragraph at lines 145--146
 
  []
 
-[234]
+[240]
 Underfull \hbox (badness 10000) in paragraph at lines 164--165
 []\TU/LucidaGrande(0)/m/n/10 Sporozoans, or Sporozoa (parasitic, spore-
  []
@@ -6633,7 +6680,7 @@ Underfull \hbox (badness 2401) in paragraph at lines 192--193
 \TU/LucidaGrande(0)/m/n/10 is, a distinct lineage of organisms sharing common
  []
 
-[235]
+[241]
 Underfull \hbox (badness 1845) in paragraph at lines 201--202
 \TU/LucidaGrande(0)/m/n/10 in Flagellata (= Mastigophora), sometimes divided in
 
@@ -6658,7 +6705,7 @@ Underfull \hbox (badness 1371) in paragraph at lines 218--219
 i-
  []
 
-[236]
+[242]
 File: ./figures/protista/Ciliate_collage.jpg Graphic file (type bmp)
 <./figures/protista/Ciliate_collage.jpg>
 
@@ -6671,7 +6718,7 @@ Underfull \hbox (badness 2205) in paragraph at lines 250--251
 \TU/LucidaGrande(0)/m/n/10 species, as well as some obligate and opportunistic
  []
 
-[237]
+[243]
 File: ./figures/protista/Paramecium_diagram.png Graphic file (type bmp)
 <./figures/protista/Paramecium_diagram.png>
 
@@ -6699,7 +6746,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 289--289
 [][][][] [] [][][][] [] [][][][][][] [] [][] [] [][][][][][][] []
  []
 
-[238]
+[244]
 Underfull \hbox (badness 3942) in paragraph at lines 330--331
 \TU/LucidaGrande(0)/m/n/10 Amoebozoa is a major taxonomic group containing
  []
@@ -6747,7 +6794,7 @@ Underfull \hbox (badness 1817) in paragraph at lines 338--339
 \TU/LucidaGrande(0)/m/n/10 indeterminate pseudopodia, through which the entire
  []
 
-[239]
+[245]
 Underfull \hbox (badness 1490) in paragraph at lines 342--343
 \TU/LucidaGrande(0)/m/n/10 needed] In slime moulds, these structures are called
 
@@ -6780,7 +6827,7 @@ Underfull \hbox (badness 1189) in paragraph at lines 352--353
 []\TU/LucidaGrande(0)/m/n/10 Amoebiasis is present all over the world. About
  []
 
-[240]
+[246]
 Underfull \hbox (badness 1173) in paragraph at lines 361--362
 \TU/LucidaGrande(0)/m/n/10 with chlorophylls a and b, but lack phycobiliprotein
 s,
@@ -6806,7 +6853,7 @@ Underfull \hbox (badness 2111) in paragraph at lines 393--394
 \TU/LucidaGrande(0)/m/n/10 heterotrophic organisms, such as the apicomplexans,
  []
 
-[241] [242]
+[247] [248]
 File: ./figures/protista/Fuligo_septica_bl1.jpg Graphic file (type bmp)
 <./figures/protista/Fuligo_septica_bl1.jpg>
 File: ./figures/protista/Dictyostelium_Fruiting_Bodies.jpg Graphic file (type b
@@ -6846,7 +6893,7 @@ Underfull \hbox (badness 1038) in paragraph at lines 465--465
 asmodium or “slug” of a Dic-
  []
 
-[243]
+[249]
 Underfull \hbox (badness 1769) in paragraph at lines 483--484
 \TU/LucidaGrande(0)/m/n/10 ecosystems, particularly in the ocean as part of the
 
@@ -6876,7 +6923,7 @@ Underfull \hbox (badness 1107) in paragraph at lines 487--488
 s)
  []
 
-) [244]
+) [250]
 \openout2 = `evolution.aux'.
 
  (./evolution.tex
@@ -6915,7 +6962,7 @@ Underfull \hbox (badness 1024) in paragraph at lines 31--32
 on[][][] due to
  []
 
-[245
+[251
 
 
 
@@ -6942,7 +6989,7 @@ Underfull \hbox (badness 2608) in paragraph at lines 37--38
 .
  []
 
-[246]
+[252]
 Underfull \hbox (badness 3189) in paragraph at lines 50--51
 \TU/LucidaGrande(0)/m/n/10 1809, which envisaged spontaneous generation con-
  []
@@ -6980,7 +7027,7 @@ Underfull \hbox (badness 1622) in paragraph at lines 59--60
 \TU/LucidaGrande(0)/m/n/10 of the relationship between genotype and phenotype.
  []
 
-[247] [248]
+[253] [254]
 Underfull \hbox (badness 1009) in paragraph at lines 82--83
 []\TU/LucidaGrande(0)/m/n/10 Mutations are changes in the DNA sequence of a
  []
@@ -7001,7 +7048,7 @@ Underfull \hbox (badness 1231) in paragraph at lines 88--89
 \TU/LucidaGrande(0)/m/n/10 together to produce new combinations with new and
  []
 
-[249]
+[255]
 Underfull \hbox (badness 1308) in paragraph at lines 96--97
 \TU/LucidaGrande(0)/m/n/10 Saccharomyces cerevisiae and the adzuki bean weevil
  []
@@ -7028,7 +7075,7 @@ Underfull \hbox (badness 1097) in paragraph at lines 105--109
 he
  []
 
-[250]
+[256]
 Underfull \hbox (badness 1270) in paragraph at lines 137--138
 \TU/LucidaGrande(0)/m/n/10 that most evolutionary changes are the result of the
 
@@ -7039,7 +7086,7 @@ Underfull \hbox (badness 1067) in paragraph at lines 141--142
 \TU/LucidaGrande(0)/m/n/10 comparative importance of adaptive and non-adaptive
  []
 
-[251]
+[257]
 File: ./figures/evolution/Biston.betularia.7200.jpg Graphic file (type bmp)
 <./figures/evolution/Biston.betularia.7200.jpg>
 File: ./figures/evolution/Biston.betularia.f.carbonaria.7209.jpg Graphic file (
@@ -7061,7 +7108,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--191
 
  []
 
-[252]
+[258]
 Underfull \hbox (badness 1189) in paragraph at lines 198--199
 \TU/LucidaGrande(0)/m/n/10 number of dark-coloured moths had risen noticeably,
  []
@@ -7096,7 +7143,7 @@ Underfull \hbox (badness 2181) in paragraph at lines 207--208
 
  []
 
-[253]
+[259]
 Underfull \hbox (badness 2828) in paragraph at lines 209--210
 \TU/LucidaGrande(0)/m/n/10 rapid reproduction allows the study of experimental
  []
@@ -7125,12 +7172,12 @@ Underfull \hbox (badness 3713) in paragraph at lines 236--237
 
  []
 
-[254]) [255
+[260]) [261
 
 ]
 \openout2 = `systematics.aux'.
 
- (./systematics.tex [256
+ (./systematics.tex [262
 
 
 
@@ -7161,7 +7208,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--16
 
 Underfull \vbox (badness 1400) has occurred while \output is active []
 
- [257]
+ [263]
 Underfull \hbox (badness 1728) in paragraph at lines 38--39
 \TU/LucidaGrande(0)/m/n/10 chemistry, behavior, etc. How researchers arrive at
  []
@@ -7179,7 +7226,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--50
 [][][][] [] [][][][] []
  []
 
-[258]
+[264]
 Underfull \hbox (badness 1383) in paragraph at lines 62--63
 []\TU/LucidaGrande(0)/m/n/10 A typological species is a group of organisms in
  []
@@ -7214,7 +7261,7 @@ Underfull \hbox (badness 2359) in paragraph at lines 85--86
 
  []
 
-[259]
+[265]
 Underfull \hbox (badness 1478) in paragraph at lines 112--113
 \TU/LucidaGrande(0)/m/n/10 species is now considered to belong in a
  []
@@ -7246,7 +7293,7 @@ Underfull \hbox (badness 2970) in paragraph at lines 128--129
 \TU/LucidaGrande(0)/m/n/10 is aptly termed Phalangium Ephemerum Virginianum,
  []
 
-[260]
+[266]
 Underfull \hbox (badness 1057) in paragraph at lines 139--141
 []\TU/LucidaGrande(0)/m/n/10 Economy. Compared to the polynomial system
  []
@@ -7287,7 +7334,7 @@ Underfull \hbox (badness 2469) in paragraph at lines 159--161
 \TU/LucidaGrande(0)/m/n/10 was named by Linnaeus from the Greek word
  []
 
-[261]
+[267]
 Underfull \hbox (badness 2293) in paragraph at lines 161--163
 \TU/LucidaGrande(0)/m/n/10 dinosaur fossils were found in Mongolia, their
  []
@@ -7319,7 +7366,7 @@ Underfull \hbox (badness 1997) in paragraph at lines 183--184
 []\TU/LucidaGrande(0)/m/n/10 Whereas the first part of a binomial name must
  []
 
-[262]
+[268]
 Underfull \hbox (badness 1112) in paragraph at lines 194--195
 \TU/LucidaGrande(0)/m/n/10 grams, phylogenetic trees, phylogenies). Phylogenies
 
@@ -7361,7 +7408,7 @@ Underfull \hbox (badness 1715) in paragraph at lines 214--215
 d
  []
 
-[263]
+[269]
 Underfull \hbox (badness 1584) in paragraph at lines 216--217
 \TU/LucidaGrande(0)/m/n/10 modern understanding of the evolution of the major
  []
@@ -7386,7 +7433,7 @@ Underfull \hbox (badness 1087) in paragraph at lines 237--238
 \TU/LucidaGrande(0)/m/n/10 the same genus are being listed or discussed in the
  []
 
-[264]
+[270]
 Underfull \hbox (badness 1253) in paragraph at lines 261--263
 \TU/LucidaGrande(0)/m/n/10 nested within each other share a plesiomorphy,
  []
@@ -7401,12 +7448,12 @@ Underfull \hbox (badness 1303) in paragraph at lines 263--265
 \TU/LucidaGrande(0)/m/n/10 from ancestors that possessed digits which are
  []
 
-[265]
+[271]
 Underfull \hbox (badness 3492) in paragraph at lines 265--266
 \TU/LucidaGrande(0)/m/n/10 Auxiliary Principle states that shared character
  []
 
-[266]
+[272]
 Underfull \hbox (badness 3364) in paragraph at lines 282--283
 \TU/LucidaGrande(0)/m/n/10 molecular (DNA, RNA, or other genetic information).
  []
@@ -7425,7 +7472,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 302--302
 [][][][] [] [][][][] [] [][][][][][][][][] [][] [][][][][][][][][][] [][]
  []
 
-) [267] [268
+) [273] [274
 
 ]
 \openout2 = `fungi.aux'.
@@ -7461,7 +7508,7 @@ Underfull \hbox (badness 4108) in paragraph at lines 21--22
 []\TU/LucidaGrande(0)/m/n/10 The fungus kingdom encompasses an enormous
  []
 
-[269
+[275
 
 
 
@@ -7548,7 +7595,7 @@ Underfull \hbox (badness 1286) in paragraph at lines 68--69
 in
  []
 
-[270]
+[276]
 Underfull \hbox (badness 4341) in paragraph at lines 70--71
 \TU/LucidaGrande(0)/m/n/10 environments, though several species live partly or
  []
@@ -7578,7 +7625,7 @@ Underfull \hbox (badness 2343) in paragraph at lines 83--84
 []\TU/LucidaGrande(0)/m/n/10 Fungal mycelia can become visible to the naked
  []
 
-[271]
+[277]
 Underfull \hbox (badness 2753) in paragraph at lines 99--100
 \TU/LucidaGrande(0)/m/n/10 in lifestyles and genetic makeup within this diverse
 
@@ -7621,12 +7668,12 @@ Underfull \hbox (badness 1924) in paragraph at lines 109--110
 
  []
 
-[272]
+[278]
 Underfull \hbox (badness 3189) in paragraph at lines 117--118
 \TU/LucidaGrande(0)/m/n/10 producing cell. The gametangium develops into a
  []
 
-[273]
+[279]
 Underfull \hbox (badness 1005) in paragraph at lines 135--136
 \TU/LucidaGrande(0)/m/n/10 Formation in southern China dating back to 635–551
  []
@@ -7645,7 +7692,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--157
 [][][][] [] [][][][] [] [][] [] [][] [] [][][][][][] [] [][] [] [][][][][] []
  []
 
-[274]
+[280]
 Underfull \hbox (badness 1142) in paragraph at lines 162--163
 \TU/LucidaGrande(0)/m/n/10 These fungi are distributed worldwide. Chytrids and
  []
@@ -7714,7 +7761,7 @@ Underfull \hbox (badness 1142) in paragraph at lines 183--184
 \TU/LucidaGrande(0)/m/n/10 pathogen Ustilago maydis, human commensal species
  []
 
-[275]
+[281]
 Underfull \hbox (badness 3815) in paragraph at lines 188--189
 \TU/LucidaGrande(0)/m/n/10 (both Stramenopiles) were formerly classified in the
 
@@ -7766,7 +7813,7 @@ Underfull \hbox (badness 1609) in paragraph at lines 241--242
 
 File: ./figures/fungi/lichen_apothecium.jpeg Graphic file (type bmp)
 <./figures/fungi/lichen_apothecium.jpeg>
-[276] [277]
+[282] [283]
 Underfull \hbox (badness 2261) in paragraph at lines 263--264
 \TU/LucidaGrande(0)/m/n/10 several of which may be fatal if untreated. These
  []
@@ -7857,7 +7904,7 @@ Underfull \hbox (badness 1668) in paragraph at lines 276--277
 \TU/LucidaGrande(0)/m/n/10 and Japan, polysaccharide-K (brand name Krestin), a
  []
 
-[278]
+[284]
 Underfull \hbox (badness 1490) in paragraph at lines 280--281
 \TU/LucidaGrande(0)/m/n/10 Aspergilli. Quorn, a meat substitute, is made from
  []
@@ -7893,7 +7940,7 @@ Underfull \hbox (badness 1286) in paragraph at lines 292--293
 \TU/LucidaGrande(0)/m/n/10 such as N. coenophialum, produce alkaloids that are
  []
 
-[279]
+[285]
 Underfull \hbox (badness 3769) in paragraph at lines 294--295
 []\TU/LucidaGrande(0)/m/n/10 Certain fungi, in particular white-rot fungi, can
  []
@@ -7914,7 +7961,7 @@ Underfull \hbox (badness 3088) in paragraph at lines 296--297
 \TU/LucidaGrande(0)/m/n/10 Candida albicans, a dimorphic, opportunistic human
  []
 
-) [280
+) [286
 
 ]
 \openout2 = `plants.aux'.
@@ -7941,11 +7988,11 @@ Underfull \hbox (badness 1097) in paragraph at lines 17--18
 o
  []
 
-[281
+[287
 
 
 
-] [282]
+] [288]
 Underfull \hbox (badness 1158) in paragraph at lines 56--57
 \TU/LucidaGrande(0)/m/n/10 composed of cellulose, and most obtain their energy
  []
@@ -7977,7 +8024,7 @@ Underfull \hbox (badness 1824) in paragraph at lines 62--63
 []\TU/LucidaGrande(0)/m/n/10 In seed plants, the microgametophyte is reduced
  []
 
-[283
+[289
 
 
 ]
@@ -7999,7 +8046,7 @@ Underfull \hbox (badness 1303) in paragraph at lines 87--88
 []\TU/LucidaGrande(0)/m/n/10 The fossilized remains of conifer and angiosperm
  []
 
-[284]
+[290]
 File: ./figures/plants/Marchantia.jpg Graphic file (type bmp)
 <./figures/plants/Marchantia.jpg>
 
@@ -8040,7 +8087,7 @@ Underfull \hbox (badness 2689) in paragraph at lines 149--150
 \TU/LucidaGrande(0)/m/n/10 2014 study concluded that composition biases were
  []
 
-[285]
+[291]
 Underfull \hbox (badness 1221) in paragraph at lines 161--163
 \TU/LucidaGrande(0)/m/n/10 to larger sizes than non-vascular plants, which
  []
@@ -8050,7 +8097,7 @@ Underfull \hbox (badness 2126) in paragraph at lines 163--165
 \TU/LucidaGrande(0)/m/n/10 is the sporophyte, which produces spores and
  []
 
-[286]
+[292]
 Underfull \hbox (badness 1997) in paragraph at lines 201--205
 \TU/LucidaGrande(0)/m/n/10 structure that produces a single egg at the bottom,
  []
@@ -8066,7 +8113,7 @@ Underfull \hbox (badness 1297) in paragraph at lines 208--209
 s.
  []
 
-[287]
+[293]
 Underfull \hbox (badness 2635) in paragraph at lines 219--220
 \TU/LucidaGrande(0)/m/n/10 Phanerogamae) or phaenogams (taxon Phaenogamae),
  []
@@ -8094,7 +8141,7 @@ Underfull \hbox (badness 3179) in paragraph at lines 253--254
 \TU/LucidaGrande(0)/m/n/10 ovules of flowering plants (angiosperms), which are
  []
 
-[288]
+[294]
 File: ./figures/plants/Gymnospermae.jpg Graphic file (type bmp)
 <./figures/plants/Gymnospermae.jpg>
 
@@ -8136,18 +8183,18 @@ Underfull \hbox (badness 1342) in paragraph at lines 278--279
 m
  []
 
-[289]
+[295]
 Underfull \hbox (badness 2762) in paragraph at lines 283--284
 \TU/LucidaGrande(0)/m/n/10 with 64 orders, 416 families, approximately 13,000
  []
 
 File: ./figures/plants/Flower_poster_2.jpg Graphic file (type bmp)
 <./figures/plants/Flower_poster_2.jpg>
-[290]
+[296]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[291]
+[297]
 Underfull \hbox (badness 2591) in paragraph at lines 323--324
 \TU/LucidaGrande(0)/m/n/10 tissue-formation in flowering plants exceeds that of
 
@@ -8179,7 +8226,7 @@ Underfull \hbox (badness 3601) in paragraph at lines 357--358
 e
  []
 
-[292
+[298
 
 
 ]
@@ -8232,7 +8279,7 @@ Underfull \hbox (badness 1688) in paragraph at lines 381--382
 \TU/LucidaGrande(0)/m/n/10 sporangia rather than spore release, as in non-seed
  []
 
-[293]
+[299]
 File: ./figures/plants/Ophrys_apifera_flower1.jpg Graphic file (type bmp)
 <./figures/plants/Ophrys_apifera_flower1.jpg>
 
@@ -8263,12 +8310,12 @@ Underfull \hbox (badness 1939) in paragraph at lines 408--409
 
  []
 
-[294]
+[300]
 Underfull \hbox (badness 1043) in paragraph at lines 410--411
 \TU/LucidaGrande(0)/m/n/10 began about 180 million years ago, 50 million years
  []
 
-[295]
+[301]
 File: ./figures/plants/Misc_pollen_colorized.jpg Graphic file (type bmp)
 <./figures/plants/Misc_pollen_colorized.jpg>
 
@@ -8276,7 +8323,7 @@ Underfull \hbox (badness 2617) in paragraph at lines 454--455
 \TU/LucidaGrande(0)/m/n/10 the production of increased genetic diversity among
  []
 
-[296]
+[302]
 Underfull \hbox (badness 1502) in paragraph at lines 459--460
 \TU/LucidaGrande(0)/m/n/10 form and external structure of plants, but since the
 
@@ -8292,7 +8339,7 @@ Underfull \hbox (badness 3039) in paragraph at lines 472--474
 []\TU/LucidaGrande(0)/m/n/10 Fruit/Seed anatomy, including structure of the
  []
 
-[297]
+[303]
 Underfull \hbox (badness 1147) in paragraph at lines 526--527
 \TU/LucidaGrande(0)/m/n/10 small or no vacuoles as they have no need to store
  []
@@ -8321,10 +8368,10 @@ Underfull \hbox (badness 1377) in paragraph at lines 574--575
 e.
  []
 
-[298]
+[304]
 Underfull \vbox (badness 1052) has occurred while \output is active []
 
- [299]
+ [305]
 Underfull \hbox (badness 1769) in paragraph at lines 665--666
 \TU/LucidaGrande(0)/m/n/10 they are indole-derived compounds synthesized from
  []
@@ -8345,7 +8392,7 @@ Underfull \hbox (badness 2941) in paragraph at lines 672--673
 \TU/LucidaGrande(0)/m/n/10 hormones are signal molecules produced at specific
  []
 
-[300]
+[306]
 Underfull \hbox (badness 1286) in paragraph at lines 676--677
 []\TU/LucidaGrande(0)/m/n/10 The most important plant hormones are abscissic
  []
@@ -8370,7 +8417,7 @@ Underfull \hbox (badness 2426) in paragraph at lines 702--702
 []\TU/LucidaGrande(0)/b/n/14.4 Tropisms And Nastic Move-
  []
 
-[301]
+[307]
 Underfull \hbox (badness 1325) in paragraph at lines 706--707
 \TU/LucidaGrande(0)/m/n/10 growth, in which the cells on one side of the plant
  []
@@ -8407,7 +8454,7 @@ Underfull \hbox (badness 1052) in paragraph at lines 728--729
 
  []
 
-[302]
+[308]
 Underfull \hbox (badness 5417) in paragraph at lines 730--731
 \TU/LucidaGrande(0)/m/n/10 and “dioicous” to describe bryophyte gametophytes.
  []
@@ -8439,7 +8486,7 @@ Underfull \hbox (badness 1902) in paragraph at lines 749--750
 \TU/LucidaGrande(0)/m/n/10 plants like potatoes (Solanum tuberosum) and dahlia
  []
 
-[303]
+[309]
 Underfull \hbox (badness 2443) in paragraph at lines 751--752
 \TU/LucidaGrande(0)/m/n/10 used to propagate cultivars with individual desirabl
 e
@@ -8476,7 +8523,7 @@ Underfull \hbox (badness 7221) in paragraph at lines 772--773
 \TU/LucidaGrande(0)/m/n/10 sporophytes containing much-reduced gametophytes.
  []
 
-[304]
+[310]
 Underfull \hbox (badness 2418) in paragraph at lines 779--780
 \TU/LucidaGrande(0)/m/n/10 within the female gametophyte in a process termed
  []
@@ -8487,7 +8534,7 @@ Underfull \hbox (badness 1097) in paragraph at lines 779--780
 .
  []
 
-[305]
+[311]
 File: ./figures/plants/Spathoglottis_flwrs_reduced.jpg Graphic file (type bmp)
 <./figures/plants/Spathoglottis_flwrs_reduced.jpg>
 
@@ -8513,7 +8560,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 839--839
 ] [][][][][][][][][] [] [][][][][][] [] [][][][] [] [][][][][][] []
  []
 
-[306]
+[312]
 File: ./figures/plants/Nectarine_Fruit_Development.jpg Graphic file (type bmp)
 <./figures/plants/Nectarine_Fruit_Development.jpg>
 
@@ -8533,8 +8580,8 @@ Underfull \hbox (badness 2189) in paragraph at lines 882--884
 
 Underfull \vbox (badness 6758) has occurred while \output is active []
 
- [307])
-[308
+ [313])
+[314
 
 ]
 \openout2 = `animals.aux'.
@@ -8553,7 +8600,7 @@ Underfull \hbox (badness 1048) in paragraph at lines 17--18
 \TU/LucidaGrande(0)/m/n/10 The Bilateria include the protostomes—in which many
  []
 
-[309
+[315
 
 
 
@@ -8593,7 +8640,7 @@ Underfull \hbox (badness 1253) in paragraph at lines 46--47
 n
  []
 
-[310]
+[316]
 Underfull \hbox (badness 1997) in paragraph at lines 50--52
 \TU/LucidaGrande(0)/m/n/10 plants, probably between 510–471 million years ago
  []
@@ -8636,7 +8683,7 @@ Underfull \hbox (badness 2351) in paragraph at lines 92--93
 \TU/LucidaGrande(0)/m/n/10 appeared much earlier than the Cambrian explosion,
  []
 
-[311]
+[317]
 Underfull \hbox (badness 5924) in paragraph at lines 94--95
 \TU/LucidaGrande(0)/m/n/10 The most basal animals, the Porifera, Ctenophora,
  []
@@ -8650,7 +8697,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--104
 [][][][] [] [][][][] [] [][][][][][][][][][] [] [][][][][][][][][] []
  []
 
-[312
+[318
 
 ]
 Overfull \hbox (4.07913pt too wide) in paragraph at lines 118--118
@@ -8675,7 +8722,7 @@ Overfull \hbox (21.71819pt too wide) in paragraph at lines 126--126
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[313]
+[319]
 File: ./figures/animals/Reef3859_-_Flickr_-_NOAA_Photo_Library.jpg Graphic file
  (type bmp)
 <./figures/animals/Reef3859_-_Flickr_-_NOAA_Photo_Library.jpg>
@@ -8695,7 +8742,7 @@ Underfull \hbox (badness 3229) in paragraph at lines 165--166
 \TU/LucidaGrande(0)/m/n/10 sizing microorganisms as endosymbionts, and these
  []
 
-[314
+[320
 
 
 ]
@@ -8728,7 +8775,7 @@ Underfull \hbox (badness 1968) in paragraph at lines 202--203
 []\TU/LucidaGrande(0)/m/n/10 Archaeocytes (or amoebocytes) are amoeba-like
  []
 
-[315]
+[321]
 File: ./figures/animals/Sea_sponge_diagram.png Graphic file (type bmp)
 <./figures/animals/Sea_sponge_diagram.png>
 File: ./figures/animals/Choanoflagellate_and_choanocyte.png Graphic file (type 
@@ -8766,7 +8813,7 @@ Underfull \hbox (badness 1286) in paragraph at lines 240--241
 \TU/LucidaGrande(0)/m/n/10 combined diameter is much greater than that of the
  []
 
-[316]
+[322]
 Underfull \hbox (badness 1881) in paragraph at lines 246--247
 []\TU/LucidaGrande(0)/m/n/10 Although adult sponges are fundamentally sessile
  []
@@ -8787,11 +8834,11 @@ Underfull \hbox (badness 1354) in paragraph at lines 254--255
 \TU/LucidaGrande(0)/m/n/10 include phytosynthesizing symbionts. The gemmules
  []
 
-[317] [318]
+[323] [324]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[319]
+[325]
 Underfull \hbox (badness 1189) in paragraph at lines 295--296
 \TU/LucidaGrande(0)/m/n/10 Ctenophora[][][] (from Ancient Greek: κτείς, romaniz
 ed:
@@ -8842,7 +8889,7 @@ Underfull \hbox (badness 2409) in paragraph at lines 316--317
 
  []
 
-[320
+[326
 
 
 ]
@@ -8855,11 +8902,11 @@ Underfull \hbox (badness 1762) in paragraph at lines 322--323
 \TU/LucidaGrande(0)/m/n/10 research on mucin genes, which allow an animal to
  []
 
-[321]
+[327]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[322]
+[328]
 Underfull \hbox (badness 3302) in paragraph at lines 358--359
 \TU/LucidaGrande(0)/m/n/10 from plankton to animals several times larger than
  []
@@ -8898,7 +8945,7 @@ Underfull \hbox (badness 2253) in paragraph at lines 392--394
 \TU/LucidaGrande(0)/m/n/10 flow) with motor nerve cells, which lie mostly
  []
 
-[323
+[329
 
 
 ]
@@ -8918,7 +8965,7 @@ Underfull \hbox (badness 3148) in paragraph at lines 409--410
 \TU/LucidaGrande(0)/m/n/10 Most species have ocelli (“simple eyes”), which can
  []
 
-[324]
+[330]
 Underfull \hbox (badness 1668) in paragraph at lines 425--426
 \TU/LucidaGrande(0)/m/n/10 nized generations (one asexually reproducing, sessil
 e
@@ -8938,18 +8985,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 446--446
 [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][] []
  []
 
-[325]
+[331]
 File: ./figures/animals/Bilaterian_body_plan.png Graphic file (type bmp)
 <./figures/animals/Bilaterian_body_plan.png>
 File: ./figures/animals/Xenoturbella_japonica.jpg Graphic file (type bmp)
 <./figures/animals/Xenoturbella_japonica.jpg>
- [326
+ [332
 
 ]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[327]
+[333]
 File: ./figures/animals/Protovsdeuterostomes.png Graphic file (type bmp)
 <./figures/animals/Protovsdeuterostomes.png>
 
@@ -8990,7 +9037,7 @@ Underfull \hbox (badness 1824) in paragraph at lines 551--552
 \TU/LucidaGrande(0)/m/n/10 of adult echinoderms are the possession of a water
  []
 
-[328
+[334
 
 
 ]
@@ -9018,7 +9065,7 @@ Underfull \hbox (badness 2837) in paragraph at lines 572--573
 []\TU/LucidaGrande(0)/m/n/10 Despite the robustness of the individual skeletal
  []
 
-[329]
+[335]
 Underfull \hbox (badness 1466) in paragraph at lines 574--575
 \TU/LucidaGrande(0)/m/n/10 combination of coloured pigments, such as the dark
  []
@@ -9040,7 +9087,7 @@ Underfull \hbox (badness 1264) in paragraph at lines 582--583
 
  []
 
-[330]
+[336]
 Underfull \hbox (badness 1708) in paragraph at lines 588--589
 []\TU/LucidaGrande(0)/m/n/10 The coelomic fluid contains the coelomocytes, or
  []
@@ -9082,7 +9129,7 @@ Underfull \hbox (badness 1242) in paragraph at lines 598--599
 
 Underfull \vbox (badness 6910) has occurred while \output is active []
 
- [331]
+ [337]
 Underfull \hbox (badness 1331) in paragraph at lines 606--607
 []\TU/LucidaGrande(0)/m/n/10 Echinoderms are globally distributed in almost all
 
@@ -9135,7 +9182,7 @@ Underfull \hbox (badness 3168) in paragraph at lines 626--627
 \TU/LucidaGrande(0)/m/n/10 production and accumulation of various halogenated
  []
 
-[332]
+[338]
 File: ./figures/animals/Branchiostoma_lanceolatum.jpg Graphic file (type bmp)
 <./figures/animals/Branchiostoma_lanceolatum.jpg>
 
@@ -9162,7 +9209,7 @@ Underfull \hbox (badness 1253) in paragraph at lines 689--690
 g
  []
 
-[333]
+[339]
 File: ./figures/animals/Comparison_of_Three_Invertebrate_Chordates.png Graphic 
 file (type bmp)
 <./figures/animals/Comparison_of_Three_Invertebrate_Chordates.png>
@@ -9180,7 +9227,7 @@ Underfull \hbox (badness 1622) in paragraph at lines 702--703
 
 File: ./figures/animals/Actinopterygii-0001.jpg Graphic file (type bmp)
 <./figures/animals/Actinopterygii-0001.jpg>
-[334]
+[340]
 Underfull \hbox (badness 4378) in paragraph at lines 728--729
 []\TU/LucidaGrande(0)/m/n/10 Fish can communicate in their underwater envi-
  []
@@ -9199,7 +9246,7 @@ File: ./figures/animals/Amphibians.png Graphic file (type bmp)
 <./figures/animals/Amphibians.png>
 File: ./figures/animals/Extant_reptilia.jpg Graphic file (type bmp)
 <./figures/animals/Extant_reptilia.jpg>
- [335]
+ [341]
 Underfull \hbox (badness 1067) in paragraph at lines 783--784
 \TU/LucidaGrande(0)/m/n/10 that became increasingly adapted to life on dry land
 .
@@ -9250,7 +9297,7 @@ Underfull \hbox (badness 2197) in paragraph at lines 804--804
 ci-
  []
 
-[336]
+[342]
 File: ./figures/animals/Mammal_Diversity_2011.png Graphic file (type bmp)
 <./figures/animals/Mammal_Diversity_2011.png>
 
@@ -9275,7 +9322,7 @@ Underfull \hbox (badness 1087) in paragraph at lines 827--828
 d
  []
 
-[337]
+[343]
 Underfull \hbox (badness 1735) in paragraph at lines 831--832
 \TU/LucidaGrande(0)/m/n/10 themselves into fission-fusion societies, harems, an
 d
@@ -9289,7 +9336,7 @@ ir
 
 File: ./figures/animals/Arthropoda.jpg Graphic file (type bmp)
 <./figures/animals/Arthropoda.jpg>
-[338]
+[344]
 Underfull \hbox (badness 2903) in paragraph at lines 860--861
 \TU/LucidaGrande(0)/m/n/10 with paired ventral nerve cords running through all
  []
@@ -9346,7 +9393,7 @@ Underfull \hbox (badness 1789) in paragraph at lines 883--884
 \TU/LucidaGrande(0)/m/n/10 tends to support a closer relationship between
  []
 
-[339]
+[345]
 Underfull \hbox (badness 5133) in paragraph at lines 888--889
 \TU/LucidaGrande(0)/m/n/10 Recent studies strongly suggest that Crustacea, as
  []
@@ -9400,7 +9447,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 918--918
 [][][][] [] [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
  []
 
-[340]
+[346]
 Underfull \hbox (badness 1184) in paragraph at lines 933--934
 \TU/LucidaGrande(0)/m/n/10 commonly called wheel animals or wheel animalcules,
  []
@@ -9414,7 +9461,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 943--943
 [][][][] [] [][][][] [] [][][][][][][][][] [] [][][][][][][][][][][][][][] []
  []
 
-[341]
+[347]
 Underfull \hbox (badness 1675) in paragraph at lines 966--967
 []\TU/LucidaGrande(0)/m/n/10 The nervous system comprises about 25% of the
  []
@@ -9444,7 +9491,7 @@ Underfull \hbox (badness 1210) in paragraph at lines 984--985
 \TU/LucidaGrande(0)/m/n/10 dominates the monogonont life cycle, promoting fast
  []
 
-[342]
+[348]
 Underfull \hbox (badness 1418) in paragraph at lines 988--989
 \TU/LucidaGrande(0)/m/n/10 Sessile species, however, are born as free-swimming
  []
@@ -9504,7 +9551,7 @@ Underfull \hbox (badness 1888) in paragraph at lines 1010--1011
 ry
  []
 
-[343]
+[349]
 Underfull \hbox (badness 1990) in paragraph at lines 1018--1019
 \TU/LucidaGrande(0)/m/n/10 long species have an anus and some with complex,
  []
@@ -9516,7 +9563,7 @@ Underfull \hbox (badness 2126) in paragraph at lines 1020--1021
  []
 
 
-LaTeX Warning: Reference `fig:schisto' on page 344 undefined on input line 1032
+LaTeX Warning: Reference `fig:schisto' on page 350 undefined on input line 1032
 .
 
 
@@ -9541,7 +9588,7 @@ Underfull \hbox (badness 1584) in paragraph at lines 1032--1033
 
  []
 
-[344]
+[350]
 File: ./figures/animals/Schistosoma_life_cycle.png Graphic file (type bmp)
 <./figures/animals/Schistosoma_life_cycle.png>
 
@@ -9559,7 +9606,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1062--1062
 []
  []
 
-[345]
+[351]
 Underfull \hbox (badness 2269) in paragraph at lines 1070--1071
 \TU/LucidaGrande(0)/m/n/10 The clade Lophotrochozoa[][][] is named after the tw
 o
@@ -9583,7 +9630,7 @@ Underfull \hbox (badness 2050) in paragraph at lines 1075--1076
 
 File: ./figures/animals/LingulaanatinaAA.jpg Graphic file (type bmp)
 <./figures/animals/LingulaanatinaAA.jpg>
-[346]
+[352]
 Underfull \hbox (badness 1728) in paragraph at lines 1098--1099
 []\TU/LucidaGrande(0)/m/n/10 Entoprocta, whose name means “anus inside”, or
  []
@@ -9609,7 +9656,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1124--1124
 [][][][] [] [][][][] []
  []
 
-[347]
+[353]
 File: ./figures/animals/Washington_DC_Zoo_-_Sepia_officinalis_2.jpg Graphic fil
 e (type bmp)
 <./figures/animals/Washington_DC_Zoo_-_Sepia_officinalis_2.jpg>
@@ -9631,11 +9678,11 @@ Underfull \hbox (badness 2229) in paragraph at lines 1140--1141
 
 File: ./figures/animals/Argopecten_irradians.jpg Graphic file (type bmp)
 <./figures/animals/Argopecten_irradians.jpg>
-[348]
+[354]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[349]
+[355]
 Underfull \hbox (badness 4205) in paragraph at lines 1187--1188
 \TU/LucidaGrande(0)/m/n/10 The annelids[][][] (Annelida, from Latin anellus, “l
 ittle
@@ -9690,10 +9737,10 @@ Underfull \hbox (badness 1515) in paragraph at lines 1228--1229
 \TU/LucidaGrande(0)/m/n/10 the species secreted. Although some late Ediacaran
  []
 
-[350
+[356
 
 
-] [351]
+] [357]
 File: ./figures/animals/epithelium.png Graphic file (type bmp)
 <./figures/animals/epithelium.png>
 File: ./figures/animals/Origin_of_major_organs_on_the_animal_phylogeny.jpg Grap
@@ -9705,7 +9752,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1334--1334
 [][][][] [] [][][][] [] [][][][][][] [] [][] [] [][][][][] [] [][][][][][] []
  []
 
-[352]
+[358]
 Underfull \hbox (badness 1275) in paragraph at lines 1346--1348
 \TU/LucidaGrande(0)/m/n/10 with salivary glands, esophagus, stomach, liver,
  []
@@ -9743,7 +9790,7 @@ Underfull \hbox (badness 1052) in paragraph at lines 1385--1386
 \TU/LucidaGrande(0)/m/n/10 membrane. The epidermis contains melanocytes and
  []
 
-[353]
+[359]
 File: ./figures/animals/Skin.png Graphic file (type bmp)
 <./figures/animals/Skin.png>
 
@@ -9772,7 +9819,7 @@ Underfull \hbox (badness 1048) in paragraph at lines 1440--1441
 \TU/LucidaGrande(0)/m/n/10 outer layer (integument). This gas exchange system,
  []
 
-[354]
+[360]
 Underfull \hbox (badness 4505) in paragraph at lines 1445--1446
 \TU/LucidaGrande(0)/m/n/10 Human evolution[][][] is the evolutionary process th
 at
@@ -9820,7 +9867,7 @@ Underfull \hbox (badness 1960) in paragraph at lines 1473--1474
 
  []
 
-[355]
+[361]
 File: ./figures/animals/Huxley_-_Mans_Place_in_Nature.jpg Graphic file (type bm
 p)
 <./figures/animals/Huxley_-_Mans_Place_in_Nature.jpg>
@@ -9842,7 +9889,7 @@ Underfull \hbox (badness 1215) in paragraph at lines 1496--1497
 
  []
 
-[356]
+[362]
 Underfull \hbox (badness 4391) in paragraph at lines 1500--1501
 \TU/LucidaGrande(0)/m/n/10 guage processing, have increased disproportionately,
 
@@ -9863,7 +9910,7 @@ Underfull \hbox (badness 1931) in paragraph at lines 1504--1505
 []\TU/LucidaGrande(0)/m/n/10 The immediate survival advantage of encephaliza-
  []
 
-[357]
+[363]
 Underfull \hbox (badness 2158) in paragraph at lines 1522--1523
 \TU/LucidaGrande(0)/m/n/10 showed short canine teeth, and the position of the
  []
@@ -9885,7 +9932,7 @@ Underfull \hbox (badness 1163) in paragraph at lines 1528--1529
 
  []
 
-[358]
+[364]
 Underfull \hbox (badness 3375) in paragraph at lines 1538--1539
 []\TU/LucidaGrande(0)/m/n/10 Furthermore, analysis of the two species’ genes
  []
@@ -9898,7 +9945,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1563--1563
 ] [][][][][] [] [][][][][][][][][] [] [][][][][][] [] [][][][] []
  []
 
-[359]
+[365]
 Underfull \hbox (badness 1852) in paragraph at lines 1574--1575
 \TU/LucidaGrande(0)/m/n/10 genetic diversity among the 113 distinct populations
 
@@ -9938,7 +9985,7 @@ n
 
 File: ./figures/animals/Neandertaler_reconst.jpg Graphic file (type bmp)
 <./figures/animals/Neandertaler_reconst.jpg>
-[360]
+[366]
 Underfull \hbox (badness 6608) in paragraph at lines 1600--1601
 []\TU/LucidaGrande(0)/m/n/10 The gibbons (family Hylobatidae) and then the
  []
@@ -9953,7 +10000,7 @@ Underfull \hbox (badness 1221) in paragraph at lines 1600--1601
 \TU/LucidaGrande(0)/m/n/10 Late Miocene. Speciation, however, appears to have
  []
 
-[361]
+[367]
 File: ./figures/animals/Homo_ergaster.jpg Graphic file (type bmp)
 <./figures/animals/Homo_ergaster.jpg>
 
@@ -9993,7 +10040,7 @@ Underfull \hbox (badness 1342) in paragraph at lines 1633--1634
 \TU/LucidaGrande(0)/m/n/10 genetics are Denisovan. Comparisons of the human
  []
 
-[362]
+[368]
 Underfull \hbox (badness 1286) in paragraph at lines 1644--1645
 \TU/LucidaGrande(0)/m/n/10 most completely in the Upper Eocene and lowermost
  []
@@ -10025,7 +10072,7 @@ Underfull \hbox (badness 1742) in paragraph at lines 1650--1651
 \TU/LucidaGrande(0)/m/n/10 and Dryopithecus from France, Spain and Austria—is
  []
 
-[363]
+[369]
 Underfull \hbox (badness 1622) in paragraph at lines 1670--1671
 \TU/LucidaGrande(0)/m/n/10 The genus Australopithecus evolved in eastern Africa
 
@@ -10066,13 +10113,13 @@ Underfull \hbox (badness 1107) in paragraph at lines 1700--1701
 
  []
 
-[364]
+[370]
 Underfull \hbox (badness 1675) in paragraph at lines 1733--1734
 \TU/LucidaGrande(0)/m/n/10 tools; these differences and others are sufficient f
 or
  []
 
-[365]
+[371]
 Underfull \hbox (badness 6526) in paragraph at lines 1748--1749
 \TU/LucidaGrande(0)/m/n/10 as \TU/LucidaGrande(0)/m/it/10 Homo sapiens \TU/Luci
 daGrande(0)/m/n/10 heidelbergensis or \TU/LucidaGrande(0)/m/it/10 Homo sapiens
@@ -10083,7 +10130,7 @@ Underfull \hbox (badness 1152) in paragraph at lines 1763--1764
 \TU/LucidaGrande(0)/m/n/10 The genetic sequencing of a 40,000 year old human
  []
 
-[366]
+[372]
 Underfull \hbox (badness 1424) in paragraph at lines 1769--1770
 \TU/LucidaGrande(0)/m/n/10 more than half the HLA alleles of modern Eurasians,
  []
@@ -10099,7 +10146,7 @@ Underfull \hbox (badness 1237) in paragraph at lines 1771--1772
 \TU/LucidaGrande(0)/m/n/10 genomes show similarity to the modern human gene
  []
 
-[367]
+[373]
 File: ./figures/animals/Oldowan_tradition_chopper.jpg Graphic file (type bmp)
 <./figures/animals/Oldowan_tradition_chopper.jpg>
 
@@ -10124,7 +10171,7 @@ Underfull \hbox (badness 2020) in paragraph at lines 1817--1818
 \TU/LucidaGrande(0)/m/n/10 thumbs, finding that humans have 3 muscles which
  []
 
-[368]
+[374]
 Underfull \hbox (badness 1062) in paragraph at lines 1823--1824
 \TU/LucidaGrande(0)/m/n/10 by the Neanderthals and the immigrant Cro-Magnons
  []
@@ -10147,15 +10194,15 @@ ian Culture bone tools (need-
 
 Underfull \vbox (badness 4582) has occurred while \output is active []
 
- [369])
-[370
+ [375])
+[376
 
 ]
 \openout2 = `circulatory_system.aux'.
 
  (./circulatory_system.tex
 Chapter 20.
-[371
+[377
 
 
 
@@ -10187,12 +10234,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--79
 [][][][] [] [][][][] [] [][][][] [] [][][][][][][][][] [] [][][][][][][] []
  []
 
-[372]
+[378]
 Underfull \hbox (badness 1253) in paragraph at lines 97--98
 []\TU/LucidaGrande(0)/m/n/10 The human heart is situated in the middle medi-
  []
 
-[373]
+[379]
 File: ./figures/circulation/Diagram_of_the_human_heart_(cropped).png Graphic fi
 le (type bmp)
 <./figures/circulation/Diagram_of_the_human_heart_(cropped).png>
@@ -10202,7 +10249,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--114
 [][][][] [] [][][][] [] [][][][][][][] [] [][] [] [][][] [] [][][][][] []
  []
 
-[374]
+[380]
 File: ./figures/circulation/Coronary_arteries.png Graphic file (type bmp)
 <./figures/circulation/Coronary_arteries.png>
 
@@ -10212,7 +10259,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--164
 ] []
  []
 
-[375]
+[381]
 Underfull \hbox (badness 1817) in paragraph at lines 169--170
 \TU/LucidaGrande(0)/m/n/10 and from nerves arising from the sympathetic trunk.
  []
@@ -10259,7 +10306,7 @@ Underfull \hbox (badness 2478) in paragraph at lines 178--179
 s
  []
 
-[376]
+[382]
 File: ./figures/circulation/ConductionsystemoftheheartwithouttheHeart-en.png Gr
 aphic file (type bmp)
 <./figures/circulation/ConductionsystemoftheheartwithouttheHeart-en.png>
@@ -10278,7 +10325,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 224--224
 [][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][] [] [][][] []
  []
 
-[377]
+[383]
 Underfull \hbox (badness 3128) in paragraph at lines 252--253
 \TU/LucidaGrande(0)/m/n/10 lar system which transports oxygenated blood away
  []
@@ -10293,7 +10340,7 @@ Underfull \hbox (badness 1688) in paragraph at lines 263--265
 \TU/LucidaGrande(0)/m/n/10 through the pulmonary semilunar valve into the pul-
  []
 
-[378]
+[384]
 File: ./figures/circulation/2113ab_Atherosclerosis.jpg Graphic file (type bmp)
 <./figures/circulation/2113ab_Atherosclerosis.jpg>
 
@@ -10302,13 +10349,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 283--283
 [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][] []
  []
 
-[379]
+[385]
 Underfull \hbox (badness 1194) in paragraph at lines 305--306
 \TU/LucidaGrande(0)/m/n/10 the father of circulatory physiology.[failed verific
 ation]
  []
 
-) [380]
+) [386]
 \openout2 = `immune_system.aux'.
 
  (./immune_system.tex
@@ -10345,7 +10392,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--21
 [][][][] [] [][][][] [] [][][][][][][] [] [][][][] []
  []
 
-[381
+[387
 
 
 
@@ -10381,7 +10428,7 @@ Underfull \hbox (badness 1072) in paragraph at lines 67--68
 r
  []
 
-[382]
+[388]
 File: ./figures/immune/Illu_spleen.jpg Graphic file (type bmp)
 <./figures/immune/Illu_spleen.jpg>
 
@@ -10399,7 +10446,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--114
 [][][][] [] [][][][] [] [][][][][][][][][] [] [][] [] [][][][][] []
  []
 
-[383]
+[389]
 File: ./figures/immune/2202_Lymphatic_Capillaries_big.png Graphic file (type bm
 p)
 <./figures/immune/2202_Lymphatic_Capillaries_big.png>
@@ -10448,7 +10495,7 @@ Underfull \hbox (badness 4316) in paragraph at lines 178--179
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [384]
+ [390]
 Underfull \hbox (badness 5893) in paragraph at lines 180--181
 \TU/LucidaGrande(0)/m/n/10 Immunodeficiency occurs when the immune system
  []
@@ -10483,7 +10530,7 @@ Overfull \hbox (6.23737pt too wide) in paragraph at lines 187--200
  [][] 
  []
 
-[385]
+[391]
 Underfull \hbox (badness 3323) in paragraph at lines 209--210
 \TU/LucidaGrande(0)/m/n/10 Microorganisms or toxins that successfully enter an
  []
@@ -10571,7 +10618,7 @@ Underfull \hbox (badness 1028) in paragraph at lines 224--225
 in
  []
 
-[386]
+[392]
 Underfull \hbox (badness 1092) in paragraph at lines 229--230
 \TU/LucidaGrande(0)/m/n/10 macrophages, mast cells, and dendritic cells are les
 s
@@ -10596,7 +10643,7 @@ Underfull \hbox (badness 2469) in paragraph at lines 256--257
 \TU/LucidaGrande(0)/m/n/10 phagocytes have molecules called receptors on their
  []
 
-[387]
+[393]
 File: ./figures/immune/Neutrophil_with_anthrax_copy.jpg Graphic file (type bmp)
 
 <./figures/immune/Neutrophil_with_anthrax_copy.jpg>
@@ -10620,7 +10667,7 @@ Underfull \hbox (badness 3861) in paragraph at lines 311--312
 \TU/LucidaGrande(0)/m/n/10 trophil. When activated by a pathogen encounter,
  []
 
-[388]
+[394]
 File: ./figures/immune/Eosinophil_blood_smear.jpg Graphic file (type bmp)
 <./figures/immune/Eosinophil_blood_smear.jpg>
 
@@ -10674,7 +10721,7 @@ Underfull \hbox (badness 4608) in paragraph at lines 338--339
 \TU/LucidaGrande(0)/m/n/10 immune system mediate the inflammatory response.
  []
 
-[389]
+[395]
 Underfull \hbox (badness 1286) in paragraph at lines 349--351
 []\TU/LucidaGrande(0)/m/n/10 swelling of affected tissues, such as the upper
  []
@@ -10697,7 +10744,7 @@ Underfull \hbox (badness 2277) in paragraph at lines 376--377
 \TU/LucidaGrande(0)/m/n/10 tion modification system to protect themselves from
  []
 
-[390]
+[396]
 Underfull \hbox (badness 3514) in paragraph at lines 378--379
 []\TU/LucidaGrande(0)/m/n/10 Invertebrates do not possess lymphocytes or an
  []
@@ -10754,7 +10801,7 @@ Underfull \hbox (badness 1147) in paragraph at lines 390--391
 
 Underfull \vbox (badness 5217) has occurred while \output is active []
 
- [391]
+ [397]
 Underfull \hbox (badness 4108) in paragraph at lines 401--402
 []\TU/LucidaGrande(0)/m/n/10 Unlike the innate immune system, the acquired
  []
@@ -10772,7 +10819,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 419--419
 [][][][] [] [][][][] [] [][][][][][][] [] [][][][][][] []
  []
 
-[392]
+[398]
 Underfull \hbox (badness 1845) in paragraph at lines 450--452
 []\TU/LucidaGrande(0)/m/n/10 naive B and naive T cells (cells that have not
  []
@@ -10803,7 +10850,7 @@ Underfull \hbox (badness 1354) in paragraph at lines 497--498
 
  []
 
-[393] [394]
+[399] [400]
 Underfull \hbox (badness 1533) in paragraph at lines 528--530
 \TU/LucidaGrande(0)/m/n/10 antibodies that circulate in blood plasma and lymph,
 
@@ -10830,7 +10877,7 @@ Underfull \hbox (badness 1107) in paragraph at lines 544--545
 []\TU/LucidaGrande(0)/m/n/10 Neutralization: Blocks adhesion of bacteria and
  []
 
-[395]
+[401]
 File: ./figures/immune/B_cell_activation.png Graphic file (type bmp)
 <./figures/immune/B_cell_activation.png>
 
@@ -10841,7 +10888,7 @@ Underfull \hbox (badness 1303) in paragraph at lines 574--575
 []\TU/LucidaGrande(0)/m/n/10 Antibodies are glycoproteins belonging to the im-
  []
 
-[396]
+[402]
 Underfull \hbox (badness 1558) in paragraph at lines 580--581
 \TU/LucidaGrande(0)/m/n/10 functional locations and ability to deal with differ
 ent
@@ -10854,12 +10901,12 @@ Underfull \hbox (badness 1590) in paragraph at lines 582--583
 
 File: ./figures/immune/Antibody_chains.png Graphic file (type bmp)
 <./figures/immune/Antibody_chains.png>
-[397]
+[403]
 Underfull \hbox (badness 2027) in paragraph at lines 610--611
 \TU/LucidaGrande(0)/m/n/10 vertebrates. However, a distinct lymphocyte-derived
  []
 
-) [398]
+) [404]
 \openout2 = `respiratory_system.aux'.
 
  (./respiratory_system.tex
@@ -10918,7 +10965,7 @@ Underfull \hbox (badness 2261) in paragraph at lines 26--27
 s
  []
 
-[399
+[405
 
 
 
@@ -10939,7 +10986,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--53
 [][][][] [] [][][][] [] [][][][][][][][][][][] [] [][][][][][][] []
  []
 
-[400]
+[406]
 Underfull \hbox (badness 1052) in paragraph at lines 68--69
 \TU/LucidaGrande(0)/m/n/10 powerful and greater excursion of the contracting di
 -
@@ -10966,7 +11013,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--81
 [][][][][][][][] [] [][][][][][][] [] [] [] [][] [] [][][][][][][][] []
  []
 
-[401]
+[407]
 File: ./figures/respiratory/Alveolar_wall.jpg Graphic file (type bmp)
 <./figures/respiratory/Alveolar_wall.jpg>
 
@@ -10987,7 +11034,7 @@ Underfull \hbox (badness 1199) in paragraph at lines 92--93
 
 File: ./figures/respiratory/Gas_exchange.jpg Graphic file (type bmp)
 <./figures/respiratory/Gas_exchange.jpg>
-[402]
+[408]
 File: ./figures/respiratory/Alveolus.jpg Graphic file (type bmp)
 <./figures/respiratory/Alveolus.jpg>
 
@@ -11001,7 +11048,7 @@ Underfull \hbox (badness 1275) in paragraph at lines 126--127
 \TU/LucidaGrande(0)/m/n/10 molecule. When all the heme groups carry one O$[]$)
  []
 
-[403]
+[409]
 Underfull \hbox (badness 1199) in paragraph at lines 147--148
 \TU/LucidaGrande(0)/m/n/10 and mouth, and continues to just beyond the syrinx
  []
@@ -11039,7 +11086,7 @@ Underfull \hbox (badness 1221) in paragraph at lines 153--154
 
  []
 
-[404]
+[410]
 Underfull \hbox (badness 2781) in paragraph at lines 162--163
 []\TU/LucidaGrande(0)/m/n/10 Birds lack a diaphragm, and therefore use their
  []
@@ -11091,7 +11138,7 @@ Underfull \hbox (badness 3679) in paragraph at lines 177--178
 \TU/LucidaGrande(0)/m/n/10 the intrapulmonary bronchi were previously believed
  []
 
-[405]
+[411]
 Underfull \hbox (badness 1107) in paragraph at lines 181--183
 \TU/LucidaGrande(0)/m/n/10 parabronchi. The pulmonary capillaries surround the
  []
@@ -11129,10 +11176,10 @@ Underfull \hbox (badness 1107) in paragraph at lines 202--203
 
  []
 
-[406]
+[412]
 File: ./figures/respiratory/Axolotl_ganz.jpg Graphic file (type bmp)
 <./figures/respiratory/Axolotl_ganz.jpg>
- [407]
+ [413]
 Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\TU/LucidaGrande(0)/b/n/14.4 The Respiratory System of
  []
@@ -11161,23 +11208,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 262--262
 []\TU/LucidaGrande(0)/b/n/14.4 The Respiratory System of
  []
 
-[408]
+[414]
 Underfull \hbox (badness 1454) in paragraph at lines 266--267
 \TU/LucidaGrande(0)/m/n/10 (break-down reactions that release energy). But the
  []
 
-) [409
+) [415
 
 ]
 \openout2 = `digestive_system.aux'.
 
- (./digestive_system.tex [410
+ (./digestive_system.tex [416
 
 
 
 ]
 Chapter 23.
-[411]
+[417]
 Underfull \hbox (badness 1609) in paragraph at lines 34--35
 \TU/LucidaGrande(0)/m/n/10 and smell stimuli are sent to the hypothalamus and
  []
@@ -11204,7 +11251,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--60
 []
  []
 
-[412]
+[418]
 File: ./figures/digestive/Anatomy_Abdomen_Tiesworks.jpg Graphic file (type bmp)
 
 <./figures/digestive/Anatomy_Abdomen_Tiesworks.jpg>
@@ -11214,7 +11261,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--81
 [][][][] [] [][][][] [] [][][][][][][] [] [][][][][][][] []
  []
 
-[413]
+[419]
 Underfull \hbox (badness 3343) in paragraph at lines 88--89
 []\TU/LucidaGrande(0)/m/n/10 There are several organs and other components
  []
@@ -11238,7 +11285,7 @@ Underfull \hbox (badness 1168) in paragraph at lines 124--125
 \TU/LucidaGrande(0)/m/n/10 the back part of the tongue and these also produce
  []
 
-[414]
+[420]
 Underfull \hbox (badness 1616) in paragraph at lines 139--140
 \TU/LucidaGrande(0)/m/n/10 the chorda tympani, and the glossopharyngeal nerve.
  []
@@ -11251,18 +11298,18 @@ Underfull \hbox (badness 2005) in paragraph at lines 139--140
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [415]
+ [421]
 Underfull \hbox (badness 1052) in paragraph at lines 163--164
 \TU/LucidaGrande(0)/m/n/10 muscles known as peristalsis. The lower esophageal
  []
 
-[416]
+[422]
 File: ./figures/digestive/Illu_stomach.jpg Graphic file (type bmp)
 <./figures/digestive/Illu_stomach.jpg>
- [417]
+ [423]
 File: ./figures/digestive/Hepatic_structure2.png Graphic file (type bmp)
 <./figures/digestive/Hepatic_structure2.png>
- [418]
+ [424]
 File: ./figures/digestive/1820_The_Pancreas.jpg Graphic file (type bmp)
 <./figures/digestive/1820_The_Pancreas.jpg>
 
@@ -11283,7 +11330,7 @@ Underfull \hbox (badness 3058) in paragraph at lines 255--256
 
  []
 
-[419] [420] [421]
+[425] [426] [427]
 Underfull \hbox (badness 1715) in paragraph at lines 327--327
 []\TU/LucidaGrande(0)/b/n/14.4 The Digestive System of An-
  []
@@ -11293,7 +11340,7 @@ Underfull \hbox (badness 1478) in paragraph at lines 329--330
 \TU/LucidaGrande(0)/m/n/10 friendly bacteria continue chemical breakdown. This
  []
 
-) [422
+) [428
 
 ]
 \openout2 = `excretory_system.aux'.
@@ -11326,7 +11373,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 34--35
 \TU/LucidaGrande(0)/m/n/10 two utterly disparate environments—marine and fresh
  []
 
-[423
+[429
 
 
 
@@ -11342,7 +11389,7 @@ Underfull \hbox (badness 1019) in paragraph at lines 71--72
 d
  []
 
-[424]
+[430]
 File: ./figures/excretory/Urinary_system.png Graphic file (type bmp)
 <./figures/excretory/Urinary_system.png>
 
@@ -11356,7 +11403,7 @@ Overfull \hbox (2.96869pt too wide) in paragraph at lines 97--99
 ,
  []
 
-[425]
+[431]
 File: ./figures/excretory/Blausen_0592_KidneyAnatomy_01.png Graphic file (type 
 bmp)
 <./figures/excretory/Blausen_0592_KidneyAnatomy_01.png>
@@ -11414,12 +11461,12 @@ Underfull \hbox (badness 4886) in paragraph at lines 183--184
 \TU/LucidaGrande(0)/m/n/10 system by hormones such as antidiuretic hormone,
  []
 
-[426] [427]
+[432] [433]
 Underfull \hbox (badness 2698) in paragraph at lines 191--192
 \TU/LucidaGrande(0)/m/n/10 kidneys and the urinary bladder harbour specialized
  []
 
-) [428]
+) [434]
 \openout2 = `nervous_system.aux'.
 
  (./nervous_system.tex
@@ -11472,16 +11519,16 @@ Underfull \hbox (badness 5036) in paragraph at lines 41--42
 
 Underfull \vbox (badness 5985) has occurred while \output is active []
 
- [429
+ [435
 
 
 
 ]
-[430]
+[436]
 File: ./figures/nervoussystem/RabbitPyramidalCellCajalMetodos.jpg Graphic file 
 (type bmp)
 <./figures/nervoussystem/RabbitPyramidalCellCajalMetodos.jpg>
- [431]
+ [437]
 File: ./figures/nervoussystem/invertebrate_nervoussystems.png Graphic file (typ
 e bmp)
 <./figures/nervoussystem/invertebrate_nervoussystems.png>
@@ -11534,7 +11581,7 @@ Underfull \hbox (badness 1448) in paragraph at lines 91--92
 es.
  []
 
-[432]
+[438]
 Underfull \hbox (badness 1137) in paragraph at lines 95--96
 \TU/LucidaGrande(0)/m/n/10 crustaceans, arachnids, and others), and cephalopods
 
@@ -11556,10 +11603,10 @@ Underfull \hbox (badness 1062) in paragraph at lines 111--112
 \TU/LucidaGrande(0)/m/n/10 ganglia. The head segment contains the brain, also
  []
 
-[433]
+[439]
 File: ./figures/nervoussystem/cns_comparison.jpg Graphic file (type bmp)
 <./figures/nervoussystem/cns_comparison.jpg>
- [434]
+ [440]
 Underfull \hbox (badness 2970) in paragraph at lines 132--133
 \TU/LucidaGrande(0)/m/n/10 spheres), diencephalon (thalamus and hypothalamus),
  []
@@ -11577,7 +11624,7 @@ Underfull \hbox (badness 2012) in paragraph at lines 151--153
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [435]
+ [441]
 Underfull \hbox (badness 1097) in paragraph at lines 159--161
 \TU/LucidaGrande(0)/m/n/10 important neural effects by altering connections
  []
@@ -11599,7 +11646,7 @@ Underfull \hbox (badness 1838) in paragraph at lines 166--167
 
 File: ./figures/nervoussystem/fnana-05-00029-g007.jpg Graphic file (type bmp)
 <./figures/nervoussystem/fnana-05-00029-g007.jpg>
-[436]
+[442]
 File: ./figures/nervoussystem/GrayAnat1918p821.jpg Graphic file (type bmp)
 <./figures/nervoussystem/GrayAnat1918p821.jpg>
 
@@ -11626,17 +11673,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 226--226
 
 File: ./figures/nervoussystem/gyri_bot.jpg Graphic file (type bmp)
 <./figures/nervoussystem/gyri_bot.jpg>
-[437]
+[443]
 Underfull \hbox (badness 1953) in paragraph at lines 245--245
 []\TU/LucidaGrande(0)/b/n/14.4 Development Of The Nervous
  []
 
-[438]
+[444]
 Underfull \hbox (badness 1014) in paragraph at lines 258--258
 []\TU/LucidaGrande(0)/b/n/14.4 The Function Of The Nervous
  []
 
-[439]
+[445]
 Underfull \hbox (badness 1112) in paragraph at lines 280--282
 \TU/LucidaGrande(0)/m/n/10 transmitters (pathways) leading to area S1, and
  []
@@ -11651,7 +11698,7 @@ Underfull \hbox (badness 2126) in paragraph at lines 311--312
 \TU/LucidaGrande(0)/m/n/10 mitter chemicals. When the presynaptic terminal is
  []
 
-[440]
+[446]
 Underfull \hbox (badness 1910) in paragraph at lines 313--314
 []\TU/LucidaGrande(0)/m/n/10 There are literally hundreds of different types of
 
@@ -11703,7 +11750,7 @@ Underfull \hbox (badness 1496) in paragraph at lines 317--318
 \TU/LucidaGrande(0)/m/n/10 TORC1 (CRTC1) becomes activated, that converts the
  []
 
-[441]
+[447]
 Underfull \hbox (badness 1852) in paragraph at lines 335--336
 \TU/LucidaGrande(0)/m/n/10 composition, are maintained across species, allowing
 
@@ -11715,7 +11762,7 @@ Underfull \hbox (badness 1708) in paragraph at lines 345--346
 
  []
 
-[442]
+[448]
 Underfull \hbox (badness 1910) in paragraph at lines 366--367
 \TU/LucidaGrande(0)/m/n/10 ion channels that permit electrically charged ions t
 o
@@ -11779,7 +11826,7 @@ Underfull \hbox (badness 1337) in paragraph at lines 370--371
 n
  []
 
-[443]
+[449]
 File: ./figures/cells/Complete_neuron_cell_diagram_en.png Graphic file (type bm
 p)
 <./figures/cells/Complete_neuron_cell_diagram_en.png>
@@ -11802,7 +11849,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 419--419
 [] [] [][][][][][][][][] [] [][] [] [] [] [] [] [] [] [] [] [] []
  []
 
-[444]
+[450]
 Underfull \hbox (badness 2393) in paragraph at lines 449--450
 \TU/LucidaGrande(0)/m/n/10 glutamate, which relieves the ON bipolar cells from
  []
@@ -11852,7 +11899,7 @@ Underfull \hbox (badness 1509) in paragraph at lines 460--461
 \TU/LucidaGrande(0)/m/n/10 flow is suppressed, glutamate is released from
  []
 
-[445]
+[451]
 Underfull \hbox (badness 10000) in paragraph at lines 465--467
 []\TU/LucidaGrande(0)/m/n/10 AMPA (α-amino-3-hydroxy-5-methyl-4-
  []
@@ -11893,7 +11940,7 @@ Underfull \hbox (badness 1062) in paragraph at lines 491--492
 
  []
 
-[446]
+[452]
 Underfull \hbox (badness 1558) in paragraph at lines 499--500
 \TU/LucidaGrande(0)/m/n/10 produce inhibitory molecules that inhibit regrowth o
 f
@@ -11933,7 +11980,7 @@ Underfull \hbox (badness 1430) in paragraph at lines 526--527
 \TU/LucidaGrande(0)/m/n/10 Membrane potential (also transmembrane potential or
  []
 
-[447]
+[453]
 Underfull \hbox (badness 2932) in paragraph at lines 547--548
 \TU/LucidaGrande(0)/m/n/10 Whewell[][][]) by English physicist and chemist Mich
 ael
@@ -11944,7 +11991,7 @@ Underfull \hbox (badness 1057) in paragraph at lines 547--548
 \TU/LucidaGrande(0)/m/n/10 medium. Faraday did not know the nature of these
  []
 
-[448] [449]
+[454] [455]
 Underfull \hbox (badness 2142) in paragraph at lines 566--567
 \TU/LucidaGrande(0)/m/n/10 sometimes the permeability varies depending on the
  []
@@ -11973,10 +12020,10 @@ Underfull \hbox (badness 1221) in paragraph at lines 592--593
 \TU/LucidaGrande(0)/m/n/10 important effect is to pump calcium outward—it also
  []
 
-[450]
+[456]
 File: ./figures/potential/Kcsa.png Graphic file (type bmp)
 <./figures/potential/Kcsa.png>
- [451]
+ [457]
 Underfull \hbox (badness 1810) in paragraph at lines 622--623
 \TU/LucidaGrande(0)/m/n/10 closing. Cell membranes are generally impermeable
  []
@@ -11998,7 +12045,7 @@ Underfull \hbox (badness 1231) in paragraph at lines 624--625
 
  []
 
-[452]
+[458]
 Underfull \hbox (badness 1975) in paragraph at lines 626--627
 []\TU/LucidaGrande(0)/m/n/10 Crystallographic structural studies of a potassium
 
@@ -12050,7 +12097,7 @@ Underfull \hbox (badness 1087) in paragraph at lines 647--649
 \TU/LucidaGrande(0)/m/n/10 gous repeat domains (I-IV) each comprising six
  []
 
-[453]
+[459]
 Underfull \hbox (badness 1371) in paragraph at lines 653--655
 \TU/LucidaGrande(0)/m/n/10 known mainly for their role in repolarizing the
  []
@@ -12116,7 +12163,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: ./figures/potential/voltage_gated_ion_channels.png Graphic file (type bmp
 )
 <./figures/potential/voltage_gated_ion_channels.png>
- [454]
+ [460]
 Underfull \hbox (badness 1688) in paragraph at lines 685--686
 \TU/LucidaGrande(0)/m/n/10 subunit consisting of an extracellular amino termina
 l
@@ -12150,7 +12197,7 @@ Underfull \hbox (badness 1596) in paragraph at lines 698--699
 
 Underfull \vbox (badness 1152) has occurred while \output is active []
 
- [455]
+ [461]
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
 (Font)              scaled to size 4.07913pt on input line 714.
 
@@ -12196,7 +12243,7 @@ Underfull \hbox (badness 1097) in paragraph at lines 737--738
 ,
  []
 
-[456]
+[462]
 Overfull \hbox (12.31453pt too wide) detected at line 746
 \OML/lmm/m/it/10 E[] \OT1/lmr/m/n/10 = [] [] []
  []
@@ -12208,7 +12255,7 @@ Underfull \hbox (badness 1122) in paragraph at lines 752--753
 \TU/LucidaGrande(0)/m/n/10 potentials) is usually near -60 mV—more depolarized
  []
 
-[457]
+[463]
 Underfull \hbox (badness 1072) in paragraph at lines 765--766
 \TU/LucidaGrande(0)/m/n/10 depolarising the transmembrane potential. When the
  []
@@ -12236,13 +12283,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 777--777
 [][][][] [] [][][][] [] [][][][][][][][] [] [][][][][][][][][][][][] []
  []
 
-[458]
+[464]
 Underfull \hbox (badness 1867) in paragraph at lines 823--824
 \TU/LucidaGrande(0)/m/n/10 factors: the availability and rate-of-synthesis of t
 he
  []
 
-[459]
+[465]
 Underfull \hbox (badness 2165) in paragraph at lines 825--826
 \TU/LucidaGrande(0)/m/n/10 electrical potential, a neurotransmitter is released
  at
@@ -12296,7 +12343,7 @@ Underfull \hbox (badness 1824) in paragraph at lines 850--851
 e
  []
 
-[460]
+[466]
 File: ./figures/synapse/synapse_electronmicrograph.jpg Graphic file (type bmp)
 <./figures/synapse/synapse_electronmicrograph.jpg>
 
@@ -12365,12 +12412,12 @@ Underfull \hbox (badness 2073) in paragraph at lines 883--884
 \TU/LucidaGrande(0)/m/n/10 trometry techniques, many more proteins have been
  []
 
-[461]
+[467]
 File: ./figures/synapse/NMDA_receptor.png Graphic file (type bmp)
 <./figures/synapse/NMDA_receptor.png>
 File: ./figures/synapse/synapse_diagram.jpg Graphic file (type bmp)
 <./figures/synapse/synapse_diagram.jpg>
- [462]
+ [468]
 Underfull \hbox (badness 2961) in paragraph at lines 915--916
 []\TU/LucidaGrande(0)/m/n/10 By altering the release of neurotransmitters, the
  []
@@ -12385,7 +12432,7 @@ Underfull \hbox (badness 1173) in paragraph at lines 936--938
 \TU/LucidaGrande(0)/m/n/10 ter contents into the synaptic cleft, the narrow
  []
 
-[463]
+[469]
 Underfull \hbox (badness 6893) in paragraph at lines 956--957
 \TU/LucidaGrande(0)/m/n/10 neurotransmitters are synthesized from simple and
  []
@@ -12401,7 +12448,7 @@ Underfull \hbox (badness 2635) in paragraph at lines 974--975
 n
  []
 
-[464]
+[470]
 Underfull \hbox (badness 4229) in paragraph at lines 983--983
 []\TU/LucidaGrande(0)/b/n/12 Modulatory Neurotransmitter Sys-
  []
@@ -12444,7 +12491,7 @@ Underfull \hbox (badness 3199) in paragraph at lines 1008--1009
 \TU/LucidaGrande(0)/m/n/10 and stretch-activated ion channels (which open and
  []
 
-[465]
+[471]
 Underfull \hbox (badness 2005) in paragraph at lines 1028--1030
 []\TU/LucidaGrande(0)/m/n/10 GABAergic: GABA$[]$, GABA$[]$, GABA$[]$, GABA$[]$,
 
@@ -12465,12 +12512,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1034--1036
 \TU/LucidaGrande(0)/m/n/10 Nicotinic: muscle, neuronal (α-bungarotoxin-
  []
 
-) [466]
+) [472]
 \openout2 = `sensation.aux'.
 
  (./sensation.tex
 Chapter 26.
-[467
+[473
 
 
 
@@ -12485,7 +12532,7 @@ Underfull \hbox (badness 1048) in paragraph at lines 35--36
 \TU/LucidaGrande(0)/m/n/10 presence of tissue damage, from sensory information
  []
 
-[468]
+[474]
 Underfull \hbox (badness 5592) in paragraph at lines 56--57
 \TU/LucidaGrande(0)/m/n/10 Photoreceptors are capable of phototransduction, a
  []
@@ -12502,7 +12549,7 @@ Underfull \hbox (badness 1014) in paragraph at lines 56--57
 y
  []
 
-[469]
+[475]
 Underfull \hbox (badness 1424) in paragraph at lines 70--72
 []\TU/LucidaGrande(0)/m/n/10 Rapidly adapting receptors have small receptive
  []
@@ -12522,7 +12569,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--78
 \TU/LucidaGrande(0)/m/n/10 types of thermoreceptors:[permanent dead link]‹See
  []
 
-[470]
+[476]
 File: ./figures/sensation/anatomyofhumanbo1918gray_1008.jpg Graphic file (type 
 bmp)
 <./figures/sensation/anatomyofhumanbo1918gray_1008.jpg>
@@ -12532,7 +12579,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--124
 [][][][][][][][][][][][][][][][][][][][][][] [] [][][][] [] [][] []
  []
 
-[471]
+[477]
 Underfull \hbox (badness 3375) in paragraph at lines 148--149
 \TU/LucidaGrande(0)/m/n/10 forming and non-image-forming) information to the
  []
@@ -12560,7 +12607,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 203--203
 [] [] [][][][][][][][][] [] [][] [] [] [] [] [] [] [] [] [] [] []
  []
 
-[472]
+[478]
 Underfull \hbox (badness 3547) in paragraph at lines 214--215
 \TU/LucidaGrande(0)/m/n/10 the photoreceptors can be perceived as tiny bright
  []
@@ -12573,10 +12620,10 @@ Underfull \hbox (badness 1062) in paragraph at lines 214--215
 
 File: ./figures/sensation/FrogRetinaCajalManual.jpg Graphic file (type bmp)
 <./figures/sensation/FrogRetinaCajalManual.jpg>
-[473]
+[479]
 File: ./figures/sensation/PhotorecptorsCajalManual.jpg Graphic file (type bmp)
 <./figures/sensation/PhotorecptorsCajalManual.jpg>
- [474]
+ [480]
 File: ./figures/sensation/Visual_cycle.png Graphic file (type bmp)
 <./figures/sensation/Visual_cycle.png>
 
@@ -12604,7 +12651,7 @@ Underfull \hbox (badness 1629) in paragraph at lines 296--298
 \TU/LucidaGrande(0)/m/n/10 (mGluR6), which, through a G-protein coupling
  []
 
-[475]
+[481]
 Underfull \hbox (badness 2050) in paragraph at lines 323--324
 \TU/LucidaGrande(0)/m/n/10 by the photoreceptors causes depolarization of
  []
@@ -12656,7 +12703,7 @@ Underfull \hbox (badness 7030) in paragraph at lines 349--351
 \TU/LucidaGrande(0)/m/n/10 the phototransduction cascade (restoring dark
  []
 
-[476]
+[482]
 File: ./figures/sensation/Human_visual_pathway.png Graphic file (type bmp)
 <./figures/sensation/Human_visual_pathway.png>
 
@@ -12698,16 +12745,16 @@ Underfull \hbox (badness 1137) in paragraph at lines 391--392
 []\TU/LucidaGrande(0)/m/n/10 Behavioral studies have shown that the SC is not
  []
 
-[477] [478]
+[483] [484]
 File: ./figures/sensation/Visual_field_maps.jpg Graphic file (type bmp)
 <./figures/sensation/Visual_field_maps.jpg>
- [479]
-Underfull \hbox (badness 1968) in paragraph at lines 494--495
+ [485]
+Underfull \hbox (badness 1968) in paragraph at lines 495--496
 []\TU/LucidaGrande(0)/m/n/10 The primary visual cortex (V1) is located in and
  []
 
 
-Underfull \hbox (badness 5231) in paragraph at lines 504--504
+Underfull \hbox (badness 5231) in paragraph at lines 505--505
 []\TU/LucidaGrande(0)/b/n/14.4 The Auditory And Vestibular
  []
 
@@ -12715,107 +12762,107 @@ Underfull \hbox (badness 5231) in paragraph at lines 504--504
 Underfull \vbox (badness 1325) has occurred while \output is active []
 
 
-Underfull \hbox (badness 2229) in paragraph at lines 517--518
+Underfull \hbox (badness 2229) in paragraph at lines 518--519
 \TU/LucidaGrande(0)/m/n/10 The middle ear contains the three small bones—the
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 517--518
+Underfull \hbox (badness 1953) in paragraph at lines 518--519
 \TU/LucidaGrande(0)/m/n/10 ossicles—involved in the transmission of sound, and
  []
 
 File: ./figures/sensation/GrayEar.jpg Graphic file (type bmp)
 <./figures/sensation/GrayEar.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 527--527
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][] [] [][][][][][][] [] [][]
 [][][][][][][][][][][][][][][][][][][][][][][][] [] [][][][] [] [][] []
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 530--532
+Underfull \hbox (badness 1466) in paragraph at lines 531--533
 \TU/LucidaGrande(0)/m/n/10 is necessary at the oval window than at the typanic
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 530--532
+Underfull \hbox (badness 1603) in paragraph at lines 531--533
 \TU/LucidaGrande(0)/m/n/10 window, which vibrates the perilymph liquid (present
 
  []
 
-[480]
-Underfull \hbox (badness 1377) in paragraph at lines 533--534
+[486]
+Underfull \hbox (badness 1377) in paragraph at lines 534--535
 \TU/LucidaGrande(0)/m/n/10 scala vestibuli), and supports a fluid wave driven b
 y
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 545--546
+Underfull \hbox (badness 2181) in paragraph at lines 546--547
 []\TU/LucidaGrande(0)/m/n/10 Italian anatomist Alfonso Giacomo Gaspare Corti[][
 ][]
  []
 
 File: ./figures/sensation/Cochlea-crosssection.png Graphic file (type bmp)
 <./figures/sensation/Cochlea-crosssection.png>
-[481] [482]
-Underfull \hbox (badness 1558) in paragraph at lines 601--602
+[487] [488]
+Underfull \hbox (badness 1558) in paragraph at lines 602--603
 \TU/LucidaGrande(0)/m/n/10 The superior olivary complex is located in the pons,
 
  []
 
 
-Underfull \hbox (badness 2582) in paragraph at lines 625--626
+Underfull \hbox (badness 2582) in paragraph at lines 626--627
 \TU/LucidaGrande(0)/m/n/10 secondary areas interconnect with further processing
 
  []
 
 
-Underfull \hbox (badness 3229) in paragraph at lines 628--628
+Underfull \hbox (badness 3229) in paragraph at lines 629--629
 []\TU/LucidaGrande(0)/b/n/12 The Auditory Ventral And Dorsal
  []
 
 
-Underfull \hbox (badness 2689) in paragraph at lines 630--631
+Underfull \hbox (badness 2689) in paragraph at lines 631--632
 \TU/LucidaGrande(0)/m/n/10 pathways: the auditory ventral stream and auditory
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 630--631
+Underfull \hbox (badness 1342) in paragraph at lines 631--632
 \TU/LucidaGrande(0)/m/n/10 dorsal stream. The auditory ventral stream includes
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [483]
-Underfull \hbox (badness 1418) in paragraph at lines 648--650
+ [489]
+Underfull \hbox (badness 1418) in paragraph at lines 649--651
 \TU/LucidaGrande(0)/m/n/10 rotations of the head in the sagittal plane (as when
 
  []
 
-[484]
-Underfull \hbox (badness 1708) in paragraph at lines 664--665
+[490]
+Underfull \hbox (badness 1708) in paragraph at lines 665--666
 \TU/LucidaGrande(0)/m/n/10 ampullaris. These hair cells have many cytoplasmic
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 664--665
+Underfull \hbox (badness 1107) in paragraph at lines 665--666
 \TU/LucidaGrande(0)/m/n/10 constant motion, the endolymph catches up with the
  []
 
 
-Underfull \hbox (badness 1968) in paragraph at lines 664--665
+Underfull \hbox (badness 1968) in paragraph at lines 665--666
 \TU/LucidaGrande(0)/m/n/10 movement of the duct and the cupula is no longer
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 669--670
+Underfull \hbox (badness 1418) in paragraph at lines 670--671
 \TU/LucidaGrande(0)/m/n/10 vestibulocochlear nerve (the cochlear nerve being th
 e
  []
 
-[485]
-Underfull \hbox (badness 4060) in paragraph at lines 703--704
+[491]
+Underfull \hbox (badness 4060) in paragraph at lines 704--705
 []\TU/LucidaGrande(0)/m/n/10 Anatomy of human skin.[][][] Diagramatic secion
  []
 
@@ -12825,106 +12872,106 @@ File: ./figures/sensation/mechano_sensitive_channel.png Graphic file (type bmp)
 
 <./figures/sensation/mechano_sensitive_channel.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 727--727
+Underfull \hbox (badness 10000) in paragraph at lines 728--728
 []\TU/LucidaGrande(0)/b/n/10 Figure 26.12: |\TU/LucidaGrande(0)/m/n/10 A cartoo
 n representation of the
  []
 
-[486]
-Underfull \hbox (badness 2293) in paragraph at lines 746--747
+[492]
+Underfull \hbox (badness 2293) in paragraph at lines 747--748
 \TU/LucidaGrande(0)/m/n/10 than Meissner’s corpuscle, Merkel cells and Ruffini’
 s
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 748--749
+Underfull \hbox (badness 10000) in paragraph at lines 749--750
 []\TU/LucidaGrande(0)/m/n/10 The Pacinian corpuscle is approximately oval-
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 748--749
+Underfull \hbox (badness 1661) in paragraph at lines 749--750
 \TU/LucidaGrande(0)/m/n/10 cylindrical-shaped and 1 mm in length. The entire
  []
 
-[487]
+[493]
 File: ./figures/sensation/TouchReceptors.png Graphic file (type bmp)
 <./figures/sensation/TouchReceptors.png>
 
-Underfull \hbox (badness 1325) in paragraph at lines 775--776
+Underfull \hbox (badness 1325) in paragraph at lines 776--777
 []\TU/LucidaGrande(0)/m/n/10 The bulboid corpuscles (end-bulbs of Krause) are
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 775--776
+Underfull \hbox (badness 3612) in paragraph at lines 776--777
 \TU/LucidaGrande(0)/m/n/10 of Krause were named after the German anatomist
  []
 
 
-Underfull \hbox (badness 2318) in paragraph at lines 781--782
+Underfull \hbox (badness 2318) in paragraph at lines 782--783
 []\TU/LucidaGrande(0)/m/n/10 This spindle-shaped receptor is sensitive to skin
  []
 
 
-Underfull \hbox (badness 4726) in paragraph at lines 790--791
+Underfull \hbox (badness 4726) in paragraph at lines 791--792
 \TU/LucidaGrande(0)/m/n/10 system’s response to certain harmful or potentially
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 790--791
+Underfull \hbox (badness 1281) in paragraph at lines 791--792
 \TU/LucidaGrande(0)/m/n/10 Charles Scott Sherrington[][][] to distinguish the p
 hysio-
  []
 
 
-Underfull \hbox (badness 3078) in paragraph at lines 790--791
+Underfull \hbox (badness 3078) in paragraph at lines 791--792
 \TU/LucidaGrande(0)/m/n/10 experience). In nociception, intense chemical (e.g.,
 
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 790--791
+Underfull \hbox (badness 1205) in paragraph at lines 791--792
 \TU/LucidaGrande(0)/m/n/10 cayenne powder), mechanical (e.g., cutting, crushing
 ),
  []
 
-[488]
-Underfull \hbox (badness 1259) in paragraph at lines 800--801
+[494]
+Underfull \hbox (badness 1259) in paragraph at lines 801--802
 []\TU/LucidaGrande(0)/m/n/10 Thermoception refers to stimuli of moderate tem-
  []
 
 File: ./figures/sensation/TRPV1.png Graphic file (type bmp)
 <./figures/sensation/TRPV1.png>
-[489]
+[495]
 File: ./figures/sensation/CajalMuscleSpindle.jpg Graphic file (type bmp)
 <./figures/sensation/CajalMuscleSpindle.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 841--841
+Underfull \hbox (badness 10000) in paragraph at lines 842--842
 [][][][]$[][][][][] [] [] [] [][][][][][][][][][][][][][][] [] [][][] [] [][][]
 [] [] [][][][][][][][][] [] [][] [] [] [] [] [] [] [] [] [] [] []
  []
 
 
-LaTeX Warning: Float too large for page by 93.97235pt on input line 842.
+LaTeX Warning: Float too large for page by 93.97235pt on input line 843.
 
-[490]
+[496]
 File: ./figures/sensation/CajalGolgiTendon.jpg Graphic file (type bmp)
 <./figures/sensation/CajalGolgiTendon.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 859--859
+Underfull \hbox (badness 10000) in paragraph at lines 860--860
 [][][][]$[][][][][] [] [] [] [][][][][][][][][][][][][][][] [] [][][] [] [][][]
 [] [] [][][][][][][][][] [] [][] [] [] [] [] [] [] [] [] [] [] []
  []
 
-[491] [492]
+[497] [498]
 File: ./figures/sensation/GrayP572.jpg Graphic file (type bmp)
 <./figures/sensation/GrayP572.jpg>
 
-Underfull \hbox (badness 1248) in paragraph at lines 936--937
+Underfull \hbox (badness 1248) in paragraph at lines 937--938
 \TU/LucidaGrande(0)/m/n/10 which contains mucous membranes that produce and
  []
 
-[493]
-Underfull \hbox (badness 1478) in paragraph at lines 947--948
+[499]
+Underfull \hbox (badness 1478) in paragraph at lines 948--949
 []\TU/LucidaGrande(0)/m/n/10 Rather than binding specific ligands, olfactory re
 -
  []
@@ -12932,51 +12979,51 @@ Underfull \hbox (badness 1478) in paragraph at lines 947--948
 File: ./figures/sensation/CajalOlfactoryPathway.jpg Graphic file (type bmp)
 <./figures/sensation/CajalOlfactoryPathway.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 959--959
+Underfull \hbox (badness 10000) in paragraph at lines 960--960
 [][][][]$[][][][][] [] [] [] [][][][][][][][][][][][][][][] [] [][][] [] [][][]
 [] [] [][][][][][][][][] [] [][] [] [] [] [] [] [] [] [] [] [] []
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 979--980
+Underfull \hbox (badness 1142) in paragraph at lines 980--981
 \TU/LucidaGrande(0)/m/n/10 Olfactory sensory neurons project axons to the brain
 
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 979--980
+Underfull \hbox (badness 1924) in paragraph at lines 980--981
 \TU/LucidaGrande(0)/m/n/10 fibers, lacking myelin sheaths, pass to the olfactor
 y
  []
 
-[494]
-Underfull \hbox (badness 1616) in paragraph at lines 989--990
+[500]
+Underfull \hbox (badness 1616) in paragraph at lines 990--991
 []\TU/LucidaGrande(0)/m/n/10 Many animals, including most mammals and rep-
  []
 
 
-Underfull \hbox (badness 2707) in paragraph at lines 991--992
+Underfull \hbox (badness 2707) in paragraph at lines 992--993
 []\TU/LucidaGrande(0)/m/n/10 The sensory receptors of the accessory olfactory
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 991--992
+Underfull \hbox (badness 2418) in paragraph at lines 992--993
 \TU/LucidaGrande(0)/m/n/10 neurons project from the vomeronasal organ to the
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 991--992
+Underfull \hbox (badness 1117) in paragraph at lines 992--993
 \TU/LucidaGrande(0)/m/n/10 on the dorsal-posterior portion of the main olfactor
 y
  []
 
-[495]
-Underfull \hbox (badness 2401) in paragraph at lines 997--998
+[501]
+Underfull \hbox (badness 2401) in paragraph at lines 998--999
 []\TU/LucidaGrande(0)/m/n/10 Different people smell different odors, and most
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 1004--1005
+Underfull \hbox (badness 3019) in paragraph at lines 1005--1006
 []\TU/LucidaGrande(0)/m/n/10 Chemicals that stimulate taste receptor cells are
  []
 
@@ -12986,13 +13033,13 @@ File: ./figures/sensation/CunninghamSection2Page770.jpg Graphic file (type bmp)
 
 <./figures/sensation/CunninghamSection2Page770.jpg>
 
-Underfull \hbox (badness 1052) in paragraph at lines 1042--1043
+Underfull \hbox (badness 1052) in paragraph at lines 1043--1044
 \TU/LucidaGrande(0)/m/n/10 The sensation of taste includes five established bas
 ic
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 1042--1043
+Underfull \hbox (badness 1418) in paragraph at lines 1043--1044
 \TU/LucidaGrande(0)/m/n/10 detecting interaction with different molecules or io
 ns.
  []
@@ -13003,99 +13050,99 @@ File: ./figures/sensation/CunninghamSection2Page771.jpg Graphic file (type bmp)
 File: ./figures/sensation/CunninghamSection2Page771Cells.jpg Graphic file (type
  bmp)
 <./figures/sensation/CunninghamSection2Page771Cells.jpg>
-[496]
-Underfull \hbox (badness 2521) in paragraph at lines 1070--1071
+[502]
+Underfull \hbox (badness 2521) in paragraph at lines 1071--1072
 []\TU/LucidaGrande(0)/m/n/10 Among humans, taste perception begins to fade
  []
 
-[497]
-Underfull \hbox (badness 1308) in paragraph at lines 1082--1083
+[503]
+Underfull \hbox (badness 1308) in paragraph at lines 1083--1084
 \TU/LucidaGrande(0)/m/n/10 PKD2L1, although this gene is not required for sour
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 1082--1083
+Underfull \hbox (badness 1590) in paragraph at lines 1083--1084
 \TU/LucidaGrande(0)/m/n/10 dissociated at physiological pH values, can penetrat
 e
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 1098--1099
+Underfull \hbox (badness 2158) in paragraph at lines 1099--1100
 \TU/LucidaGrande(0)/m/n/10 of natural bitter compounds are known to be toxic.
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 1098--1099
+Underfull \hbox (badness 1048) in paragraph at lines 1099--1100
 \TU/LucidaGrande(0)/m/n/10 low thresholds is considered to provide an important
 
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 1098--1099
+Underfull \hbox (badness 1484) in paragraph at lines 1099--1100
 \TU/LucidaGrande(0)/m/n/10 protective function. Plant leaves often contain toxi
 c
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 1098--1099
+Underfull \hbox (badness 1902) in paragraph at lines 1099--1100
 \TU/LucidaGrande(0)/m/n/10 techniques are used worldwide to detoxify otherwise
  []
 
-[498]
-Underfull \hbox (badness 10000) in paragraph at lines 1119--1121
+[504]
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1122
 []\TU/LucidaGrande(0)/m/n/10 Type 1, sweet: TAS1R2+TAS1R3; umami:
  []
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 1124--1125
+Underfull \hbox (badness 1097) in paragraph at lines 1125--1126
 \TU/LucidaGrande(0)/m/n/10 taste cell. Gustducin is the most common taste Gα
  []
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 1128--1129
+Underfull \hbox (badness 4954) in paragraph at lines 1129--1130
 \TU/LucidaGrande(0)/m/n/10 splice variants of metabotropic glutamate receptors,
 
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 1132--1133
+Underfull \hbox (badness 1502) in paragraph at lines 1133--1134
 \TU/LucidaGrande(0)/m/n/10 in circumvallate papillae, palate, foliate papillae,
  and
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 1134--1135
+Underfull \hbox (badness 1902) in paragraph at lines 1135--1136
 \TU/LucidaGrande(0)/m/n/10 nucleotide levels. Further steps in the transduction
 
  []
 
 
-Underfull \hbox (badness 2035) in paragraph at lines 1134--1135
+Underfull \hbox (badness 2035) in paragraph at lines 1135--1136
 \TU/LucidaGrande(0)/m/n/10 may open gated ion channels or may cause release
  []
 
 
-Underfull \hbox (badness 1748) in paragraph at lines 1134--1135
+Underfull \hbox (badness 1748) in paragraph at lines 1135--1136
 \TU/LucidaGrande(0)/m/n/10 suggesting a redundant mechanism for bitter tasting
  []
 
-[499]
-Underfull \hbox (badness 7814) in paragraph at lines 1136--1137
+[505]
+Underfull \hbox (badness 7814) in paragraph at lines 1137--1138
 []\TU/LucidaGrande(0)/m/n/10 One of the best-researched TAS2R proteins is
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 1147--1148
+Underfull \hbox (badness 1259) in paragraph at lines 1148--1149
 \TU/LucidaGrande(0)/m/n/10 The primary gustatory cortex is a brain structure re
 -
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 1147--1148
+Underfull \hbox (badness 1810) in paragraph at lines 1148--1149
 \TU/LucidaGrande(0)/m/n/10 as the AI/FO(Anterior Insula/Frontal Operculum). By
  []
 
-) [500]
+) [506]
 \openout2 = `locomotion.aux'.
 
  (./locomotion.tex
@@ -13114,7 +13161,7 @@ Underfull \hbox (badness 1178) in paragraph at lines 19--20
 -
  []
 
-[501
+[507
 
 
 
@@ -13200,7 +13247,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--43
 [][][][] [] [][][][][][][][] [] [][][][][][][][][][][] []
  []
 
-[502]
+[508]
 Underfull \hbox (badness 2600) in paragraph at lines 62--63
 []\TU/LucidaGrande(0)/m/n/10 The skeleton of the echinoderms, which include,
  []
@@ -13210,7 +13257,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--73
 []\TU/LucidaGrande(0)/b/n/14.4 The Human Musculoskeletal
  []
 
-[503]
+[509]
 Underfull \hbox (badness 1735) in paragraph at lines 91--92
 \TU/LucidaGrande(0)/m/n/10 attached to bones and arranged in opposing groups
  []
@@ -13228,7 +13275,7 @@ at
 
 File: ./figures/locomotion/Joint.png Graphic file (type bmp)
 <./figures/locomotion/Joint.png>
-[504]
+[510]
 File: ./figures/locomotion/Knee_diagram.png Graphic file (type bmp)
 <./figures/locomotion/Knee_diagram.png>
 File: ./figures/locomotion/Human_skull_side_simplified_(bones).png Graphic file
@@ -13276,7 +13323,7 @@ Underfull \hbox (badness 1484) in paragraph at lines 179--180
 \TU/LucidaGrande(0)/m/n/10 male and female skeletons. The male skeleton, for
  []
 
-[505] [506]
+[511] [512]
 File: ./figures/locomotion/Axial_skeleton_diagram.png Graphic file (type bmp)
 <./figures/locomotion/Axial_skeleton_diagram.png>
 
@@ -13314,7 +13361,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 239--239
 [][][][] [] [][][][] [] [][][][][] [] [][][][][][][][] [] [][][][] [] [][] []
  []
 
-[507]
+[513]
 File: ./figures/locomotion/Illu_compact_spongy_bone.jpg Graphic file (type bmp)
 
 <./figures/locomotion/Illu_compact_spongy_bone.jpg>
@@ -13324,7 +13371,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 252--252
 [][][][] [] [][][][] [] [][][][] [] [][][][][][][] [] [][][][][][] []
  []
 
-[508]
+[514]
 Underfull \hbox (badness 1221) in paragraph at lines 271--272
 \TU/LucidaGrande(0)/m/n/10 is the internal tissue of the skeletal bone and is a
 n
@@ -13342,7 +13389,7 @@ Underfull \hbox (badness 1184) in paragraph at lines 304--305
 \TU/LucidaGrande(0)/m/n/10 known as lacunae. Osteocytes have many processes
  []
 
-[509]
+[515]
 Underfull \hbox (badness 1371) in paragraph at lines 309--310
 \TU/LucidaGrande(0)/m/n/10 derived from a monocyte stem-cell lineage, they are
  []
@@ -13394,7 +13441,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 369--369
 [][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][] []
  []
 
-[510]
+[516]
 File: ./figures/locomotion/1105_Anterior_and_Posterior_Views_of_Muscles.jpg Gra
 phic file (type bmp)
 <./figures/locomotion/1105_Anterior_and_Posterior_Views_of_Muscles.jpg>
@@ -13404,7 +13451,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 388--388
 [][][][] [] [][][][] [] [][][][] [] [][][][][][][][] [] [][][] []
  []
 
-[511]
+[517]
 Underfull \hbox (badness 1596) in paragraph at lines 402--404
 \TU/LucidaGrande(0)/m/n/10 products that can not be removed immediately from
  []
@@ -13420,7 +13467,7 @@ Underfull \hbox (badness 4505) in paragraph at lines 402--404
 
  []
 
-[512]
+[518]
 Underfull \hbox (badness 4429) in paragraph at lines 409--410
 \TU/LucidaGrande(0)/m/n/10 movements that underlie locomotor activity, muscle
  []
@@ -13460,7 +13507,7 @@ Underfull \hbox (badness 1194) in paragraph at lines 433--434
 \TU/LucidaGrande(0)/m/n/10 bouton. The remaining acetylcholine in the synaptic
  []
 
-[513]
+[519]
 Underfull \hbox (badness 1248) in paragraph at lines 438--439
 \TU/LucidaGrande(0)/m/n/10 key proteins, the sarcoplasmic reticulum (SR) calciu
 m
@@ -13488,7 +13535,7 @@ Underfull \hbox (badness 4132) in paragraph at lines 448--450
 \TU/LucidaGrande(0)/m/n/10 troponin-Ca$[]$ complex causes tropomyosin to slide
  []
 
-[514]
+[520]
 File: ./figures/locomotion/1008_Skeletal_Muscle_Contraction.jpg Graphic file (t
 ype bmp)
 <./figures/locomotion/1008_Skeletal_Muscle_Contraction.jpg>
@@ -13532,7 +13579,7 @@ Underfull \hbox (badness 1052) in paragraph at lines 470--471
 r
  []
 
-[515]
+[521]
 Underfull \hbox (badness 1867) in paragraph at lines 477--478
 \TU/LucidaGrande(0)/m/n/10 Smooth muscles can be divided into two subgroups:
  []
@@ -13569,7 +13616,7 @@ Underfull \hbox (badness 4913) in paragraph at lines 487--488
 \TU/LucidaGrande(0)/m/n/10 carinic acetylcholine receptors (mAChRs) on smooth
  []
 
-[516]
+[522]
 Underfull \hbox (badness 1796) in paragraph at lines 494--495
 []\TU/LucidaGrande(0)/m/n/10 Unlike skeletal muscle, excitation–contraction cou
 -
@@ -13633,7 +13680,7 @@ Underfull \hbox (badness 1173) in paragraph at lines 507--508
 
  []
 
-[517]) [518
+[523]) [524
 
 ]
 \openout2 = `endocrine_system.aux'.
@@ -13649,7 +13696,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--24
 [][][][] [] [][][][] [] [][][][] [] [][][][][][][][][] [] [][][][][][] []
  []
 
-[519
+[525
 
 
 
@@ -13682,7 +13729,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--94
 [][][][] [] [][][][] [] [][][][] [] [][][] []
  []
 
-[520] [521
+[526] [527
 
 ]
 Overfull \hbox (9.56047pt too wide) in paragraph at lines 106--106
@@ -13692,7 +13739,7 @@ Overfull \hbox (9.56047pt too wide) in paragraph at lines 106--106
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[522] [523
+[528] [529
 
 
 
@@ -13704,7 +13751,7 @@ Overfull \hbox (9.56047pt too wide) in paragraph at lines 131--131
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[524]
+[530]
 Underfull \hbox (badness 10000) in paragraph at lines 142--142
 []\TU/LucidaGrande(0)/b/n/14.4 Hypothalamic–pituitary–thyroid
  []
@@ -13748,7 +13795,7 @@ Underfull \hbox (badness 1292) in paragraph at lines 186--186
 halamic–pituitary–gonadal axis
  []
 
-[525
+[531
 
 
 ]
@@ -13777,7 +13824,7 @@ Underfull \hbox (badness 1072) in paragraph at lines 205--206
 
  []
 
-[526]
+[532]
 Underfull \hbox (badness 10000) in paragraph at lines 214--214
 []\TU/LucidaGrande(0)/b/n/14.4 Hypothalamic–pituitary–adrenal
  []
@@ -13810,7 +13857,7 @@ Underfull \hbox (badness 3118) in paragraph at lines 241--243
 \TU/LucidaGrande(0)/m/n/10 particular, CRH and vasopressin stimulate
  []
 
-[527]
+[533]
 Underfull \hbox (badness 1824) in paragraph at lines 258--259
 []\TU/LucidaGrande(0)/m/n/10 Epinephrine and norepinephrine (E/NE) are pro-
  []
@@ -13865,7 +13912,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 288--288
 [][][][] [] [][][][] [] [][][][][][][][][][][][][][][][][][] []
  []
 
-[528]
+[534]
 Underfull \hbox (badness 6859) in paragraph at lines 297--299
 \TU/LucidaGrande(0)/m/n/10 juxtaglomerular cells (granular cells, modified
  []
@@ -13908,8 +13955,8 @@ Underfull \hbox (badness 1540) in paragraph at lines 321--323
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [529])
-[530
+ [535])
+[536
 
 ]
 \openout2 = `reproductive_system.aux'.
@@ -13954,7 +14001,7 @@ Underfull \hbox (badness 1472) in paragraph at lines 18--19
 \TU/LucidaGrande(0)/m/n/10 Monotremes (i.e. platypus and echidnas), a group of
  []
 
-[531
+[537
 
 
 
@@ -13976,7 +14023,7 @@ Underfull \hbox (badness 1242) in paragraph at lines 34--35
 
 Underfull \vbox (badness 4072) has occurred while \output is active []
 
- [532]
+ [538]
 File: ./figures/reproductive_system/Scheme_female_reproductive_system-en.png Gr
 aphic file (type bmp)
 <./figures/reproductive_system/Scheme_female_reproductive_system-en.png>
@@ -14016,7 +14063,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--136
 [][][][] [] [][][][] [] [][][][] [] [][][][][][] []
  []
 
-[533]
+[539]
 File: ./figures/reproductive_system/Normal_spermatogenesis,_intermed._mag.jpg G
 raphic file (type bmp)
 <./figures/reproductive_system/Normal_spermatogenesis,_intermed._mag.jpg>
@@ -14035,7 +14082,7 @@ Underfull \hbox (badness 2027) in paragraph at lines 154--155
 File: ./figures/reproductive_system/Figure_28_01_04.jpg Graphic file (type bmp)
 
 <./figures/reproductive_system/Figure_28_01_04.jpg>
-[534]
+[540]
 File: ./figures/reproductive_system/Ovarian_cortex_in_a_rhesus_monkey.jpg Graph
 ic file (type bmp)
 <./figures/reproductive_system/Ovarian_cortex_in_a_rhesus_monkey.jpg>
@@ -14048,10 +14095,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 177--177
 File: ./figures/reproductive_system/Oogenesis_Labeled.png Graphic file (type bm
 p)
 <./figures/reproductive_system/Oogenesis_Labeled.png>
-) [535]
+) [541]
 \openout2 = `development.aux'.
 
- (./development.tex [536
+ (./development.tex [542
 
 
 
@@ -14080,7 +14127,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 
 Underfull \vbox (badness 2384) has occurred while \output is active []
 
- [537]
+ [543]
 Underfull \hbox (badness 1400) in paragraph at lines 41--42
 \TU/LucidaGrande(0)/m/n/10 Cellular differentiation is the process in which a c
 ell
@@ -14106,7 +14153,7 @@ Underfull \hbox (badness 2884) in paragraph at lines 65--66
 []\TU/LucidaGrande(0)/m/n/10 Morphogenesis is a mechanical process involving
  []
 
-[538]
+[544]
 Underfull \hbox (badness 1789) in paragraph at lines 69--70
 []\TU/LucidaGrande(0)/m/n/10 At a tissue level, ignoring the means of control,
  []
@@ -14151,7 +14198,7 @@ Underfull \hbox (badness 1348) in paragraph at lines 80--81
 \TU/LucidaGrande(0)/m/n/10 bind to them, and secreted morphogens that diffuse
  []
 
-[539]
+[545]
 File: ./figures/development/Genes_hox.jpg Graphic file (type bmp)
 <./figures/development/Genes_hox.jpg>
 
@@ -14168,7 +14215,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--114
 [][][][][][][][] [] [][][][][][][] [] [] [] [][] [] [][][][][][][][] []
  []
 
-[540]
+[546]
 File: ./figures/development/Blastocyst_English.png Graphic file (type bmp)
 <./figures/development/Blastocyst_English.png>
 File: ./figures/development/HumanEmbryogenesis.png Graphic file (type bmp)
@@ -14181,12 +14228,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--140
 
 File: ./figures/development/Embryo,_8_cells.jpg Graphic file (type bmp)
 <./figures/development/Embryo,_8_cells.jpg>
-[541]
+[547]
 Underfull \hbox (badness 1642) in paragraph at lines 166--167
 \TU/LucidaGrande(0)/m/n/10 cells of the trophoblast penetrate and form rounded
  []
 
-[542]
+[548]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: ./figures/development/Germ_layers.jpg Graphic file (type bmp)
@@ -14199,7 +14246,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--200
 [][][][] [] [][][][] [] [][][][] [] [][][] [] [][][][][][][][][][][][] []
  []
 
-[543]
+[549]
 Underfull \hbox (badness 1057) in paragraph at lines 208--208
 []\TU/LucidaGrande(0)/b/n/12 Development of Organs And Organ
  []
@@ -14230,7 +14277,7 @@ Underfull \hbox (badness 2512) in paragraph at lines 231--232
 he
  []
 
-[544]
+[550]
 File: ./figures/development/neurulation.png Graphic file (type bmp)
 <./figures/development/neurulation.png>
 
@@ -14239,7 +14286,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 275--275
 ] [][][][][][] [] [][][][] [] [][][][][][] [] [][][][] [] [][][][][][] []
  []
 
-[545]
+[551]
 File: ./figures/development/Human_embryo_8_weeks_4.jpg Graphic file (type bmp)
 <./figures/development/Human_embryo_8_weeks_4.jpg>
 
@@ -14261,7 +14308,7 @@ Underfull \hbox (badness 1708) in paragraph at lines 325--327
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [546]
+ [552]
 Underfull \hbox (badness 1789) in paragraph at lines 340--341
 \TU/LucidaGrande(0)/m/n/10 verbal communication is reduced, which can lead to
  []
@@ -14301,7 +14348,7 @@ Underfull \hbox (badness 5446) in paragraph at lines 368--370
 \TU/LucidaGrande(0)/m/n/10 increased mitochondrial production of reactive
  []
 
-[547]) [548
+[553]) [554
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 56.
@@ -14320,7 +14367,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 56.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 56.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 56.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 56766878F4246EDE3F8394B753930BB9;16392.
+(rerunfilecheck)             Checksum: 6509A31CC5683BC9530F273F140C1825;16332.
 
 
 LaTeX Warning: There were undefined references.
@@ -14330,12 +14377,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 27358 strings out of 479418
- 632619 string characters out of 5884586
- 1046899 words of memory out of 5000000
- 43832 multiletter control sequences out of 15000+600000
+ 27401 strings out of 479418
+ 633972 string characters out of 5884586
+ 1047646 words of memory out of 5000000
+ 43872 multiletter control sequences out of 15000+600000
  568351 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,19n,121p,5055b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (584 pages).
+Output written on main.pdf (590 pages).
