@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  19 SEP 2020 12:47
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  20 SEP 2020 21:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -788,18 +788,9 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \rot@float@box=\box64
 \rot@mess@toks=\toks36
 ))
-(./main.aux (./acknowledgements.aux) (./biology.aux) (./basic_chemistry.aux
-
-LaTeX Warning: Label `the-periodic-table-of-the-elements' multiply defined.
-
-
-LaTeX Warning: Label `fig:periodictable' multiply defined.
-
-) (./organic_chemistry.aux) (./cell_structure.aux) (./membrane_structure.aux
-
-LaTeX Warning: Label `fig:cellmembrane' multiply defined.
-
-) (./bioenergetics.aux) (./photosynthesis_respiration.aux) (./cell_cycle.aux)
+(./main.aux (./acknowledgements.aux) (./biology.aux) (./basic_chemistry.aux)
+(./organic_chemistry.aux) (./cell_structure.aux) (./membrane_structure.aux)
+(./bioenergetics.aux) (./photosynthesis_respiration.aux) (./cell_cycle.aux)
 (./reproduction.aux) (./mendelian_inheritance.aux) (./molecular_biology.aux
 
 LaTeX Warning: Label `tab:heteroploidy' multiply defined.
@@ -1051,38 +1042,42 @@ LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
 (Font)              scaled to size 4.89496pt on input line 4.
  [7
 
-] [8]
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
-Missing character: There is no ◄ in font Lucida Grande/AAT:mapping=tex-text;!
-
+ [8]
+[9] [10] [11] [12]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10]
-[11] [12] [13]
-Underfull \vbox (badness 1137) has occurred while \output is active []
-
- [14]
-[15]
-Underfull \hbox (badness 2573) in paragraph at lines 158--158
+ [13]
+Underfull \hbox (badness 2573) in paragraph at lines 134--134
  [][] [][]\TU/LucidaGrande(0)/m/n/10 Dictyostelium Fruiting Body[] Dictyosteliu
 m is a genus of single- and multi-celled eukaryotic, 
  []
 
+[14]
+Underfull \vbox (badness 4391) has occurred while \output is active []
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [15]
+Underfull \vbox (badness 4454) has occurred while \output is active []
 
  [16]
-[17] [18]
+[17]
+Underfull \vbox (badness 3977) has occurred while \output is active []
+
+ [18]
+[19]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19]
-[20] [21] [22]
+ [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23]
-Underfull \vbox (badness 2980) has occurred while \output is active []
+ [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+[23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1094,21 +1089,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [28]
-Underfull \vbox (badness 1817) has occurred while \output is active []
-
- [29]
-[30])
+[28] [29])
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [31] (./main.lot [32])
+ (./main.lot [30])
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [33]
+ [31]
 \openout2 = `acknowledgements.aux'.
 
  (./acknowledgements.tex
@@ -1116,7 +1105,7 @@ LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
 (Font)              scaled to size 11.7479pt on input line 2.
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
 (Font)              scaled to size 11.61957pt on input line 2.
-) [34
+) [32
 
 ]
 \openout2 = `biology.aux'.
@@ -1816,18 +1805,19 @@ Underfull \hbox (badness 1122) in paragraph at lines 332--340
 Underfull \vbox (badness 6758) has occurred while \output is active []
 
  [27]
-Missing character: There is no ℓ in font Lucida Grande/AAT:mapping=tex-text;!
-Missing character: There is no ℓ in font Lucida Grande/AAT:mapping=tex-text;!
-Missing character: There is no ℓ in font Lucida Grande/AAT:mapping=tex-text;!
+Underfull \hbox (badness 1205) in paragraph at lines 363--377
+\TU/LucidaGrande(0)/m/n/10 mechanics, an atomic orbital is a mathematical func-
+
+ []
+
 File: ./figures/chemistry/S-p-Orbitals.png Graphic file (type bmp)
 <./figures/chemistry/S-p-Orbitals.png>
-
 [28]
 File: ./figures/chemistry/Simple_Periodic_Table_Chart-en.png Graphic file (type
  bmp)
 <./figures/chemistry/Simple_Periodic_Table_Chart-en.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 481--481
+Underfull \hbox (badness 10000) in paragraph at lines 488--488
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][] [] [][][][][] []
  []
@@ -1837,76 +1827,59 @@ Missing character: There is no ℓ in font Lucida Grande/AAT:mapping=tex-text;!
 [29]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 515.
+               Default added (so using `tbp') on input line 523.
 
 [30] [31
 
 
 ]
-File: ./figures/chemistry/Simple_Periodic_Table_Chart-en.png Graphic file (type
- bmp)
-<./figures/chemistry/Simple_Periodic_Table_Chart-en.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 606--606
-[][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
-[][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][] [] [][][][][] []
- []
-
-
-Underfull \hbox (badness 3302) in paragraph at lines 614--615
-\TU/LucidaGrande(0)/m/n/10 to derive relationships between the various element
- []
-
-
-Underfull \vbox (badness 5893) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 626--627
+Underfull \hbox (badness 1264) in paragraph at lines 653--654
 []\TU/LucidaGrande(0)/m/n/10 Thus, molecules exist as electrically neutral unit
 s,
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 626--627
+Underfull \hbox (badness 1005) in paragraph at lines 653--654
 \TU/LucidaGrande(0)/m/n/10 nature of the molecular concept usually requires tha
 t
  []
 
-[32]
-Underfull \hbox (badness 2418) in paragraph at lines 636--637
+
+Underfull \hbox (badness 2418) in paragraph at lines 663--664
 \TU/LucidaGrande(0)/m/n/10 Gilbert Newton Lewis[][][] in 1916, as the interacti
 ons
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 636--637
+Underfull \hbox (badness 1173) in paragraph at lines 663--664
 \TU/LucidaGrande(0)/m/n/10 could be explained if the electrons in an atom were
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 636--637
+Underfull \hbox (badness 1303) in paragraph at lines 663--664
 \TU/LucidaGrande(0)/m/n/10 connected or clustered in some manner. Groups of
  []
 
 File: ./figures/chemistry/Electron_dot.png Graphic file (type bmp)
 <./figures/chemistry/Electron_dot.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 646--646
+Underfull \hbox (badness 10000) in paragraph at lines 671--671
 [][][][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [
 ] [][][][][][][][] [] [][][][] [] [][][][][][] [] [][][][] []
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 649--650
+Underfull \hbox (badness 1430) in paragraph at lines 674--675
 \TU/LucidaGrande(0)/m/n/10 bonds can be explained by quantum theory, but, in
  []
 
+[32]
 File: ./figures/chemistry/NaF.png Graphic file (type bmp)
 <./figures/chemistry/NaF.png>
 File: ./figures/chemistry/Covalent_bond_hydrogen.png Graphic file (type bmp)
 <./figures/chemistry/Covalent_bond_hydrogen.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 674--674
+Underfull \hbox (badness 10000) in paragraph at lines 695--695
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][][][][] [] [][][][] [] [][][][][][][][] []
  []
@@ -1918,7 +1891,7 @@ File: ./figures/chemistry/Joules_Apparatus_Harpers_Scan.png Graphic file (type
 bmp)
 <./figures/chemistry/Joules_Apparatus_Harpers_Scan.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 719--719
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][] [] [][][] [] [][][][][][][][][] []
  []
@@ -1927,80 +1900,75 @@ Underfull \hbox (badness 10000) in paragraph at lines 719--719
 File: ./figures/bioenergetics/Activation2_updated.png Graphic file (type bmp)
 <./figures/bioenergetics/Activation2_updated.png>
 
-Underfull \vbox (badness 2020) has occurred while \output is active []
-
- [35]
-Underfull \hbox (badness 1946) in paragraph at lines 760--761
+Underfull \hbox (badness 1946) in paragraph at lines 792--803
 []\TU/LucidaGrande(0)/m/n/10 A chemical reaction can be symbolically depicted
  []
 
 
-Underfull \hbox (badness 3417) in paragraph at lines 760--761
+Underfull \hbox (badness 3417) in paragraph at lines 792--803
 \TU/LucidaGrande(0)/m/n/10 Thus, during any chemical reaction and low-energy
  []
 
+[35] [36]
 File: ./figures/chemistry/Hydroxonium-cation.png Graphic file (type bmp)
 <./figures/chemistry/Hydroxonium-cation.png>
 File: ./figures/chemistry/Hydroxide_lone_pairs-2D.png Graphic file (type bmp)
 <./figures/chemistry/Hydroxide_lone_pairs-2D.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 793--793
+Underfull \hbox (badness 10000) in paragraph at lines 945--945
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][][][][][][][][] [] [][][][] [] [][][][][][][][][] []
 
  []
 
-[36]
-Underfull \hbox (badness 1342) in paragraph at lines 798--799
+
+Underfull \hbox (badness 1342) in paragraph at lines 950--951
 \TU/LucidaGrande(0)/m/n/10 One measurement, based on the Arrhenius definition
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 798--799
+Underfull \hbox (badness 1424) in paragraph at lines 950--951
 \TU/LucidaGrande(0)/m/n/10 of acidity, is pH. The other measurement, based on
  []
 
+[37]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[37]
+[38]
 Missing character: There is no ⇌ in font Lucida Grande/AAT:mapping=tex-text;!
 Missing character: There is no ⇌ in font Lucida Grande/AAT:mapping=tex-text;!
 
-Underfull \hbox (badness 2781) in paragraph at lines 879--880
+Underfull \hbox (badness 2781) in paragraph at lines 1031--1032
 \TU/LucidaGrande(0)/m/n/10 reactions in which atoms have their oxidation state
  []
 
-[38]
-Underfull \hbox (badness 4156) in paragraph at lines 895--896
+
+Underfull \hbox (badness 4156) in paragraph at lines 1047--1048
 \TU/LucidaGrande(0)/m/n/10 gaining electrons, while the carbon atoms undergo
  []
 
-[39] [40]
+[39] [40] [41]
 File: ./figures/chemistry/3D_model_hydrogen_bonds_in_water.png Graphic file (ty
 pe bmp)
 <./figures/chemistry/3D_model_hydrogen_bonds_in_water.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 967--967
+Underfull \hbox (badness 10000) in paragraph at lines 1119--1119
 [][][][]$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] [] 
 [][][][] [] [][][][] [] [][] [] [][][][][] [] [][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 967--967
-[]\TU/LucidaGrande(0)/b/n/10 Figure 2.14: |\TU/LucidaGrande(0)/m/n/10 Model of 
+Underfull \hbox (badness 1688) in paragraph at lines 1119--1119
+[]\TU/LucidaGrande(0)/b/n/10 Figure 2.13: |\TU/LucidaGrande(0)/m/n/10 Model of 
 hydrogen bonds (1) between
  []
 
 Missing character: There is no ⇆ in font Lucida Grande/AAT:mapping=tex-text;!
-) [41]
+) [42]
 \openout2 = `organic_chemistry.aux'.
 
- (./organic_chemistry.tex [42
-
-
-
-]
+ (./organic_chemistry.tex
 Chapter 3.
 
 Underfull \hbox (badness 1082) in paragraph at lines 6--7
@@ -2073,7 +2041,11 @@ Underfull \hbox (badness 1394) in paragraph at lines 27--28
 by
  []
 
-[43]
+[43
+
+
+
+]
 Underfull \hbox (badness 1609) in paragraph at lines 36--37
 \TU/LucidaGrande(0)/m/n/10 assumed, within limits, to be the same in a variety
  []
@@ -2734,6 +2706,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 353--353
 [][][][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [
 ] [][][] [] [][][][][][][][] [] [][][][] [] [][] [] [][][][][][][][][] []
  []
+
+
+LaTeX Warning: Reference `fig:leeuvenhookcells' on page 71 undefined on input l
+ine 356.
 
 File: ./figures/cells/Leeuwenhoek1719RedBloodCells.jpg Graphic file (type bmp)
 <./figures/cells/Leeuwenhoek1719RedBloodCells.jpg>
@@ -14367,7 +14343,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 56.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 56.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 56.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6509A31CC5683BC9530F273F140C1825;16332.
+(rerunfilecheck)             Checksum: E650FEA188CA0181741769031E21B8B9;16124.
 
 
 LaTeX Warning: There were undefined references.
@@ -14377,12 +14353,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 27401 strings out of 479418
- 633972 string characters out of 5884586
- 1047646 words of memory out of 5000000
- 43872 multiletter control sequences out of 15000+600000
+ 27399 strings out of 479418
+ 633955 string characters out of 5884586
+ 1039450 words of memory out of 5000000
+ 43870 multiletter control sequences out of 15000+600000
  568351 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,19n,121p,5055b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (590 pages).
+Output written on main.pdf (588 pages).

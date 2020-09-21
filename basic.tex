@@ -1,0 +1,4362 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={2 Basic General Chemistry For Biology \textbar{} Text For Biology at Roxbury Community College},
+  pdfauthor={Assembled by Nikolaus Sucher},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\documentclass[]{book}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={A Text For Biology I (SCI103) And Biology II (SCI104) at Roxbury Community College},
+            pdfauthor={Nikolaus Sucher},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{longtable,booktabs}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\newcommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+  \title{A Text For 
+  \\Biology I (SCI103) And Biology II (SCI104)
+  \\ at Roxbury Community College}
+  \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+  \author{Nikolaus Sucher}
+  \preauthor{\centering\large\emph}
+  \postauthor{\par}
+  \date{}
+  \predate{}\postdate{}
+
+\usepackage{geometry}
+\usepackage{fontspec}
+%\setmainfont{Lucida Grande}
+
+
+
+\setmainfont[
+ BoldFont={Lucida Grande Bold}, 
+% ItalicFont={Helvetica Neue Italic},
+ ItalicFont={Lucida Sans Italic},
+ BoldItalicFont={Helvetica Neue Bold Italic}
+ ]{Lucida Grande}
+
+
+
+
+
+%\setsansfont{Linux Biolinum O}
+\usepackage[greek.polutoniko,english]{babel}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{siunitx}
+\usepackage{framed}
+\usepackage{multirow}
+\usepackage[table]{xcolor}
+ \definecolor{shadecolor}{RGB}{248,248,248}
+\usepackage{grffile}
+\usepackage{graphicx}
+\usepackage{morefloats}
+\usepackage[bf,singlelinecheck=on]{caption}
+\usepackage{parskip}
+ \setlength{\parindent}{15pt}
+ % should be last package call in the preamble (?)
+ \usepackage{hyperref}
+  \urlstyle{same}
+
+%\renewcommand{\textfraction}{0.05}
+%\renewcommand{\topfraction}{0.8}
+%\renewcommand{\bottomfraction}{0.8}
+%\renewcommand{\floatpagefraction}{0.75}
+
+%\renewenvironment{quote}{\begin{VF}}{\end{VF}}
+\let\oldhref\href
+\renewcommand{\href}[2]{#2\footnote{\url{#1}}}
+
+\ifxetex
+  \usepackage{letltxmacro}
+  \setlength{\XeTeXLinkMargin}{1pt}
+  \LetLtxMacro\SavedIncludeGraphics\includegraphics
+  \def\includegraphics#1#{% #1 catches optional stuff (star/opt. arg.)
+    \IncludeGraphicsAux{#1}%
+  }%
+  \newcommand*{\IncludeGraphicsAux}[2]{%
+    \XeTeXLinkBox{%
+      \SavedIncludeGraphics#1{#2}%
+    }%
+  }%
+\fi
+
+\makeatletter
+\newenvironment{kframe}{%
+\medskip{}
+\setlength{\fboxsep}{.8em}
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\newenvironment{Shaded}{\begin{kframe}}{\end{kframe}}
+
+\newenvironment{rmdblock}[1]
+  {
+  \begin{itemize}
+  \renewcommand{\labelitemi}{
+    \raisebox{-.7\height}[0pt][0pt]{
+      {\setkeys{Gin}{width=3em,keepaspectratio}\includegraphics{images/#1}}
+    }
+  }
+  \setlength{\fboxsep}{1em}
+  \begin{kframe}
+  \item
+  }
+  {
+  \end{kframe}
+  \end{itemize}
+  }
+
+\newenvironment{rmdnote}
+  {\begin{rmdblock}{note}}
+  {\end{rmdblock}}
+
+\newenvironment{rmdcaution}
+  {\begin{rmdblock}{caution}}
+  {\end{rmdblock}}
+
+\newenvironment{rmdimportant}
+  {\begin{rmdblock}{important}}
+  {\end{rmdblock}}
+
+\newenvironment{rmdtip}
+  {\begin{rmdblock}{tip}}
+  {\end{rmdblock}}
+
+\newenvironment{rmdwarning}
+  {\begin{rmdblock}{warning}}
+  {\end{rmdblock}}
+
+%\usepackage{makeidx}
+% \makeindex
+
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{lemma}{Lemma}[chapter]
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[chapter]
+\newtheorem{corollary}{Corollary}[chapter]
+\newtheorem{proposition}{Proposition}[chapter]
+\theoremstyle{definition}
+\newtheorem{example}{Example}[chapter]
+\theoremstyle{definition}
+\newtheorem{exercise}{Exercise}[chapter]
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
+\newtheorem*{solution}{Solution}
+\let\BeginKnitrBlock\begin \let\EndKnitrBlock\end
+
+
+% % to get balanced columns in the acknowledgements
+% \usepackage{multicol}
+%
+% % To get the table fit the column
+% \usepackage{array}
+% \usepackage{tabularx}
+% \newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+
+
+% makes it possible to include the cover pdf page
+\usepackage{pdfpages}
+
+% fix spacing between section and figure numbers and titles in table of contents and list of figures
+\usepackage{tocloft}
+\cftsetindents{section}{1em}{3em}
+\cftsetindents{figure}{1em}{3em}
+
+\usepackage{rotating}
+
+% need this to make longtable work with twocolumn format
+%\makeatletter
+%\let\oldlt\longtable
+%\let\endoldlt\endlongtable
+%\def\longtable{\@ifnextchar[\longtable@i \longtable@ii}
+%\def\longtable@i[#1]{\begin{figure}[t]
+%\onecolumn
+%\begin{minipage}{0.1\textwidth}
+%\oldlt[#1]
+%}
+%\def\longtable@ii{\begin{figure}[t]
+%\onecolumn
+%\begin{minipage}{0.1\textwidth}
+%\oldlt
+%}
+%\def\endlongtable{\endoldlt
+%\end{minipage}
+%\twocolumn
+%\end{figure}}
+%\makeatother
+\setlength{\LTcapwidth}{\textwidth}
+
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{2 Basic General Chemistry For Biology \textbar{} Text For Biology
+at Roxbury Community College}
+\author{Assembled by Nikolaus Sucher}
+\date{}
+
+\begin{document}
+\maketitle
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{\href{./}{Biology}}
+\item
+\item
+  \href{index.html}{\emph{}Welcome}
+\item
+  \href{acknowledgements.html}{\emph{}Acknowledgements}
+\item
+  \href{biology-the-science-of-life.html}{\emph{}\textbf{1} Biology: The
+  Science of Life}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{biology-the-science-of-life.html\#characteristics-of-life}{\emph{}\textbf{1.1}
+    Characteristics of Life}
+  \item
+    \href{biology-the-science-of-life.html\#origin-of-life}{\emph{}\textbf{1.2}
+    Origin of Life}
+  \item
+    \href{biology-the-science-of-life.html\#foundations-of-modern-biology}{\emph{}\textbf{1.3}
+    Foundations of Modern Biology}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{biology-the-science-of-life.html\#cell-theory}{\emph{}\textbf{1.3.1}
+      Cell theory}
+    \item
+      \href{biology-the-science-of-life.html\#the-theory-of-evolution}{\emph{}\textbf{1.3.2}
+      The Theory of Evolution}
+    \item
+      \href{biology-the-science-of-life.html\#genetics}{\emph{}\textbf{1.3.3}
+      Genetics}
+    \item
+      \href{biology-the-science-of-life.html\#homeostasis}{\emph{}\textbf{1.3.4}
+      Homeostasis}
+    \item
+      \href{biology-the-science-of-life.html\#energy}{\emph{}\textbf{1.3.5}
+      Energy}
+    \end{itemize}
+  \item
+    \href{biology-the-science-of-life.html\#areas-and-levels-of-study-and-research-in-biology}{\emph{}\textbf{1.4}
+    Areas And Levels of Study And Research in Biology}
+  \item
+    \href{biology-the-science-of-life.html\#science}{\emph{}\textbf{1.5}
+    Science}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{biology-the-science-of-life.html\#scientific-terminology}{\emph{}\textbf{1.5.1}
+      Scientific Terminology}
+    \item
+      \href{biology-the-science-of-life.html\#the-scientific-method}{\emph{}\textbf{1.5.2}
+      The Scientific Method}
+    \item
+      \href{biology-the-science-of-life.html\#dissemination-of-scientific-knowledge}{\emph{}\textbf{1.5.3}
+      Dissemination of Scientific Knowledge}
+    \end{itemize}
+  \item
+    \href{biology-the-science-of-life.html\#philosophy-of-science}{\emph{}\textbf{1.6}
+    Philosophy of Science}
+  \item
+    \href{biology-the-science-of-life.html\#science-and-religion}{\emph{}\textbf{1.7}
+    Science And Religion}
+  \end{itemize}
+\item
+  \href{basic-general-chemistry-for-biology.html}{\emph{}\textbf{2}
+  Basic General Chemistry For Biology}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{basic-general-chemistry-for-biology.html\#matter}{\emph{}\textbf{2.1}
+    Matter}
+  \item
+    \href{basic-general-chemistry-for-biology.html\#the-atom}{\emph{}\textbf{2.2}
+    The Atom}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{basic-general-chemistry-for-biology.html\#structure-of-the-atom}{\emph{}\textbf{2.2.1}
+      Structure of The Atom}
+    \item
+      \href{basic-general-chemistry-for-biology.html\#the-atomic-nucleus}{\emph{}\textbf{2.2.2}
+      The Atomic Nucleus}
+    \item
+      \href{basic-general-chemistry-for-biology.html\#the-electron-cloud}{\emph{}\textbf{2.2.3}
+      The Electron Cloud}
+    \end{itemize}
+  \item
+    \href{basic-general-chemistry-for-biology.html\#the-periodic-table-of-the-elements}{\emph{}\textbf{2.3}
+    The Periodic Table of The Elements}
+  \item
+    \href{basic-general-chemistry-for-biology.html\#chemical-bonds-molecules-and-compounds}{\emph{}\textbf{2.4}
+    Chemical Bonds, Molecules, And Compounds}
+  \item
+    \href{basic-general-chemistry-for-biology.html\#energy-1}{\emph{}\textbf{2.5}
+    Energy}
+  \item
+    \href{basic-general-chemistry-for-biology.html\#chemical-reactions}{\emph{}\textbf{2.6}
+    Chemical Reactions}
+  \item
+    \href{basic-general-chemistry-for-biology.html\#radioactive-decay-of-atoms}{\emph{}\textbf{2.7}
+    Radioactive Decay of Atoms}
+  \item
+    \href{basic-general-chemistry-for-biology.html\#ions-and-salts}{\emph{}\textbf{2.8}
+    Ions And Salts}
+  \item
+    \href{basic-general-chemistry-for-biology.html\#acids-and-bases}{\emph{}\textbf{2.9}
+    Acids And Bases}
+  \item
+    \href{basic-general-chemistry-for-biology.html\#redox}{\emph{}\textbf{2.10}
+    Redox}
+  \item
+    \href{basic-general-chemistry-for-biology.html\#water}{\emph{}\textbf{2.11}
+    Water}
+  \end{itemize}
+\item
+  \href{basic-organic-chemistry-for-biology.html}{\emph{}\textbf{3}
+  Basic Organic Chemistry For Biology}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{basic-organic-chemistry-for-biology.html\#functional-groups}{\emph{}\textbf{3.1}
+    Functional groups}
+  \item
+    \href{basic-organic-chemistry-for-biology.html\#biomolecules}{\emph{}\textbf{3.2}
+    Biomolecules}
+  \item
+    \href{basic-organic-chemistry-for-biology.html\#proteins}{\emph{}\textbf{3.3}
+    Proteins}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{basic-organic-chemistry-for-biology.html\#structure}{\emph{}\textbf{3.3.1}
+      Structure}
+    \item
+      \href{basic-organic-chemistry-for-biology.html\#cellular-functions-of-proteins}{\emph{}\textbf{3.3.2}
+      Cellular Functions of Proteins}
+    \item
+      \href{basic-organic-chemistry-for-biology.html\#cell-signaling-and-ligand-binding}{\emph{}\textbf{3.3.3}
+      Cell Signaling And Ligand Binding}
+    \item
+      \href{basic-organic-chemistry-for-biology.html\#structural-proteins}{\emph{}\textbf{3.3.4}
+      Structural Proteins}
+    \end{itemize}
+  \item
+    \href{basic-organic-chemistry-for-biology.html\#carbohydrates}{\emph{}\textbf{3.4}
+    Carbohydrates}
+  \item
+    \href{basic-organic-chemistry-for-biology.html\#lipids}{\emph{}\textbf{3.5}
+    Lipids}
+  \item
+    \href{basic-organic-chemistry-for-biology.html\#nucleic-acids}{\emph{}\textbf{3.6}
+    Nucleic Acids}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{basic-organic-chemistry-for-biology.html\#deoxyribonucleic-acid-dna}{\emph{}\textbf{3.6.1}
+      Deoxyribonucleic Acid (DNA)}
+    \item
+      \href{basic-organic-chemistry-for-biology.html\#ribonucleic-acid-rna}{\emph{}\textbf{3.6.2}
+      Ribonucleic Acid (RNA)}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{the-cell.html}{\emph{}\textbf{4} The Cell}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{the-cell.html\#prokaryotic-cells}{\emph{}\textbf{4.1}
+    Prokaryotic Cells}
+  \item
+    \href{the-cell.html\#eukaryotic-cells}{\emph{}\textbf{4.2}
+    Eukaryotic Cells}
+  \item
+    \href{the-cell.html\#the-cell-membrane}{\emph{}\textbf{4.3} The Cell
+    Membrane}
+  \item
+    \href{the-cell.html\#the-cytoskeleton}{\emph{}\textbf{4.4} The
+    Cytoskeleton}
+  \item
+    \href{the-cell.html\#the-genetic-material}{\emph{}\textbf{4.5} The
+    Genetic Material}
+  \item
+    \href{the-cell.html\#organelles-of-eukaryotic-cells}{\emph{}\textbf{4.6}
+    Organelles of Eukaryotic Cells}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-cell.html\#the-cell-nucleus}{\emph{}\textbf{4.6.1} The
+      Cell Nucleus}
+    \item
+      \href{the-cell.html\#the-mitochondria}{\emph{}\textbf{4.6.2} The
+      Mitochondria}
+    \item
+      \href{the-cell.html\#the-chloroplasts}{\emph{}\textbf{4.6.3} The
+      Chloroplasts}
+    \item
+      \href{the-cell.html\#the-endoplasmic-reticulum}{\emph{}\textbf{4.6.4}
+      The Endoplasmic Reticulum}
+    \item
+      \href{the-cell.html\#the-golgi-apparatus}{\emph{}\textbf{4.6.5}
+      The Golgi Apparatus}
+    \item
+      \href{the-cell.html\#the-ribosomes}{\emph{}\textbf{4.6.6} The
+      Ribosomes}
+    \end{itemize}
+  \item
+    \href{the-cell.html\#structures-outside-the-cell-membrane}{\emph{}\textbf{4.7}
+    Structures Outside The Cell Membrane}
+  \item
+    \href{the-cell.html\#cellular-replication}{\emph{}\textbf{4.8}
+    Cellular Replication}
+  \item
+    \href{the-cell.html\#dna-repair}{\emph{}\textbf{4.9} DNA Repair}
+  \item
+    \href{the-cell.html\#cellular-growth-and-metabolism}{\emph{}\textbf{4.10}
+    Cellular Growth And Metabolism}
+  \item
+    \href{the-cell.html\#protein-synthesis}{\emph{}\textbf{4.11} Protein
+    Synthesis}
+  \item
+    \href{the-cell.html\#cell-motility}{\emph{}\textbf{4.12} Cell
+    Motility}
+  \item
+    \href{the-cell.html\#origin-of-the-first-cell}{\emph{}\textbf{4.13}
+    Origin of The First Cell}
+  \item
+    \href{the-cell.html\#origin-of-eukaryotic-cells}{\emph{}\textbf{4.14}
+    Origin of Eukaryotic Cells}
+  \end{itemize}
+\item
+  \href{the-cell-membrane-1.html}{\emph{}\textbf{5} The Cell Membrane}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{the-cell-membrane-1.html\#structure-and-function-of-the-cell-membrane}{\emph{}\textbf{5.1}
+    Structure And Function of The Cell Membrane}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-cell-membrane-1.html\#the-fluid-mosaic-model-of-the-cell-membrane}{\emph{}\textbf{5.1.1}
+      The Fluid Mosaic Model of The Cell Membrane}
+    \item
+      \href{the-cell-membrane-1.html\#lipid-bilayer}{\emph{}\textbf{5.1.2}
+      Lipid bilayer}
+    \item
+      \href{the-cell-membrane-1.html\#membrane-polarity}{\emph{}\textbf{5.1.3}
+      Membrane Polarity}
+    \item
+      \href{the-cell-membrane-1.html\#the-cytoskeleton-1}{\emph{}\textbf{5.1.4}
+      The Cytoskeleton}
+    \item
+      \href{the-cell-membrane-1.html\#intracellular-membranes-in-eukaryotic-cells}{\emph{}\textbf{5.1.5}
+      Intracellular Membranes In Eukaryotic Cells}
+    \end{itemize}
+  \item
+    \href{the-cell-membrane-1.html\#membrane-permeability}{\emph{}\textbf{5.2}
+    Membrane Permeability}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-cell-membrane-1.html\#diffusion}{\emph{}\textbf{5.2.1}
+      Diffusion}
+    \item
+      \href{the-cell-membrane-1.html\#facilitated-diffusion}{\emph{}\textbf{5.2.2}
+      Facilitated Diffusion}
+    \item
+      \href{the-cell-membrane-1.html\#osmosis}{\emph{}\textbf{5.2.3}
+      Osmosis}
+    \item
+      \href{the-cell-membrane-1.html\#active-transport}{\emph{}\textbf{5.2.4}
+      Active Transport}
+    \item
+      \href{the-cell-membrane-1.html\#bulk-transport}{\emph{}\textbf{5.2.5}
+      Bulk transport}
+    \end{itemize}
+  \item
+    \href{the-cell-membrane-1.html\#the-extracellular-matrix}{\emph{}\textbf{5.3}
+    The Extracellular Matrix}
+  \item
+    \href{the-cell-membrane-1.html\#cell-junctions}{\emph{}\textbf{5.4}
+    Cell Junctions}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-cell-membrane-1.html\#anchoring-junctions}{\emph{}\textbf{5.4.1}
+      Anchoring Junctions}
+    \item
+      \href{the-cell-membrane-1.html\#desmosomes}{\emph{}\textbf{5.4.2}
+      Desmosomes}
+    \item
+      \href{the-cell-membrane-1.html\#hemidesmosomes}{\emph{}\textbf{5.4.3}
+      Hemidesmosomes}
+    \item
+      \href{the-cell-membrane-1.html\#adherens-junctions}{\emph{}\textbf{5.4.4}
+      Adherens Junctions}
+    \item
+      \href{the-cell-membrane-1.html\#communicating-gap-junctions}{\emph{}\textbf{5.4.5}
+      Communicating (gap) Junctions}
+    \item
+      \href{the-cell-membrane-1.html\#tight-junctions}{\emph{}\textbf{5.4.6}
+      Tight Junctions}
+    \item
+      \href{the-cell-membrane-1.html\#cell-junction-molecules}{\emph{}\textbf{5.4.7}
+      Cell Junction Molecules}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{bioenergetics.html}{\emph{}\textbf{6} Bioenergetics}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{bioenergetics.html\#thermodynamics-of-living-organisms}{\emph{}\textbf{6.1}
+    Thermodynamics of Living Organisms}
+  \item
+    \href{bioenergetics.html\#metabolism}{\emph{}\textbf{6.2}
+    Metabolism}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{bioenergetics.html\#catabolism}{\emph{}\textbf{6.2.1}
+      Catabolism}
+    \item
+      \href{bioenergetics.html\#digestion}{\emph{}\textbf{6.2.2}
+      Digestion}
+    \item
+      \href{bioenergetics.html\#energy-from-organic-compounds}{\emph{}\textbf{6.2.3}
+      Energy From Organic Compounds}
+    \end{itemize}
+  \item
+    \href{bioenergetics.html\#energy-transformations}{\emph{}\textbf{6.3}
+    Energy Transformations}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{bioenergetics.html\#oxidative-phosphorylation}{\emph{}\textbf{6.3.1}
+      Oxidative Phosphorylation}
+    \item
+      \href{bioenergetics.html\#energy-from-inorganic-compounds}{\emph{}\textbf{6.3.2}
+      Energy From Inorganic Compounds}
+    \item
+      \href{bioenergetics.html\#energy-from-light}{\emph{}\textbf{6.3.3}
+      Energy From Light}
+    \item
+      \href{bioenergetics.html\#anabolism}{\emph{}\textbf{6.3.4}
+      Anabolism}
+    \item
+      \href{bioenergetics.html\#carbon-fixation}{\emph{}\textbf{6.3.5}
+      Carbon Fixation}
+    \item
+      \href{bioenergetics.html\#carbohydrates-and-glycans}{\emph{}\textbf{6.3.6}
+      Carbohydrates And Glycans}
+    \item
+      \href{bioenergetics.html\#fatty-acids-isoprenoids-and-sterol}{\emph{}\textbf{6.3.7}
+      Fatty Acids, Isoprenoids and Sterol}
+    \item
+      \href{bioenergetics.html\#proteins-1}{\emph{}\textbf{6.3.8}
+      Proteins}
+    \item
+      \href{bioenergetics.html\#nucleotide-synthesis-and-salvage}{\emph{}\textbf{6.3.9}
+      Nucleotide Synthesis And Salvage}
+    \end{itemize}
+  \item
+    \href{bioenergetics.html\#enzymes}{\emph{}\textbf{6.4} Enzymes}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{bioenergetics.html\#allosteric-modulation}{\emph{}\textbf{6.4.1}
+      Allosteric Modulation}
+    \item
+      \href{bioenergetics.html\#cofactors-of-enzymes-and-coenzymes}{\emph{}\textbf{6.4.2}
+      Cofactors of Enzymes and Coenzymes}
+    \item
+      \href{bioenergetics.html\#inhibition-of-enzymes}{\emph{}\textbf{6.4.3}
+      Inhibition of Enzymes}
+    \item
+      \href{bioenergetics.html\#factors-affecting-enzyme-activity}{\emph{}\textbf{6.4.4}
+      Factors Affecting Enzyme Activity}
+    \item
+      \href{bioenergetics.html\#control-of-activity}{\emph{}\textbf{6.4.5}
+      Control of activity}
+    \item
+      \href{bioenergetics.html\#post-translational-modification}{\emph{}\textbf{6.4.6}
+      Post-translational Modification}
+    \item
+      \href{bioenergetics.html\#quantity}{\emph{}\textbf{6.4.7}
+      Quantity}
+    \item
+      \href{bioenergetics.html\#subcellular-distribution}{\emph{}\textbf{6.4.8}
+      Subcellular Distribution}
+    \item
+      \href{bioenergetics.html\#organ-specialization}{\emph{}\textbf{6.4.9}
+      Organ Specialization}
+    \item
+      \href{bioenergetics.html\#coenzymes}{\emph{}\textbf{6.4.10}
+      Coenzymes}
+    \item
+      \href{bioenergetics.html\#mineral-cofactors}{\emph{}\textbf{6.4.11}
+      Mineral Cofactors}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{photosynthesis-and-cellular-respiration.html}{\emph{}\textbf{7}
+  Photosynthesis And Cellular Respiration}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{photosynthesis-and-cellular-respiration.html\#the-electron-transport-chain-and-chemiosmosis}{\emph{}\textbf{7.1}
+    The Electron Transport Chain And Chemiosmosis}
+  \item
+    \href{photosynthesis-and-cellular-respiration.html\#photosynthesis}{\emph{}\textbf{7.2}
+    Photosynthesis}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{photosynthesis-and-cellular-respiration.html\#photosynthetic-membranes-and-organelles}{\emph{}\textbf{7.2.1}
+      Photosynthetic Membranes And Organelles}
+    \item
+      \href{photosynthesis-and-cellular-respiration.html\#z-scheme}{\emph{}\textbf{7.2.2}
+      Z Scheme}
+    \item
+      \href{photosynthesis-and-cellular-respiration.html\#water-photolysis}{\emph{}\textbf{7.2.3}
+      Water Photolysis}
+    \item
+      \href{photosynthesis-and-cellular-respiration.html\#calvin-cycle}{\emph{}\textbf{7.2.4}
+      Calvin Cycle}
+    \item
+      \href{photosynthesis-and-cellular-respiration.html\#carbon-dioxide-levels-and-photorespiration}{\emph{}\textbf{7.2.5}
+      Carbon Dioxide Levels And Photorespiration}
+    \item
+      \href{photosynthesis-and-cellular-respiration.html\#c4-carbon-fixation}{\emph{}\textbf{7.2.6}
+      C4 Carbon Fixation}
+    \item
+      \href{photosynthesis-and-cellular-respiration.html\#cam-photosynthesis}{\emph{}\textbf{7.2.7}
+      CAM Photosynthesis}
+    \end{itemize}
+  \item
+    \href{photosynthesis-and-cellular-respiration.html\#symbiosis-and-the-origin-of-chloroplasts}{\emph{}\textbf{7.3}
+    Symbiosis And The Origin of Chloroplasts}
+  \item
+    \href{photosynthesis-and-cellular-respiration.html\#cyanobacteria-and-the-evolution-of-photosynthesis}{\emph{}\textbf{7.4}
+    Cyanobacteria And The Evolution of Photosynthesis}
+  \item
+    \href{photosynthesis-and-cellular-respiration.html\#cellular-respiration}{\emph{}\textbf{7.5}
+    Cellular Respiration}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{photosynthesis-and-cellular-respiration.html\#aerobic-respiration}{\emph{}\textbf{7.5.1}
+      Aerobic Respiration}
+    \item
+      \href{photosynthesis-and-cellular-respiration.html\#glycolysis}{\emph{}\textbf{7.5.2}
+      Glycolysis}
+    \item
+      \href{photosynthesis-and-cellular-respiration.html\#oxidative-decarboxylation-of-pyruvate}{\emph{}\textbf{7.5.3}
+      Oxidative Decarboxylation of Pyruvate}
+    \item
+      \href{photosynthesis-and-cellular-respiration.html\#the-citric-acid-cycle}{\emph{}\textbf{7.5.4}
+      The Citric Acid Cycle}
+    \item
+      \href{photosynthesis-and-cellular-respiration.html\#oxidative-phosphorylation-1}{\emph{}\textbf{7.5.5}
+      Oxidative Phosphorylation}
+    \end{itemize}
+  \item
+    \href{photosynthesis-and-cellular-respiration.html\#fermentation}{\emph{}\textbf{7.6}
+    Fermentation}
+  \item
+    \href{photosynthesis-and-cellular-respiration.html\#anaerobic-respiration}{\emph{}\textbf{7.7}
+    Anaerobic Respiration}
+  \end{itemize}
+\item
+  \href{the-cell-cycle-and-cell-division.html}{\emph{}\textbf{8} The
+  Cell Cycle And Cell Division}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{the-cell-cycle-and-cell-division.html\#the-prokaryotic-cell-cycle}{\emph{}\textbf{8.1}
+    The Prokaryotic Cell Cycle}
+  \item
+    \href{the-cell-cycle-and-cell-division.html\#binary-fission}{\emph{}\textbf{8.2}
+    Binary Fission}
+  \item
+    \href{the-cell-cycle-and-cell-division.html\#the-eukaryotic-cell-cycle}{\emph{}\textbf{8.3}
+    The Eukaryotic Cell Cycle}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#g0-phase-quiescence}{\emph{}\textbf{8.3.1}
+      G0 phase (quiescence)}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#interphase}{\emph{}\textbf{8.3.2}
+      Interphase}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#g1-phase-first-growth-phase-or-post-mitotic-gap-phase}{\emph{}\textbf{8.3.3}
+      G1 phase (First growth phase or Post mitotic gap phase)}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#s-phase-dna-replication}{\emph{}\textbf{8.3.4}
+      S phase (DNA Replication)}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#g2-phase-growth}{\emph{}\textbf{8.3.5}
+      G2 phase (growth)}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#mitotic-phase-chromosome-separation}{\emph{}\textbf{8.3.6}
+      Mitotic Phase (Chromosome Separation)}
+    \end{itemize}
+  \item
+    \href{the-cell-cycle-and-cell-division.html\#chromosomes-the-vectors-of-heredity}{\emph{}\textbf{8.4}
+    Chromosomes: The Vectors of Heredity}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#interphase-chromatin}{\emph{}\textbf{8.4.1}
+      Interphase Chromatin}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#metaphase-chromatin-and-division}{\emph{}\textbf{8.4.2}
+      Metaphase chromatin and division}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#human-chromosomes}{\emph{}\textbf{8.4.3}
+      Human chromosomes}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#number-of-chromosomes-in-various-organisms}{\emph{}\textbf{8.4.4}
+      Number of Chromosomes in Various Organisms}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#prokaryotic-chromosomes}{\emph{}\textbf{8.4.5}
+      Prokaryotic Chromosomes}
+    \end{itemize}
+  \item
+    \href{the-cell-cycle-and-cell-division.html\#mitosis}{\emph{}\textbf{8.5}
+    Mitosis}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#interphase-1}{\emph{}\textbf{8.5.1}
+      Interphase}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#preprophase-plant-cells}{\emph{}\textbf{8.5.2}
+      Preprophase (plant cells)}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#prophase}{\emph{}\textbf{8.5.3}
+      Prophase}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#prometaphase}{\emph{}\textbf{8.5.4}
+      Prometaphase}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#metaphase}{\emph{}\textbf{8.5.5}
+      Metaphase}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#anaphase}{\emph{}\textbf{8.5.6}
+      Anaphase}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#telophase}{\emph{}\textbf{8.5.7}
+      Telophase}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#cytokinesis}{\emph{}\textbf{8.5.8}
+      Cytokinesis}
+    \end{itemize}
+  \item
+    \href{the-cell-cycle-and-cell-division.html\#regulation-of-the-eukaryotic-cell-cycle}{\emph{}\textbf{8.6}
+    Regulation of The Eukaryotic Cell Cycle}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#role-of-cyclins-and-cdks}{\emph{}\textbf{8.6.1}
+      Role of cyclins and CDKs}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#cell-cycle-checkpoints}{\emph{}\textbf{8.6.2}
+      Cell Cycle Checkpoints}
+    \item
+      \href{the-cell-cycle-and-cell-division.html\#role-in-tumor-formation}{\emph{}\textbf{8.6.3}
+      Role in Tumor Formation}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{sexual-reproduction-and-meiosis.html}{\emph{}\textbf{9} Sexual
+  Reproduction And Meiosis}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{sexual-reproduction-and-meiosis.html\#sexual-reproduction}{\emph{}\textbf{9.0.1}
+    Sexual reproduction}
+  \item
+    \href{sexual-reproduction-and-meiosis.html\#meiosis}{\emph{}\textbf{9.1}
+    Meiosis}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{sexual-reproduction-and-meiosis.html\#meiosis-i}{\emph{}\textbf{9.1.1}
+      Meiosis I}
+    \item
+      \href{sexual-reproduction-and-meiosis.html\#prophase-i}{\emph{}\textbf{9.1.2}
+      Prophase I}
+    \item
+      \href{sexual-reproduction-and-meiosis.html\#metaphase-i}{\emph{}\textbf{9.1.3}
+      Metaphase I}
+    \item
+      \href{sexual-reproduction-and-meiosis.html\#anaphase-i}{\emph{}\textbf{9.1.4}
+      Anaphase I}
+    \item
+      \href{sexual-reproduction-and-meiosis.html\#telophase-i}{\emph{}\textbf{9.1.5}
+      Telophase I}
+    \item
+      \href{sexual-reproduction-and-meiosis.html\#meiosis-ii}{\emph{}\textbf{9.1.6}
+      Meiosis II}
+    \item
+      \href{sexual-reproduction-and-meiosis.html\#nondisjunction}{\emph{}\textbf{9.1.7}
+      Nondisjunction}
+    \end{itemize}
+  \item
+    \href{sexual-reproduction-and-meiosis.html\#chromosomal-disorders}{\emph{}\textbf{9.2}
+    Chromosomal Disorders}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{sexual-reproduction-and-meiosis.html\#aberrations}{\emph{}\textbf{9.2.1}
+      Aberrations}
+    \item
+      \href{sexual-reproduction-and-meiosis.html\#numerical-abnormalities}{\emph{}\textbf{9.2.2}
+      Numerical abnormalities}
+    \item
+      \href{sexual-reproduction-and-meiosis.html\#mechanisms}{\emph{}\textbf{9.2.3}
+      Mechanisms}
+    \item
+      \href{sexual-reproduction-and-meiosis.html\#diagnosis}{\emph{}\textbf{9.2.4}
+      Diagnosis}
+    \item
+      \href{sexual-reproduction-and-meiosis.html\#structural-abnormalities}{\emph{}\textbf{9.2.5}
+      Structural abnormalities}
+    \item
+      \href{sexual-reproduction-and-meiosis.html\#acquired-chromosomal-abnormalities}{\emph{}\textbf{9.2.6}
+      Acquired Chromosomal Abnormalities}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{classical-genetics.html}{\emph{}\textbf{10} Classical Genetics}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{classical-genetics.html\#mendelian-inheritance}{\emph{}\textbf{10.1}
+    Mendelian Inheritance}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{classical-genetics.html\#mendels-genetic-discoveries}{\emph{}\textbf{10.1.1}
+      Mendel's Genetic Discoveries}
+    \item
+      \href{classical-genetics.html\#law-of-dominance-and-uniformity}{\emph{}\textbf{10.1.2}
+      Law of Dominance and Uniformity}
+    \item
+      \href{classical-genetics.html\#law-of-segregation-of-genes}{\emph{}\textbf{10.1.3}
+      Law of Segregation of genes}
+    \item
+      \href{classical-genetics.html\#law-of-independent-assortment}{\emph{}\textbf{10.1.4}
+      Law of Independent Assortment}
+    \item
+      \href{classical-genetics.html\#mendelian-trait}{\emph{}\textbf{10.1.5}
+      Mendelian Trait}
+    \item
+      \href{classical-genetics.html\#zygosity}{\emph{}\textbf{10.1.6}
+      Zygosity}
+    \item
+      \href{classical-genetics.html\#monohybrid-cross}{\emph{}\textbf{10.1.7}
+      Monohybrid Cross}
+    \item
+      \href{classical-genetics.html\#punnett-square}{\emph{}\textbf{10.1.8}
+      Punnett Square}
+    \item
+      \href{classical-genetics.html\#dihybrid-cross}{\emph{}\textbf{10.1.9}
+      Dihybrid Cross}
+    \end{itemize}
+  \item
+    \href{classical-genetics.html\#mendelian-traits-in-humans}{\emph{}\textbf{10.2}
+    Mendelian Traits in Humans}
+  \item
+    \href{classical-genetics.html\#non-mendelian-inheritance}{\emph{}\textbf{10.3}
+    Non-Mendelian Inheritance}
+  \end{itemize}
+\item
+  \href{molecular-biology-of-the-gene.html}{\emph{}\textbf{11} Molecular
+  Biology of The Gene}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{molecular-biology-of-the-gene.html\#structure-and-function-of-deoxyribonucleic-acid}{\emph{}\textbf{11.1}
+    Structure And Function of Deoxyribonucleic Acid}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{molecular-biology-of-the-gene.html\#dna-damage}{\emph{}\textbf{11.1.1}
+      DNA Damage}
+    \item
+      \href{molecular-biology-of-the-gene.html\#genes-and-genomes}{\emph{}\textbf{11.1.2}
+      Genes And Genomes}
+    \item
+      \href{molecular-biology-of-the-gene.html\#transcription-and-translation}{\emph{}\textbf{11.1.3}
+      Transcription And Translation}
+    \item
+      \href{molecular-biology-of-the-gene.html\#dna-replication}{\emph{}\textbf{11.1.4}
+      DNA Replication}
+    \item
+      \href{molecular-biology-of-the-gene.html\#eukaryotic-dna-replication}{\emph{}\textbf{11.1.5}
+      Eukaryotic DNA Replication}
+    \item
+      \href{molecular-biology-of-the-gene.html\#initiation}{\emph{}\textbf{11.1.6}
+      Initiation}
+    \item
+      \href{molecular-biology-of-the-gene.html\#pre-replication-complex}{\emph{}\textbf{11.1.7}
+      Pre-replication complex}
+    \item
+      \href{molecular-biology-of-the-gene.html\#preinitiation-complex}{\emph{}\textbf{11.1.8}
+      Preinitiation complex}
+    \item
+      \href{molecular-biology-of-the-gene.html\#elongation}{\emph{}\textbf{11.1.9}
+      Elongation}
+    \item
+      \href{molecular-biology-of-the-gene.html\#replication-fork}{\emph{}\textbf{11.1.10}
+      Replication Fork}
+    \item
+      \href{molecular-biology-of-the-gene.html\#replication-of-the-leading-strand}{\emph{}\textbf{11.1.11}
+      Replication of The Leading Strand}
+    \item
+      \href{molecular-biology-of-the-gene.html\#replication-of-the-lagging-strand}{\emph{}\textbf{11.1.12}
+      Replication of The Lagging Strand}
+    \item
+      \href{molecular-biology-of-the-gene.html\#dna-replication-proteins}{\emph{}\textbf{11.1.13}
+      DNA Replication Proteins}
+    \item
+      \href{molecular-biology-of-the-gene.html\#termination}{\emph{}\textbf{11.1.14}
+      Termination}
+    \item
+      \href{molecular-biology-of-the-gene.html\#regulation-of-dna-replication}{\emph{}\textbf{11.1.15}
+      Regulation of DNA Replication}
+    \item
+      \href{molecular-biology-of-the-gene.html\#interactions-of-dna-with-proteins}{\emph{}\textbf{11.1.16}
+      Interactions of DNA with Proteins}
+    \item
+      \href{molecular-biology-of-the-gene.html\#dna-binding-proteins}{\emph{}\textbf{11.1.17}
+      DNA-binding proteins}
+    \item
+      \href{molecular-biology-of-the-gene.html\#dna-modifying-enzymes}{\emph{}\textbf{11.1.18}
+      DNA-modifying Enzymes}
+    \item
+      \href{molecular-biology-of-the-gene.html\#nucleases-and-ligases}{\emph{}\textbf{11.1.19}
+      Nucleases And Ligases}
+    \item
+      \href{molecular-biology-of-the-gene.html\#topoisomerases-and-helicases}{\emph{}\textbf{11.1.20}
+      Topoisomerases And Helicases}
+    \item
+      \href{molecular-biology-of-the-gene.html\#polymerases}{\emph{}\textbf{11.1.21}
+      Polymerases}
+    \item
+      \href{molecular-biology-of-the-gene.html\#dna-recombination}{\emph{}\textbf{11.1.22}
+      DNA Recombination}
+    \item
+      \href{molecular-biology-of-the-gene.html\#evolutionary-history-of-dna}{\emph{}\textbf{11.1.23}
+      Evolutionary History of DNA}
+    \item
+      \href{molecular-biology-of-the-gene.html\#genetic-engineering}{\emph{}\textbf{11.1.24}
+      Genetic engineering}
+    \item
+      \href{molecular-biology-of-the-gene.html\#dna-profiling}{\emph{}\textbf{11.1.25}
+      DNA profiling}
+    \end{itemize}
+  \item
+    \href{molecular-biology-of-the-gene.html\#structure-and-function-of-ribonucleic-acid}{\emph{}\textbf{11.2}
+    Structure And Function of Ribonucleic Acid}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{molecular-biology-of-the-gene.html\#comparison-with-dna}{\emph{}\textbf{11.2.1}
+      Comparison with DNA}
+    \item
+      \href{molecular-biology-of-the-gene.html\#structure-of-rna}{\emph{}\textbf{11.2.2}
+      Structure of RNA}
+    \item
+      \href{molecular-biology-of-the-gene.html\#synthesis-of-rna}{\emph{}\textbf{11.2.3}
+      Synthesis of RNA}
+    \item
+      \href{molecular-biology-of-the-gene.html\#coding-and-non-coding-rna}{\emph{}\textbf{11.2.4}
+      Coding and non-coding RNA}
+    \item
+      \href{molecular-biology-of-the-gene.html\#regulatory-rna}{\emph{}\textbf{11.2.5}
+      Regulatory RNA}
+    \item
+      \href{molecular-biology-of-the-gene.html\#rna-interference-by-mirnas}{\emph{}\textbf{11.2.6}
+      RNA interference by miRNAs}
+    \end{itemize}
+  \item
+    \href{molecular-biology-of-the-gene.html\#gene-expression}{\emph{}\textbf{11.3}
+    Gene Expression}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{molecular-biology-of-the-gene.html\#transcription-and-rna-processing}{\emph{}\textbf{11.3.1}
+      Transcription And RNA Processing}
+    \item
+      \href{molecular-biology-of-the-gene.html\#initiation-1}{\emph{}\textbf{11.3.2}
+      Initiation}
+    \item
+      \href{molecular-biology-of-the-gene.html\#elongation-1}{\emph{}\textbf{11.3.3}
+      Elongation}
+    \item
+      \href{molecular-biology-of-the-gene.html\#termination-1}{\emph{}\textbf{11.3.4}
+      Termination}
+    \item
+      \href{molecular-biology-of-the-gene.html\#inhibitors-of-transcription}{\emph{}\textbf{11.3.5}
+      Inhibitors of Transcription}
+    \item
+      \href{molecular-biology-of-the-gene.html\#transcription-factors}{\emph{}\textbf{11.3.6}
+      Transcription Factors}
+    \item
+      \href{molecular-biology-of-the-gene.html\#rna-processing}{\emph{}\textbf{11.3.7}
+      RNA Processing}
+    \item
+      \href{molecular-biology-of-the-gene.html\#mrna-processing}{\emph{}\textbf{11.3.8}
+      mRNA processing}
+    \item
+      \href{molecular-biology-of-the-gene.html\#processing}{\emph{}\textbf{11.3.9}
+      5' processing}
+    \item
+      \href{molecular-biology-of-the-gene.html\#processing-1}{\emph{}\textbf{11.3.10}
+      3' processing}
+    \item
+      \href{molecular-biology-of-the-gene.html\#intron-splicing}{\emph{}\textbf{11.3.11}
+      Intron Splicing}
+    \item
+      \href{molecular-biology-of-the-gene.html\#reverse-transcription}{\emph{}\textbf{11.3.12}
+      Reverse Transcription}
+    \item
+      \href{molecular-biology-of-the-gene.html\#rna-export}{\emph{}\textbf{11.3.13}
+      RNA Export}
+    \item
+      \href{molecular-biology-of-the-gene.html\#translation-and-the-genetic-code}{\emph{}\textbf{11.3.14}
+      Translation And The Genetic Code}
+    \item
+      \href{molecular-biology-of-the-gene.html\#ribosomes}{\emph{}\textbf{11.3.15}
+      Ribosomes}
+    \item
+      \href{molecular-biology-of-the-gene.html\#bacterial-ribosomes}{\emph{}\textbf{11.3.16}
+      Bacterial Ribosomes}
+    \item
+      \href{molecular-biology-of-the-gene.html\#eukaryotic-ribosomes}{\emph{}\textbf{11.3.17}
+      Eukaryotic Ribosomes}
+    \item
+      \href{molecular-biology-of-the-gene.html\#translation}{\emph{}\textbf{11.3.18}
+      Translation}
+    \item
+      \href{molecular-biology-of-the-gene.html\#eukaryotic-translation}{\emph{}\textbf{11.3.19}
+      Eukaryotic Translation}
+    \item
+      \href{molecular-biology-of-the-gene.html\#initiation-2}{\emph{}\textbf{11.3.20}
+      Initiation}
+    \item
+      \href{molecular-biology-of-the-gene.html\#elongation-2}{\emph{}\textbf{11.3.21}
+      Elongation}
+    \item
+      \href{molecular-biology-of-the-gene.html\#termination-2}{\emph{}\textbf{11.3.22}
+      Termination}
+    \item
+      \href{molecular-biology-of-the-gene.html\#the-genetic-code}{\emph{}\textbf{11.3.23}
+      The Genetic Code}
+    \item
+      \href{molecular-biology-of-the-gene.html\#protein-folding}{\emph{}\textbf{11.3.24}
+      Protein Folding}
+    \item
+      \href{molecular-biology-of-the-gene.html\#protein-translocation}{\emph{}\textbf{11.3.25}
+      Protein Translocation}
+    \item
+      \href{molecular-biology-of-the-gene.html\#protein-transport}{\emph{}\textbf{11.3.26}
+      Protein Transport}
+    \end{itemize}
+  \item
+    \href{molecular-biology-of-the-gene.html\#techniques-of-molecular-genetics}{\emph{}\textbf{11.4}
+    Techniques of Molecular Genetics}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{molecular-biology-of-the-gene.html\#polymerase-chain-reaction}{\emph{}\textbf{11.4.1}
+      Polymerase chain reaction}
+    \item
+      \href{molecular-biology-of-the-gene.html\#dna-sequencing}{\emph{}\textbf{11.4.2}
+      DNA Sequencing}
+    \item
+      \href{molecular-biology-of-the-gene.html\#dna-microarray}{\emph{}\textbf{11.4.3}
+      DNA Microarray}
+    \item
+      \href{molecular-biology-of-the-gene.html\#recombinant-dna}{\emph{}\textbf{11.4.4}
+      Recombinant DNA}
+    \item
+      \href{molecular-biology-of-the-gene.html\#gene-synthesis}{\emph{}\textbf{11.4.5}
+      Gene Synthesis}
+    \item
+      \href{molecular-biology-of-the-gene.html\#gene-knockout}{\emph{}\textbf{11.4.6}
+      Gene Knockout}
+    \item
+      \href{molecular-biology-of-the-gene.html\#crispr-gene-editing}{\emph{}\textbf{11.4.7}
+      CRISPR Gene Editing}
+    \item
+      \href{molecular-biology-of-the-gene.html\#human-germline-modification}{\emph{}\textbf{11.4.8}
+      Human Germline Modification}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{regulation-of-gene-expression.html}{\emph{}\textbf{12}
+  Regulation of Gene Expression}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{regulation-of-gene-expression.html\#the-lac-operon}{\emph{}\textbf{12.1}
+    The \emph{lac} operon}
+  \item
+    \href{regulation-of-gene-expression.html\#the-trp-operon}{\emph{}\textbf{12.2}
+    The \emph{trp} operon}
+  \item
+    \href{regulation-of-gene-expression.html\#regulated-stages-of-gene-expression}{\emph{}\textbf{12.3}
+    Regulated stages of gene expression}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{regulation-of-gene-expression.html\#regulation-of-transciption-by-dna-packing}{\emph{}\textbf{12.3.1}
+      Regulation of transciption by DNA packing}
+    \item
+      \href{regulation-of-gene-expression.html\#regulation-of-transciption-by-dna-modification}{\emph{}\textbf{12.3.2}
+      Regulation of transciption by DNA modification}
+    \item
+      \href{regulation-of-gene-expression.html\#regulation-of-rna-polymerase}{\emph{}\textbf{12.3.3}
+      Regulation of RNA polymerase}
+    \end{itemize}
+  \item
+    \href{regulation-of-gene-expression.html\#post-transcriptional-regulation}{\emph{}\textbf{12.4}
+    Post-transcriptional regulation}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{regulation-of-gene-expression.html\#three-prime-untranslated-regions-and-micrornas}{\emph{}\textbf{12.4.1}
+      Three prime untranslated regions and microRNAs}
+    \end{itemize}
+  \item
+    \href{regulation-of-gene-expression.html\#regulation-of-translation}{\emph{}\textbf{12.5}
+    Regulation of translation}
+  \end{itemize}
+\item
+  \href{bacteria-archaea-and-viruses.html}{\emph{}\textbf{13} Bacteria,
+  Archaea And Viruses}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{bacteria-archaea-and-viruses.html\#bacteria}{\emph{}\textbf{13.1}
+    Bacteria}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{bacteria-archaea-and-viruses.html\#intracellular-structure}{\emph{}\textbf{13.1.1}
+      Intracellular Structure}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#extracellular-structures}{\emph{}\textbf{13.1.2}
+      Extracellular Structures}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#endospores}{\emph{}\textbf{13.1.3}
+      Endospores}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#metabolism-1}{\emph{}\textbf{13.1.4}
+      Metabolism}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#growth-and-reproduction}{\emph{}\textbf{13.1.5}
+      Growth and reproduction}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#genetics-1}{\emph{}\textbf{13.1.6}
+      Genetics}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#movement}{\emph{}\textbf{13.1.7}
+      Movement}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#communication}{\emph{}\textbf{13.1.8}
+      Communication}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#classification-and-identification}{\emph{}\textbf{13.1.9}
+      Classification and identification}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#interactions-with-other-organisms}{\emph{}\textbf{13.1.10}
+      Interactions With Other Organisms}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#bacteria-as-pathogens}{\emph{}\textbf{13.1.11}
+      Bacteria as Pathogens}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#significance-in-technology-and-industry}{\emph{}\textbf{13.1.12}
+      Significance in Technology And Industry}
+    \end{itemize}
+  \item
+    \href{bacteria-archaea-and-viruses.html\#archaea}{\emph{}\textbf{13.2}
+    Archaea}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{bacteria-archaea-and-viruses.html\#origin-and-evolution}{\emph{}\textbf{13.2.1}
+      Origin and evolution}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#relationship-to-bacteria}{\emph{}\textbf{13.2.2}
+      Relationship to Bacteria}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#relation-to-eukaryotes}{\emph{}\textbf{13.2.3}
+      Relation to Eukaryotes}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#morphology}{\emph{}\textbf{13.2.4}
+      Morphology}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#structure-composition-development-and-operation}{\emph{}\textbf{13.2.5}
+      Structure, Composition Development, And Operation}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#cell-wall-and-flagella}{\emph{}\textbf{13.2.6}
+      Cell Wall And Flagella}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#membranes}{\emph{}\textbf{13.2.7}
+      Membranes}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#metabolism-2}{\emph{}\textbf{13.2.8}
+      Metabolism}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#genetics-2}{\emph{}\textbf{13.2.9}
+      Genetics}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#ecology}{\emph{}\textbf{13.2.10}
+      Ecology}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#significance-in-technology-and-industry-1}{\emph{}\textbf{13.2.11}
+      Significance in Technology And Industry}
+    \end{itemize}
+  \item
+    \href{bacteria-archaea-and-viruses.html\#viruses}{\emph{}\textbf{13.3}
+    Viruses}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{bacteria-archaea-and-viruses.html\#role-in-human-disease}{\emph{}\textbf{13.3.1}
+      Role in human disease}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#animal-viruses}{\emph{}\textbf{13.3.2}
+      Animal viruses}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#plant-viruses}{\emph{}\textbf{13.3.3}
+      Plant viruses}
+    \item
+      \href{bacteria-archaea-and-viruses.html\#bacterial-viruses}{\emph{}\textbf{13.3.4}
+      Bacterial viruses}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{protists.html}{\emph{}\textbf{14} Protists}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{protists.html\#protozoa}{\emph{}\textbf{14.1} Protozoa}
+  \item
+    \href{protists.html\#flagellates}{\emph{}\textbf{14.2} Flagellates}
+  \item
+    \href{protists.html\#ciliates}{\emph{}\textbf{14.3} Ciliates}
+  \item
+    \href{protists.html\#amoebozoa}{\emph{}\textbf{14.4} Amoebozoa}
+  \item
+    \href{protists.html\#algae}{\emph{}\textbf{14.5} Algae}
+  \item
+    \href{protists.html\#slime-molds}{\emph{}\textbf{14.6} Slime Molds}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{protists.html\#reproduction-of-protists}{\emph{}\textbf{14.6.1}
+      Reproduction of Protists}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{the-theory-of-evolution-1.html}{\emph{}\textbf{15} The Theory of
+  Evolution}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{the-theory-of-evolution-1.html\#history-of-evolutionary-thought}{\emph{}\textbf{15.1}
+    History of Evolutionary Thought}
+  \item
+    \href{the-theory-of-evolution-1.html\#the-modern-synthesis}{\emph{}\textbf{15.2}
+    The Modern Synthesis}
+  \item
+    \href{the-theory-of-evolution-1.html\#mechanisms-of-evolution}{\emph{}\textbf{15.3}
+    Mechanisms of Evolution}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-theory-of-evolution-1.html\#natural-selection}{\emph{}\textbf{15.3.1}
+      Natural selection}
+    \item
+      \href{the-theory-of-evolution-1.html\#genetic-hitchhiking}{\emph{}\textbf{15.3.2}
+      Genetic Hitchhiking}
+    \item
+      \href{the-theory-of-evolution-1.html\#genetic-drift}{\emph{}\textbf{15.3.3}
+      Genetic Drift}
+    \item
+      \href{the-theory-of-evolution-1.html\#gene-flow}{\emph{}\textbf{15.3.4}
+      Gene Flow}
+    \item
+      \href{the-theory-of-evolution-1.html\#a-classic-example-evolution-of-the-peppered-moth}{\emph{}\textbf{15.3.5}
+      A Classic Example: Evolution of The Peppered Moth}
+    \end{itemize}
+  \item
+    \href{the-theory-of-evolution-1.html\#outcomes-of-evolution}{\emph{}\textbf{15.4}
+    Outcomes of Evolution}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-theory-of-evolution-1.html\#adaptation}{\emph{}\textbf{15.4.1}
+      Adaptation}
+    \item
+      \href{the-theory-of-evolution-1.html\#coevolution}{\emph{}\textbf{15.4.2}
+      Coevolution}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{taxonomy-binomial-nomenclature-and-systematics.html}{\emph{}\textbf{16}
+  Taxonomy, Binomial Nomenclature And Systematics}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{taxonomy-binomial-nomenclature-and-systematics.html\#the-concept-of-species-in-biology}{\emph{}\textbf{16.1}
+    The Concept of Species in Biology}
+  \item
+    \href{taxonomy-binomial-nomenclature-and-systematics.html\#binomial-nomenclature}{\emph{}\textbf{16.2}
+    Binomial Nomenclature}
+  \item
+    \href{taxonomy-binomial-nomenclature-and-systematics.html\#taxonomy-and-systematics}{\emph{}\textbf{16.3}
+    Taxonomy And Systematics}
+  \item
+    \href{taxonomy-binomial-nomenclature-and-systematics.html\#kingdoms-and-domains}{\emph{}\textbf{16.4}
+    Kingdoms And Domains}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{taxonomy-binomial-nomenclature-and-systematics.html\#the-three-domain-system}{\emph{}\textbf{16.4.1}
+      The Three-Domain System}
+    \end{itemize}
+  \item
+    \href{taxonomy-binomial-nomenclature-and-systematics.html\#cladistics}{\emph{}\textbf{16.5}
+    Cladistics}
+  \end{itemize}
+\item
+  \href{fungi.html}{\emph{}\textbf{17} Fungi}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{fungi.html\#morphology-of-fungi}{\emph{}\textbf{17.1}
+    Morphology of Fungi}
+  \item
+    \href{fungi.html\#growth-and-physiology-of-fungi}{\emph{}\textbf{17.2}
+    Growth And Physiology of Fungi}
+  \item
+    \href{fungi.html\#reproduction-of-fungi}{\emph{}\textbf{17.3}
+    Reproduction of Fungi}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{fungi.html\#asexual-reproduction}{\emph{}\textbf{17.3.1}
+      Asexual reproduction}
+    \item
+      \href{fungi.html\#sexual-reproduction-1}{\emph{}\textbf{17.3.2}
+      Sexual reproduction}
+    \item
+      \href{fungi.html\#spore-dispersal}{\emph{}\textbf{17.3.3} Spore
+      dispersal}
+    \end{itemize}
+  \item
+    \href{fungi.html\#evolution-of-fungi}{\emph{}\textbf{17.4} Evolution
+    of Fungi}
+  \item
+    \href{fungi.html\#fungus-like-organisms}{\emph{}\textbf{17.5}
+    Fungus-like organisms}
+  \item
+    \href{fungi.html\#ecology-of-fungi}{\emph{}\textbf{17.6} Ecology of
+    Fungi}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{fungi.html\#symbiosis}{\emph{}\textbf{17.6.1} Symbiosis}
+    \end{itemize}
+  \item
+    \href{fungi.html\#fungi-as-pathogens-and-parasites}{\emph{}\textbf{17.7}
+    Fungi as Pathogens And Parasites}
+  \item
+    \href{fungi.html\#mycotoxins}{\emph{}\textbf{17.8} Mycotoxins}
+  \end{itemize}
+\item
+  \href{plants.html}{\emph{}\textbf{18} Plants}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{plants.html\#embryophytes}{\emph{}\textbf{18.1} Embryophytes}
+  \item
+    \href{plants.html\#non-vascular-plants}{\emph{}\textbf{18.2}
+    Non-vascular Plants}
+  \item
+    \href{plants.html\#vascular-plants}{\emph{}\textbf{18.3} Vascular
+    Plants}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{plants.html\#ferns}{\emph{}\textbf{18.3.1} Ferns}
+    \end{itemize}
+  \item
+    \href{plants.html\#seed-plants}{\emph{}\textbf{18.4} Seed Plants}
+  \item
+    \href{plants.html\#gymnosperms}{\emph{}\textbf{18.5} Gymnosperms}
+  \item
+    \href{plants.html\#angiosperms}{\emph{}\textbf{18.6} Angiosperms}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{plants.html\#fertilization-and-embryogenesis}{\emph{}\textbf{18.6.1}
+      Fertilization and Embryogenesis}
+    \end{itemize}
+  \item
+    \href{plants.html\#plant-anatomy}{\emph{}\textbf{18.7} Plant
+    Anatomy}
+  \item
+    \href{plants.html\#plant-tissues}{\emph{}\textbf{18.8} Plant
+    Tissues}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{plants.html\#meristematic-tissues}{\emph{}\textbf{18.8.1}
+      Meristematic Tissues}
+    \item
+      \href{plants.html\#permanent-tissues}{\emph{}\textbf{18.8.2}
+      Permanent Tissues}
+    \item
+      \href{plants.html\#parenchyma}{\emph{}\textbf{18.8.3} Parenchyma}
+    \item
+      \href{plants.html\#collenchyma}{\emph{}\textbf{18.8.4}
+      Collenchyma}
+    \item
+      \href{plants.html\#sclerenchyma}{\emph{}\textbf{18.8.5}
+      Sclerenchyma}
+    \item
+      \href{plants.html\#epidermis}{\emph{}\textbf{18.8.6} Epidermis}
+    \item
+      \href{plants.html\#complex-permanent-tissue}{\emph{}\textbf{18.8.7}
+      Complex Permanent Tissue}
+    \item
+      \href{plants.html\#xylem}{\emph{}\textbf{18.8.8} Xylem}
+    \item
+      \href{plants.html\#phloem}{\emph{}\textbf{18.8.9} Phloem}
+    \item
+      \href{plants.html\#plant-cells}{\emph{}\textbf{18.8.10} Plant
+      cells}
+    \end{itemize}
+  \item
+    \href{plants.html\#biochemistry-of-plants}{\emph{}\textbf{18.9}
+    Biochemistry of Plants}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{plants.html\#pigments}{\emph{}\textbf{18.9.1} Pigments}
+    \item
+      \href{plants.html\#plant-hormones}{\emph{}\textbf{18.9.2} Plant
+      Hormones}
+    \item
+      \href{plants.html\#photomorphogenesis}{\emph{}\textbf{18.9.3}
+      Photomorphogenesis}
+    \item
+      \href{plants.html\#photoperiodism}{\emph{}\textbf{18.9.4}
+      Photoperiodism}
+    \end{itemize}
+  \item
+    \href{plants.html\#plant-secondary-metabolism}{\emph{}\textbf{18.10}
+    Plant Secondary Metabolism}
+  \item
+    \href{plants.html\#tropisms-and-nastic-movements}{\emph{}\textbf{18.11}
+    Tropisms And Nastic Movements}
+  \item
+    \href{plants.html\#plant-reproduction}{\emph{}\textbf{18.12} Plant
+    Reproduction}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{plants.html\#the-life-cycle-of-plants}{\emph{}\textbf{18.12.1}
+      The Life Cycle of Plants}
+    \item
+      \href{plants.html\#asexual-reproduction-1}{\emph{}\textbf{18.12.2}
+      Asexual Reproduction}
+    \item
+      \href{plants.html\#sexual-reproduction-2}{\emph{}\textbf{18.12.3}
+      Sexual Reproduction}
+    \item
+      \href{plants.html\#reproduction-of-flowering-plants}{\emph{}\textbf{18.12.4}
+      Reproduction of Flowering Plants}
+    \item
+      \href{plants.html\#pollination}{\emph{}\textbf{18.12.5}
+      Pollination}
+    \end{itemize}
+  \item
+    \href{plants.html\#the-fruit}{\emph{}\textbf{18.13} The Fruit}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{plants.html\#reproductin-of-ferns}{\emph{}\textbf{18.13.1}
+      Reproductin of Ferns}
+    \item
+      \href{plants.html\#reproductin-of-bryophytes}{\emph{}\textbf{18.13.2}
+      Reproductin of Bryophytes}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{animals.html}{\emph{}\textbf{19} Animals}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{animals.html\#non-bilaterian-animals}{\emph{}\textbf{19.1}
+    Non-bilaterian animals}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{animals.html\#porifera}{\emph{}\textbf{19.1.1} Porifera}
+    \item
+      \href{animals.html\#ctenophora}{\emph{}\textbf{19.1.2} Ctenophora}
+    \item
+      \href{animals.html\#cnidaria}{\emph{}\textbf{19.1.3} Cnidaria}
+    \end{itemize}
+  \item
+    \href{animals.html\#bilaterian-animals}{\emph{}\textbf{19.2}
+    Bilaterian animals}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{animals.html\#protostomes-and-deuterostomes}{\emph{}\textbf{19.2.1}
+      Protostomes and deuterostomes}
+    \item
+      \href{animals.html\#echinoderms}{\emph{}\textbf{19.2.2}
+      Echinoderms}
+    \item
+      \href{animals.html\#hemichordata}{\emph{}\textbf{19.2.3}
+      Hemichordata}
+    \end{itemize}
+  \item
+    \href{animals.html\#chordata}{\emph{}\textbf{19.3} Chordata}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{animals.html\#fish}{\emph{}\textbf{19.3.1} Fish}
+    \item
+      \href{animals.html\#amphibians}{\emph{}\textbf{19.3.2} Amphibians}
+    \item
+      \href{animals.html\#reptiles}{\emph{}\textbf{19.3.3} Reptiles}
+    \item
+      \href{animals.html\#birds}{\emph{}\textbf{19.3.4} Birds}
+    \item
+      \href{animals.html\#mammals}{\emph{}\textbf{19.3.5} Mammals}
+    \item
+      \href{animals.html\#ecdysozoa}{\emph{}\textbf{19.3.6} Ecdysozoa}
+    \item
+      \href{animals.html\#arthropods}{\emph{}\textbf{19.3.7} Arthropods}
+    \item
+      \href{animals.html\#nematodes}{\emph{}\textbf{19.3.8} Nematodes}
+    \item
+      \href{animals.html\#spiralia}{\emph{}\textbf{19.3.9} Spiralia}
+    \item
+      \href{animals.html\#rotifera}{\emph{}\textbf{19.3.10} Rotifera}
+    \item
+      \href{animals.html\#flatworms}{\emph{}\textbf{19.3.11} Flatworms}
+    \item
+      \href{animals.html\#trematoda}{\emph{}\textbf{19.3.12} Trematoda}
+    \item
+      \href{animals.html\#digenea}{\emph{}\textbf{19.3.13} Digenea}
+    \item
+      \href{animals.html\#cestoda}{\emph{}\textbf{19.3.14} Cestoda}
+    \item
+      \href{animals.html\#lophotrochozoa}{\emph{}\textbf{19.3.15}
+      Lophotrochozoa}
+    \item
+      \href{animals.html\#brachiopods}{\emph{}\textbf{19.3.16}
+      Brachiopods}
+    \item
+      \href{animals.html\#bryozoa}{\emph{}\textbf{19.3.17} Bryozoa}
+    \item
+      \href{animals.html\#nemertea}{\emph{}\textbf{19.3.18} Nemertea}
+    \item
+      \href{animals.html\#molluscs}{\emph{}\textbf{19.3.19} Molluscs}
+    \item
+      \href{animals.html\#annelids}{\emph{}\textbf{19.3.20} Annelids}
+    \end{itemize}
+  \item
+    \href{animals.html\#tissues-organs-and-organ-systems}{\emph{}\textbf{19.4}
+    Tissues, Organs And Organ Systems}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{animals.html\#epithelial-tissue}{\emph{}\textbf{19.4.1}
+      Epithelial tissue}
+    \item
+      \href{animals.html\#connective-tissue}{\emph{}\textbf{19.4.2}
+      Connective tissue}
+    \item
+      \href{animals.html\#muscular-tissue}{\emph{}\textbf{19.4.3}
+      Muscular tissue}
+    \item
+      \href{animals.html\#nervous-tissue}{\emph{}\textbf{19.4.4} Nervous
+      tissue}
+    \item
+      \href{animals.html\#the-integumentary-system}{\emph{}\textbf{19.4.5}
+      The Integumentary System}
+    \end{itemize}
+  \item
+    \href{animals.html\#human-evolution}{\emph{}\textbf{19.5} Human
+    evolution}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{animals.html\#human-dispersal}{\emph{}\textbf{19.5.1} Human
+      Dispersal}
+    \item
+      \href{animals.html\#evidence-of-human-evolution}{\emph{}\textbf{19.5.2}
+      Evidence of Human Evolution}
+    \item
+      \href{animals.html\#early-evolution-of-primates}{\emph{}\textbf{19.5.3}
+      Early Evolution of Primates}
+    \item
+      \href{animals.html\#divergence-of-the-human-clade-from-other-great-apes}{\emph{}\textbf{19.5.4}
+      Divergence of The Human Clade From Other Great Apes}
+    \item
+      \href{animals.html\#genus-australopithecus}{\emph{}\textbf{19.5.5}
+      Genus Australopithecus}
+    \item
+      \href{animals.html\#evolution-of-genus-homo}{\emph{}\textbf{19.5.6}
+      Evolution of Genus Homo}
+    \item
+      \href{animals.html\#h.-habilis-and-h.-gautengensis}{\emph{}\textbf{19.5.7}
+      H. habilis and H. gautengensis}
+    \item
+      \href{animals.html\#h.-rudolfensis-and-h.-georgicus}{\emph{}\textbf{19.5.8}
+      H. rudolfensis and H. georgicus}
+    \item
+      \href{animals.html\#h.-ergaster-and-h.-erectus}{\emph{}\textbf{19.5.9}
+      H. ergaster and H. erectus}
+    \item
+      \href{animals.html\#h.-cepranensis-and-h.-antecessor}{\emph{}\textbf{19.5.10}
+      H. cepranensis and H. antecessor}
+    \item
+      \href{animals.html\#h.-heidelbergensis}{\emph{}\textbf{19.5.11} H.
+      heidelbergensis}
+    \item
+      \href{animals.html\#h.-rhodesiensis-and-the-gawis-cranium}{\emph{}\textbf{19.5.12}
+      H. rhodesiensis, and the Gawis cranium}
+    \item
+      \href{animals.html\#neanderthal-and-denisovan}{\emph{}\textbf{19.5.13}
+      Neanderthal and Denisovan}
+    \item
+      \href{animals.html\#h.-floresiensis}{\emph{}\textbf{19.5.14} H.
+      floresiensis}
+    \item
+      \href{animals.html\#h.-luzonensis}{\emph{}\textbf{19.5.15} H.
+      luzonensis}
+    \item
+      \href{animals.html\#h.-sapiens}{\emph{}\textbf{19.5.16} H.
+      sapiens}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{circulatory-systems.html}{\emph{}\textbf{20} Circulatory
+  Systems}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{circulatory-systems.html\#closed-circulatory-system}{\emph{}\textbf{20.1}
+    Closed Circulatory System}
+  \item
+    \href{circulatory-systems.html\#open-circulatory-systems}{\emph{}\textbf{20.2}
+    Open Circulatory Systems}
+  \item
+    \href{circulatory-systems.html\#no-circulatory-system}{\emph{}\textbf{20.3}
+    No Circulatory System}
+  \item
+    \href{circulatory-systems.html\#the-human-cardiovascular-system}{\emph{}\textbf{20.4}
+    The Human Cardiovascular System}
+  \item
+    \href{circulatory-systems.html\#the-heart}{\emph{}\textbf{20.5} The
+    Heart}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{circulatory-systems.html\#structure-of-the-heart}{\emph{}\textbf{20.5.1}
+      Structure of The Heart}
+    \item
+      \href{circulatory-systems.html\#the-pericardium}{\emph{}\textbf{20.5.2}
+      The Pericardium}
+    \end{itemize}
+  \item
+    \href{circulatory-systems.html\#the-blood-flow}{\emph{}\textbf{20.6}
+    The Blood Flow}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{circulatory-systems.html\#the-cardiac-cycle}{\emph{}\textbf{20.6.1}
+      The Cardiac Cycle}
+    \item
+      \href{circulatory-systems.html\#control-of-the-heart-rate}{\emph{}\textbf{20.6.2}
+      Control of The Heart Rate}
+    \item
+      \href{circulatory-systems.html\#the-electrocardiogram-ekg}{\emph{}\textbf{20.6.3}
+      The Electrocardiogram (EKG)}
+    \end{itemize}
+  \item
+    \href{circulatory-systems.html\#arteries}{\emph{}\textbf{20.7}
+    Arteries}
+  \item
+    \href{circulatory-systems.html\#capillaries}{\emph{}\textbf{20.8}
+    Capillaries}
+  \item
+    \href{circulatory-systems.html\#veins}{\emph{}\textbf{20.9} Veins}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{circulatory-systems.html\#portal-veins}{\emph{}\textbf{20.9.1}
+      Portal veins}
+    \end{itemize}
+  \item
+    \href{circulatory-systems.html\#the-systemic-circulation}{\emph{}\textbf{20.10}
+    The Systemic Circulation}
+  \item
+    \href{circulatory-systems.html\#the-pulmonary-circulation}{\emph{}\textbf{20.11}
+    The Pulmonary Circulation}
+  \item
+    \href{circulatory-systems.html\#cardiovascular-disease}{\emph{}\textbf{20.12}
+    Cardiovascular Disease}
+  \item
+    \href{circulatory-systems.html\#history}{\emph{}\textbf{20.13}
+    History}
+  \end{itemize}
+\item
+  \href{the-lymphatic-and-immune-systems.html}{\emph{}\textbf{21} The
+  Lymphatic And Immune Systems}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{the-lymphatic-and-immune-systems.html\#the-lymphatic-system}{\emph{}\textbf{21.1}
+    The Lymphatic System}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#primary-lymphoid-organs}{\emph{}\textbf{21.1.1}
+      Primary lymphoid organs}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#the-bone-marrow}{\emph{}\textbf{21.1.2}
+      The Bone Marrow}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#the-thymus}{\emph{}\textbf{21.1.3}
+      The Thymus}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#the-secondary-lymphoid-organs}{\emph{}\textbf{21.1.4}
+      The Secondary Lymphoid Organs}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#the-spleen}{\emph{}\textbf{21.1.5}
+      The Spleen}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#the-lymph-nodes}{\emph{}\textbf{21.1.6}
+      The Lymph Nodes}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#the-lymphatic-vessels}{\emph{}\textbf{21.1.7}
+      The Lymphatic Vessels}
+    \end{itemize}
+  \item
+    \href{the-lymphatic-and-immune-systems.html\#the-immune-system}{\emph{}\textbf{21.2}
+    The Immune System}
+  \item
+    \href{the-lymphatic-and-immune-systems.html\#the-innate-immune-system}{\emph{}\textbf{21.3}
+    The Innate Immune System}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#surface-barriers}{\emph{}\textbf{21.3.1}
+      Surface Barriers}
+    \end{itemize}
+  \item
+    \href{the-lymphatic-and-immune-systems.html\#cellular-components-of-the-innate-immune-system}{\emph{}\textbf{21.4}
+    Cellular Components of The Innate Immune System}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#mast-cells}{\emph{}\textbf{21.4.1}
+      Mast cells}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#phagocytes}{\emph{}\textbf{21.4.2}
+      Phagocytes}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#macrophages}{\emph{}\textbf{21.4.3}
+      Macrophages}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#neutrophils}{\emph{}\textbf{21.4.4}
+      Neutrophils}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#dendritic-cells}{\emph{}\textbf{21.4.5}
+      Dendritic Cells}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#basophils-and-eosinophils}{\emph{}\textbf{21.4.6}
+      Basophils And Eosinophils}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#innate-lymphoid-cells}{\emph{}\textbf{21.4.7}
+      Innate Lymphoid Cells}
+    \end{itemize}
+  \item
+    \href{the-lymphatic-and-immune-systems.html\#inflammation}{\emph{}\textbf{21.5}
+    Inflammation}
+  \item
+    \href{the-lymphatic-and-immune-systems.html\#the-complement-system}{\emph{}\textbf{21.6}
+    The Complement System}
+  \item
+    \href{the-lymphatic-and-immune-systems.html\#the-adaptive-immune-system}{\emph{}\textbf{21.7}
+    The Adaptive Immune System}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#the-lymphocytes}{\emph{}\textbf{21.7.1}
+      The Lymphocytes}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#antigen-presentation-to-t-lymphocytes}{\emph{}\textbf{21.7.2}
+      Antigen Presentation to T Lymphocytes}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#cytotoxic-t-lymphocytes}{\emph{}\textbf{21.7.3}
+      Cytotoxic T lymphocytes}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#t-helper-cells}{\emph{}\textbf{21.7.4}
+      T Helper Cells}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#gamma-delta-t-cells}{\emph{}\textbf{21.7.5}
+      Gamma delta T cells}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#b-lymphocytes-and-antibody-production}{\emph{}\textbf{21.7.6}
+      B Lymphocytes And Antibody Production}
+    \end{itemize}
+  \item
+    \href{the-lymphatic-and-immune-systems.html\#the-humoral-immune-response}{\emph{}\textbf{21.8}
+    The humoral Immune Response}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#antibodies}{\emph{}\textbf{21.8.1}
+      Antibodies}
+    \item
+      \href{the-lymphatic-and-immune-systems.html\#the-immunological-memory}{\emph{}\textbf{21.8.2}
+      The Immunological Memory}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{respiratory-systems.html}{\emph{}\textbf{22} Respiratory
+  Systems}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{respiratory-systems.html\#the-mammalian-respiratory-system}{\emph{}\textbf{22.1}
+    The Mammalian Respiratory System}
+  \item
+    \href{respiratory-systems.html\#gas-exchange}{\emph{}\textbf{22.2}
+    Gas Exchange}
+  \item
+    \href{respiratory-systems.html\#control-of-ventilation}{\emph{}\textbf{22.3}
+    Control of Ventilation}
+  \item
+    \href{respiratory-systems.html\#the-respiratory-system-of-birds}{\emph{}\textbf{22.4}
+    The Respiratory System of Birds}
+  \item
+    \href{respiratory-systems.html\#the-respiratory-system-of-reptiles}{\emph{}\textbf{22.5}
+    The Respiratory System of Reptiles}
+  \item
+    \href{respiratory-systems.html\#the-respiratory-system-of-amphibians}{\emph{}\textbf{22.6}
+    The Respiratory System of Amphibians}
+  \item
+    \href{respiratory-systems.html\#the-respiratory-system-of-fish}{\emph{}\textbf{22.7}
+    The Respiratory System of Fish}
+  \item
+    \href{respiratory-systems.html\#the-respiratory-system-of-arthropods}{\emph{}\textbf{22.8}
+    The Respiratory System of Arthropods}
+  \item
+    \href{respiratory-systems.html\#the-respiratory-system-of-molluscs}{\emph{}\textbf{22.9}
+    The Respiratory System of Molluscs}
+  \item
+    \href{respiratory-systems.html\#the-respiratory-system-of-plants}{\emph{}\textbf{22.10}
+    The Respiratory System of Plants}
+  \end{itemize}
+\item
+  \href{digestive-systems.html}{\emph{}\textbf{23} Digestive Systems}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{digestive-systems.html\#the-human-digestive-system}{\emph{}\textbf{23.1}
+    The Human Digestive System}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{digestive-systems.html\#the-salivary-glands}{\emph{}\textbf{23.1.1}
+      The Salivary Glands}
+    \item
+      \href{digestive-systems.html\#the-tongue}{\emph{}\textbf{23.1.2}
+      The Tongue}
+    \item
+      \href{digestive-systems.html\#the-teeth}{\emph{}\textbf{23.1.3}
+      The Teeth}
+    \item
+      \href{digestive-systems.html\#the-epiglottis}{\emph{}\textbf{23.1.4}
+      The Epiglottis}
+    \item
+      \href{digestive-systems.html\#the-pharynx}{\emph{}\textbf{23.1.5}
+      The Pharynx}
+    \item
+      \href{digestive-systems.html\#the-esophagus}{\emph{}\textbf{23.1.6}
+      The Esophagus}
+    \item
+      \href{digestive-systems.html\#the-diaphragm}{\emph{}\textbf{23.1.7}
+      The Diaphragm}
+    \item
+      \href{digestive-systems.html\#the-stomach}{\emph{}\textbf{23.1.8}
+      The Stomach}
+    \item
+      \href{digestive-systems.html\#the-spleen-1}{\emph{}\textbf{23.1.9}
+      The Spleen}
+    \item
+      \href{digestive-systems.html\#the-liver-bile-and-gallbladder}{\emph{}\textbf{23.1.10}
+      The Liver, Bile And Gallbladder}
+    \item
+      \href{digestive-systems.html\#the-pancreas}{\emph{}\textbf{23.1.11}
+      The Pancreas}
+    \item
+      \href{digestive-systems.html\#lower-gastrointestinal-tract}{\emph{}\textbf{23.1.12}
+      Lower Gastrointestinal Tract}
+    \item
+      \href{digestive-systems.html\#the-small-intestine}{\emph{}\textbf{23.1.13}
+      The Small Intestine}
+    \item
+      \href{digestive-systems.html\#the-cecum}{\emph{}\textbf{23.1.14}
+      The Cecum}
+    \item
+      \href{digestive-systems.html\#the-large-intestine}{\emph{}\textbf{23.1.15}
+      The Large Intestine}
+    \item
+      \href{digestive-systems.html\#protein-digestion}{\emph{}\textbf{23.1.16}
+      Protein Digestion}
+    \item
+      \href{digestive-systems.html\#fat-digestion}{\emph{}\textbf{23.1.17}
+      Fat Digestion}
+    \item
+      \href{digestive-systems.html\#carbohydrate-digestion}{\emph{}\textbf{23.1.18}
+      Carbohydrate Digestion}
+    \item
+      \href{digestive-systems.html\#dna-and-rna-digestion}{\emph{}\textbf{23.1.19}
+      DNA And RNA Digestion}
+    \item
+      \href{digestive-systems.html\#non-destructive-digestion}{\emph{}\textbf{23.1.20}
+      Non-destructive digestion}
+    \item
+      \href{digestive-systems.html\#the-digestive-system-of-birds}{\emph{}\textbf{23.1.21}
+      The Digestive System of Birds}
+    \end{itemize}
+  \item
+    \href{digestive-systems.html\#the-digestive-system-of-fish}{\emph{}\textbf{23.2}
+    The Digestive System of Fish}
+  \item
+    \href{digestive-systems.html\#the-digestive-system-of-annelids}{\emph{}\textbf{23.3}
+    The Digestive System of Annelids}
+  \end{itemize}
+\item
+  \href{osmoregulation-and-excretory-systems.html}{\emph{}\textbf{24}
+  Osmoregulation And Excretory Systems}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{osmoregulation-and-excretory-systems.html\#nitrogenous-waste}{\emph{}\textbf{24.1}
+    Nitrogenous Waste}
+  \item
+    \href{osmoregulation-and-excretory-systems.html\#excretory-systems}{\emph{}\textbf{24.2}
+    Excretory Systems}
+  \item
+    \href{osmoregulation-and-excretory-systems.html\#the-human-urinary-system}{\emph{}\textbf{24.3}
+    The Human Urinary System}
+  \end{itemize}
+\item
+  \href{nervous-systems.html}{\emph{}\textbf{25} Nervous Systems}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{nervous-systems.html\#the-cells-of-the-nervous-system}{\emph{}\textbf{25.1}
+    The Cells Of The Nervous System}
+  \item
+    \href{nervous-systems.html\#comparative-anatomy-and-evolution-of-nervous-systems}{\emph{}\textbf{25.2}
+    Comparative Anatomy And Evolution Of Nervous Systems}
+  \item
+    \href{nervous-systems.html\#the-human-brain}{\emph{}\textbf{25.3}
+    The Human Brain}
+  \item
+    \href{nervous-systems.html\#development-of-the-nervous-system}{\emph{}\textbf{25.4}
+    Development Of The Nervous System}
+  \item
+    \href{nervous-systems.html\#the-function-of-the-nervous-system}{\emph{}\textbf{25.5}
+    The Function Of The Nervous System}
+  \item
+    \href{nervous-systems.html\#the-sensory-system}{\emph{}\textbf{25.6}
+    The Sensory System}
+  \item
+    \href{nervous-systems.html\#the-motor-system}{\emph{}\textbf{25.7}
+    The Motor System}
+  \item
+    \href{nervous-systems.html\#neuronal-signalling}{\emph{}\textbf{25.8}
+    Neuronal Signalling}
+  \item
+    \href{nervous-systems.html\#neurons-and-glial-cells}{\emph{}\textbf{25.9}
+    Neurons And Glial Cells}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{nervous-systems.html\#neurons}{\emph{}\textbf{25.9.1}
+      Neurons}
+    \item
+      \href{nervous-systems.html\#glia}{\emph{}\textbf{25.9.2} Glia}
+    \end{itemize}
+  \item
+    \href{nervous-systems.html\#electrical-basis-of-neuronal-function}{\emph{}\textbf{25.10}
+    Electrical Basis Of Neuronal Function}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{nervous-systems.html\#the-membrane-potential}{\emph{}\textbf{25.10.1}
+      The Membrane Potential}
+    \item
+      \href{nervous-systems.html\#ions-and-the-forces-driving-their-motion}{\emph{}\textbf{25.10.2}
+      Ions And The Forces Driving Their Motion}
+    \item
+      \href{nervous-systems.html\#the-plasma-membrane}{\emph{}\textbf{25.10.3}
+      The Plasma Membrane}
+    \item
+      \href{nervous-systems.html\#ion-pumps}{\emph{}\textbf{25.10.4} Ion
+      Pumps}
+    \item
+      \href{nervous-systems.html\#ion-channels}{\emph{}\textbf{25.10.5}
+      Ion Channels}
+    \item
+      \href{nervous-systems.html\#the-reversal-potential}{\emph{}\textbf{25.10.6}
+      The Reversal Potential}
+    \item
+      \href{nervous-systems.html\#the-resting-potential}{\emph{}\textbf{25.10.7}
+      The Resting Potential}
+    \item
+      \href{nervous-systems.html\#the-action-potential}{\emph{}\textbf{25.10.8}
+      The Action Potential}
+    \item
+      \href{nervous-systems.html\#graded-potentials}{\emph{}\textbf{25.10.9}
+      Graded Potentials}
+    \end{itemize}
+  \item
+    \href{nervous-systems.html\#neurotransmission}{\emph{}\textbf{25.11}
+    Neurotransmission}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{nervous-systems.html\#the-synapse}{\emph{}\textbf{25.11.1}
+      The Synapse}
+    \item
+      \href{nervous-systems.html\#neurotransmitters}{\emph{}\textbf{25.11.2}
+      Neurotransmitters}
+    \item
+      \href{nervous-systems.html\#modulatory-neurotransmitter-systems}{\emph{}\textbf{25.11.3}
+      Modulatory Neurotransmitter Systems}
+    \item
+      \href{nervous-systems.html\#neurotransmitter-receptors}{\emph{}\textbf{25.11.4}
+      Neurotransmitter Receptors}
+    \item
+      \href{nervous-systems.html\#ionotropic-receptors-neurotransmitter-gated-ion-channels}{\emph{}\textbf{25.11.5}
+      Ionotropic Receptors: Neurotransmitter-Gated Ion Channels}
+    \item
+      \href{nervous-systems.html\#metabotropic-receptors-g-protein-coupled-receptors}{\emph{}\textbf{25.11.6}
+      Metabotropic Receptors: G-Protein Coupled Receptors}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{sensation-receptors-organs-and-systems.html}{\emph{}\textbf{26}
+  Sensation: Receptors, Organs And Systems}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{sensation-receptors-organs-and-systems.html\#sensory-receptors}{\emph{}\textbf{26.1}
+    Sensory Receptors}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#chemoreceptors}{\emph{}\textbf{26.1.1}
+      Chemoreceptors}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#photoreceptors}{\emph{}\textbf{26.1.2}
+      Photoreceptors}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#mechanoreceptors}{\emph{}\textbf{26.1.3}
+      Mechanoreceptors}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#thermoreceptors}{\emph{}\textbf{26.1.4}
+      Thermoreceptors}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#nociceptors}{\emph{}\textbf{26.1.5}
+      Nociceptors}
+    \end{itemize}
+  \item
+    \href{sensation-receptors-organs-and-systems.html\#the-visual-system}{\emph{}\textbf{26.2}
+    The Visual System}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-eye}{\emph{}\textbf{26.2.1}
+      The Eye}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-retina}{\emph{}\textbf{26.2.2}
+      The Retina}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-photoreceptors}{\emph{}\textbf{26.2.3}
+      The Photoreceptors}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#visual-phototransduction}{\emph{}\textbf{26.2.4}
+      Visual Phototransduction}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-visual-pathways}{\emph{}\textbf{26.2.5}
+      The Visual Pathways}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-optic-nerve-and-optic-tract}{\emph{}\textbf{26.2.6}
+      The Optic Nerve And Optic Tract}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-superior-colliculus}{\emph{}\textbf{26.2.7}
+      The Superior Colliculus}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-lateral-geniculate-nucleus-lgn}{\emph{}\textbf{26.2.8}
+      The Lateral Geniculate Nucleus (LGN)}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-visual-cortex}{\emph{}\textbf{26.2.9}
+      The Visual Cortex}
+    \end{itemize}
+  \item
+    \href{sensation-receptors-organs-and-systems.html\#the-auditory-and-vestibular-systems}{\emph{}\textbf{26.3}
+    The Auditory And Vestibular Systems}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-ear}{\emph{}\textbf{26.3.1}
+      The Ear}
+    \end{itemize}
+  \item
+    \href{sensation-receptors-organs-and-systems.html\#the-auditory-system}{\emph{}\textbf{26.4}
+    The Auditory System}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#organ-of-corti}{\emph{}\textbf{26.4.1}
+      Organ Of Corti}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#auditory-transduction}{\emph{}\textbf{26.4.2}
+      Auditory Transduction}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#auditory-pathways}{\emph{}\textbf{26.4.3}
+      Auditory Pathways}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-cochlear-nucleus}{\emph{}\textbf{26.4.4}
+      The Cochlear Nucleus}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-trapezoid-body}{\emph{}\textbf{26.4.5}
+      The Trapezoid Body}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-superior-olivary-complex}{\emph{}\textbf{26.4.6}
+      The superior olivary complex}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-lateral-lemniscus}{\emph{}\textbf{26.4.7}
+      The Lateral Lemniscus}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-inferior-colliculi}{\emph{}\textbf{26.4.8}
+      The Inferior Colliculi}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-medial-geniculate-nucleus-mgn}{\emph{}\textbf{26.4.9}
+      The Medial Geniculate Nucleus (MGN)}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-primary-auditory-cortex}{\emph{}\textbf{26.4.10}
+      The Primary Auditory Cortex}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-auditory-ventral-and-dorsal-streams}{\emph{}\textbf{26.4.11}
+      The Auditory Ventral And Dorsal Streams}
+    \end{itemize}
+  \item
+    \href{sensation-receptors-organs-and-systems.html\#the-vestibular-system}{\emph{}\textbf{26.5}
+    The Vestibular System}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-semicircular-canals}{\emph{}\textbf{26.5.1}
+      The Semicircular Canals}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-otolithic-organs}{\emph{}\textbf{26.5.2}
+      The Otolithic Organs}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#vestibular-pathways}{\emph{}\textbf{26.5.3}
+      Vestibular Pathways}
+    \end{itemize}
+  \item
+    \href{sensation-receptors-organs-and-systems.html\#the-somatic-sensory-system}{\emph{}\textbf{26.6}
+    The Somatic Sensory System}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#touch}{\emph{}\textbf{26.6.1}
+      Touch}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#cutaneous-mechanoreceptors}{\emph{}\textbf{26.6.2}
+      Cutaneous Mechanoreceptors}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#nociception}{\emph{}\textbf{26.6.3}
+      Nociception}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#proprioception}{\emph{}\textbf{26.6.4}
+      Proprioception}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#muscle-spindles}{\emph{}\textbf{26.6.5}
+      Muscle Spindles}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#golgi-tendon-organ}{\emph{}\textbf{26.6.6}
+      Golgi Tendon Organ}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-somatosensory-pathways}{\emph{}\textbf{26.6.7}
+      The Somatosensory Pathways}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-primary-somatosensory-cortex}{\emph{}\textbf{26.6.8}
+      The Primary Somatosensory Cortex}
+    \end{itemize}
+  \item
+    \href{sensation-receptors-organs-and-systems.html\#the-olfactory-system}{\emph{}\textbf{26.7}
+    The Olfactory System}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-nose}{\emph{}\textbf{26.7.1}
+      The Nose}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#olfactory-sensory-neurons}{\emph{}\textbf{26.7.2}
+      Olfactory Sensory Neurons}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-olfactory-bulb}{\emph{}\textbf{26.7.3}
+      The Olfactory Bulb}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-olfactory-cortex}{\emph{}\textbf{26.7.4}
+      The Olfactory Cortex}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#olfactory-pathways}{\emph{}\textbf{26.7.5}
+      Olfactory Pathways}
+    \end{itemize}
+  \item
+    \href{sensation-receptors-organs-and-systems.html\#the-gustatory-system}{\emph{}\textbf{26.8}
+    The Gustatory System}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-tongue-1}{\emph{}\textbf{26.8.1}
+      The Tongue}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-five-basic-tastes}{\emph{}\textbf{26.8.2}
+      The Five Basic Tastes}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#sweetness}{\emph{}\textbf{26.8.3}
+      Sweetness}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#sourness}{\emph{}\textbf{26.8.4}
+      Sourness}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#saltiness}{\emph{}\textbf{26.8.5}
+      Saltiness}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#bitterness}{\emph{}\textbf{26.8.6}
+      Bitterness}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#savoriness-umami}{\emph{}\textbf{26.8.7}
+      Savoriness (Umami)}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-taste-receptors}{\emph{}\textbf{26.8.8}
+      The Taste Receptors}
+    \item
+      \href{sensation-receptors-organs-and-systems.html\#the-gustatory-cortex}{\emph{}\textbf{26.8.9}
+      The Gustatory Cortex}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{animal-locomotion-and-support-systems.html}{\emph{}\textbf{27}
+  Animal Locomotion And Support Systems}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{animal-locomotion-and-support-systems.html\#the-skeleton}{\emph{}\textbf{27.1}
+    The Skeleton}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{animal-locomotion-and-support-systems.html\#exoskeleton}{\emph{}\textbf{27.1.1}
+      Exoskeleton}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#endoskeleton}{\emph{}\textbf{27.1.2}
+      Endoskeleton}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#hydrostatic-skeleton-hydroskeleton}{\emph{}\textbf{27.1.3}
+      Hydrostatic Skeleton (Hydroskeleton)}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#organisms-with-skeletons}{\emph{}\textbf{27.1.4}
+      Organisms With Skeletons}
+    \end{itemize}
+  \item
+    \href{animal-locomotion-and-support-systems.html\#the-human-musculoskeletal-system}{\emph{}\textbf{27.2}
+    The Human Musculoskeletal System}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{animal-locomotion-and-support-systems.html\#tendons}{\emph{}\textbf{27.2.1}
+      Tendons}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#joints-ligaments-and-bursae}{\emph{}\textbf{27.2.2}
+      Joints, Ligaments And Bursae}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#the-human-skeleton}{\emph{}\textbf{27.2.3}
+      The Human Skeleton}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#the-axial-skeleton}{\emph{}\textbf{27.2.4}
+      The Axial Skeleton}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#the-appendicular-skeleton}{\emph{}\textbf{27.2.5}
+      The Appendicular Skeleton}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#bone}{\emph{}\textbf{27.2.6}
+      Bone}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#cortical-bone}{\emph{}\textbf{27.2.7}
+      Cortical Bone}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#cancellous-bone}{\emph{}\textbf{27.2.8}
+      Cancellous Bone}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#the-bone-marrow-1}{\emph{}\textbf{27.2.9}
+      The Bone Marrow}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#bone-cells}{\emph{}\textbf{27.2.10}
+      Bone cells}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#osteoblast}{\emph{}\textbf{27.2.11}
+      Osteoblast}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#osteocyte}{\emph{}\textbf{27.2.12}
+      Osteocyte}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#osteoclast}{\emph{}\textbf{27.2.13}
+      Osteoclast}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#extracellular-matrix}{\emph{}\textbf{27.2.14}
+      Extracellular Matrix}
+    \end{itemize}
+  \item
+    \href{animal-locomotion-and-support-systems.html\#the-muscular-system}{\emph{}\textbf{27.3}
+    The Muscular System}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{animal-locomotion-and-support-systems.html\#muscle-contraction}{\emph{}\textbf{27.3.1}
+      Muscle Contraction}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#skeletal-muscle}{\emph{}\textbf{27.3.2}
+      Skeletal Muscle}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#excitation-contraction-coupling}{\emph{}\textbf{27.3.3}
+      Excitation-contraction Coupling}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#the-sliding-filament-theory}{\emph{}\textbf{27.3.4}
+      The Sliding Filament Theory}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#crossbridge-cycling}{\emph{}\textbf{27.3.5}
+      Crossbridge Cycling}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#smooth-muscle}{\emph{}\textbf{27.3.6}
+      Smooth Muscle}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#cardiac-muscle}{\emph{}\textbf{27.3.7}
+      Cardiac Muscle}
+    \item
+      \href{animal-locomotion-and-support-systems.html\#the-muscular-systems-of-invertebrates}{\emph{}\textbf{27.3.8}
+      The Muscular Systems of Invertebrates}
+    \end{itemize}
+  \end{itemize}
+\item
+  \href{endocrine-systems.html}{\emph{}\textbf{28} Endocrine Systems}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{endocrine-systems.html\#the-hypothalamus}{\emph{}\textbf{28.1}
+    The Hypothalamus}
+  \item
+    \href{endocrine-systems.html\#hypothalamicpituitarythyroid-axis}{\emph{}\textbf{28.2}
+    Hypothalamic--pituitary--thyroid axis}
+  \item
+    \href{endocrine-systems.html\#hypothalamicpituitarygonadal-axis}{\emph{}\textbf{28.3}
+    Hypothalamic--pituitary--gonadal axis}
+  \item
+    \href{endocrine-systems.html\#hypothalamicpituitaryadrenal-axis}{\emph{}\textbf{28.4}
+    Hypothalamic--pituitary--adrenal axis}
+  \item
+    \href{endocrine-systems.html\#the-reninangiotensin-system}{\emph{}\textbf{28.5}
+    The Renin--angiotensin System}
+  \end{itemize}
+\item
+  \href{reproductive-systems.html}{\emph{}\textbf{29} Reproductive
+  Systems}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{reproductive-systems.html\#the-human-reproductive-system}{\emph{}\textbf{29.1}
+    The Human Reproductive System}
+  \item
+    \href{reproductive-systems.html\#the-female-reproductive-system}{\emph{}\textbf{29.2}
+    The Female Reproductive System}
+  \item
+    \href{reproductive-systems.html\#the-male-reproductive-system}{\emph{}\textbf{29.3}
+    The Male Reproductive System}
+  \end{itemize}
+\item
+  \href{development-and-aging.html}{\emph{}\textbf{30} Development And
+  Aging}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{development-and-aging.html\#animal-development}{\emph{}\textbf{30.1}
+    Animal Development}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{development-and-aging.html\#cellular-differentiation}{\emph{}\textbf{30.1.1}
+      Cellular differentiation}
+    \item
+      \href{development-and-aging.html\#morphogenesis}{\emph{}\textbf{30.1.2}
+      Morphogenesis}
+    \end{itemize}
+  \item
+    \href{development-and-aging.html\#genetic-control-of-development}{\emph{}\textbf{30.2}
+    Genetic Control of Development}
+  \item
+    \href{development-and-aging.html\#human-embryonic-development}{\emph{}\textbf{30.3}
+    Human Embryonic Development}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{development-and-aging.html\#development-of-organs-and-organ-systems}{\emph{}\textbf{30.3.1}
+      Development of Organs And Organ Systems}
+    \end{itemize}
+  \item
+    \href{development-and-aging.html\#aging}{\emph{}\textbf{30.4} Aging}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{text-for-biology-at-roxbury-community-college}{%
+\section{\texorpdfstring{\emph{}\href{./}{Text For Biology at Roxbury
+Community
+College}}{Text For Biology at Roxbury Community College}}\label{text-for-biology-at-roxbury-community-college}}
+
+\hypertarget{section-}{}
+\hypertarget{basic-general-chemistry-for-biology}{%
+\section{\texorpdfstring{{2} Basic General Chemistry For
+Biology}{2 Basic General Chemistry For Biology}}\label{basic-general-chemistry-for-biology}}
+
+Chemistry is the scientific discipline involved with elements and
+compounds composed of atoms, molecules and ions: their composition,
+structure, properties, behavior and the changes they undergo during a
+reaction with other substances.
+
+In the scope of its subject, chemistry occupies an intermediate position
+between physics and biology. For example, chemistry explains aspects of
+plant chemistry (botany), the formation of igneous rocks (geology), how
+atmospheric ozone is formed and how environmental pollutants are
+degraded (ecology), the properties of the soil on the moon
+(astrophysics), how medications work (pharmacology), and how to collect
+DNA evidence at a crime scene (forensics).
+
+Chemistry addresses topics such as how atoms and molecules interact via
+chemical bonds to form new chemical compounds. There are four types of
+chemical bonds: covalent bonds, in which compounds share one or more
+electron(s); ionic bonds, in which a compound donates one or more
+electrons to another compound to produce ions (cations and anions);
+hydrogen bonds; and Van der Waals force bonds.
+
+The current model of atomic structure is the quantum mechanical model.
+Traditional chemistry starts with the study of elementary particles,
+atoms, molecules, substances, metals, crystals and other aggregates of
+matter. Matter can be studied in solid, liquid, gas and plasma states,
+in isolation or in combination. The interactions, reactions and
+transformations that are studied in chemistry are usually the result of
+interactions between atoms, leading to rearrangements of the chemical
+bonds which hold atoms together.
+
+A chemical reaction is a transformation of some substances into one or
+more different substances. The basis of such a chemical transformation
+is the rearrangement of electrons in the chemical bonds between atoms.
+It can be symbolically depicted through a chemical equation, which
+usually involves atoms as subjects. The number of atoms on the left and
+the right in the equation for a chemical transformation is equal. (When
+the number of atoms on either side is unequal, the transformation is
+referred to as a nuclear reaction or radioactive decay.) The type of
+chemical reactions a substance may undergo and the energy changes that
+may accompany it are constrained by certain basic rules, known as
+chemical laws.
+
+\hypertarget{matter}{%
+\subsection{\texorpdfstring{{2.1} Matter}{2.1 Matter}}\label{matter}}
+
+In classical physics and general chemistry, matter is any substance that
+has mass and takes up space by having volume. Matter should not be
+confused with mass, as the two are not the same in modern physics.
+Matter is a general term describing any `physical substance'. By
+contrast, mass is not a substance but rather a quantitative property of
+matter and other substances or systems. All everyday objects that can be
+touched are ultimately composed of atoms, which are made up of
+interacting subatomic particles, and in everyday as well as scientific
+usage, ``matter'' generally includes atoms and anything made up of them,
+and any particles (or combination of particles) that act as if they have
+both rest mass and volume. However it does not include massless
+particles such as photons, or other energy phenomena or waves such as
+light or sound. Matter exists in various states (also known as phases).
+These include classical everyday phases such as solid, liquid, and gas
+-- for example water exists as ice, liquid water, and gaseous steam --
+but other states are possible, including plasma, Bose--Einstein
+condensates, fermionic condensates, and quark--gluon plasma.
+
+Usually atoms can be imagined as a nucleus of protons and neutrons, and
+a surrounding ``cloud'' of orbiting electrons which ``take up space''.
+However this is only somewhat correct, because subatomic particles and
+their properties are governed by their quantum nature, which means they
+do not act as everyday objects appear to act -- they can act like waves
+as well as particles and they do not have well-defined sizes or
+positions. In the Standard Model of particle physics, matter is not a
+fundamental concept because the elementary constituents of atoms are
+quantum entities which do not have an inherent ``size'' or ``volume'' in
+any everyday sense of the word. Due to the exclusion principle and other
+fundamental interactions, some ``point particles'' known as fermions
+(quarks, leptons), and many composites and atoms, are effectively forced
+to keep a distance from other particles under everyday conditions; this
+creates the property of matter which appears to us as matter taking up
+space.
+
+\hypertarget{the-atom}{%
+\subsection{\texorpdfstring{{2.2} The
+Atom}{2.2 The Atom}}\label{the-atom}}
+
+An atom is the smallest unit of ordinary matter that forms a chemical
+element. Every solid, liquid, gas, and plasma is composed of neutral or
+ionized atoms. Atoms are extremely small, typically around 100
+picometers across. They are so small that accurately predicting their
+behavior using classical physics---as if they were tennis balls, for
+example---is not possible due to quantum effects. The word atom is
+derived from Ancient Greek ἄτομος (átomos, ``indivisible''), from ἀ-
+(a-, ``not'') + τέμνω (témnō, ``I cut''), which means ``uncuttable''.
+
+Every atom is composed of a nucleus and one or more electrons
+surrounding the nucleus. The nucleus is made of one or more protons and
+a number of neutrons. Only the most common variety of hydrogen has no
+neutrons. More than 99.94\% of an atom's mass is in the nucleus. The
+protons have a positive electric charge, the electrons have a negative
+electric charge, and the neutrons have no electric charge. If the number
+of protons and electrons are equal, then the atom is electrically
+neutral. If an atom has more or fewer electrons than protons, then it
+has an overall negative or positive charge, respectively --- such atoms
+are called ions.
+
+The electrons of an atom are attracted to the protons in an atomic
+nucleus by the electromagnetic force. The protons and neutrons in the
+nucleus are attracted to each other by the nuclear force. This force is
+usually stronger than the electromagnetic force that repels the
+positively charged protons from one another. Under certain
+circumstances, the repelling electromagnetic force becomes stronger than
+the nuclear force. In this case, the nucleus splits and leaves behind
+different elements. This is a form of nuclear decay.
+
+The number of protons in the nucleus is the atomic number and it defines
+to which chemical element the atom belongs. For example, any atom that
+contains 29 protons is copper. The number of neutrons defines the
+isotope of the element. Atoms can attach to one or more other atoms by
+chemical bonds to form chemical compounds such as molecules or crystals.
+The ability of atoms to associate and dissociate is responsible for most
+of the physical changes observed in nature. Chemistry is the discipline
+that studies these changes.
+
+Atoms are extremely small, typically around 100 picometers (1 picometer
+= 10\textsuperscript{-12}m) across. They are so small that accurately
+predicting their behavior using classical physics---as if they were
+billiard balls, for example---is not possible due to quantum effects.
+Current atomic models use
+\href{https://en.wikipedia.org/wiki/Quantum_mechanics}{quantum
+mechanics} to better explain and predict this behavior. The word quantum
+derives from the Latin, meaning ``how great'' or ``how much''. In
+quantum mechanics, it refers to a discrete unit assigned to certain
+physical quantities such as the energy of an atom at rest. The discovery
+that particles are discrete packets of energy with wave-like properties
+led to the branch of physics dealing with atomic and subatomic systems
+which is today called quantum mechanics. It underlies the mathematical
+framework of many fields of physics and chemistry.
+
+Quantum mechanics is essential for understanding the behavior of systems
+at atomic length scales and smaller. If the physical nature of an atom
+were solely described by classical mechanics, electrons would not orbit
+the nucleus, since orbiting electrons emit radiation (due to circular
+motion) and so would quickly lose energy and collide with the nucleus.
+This framework was unable to explain the stability of atoms. Instead,
+electrons remain in an uncertain, non-deterministic, smeared,
+probabilistic wave--particle orbital about the nucleus, defying the
+traditional assumptions of classical mechanics and electromagnetism.
+
+Quantum mechanics is also critically important for understanding how
+individual atoms are joined by covalent bonds to form molecules. The
+application of quantum mechanics to chemistry is known as quantum
+chemistry. Quantum mechanics can also provide quantitative insight into
+ionic and covalent bonding processes by explicitly showing which
+molecules are energetically favorable to which others and the magnitudes
+of the energies involved. Furthermore, most of the calculations
+performed in modern computational chemistry rely on quantum mechanics.
+
+\protect\hypertarget{fig:atomcartoon}{}{}
+\includegraphics[width=0.7\textwidth,height=\textheight]{figures/chemistry/Helium_atom_QM.svg}
+
+Figure 2.1: An
+\href{https://commons.wikimedia.org/wiki/File:Helium_atom_QM.svg}{illustration
+of the helium atom}, depicting the nucleus (pink) and the electron cloud
+distribution (black). The nucleus (upper right) in helium-4 is in
+reality spherically symmetric and closely resembles the electron cloud,
+although for more complicated nuclei this is not always the case. The
+black bar is one angstrom (10\textsuperscript{−10} m or100 pm).
+
+For much of the history of the natural sciences people have contemplated
+the exact nature of matter. The idea that matter was built of discrete
+building blocks, the so-called particulate theory of matter,
+independently appeared in ancient Greece and ancient India among
+Buddhists, Hindus and Jains in 1st-millennium BC. Ancient philosophers
+who proposed the particulate theory of matter include Kanada
+(c.~6th--century BC or after), Leucippus (\textasciitilde490 BC) and
+Democritus (\textasciitilde470--380 BC).
+
+In the early 1800s,
+\href{https://en.wikipedia.org/wiki/John_Dalton}{John Dalton} compiled
+experimental data gathered by himself and other scientists and observed
+that chemical elements seemed to combine by weight in ratios of small
+whole numbers; he called this pattern the ``law of multiple
+proportions''. For instance, there are two types of tin oxide: one is
+88.1\% tin and 11.9\% oxygen, and the other is 78.7\% tin and 21.3\%
+oxygen. Adjusting these figures, for every 100 g of tin there is either
+13.5 g or 27 g of oxygen respectively. 13.5 and 27 form a ratio of 1:2,
+a ratio of small whole numbers. Similarly, there are two common types of
+iron oxide, in which for every 112 g of iron there is either 32 g or 48
+g of oxygen respectively, which gives a ratio of 2:3. As a final
+example, there are three oxides of nitrogen in which for every 140 g of
+nitrogen, there is 80 g, 160 g, and 320 g of oxygen respectively, which
+gives a ratio of 1:2:4. This recurring pattern in the data suggested
+that elements always combine in multiples of discrete units, which
+Dalton concluded were atoms. In the case of the tin oxides, for every
+one tin atom, there are either one or two oxygen atoms (SnO and
+SnO\textsubscript{2}). In the case of the iron oxides, for every two
+iron atoms, there are either two or three oxygen atoms (FeO and
+Fe\textsubscript{2}O\textsubscript{3}). In the case of the nitrogen
+oxides, their formulas are N\textsubscript{2}O, NO, and
+NO\textsubscript{2}.
+
+In the late 18th century, a number of scientists found that they could
+better explain the behavior of gases by describing them as collections
+of sub-microscopic particles and modelling their behavior using
+statistics and probability. Unlike Dalton's atomic theory, the kinetic
+theory of gases describes not how gases react chemically with each other
+to form compounds, but how they behave physically: diffusion, viscosity,
+conductivity, pressure, etc.
+
+In 1827, botanist
+\href{https://en.wikipedia.org/wiki/Robert_Brown_(botanist,_born_1773)}{Robert
+Brown} used a microscope to look at dust grains floating in water and
+discovered that they moved about erratically, a phenomenon that became
+known as ``Brownian motion''. This was thought to be caused by water
+molecules knocking the grains about. In 1905,
+\href{https://en.wikipedia.org/wiki/Albert_Einstein}{Albert Einstein}
+proved the reality of these molecules and their motions by producing the
+first statistical physics analysis of Brownian motion. French physicist
+\href{https://en.wikipedia.org/wiki/Jean_Baptiste_Perrin}{Jean Perrin}
+used Einstein's work to experimentally determine the mass and dimensions
+of atoms, thereby verifying Dalton's atomic theory.
+
+In 1897, \href{https://en.wikipedia.org/wiki/J._J._Thomson}{J.J.
+Thomson} discovered that cathode rays are not electromagnetic waves but
+made of particles that are 1,800 times lighter than hydrogen (the
+lightest atom). Therefore, they were not atoms, but a new particle, the
+first subatomic particle to be discovered. He called these new particles
+corpuscles but they were later renamed electrons. Thomson also showed
+that electrons were identical to particles given off by photoelectric
+and radioactive materials. It was quickly recognized that electrons are
+the particles that carry electric currents in metal wires, and carry the
+negative electric charge within atoms. Thus Thomson overturned the
+belief that atoms are the indivisible, fundamental particles of matter.
+The misnomer ``atom'' is still used, even though atoms are not literally
+``uncuttable''.
+
+J. J. Thomson postulated that the negatively-charged electrons were
+distributed throughout the atom in a uniform sea of positive charge.
+This was known as the plum pudding model. In 1909,
+\href{https://en.wikipedia.org/wiki/Hans_Geiger}{Hans Geiger} and
+\href{https://en.wikipedia.org/wiki/Ernest_Marsden}{Ernest Marsden},
+working under the direction of
+\href{https://en.wikipedia.org/wiki/Ernest_Rutherford}{Ernest
+Rutherford}, bombarded metal foil with alpha particles to observe how
+they scattered. They expected all the charged particles to pass straight
+through with little deflection, because Thomson's model said that the
+charges in the atom are so diffuse that their electric fields in the
+foil could not affect the alpha particles much. Yet Geiger and Marsden
+spotted alpha particles being deflected by angles greater than 90°,
+which was supposed to be impossible according to Thomson's model. To
+explain this, Rutherford proposed that the positive charge of the atom
+is concentrated in a tiny nucleus at the center. Only such an intense
+concentration of charge could produce an electric field strong enough to
+deflect alpha particles that much.
+
+While experimenting with the products of radioactive decay, in 1913
+radiochemist Frederick Soddy discovered that there appeared to be more
+than one type of atom at each position on the periodic table. The term
+isotope was coined by Margaret Todd as a suitable name for different
+atoms that belong to the same element. J.J. Thomson created a technique
+for isotope separation through his work on ionized gases, which
+subsequently led to the discovery of stable isotopes.
+
+The development of the mass spectrometer allowed the mass of atoms to be
+measured with increased accuracy. The device uses a magnet to bend the
+trajectory of a beam of ions, and the amount of deflection is determined
+by the ratio of an atom's mass to its charge. The chemist
+\href{https://en.wikipedia.org/wiki/Francis_William_Aston}{Francis
+William Aston} used this instrument to show that isotopes had different
+masses. The atomic mass of these isotopes varied by integer amounts,
+called the whole number rule. The explanation for these different
+isotopes awaited the discovery of the neutron, an uncharged particle
+with a mass similar to the proton, by the physicist
+\href{https://en.wikipedia.org/wiki/James_Chadwick}{James Chadwick} in
+1932. Isotopes were then explained as elements with the same number of
+protons, but different numbers of neutrons within the nucleus.
+
+In 1913 the physicist
+\href{https://en.wikipedia.org/wiki/Niels_Bohr}{Niels Bohr} proposed a
+model in which the electrons of an atom were assumed to orbit the
+nucleus but could only do so in a finite set of orbits, and could jump
+between these orbits only in discrete changes of energy corresponding to
+absorption or radiation of a photon. This quantization was used to
+explain why the electrons' orbits are stable (given that normally,
+charges in acceleration, including circular motion, lose kinetic energy
+which is emitted as electromagnetic radiation, see synchrotron
+radiation) and why elements absorb and emit electromagnetic radiation in
+discrete spectra.
+
+\protect\hypertarget{fig:bohrmodel}{}{}
+\includegraphics[width=0.7\textwidth,height=\textheight]{figures/chemistry/Bohr_atom_model.svg}
+
+Figure 2.2: Niels Bohr's 1913
+\href{https://en.wikipedia.org/wiki/Bohr_model\#/media/File:Bohr_atom_model.svg}{quantum
+model of the atom}, which incorporated an explanation of Johannes
+Rydberg's 1888 formula, Max Planck's 1900 quantum hypothesis, i.e.~that
+atomic energy radiators have discrete energy values (ε = hν), J. J.
+Thomson's 1904 plum pudding model, Albert Einstein's 1905 light quanta
+postulate, and Ernest Rutherford's 1907 discovery of the atomic nucleus.
+Note that the electron does not travel along the black line when
+emitting a photon. It ``jumps'', disappearing from the outer orbit and
+appearing in the inner one and cannot exist in the space between orbits
+2 and 3. The Bohr model of the hydrogen atom (Z = 1) or a hydrogen-like
+ion (Z \textgreater{} 1), where the negatively charged electron confined
+to an atomic shell encircles a small, positively charged atomic nucleus
+and where an electron jumps between orbits, is accompanied by an emitted
+or absorbed amount of electromagnetic energy (hν). The orbits in which
+the electron may travel are shown as grey circles; their radius
+increases as n2, where n is the principal quantum number. The 3 → 2
+transition depicted here produces the first line of the Balmer series,
+and for hydrogen (Z = 1) it results in a photon of wavelength 656 nm
+(red light).
+
+Later in the same year Henry Moseley provided additional experimental
+evidence in favor of Niels Bohr's theory. These results refined Ernest
+Rutherford's and Antonius Van den Broek's model, which proposed that the
+atom contains in its nucleus a number of positive nuclear charges that
+is equal to its (atomic) number in the periodic table. Until these
+experiments, atomic number was not known to be a physical and
+experimental quantity. That it is equal to the atomic nuclear charge
+remains the accepted atomic model today.
+
+Atomic dimensions are thousands of times smaller than the wavelengths of
+light (400--700 nm) so they cannot be viewed using an optical
+microscope, although individual atoms can be observed using a scanning
+tunneling microscope. To visualize the minuteness of the atom, consider
+that a typical human hair is about 1 million carbon atoms in width. A
+single drop of water contains about 2 sextillion
+(2×10\textsuperscript{21}) atoms of oxygen, and twice the number of
+hydrogen atoms. A single carat diamond with a mass of
+2×10\textsuperscript{−4} kg contains about 10 sextillion
+(10\textsuperscript{22}) atoms of carbon. If an apple were magnified to
+the size of the Earth, then an atom would be approximately the size of
+the original apple.
+
+\hypertarget{structure-of-the-atom}{%
+\subsubsection{\texorpdfstring{{2.2.1} Structure of The
+Atom}{2.2.1 Structure of The Atom}}\label{structure-of-the-atom}}
+
+Though the word atom originally denoted a particle that cannot be cut
+into smaller particles, in modern scientific usage the atom is composed
+of various subatomic particles. The constituent particles of an atom are
+the electron, the proton and the neutron.
+
+The electron is by far the least massive of these particles at
+9.11×10\textsuperscript{−31} kg, with a negative electrical charge and a
+size that is too small to be measured using available techniques. Under
+ordinary conditions, electrons are bound to the positively charged
+nucleus by the attraction created from opposite electric charges. If an
+atom has more or fewer electrons than its atomic number, then it becomes
+respectively negatively or positively charged as a whole; a charged atom
+is called an ion.
+
+Protons have a positive charge and a mass 1,836 times that of the
+electron, at 1.6726×10\textsuperscript{−27} kg. The number of protons in
+an atom is called its atomic number.
+
+Neutrons have no electrical charge and have a free mass of 1,839 times
+the mass of the electron, or 1.6749×10\textsuperscript{−27} kg. Neutrons
+are the heaviest of the three constituent particles, but their mass can
+be reduced by the nuclear binding energy. Neutrons and protons
+(collectively known as nucleons) have comparable dimensions---on the
+order of 2.5×10\textsuperscript{−15} m.
+
+In the Standard Model of physics, electrons are truly elementary
+particles with no internal structure, whereas protons and neutrons are
+composite particles composed of elementary particles called quarks.
+There are two types of quarks in atoms, each having a fractional
+electric charge. Protons are composed of two up quarks (each with charge
+{\textbackslash(+\textbackslash frac\{2\}\{3\}\textbackslash)}) and one
+down quark (with a charge of
+{\textbackslash(−\textbackslash frac\{1\}\{3\}\textbackslash)}).
+Neutrons consist of one up quark and two down quarks. This distinction
+accounts for the difference in mass and charge between the two
+particles.
+
+The quarks are held together by the strong interaction (or strong
+force), which is mediated by gluons. The protons and neutrons, in turn,
+are held to each other in the nucleus by the nuclear force, which is a
+residuum of the strong force that has somewhat different
+range-properties (see the article on the nuclear force for more). The
+gluon is a member of the family of gauge bosons, which are elementary
+particles that mediate physical forces.
+
+\hypertarget{the-atomic-nucleus}{%
+\subsubsection{\texorpdfstring{{2.2.2} The Atomic
+Nucleus}{2.2.2 The Atomic Nucleus}}\label{the-atomic-nucleus}}
+
+The nucleus of an atom consists of neutrons and protons, which in turn
+are the manifestation of more elementary particles, called quarks, that
+are held together by the nuclear strong force. The nuclear strong force
+extends far enough so as to bind the neutrons and protons together
+against the repulsive electrical force between the positively charged
+protons. The nuclear strong force has a very short range, and
+essentially drops to zero just beyond the edge of the nucleus. The
+collective action of the positively charged nucleus is to hold the
+electrically negative charged electrons in their orbits about the
+nucleus. The collection of negatively charged electrons orbiting the
+nucleus display an affinity for certain configurations and numbers of
+electrons that make their orbits stable. Which chemical element an atom
+represents is determined by the number of protons in the nucleus; the
+neutral atom will have an equal number of electrons orbiting that
+nucleus. Individual chemical elements can create more stable electron
+configurations by combining to share their electrons. It is that sharing
+of electrons to create stable electronic orbits about the nucleus that
+appears to us as the chemistry of our world.
+
+Protons define the entire charge of a nucleus, and hence its chemical
+identity. Neutrons are electrically neutral, but contribute to the mass
+of a nucleus to nearly the same extent as the protons. Neutrons can
+explain the phenomenon of isotopes (same atomic number with different
+atomic mass). The main role of neutrons is to reduce electrostatic
+repulsion inside the nucleus.
+
+The electrons of an atom are attracted to the protons in an atomic
+nucleus by the electromagnetic force. The protons and neutrons in the
+nucleus are attracted to each other by the nuclear force. This force is
+usually stronger than the electromagnetic force that repels the
+positively charged protons from one another. Under certain
+circumstances, the repelling electromagnetic force becomes stronger than
+the nuclear force. In this case, the nucleus splits and leaves behind
+different elements. This is a form of nuclear decay.
+
+The number of protons in the nucleus is the atomic number and it defines
+to which chemical element the atom belongs. For example, any atom that
+contains 6 protons is carbon. The number of neutrons defines the isotope
+of the element. For example, the most common isotope of carbon is
+\textsuperscript{12}C with 6 neutrons. Another carbon isotope found in
+nature is \textsuperscript{14}C, which has 8 neutrons. Atoms can attach
+to one or more other atoms by chemical bonds to form chemical compounds
+such as molecules or crystals. The ability of atoms to associate and
+dissociate is responsible for most of the physical changes observed in
+nature.
+
+\hypertarget{the-electron-cloud}{%
+\subsubsection{\texorpdfstring{{2.2.3} The Electron
+Cloud}{2.2.3 The Electron Cloud}}\label{the-electron-cloud}}
+
+The electron cloud is a region surrounding the nucleus. The electrons in
+an atom are attracted to the protons in the nucleus by the
+electromagnetic force. This force binds the electrons to the nucleus,
+which means that an external source of energy is needed for the electron
+to escape. The closer an electron is to the nucleus, the greater the
+attractive force. Hence the electrons that are closer to the nucleus
+require more energy to escape than those at greater separations.
+
+Electrons, like other particles, have properties of both a particle and
+a wave. In atomic theory and quantum mechanics, an atomic orbital is a
+mathematical function describing the location and wave-like behavior of
+electrons surrounding an atom. The term ``orbital'' was coined by
+\href{https://en.wikipedia.org/wiki/Robert_S._Mulliken}{Robert Mulliken}
+in 1932 as an abbreviation for one-electron orbital wave function. The
+term atomic orbital is also used to refer to the physical region or
+space where the electron can be calculated to be present using this
+function. Each atomic orbital corresponds to a particular energy level
+of the electron. The electron can change its state to a higher energy
+level by absorbing sufficient energy to boost it into the new quantum
+state. Likewise, through spontaneous emission, an electron in a higher
+energy state can drop to a lower energy state while radiating the excess
+energy.
+
+The electrons in an atom are described by a unique set of values of four
+so-called quantum numbers n, ℓ, and m\textsubscript{ℓ}, and s. As n
+increases, the electron is farther from the nucleus, on average, has a
+higher energy and is, therefore, less tightly bound to the nucleus. For
+each value of n, ℓ can take integer (whole number) values ranging from 0
+to n − 1 and m\textasciitilde ℓ can take integer values ranging from -ℓ
+to +ℓ, and two values of s
+({\textbackslash(+\textbackslash frac\{1\}\{2\} or
+-\textbackslash frac\{1\}\{2\}\textbackslash)}) hence higher-n electron
+states are more numerous. Thus, each n-shell can accommodate up to a
+maximum of 2n\textsuperscript{2} electrons. In chemistry, values n = 1,
+2, 3, 4, 5, 6, 7 correspond to the so-called electron shells, which may
+be thought of as onion-like layers surrounding the nucleus that are
+filled with electrons. The shell terminology comes from
+\href{https://en.wikipedia.org/wiki/Arnold_Sommerfeld}{Arnold
+Sommerfeld's} modification of the Bohr model. Sommerfeld retained Bohr's
+planetary model (electrons orbiting the atomic nucleus like planets the
+sun), but added orbits that formed a thick ``shell'' instead of the
+infinitely thin circular orbit of Bohr's model. The closest shell to the
+nucleus is called the ``1 shell'' (also called the ``K shell''),
+followed by the ``2 shell'' (or ``L shell''), then the ``3 shell'' (or
+``M shell''), and so on farther and farther from the nucleus. The shells
+correspond to the principal quantum numbers (n = 1, 2, 3, 4 \ldots) or
+are labeled alphabetically with the letters used in
+\href{https://en.wikipedia.org/wiki/x-ray_notation}{X-ray notation} (K,
+L, M, \ldots). Each shell is composed of one or more subshells (labeled
+with the letters s, p, d, and f, which are derived from the terms
+\emph{s}harp, \emph{p}rincipal, \emph{d}iffuse, and \emph{f}undamental
+historically used in the description of atomic spectral lines). For
+example, the first shell (with principal quantum number n = 1 also
+referred to as K shell) has one subshell, called 1s; the second (with
+principal quantum number n = 2 also referred to as L shell) shell has
+two subshells, called 2s (ℓ = 0) and 2p(ℓ = 1 and m\textsubscript{ℓ} =
+-1, 0, 1); the third shell (with principal quantum number n = 3 also
+referred to as M shell) has 3s, 3p, and 3d; the fourth shell (with
+principal quantum number n = 4 also referred to as N shell) has 4s, 4p,
+4d and 4f; the fifth shell (with principal quantum number n = 5 also
+referred to as O shell) has 5s, 5p, 5d, and 5f and can theoretically
+hold more in the 5g subshell that is not occupied in the ground-state
+electron configuration of any known element.
+
+\protect\hypertarget{fig:atomicorbitals}{}{}
+\includegraphics[width=0.7\textwidth,height=\textheight]{figures/chemistry/S-p-Orbitals.svg}
+
+Figure 2.3:
+\href{https://commons.wikimedia.org/wiki/File:S-p-Orbitals.svg}{The five
+filled atomic orbitals of a neon atom} separated and arranged in order
+of increasing energy from left to right, with the last three orbitals
+being equal in energy. Each orbital holds up to two electrons, which
+most probably exist in the zones represented by the colored bubbles.
+Each electron is equally present in both orbital zones, shown here by
+color only to highlight the different wave phase.
+
+Several rules govern the placement of electrons in orbitals in each atom
+referred to as the atom's electron configuration. The first dictates
+that no two electrons in an atom may have the same set of values of
+quantum numbers (this is the Pauli exclusion principle). These quantum
+numbers include the three that define orbitals, as well as s, or spin
+quantum number. Thus, two electrons may occupy a single orbital, so long
+as they have different values of s. However, only two electrons, because
+of their spin, can be associated with each orbital.
+
+Additionally, an electron always tends to fall to the lowest possible
+energy state. It is possible for it to occupy any orbital so long as it
+does not violate the Pauli exclusion principle, but if lower-energy
+orbitals are available, this condition is unstable. The electron will
+eventually lose energy (by releasing a photon) and drop into the lower
+orbital. Thus, electrons fill orbitals in the order specified by the
+energy sequence given above. This behavior is responsible for the
+structure of the periodic table.
+
+\hypertarget{the-periodic-table-of-the-elements}{%
+\subsection{\texorpdfstring{{2.3} The Periodic Table of The
+Elements}{2.3 The Periodic Table of The Elements}}\label{the-periodic-table-of-the-elements}}
+
+The \href{https://en.wikipedia.org/wiki/Periodic_table}{periodic table},
+also known as the periodic table of elements, is a tabular display of
+the chemical elements. In chemistry, an element is a pure substance
+which cannot be broken down by chemical means, consisting of atoms which
+have identical numbers of protons in their atomic nuclei. The number of
+protons in the nucleus is the defining property of an element, and is
+referred to as the atomic number (represented by the symbol Z). The mass
+number is the sum of the number of protons and neutrons in a nucleus.
+Although all the nuclei of all atoms belonging to one element will have
+the same atomic number, they may not necessarily have the same mass
+number; atoms of an element which have different mass numbers are known
+as isotopes. For example, all atoms with 6 protons in their nuclei are
+atoms of the chemical element carbon, but atoms of carbon may have mass
+numbers of 12 or 13.
+
+In the periodic table, elements are arranged by atomic number, electron
+configuration, and recurring chemical properties. The organization of
+the periodic table can be used to derive relationships between the
+various element properties, and also to predict chemical properties and
+behaviours of undiscovered or newly synthesized elements. Russian
+chemist \href{https://en.wikipedia.org/wiki/Dmitri_Mendeleev}{Dmitri
+Mendeleev} published the first recognizable periodic table in 1869,
+developed mainly to illustrate periodic trends of the then-known
+elements. He also predicted some properties of unidentified elements
+that were expected to fill gaps within the table. Most of his forecasts
+proved to be correct. Mendeleev's idea has been slowly expanded and
+refined with the discovery or synthesis of further new elements and the
+development of new theoretical models to explain chemical behaviour. In
+total, 118 elements have been identified. The first 94 occur naturally
+on Earth, and the remaining 24 are synthetic elements produced in
+nuclear reactions.
+
+\protect\hypertarget{fig:periodictable}{}{}
+\includegraphics[width=0.7\textwidth,height=\textheight]{figures/chemistry/Simple_Periodic_Table_Chart-en.svg}
+
+Figure 2.4:
+\href{https://commons.wikimedia.org/wiki/File:Simple_Periodic_Table_Chart-en.svg}{A
+simple depiction of the periodic table of the elements.}
+
+The structure of the table shows periodic trends. The seven rows of the
+table, called periods, generally have metals on the left and nonmetals
+on the right. The columns, called groups, contain elements with similar
+chemical behaviours. Six groups have accepted names as well as assigned
+numbers: for example, group 17 elements are the halogens; and group 18
+are the noble gases. Also displayed are four simple rectangular areas or
+blocks associated with the filling of different atomic orbitals.
+
+The periodic table may also be divided into several numbered rectangular
+`blocks'. The elements belonging to a given block have this common
+feature: their highest-energy electrons all belong to the same ℓ-state
+(but the n associated with that ℓ-state depends upon the period). For
+instance, the leftmost two columns constitute the `s-block'. The
+outermost electrons of Li and Be respectively belong to the 2s subshell,
+and those of Na and Mg to the 3s subshell.
+
+The following is the order for filling the ``subshell'' orbitals, which
+also gives the order of the ``blocks'' in the periodic table:
+
+1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s, 5f, 6d,
+7p
+
+The ``periodic'' nature of the filling of orbitals, as well as emergence
+of the s, p, d, and f ``blocks'', is more obvious if this order of
+filling is given in matrix form, with increasing principal quantum
+numbers starting the new rows (``periods'') in the matrix. Then, each
+subshell (composed of the first two quantum numbers) is repeated as many
+times as required for each pair of electrons it may contain. The result
+is a compressed periodic table, with each entry representing two
+successive elements:
+
+\begin{longtable}[]{@{}llllllllllllllll@{}}
+\toprule
+\endhead
+1s & & & & & & & & & & & & & & &\tabularnewline
+2s & & & & & & & & & & & & & 2p & 2p & 2p\tabularnewline
+3s & & & & & & & & & & & & & 3p & 3p & 3p\tabularnewline
+4s & & & & & & & & 3d & 3d & 3d & 3d & 3d & 4p & 4p & 4p\tabularnewline
+5s & & & & & & & & 4d & 4d & 4d & 4d & 4d & 5p & 5p & 5p\tabularnewline
+6s & 4f & 4f & 4f & 4f & 4f & 4f & 4f & 5d & 5d & 5d & 5d & 5d & 6p & 6p
+& 6p\tabularnewline
+7s & 5f & 5f & 5f & 5f & 5f & 5f & 5f & 6d & 6d & 6d & 6d & 6d & 7p & 7p
+& 7p\tabularnewline
+\bottomrule
+\end{longtable}
+
+Although this is the general order of orbital filling, there are
+exceptions, and the actual electronic energies of each element are also
+dependent upon additional details of the atoms.
+
+The number of electrons in an electrically neutral atom increases with
+the atomic number. The electrons in the outermost shell of a given atom,
+called valence electrons, tend to be responsible for an element's
+chemical behavior. Elements that contain the same number of valence
+electrons can be grouped together and display similar chemical
+properties. The elements at the far right of the table have their outer
+shell completely filled with electrons, which results in chemically
+inert elements known as the noble gases.
+
+\hypertarget{chemical-bonds-molecules-and-compounds}{%
+\subsection{\texorpdfstring{{2.4} Chemical Bonds, Molecules, And
+Compounds}{2.4 Chemical Bonds, Molecules, And Compounds}}\label{chemical-bonds-molecules-and-compounds}}
+
+A chemical bond is an attraction between atoms. This attraction may be
+seen as the result of different behaviors of the outermost or valence
+electrons of atoms. Chemical bonds between atoms were explained by
+\href{https://en.wikipedia.org/wiki/Gilbert_N._Lewis}{Gilbert Newton
+Lewis} in 1916, as the interactions between their constituent electrons.
+As the chemical properties of the elements were known to largely repeat
+themselves according to the periodic law, in 1919 the American chemist
+\href{https://en.wikipedia.org/wiki/Irving_Langmuir}{Irving Langmuir}
+suggested that this could be explained if the electrons in an atom were
+connected or clustered in some manner. Groups of electrons were thought
+to occupy a set of electron shells about the nucleus.
+
+\protect\hypertarget{fig:lewisbond}{}{}
+\includegraphics[width=0.7\textwidth,height=\textheight]{figures/chemistry/Electron_dot.svg}
+
+Figure 2.5:
+\href{https://en.wikipedia.org/wiki/Chemical_bond\#/media/File:Electron_dot.svg}{Examples
+of Lewis dot-style representations of chemical bonds} between carbon
+(C), hydrogen (H), and oxygen (O). Lewis dot diagrams were an early
+attempt to describe chemical bonding and are still widely used today.
+
+A chemical bond can be a
+\href{https://en.wikipedia.org/wiki/Covalent_bond}{covalent bond}, an
+\href{https://en.wikipedia.org/wiki/Ionic_bonding}{ionic bond}, a
+\href{https://en.wikipedia.org/wiki/Hydrogen_bond}{hydrogen bond} or
+just because of Van der Waals force. All bonds can be explained by
+quantum theory, but, in practice, simplification rules allow chemists to
+predict the strength, directionality, and polarity of bonds.
+
+Covalent bonding is a common type of bonding in which two or more atoms
+share valence electrons more or less equally. The simplest and most
+common type is a single bond in which two atoms share two electrons.
+Other types include the double bond, the triple bond. In non-polar
+covalent bonds, the electrons are shared equally between the bonding
+atoms. Molecules that are formed primarily from non-polar covalent bonds
+are often immiscible in water or other polar solvents, but much more
+soluble in non-polar solvents such as hexane. A polar covalent bond is a
+covalent bond with a significant ionic character. This means that the
+two shared electrons are closer to one of the atoms than the other,
+creating an imbalance of charge.
+
+Atoms will share valence electrons in such a way as to create a noble
+gas electron configuration (eight electrons in their outermost shell)
+for each atom. Atoms that tend to combine in such a way that they each
+have eight electrons in their valence shell are said to follow the octet
+rule. However, some elements like hydrogen and lithium need only two
+electrons in their outermost shell to attain this stable configuration;
+these atoms are said to follow the duet rule, and in this way they are
+reaching the electron configuration of the noble gas helium, which has
+two electrons in its outer shell. In a polar covalent bond, one or more
+electrons are unequally shared between two nuclei.
+
+\protect\hypertarget{fig:covalentbond}{}{}
+\includegraphics[width=0.7\textwidth,height=\textheight]{figures/chemistry/Covalent_bond_hydrogen.svg}
+
+Figure 2.6:
+\href{https://commons.wikimedia.org/wiki/File:Covalent_bond_hydrogen.svg}{A
+covalent bond between two hydrogen atoms forming a hydrogen molecule.}
+
+An ionic bond is formed when a metal loses one or more of its electrons,
+becoming a positively charged cation, and the electrons are then gained
+by the non-metal atom, becoming a negatively charged anion. The two
+oppositely charged ions attract one another, and the ionic bond is the
+electrostatic force of attraction between them. For example, sodium
+(Na), a metal, loses one electron to become an Na\textsuperscript{+}
+cation while chlorine (Cl), a non-metal, gains this electron to become
+Cl−. The ions are held together due to electrostatic attraction, and
+that compound sodium chloride (NaCl), or common table salt, is formed.
+
+\protect\hypertarget{fig:ionicbond}{}{}
+\includegraphics[width=0.7\textwidth,height=\textheight]{figures/chemistry/NaF.gif}
+
+Figure 2.7:
+\href{https://commons.wikimedia.org/wiki/File:NaF.gif}{Formation of an
+ionic bond.} Sodium and fluorine atoms undergoing a redox reaction to
+form sodium fluoride. Sodium loses its outer electron to give it a
+stable electron configuration, and this electron enters the fluorine
+atom exothermically. The oppositely charged ions -- typically a great
+many of them -- are then attracted to each other to form a solid.
+
+A molecule (from French molécule, from New Latin molecula (``a
+molecule''), diminutive of Latin moles (``a mass''); see mole + -cule.)
+is a group of two or more atoms held together by chemical bonds. A
+molecule may be homonuclear, that is, it consists of atoms of one
+chemical element, as with two atoms in the oxygen molecule
+(O\textsubscript{2}); or it may be heteronuclear, a chemical compound
+composed of more than one element, as with water (two hydrogen atoms and
+one oxygen atom; H\textsubscript{2}O).
+
+Molecules exist as electrically neutral units, unlike ions. When this
+rule is broken, giving the ``molecule'' a charge, the result is
+sometimes named a molecular ion or a polyatomic ion.
+
+The ``inert'' or noble gas elements (helium, neon, argon, krypton, xenon
+and radon) are composed of lone atoms as their smallest discrete unit,
+but the other isolated chemical elements consist of either molecules or
+networks of atoms bonded to each other in some way. Identifiable
+molecules compose familiar substances such as water, air, and many
+organic compounds like alcohol, sugar, gasoline, and the various
+pharmaceuticals.
+
+However, not all substances or chemical compounds consist of discrete
+molecules, and indeed most of the solid substances that make up the
+solid crust, mantle, and core of the Earth are chemical compounds
+without molecules. These other types of substances, such as ionic
+compounds and network solids, are organized in such a way as to lack the
+existence of identifiable molecules per se. Instead, these substances
+are discussed in terms of formula units or unit cells as the smallest
+repeating structure within the substance. Examples of such substances
+are mineral salts (such as table salt), solids like carbon and diamond,
+metals, and familiar silica and silicate minerals such as quartz and
+granite.
+
+One of the main characteristics of a molecule is its geometry often
+called its structure. While the structure of diatomic, triatomic or
+tetra-atomic molecules may be trivial, (linear, angular pyramidal etc.)
+the structure of polyatomic molecules, that are constituted of more than
+six atoms (of several elements) can be crucial for its chemical nature.
+
+\hypertarget{energy-1}{}
+\hypertarget{energy}{%
+\subsection{\texorpdfstring{{2.5} Energy}{2.5 Energy}}\label{energy}}
+
+In physics, energy (from the Ancient Greek: ἐνέργεια, romanized:
+energeia, lit. `activity, operation') is the quantitative property that
+must be transferred to an object in order to perform work on, or to
+heat, the object. Energy is a conserved quantity; the law of
+conservation of energy states that energy can be converted in form, but
+not created or destroyed. The SI unit of energy is the joule, which is
+the energy transferred to an object by the work of moving it a distance
+of 1 metre against a force of 1 newton.
+
+The American physist
+\href{https://en.wikipedia.org/wiki/Richard_Feynman}{Richard Feynman}
+said during a 1961 lecture:
+
+\begin{quote}
+There is a fact, or if you wish, a law, governing all natural phenomena
+that are known to date. There is no known exception to this law -- it is
+exact so far as we know. The law is called the conservation of energy.
+It states that there is a certain quantity, which we call energy, that
+does not change in manifold changes which nature undergoes. That is a
+most abstract idea, because it is a mathematical principle; it says that
+there is a numerical quantity which does not change when something
+happens. It is not a description of a mechanism, or anything concrete;
+it is just a strange fact that we can calculate some number and when we
+finish watching nature go through her tricks and calculate the number
+again, it is the same.
+\end{quote}
+
+\begin{quote}
+--- The Feynman Lectures on Physics
+\end{quote}
+
+Common forms of energy include the kinetic energy of a moving object,
+the potential energy stored by an object's position in a force field
+(gravitational, electric or magnetic), the elastic energy stored by
+stretching solid objects, the chemical energy released when a fuel
+burns, the radiant energy carried by light, and the thermal energy due
+to an object's temperature.
+
+Mass and energy are closely related. Due to mass--energy equivalence,
+any object that has mass when stationary (called rest mass) also has an
+equivalent amount of energy whose form is called rest energy, and any
+additional energy (of any form) acquired by the object above that rest
+energy will increase the object's total mass just as it increases its
+total energy. For example, after heating an object, its increase in
+energy could be measured as a small increase in mass, with a sensitive
+enough scale.
+
+Living organisms require energy to stay alive, such as the energy humans
+get from food. Human civilization requires energy to function, which it
+gets from energy resources such as fossil fuels, nuclear fuel, or
+renewable energy. The processes of Earth's climate and ecosystem are
+driven by the radiant energy Earth receives from the sun and the
+geothermal energy contained within the earth.
+
+\protect\hypertarget{fig:energylife}{}{}
+\includegraphics[width=0.7\textwidth,height=\textheight]{figures/chemistry/Energy_and_life.svg}
+
+Figure 2.8:
+\href{https://commons.wikimedia.org/wiki/File:Energy_and_life.svg}{Basic
+overview of energy and human life.}
+
+In 1843, \href{https://en.wikipedia.org/wiki/James_Prescott_Joule}{James
+Prescott Joule} discovered the link between mechanical work and the
+generation of heat in a series of experiments. The most famous of them
+used the ``Joule apparatus'': a descending weight, attached to a string,
+caused rotation of a paddle immersed in water, practically insulated
+from heat transfer. It showed that the gravitational potential energy
+lost by the weight in descending was equal to the internal energy gained
+by the water through friction with the paddle.
+
+\protect\hypertarget{fig:jouleapparatus}{}{}
+\includegraphics[width=0.7\textwidth,height=\textheight]{figures/chemistry/Joules_Apparatus_Harpers_Scan.png}
+
+Figure 2.9:
+\href{https://commons.wikimedia.org/wiki/File:Joule\%27s_Apparatus_(Harper\%27s_Scan).png}{Joule's
+apparatus for measuring the mechanical equivalent of heat. A descending
+weight attached to a string causes a paddle immersed in water to
+rotate.}
+
+In the International System of Units (SI), the unit of energy is the
+joule, named after James Prescott Joule. It is a derived unit. It is
+equal to the energy expended (or work done) in applying a force of one
+newton through a distance of one metre. However energy is also expressed
+in many other units not part of the SI, such as ergs, calories, British
+Thermal Units, kilowatt-hours and kilocalories, which require a
+conversion factor when expressed in SI units.
+
+The SI unit of energy rate (energy per unit time) is the watt, which is
+a joule per second. Thus, one joule is one watt-second, and 3600 joules
+equal one watt-hour. The CGS energy unit is the erg and the imperial and
+US customary unit is the foot pound. Other energy units such as the
+electronvolt, food calorie or thermodynamic kcal (based on the
+temperature change of water in a heating process), and BTU are used in
+specific areas of science and commerce.
+
+In the context of chemistry, energy is an attribute of a substance as a
+consequence of its atomic, molecular or aggregate structure. Since a
+chemical transformation is accompanied by a change in one or more of
+these kinds of structures, it is invariably accompanied by an increase
+or decrease of energy of the substances involved. Some energy is
+transferred between the surroundings and the reactants of the reaction
+in the form of heat or light; thus the products of a reaction may have
+more or less energy than the reactants.
+
+A reaction is said to be exergonic if the final state is lower on the
+energy scale than the initial state; in the case of endergonic reactions
+the situation is the reverse. A reaction is said to be exothermic if the
+reaction releases heat to the surroundings; in the case of endothermic
+reactions, the reaction absorbs heat from the surroundings.
+
+Chemical reactions are invariably not possible unless the reactants
+surmount an energy barrier known as the activation energy. The
+activation energy (E\textsubscript{a}) of a reaction is measured in
+joules per mole (J/mol), kilojoules per mole (kJ/mol) or kilocalories
+per mole (kcal/mol). For a chemical reaction to proceed at a reasonable
+rate, the temperature of the system should be high enough such that
+there exists an appreciable number of molecules with translational
+energy equal to or greater than the activation energy. The term
+Activation Energy was introduced in 1889 by the Swedish scientist
+\href{https://en.wikipedia.org/wiki/Svante_Arrhenius}{Svante Arrhenius}.
+The Arrhenius equation gives the quantitative basis of the relationship
+between the activation energy and the rate at which a reaction proceeds.
+From the equation, the activation energy can be found through the
+relation {\textbackslash{[}
+k=A\textbackslash mathrm\{e\}\^{}\{-E\_a/(RT)\} \textbackslash{]}} where
+A is the pre-exponential factor for the reaction, R is the universal gas
+constant, T is the absolute temperature (usually in kelvins), and k is
+the reaction rate coefficient. Even without knowing A,
+E\textsubscript{a} can be evaluated from the variation in reaction rate
+coefficients as a function of temperature (within the validity of the
+Arrhenius equation).The activation energy necessary for a chemical
+reaction to occur can be in the form of heat, light, electricity or
+mechanical force.
+
+A substance that modifies the transition state to lower the activation
+energy is termed a catalyst; a catalyst composed only of protein and (if
+applicable) small molecule cofactors is termed an enzyme. A catalyst
+increases the rate of reaction without being consumed in the reaction.
+In addition, the catalyst lowers the activation energy, but it does not
+change the energies of the original reactants or products, and so does
+not change equilibrium. Rather, the reactant energy and the product
+energy remain the same and only the activation energy is altered
+(lowered).
+
+\protect\hypertarget{fig:activationenergydiagram}{}{}
+\includegraphics[width=0.7\textwidth,height=\textheight]{figures/bioenergetics/Activation2_updated.svg}
+
+Figure 2.10:
+\href{https://commons.wikimedia.org/wiki/File:Activation2_updated.svg}{Example
+of an enzyme-catalysed exothermic reaction.}
+
+A catalyst is able to reduce the activation energy by forming a
+transition state in a more favorable manner. Catalysts, by nature,
+create a more ``comfortable'' fit for the substrate of a reaction to
+progress to a transition state. This is possible due to a release of
+energy that occurs when the substrate binds to the active site of a
+catalyst. This energy is known as Binding Energy. Upon binding to a
+catalyst, substrates partake in numerous stabilizing forces while within
+the active site (i.e.~Hydrogen bonding, van der Waals forces). Specific
+and favorable bonding occurs within the active site until the substrate
+forms to become the high-energy transition state. Forming the transition
+state is more favorable with the catalyst because the favorable
+stabilizing interactions within the active site release energy. A
+chemical reaction is able to manufacture a high-energy transition state
+molecule more readily when there is a stabilizing fit within the active
+site of a catalyst. The binding energy of a reaction is this energy
+released when favorable interactions between substrate and catalyst
+occur. The binding energy released assists in achieving the unstable
+transition state. Reactions otherwise without catalysts need a higher
+input of energy to achieve the transition state. Non-catalyzed reactions
+do not have free energy available from active site stabilizing
+interactions, such as catalytic enzyme reactions.
+
+A related concept free energy, which also incorporates entropy
+considerations, is a very useful means for predicting the feasibility of
+a reaction and determining the state of equilibrium of a chemical
+reaction, in chemical thermodynamics. A reaction is feasible only if the
+total change in the Gibbs free energy is negative, {\textbackslash{[}
+\textbackslash Delta G \textbackslash leq 0 \textbackslash{]}} if it is
+equal to zero the chemical reaction is said to be at equilibrium.
+
+There exist only limited possible states of energy for electrons, atoms
+and molecules. These are determined by the rules of quantum mechanics,
+which require quantization of energy of a bound system. The
+atoms/molecules in a higher energy state are said to be excited. The
+molecules/atoms of substance in an excited energy state are often much
+more reactive; that is, more amenable to chemical reactions.
+
+\hypertarget{chemical-reactions}{%
+\subsection{\texorpdfstring{{2.6} Chemical
+Reactions}{2.6 Chemical Reactions}}\label{chemical-reactions}}
+
+When a chemical substance is transformed as a result of its interaction
+with another substance or with energy, a chemical reaction is said to
+have occurred. A chemical reaction is therefore a concept related to the
+``reaction'' of a substance when it comes in close contact with another,
+whether as a mixture or a solution; exposure to some form of energy, or
+both. It results in some energy exchange between the constituents of the
+reaction as well as with the system environment, which may be designed
+vessels---often laboratory glassware.
+
+Chemical reactions can result in the formation or dissociation of
+molecules, that is, molecules breaking apart to form two or more
+molecules or rearrangement of atoms within or across molecules. Chemical
+reactions usually involve the making or breaking of chemical bonds.
+Oxidation, reduction, dissociation, acid-base neutralization and
+molecular rearrangement are some of the commonly used kinds of chemical
+reactions.
+
+A chemical reaction can be symbolically depicted through a chemical
+equation. In a chemical reaction the number and kind of atoms on both
+sides of the equation are always equal. This fact is referred to as the
+the law of conservation of mass. The law implies that mass can neither
+be created nor destroyed, although it may be rearranged in space, or the
+entities associated with it may be changed in form. For example, in
+chemical reactions, the mass of the chemical components before the
+reaction is equal to the mass of the components after the reaction.
+Thus, during any chemical reaction and low-energy thermodynamic
+processes in an isolated system, the total mass of the reactants, or
+starting materials, must be equal to the mass of the products.
+
+\hypertarget{radioactive-decay-of-atoms}{%
+\subsection{\texorpdfstring{{2.7} Radioactive Decay of
+Atoms}{2.7 Radioactive Decay of Atoms}}\label{radioactive-decay-of-atoms}}
+
+Radioactive decay (also known as nuclear decay, radioactivity,
+radioactive disintegration or nuclear disintegration) is the process by
+which an unstable atomic nucleus loses energy by radiation. Every
+element has one or more isotopes that have unstable nuclei that are
+subject to radioactive decay, causing the nucleus to emit particles or
+electromagnetic radiation. Radioactivity can occur when the radius of a
+nucleus is large compared with the radius of the strong force, which
+only acts over distances on the order of 1 fm.
+
+The most common forms of radioactive decay are:
+
+\begin{itemize}
+\tightlist
+\item
+  Alpha decay: this process is caused when the nucleus emits an alpha
+  particle, which is a helium nucleus consisting of two protons and two
+  neutrons. The result of the emission is a new element with a lower
+  atomic number.
+\item
+  Beta decay (and electron capture): these processes are regulated by
+  the weak force, and result from a transformation of a neutron into a
+  proton, or a proton into a neutron. The neutron to proton transition
+  is accompanied by the emission of an electron and an antineutrino,
+  while proton to neutron transition (except in electron capture) causes
+  the emission of a positron and a neutrino. The electron or positron
+  emissions are called beta particles. Beta decay either increases or
+  decreases the atomic number of the nucleus by one. Electron capture is
+  more common than positron emission, because it requires less energy.
+  In this type of decay, an electron is absorbed by the nucleus, rather
+  than a positron emitted from the nucleus. A neutrino is still emitted
+  in this process, and a proton changes to a neutron.
+\item
+  Gamma decay: this process results from a change in the energy level of
+  the nucleus to a lower state, resulting in the emission of
+  electromagnetic radiation. The excited state of a nucleus which
+  results in gamma emission usually occurs following the emission of an
+  alpha or a beta particle. Thus, gamma decay usually follows alpha or
+  beta decay.
+\end{itemize}
+
+Each radioactive isotope has a characteristic decay time period---the
+half-life---that is determined by the amount of time needed for half of
+a sample to decay. This is an exponential decay process that steadily
+decreases the proportion of the remaining isotope by 50\% every
+half-life. Hence after two half-lives have passed only 25\% of the
+isotope is present, and so forth.
+
+Within living things, isotopic labels (both radioactive and
+nonradioactive) can be used to probe how the complex web of reactions
+which makes up the metabolism of an organism converts one substance to
+another. For instance a green plant uses light energy to convert water
+and carbon dioxide into glucose by photosynthesis. When plants performed
+photoshytnesis using water in which the oxygen was the heavy oxygen
+(\textsuperscript{18}O) isotope, this oxygen isotope appeared in the
+oxygen gas formed by the plant and not in the glucose formed in the
+chloroplasts within the plant cells.
+
+Radioactivity was discovered in 1896 by the French scientist
+\href{https://en.wikipedia.org/wiki/Henri_Becquerel}{Henri Becquerel},
+while working with phosphorescent materials. These materials glow in the
+dark after exposure to light, and he suspected that the glow produced in
+cathode ray tubes by X-rays might be associated with phosphorescence. He
+wrapped a photographic plate in black paper and placed various
+phosphorescent salts on it. All results were negative until he used
+uranium salts. The uranium salts caused a blackening of the plate in
+spite of the plate being wrapped in black paper. These radiations were
+given the name ``Becquerel Rays''.
+
+It soon became clear that the blackening of the plate had nothing to do
+with phosphorescence, as the blackening was also produced by
+non-phosphorescent salts of uranium and by metallic uranium. It became
+clear from these experiments that there was a form of invisible
+radiation that could pass through paper and was causing the plate to
+react as if exposed to light.
+
+At first, it seemed as though the new radiation was similar to the then
+recently discovered X-rays. Further research by Becquerel,
+\href{https://en.wikipedia.org/wiki/Ernest_Rutherford}{Ernest
+Rutherford},
+\href{https://en.wikipedia.org/wiki/Paul_Ulrich_Villard}{Paul Villard},
+\href{https://en.wikipedia.org/wiki/Pierre_Curie}{Pierre Curie},
+\href{https://en.wikipedia.org/wiki/Marie_Curie}{Marie Curie}, and
+others showed that this form of radioactivity was significantly more
+complicated. Rutherford was the first to realize that all such elements
+decay in accordance with the same mathematical exponential formula.
+Rutherford and his student Frederick Soddy were the first to realize
+that many decay processes resulted in the transmutation of one element
+to another. Subsequently, the radioactive displacement law of Fajans and
+Soddy was formulated to describe the products of alpha and beta decay.
+
+The early researchers also discovered that many other chemical elements,
+besides uranium, have radioactive isotopes. A systematic search for the
+total radioactivity in uranium ores also guided Pierre and Marie Curie
+to isolate two new elements: polonium and radium. Except for the
+radioactivity of radium, the chemical similarity of radium to barium
+made these two elements difficult to distinguish.
+
+Marie and Pierre Curie's study of radioactivity is an important factor
+in science and medicine. After their research on Becquerel's rays led
+them to the discovery of both radium and polonium, they coined the term
+``radioactivity''. Their research on the penetrating rays in uranium and
+the discovery of radium launched an era of using radium for the
+treatment of cancer. Their exploration of radium could be seen as the
+first peaceful use of nuclear energy and the start of modern nuclear
+medicine.
+
+\hypertarget{ions-and-salts}{%
+\subsection{\texorpdfstring{{2.8} Ions And
+Salts}{2.8 Ions And Salts}}\label{ions-and-salts}}
+
+An ion is a charged species, an atom or a molecule, that has lost or
+gained one or more electrons. When an atom loses an electron and thus
+has more protons than electrons, the atom is a positively charged ion or
+cation. When an atom gains an electron and thus has more electrons than
+protons, the atom is a negatively charged ion or anion. Cations and
+anions can form a crystalline lattice of neutral salts, such as the
+Na\textsuperscript{+} and Cl\textsuperscript{−} ions forming sodium
+chloride, or NaCl. Examples of polyatomic ions that do not split up
+during acid-base reactions are hydroxide (OH\textsuperscript{−}) and
+phosphate (PO\textsubscript{4}\textsuperscript{3−}).
+
+Plasma is composed of gaseous matter that has been completely ionized,
+usually through high temperature.
+
+\hypertarget{acids-and-bases}{%
+\subsection{\texorpdfstring{{2.9} Acids And
+Bases}{2.9 Acids And Bases}}\label{acids-and-bases}}
+
+A substance can often be classified as an acid or a base. There are
+several different theories which explain acid-base behavior. The
+simplest is Arrhenius theory, which states that acid is a substance that
+produces hydronium ions (H\textsubscript{3}O\textsuperscript{+}) when it
+is dissolved in water, and a base is one that produces hydroxide ions
+(OH\textsuperscript{−}) when dissolved in water. According to
+Brønsted--Lowry acid-base theory, acids are substances that donate a
+positive hydrogen ion (H\textsuperscript{+}) to another substance in a
+chemical reaction; by extension, a base is the substance which receives
+that hydrogen ion.
+
+\protect\hypertarget{fig:hydroxoniumion}{}{}
+\includegraphics[width=0.7\textwidth,height=\textheight]{figures/chemistry/Hydroxonium-cation.svg}
+
+Figure 2.11:
+\href{https://commons.wikimedia.org/wiki/File:Hydroxonium-cation.svg}{3D
+diagram showing the pyramidal structure of the hydroxonium ion.}
+
+\protect\hypertarget{fig:hydroxideion}{}{}
+\includegraphics[width=0.7\textwidth,height=\textheight]{figures/chemistry/Hydroxide_lone_pairs-2D.svg}
+
+Figure 2.12:
+\href{https://commons.wikimedia.org/wiki/File:Hydroxide_lone_pairs-2D.svg}{Lewis
+structure of the hydroxide ion showing three lone pairs on the oxygen
+atom}
+
+A third common theory is Lewis acid-base theory, which is based on the
+formation of new chemical bonds. Lewis theory explains that an acid is a
+substance which is capable of accepting a pair of electrons from another
+substance during the process of bond formation, while a base is a
+substance which can provide a pair of electrons to form a new bond.
+According to this theory, the crucial things being exchanged are
+charges.
+
+Acid strength is commonly measured by two methods. One measurement,
+based on the Arrhenius definition of acidity, is pH. The other
+measurement, based on the Brønsted--Lowry definition, is the acid
+dissociation constant (K\textsubscript{a}), which measures the relative
+ability of a substance to act as an acid under the Brønsted--Lowry
+definition of an acid. That is, substances with a higher
+K\textsubscript{a} are more likely to donate hydrogen ions in chemical
+reactions than those with lower K\textsubscript{a} values.
+
+In chemistry, pH (``potential of hydrogen'' or "power of hydrogen) is a
+scale used to specify the acidity or basicity of an aqueous solution.
+Lower pH values correspond to solutions which are more acidic in nature,
+while higher values correspond to solutions which are more basic or
+alkaline. At room temperature (25 °C or 77 °F), pure water is neutral
+(neither acidic nor basic) and has a pH of 7.
+
+The pH scale is logarithmic and inversely indicates the concentration of
+hydrogen ions in the solution (a lower pH indicates a higher
+concentration of hydrogen ions). This is because the formula used to
+calculate pH approximates the negative of the base 10 logarithm of the
+molar concentration of hydrogen ions in the solution. More precisely, pH
+is the negative of the base 10 logarithm of the activity of the hydrogen
+ion:
+
+{\textbackslash{[}pH = - \textbackslash log\_\{10\}
+{[}H\_3O\^{}+{]}\textbackslash{]}}
+
+At 25 °C, solutions with a pH less than 7 are acidic, and solutions with
+a pH greater than 7 are basic. The neutral value of the pH depends on
+the temperature, being lower than 7 if the temperature increases. The pH
+value can be less than 0 for very strong acids, or greater than 14 for
+very strong bases.
+
+\begin{longtable}[]{@{}lcl@{}}
+\caption{ \protect\hypertarget{tab:solutions}{}{Table 2.1: }Average
+values of pH in common solutions }\tabularnewline
+\toprule
+Substance & pH Range & Type\tabularnewline
+\midrule
+\endfirsthead
+\toprule
+Substance & pH Range & Type\tabularnewline
+\midrule
+\endhead
+Battery acid & \textless\,1 & Acid\tabularnewline
+Gastric acid & 1.0 -- 1.5 & Acid\tabularnewline
+Vinegar & 2.5 & Acid\tabularnewline
+Orange juice & 3.3 -- 4.2 & Acid\tabularnewline
+Black coffee & 5 -- 5.03 & Acid\tabularnewline
+Milk & 6.5 -- 6.8 & Acid\tabularnewline
+Pure water & 7 & Neutral\tabularnewline
+Sea water & 7.5 -- 8.4 & Base\tabularnewline
+Ammonia & 11.0 -- 11.5 & Base\tabularnewline
+Bleach & 12.5 & Base\tabularnewline
+Lye & 13.0 -- 13. & Base\tabularnewline
+\bottomrule
+\end{longtable}
+
+The pH of different cellular compartments, body fluids, and organs is
+usually tightly regulated in a process called acid-base homeostasis. The
+most common disorder in acid-base homeostasis is acidosis, which means
+an acid overload in the body, generally defined by pH falling below
+7.35. Alkalosis is the opposite condition, with blood pH being
+excessively high.
+
+The pH of blood is usually slightly basic with a value of pH 7.365. This
+value is often referred to as physiological pH in biology and medicine.
+Plaque can create a local acidic environment that can result in tooth
+decay by demineralization. Enzymes and other proteins have an optimum pH
+range and can become inactivated or denatured outside this range.
+
+\begin{longtable}[]{@{}lc@{}}
+\caption{ \protect\hypertarget{tab:pH}{}{Table 2.2: }Values of pH in
+living systems }\tabularnewline
+\toprule
+Compartment & ph\tabularnewline
+\midrule
+\endfirsthead
+\toprule
+Compartment & ph\tabularnewline
+\midrule
+\endhead
+Gastric acid & 1.5-3.5\tabularnewline
+Lysosomes & 4.5\tabularnewline
+Human skin & 4.7\tabularnewline
+Granules of~chromaffin cells & 5.5\tabularnewline
+Urine & 6\tabularnewline
+Cytosol & 7.2\tabularnewline
+Blood~(natural pH) & 7.34--7.45\tabularnewline
+Cerebrospinal fluid~(CSF) & 7.5\tabularnewline
+Mitochondrial matrix & 7.5\tabularnewline
+Pancreas~secretions & 8.1\tabularnewline
+\bottomrule
+\end{longtable}
+
+Many biologically important molecules are acids. Nucleic acids, which
+contain acidic phosphate groups, include DNA and RNA. Nucleic acids
+contain the genetic code that determines many of an organism's
+characteristics, and is passed from parents to offspring. DNA contains
+the chemical blueprint for the synthesis of proteins which are made up
+of amino acid subunits. Cell membranes contain fatty acid esters such as
+phospholipids.
+
+An α-amino acid has a central carbon (the α or alpha carbon) which is
+covalently bonded to a carboxyl group (thus they are carboxylic acids),
+an amino group, a hydrogen atom and a variable group. The variable
+group, also called the R group or side chain, determines the identity
+and many of the properties of a specific amino acid. In glycine, the
+simplest amino acid, the R group is a hydrogen atom, but in all other
+amino acids it is contains one or more carbon atoms bonded to hydrogens,
+and may contain other elements such as sulfur, oxygen or nitrogen. With
+the exception of glycine, naturally occurring amino acids are chiral and
+almost invariably occur in the L-configuration. Peptidoglycan, found in
+some bacterial cell walls contains some D-amino acids. At physiological
+pH, typically around 7, free amino acids exist in a charged form, where
+the acidic carboxyl group (-COOH) loses a proton
+(-COO\textsuperscript{−}) and the basic amine group
+(-NH\textsubscript{2}) gains a proton
+(-NH\textsuperscript{+}\textsubscript{3}). The entire molecule has a net
+neutral charge and is a zwitterion, with the exception of amino acids
+with basic or acidic side chains. Aspartic acid, for example, possesses
+one protonated amine and two deprotonated carboxyl groups, for a net
+charge of −1 at physiological pH.
+
+Fatty acids and fatty acid derivatives are another group of carboxylic
+acids that play a significant role in biology. These contain long
+hydrocarbon chains and a carboxylic acid group on one end. The cell
+membrane of nearly all organisms is primarily made up of a phospholipid
+bilayer, a micelle of hydrophobic fatty acid esters with polar,
+hydrophilic phosphate ``head'' groups. Membranes contain additional
+components, some of which can participate in acid-base reactions.
+
+In humans and many other animals, hydrochloric acid is a part of the
+gastric acid secreted within the stomach to help hydrolyze proteins and
+polysaccharides, as well as converting the inactive pro-enzyme,
+pepsinogen into the enzyme, pepsin. Some organisms produce acids for
+defense; for example, ants produce formic acid.
+
+Acid-base equilibrium plays a critical role in regulating mammalian
+breathing. Oxygen gas (O\textsubscript{2}) drives cellular respiration,
+the process by which animals release the chemical potential energy
+stored in food, producing carbon dioxide (CO\textsubscript{2}) as a
+byproduct. Oxygen and carbon dioxide are exchanged in the lungs, and the
+body responds to changing energy demands by adjusting the rate of
+ventilation. For example, during periods of exertion the body rapidly
+breaks down stored carbohydrates and fat, releasing CO\textsubscript{2}
+into the blood stream. In aqueous solutions such as blood
+CO\textsubscript{2} exists in equilibrium with carbonic acid and
+bicarbonate ion.
+
+CO\textsubscript{2} + H\textsubscript{2}O ⇌
+H\textsubscript{2}CO\textsubscript{3} ⇌ H\textsuperscript{+} +
+HCO\textsubscript{3}\textsuperscript{−}
+
+It is the decrease in pH that signals the brain to breathe faster and
+deeper, expelling the excess CO\textsubscript{2} and resupplying the
+cells with O\textsubscript{2}.
+
+Cell membranes are generally impermeable to charged or large, polar
+molecules because of the lipophilic fatty acyl chains comprising their
+interior. Many biologically important molecules, including a number of
+pharmaceutical agents, are organic weak acids which can cross the
+membrane in their protonated, uncharged form but not in their charged
+form (i.e.~as the conjugate base). For this reason the activity of many
+drugs can be enhanced or inhibited by the use of antacids or acidic
+foods. The charged form, however, is often more soluble in blood and
+cytosol, both aqueous environments. When the extracellular environment
+is more acidic than the neutral pH within the cell, certain acids will
+exist in their neutral form and will be membrane soluble, allowing them
+to cross the phospholipid bilayer. Acids that lose a proton at the
+intracellular pH will exist in their soluble, charged form and are thus
+able to diffuse through the cytosol to their target. Ibuprofen, aspirin
+and penicillin are examples of drugs that are weak acids.
+
+\hypertarget{redox}{%
+\subsection{\texorpdfstring{{2.10} Redox}{2.10 Redox}}\label{redox}}
+
+Redox (reduction-oxidation) reactions include all chemical reactions in
+which atoms have their oxidation state changed by either gaining
+electrons (reduction) or losing electrons (oxidation). Substances that
+have the ability to oxidize other substances are said to be oxidative
+and are known as oxidizing agents, oxidants or oxidizers. An oxidant
+removes electrons from another substance. Similarly, substances that
+have the ability to reduce other substances are said to be reductive and
+are known as reducing agents, reductants, or reducers. The chemical
+species from which the electron is removed is said to have been
+oxidized, while the chemical species to which the electron is added is
+said to have been reduced. In other words:
+
+\begin{itemize}
+\tightlist
+\item
+  Oxidation is the loss of electrons or an increase in the oxidation
+  state of an atom, an ion, or of certain atoms in a molecule.
+\item
+  Reduction is the gain of electrons or a decrease in the oxidation
+  state of an atom, an ion, or of certain atoms in a molecule.
+\end{itemize}
+
+``Redox'' is a portmanteau of the words ``reduction'' and ``oxidation''.
+The word oxidation originally implied reaction with oxygen to form an
+oxide, since dioxygen (O\textsubscript{2})(g)) was historically the
+first recognized oxidizing agent. Later, the term was expanded to
+encompass oxygen-like substances that accomplished parallel chemical
+reactions. Ultimately, the meaning was generalized to include all
+processes involving loss of electrons.
+
+The word reduction originally referred to the loss in weight upon
+heating a metallic ore such as a metal oxide to extract the metal. In
+other words, ore was ``reduced'' to metal. Antoine Lavoisier showed that
+this loss of weight was due to the loss of oxygen as a gas. Later,
+scientists realized that the metal atom gains electrons in this process.
+The meaning of reduction then became generalized to include all
+processes involving a gain of electrons.
+
+The term ``hydrogenation'' could often be used instead of reduction,
+since hydrogen is the reducing agent in a large number of reactions,
+especially in organic chemistry and biochemistry. But, unlike oxidation,
+which has been generalized beyond its root element, hydrogenation has
+maintained its specific connection to reactions that add hydrogen to
+another substance (e.g., the hydrogenation of unsaturated fats into
+saturated fats, R−CH=CH−R + H\textsubscript{2} →
+R−CH\textsubscript{2}−CH\textsubscript{2} −R). The word ``redox'' was
+first used in 1928.
+
+Many reactions in organic chemistry are redox reactions due to changes
+in oxidation states but without distinct electron transfer. For example,
+during the combustion of wood with molecular oxygen, the oxidation state
+of carbon atoms in the wood increases and that of oxygen atoms decreases
+as carbon dioxide and water are formed. The oxygen atoms undergo
+reduction, formally gaining electrons, while the carbon atoms undergo
+oxidation, losing electrons. Thus oxygen is the oxidizing agent and
+carbon is the reducing agent in this reaction.
+
+Although oxidation reactions are commonly associated with the formation
+of oxides from oxygen molecules, oxygen is not necessarily included in
+such reactions, as other chemical species can serve the same function.
+
+Redox reactions can occur relatively slowly, as in the formation of
+rust, or much more rapidly, as in the case of burning fuel. There are
+simple redox processes, such as the oxidation of carbon to yield carbon
+dioxide (CO\textsubscript{2}) or the reduction of carbon by hydrogen to
+yield methane (CH\textsubscript{4}), and more complex processes such as
+the oxidation of glucose
+(C\textsubscript{6}H\textsubscript{12}O\textsubscript{6}) in the human
+body. Analysis of bond energies and ionization energies in water allow
+calculation of the redox potentials.
+
+A reductant transfers electrons to another substance and is thus
+oxidized itself. And because it ``donates'' electrons it is also called
+an electron donor. Oxidation and reduction properly refer to a change in
+oxidation number---the actual transfer of electrons may never occur.
+Thus, oxidation is better defined as an increase in oxidation number,
+and reduction as a decrease in oxidation number.
+
+Many important biological processes involve redox reactions.
+
+Cellular respiration, for instance, is the oxidation of glucose
+(C\textsubscript{6}H\textsubscript{12}O\textsubscript{6}) to
+CO\textsubscript{2} and the reduction of oxygen to water. The summary
+equation for cell respiration is:
+
+C\textsubscript{6}H\textsubscript{12}O\textsubscript{6} + 6
+O\textsubscript{2} → 6 CO\textsubscript{2} + 6 H\textsubscript{2}0 The
+process of cell respiration also depends heavily on the reduction of
+NAD\textsuperscript{+} to NADH and the reverse reaction (the oxidation
+of NADH to NAD\textsuperscript{+}). Photosynthesis and cellular
+respiration are complementary, but photosynthesis is not the reverse of
+the redox reaction in cell respiration:
+
+6 CO\textsubscript{2} + 6 H\textsubscript{2}O + light energy →
+C\textsubscript{6}H\textsubscript{12}O\textsubscript{6} + 6
+O\textsubscript{2}
+
+Biological energy is frequently stored and released by means of redox
+reactions. Photosynthesis involves the reduction of carbon dioxide into
+sugars and the oxidation of water into molecular oxygen. The reverse
+reaction, respiration, oxidizes sugars to produce carbon dioxide and
+water. As intermediate steps, the reduced carbon compounds are used to
+reduce nicotinamide adenine dinucleotide (NAD\textsuperscript{+}) to
+NADH, which then contributes to the creation of a proton gradient, which
+drives the synthesis of adenosine triphosphate (ATP) and is maintained
+by the reduction of oxygen. In animal cells, mitochondria perform
+similar functions. See the Membrane potential article.
+
+Free radical reactions are redox reactions that occur as a part of
+homeostasis and killing microorganisms, where an electron detaches from
+a molecule and then reattaches almost instantaneously. Free radicals are
+a part of redox molecules and can become harmful to the human body if
+they do not reattach to the redox molecule or an antioxidant.
+Unsatisfied free radicals can spur the mutation of cells they encounter
+and are, thus, causes of cancer.
+
+The term redox state is often used to describe the balance of GSH/GSSG,
+NAD\textsuperscript{+}/NADH and NADP\textsuperscript{+}/NADPH in a
+biological system such as a cell or organ. The redox state is reflected
+in the balance of several sets of metabolites (e.g., lactate and
+pyruvate, beta-hydroxybutyrate, and acetoacetate), whose interconversion
+is dependent on these ratios. An abnormal redox state can develop in a
+variety of deleterious situations, such as hypoxia, shock, and sepsis.
+Redox mechanism also control some cellular processes. Redox proteins and
+their genes must be co-located for redox regulation according to the
+CoRR hypothesis for the function of DNA in mitochondria and
+chloroplasts.
+
+\hypertarget{water}{%
+\subsection{\texorpdfstring{{2.11} Water}{2.11 Water}}\label{water}}
+
+Water is an inorganic, transparent, tasteless, odorless, and nearly
+colorless chemical substance, which is the main constituent of Earth's
+hydrosphere and the fluids of all known living organisms. It is vital
+for all known forms of life, even though it provides no calories or
+organic nutrients. Its chemical formula is H\textsubscript{2}O, meaning
+that each of its molecules contains one oxygen and two hydrogen atoms,
+connected by covalent bonds.
+
+From a biological standpoint, water has many distinct properties that
+are critical for the proliferation of life. It carries out this role by
+allowing organic compounds to react in ways that ultimately allow
+replication. All known forms of life depend on water. Water is vital
+both as a solvent in which many of the body's solutes dissolve and as an
+essential part of many metabolic processes within the body. Metabolism
+is the sum total of anabolism and catabolism. In anabolism, water is
+removed from molecules (through energy requiring enzymatic chemical
+reactions) in order to grow larger molecules (e.g., starches,
+triglycerides and proteins for storage of fuels and information). In
+catabolism, water is used to break bonds in order to generate smaller
+molecules (e.g., glucose, fatty acids and amino acids to be used for
+fuels for energy use or other purposes). Without water, these particular
+metabolic processes could not exist.
+
+Water is fundamental to photosynthesis and respiration. Photosynthetic
+cells use the sun's energy to split off water's hydrogen from oxygen.
+Hydrogen is combined with CO\textsubscript{2} (absorbed from air or
+water) to form glucose and release oxygen. All living cells use such
+fuels and oxidize the hydrogen and carbon to capture the sun's energy
+and reform water and CO\textsubscript{2} in the process (cellular
+respiration).
+
+Water is also central to acid-base neutrality and enzyme function. An
+acid, a hydrogen ion (H\textsuperscript{+}, that is, a proton) donor,
+can be neutralized by a base, a proton acceptor such as a hydroxide ion
+(OH\textsuperscript{−}) to form water. Water is considered to be
+neutral, with a pH of 7. Acids have pH values less than 7 while bases
+have values greater than 7.
+
+Earth surface waters are filled with life. The earliest life forms
+appeared in water; nearly all fish live exclusively in water, and there
+are many types of marine mammals, such as dolphins and whales. Some
+kinds of animals, such as amphibians, spend portions of their lives in
+water and portions on land. Plants such as kelp and algae grow in the
+water and are the basis for some underwater ecosystems. Plankton is
+generally the foundation of the ocean food chain.
+
+Aquatic vertebrates must obtain oxygen to survive, and they do so in
+various ways. Fish have gills instead of lungs, although some species of
+fish, such as the lungfish, have both. Marine mammals, such as dolphins,
+whales, and seals need to surface periodically to breathe air. Some
+amphibians are able to absorb oxygen through their skin. Invertebrates
+exhibit a wide range of modifications to survive in poorly oxygenated
+waters including breathing tubes (see insect and mollusc siphons) and
+gills (Carcinus). However as invertebrate life evolved in an aquatic
+habitat most have little or no specialization for respiration in water.
+
+``Water'' is the name of the liquid state of H\textsubscript{2}O at
+standard ambient temperature and pressure. It forms precipitation in the
+form of rain and aerosols in the form of fog. Clouds are formed from
+suspended droplets of water and ice, its solid state. When finely
+divided, crystalline ice may precipitate in the form of snow. The
+gaseous state of water is steam or water vapor. Water moves continually
+through the water cycle of evaporation, transpiration
+(evapotranspiration), condensation, precipitation, and runoff, usually
+reaching the sea.
+
+Water covers 71\% of the Earth's surface, mostly in seas and oceans.
+Small portions of water occur as groundwater (1.7\%), in the glaciers
+and the ice caps of Antarctica and Greenland (1.7\%), and in the air as
+vapor, clouds (formed of ice and liquid water suspended in air), and
+precipitation (0.001\%).
+
+Water plays an important role in the world economy. Approximately 70\%
+of the freshwater used by humans goes to agriculture. Fishing in salt
+and fresh water bodies is a major source of food for many parts of the
+world. Much of the long-distance trade of commodities (such as oil,
+natural gas, and manufactured products) is transported by boats through
+seas, rivers, lakes, and canals. Large quantities of water, ice, and
+steam are used for cooling and heating, in industry and homes. Water is
+an excellent solvent for a wide variety of substances both mineral and
+organic; as such it is widely used in industrial processes, and in
+cooking and washing.
+
+Water (H\textsubscript{2}O) is a polar inorganic compound that is at
+room temperature a tasteless and odorless liquid, nearly colorless with
+a hint of blue. This simplest hydrogen chalcogenide is by far the most
+studied chemical compound and is described as the ``universal solvent''
+for its ability to dissolve many substances. This allows it to be the
+``solvent of life'': indeed, water as found in nature almost always
+includes various dissolved substances, and special steps are required to
+obtain chemically pure water. Water is the only common substance to
+exist as a solid, liquid, and gas in normal terrestrial conditions.
+
+Water is one of the two official names for the chemical compound
+H\textsubscript{2}O; it is also the liquid phase of H\textsubscript{2}O.
+The other two common states of matter of water are the solid phase, ice,
+and the gaseous phase, water vapor or steam. The addition or removal of
+heat can cause phase transitions: freezing (water to ice), melting (ice
+to water), vaporization (water to vapor), condensation (vapor to water),
+sublimation (ice to vapor) and deposition (vapor to ice).
+
+Water differs from most liquids in that it becomes less dense as it
+freezes. In 1 atm pressure, it reaches its maximum density of 1,000
+kg/m\textsuperscript{3} (62.43 lb/cu ft) at 3.98 °C (39.16 °F). The
+density of ice is 917 kg/m\textsuperscript{3} (57.25 lb/cu ft), an
+expansion of 9\%. This expansion can exert enormous pressure, bursting
+pipes and cracking rocks.
+
+In a lake or ocean, water at 4 °C sinks to the bottom and ice forms on
+the surface, floating on the liquid water. This ice insulates the water
+below, preventing it from freezing solid. Without this protection, most
+aquatic organisms would perish during the winter.
+
+At a pressure of one atmosphere (atm), ice melts or water freezes at 0
+°C (32 °F) and water boils or vapor condenses at 100 °C (212 °F).
+
+In a water molecule, the hydrogen atoms form a 104.5° angle with the
+oxygen atom. The hydrogen atoms are close to two corners of a
+tetrahedron centered on the oxygen. At the other two corners are lone
+pairs of valence electrons that do not participate in the bonding. In a
+perfect tetrahedron, the atoms would form a 109.5° angle, but the
+repulsion between the lone pairs is greater than the repulsion between
+the hydrogen atoms.
+
+Other substances have a tetrahedral molecular structure, for example,
+methane (CH\textsubscript{4}) and hydrogen sulfide
+(H\textsubscript{2}S). However, oxygen is more electronegative (holds on
+to its electrons more tightly) than most other elements, so the oxygen
+atom retains a negative charge while the hydrogen atoms are positively
+charged. Along with the bent structure, this gives the molecule an
+electrical dipole moment and it is classified as a polar molecule.
+
+Water is a good polar solvent, that dissolves many salts and hydrophilic
+organic molecules such as sugars and simple alcohols such as ethanol.
+Water also dissolves many gases, such as oxygen and carbon dioxide---the
+latter giving the fizz of carbonated beverages, sparkling wines and
+beers. In addition, many substances in living organisms, such as
+proteins, DNA and polysaccharides, are dissolved in water. The
+interactions between water and the subunits of these biomacromolecules
+shape protein folding, DNA base pairing, and other phenomena crucial to
+life (hydrophobic effect).
+
+Many organic substances (such as fats and oils and alkanes) are
+hydrophobic, that is, insoluble in water. Many inorganic substances are
+insoluble too, including most metal oxides, sulfides, and silicates.
+
+Because of its polarity, a molecule of water in the liquid or solid
+state can form up to four hydrogen bonds with neighboring molecules.
+Hydrogen bonds are about ten times as strong as the Van der Waals force
+that attracts molecules to each other in most liquids. This is the
+reason why the melting and boiling points of water are much higher than
+those of other analogous compounds like hydrogen sulfide. They also
+explain its exceptionally high specific heat capacity (about 4.2 J/g/K),
+heat of fusion (about 333 J/g), heat of vaporization (2257 J/g), and
+thermal conductivity (between 0.561 and 0.679 W/m/K). These properties
+make water more effective at moderating Earth's climate, by storing heat
+and transporting it between the oceans and the atmosphere. The hydrogen
+bonds of water are around 23 kJ/mol (compared to a covalent O-H bond at
+492 kJ/mol). Of this, it is estimated that 90\% is attributable to
+electrostatics, while the remaining 10\% is partially covalent.
+
+\protect\hypertarget{fig:waterbonds}{}{}
+\includegraphics[width=0.7\textwidth,height=\textheight]{figures/chemistry/3D_model_hydrogen_bonds_in_water.svg}
+
+Figure 2.13:
+\href{https://commons.wikimedia.org/wiki/File:3D_model_hydrogen_bonds_in_water.svg}{Model
+of hydrogen bonds (1) between molecules of water.}
+
+These bonds are the cause of water's high surface tension and capillary
+forces. The capillary action refers to the tendency of water to move up
+a narrow tube against the force of gravity. This property is relied upon
+by all vascular plants, such as trees.
+
+Water is a weak solution of hydronium hydroxide - there is an
+equilibrium 2H\textsubscript{2}O ⇆
+H\textsubscript{3}O\textsuperscript{+} + OH\textsuperscript{-} to form
+water. Water is considered to be neutral, with a pH of 7. Acids have pH
+values less than 7 while bases have values greater than 7.
+
+Pure water has a low electrical conductivity, which increases with the
+dissolution of a small amount of ionic material such as common salt.
+
+Liquid water can be split into the elements hydrogen and oxygen by
+passing an electric current through it---a process called electrolysis.
+The decomposition requires more energy input than the heat released by
+the inverse process (285.8 kJ/mol, or 15.9 MJ/kg).
+
+\href{biology-the-science-of-life.html}{\emph{}}
+\href{basic-organic-chemistry-for-biology.html}{\emph{}}
+
+\end{document}
