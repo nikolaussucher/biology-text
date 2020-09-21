@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  20 SEP 2020 21:41
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  20 SEP 2020 22:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -789,8 +789,11 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \rot@mess@toks=\toks36
 ))
 (./main.aux (./acknowledgements.aux) (./biology.aux) (./basic_chemistry.aux)
-(./organic_chemistry.aux) (./cell_structure.aux) (./membrane_structure.aux)
-(./bioenergetics.aux) (./photosynthesis_respiration.aux) (./cell_cycle.aux)
+(./organic_chemistry.aux) (./cell_structure.aux) (./membrane_structure.aux
+
+LaTeX Warning: Label `fig:cellmembrane' multiply defined.
+
+) (./bioenergetics.aux) (./photosynthesis_respiration.aux) (./cell_cycle.aux)
 (./reproduction.aux) (./mendelian_inheritance.aux) (./molecular_biology.aux
 
 LaTeX Warning: Label `tab:heteroploidy' multiply defined.
@@ -1046,38 +1049,37 @@ LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-[9] [10] [11] [12]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
-Underfull \hbox (badness 2573) in paragraph at lines 134--134
+ [9]
+Missing character: There is no ◄ in font Lucida Grande/AAT:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+[11] [12] [13]
+Underfull \vbox (badness 1137) has occurred while \output is active []
+
+ [14]
+[15]
+Underfull \hbox (badness 2573) in paragraph at lines 157--157
  [][] [][]\TU/LucidaGrande(0)/m/n/10 Dictyostelium Fruiting Body[] Dictyosteliu
 m is a genus of single- and multi-celled eukaryotic, 
  []
 
-[14]
-Underfull \vbox (badness 4391) has occurred while \output is active []
 
- [15]
-Underfull \vbox (badness 4454) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
-[17]
-Underfull \vbox (badness 3977) has occurred while \output is active []
-
- [18]
-[19]
+[17] [18]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20]
+ [19]
+[20] [21] [22]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22]
-[23]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [23]
+Underfull \vbox (badness 2980) has occurred while \output is active []
 
  [24]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1089,15 +1091,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
-[28] [29])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+Underfull \vbox (badness 1817) has occurred while \output is active []
+
+ [29]
+[30])
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- (./main.lot [30])
+ [31] (./main.lot [32])
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [31]
+ [33]
 \openout2 = `acknowledgements.aux'.
 
  (./acknowledgements.tex
@@ -1105,7 +1113,7 @@ LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/m/n' will be
 (Font)              scaled to size 11.7479pt on input line 2.
 LaTeX Font Info:    Font shape `TU/LucidaGrande(0)/b/n' will be
 (Font)              scaled to size 11.61957pt on input line 2.
-) [32
+) [34
 
 ]
 \openout2 = `biology.aux'.
@@ -2706,10 +2714,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 353--353
 [][][][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [
 ] [][][] [] [][][][][][][][] [] [][][][] [] [][] [] [][][][][][][][][] []
  []
-
-
-LaTeX Warning: Reference `fig:leeuvenhookcells' on page 71 undefined on input l
-ine 356.
 
 File: ./figures/cells/Leeuwenhoek1719RedBloodCells.jpg Graphic file (type bmp)
 <./figures/cells/Leeuwenhoek1719RedBloodCells.jpg>
@@ -14353,12 +14357,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 27399 strings out of 479418
- 633955 string characters out of 5884586
- 1039450 words of memory out of 5000000
- 43870 multiletter control sequences out of 15000+600000
+ 27400 strings out of 479418
+ 633972 string characters out of 5884586
+ 1048641 words of memory out of 5000000
+ 43871 multiletter control sequences out of 15000+600000
  568351 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,19n,121p,5055b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (588 pages).
+Output written on main.pdf (590 pages).
