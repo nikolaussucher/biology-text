@@ -12,7 +12,7 @@ A chemical reaction is a transformation of some substances into one or more diff
 
 ## Matter
 
-In classical physics and general chemistry, matter is any substance that has mass and takes up space by having volume. Matter should not be confused with mass, as the two are not the same in modern physics. Matter is a general term describing any 'physical substance'. By contrast, mass is not a substance but rather a quantitative property of matter and other substances or systems. All everyday objects that can be touched are ultimately composed of atoms, which are made up of interacting subatomic particles, and in everyday as well as scientific usage, "matter" generally includes atoms and anything made up of them, and any particles (or combination of particles) that act as if they have both rest mass and volume. However it does not include massless particles such as photons, or other energy phenomena or waves such as light or sound. Matter exists in various states (also known as phases). These include classical everyday phases such as solid, liquid, and gas – for example water exists as ice, liquid water, and gaseous steam – but other states are possible, including plasma, Bose–Einstein condensates, fermionic condensates, and quark–gluon plasma.
+In classical physics and general chemistry, matter (from Latin materia meaning “matter, stuff, material”, a derivative of Latin mater meaning “mother”) is any substance that has mass and takes up space by having volume. Matter should not be confused with mass, as the two are not the same in modern physics. Matter is a general term describing any 'physical substance'. By contrast, mass is not a substance but rather a quantitative property of matter and other substances or systems. All everyday objects that can be touched are ultimately composed of atoms, which are made up of interacting subatomic particles, and in everyday as well as scientific usage, "matter" generally includes atoms and anything made up of them, and any particles (or combination of particles) that act as if they have both rest mass and volume. However it does not include massless particles such as photons, or other energy phenomena or waves such as light or sound. Matter exists in various states (also known as phases). These include classical everyday phases such as solid, liquid, and gas – for example water exists as ice, liquid water, and gaseous steam – but other states are possible, including plasma, Bose–Einstein condensates, fermionic condensates, and quark–gluon plasma.
 
 Usually atoms can be imagined as a nucleus of protons and neutrons, and a surrounding "cloud" of orbiting electrons which "take up space". However this is only somewhat correct, because subatomic particles and their properties are governed by their quantum nature, which means they do not act as everyday objects appear to act – they can act like waves as well as particles and they do not have well-defined sizes or positions. In the Standard Model of particle physics, matter is not a fundamental concept because the elementary constituents of atoms are quantum entities which do not have an inherent "size" or "volume" in any everyday sense of the word. Due to the exclusion principle and other fundamental interactions, some "point particles" known as fermions (quarks, leptons), and many composites and atoms, are effectively forced to keep a distance from other particles under everyday conditions; this creates the property of matter which appears to us as matter taking up space.
 
@@ -275,6 +275,44 @@ Marie and Pierre Curie's study of radioactivity is an important factor in scienc
 An ion is a charged species, an atom or a molecule, that has lost or gained one or more electrons. When an atom loses an electron and thus has more protons than electrons, the atom is a positively charged ion or cation. When an atom gains an electron and thus has more electrons than protons, the atom is a negatively charged ion or anion. Cations and anions can form a crystalline lattice of neutral salts, such as the Na^+^ and Cl^−^ ions forming sodium chloride, or NaCl. Examples of polyatomic ions that do not split up during acid-base reactions are hydroxide (OH^−^) and phosphate (PO~4~^3−^).
 
 Plasma is composed of gaseous matter that has been completely ionized, usually through high temperature.
+
+## Solutions
+
+In chemistry, a solution is a special type of homogenous mixture composed of two or more substances. In such a mixture, a solute is a substance dissolved in another substance, known as a solvent. Homogeneous means that the components of the mixture form a single phase (i.e. liquid, gas or solid). Heterogeneous means that the components of the mixture are of different phase. Usually, the substance present in the greatest amount is considered the solvent. Solvents can be gases, liquids or solids. One or more components present in the solution other than the solvent are called solutes. The solution has the same physical state as the solvent. One important parameter of a solution is the concentration, which is a measure of the amount of solute in a given amount of solution or solvent. The term "aqueous solution" is used when one of the solvents is water. If the solvent is a gas, only gases (non-condensable) or vapors (condensable) are dissolved under a given set of conditions. An example of a gaseous solution is air (oxygen and and carbon dioxide dissolved in nitrogen). 
+
+If the solvent is a liquid, then almost all gases, liquids, and solids can be dissolved. Here are some examples:
+
+* Gas in liquid:
+  * Oxygen in water
+  * Carbon dioxide in water – a less simple example, because the solution is accompanied by a chemical reaction (formation of ions). The visible bubbles in carbonated water are not the dissolved gas, but only an effervescence of carbon dioxide that has come out of solution; the dissolved gas itself is not visible since it is dissolved on a molecular level.
+* Liquid in liquid:
+  * The mixing of two or more substances of the same chemistry but different concentrations to form a constant. (Homogenization of solutions)
+  * Alcoholic beverages are basically solutions of ethanol in water.
+* Solid in liquid:
+  *Sucrose (table sugar) in water
+  * Sodium chloride (NaCl) (table salt) or any other salt in water, which forms an electrolyte: When dissolving, salt dissociates into ions.
+* Solutions in water are especially common, and are called aqueous solutions.
+* Non-aqueous solutions are when the liquid solvent involved is not water.
+
+Counter examples are provided by liquid mixtures that are not homogeneous: colloids, suspensions, emulsions are not considered solutions.
+
+Body fluids are examples for complex liquid solutions, containing many solutes. Many of these are electrolytes, since they contain solute ions, such as potassium. Furthermore, they contain solute molecules like sugar and urea. Oxygen and carbon dioxide are also essential components of blood chemistry, where significant changes in their concentrations may be a sign of severe illness or injury.
+
+If the solvent is a solid, then gases, liquids and solids can be dissolved.
+
+The ability of one compound to dissolve in another compound is called solubility. When a liquid can completely dissolve in another liquid the two liquids are miscible (for example alcohol and water). Two substances that can never mix to form a solution are said to be immiscible (for example oil and water).
+
+Usually, the greater the temperature of the solvent, the more of a given solid solute it can dissolve. However, most gases and some compounds exhibit solubilities that decrease with increased temperature. The solubility of liquids in liquids is generally less temperature-sensitive than that of solids or gases.
+
+The physical properties of compounds such as melting point and boiling point change when other compounds are added. Together they are called colligative properties. There are several ways to quantify the amount of one compound dissolved in the other compounds collectively called concentration. Examples include molarity, volume fraction, and mole fraction.
+
+Molarity (also called molar concentration, amount concentration or substance concentration) is a measure of the concentration of a chemical species, in particular of a solute in a solution, in terms of amount of substance per unit volume of solution. In chemistry, the most commonly used unit for molarity is the number of moles per litre, having the unit symbol mol/L or mol⋅dm^−3^ (cubic decimeter) in SI unit. A solution with a concentration of 1 mol/L is said to be 1 molar, commonly designated as 1 M.
+
+Volume percent is the concentration of a certain solute, measured by volume, in a solution. It has as a denominator the volume of the mixture itself, as usual for expressions of concentration, rather than the total of all the individual component's volumes prior to mixing:
+
+$$ volume percent=\frac{volume of solute}{volume of solution} \times 100 $$
+
+Volume percent is usually used when the solution is made by mixing two fluids, such as liquids or gases. For example, the volume concentration of alcohol in beer is usually 5%, i.e. every 100 ml of beer contains 5 ml of alcohol.
 
 ## Acids And Bases
 
