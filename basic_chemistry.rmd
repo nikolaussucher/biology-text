@@ -310,7 +310,7 @@ Molarity (also called molar concentration, amount concentration or substance con
 
 Volume percent is the concentration of a certain solute, measured by volume, in a solution. It has as a denominator the volume of the mixture itself, as usual for expressions of concentration, rather than the total of all the individual component's volumes prior to mixing:
 
-$$ volume percent=\frac{volume of solute}{volume of solution} \times 100 $$
+$$ volume \space percent=\frac{volume \space of \space solute}{volume \space of \space solution} \times 100 $$
 
 Volume percent is usually used when the solution is made by mixing two fluids, such as liquids or gases. For example, the volume concentration of alcohol in beer is usually 5%, i.e. every 100 ml of beer contains 5 ml of alcohol.
 
