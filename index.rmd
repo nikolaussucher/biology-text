@@ -5,7 +5,7 @@ author: ["Assembled by Nikolaus Sucher"]
 description: "This is a free online Text for Biology"
 github-repo: nikolaussuchert/biology-text
 twitter-handle: NikolausSucher
-cover-image: biology_text_cover.jpg
+cover-image: biology_text_butter_cover.jpg
 site: bookdown::bookdown_site
 documentclass: book
 lof: yes

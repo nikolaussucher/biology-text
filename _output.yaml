@@ -10,10 +10,7 @@ bookdown::gitbook:
       link:               https://github.com/nikolaussucher/biology-text/edit/master/%s
       text:               "Edit"
     sharing:              no
-#    download:             ["pdf", "epub"]
     download:             ["pdf"]
-#bookdown::html_chapters:
-#  css:                    [css/style.css, css/toc.css]
  
 bookdown::pdf_book:
   includes:
